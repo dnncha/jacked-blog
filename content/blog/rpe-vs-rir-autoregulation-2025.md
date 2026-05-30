@@ -1,5 +1,7 @@
 ---
 title: "RPE vs RIR vs Percentage-Based Training: The 2025 Science of Auto-Regulation"
+date: "2025-01-01"
+category: "Training"
 excerpt: "A 2025 network meta-analysis reveals which auto-regulation method actually builds the most strength—and why traditional percentage-based training might be holding you back."
 ---
 
@@ -27,6 +29,8 @@ With RPE, you rate how hard a set felt on a 1-10 scale. An RPE 8 means you had 2
 ### Repetitions in Reserve (RIR)
 
 RIR is closely related to RPE—it simply inverts the scale. RIR 0 = training to failure, RIR 2 = you could've done 2 more reps. Many lifters find this more intuitive than RPE.
+
+For practical set logging, use the [RIR calculator](/tools/rir-calculator) to translate reps in reserve into a clearer training signal.
 
 ### Velocity-Based Training (VBRT)
 

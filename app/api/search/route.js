@@ -3,14 +3,22 @@ import path from 'path'
 import matter from 'gray-matter'
 
 const postsDir = path.join(process.cwd(), 'content', 'blog')
+let cachedPosts = null
 
-export async function GET() {
+function dateValue(value) {
+  return value && !Number.isNaN(new Date(value).getTime()) ? new Date(value).getTime() : 0
+}
+
+function getSearchPosts() {
+  if (cachedPosts) return cachedPosts
+
   if (!fs.existsSync(postsDir)) {
-    return Response.json([])
+    cachedPosts = []
+    return cachedPosts
   }
   
   const files = fs.readdirSync(postsDir)
-  const posts = files
+  cachedPosts = files
     .filter(file => file.endsWith('.md'))
     .map(file => {
       const fullPath = path.join(postsDir, file)
@@ -33,10 +41,18 @@ export async function GET() {
         excerpt: data.excerpt || '',
         date: data.date || '',
         content: plainContent,
-        category: data.category || ''
+        category: data.category || 'General'
       }
     })
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-  
-  return Response.json(posts)
+    .sort((a, b) => dateValue(b.date) - dateValue(a.date) || a.title.localeCompare(b.title))
+
+  return cachedPosts
+}
+
+export async function GET() {
+  return Response.json(getSearchPosts(), {
+    headers: {
+      'Cache-Control': 's-maxage=3600, stale-while-revalidate',
+    },
+  })
 }

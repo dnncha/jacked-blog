@@ -10,6 +10,8 @@ But three months later, you look the same. Your weights haven't changed. Your me
 
 The problem isn't you. It's your workout app.
 
+If you are comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app), this is the core question: does the replacement only store workouts, or does it make progressive overload easier to execute?
+
 ## The Progressive Overload Problem
 
 Progressive overload is the foundation of muscle growth. You need to do more over time — more weight, more reps, or more sets. Without this increasing stimulus, your muscles have no reason to grow.

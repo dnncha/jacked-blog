@@ -1,75 +1,82 @@
 export const metadata = {
-  title: 'About | Jacked',
-  description: 'The science behind muscle building, progression, and optimal training.',
+  title: 'About',
+  description: 'Jacked is an iPhone hypertrophy workout tracker built around fast set logging, progressive overload, Hevy import, and useful progress review.',
+  alternates: {
+    canonical: 'https://jacked.coach/about',
+  },
+  openGraph: {
+    title: 'About Jacked',
+    description: 'Jacked is an iPhone hypertrophy workout tracker built around fast set logging, progressive overload, Hevy import, and useful progress review.',
+    url: 'https://jacked.coach/about',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Jacked - iPhone hypertrophy workout tracker',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'About Jacked',
+    description: 'Jacked is an iPhone hypertrophy workout tracker built around fast set logging, progressive overload, Hevy import, and useful progress review.',
+    images: ['/og-image.png'],
+  },
 }
+
+const appStoreUrl = 'https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_coach&utm_medium=about_page&utm_campaign=ios_install'
 
 export default function About() {
   return (
-    <div style={{ maxWidth: '720px', margin: '0 auto', padding: '2rem 1rem' }}>
-      <h1 style={{ fontSize: '2.5rem', fontWeight: '700', marginBottom: '1rem' }}>
-        About Jacked
-      </h1>
-      
-      <p style={{ fontSize: '1.15rem', lineHeight: '1.7', color: '#555', marginBottom: '2rem' }}>
-        Jacked is an evidence-based fitness platform helping you build muscle, get stronger, and optimize your training through science — not hype.
-      </p>
-      
-      <h2 style={{ fontSize: '1.5rem', marginTop: '2rem' }}>Our Mission</h2>
-      <p style={{ lineHeight: '1.7', color: '#555' }}>
-        The fitness industry is full of misinformation, expensive supplements, and fad diets that don't work. 
-        We're here to cut through the noise and give you evidence-based insights you can actually trust.
-      </p>
-      
-      <h2 style={{ fontSize: '1.5rem', marginTop: '2rem' }}>What We Cover</h2>
-      <ul style={{ lineHeight: '1.9', color: '#555', paddingLeft: '1.5rem' }}>
-        <li>Muscle building science and hypertrophy research</li>
-        <li>Training methodology and periodization</li>
-        <li>Nutrition and supplement evidence reviews</li>
-        <li>Recovery and sleep optimization</li>
-        <li>Training tools and technology</li>
-      </ul>
-      
-      <h2 style={{ fontSize: '1.5rem', marginTop: '2rem' }}>The App</h2>
-      <p style={{ lineHeight: '1.7', color: '#555' }}>
-        Our iOS app uses autoprogression — automatically adjusting your training load based on your actual performance. 
-        No more guessing, no more plateaus.
-      </p>
-      
-      <div style={{ 
-        marginTop: '3rem', 
-        padding: '2rem', 
-        background: 'linear-gradient(135deg, #FFD700 0%, #FFA500 100%)', 
-        borderRadius: '12px',
-        textAlign: 'center',
-        boxShadow: '0 10px 40px rgba(255,107,53,0.3)'
-      }}>
-        <h3 style={{ marginTop: 0, color: '#fff', fontSize: '1.5Ready to get jrem' }}>acked?</h3>
-        <p style={{ marginBottom: '1.5rem', color: 'rgba(255,255,255,0.95)' }}>
-          Join thousands of lifters using adaptive progression to break plateaus.
+    <div style={{ background: '#050505', color: '#f5f1e8', minHeight: '100vh' }}>
+      <section style={{ width: 'min(920px, calc(100% - 32px))', margin: '0 auto', padding: '72px 0' }}>
+        <h1 style={{ fontSize: 'clamp(3rem, 8vw, 5.6rem)', lineHeight: 0.92, fontWeight: 950, margin: '0 0 22px', letterSpacing: 0 }}>
+          Jacked is built for the actual workout.
+        </h1>
+
+        <p style={{ fontSize: '1.18rem', lineHeight: 1.75, color: '#bcb6a8', margin: '0 0 34px', maxWidth: '760px' }}>
+          The app is an iPhone hypertrophy tracker for lifters who care about session execution: what to train today, what load to try next, how long to rest, what was imported from old history, and whether training is moving in the right direction.
         </p>
-        <a 
-          href="https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_coach&utm_medium=about_page&utm_campaign=ios_install"
-          style={{
-            display: 'inline-block',
-            padding: '1rem 2rem',
-            background: '#fff',
-            color: '#FFA500',
-            borderRadius: '8px',
-            textDecoration: 'none',
-            fontWeight: '700',
-            fontSize: '1.1rem'
-          }}
-        >
-          Start Free Trial — $3.99/mo
-        </a>
-        <p style={{ marginTop: '0.75rem', marginBottom: 0, color: 'rgba(255,255,255,0.85)', fontSize: '0.85rem' }}>
-          Free 7-day trial via App Store • Cancel anytime
-        </p>
-      </div>
-      
-      <footer style={{ marginTop: '4rem', paddingTop: '2rem', borderTop: '1px solid #eee', textAlign: 'center', color: '#888', fontSize: '0.85rem' }}>
-        <p>© 2026 Jacked.coach — Science-based fitness insights</p>
-      </footer>
+
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '14px', margin: '30px 0 44px' }}>
+          {[
+            ['Now Training', 'Today and Train center the active session, focused exercise, rest timer, and next planned sets.'],
+            ['Progressive overload', 'Set targets and RIR-aware suggestions translate recent performance into a clear next attempt.'],
+            ['Progress evidence', 'PRs, weekly muscle sets, measurements, body weight, and proof photos live together under Progress.'],
+            ['Migration friendly', 'Hevy import preserves routines, workouts, measurements, exercise notes, and technique-set context.'],
+          ].map(([title, copy]) => (
+            <div key={title} style={{ padding: '22px', borderRadius: '14px', border: '1px solid rgba(245,241,232,0.1)', background: '#10100f' }}>
+              <h2 style={{ fontSize: '1.1rem', margin: '0 0 8px', color: '#fffaf0' }}>{title}</h2>
+              <p style={{ margin: 0, color: '#a9a294', lineHeight: 1.6 }}>{copy}</p>
+            </div>
+          ))}
+        </div>
+
+        <section style={{ padding: '34px', background: '#f5f1e8', color: '#111', borderRadius: '18px' }}>
+          <h2 style={{ margin: '0 0 12px', fontSize: '2rem', lineHeight: 1.1 }}>The site supports the app.</h2>
+          <p style={{ margin: '0 0 22px', color: '#4b473f', lineHeight: 1.7 }}>
+            Jacked.coach is the training library for search traffic around hypertrophy, progressive overload, RIR, deloads, exercise selection, recovery, supplements, and workout tracking. The app turns those ideas into a live session workflow on iPhone.
+          </p>
+          <a
+            href={appStoreUrl}
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              minHeight: '48px',
+              padding: '0 22px',
+              background: '#111',
+              color: '#fffaf0',
+              borderRadius: '12px',
+              textDecoration: 'none',
+              fontWeight: 800,
+            }}
+          >
+            Open the App Store listing
+          </a>
+        </section>
+      </section>
     </div>
   )
 }

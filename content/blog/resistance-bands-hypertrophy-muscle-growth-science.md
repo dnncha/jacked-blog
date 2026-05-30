@@ -7,6 +7,8 @@ If you walked into a commercial gym 20 years ago and tried to build muscle with 
 
 Fast forward to 2026: the science has caught up with the intuition. Research now shows that resistance bands can produce equivalent strength and hypertrophy gains to traditional free weights when you control for volume and intensity. The memes about "flexing with bands" are outdated.
 
+That equipment flexibility is one reason lifters compare [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app). A good RP alternative should make swaps practical when your gym, travel setup, or joint tolerance changes.
+
 ## The Science: Do Bands Actually Build Muscle?
 
 A 2019 meta-analysis published in the *Journal of Strength and Conditioning Research* found resistance band training to be "effective for increasing muscle strength and performance" — with effects comparable to conventional resistance training when volume and effort were matched.

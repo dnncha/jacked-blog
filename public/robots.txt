@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://jacked.coach/sitemap.xml
+Host: https://jacked.coach

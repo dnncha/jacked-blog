@@ -5,6 +5,8 @@ excerpt: "Recent research reveals supersets can match traditional training for m
 
 Supersets have been a staple of bodybuilding routines for decades, but only recently has rigorous science caught up to what gym rats have known intuitively. A 2025 study published in ScienceDirect put supersets to the test against traditional straight sets—and the results might surprise you [1].
 
+If you are comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app), supersets are a useful test case: the best replacement should let you adjust exercise order, pair movements, and keep progression visible without breaking the whole training block.
+
 ## The Research: Superset vs. Traditional Training
 
 The 8-week study compared resistance-trained individuals using paired supersets versus traditional resistance training, measuring muscular strength, hypertrophy, body composition, and local muscle endurance. The findings? **Supersets produced essentially equivalent muscle growth to traditional sets** when properly programmed [1].

@@ -3,82 +3,225 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
 import Link from 'next/link'
+import { notFound } from 'next/navigation'
+import { remark } from 'remark'
+import remarkHtml from 'remark-html'
+import { relatedToolsForArticle } from '../../tools/toolSeo.mjs'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
+const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
 
-export async function generateMetadata({ params }) {
-  const { slug } = await params
-  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
-  const fullPath = path.join(postsDir, `${slug}.md`)
-  
-  let frontmatter = { title: 'Post not found', excerpt: '', date: '2026-01-01' }
-  
-  if (fs.existsSync(postsDir) && fs.existsSync(fullPath)) {
-    const fileContents = fs.readFileSync(fullPath, 'utf8')
-    const { data } = matter(fileContents)
-    frontmatter = { title: data.title, excerpt: data.excerpt || '', date: data.date || '2026-01-01' }
-  }
-  
-  return {
-    title: `${frontmatter.title} | Jacked`,
-    description: frontmatter.excerpt,
-    alternates: {
-      canonical: `https://jacked.coach/blog/${slug}`,
-    },
-    openGraph: {
-      title: frontmatter.title,
-      description: frontmatter.excerpt,
-      type: 'article',
-      url: `https://jacked.coach/blog/${slug}`,
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: frontmatter.title,
-      description: frontmatter.excerpt,
-    },
-  }
+function isValidDate(value) {
+  return Boolean(value && !Number.isNaN(new Date(value).getTime()))
 }
 
-export async function generateStaticParams() {
-  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
-  
-  if (!fs.existsSync(postsDir)) {
-    return []
+function fallbackDateForSlug(slug) {
+  const match = String(slug || '').match(/20\d{2}/)
+  return match ? `${match[0]}-01-01` : '2025-01-01'
+}
+
+function metaDescription(value) {
+  const text = String(value || '').replace(/\s+/g, ' ').trim()
+  return text.length > 160 ? `${text.slice(0, 157).trim()}...` : text
+}
+
+function metaKeywords(value) {
+  if (Array.isArray(value)) {
+    return value.map(item => String(item).trim()).filter(Boolean)
   }
-  
-  const files = fs.readdirSync(postsDir)
-  return files
-    .filter(file => file.endsWith('.md'))
-    .map(file => ({
-      slug: file.replace('.md', '')
-    }))
+
+  return String(value || '')
+    .split(',')
+    .map(item => item.trim())
+    .filter(Boolean)
+}
+
+function entityList(value) {
+  return metaKeywords(value)
+}
+
+function rankingItems(value) {
+  return String(value || '')
+    .split(';')
+    .map(item => {
+      const [name = '', bestFor = '', tradeoff = ''] = item.split('|').map(part => part.trim())
+      return name && bestFor ? { name, bestFor, tradeoff } : null
+    })
+    .filter(Boolean)
+}
+
+function formatDate(value) {
+  if (!isValidDate(value)) return null
+  return new Intl.DateTimeFormat('en', { month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(value))
+}
+
+function readingTime(markdown) {
+  const words = markdown
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean).length
+  return Math.max(1, Math.ceil(words / 220))
+}
+
+function slugifyHeading(value) {
+  return String(value || '')
+    .toLowerCase()
+    .replace(/<[^>]+>/g, '')
+    .replace(/&amp;/g, 'and')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 80) || 'section'
+}
+
+function extractHeadings(markdown) {
+  const seen = new Map()
+  return normalizeMarkdown(markdown)
+    .replace(/```[\s\S]*?```/g, '')
+    .split('\n')
+    .map(line => {
+      const match = line.match(/^(#{2,3})\s+(.+)$/)
+      if (!match) return null
+      const depth = match[1].length
+      const text = match[2]
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+        .replace(/[*_`]/g, '')
+        .trim()
+      const base = slugifyHeading(text)
+      const count = seen.get(base) || 0
+      seen.set(base, count + 1)
+      return {
+        id: count ? `${base}-${count + 1}` : base,
+        text,
+        depth,
+      }
+    })
+    .filter(Boolean)
+    .slice(0, 14)
+}
+
+function plainText(markdown) {
+  return String(markdown || '')
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[*_`>#-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function extractFaqs(markdown) {
+  const content = normalizeMarkdown(markdown)
+  const faqStart = content.search(/^## FAQ\s*$/im)
+  if (faqStart === -1) return []
+
+  const faqContent = content.slice(faqStart).replace(/^## FAQ\s*$/im, '')
+  const sections = faqContent.split(/^###\s+/m).slice(1)
+
+  return sections.map(section => {
+    const [questionLine = '', ...answerLines] = section.split('\n')
+    const question = plainText(questionLine)
+    const answer = plainText(answerLines.join('\n').replace(/^##\s+[\s\S]*$/m, ''))
+    return question && answer ? { question, answer } : null
+  }).filter(Boolean).slice(0, 8)
+}
+
+function addHeadingIds(html) {
+  const seen = new Map()
+  return html.replace(/<h([23])>(.*?)<\/h\1>/g, (match, depth, inner) => {
+    const text = inner.replace(/<[^>]+>/g, '').trim()
+    const base = slugifyHeading(text)
+    const count = seen.get(base) || 0
+    seen.set(base, count + 1)
+    const id = count ? `${base}-${count + 1}` : base
+    return `<h${depth} id="${id}">${inner}</h${depth}>`
+  })
+}
+
+function diagramBlock(title, body) {
+  return `
+<div class="diagram callout-diagram">
+  <h4>${title}</h4>
+  <p>${body}</p>
+</div>
+`
+}
+
+function normalizeMarkdown(content) {
+  return content
+    .replace(/^\s*# .+\n\n?/, '')
+    .replace(/\{\{hormone-cascade\}\}/g, diagramBlock('Hormonal response cascade', 'Training stress, recovery, nutrition, and sleep interact over time. Treat hormones as context, not a single switch for muscle growth.'))
+    .replace(/\{\{recovery-pyramid\}\}/g, diagramBlock('Recovery priority pyramid', 'Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.'))
+    .replace(/\{\{mps-timeline\}\}/g, diagramBlock('Muscle protein synthesis timeline', 'Resistance training raises the signal for muscle repair and growth, but the practical goal is still repeatable high-quality training plus enough protein.'))
+    .replace(/\{\{stress-balance\}\}/g, diagramBlock('Stress and adaptation balance', 'A useful program applies enough stress to adapt, then manages fatigue so performance can recover and progress can continue.'))
+    .replace(/\{\{[^}]+\}\}/g, '')
+}
+
+async function parseContent(content) {
+  const mermaidBlocks = []
+  let mermaidIndex = 0
+
+  const contentWithMarkers = normalizeMarkdown(content).replace(/```mermaid\n([\s\S]*?)```/g, (match, code) => {
+    const index = mermaidIndex++
+    const encoded = Buffer.from(code.trim()).toString('base64').replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '')
+    mermaidBlocks.push(encoded)
+    return `<<MERMAID-IMG-${index}>>`
+  })
+
+  const withDiagrams = contentWithMarkers.replace(/<<MERMAID-IMG-(\d+)>>/g, (match, index) => {
+    const encoded = mermaidBlocks[index]
+    return `<img src="https://mermaid.ink/img/${encoded}" alt="Training concept diagram for this article" class="mermaid-diagram" loading="lazy" />`
+  })
+
+  return addHeadingIds(String(await remark().use(remarkHtml, { sanitize: false }).process(withDiagrams)))
+}
+
+function getPost(slug) {
+  const fullPath = path.join(postsDir, `${slug}.md`)
+
+  if (!fs.existsSync(fullPath)) {
+    return null
+  }
+
+  const fileContents = fs.readFileSync(fullPath, 'utf8')
+  const { data, content } = matter(fileContents)
+
+  return {
+    slug,
+    title: data.title || 'Untitled article',
+    excerpt: data.excerpt || '',
+    date: isValidDate(data.date) ? data.date : '',
+    category: data.category || 'General',
+    keywords: metaKeywords(data.keywords),
+    entities: entityList(data.entities),
+    rankingItems: rankingItems(data.rankingItems),
+    content,
+  }
 }
 
 function getPosts() {
-  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
-  
   if (!fs.existsSync(postsDir)) {
     return []
   }
-  
-  const files = fs.readdirSync(postsDir)
-  return files
+
+  return fs.readdirSync(postsDir)
     .filter(file => file.endsWith('.md'))
     .map(file => {
       const slug = file.replace('.md', '')
-      const fullPath = path.join(postsDir, file)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data } = matter(fileContents)
+      const post = getPost(slug)
       return {
         slug,
-        title: data.title,
-        date: data.date,
-        category: data.category || 'General',
-        excerpt: data.excerpt || ''
+        title: post?.title || '',
+        date: post?.date || fallbackDateForSlug(slug),
+        category: post?.category || 'General',
+        excerpt: post?.excerpt || '',
       }
     })
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .sort((a, b) => {
+      const ad = isValidDate(a.date) ? new Date(a.date).getTime() : 0
+      const bd = isValidDate(b.date) ? new Date(b.date).getTime() : 0
+      return bd - ad || a.title.localeCompare(b.title)
+    })
 }
 
 function relatedPosts(posts, currentSlug, currentTitle, currentExcerpt, currentCategory) {
@@ -97,170 +240,175 @@ function relatedPosts(posts, currentSlug, currentTitle, currentExcerpt, currentC
       for (const t of terms) {
         if (hay.includes(t)) overlap++
       }
-      const categoryBoost = p.category === currentCategory ? 2 : 0
-      const recencyBoost = p.date ? (Date.now() - new Date(p.date).getTime() < 1000 * 60 * 60 * 24 * 30 ? 1 : 0) : 0
-      return { ...p, _score: overlap + categoryBoost + recencyBoost }
+      const categoryBoost = p.category === currentCategory ? 4 : 0
+      return { ...p, _score: overlap + categoryBoost }
     })
-    .sort((a, b) => b._score - a._score || new Date(b.date) - new Date(a.date))
+    .filter(p => p._score > 0)
+    .sort((a, b) => b._score - a._score || a.title.localeCompare(b.title))
     .slice(0, 4)
 }
 
-// Simple markdown to HTML with diagram support
-function parseContent(content) {
-  // Extract mermaid blocks and convert to images using mermaid.ink
-  const mermaidBlocks = []
-  let mermaidIndex = 0
-  
-  const contentWithMarkers = content.replace(/```mermaid\n([\s\S]*?)```/g, (match, code) => {
-    const index = mermaidIndex++
-    // Encode for mermaid.ink API using base64
-    const encoded = Buffer.from(code.trim()).toString('base64').replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '')
-    mermaidBlocks.push(encoded)
-    return `<<MERMAID-IMG-${index}>>`
-  })
-  
-  // Replace mermaid markers with img tags
-  let html = contentWithMarkers
-    .replace(/<<MERMAID-IMG-(\d+)>>/g, (match, index) => {
-      const encoded = mermaidBlocks[index]
-      return `<img src="https://mermaid.ink/img/${encoded}" alt="Diagram" class="mermaid-diagram" />`
-    })
-    // Hormonal cascade diagram
-    .replace(/\{\{hormone-cascade\}\}/g, `
-      <div class="diagram">
-        <h4>🧬 Hormonal Response Cascade</h4>
-        <svg viewBox="0 0 400 200" class="cascade-diagram">
-          <rect x="20" y="80" width="80" height="40" rx="8" fill="#e3f2fd"/>
-          <text x="60" y="105" text-anchor="middle" font-size="12">Training</text>
-          <path d="M 100 100 L 140 100" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-          <rect x="140" y="70" width="90" height="60" rx="8" fill="#fff3e0"/>
-          <text x="185" y="95" text-anchor="middle" font-size="11">CNS Activation</text>
-          <path d="M 230 100 L 270 100" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
-          <rect x="270" y="60" width="110" height="80" rx="8" fill="#f3e5f5"/>
-          <text x="325" y="85" text-anchor="middle" font-size="12">HPA Axis</text>
-          <defs>
-            <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-              <path d="M0,0 L0,6 L9,3 z" fill="#1976d2"/>
-            </marker>
-          </defs>
-        </svg>
-      </div>
-    `)
-    // Recovery pyramid
-    .replace(/\{\{recovery-pyramid\}\}/g, `
-      <div class="diagram">
-        <h4>🏗️ Recovery Priority Pyramid</h4>
-        <svg viewBox="0 0 300 220" class="pyramid-diagram">
-          <polygon points="150,20 250,180 50,180" fill="none" stroke="#222" stroke-width="2"/>
-          <text x="150" y="50" text-anchor="middle" font-size="11" font-weight="600">Sleep 40%</text>
-          <line x1="80" y1="100" x2="220" y2="100" stroke="#666" stroke-width="1" stroke-dasharray="4"/>
-          <text x="150" y="95" text-anchor="middle" font-size="11" font-weight="600">Nutrition 30%</text>
-          <line x1="100" y1="140" x2="200" y2="140" stroke="#666" stroke-width="1" stroke-dasharray="4"/>
-          <text x="150" y="135" text-anchor="middle" font-size="11" font-weight="600">Training 20%</text>
-          <line x1="120" y1="170" x2="180" y2="170" stroke="#666" stroke-width="1" stroke-dasharray="4"/>
-          <text x="150" y="165" text-anchor="middle" font-size="11" font-weight="600">Supplements 10%</text>
-        </svg>
-      </div>
-    `)
-  
-  // Auto-link URLs in text
-  let text = html.replace(/(^|\s)(https?:\/\/[^\s<]+)/g, '$1<a href="$2" target="_blank" rel="noopener">$2</a>')
-  
-  // Standard markdown conversion
-  text = text
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/^\- (.+)$/gm, '<li>$1</li>')
-    .replace(/(<li>.*?<\/li>)/s, '<ul>$1</ul>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^(.+)$/gm, (match) => {
-      if (match.startsWith('<')) return match
-      return `<p>${match}</p>`
-    })
-  
-  return text
+export const dynamicParams = false
+
+export async function generateMetadata({ params }) {
+  const { slug } = await params
+  const post = getPost(slug)
+  if (!post) notFound()
+  const publishedTime = isValidDate(post.date) ? post.date : undefined
+  const description = metaDescription(post.excerpt)
+
+  return {
+    title: post.title,
+    description,
+    ...(post.keywords.length ? { keywords: post.keywords } : {}),
+    alternates: {
+      canonical: `https://jacked.coach/blog/${slug}`,
+    },
+    openGraph: {
+      title: post.title,
+      description,
+      type: 'article',
+      url: `https://jacked.coach/blog/${slug}`,
+      publishedTime,
+      modifiedTime: publishedTime,
+      images: [
+        {
+          url: '/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: `${post.title} | Jacked`,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description,
+      images: ['/og-image.png'],
+    },
+  }
+}
+
+export async function generateStaticParams() {
+  if (!fs.existsSync(postsDir)) {
+    return []
+  }
+
+  return fs.readdirSync(postsDir)
+    .filter(file => file.endsWith('.md'))
+    .map(file => ({
+      slug: file.replace('.md', ''),
+    }))
 }
 
 export default async function BlogPost({ params }) {
   const { slug } = await params
-  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
-  const fullPath = path.join(postsDir, `${slug}.md`)
-  
-  let content = ''
-  let frontmatter = { title: 'Post not found', date: '' }
-  
-  if (fs.existsSync(fullPath)) {
-    const fileContents = fs.readFileSync(fullPath, 'utf8')
-    const { data, content: markdown } = matter(fileContents)
-    frontmatter = { title: data.title, date: data.date, excerpt: data.excerpt, category: data.category || 'General' }
-    content = parseContent(markdown)
-  }
-  
-  const allPosts = relatedPosts(
-    getPosts(),
-    slug,
-    frontmatter.title,
-    frontmatter.excerpt,
-    frontmatter.category || 'General'
-  )
-  
+  const post = getPost(slug)
+  if (!post) notFound()
+  const content = await parseContent(post.content)
+  const headings = extractHeadings(post.content)
+  const allPosts = relatedPosts(getPosts(), slug, post.title, post.excerpt, post.category)
   const shareUrl = `https://jacked.coach/blog/${slug}`
-  const shareText = encodeURIComponent(frontmatter.title)
-  
-  // JSON-LD Structured Data for SEO
-  const jsonLd = {
+  const shareText = encodeURIComponent(post.title)
+  const displayDate = formatDate(post.date)
+  const minutesToRead = readingTime(post.content)
+  const wordCount = post.content.split(/\s+/).filter(Boolean).length
+  const publishedDate = isValidDate(post.date) ? post.date : undefined
+  const articleTools = relatedToolsForArticle(post, 4)
+  const faqs = extractFaqs(post.content)
+  const rankedAlternatives = post.rankingItems.map((item, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: item.name,
+    description: [item.bestFor, item.tradeoff ? `Tradeoff: ${item.tradeoff}` : ''].filter(Boolean).join('. '),
+  }))
+
+  const breadcrumbItems = [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://jacked.coach/' },
+    { '@type': 'ListItem', position: 2, name: 'Training Library', item: 'https://jacked.coach/blog' },
+    { '@type': 'ListItem', position: 3, name: post.title, item: shareUrl },
+  ]
+  const jsonLd = JSON.parse(JSON.stringify({
     '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: frontmatter.title,
-    description: frontmatter.excerpt,
-    datePublished: frontmatter.date,
-    dateModified: frontmatter.date,
-    author: {
-      '@type': 'Organization',
-      name: 'Jacked'
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'Jacked',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://jacked.coach/og-image.png'
-      }
-    },
-    mainEntityOfPage: {
-      '@type': 'WebPage',
-      '@id': shareUrl
-    },
-    image: 'https://jacked.coach/og-image.png',
-    breadcrumb: {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        {
-          '@type': 'ListItem',
-          position: 1,
-          name: 'Home',
-          item: 'https://jacked.coach/'
+    '@graph': [
+      {
+        '@type': 'WebPage',
+        '@id': `${shareUrl}#webpage`,
+        url: shareUrl,
+        name: post.title,
+        description: metaDescription(post.excerpt),
+        breadcrumb: { '@id': `${shareUrl}#breadcrumb` },
+      },
+      {
+        '@type': 'BlogPosting',
+        '@id': `${shareUrl}#article`,
+        mainEntityOfPage: { '@id': `${shareUrl}#webpage` },
+        headline: post.title,
+        description: metaDescription(post.excerpt),
+        datePublished: publishedDate,
+        dateModified: publishedDate,
+        isAccessibleForFree: true,
+        wordCount,
+        articleSection: post.category,
+        about: ['hypertrophy training', 'progressive overload', 'workout tracking', post.category].filter(Boolean),
+        author: {
+          '@type': 'Organization',
+          name: 'Jacked',
+          url: 'https://jacked.coach/about',
         },
-        {
-          '@type': 'ListItem',
-          position: 2,
-          name: 'Blog',
-          item: 'https://jacked.coach/'
+        publisher: {
+          '@type': 'Organization',
+          name: 'Jacked',
+          logo: {
+            '@type': 'ImageObject',
+            url: 'https://jacked.coach/og-image.png',
+          },
         },
-        {
-          '@type': 'ListItem',
-          position: 3,
-          name: frontmatter.title,
-          item: shareUrl
-        }
-      ]
-    }
-  }
-  
+        image: 'https://jacked.coach/og-image.png',
+        mentions: [
+          ...post.entities.map(entity => ({
+            '@type': 'Thing',
+            name: entity,
+          })),
+          ...articleTools.map(tool => ({
+            '@type': 'WebApplication',
+            name: tool.name,
+            url: `https://jacked.coach/tools/${tool.slug}`,
+            applicationCategory: 'HealthApplication',
+            offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+          })),
+        ],
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `${shareUrl}#breadcrumb`,
+        itemListElement: breadcrumbItems,
+      },
+      rankedAlternatives.length > 0 ? {
+        '@type': 'ItemList',
+        '@id': `${shareUrl}#ranked-alternatives`,
+        name: `Best ${post.title}`,
+        itemListOrder: 'https://schema.org/ItemListOrderAscending',
+        numberOfItems: rankedAlternatives.length,
+        itemListElement: rankedAlternatives,
+      } : null,
+      faqs.length > 0 ? {
+        '@type': 'FAQPage',
+        '@id': `${shareUrl}#faq`,
+        mainEntity: faqs.map(faq => ({
+          '@type': 'Question',
+          name: faq.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: faq.answer,
+          },
+        })),
+      } : null,
+    ].filter(Boolean),
+  }))
+
   return (
-    <div style={{ maxWidth: '720px', margin: '0 auto', padding: '2rem 1rem', background: '#000000', minHeight: '100vh', color: '#e5e5e5' }}>
+    <div style={{ maxWidth: '760px', margin: '0 auto', padding: '2rem 1rem', background: '#000000', minHeight: '100vh', color: '#e5e5e5' }}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -269,23 +417,21 @@ export default async function BlogPost({ params }) {
         body { background: #000000 !important; }
         .diagram {
           margin: 2rem 0;
-          padding: 1.5rem;
-          background: #f8f9fa;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
           border-radius: 12px;
-          border: 1px solid #e0e0e0;
+          border: 1px solid #333;
         }
         .diagram h4 {
-          margin: 0 0 1rem 0;
-          font-size: 1.1rem;
-          color: #FF6B35;
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
           font-weight: 700;
         }
-        .diagram svg {
-          width: 100%;
-          max-width: 400px;
-          height: auto;
-          display: block;
-          margin: 0 auto;
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
         }
         .mermaid-diagram {
           max-width: 100%;
@@ -295,23 +441,26 @@ export default async function BlogPost({ params }) {
           border-radius: 8px;
         }
         article h2 {
-          color: #e5e5e5;
-          font-weight: 700;
-          margin-top: 2.5rem;
-          border-left: 4px solid #FFD700;
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
           padding-left: 1rem;
+          line-height: 1.25;
         }
         article h3 {
-          color: #ccc;
-          font-weight: 600;
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
         }
         article p {
           color: #ccc !important;
-          line-height: 1.8;
+          line-height: 1.82;
         }
         article a {
-          color: #FFD700;
+          color: #d9c26c;
           text-decoration: underline;
+          text-underline-offset: 3px;
         }
         article strong {
           color: #fff;
@@ -319,14 +468,15 @@ export default async function BlogPost({ params }) {
         article ul, article ol {
           color: #ccc;
           padding-left: 1.5rem;
+          margin: 1.1rem 0;
         }
         article li {
           color: #ccc;
-          margin-bottom: 0.5rem;
-          line-height: 1.6;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
         }
         article blockquote {
-          border-left: 3px solid #FFD700;
+          border-left: 3px solid #d9c26c;
           padding-left: 1rem;
           margin-left: 0;
           color: #aaa;
@@ -363,62 +513,141 @@ export default async function BlogPost({ params }) {
           border-radius: 8px;
           margin: 1rem 0;
         }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
       `}</style>
-      
-      <Link href="/" style={{ color: '#FFD700', textDecoration: 'none', fontSize: '0.95rem', fontWeight: '600' }}>
-        ← Back to all articles
-      </Link>
-      
+
+      <nav aria-label="Breadcrumb" style={{ display: 'flex', gap: '0.45rem', flexWrap: 'wrap', color: '#8f897c', fontSize: '0.86rem', fontWeight: 650 }}>
+        <Link href="/" style={{ color: '#d9c26c', textDecoration: 'none' }}>Home</Link>
+        <span>/</span>
+        <Link href="/blog" style={{ color: '#d9c26c', textDecoration: 'none' }}>Training Library</Link>
+        <span>/</span>
+        <span aria-current="page">{post.category}</span>
+      </nav>
+
       <header style={{ marginTop: '1.5rem', marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '2.25rem', fontWeight: '800', marginBottom: '0.5rem', lineHeight: '1.3', color: '#ffffff', letterSpacing: '-0.02em' }}>
-          {frontmatter.title}
+        <h1 style={{ fontSize: 'clamp(2rem, 5.8vw, 3rem)', fontWeight: '760', marginBottom: '0.75rem', lineHeight: '1.12', color: '#f7f2e8', letterSpacing: 0 }}>
+          {post.title}
         </h1>
+        <p style={{ margin: '0 0 1rem', color: '#bcb6a8', fontSize: '1.05rem', lineHeight: 1.65 }}>
+          {post.excerpt}
+        </p>
+        <div className="article-meta">
+          <span>{post.category}</span>
+          {displayDate && <span>Published {displayDate}</span>}
+          <span>{minutesToRead} min read</span>
+          <span>Jacked training guide</span>
+        </div>
         <a
           href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_top_cta&utm_campaign=ios_install&utm_content=${slug}`}
           target="_blank"
           rel="noopener noreferrer"
-          style={{ display: 'inline-block', marginTop: '0.35rem', padding: '0.6rem 0.95rem', borderRadius: '9px', textDecoration: 'none', fontWeight: '700', background: 'linear-gradient(135deg, #FFD700 0%, #FFA500 100%)', color: '#111' }}
+          style={{ display: 'inline-block', marginTop: '1rem', padding: '0.65rem 0.95rem', borderRadius: '8px', textDecoration: 'none', fontWeight: '720', background: '#e2c95f', color: '#111' }}
         >
-          Get the Jacked App ($3.99/mo)
+          Get Jacked for iPhone
         </a>
-        <p style={{ marginTop: '0.45rem', marginBottom: 0, color: '#888', fontSize: '0.84rem' }}>
-          Use adaptive progression + fatigue management so this strategy is applied consistently, not guessed.
-        </p>
       </header>
-      
+
       <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '2rem', paddingBottom: '1.5rem', borderBottom: '2px solid #333' }}>
-        <a href={`https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`} target="_blank" rel="noopener noreferrer" style={{ padding: '0.5rem 1rem', background: '#000000', color: '#FFD700', borderRadius: '8px', textDecoration: 'none', fontSize: '0.85rem', fontWeight: '600', border: '1px solid #333' }}>Share on X</a>
+        <a href={`https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`} target="_blank" rel="noopener noreferrer" style={{ padding: '0.5rem 0.9rem', background: '#000000', color: '#d9c26c', borderRadius: '8px', textDecoration: 'none', fontSize: '0.84rem', fontWeight: '650', border: '1px solid #333' }}>Share on X</a>
       </div>
-      
+
+      {articleTools.length > 0 && (
+        <section className="article-tools">
+          <h2>Use the matching Jacked tool</h2>
+          <p>Run the numbers from this topic, then use the result in your next session.</p>
+          <div className="article-tool-links">
+            {articleTools.map(tool => (
+              <Link key={tool.slug} href={`/tools/${tool.slug}`} data-related-tool={tool.slug}>{tool.name}</Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {headings.length > 2 && (
+        <nav aria-label="Table of contents" style={{ margin: '0 0 2rem', padding: '1rem', border: '1px solid #333', borderRadius: '12px', background: '#10100f' }}>
+          <h2 style={{ margin: '0 0 0.75rem', color: '#f7f2e8', fontSize: '1rem', fontWeight: 760 }}>Contents</h2>
+          <ol style={{ margin: 0, paddingLeft: '1.25rem', color: '#c8c1b6' }}>
+            {headings.map(heading => (
+              <li key={heading.id} style={{ margin: '0.3rem 0 0.3rem', paddingLeft: heading.depth === 3 ? '0.7rem' : 0 }}>
+                <a href={`#${heading.id}`} style={{ color: heading.depth === 3 ? '#a9a294' : '#d9c26c', textDecoration: 'none', fontSize: heading.depth === 3 ? '0.9rem' : '0.95rem', fontWeight: heading.depth === 3 ? 600 : 720 }}>
+                  {heading.text}
+                </a>
+              </li>
+            ))}
+          </ol>
+        </nav>
+      )}
+
       <article style={{ lineHeight: '1.9', fontSize: '1.08rem', color: '#ccc' }}>
         <div dangerouslySetInnerHTML={{ __html: content }} />
       </article>
-      
+
       {allPosts.length > 0 && (
         <section style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '2px solid #333' }}>
-          <h3 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: '700', color: '#ffffff' }}>Related Articles</h3>
+          <h2 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: '750', color: '#ffffff' }}>Related Articles</h2>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
-            {allPosts.map(post => (
-              <Link key={post.slug} href={`/blog/${post.slug}`} style={{ display: 'block', padding: '1rem', background: '#1a1a1a', borderRadius: '10px', textDecoration: 'none', color: 'inherit', border: '1px solid #333', transition: 'all 0.2s' }}>
-                <h4 style={{ margin: 0, fontSize: '1rem', fontWeight: '600', color: '#FFD700' }}>{post.title}</h4>
+            {allPosts.map(related => (
+              <Link key={related.slug} href={`/blog/${related.slug}`} style={{ display: 'block', padding: '1rem', background: '#1a1a1a', borderRadius: '10px', textDecoration: 'none', color: 'inherit', border: '1px solid #333' }}>
+                <h3 style={{ margin: 0, fontSize: '1rem', fontWeight: '650', color: '#d9c26c' }}>{related.title}</h3>
+                {related.excerpt && <p style={{ margin: '0.35rem 0 0', color: '#aaa', fontSize: '0.88rem', lineHeight: 1.5 }}>{related.excerpt}</p>}
               </Link>
             ))}
           </div>
         </section>
       )}
-      
-      <section style={{ marginTop: '3rem', padding: '2.5rem', background: 'linear-gradient(135deg, #FFD700 0%, #FFA500 100%)', borderRadius: '16px', color: 'white', textAlign: 'center', boxShadow: '0 10px 40px rgba(255, 107, 53, 0.3)' }}>
-        <h3 style={{ marginTop: 0, fontSize: '1.5rem', fontWeight: '800', letterSpacing: '-0.01em' }}>Ready to apply this in the gym?</h3>
-        <p style={{ opacity: 0.95, marginBottom: '1.5rem', fontSize: '1.05rem' }}>Open Jacked and get an adaptive hypertrophy plan with progression and fatigue management built in.</p>
-        <div style={{ marginTop: '1.5rem', paddingTop: '1.5rem', borderTop: '1px solid rgba(255,255,255,0.2)' }}>
-          <p style={{ opacity: 0.95, marginBottom: '0.75rem', fontWeight: '600' }}>📱 Also available:</p>
-          <a href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_cta&utm_campaign=ios_install&utm_content=${slug}`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', padding: '0.85rem 1.5rem', background: 'white', color: '#FFD700', borderRadius: '10px', textDecoration: 'none', fontWeight: '700' }}>
-            Start Free Trial in Jacked
-          </a>
-          <p style={{ marginTop: '0.65rem', marginBottom: 0, color: 'rgba(255,255,255,0.9)', fontSize: '0.85rem' }}>
-            Adaptive hypertrophy programming with progression + fatigue management.
-          </p>
-        </div>
+
+      <section style={{ marginTop: '3rem', padding: '1.6rem', background: '#f2eee4', borderRadius: '10px', color: '#111', textAlign: 'center' }}>
+        <h2 style={{ marginTop: 0, fontSize: '1.28rem', fontWeight: '760', letterSpacing: 0 }}>Apply this in your next workout.</h2>
+        <p style={{ marginBottom: '1.5rem', fontSize: '1rem', color: '#4b473f' }}>Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log.</p>
+        <a href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_cta&utm_campaign=ios_install&utm_content=${slug}`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
+          Open the App Store listing
+        </a>
       </section>
     </div>
   )

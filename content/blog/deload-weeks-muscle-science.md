@@ -1,5 +1,7 @@
 ---
 title: "The Science of Deload Weeks: When to Rest for Maximum Gains"
+date: "2025-01-01"
+category: "Recovery"
 excerpt: "Research shows deload weeks may not boost hypertrophy, but they're crucial for long-term progress and injury prevention. Here's what the science actually says."
 ---
 
@@ -53,6 +55,8 @@ While deloads might slightly blunt short-term strength gains, they may preserve 
 ### 4. Managing Non-Functional Overreaching (NFOR)
 
 If you're constantly fatigued, sleeping poorly, and feeling run-down, a deload can help distinguish between normal training stress and problematic overreaching.
+
+If you need a quick decision aid, the [deload calculator](/tools/deload-calculator) can help turn performance and fatigue signals into a practical back-off plan.
 
 ## Expert Consensus: When to Deload
 

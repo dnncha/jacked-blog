@@ -8,6 +8,8 @@ category: "Science"
 
 This is the resource we wish existed when we started lifting. Every claim is backed by peer-reviewed research. Every recommendation is tested. This is what science knows about building muscle.
 
+If you are applying this science through an app and comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app), start with the question RP is trying to solve: do you need a guided mesocycle system, or do you need a faster way to log and progress the hypertrophy plan you already trust?
+
 ---
 
 ## Part 1: The Biology of Muscle Growth

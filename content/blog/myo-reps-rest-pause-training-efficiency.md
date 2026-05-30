@@ -5,6 +5,8 @@ excerpt: "Discover how Myo-reps and rest-pause training can help you build muscl
 
 Most lifters face the same problem: limited time in the gym but wanting maximum muscle growth. Traditional sets with long rest periods work—but they take time. What if you could get the same (or better) results in less than half the time?
 
+That is also a practical reason to compare [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app): if your app makes efficient techniques hard to log, your training data gets worse exactly when the workout becomes more complex.
+
 Enter **Myo reps** and **rest-pause training**—two intensity techniques that have gained traction in the fitness community over the past few years. Developed by Norwegian strength coach Borge Fagerli, Myo reps (short for "muscular rep" or "myotatic reps") represent a different approach to structuring your sets. Rather than multiple long sets with extended rest periods, you're doing one "activation set" followed by short, sharp micro-sets with minimal rest between.
 
 The science behind these techniques is intriguing—and the results from research are compelling.

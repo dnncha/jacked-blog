@@ -8,6 +8,8 @@ You download a workout app, fill in your details, and get a program. Six weeks l
 
 That's the problem with most workout apps: they treat you like everyone else.
 
+That same distinction matters when choosing from [RP Hypertrophy App alternatives](/blog/alternatives-to-rp-hypertrophy-app). Some apps are guided programming systems, while others are flexible logbooks that only work if progression is easy to manage.
+
 ## The Generic App Problem
 
 **1. Static Plans**

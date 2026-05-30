@@ -7,6 +7,8 @@ excerpt: "Discover how artificial intelligence is revolutionizing workout progra
 
 The fitness industry is undergoing a quiet revolution. For decades, trainees followed static workout programs—fixed sets, predetermined weights, and rigid repetition schemes that assumed everyone responds identically to training stimuli. But the emergence of AI-powered fitness programming is fundamentally changing how we approach progressive overload, delivering personalized adjustments that respond to each individual's recovery capacity, performance trends, and long-term goals.
 
+For lifters comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app), this is the central tradeoff: do you want the app to generate and adjust the whole mesocycle, or do you want a faster hypertrophy logbook that keeps your own plan, RIR, progression, and history connected?
+
 ## The Problem with Static Programming
 
 Traditional periodization models—linear, undulating, or block—provide structure but lack real-time adaptability. A typical 12-week program might call for 3 sets of 10 at 70% of your one-rep max in week one, progressing to 75% by week four. But what happens when you sprain your ankle? When you sleep poorly for three consecutive nights? When you unexpectedly hit a PR and could handle more volume?

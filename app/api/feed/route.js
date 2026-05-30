@@ -4,6 +4,28 @@ import matter from 'gray-matter'
 
 const postsDir = path.join(process.cwd(), 'content', 'blog')
 
+function isValidDate(value) {
+  return Boolean(value && !Number.isNaN(new Date(value).getTime()))
+}
+
+function fallbackDateForSlug(slug) {
+  const match = String(slug || '').match(/20\d{2}/)
+  return match ? `${match[0]}-01-01` : '2025-01-01'
+}
+
+function escapeXml(value) {
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;')
+}
+
+function cdata(value) {
+  return `<![CDATA[${String(value || '').replace(/\]\]>/g, ']]]]><![CDATA[>')}]]>`
+}
+
 function getPosts() {
   if (!fs.existsSync(postsDir)) {
     return []
@@ -20,11 +42,12 @@ function getPosts() {
         slug: file.replace('.md', ''),
         title: data.title || '',
         excerpt: data.excerpt || '',
-        date: data.date || '2026-01-01',
-        category: data.category || 'Fitness'
+        date: isValidDate(data.date) ? data.date : '',
+        sortDate: isValidDate(data.date) ? data.date : fallbackDateForSlug(file),
+        category: data.category || 'General'
       }
     })
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .sort((a, b) => new Date(b.sortDate) - new Date(a.sortDate))
     .slice(0, 50) // Latest 50 posts
 }
 
@@ -34,20 +57,20 @@ export async function GET() {
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacked | Science-Based Fitness</title>
+    <title>Jacked | Hypertrophy Training Library</title>
     <link>https://jacked.coach</link>
-    <description>Evidence-based insights on muscle building, progression, and optimal training. No fluff. Just science.</description>
+    <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Jacked.</description>
     <language>en</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="https://jacked.coach/feed.xml" rel="self" type="application/rss+xml"/>
     ${posts.map(post => `
     <item>
-      <title><![CDATA[${post.title}]]></title>
+      <title>${cdata(post.title)}</title>
       <link>https://jacked.coach/blog/${post.slug}</link>
       <guid>https://jacked.coach/blog/${post.slug}</guid>
-      <pubDate>${new Date(post.date).toUTCString()}</pubDate>
-      <description><![CDATA[${post.excerpt}]]></description>
-      <category>${post.category}</category>
+      ${post.date ? `<pubDate>${new Date(post.date).toUTCString()}</pubDate>` : ''}
+      <description>${cdata(post.excerpt)}</description>
+      <category>${escapeXml(post.category)}</category>
     </item>`).join('')}
   </channel>
 </rss>`
