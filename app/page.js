@@ -1,8 +1,8 @@
 import HomeClient from './page.client'
 
 export const metadata = {
-  title: 'Jacked | Hypertrophy Workout Tracker & Planner with Next-Set Targets',
-  description: 'Jacked is an iPhone hypertrophy tracker for lifters who want fast set logging, next-set targets, RIR-aware progression, rest timers, Hevy import, progress photos, and body metrics.',
+  title: 'Jacked | Free Gym Workout Tracker with Weekly Muscle Targets',
+  description: 'Jacked is a free iPhone workout tracker with weekly muscle targets, double progression, next-lift guidance, fast set logging, rest timers, and compatible Hevy import.',
   alternates: {
     canonical: 'https://jacked.coach/',
   },

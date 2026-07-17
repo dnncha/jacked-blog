@@ -3,11 +3,11 @@ import Link from 'next/link'
 export const metadata = {
   metadataBase: new URL('https://jacked.coach'),
   title: {
-    default: 'Jacked | Hypertrophy Workout Tracker & Planner with Next-Set Targets',
+    default: 'Jacked | Free Gym Workout Tracker with Weekly Muscle Targets',
     template: '%s | Jacked'
   },
-  description: 'Jacked is an iPhone hypertrophy tracker for lifters who want fast set logging, next-set targets, RIR-aware progression, rest timers, Hevy import, progress photos, and body metrics.',
-  keywords: ['gym workout logger', 'hypertrophy workout tracker', 'hypertrophy coach', 'workout planner', 'progressive overload app', 'RIR training', 'Hevy import', 'iOS fitness app'],
+  description: 'Free iPhone workout tracker with weekly muscle targets, double progression, next-lift guidance, fast set logging, rest timers, and compatible Hevy import.',
+  keywords: ['gym workout tracker', 'workout log', 'strength training app', 'hypertrophy tracker', 'progressive overload app', 'double progression', 'weekly muscle targets', 'Hevy import'],
   authors: [{ name: 'Jacked' }],
   creator: 'Jacked',
   publisher: 'Jacked',
@@ -16,21 +16,21 @@ export const metadata = {
     locale: 'en_US',
     url: 'https://jacked.coach',
     siteName: 'Jacked',
-    title: 'Jacked | Hypertrophy Workout Tracker & Planner with Next-Set Targets',
-    description: 'Log sets fast, get next-set targets, track RIR, run rest timers, and import Hevy history on iPhone.',
+    title: 'Jacked | Free Gym Workout Tracker with Weekly Muscle Targets',
+    description: 'Know the next lift, hit weekly muscle targets, and log workouts fast with Jacked on iPhone.',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Jacked - Hypertrophy Workout Tracker and Planner'
+        alt: 'Jacked gym workout tracker for iPhone'
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Jacked | Hypertrophy Workout Tracker & Planner with Next-Set Targets',
-    description: 'iPhone hypertrophy tracker with fast set logging, next-set targets, RIR tracking, rest timers, and Hevy import.',
+    title: 'Jacked | Free Gym Workout Tracker with Weekly Muscle Targets',
+    description: 'Know the next lift, hit weekly muscle targets, and log workouts fast with Jacked on iPhone.',
     images: ['/og-image.png'],
   },
   robots: {
@@ -57,24 +57,27 @@ export default function RootLayout({ children }) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'SoftwareApplication',
-          name: 'Jacked - Hypertrophy Coach',
+          name: 'Jacked - Gym Workout Tracker',
           alternateName: 'Jacked',
           operatingSystem: 'iOS',
           applicationCategory: 'HealthApplication',
-          description: 'iPhone hypertrophy tracker with fast set logging, next-set targets, RIR-aware progression, rest timers, Hevy import, progress photos, and body metrics.',
+          description: 'Free iPhone workout tracker with weekly muscle targets, double progression, next-lift guidance, fast set logging, rest timers, and compatible Hevy import.',
           offers: {
             '@type': 'Offer',
+            price: '0',
+            priceCurrency: 'USD',
             availability: 'https://schema.org/InStock'
           },
           url: 'https://jacked.coach',
-          downloadUrl: 'https://apps.apple.com/us/app/jacked/id6757132605',
+          downloadUrl: 'https://apps.apple.com/app/id6757132605',
           featureList: [
             'Fast workout and set logging',
-            'Hypertrophy workout tracker and planner',
-            'RIR-aware progression guidance',
-            'Hevy workout history import',
+            'Weekly hard-set targets by muscle',
+            'Double progression guidance',
+            'Next load and rep-range targets',
+            'Compatible Hevy workout history import',
             'Rest timer and active workout resume',
-            'Progress charts, PRs, measurements, and progress photos'
+            'Lift and workout history'
           ]
         }) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -84,7 +87,7 @@ export default function RootLayout({ children }) {
           url: 'https://jacked.coach',
           logo: 'https://jacked.coach/og-image.png',
           sameAs: [
-            'https://apps.apple.com/us/app/jacked/id6757132605'
+            'https://apps.apple.com/app/id6757132605'
           ],
           contactPoint: {
             '@type': 'ContactPoint',

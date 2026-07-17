@@ -3,7 +3,7 @@ import LegalPage from '../components/LegalPage'
 
 export const metadata = {
   title: 'Support',
-  description: 'Get help with Jacked for iPhone, including workout logging, deloads, exercise swaps, imports, purchases, privacy, and data export.',
+  description: 'Get help with Jacked for iPhone, including workout logging, weekly muscle targets, exercise swaps, imports, privacy, and data export.',
   alternates: {
     canonical: 'https://jacked.coach/support',
   },
@@ -20,8 +20,8 @@ const faqs = [
     answer: 'Open Today and start the planned session, or go to Train to start or resume the current workout. Jacked keeps the live workout focused on set logging, rest timing, exercise swaps, and the next useful set.',
   },
   {
-    question: 'Why would Jacked show a deload?',
-    answer: 'Jacked should only push deload guidance when the current block has enough completed training and the mesocycle is far enough along. Today and Plan show the block week, completed workouts, logged sets, and deload status so you can see the reason instead of guessing.',
+    question: 'How do weekly muscle targets work?',
+    answer: 'Jacked counts hard sets for each muscle across the week and shows how many sets remain for your target. The view updates as you log workouts, so volume stays visible across your training split.',
   },
   {
     question: 'How do I swap an exercise I do not have in my gym?',
@@ -29,19 +29,19 @@ const faqs = [
   },
   {
     question: 'How does progression work?',
-    answer: 'Jacked looks at recent load, reps, and RIR. When your logged sets show that you are handling the target range with enough reserve, it can suggest adding load or reps next time. The goal is clear next-set guidance, not blind automatic jumps.',
+    answer: 'Jacked uses double progression: build reps within the target range, then add load when you reach the top. Your recent load, reps, and next target stay together so the next step is clear.',
   },
   {
     question: 'Can I import from Hevy?',
-    answer: 'Yes. Jacked includes a Hevy import path for workouts, routines, measurements, exercise notes, and set context so your training history can help your next block.',
+    answer: 'Yes. Jacked includes a compatible Hevy import path for workouts, routines, exercise notes, and set history so you can keep useful training context.',
   },
   {
     question: 'Where is my data stored?',
     answer: 'Workout data is stored locally on your device. Jacked does not run a user-account server for your workout history. See the privacy policy for the full data handling summary.',
   },
   {
-    question: 'How do I restore purchases?',
-    answer: 'Open Jacked Settings and use the purchase restore option. Apple handles payments and subscription status through your Apple ID.',
+    question: 'Is Jacked free?',
+    answer: 'Yes. Jacked is currently free to download and use on iPhone, with no account required.',
   },
   {
     question: 'Can I export my data?',
@@ -66,7 +66,7 @@ export default function SupportPage() {
   return (
     <LegalPage
       title="Support"
-      intro="Help for Jacked on iPhone: training setup, live workout logging, deloads, exercise swaps, imports, purchases, privacy, and data export."
+      intro="Help for Jacked on iPhone: training setup, live workout logging, weekly muscle targets, exercise swaps, imports, privacy, and data export."
       links={false}
     >
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />

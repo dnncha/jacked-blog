@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 
-const APP_STORE_URL = 'https://apps.apple.com/us/app/jacked/id6757132605'
+const APP_STORE_URL = 'https://apps.apple.com/app/id6757132605'
 
 const appStoreUrl = (content) =>
   `${APP_STORE_URL}?utm_source=jacked_coach&utm_medium=homepage&utm_campaign=ios_install&utm_content=${content}`
@@ -10,23 +10,23 @@ const appStoreUrl = (content) =>
 const proofPoints = [
   {
     icon: 'chart',
-    title: 'Target, last set, and RIR in one view',
-    copy: 'See the load, rep target, prior result, and effort target before the set starts.',
+    title: 'Know the next lift before you start',
+    copy: 'See the next load, rep range, and previous result before the working set starts.',
   },
   {
     icon: 'bolt',
     title: 'Set logging built for the rack',
-    copy: 'Weight, reps, RIR, notes, rest, and undo stay in the active workout flow.',
+    copy: 'Weight, reps, rest, and quick corrections stay in the active workout flow.',
   },
   {
     icon: 'import',
-    title: 'Hevy import without a cold start',
-    copy: 'Bring over workouts, routines, measurements, notes, and useful set context.',
+    title: 'Weekly targets that stay understandable',
+    copy: 'See hard sets completed and sets left for each muscle without volume jargon.',
   },
   {
-    icon: 'camera',
-    title: 'Training log and body metrics together',
-    copy: 'Review PRs, volume, body weight, measurements, and progress photos from the same app.',
+    icon: 'import',
+    title: 'Bring your training history with you',
+    copy: 'Import compatible workout history so the next target starts with useful context.',
   },
 ]
 
@@ -41,7 +41,7 @@ const workflow = [
     step: '02',
     icon: 'dumbbell',
     title: 'Log the work',
-    copy: 'Capture weight, reps, RIR, rest, and notes without leaving the workout flow.',
+    copy: 'Capture weight and reps, run the rest timer, and move to the next set without leaving the workout.',
   },
   {
     step: '03',
@@ -55,32 +55,32 @@ const featureCards = [
   {
     icon: 'bolt',
     title: 'Fast set logging',
-    copy: 'Log weight, reps, RIR, notes, and rest from one screen, with the previous set still visible.',
-    bullets: ['Previous set context', 'Persistent rest and session state', 'Quick corrections between sets'],
+    copy: 'Log weight and reps from one screen, with the previous result and rest timer still visible.',
+    bullets: ['Previous result in view', 'Persistent rest and session state', 'Quick corrections between sets'],
   },
   {
     icon: 'chart',
-    title: 'Next-set targets',
-    copy: 'Jacked uses reps, load, target range, and logged RIR so the next target reflects the set you recorded.',
-    bullets: ['Exercise-level target ranges', 'Load, rep, and effort history', 'Clear repeat, add, or hold decisions'],
+    title: 'Double progression made obvious',
+    copy: 'Jacked uses your rep range and recent result to show when to add reps, add load, or repeat.',
+    bullets: ['Exercise-level rep ranges', 'Load and rep history', 'Clear repeat, add-reps, or add-load decisions'],
   },
   {
     icon: 'import',
     title: 'Import from Hevy',
-    copy: 'Bring over the workouts, routines, notes, measurements, and set history you already trust.',
-    bullets: ['Workouts and routines', 'Measurements and exercise notes', 'Set history for better first targets'],
+    copy: 'Bring over the workouts, routines, notes, and set history you already trust.',
+    bullets: ['Workouts and routines', 'Exercise notes', 'Set history for better first targets'],
   },
   {
-    icon: 'camera',
-    title: 'Progress photos and body metrics',
-    copy: 'Strength numbers matter, but physique progress needs more than a list of sets.',
-    bullets: ['Body weight and measurements', 'Progress photos', 'Training trends beside body metrics'],
+    icon: 'chart',
+    title: 'Weekly muscle targets',
+    copy: 'See which muscles have reached their weekly hard-set target and which still need work.',
+    bullets: ['Hard sets by muscle', 'Sets left this week', 'Workout history behind every total'],
   },
   {
     icon: 'library',
-    title: 'Check volume before you overdo it',
-    copy: 'Check next-set math, weekly volume, and hypertrophy guidance without leaving your training log.',
-    bullets: ['Next-set calculator', 'Weekly volume checker', 'Built-in hypertrophy guides'],
+    title: 'Progress that leads to an action',
+    copy: 'Review lift history, PRs, workout consistency, and muscle targets without a dashboard full of noise.',
+    bullets: ['Lift history and PRs', 'Workout log', 'Muscle-target progress'],
   },
 ]
 
@@ -88,7 +88,7 @@ const confidenceItems = [
   {
     icon: 'chart',
     title: 'Start with targets',
-    copy: 'Open the workout with load, reps, effort, and recent performance already in view.',
+    copy: 'Open the workout with the next load, rep range, and recent result already in view.',
   },
   {
     icon: 'sync',
@@ -105,15 +105,15 @@ const confidenceItems = [
 const switchReasons = [
   {
     title: 'Hevy power users',
-    quote: 'Keep the log you built. Turn it into the next weight, rep target, and RIR call.',
+    quote: 'Keep the log you built. Turn it into the next load, rep target, and weekly muscle total.',
   },
   {
     title: 'Spreadsheet lifters',
-    quote: 'Stop doing progression math between sets. Keep the plan, logger, and body metrics in one place.',
+    quote: 'Stop doing progression math between sets. Keep the plan, logger, and targets in one place.',
   },
   {
     title: 'Science-based trainees',
-    quote: 'Tie RIR, volume, exercise history, and body metrics to the work you are about to do.',
+    quote: 'Tie rep ranges, weekly hard sets, and exercise history to the work you are about to do.',
   },
   {
     title: 'Busy lifters',
@@ -128,27 +128,27 @@ const faqs = [
   },
   {
     question: 'How is Jacked different from a basic workout tracker?',
-    answer: 'Most workout trackers store what you did. Jacked uses what you did to suggest the next target: load, reps, RIR, rest, and whether your body metrics are moving.',
+    answer: 'Most workout trackers store what you did. Jacked turns that history into a next load and rep target, then shows how the workout moves each muscle toward its weekly target.',
   },
   {
     question: 'Can I import from Hevy?',
-    answer: 'Yes. Jacked includes a Hevy import path for workouts, routines, measurements, exercise notes, and set context so your existing log can keep working on day one.',
+    answer: 'Yes. Jacked includes a Hevy import path for workouts, routines, exercise notes, and set context so your existing log can keep working on day one.',
   },
   {
     question: 'Does Jacked replace a coach?',
-    answer: 'No. Jacked will not coach your form. It helps you run the workout: targets, RIR, rest, progression, and training history while you are in the gym.',
+    answer: 'No. Jacked will not coach your form. It helps you run the workout: targets, rest, progression, and training history while you are in the gym.',
   },
   {
     question: 'Does it work for advanced trainees?',
-    answer: 'Yes. Advanced lifters can keep control of exercise selection and programming while using Jacked for faster logging, RIR targets, and performance-driven progression.',
+    answer: 'Yes. Advanced lifters keep control of exercise selection and programming while using Jacked for faster logging, weekly targets, and performance-driven progression.',
   },
   {
-    question: 'Where do I see current pricing?',
-    answer: 'Open the App Store listing to see the current pricing and regional subscription terms Apple shows for your account.',
+    question: 'Is Jacked free?',
+    answer: 'Yes. Jacked is currently free to download and use on iPhone. The App Store listing is the source for current availability.',
   },
   {
-    question: 'What happens to my photos and training data?',
-    answer: 'Review the App Store privacy section and Jacked privacy policy before installing. Training logs, body metrics, and progress photos are sensitive, so the privacy details should be part of the decision.',
+    question: 'Where is my workout data stored?',
+    answer: 'Workout history is stored locally on your iPhone. Jacked does not require a user account to start training. See the privacy policy for the full data-handling summary.',
   },
 ]
 
@@ -157,7 +157,7 @@ const acquisitionGuides = [
   ['/blog/best-hypertrophy-app-ios-review', 'Best hypertrophy app for iOS', 'How to judge a workout tracker when progression, RIR, and volume actually matter.'],
   ['/blog/progressive-overload-app-works', 'Progressive overload apps', 'Why good targets need rep ranges, effort, and performance history.'],
   ['/blog/hypertrophy-app-vs-generic-tracker', 'Hypertrophy app vs tracker', 'The difference between storing workouts and making the next set easier to choose.'],
-  ['/blog/import-hevy-to-jacked', 'Import Hevy to Jacked', 'Move workouts, routines, notes, and measurements into a more progression-focused workflow.'],
+  ['/blog/import-hevy-to-jacked', 'Import Hevy to Jacked', 'Move workouts, routines, notes, and set history into a more progression-focused workflow.'],
   ['/tools/next-set-calculator', 'Next set calculator', 'See the repeat, add-reps, add-load, or back-off decision in isolation.'],
   ['/tools/weekly-volume-checker', 'Weekly volume checker', 'Check whether muscle-level set volume matches the work you are trying to recover from.'],
 ]
@@ -167,7 +167,7 @@ const gymPanels = [
     image: '/marketing/generated/jacked-workout-flow.webp',
     alt: 'Man athlete seated beside a barbell reviewing an iPhone in a dark strength gym',
     title: 'Your last set stays where you need it',
-    copy: 'Load, reps, RIR, rest, and recent performance stay beside the set they affect.',
+    copy: 'Load, reps, rest, and recent performance stay beside the set they affect.',
   },
   {
     image: '/marketing/generated/jacked-final-woman.webp',
@@ -322,11 +322,11 @@ function AppStoreButton({ href, children = 'Jacked for iPhone', eyebrow = 'Downl
 
 function PhoneMockup() {
   return (
-    <div className="phone-shell" role="img" aria-label="Jacked app preview showing next-set targets, RIR, rest timer, and weekly muscle volume">
+    <div className="phone-shell" role="img" aria-label="Jacked app preview showing the next lift, rep range, rest timer, and weekly muscle targets">
       <div className="phone-screen" aria-hidden="true">
         <div className="phone-status">
           <span>9:41</span>
-          <span>Upper Push A</span>
+          <span>Upper Push</span>
         </div>
         <div className="app-topline">
           <div>
@@ -341,24 +341,24 @@ function PhoneMockup() {
           <h3>Barbell Bench Press</h3>
           <div className="set-targets">
             <div>
+              <span>Last</span>
+              <strong>205</strong>
+              <small>lb x 6</small>
+            </div>
+            <div>
               <span>Target</span>
               <strong>225</strong>
               <small>lb</small>
             </div>
             <div>
-              <span>Reps</span>
-              <strong>6</strong>
+              <span>Range</span>
+              <strong>6–10</strong>
               <small>reps</small>
-            </div>
-            <div>
-              <span>RIR</span>
-              <strong>1</strong>
-              <small>RIR</small>
             </div>
           </div>
           <div className="coach-note">
-            <strong>Top set</strong>
-            <span>Add weight next time. Last: 205 lb x 6 @ RIR 1.</span>
+            <strong>Double progression</strong>
+            <span>Reach 10 reps, then add load.</span>
           </div>
         </section>
 
@@ -374,8 +374,8 @@ function PhoneMockup() {
         <section className="app-panel">
           <div className="volume-head">
             <div>
-              <p>Weekly muscle volume</p>
-              <span>Set volume and target sets</span>
+              <p>Weekly muscle targets</p>
+              <span>Hard sets this week</span>
             </div>
             <strong>More</strong>
           </div>
@@ -394,7 +394,7 @@ function PhoneMockup() {
         </section>
 
         <nav className="phone-tabs" aria-label="App preview tabs">
-          {['Today', 'Log', 'Progress', 'Library', 'More'].map((tab) => (
+          {['Today', 'Train', 'Progress', 'Plan', 'Settings'].map((tab) => (
             <span key={tab} className={tab === 'Today' ? 'active' : ''}>{tab}</span>
           ))}
         </nav>
@@ -417,10 +417,10 @@ function AcquisitionGuides() {
     <section id="science" className="science-section">
       <div className="wrap science-layout">
         <div className="science-copy">
-          <h2>Guides for volume, RIR, recovery, and progression.</h2>
+          <h2>Guides for training volume, recovery, and progression.</h2>
           <p>
-            Use built-in guides and tools to check volume, RIR, deloads, exercise selection,
-            recovery, and progressive overload decisions without leaving your training workflow.
+            Read practical guides and use free tools to understand training volume, deloads,
+            exercise selection, recovery, and progressive overload.
           </p>
           <Link href="/blog" className="text-link" data-nav-section="training_library">
             Browse training guides
@@ -445,7 +445,7 @@ function GymStory() {
       <div className="wrap">
         <SectionHeader
           title="Built for the work between sets."
-          copy="Last set, target reps, load, RIR, and rest stay visible when you need them."
+          copy="Your last result, target reps, load, and rest stay visible when you need them."
         />
         <div className="visual-grid">
           {gymPanels.map((panel, index) => (
@@ -475,13 +475,13 @@ function ProgressionSection() {
         <div>
           <SectionHeader
             align="left"
-            title="Progression guidance without babysitting a spreadsheet."
-            copy="Jacked keeps the useful details in view: target range, last result, logged reps, load, RIR, rest, and recent performance."
+            title="Double progression without mid-workout math."
+            copy="Jacked keeps the useful details in view: target range, last result, logged reps, load, rest, and recent performance."
           />
           <div className="coach-list">
             {[
-              ['1', 'Know the target before the set', 'Weight, rep range, last result, and RIR target are visible before the work starts.'],
-              ['2', 'Record the set result', 'Log the actual reps and effort while the set is still fresh.'],
+              ['1', 'Know the target before the set', 'Weight, rep range, and your last result are visible before the work starts.'],
+              ['2', 'Record the set result', 'Log the actual weight and reps while the set is still fresh.'],
               ['3', 'Let history guide the next move', 'Recent performance informs whether you repeat, add reps, add load, or hold steady.'],
             ].map(([number, title, copy]) => (
               <div key={title} className="coach-row">
@@ -506,9 +506,9 @@ function ProgressionSection() {
           <h3>What changes inside the workout</h3>
           <div className="decision-table">
             {[
-              ['Old flow', 'Your last set is buried when you need it most.', 'Jacked', 'Target, last result, and RIR are visible before the set.'],
+              ['Old flow', 'Your last set is buried when you need it most.', 'Jacked', 'Target load, rep range, and last result are visible before the set.'],
               ['Old flow', 'Rest timing lives in a separate mental checklist.', 'Jacked', 'Rest stays attached to the active workout.'],
-              ['Old flow', 'Progress photos, PRs, and body metrics tell separate stories.', 'Jacked', 'Training output and physique markers sit together.'],
+              ['Old flow', 'Weekly volume is difficult to judge across a split.', 'Jacked', 'Hard sets and sets left stay visible by muscle.'],
               ['Old flow', 'Switching tools means rebuilding context.', 'Jacked', 'Hevy import keeps prior training data available.'],
             ].map(([oldLabel, oldCopy, newLabel, newCopy]) => (
               <div key={newCopy} className="decision-row">
@@ -1761,12 +1761,12 @@ export default function HomeClient() {
             <h1>
               <span className="hero-wordmark">JACKED</span>
               <span className="hero-promise">
-                Know your <span className="gold-text">next set</span> before you lift.
+                Hit your <span className="gold-text">weekly targets.</span> Progress every lift.
               </span>
             </h1>
             <p>
-              Jacked shows what to lift next, lets you log the set fast, and uses your history
-              to guide the next target. Built for iPhone lifters training for strength and hypertrophy.
+              Jacked turns recent performance into your next load and rep target, shows the hard
+              sets left for each muscle, and keeps workout logging fast. Free on iPhone.
             </p>
             <div className="hero-actions">
               <AppStoreButton href={appStoreUrl('hero')} content="homepage_hero" eyebrow="View on the">
@@ -1776,16 +1776,16 @@ export default function HomeClient() {
                 See how targets work
               </a>
             </div>
-            <p className="store-note">The App Store shows current pricing and subscription terms before you subscribe.</p>
+            <p className="store-note">Free to download. No account required.</p>
             <div className="trust-line">
               <i aria-hidden="true" />
               <span>For iPhone lifters who have outgrown plain workout logs and spreadsheet upkeep.</span>
             </div>
             <div className="trust-chips" aria-label="Jacked core capabilities">
-              <span>Last set in view</span>
-              <span>Target load, reps, and RIR</span>
-              <span>Rest tied to the session</span>
-              <span>Hevy import</span>
+              <span>Next lift decided</span>
+              <span>Weekly hard-set targets</span>
+              <span>Double progression</span>
+              <span>Fast workout logging</span>
             </div>
           </div>
 
@@ -1810,8 +1810,8 @@ export default function HomeClient() {
       <section className="section">
         <div className="wrap">
           <SectionHeader
-            title="Walk into the gym with the set already decided."
-            copy="Jacked shows the weight, rep range, last result, and RIR target before you start logging."
+            title="Walk into the gym knowing what to do next."
+            copy="Jacked shows the target load, rep range, and last result before you start logging."
           />
           <div className="workflow-grid">
             {workflow.map((item) => (
@@ -1831,8 +1831,8 @@ export default function HomeClient() {
       <section id="features" className="section features-section">
         <div className="wrap">
           <SectionHeader
-            title="Progressive overload without doing math between sets."
-            copy="Log weight, reps, RIR, rest, and notes without losing sight of what you did last time or what should happen next."
+            title="A workout log that tells you what comes next."
+            copy="Log weight, reps, rest, and notes without losing sight of what you did last time or what should happen next."
           />
           <div className="feature-grid">
             {featureCards.map((feature) => (
@@ -1853,11 +1853,11 @@ export default function HomeClient() {
 
       <GymStory />
 
-      <section id="pricing" className="section confidence-section">
+      <section id="download" className="section confidence-section">
         <div className="wrap">
           <SectionHeader
             title="Try it on your next workout."
-            copy="Open Jacked from the App Store, review the current terms there, and run one session with targets, RIR context, rest timing, and history in one place."
+            copy="Download Jacked for free, no account required, and run one session with targets, rest timing, and history in one place."
           />
           <div className="confidence-layout">
             <div className="confidence-grid">
@@ -1872,7 +1872,7 @@ export default function HomeClient() {
             <aside className="download-panel">
               <h3>Pick the next session now.</h3>
               <p>Use it for your next upper, lower, push, pull, or full-body session. Import history if you have it, or start with a quick template.</p>
-              <AppStoreButton href={appStoreUrl('pricing')} content="homepage_pricing" eyebrow="View on the">
+              <AppStoreButton href={appStoreUrl('download')} content="homepage_download" eyebrow="View on the">
                 App Store
               </AppStoreButton>
             </aside>
@@ -1884,7 +1884,7 @@ export default function HomeClient() {
         <div className="wrap">
           <SectionHeader
             title="Turn your log into today's targets."
-            copy="Hevy, spreadsheets, and basic trackers can hold your history. Jacked turns that history into the next weight, rep target, RIR call, and physique check-in."
+            copy="Hevy, spreadsheets, and basic trackers can hold your history. Jacked turns that history into the next load, rep range, and weekly muscle target."
           />
           <div className="reasons-grid">
             {switchReasons.map((reason) => (
@@ -1918,8 +1918,8 @@ export default function HomeClient() {
           <div className="final-cta-inner">
             <h2>See if Jacked fits your next workout.</h2>
             <p>
-              Open the App Store, check the current pricing, and try Jacked with your next session.
-              Import your history if you want context from day one.
+              Free on iPhone. Start with a balanced plan or import compatible history for context
+              from day one.
             </p>
             <AppStoreButton href={appStoreUrl('final_cta')} content="homepage_final" eyebrow="View on the">
               App Store

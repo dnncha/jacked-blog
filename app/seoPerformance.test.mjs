@@ -19,7 +19,7 @@ const aiProgrammingArticle = await readFile(new URL('../content/blog/ai-fitness-
 assert.ok(!layout.includes('record_sessions_percent:100'), 'public pages must not record 100% of sessions')
 assert.ok(!layout.includes("'@type': 'FAQPage'"), 'FAQ schema must not be injected globally')
 assert.ok(layout.includes("color: '#8f897c'"), 'footer text should meet contrast on the dark footer')
-assert.ok(layout.includes('Hypertrophy Workout Tracker & Planner'), 'site title should match App Store positioning and workout tracker language')
+assert.ok(layout.includes('Free Gym Workout Tracker with Weekly Muscle Targets'), 'site title should match the current workout tracker positioning')
 assert.ok(layout.includes('/favicon-96x96.png'), 'Google-facing favicon should use an explicit 48px+ square icon')
 assert.ok(layout.includes('sizes="96x96"'), 'favicon link should expose a Google-friendly square size')
 assert.ok(layout.includes('type="image/png"'), 'favicon link should expose a crawlable PNG type')
