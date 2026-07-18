@@ -4,6 +4,12 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'jacked-blog.vercel.app' }],
+        destination: 'https://jacked.coach/:path*',
+        permanent: true,
+      },
+      {
         source: '/blog/beta-ecdysterone-muscle-growth',
         destination: '/blog/beta-ecdysterone-muscle-anabolic-research',
         permanent: true,

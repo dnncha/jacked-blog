@@ -3,13 +3,20 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "predev": "node scripts/generate-blog-content.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/generate-blog-content.mjs",
     "build": "next build",
     "start": "next start",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "lint": "npm run test",
+    "pretest": "node scripts/generate-blog-content.mjs",
     "test": "node app/seoPerformance.test.mjs && node app/layoutAnalytics.test.mjs && node app/homepageProductTruth.test.mjs && node app/tools/calculators.test.mjs && node app/tools/toolData.test.mjs && node app/tools/toolSeo.test.mjs"
   },
   "dependencies": {
+    "@opennextjs/cloudflare": "^1.20.1",
     "gray-matter": "^4.0.3",
     "mermaid": "^11.12.3",
     "next": "^16.2.6",
@@ -20,5 +27,8 @@
   },
   "overrides": {
     "postcss": "^8.5.10"
+  },
+  "devDependencies": {
+    "wrangler": "^4.112.0"
   }
 }

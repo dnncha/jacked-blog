@@ -2,6 +2,7 @@ import assert from 'node:assert/strict'
 import { readFile } from 'node:fs/promises'
 
 const layout = await readFile(new URL('./layout.js', import.meta.url), 'utf8')
+const nextConfig = await readFile(new URL('../next.config.js', import.meta.url), 'utf8')
 const home = await readFile(new URL('./page.js', import.meta.url), 'utf8')
 const homeClient = await readFile(new URL('./page.client.js', import.meta.url), 'utf8')
 const blogRenderer = await readFile(new URL('./blog/[slug]/page.js', import.meta.url), 'utf8')
@@ -21,6 +22,8 @@ assert.ok(!layout.includes("'@type': 'FAQPage'"), 'FAQ schema must not be inject
 assert.ok(layout.includes("color: '#8f897c'"), 'footer text should meet contrast on the dark footer')
 assert.ok(layout.includes('Free Gym Workout Tracker with Weekly Muscle Targets'), 'site title should match the current workout tracker positioning')
 assert.ok(layout.includes('/favicon-96x96.png'), 'Google-facing favicon should use an explicit 48px+ square icon')
+assert.ok(nextConfig.includes("value: 'jacked-blog.vercel.app'"), 'legacy Vercel host should keep its canonical redirect')
+assert.ok(nextConfig.includes("destination: 'https://jacked.coach/:path*'"), 'legacy Vercel redirect should preserve the requested path')
 assert.ok(layout.includes('sizes="96x96"'), 'favicon link should expose a Google-friendly square size')
 assert.ok(layout.includes('type="image/png"'), 'favicon link should expose a crawlable PNG type')
 

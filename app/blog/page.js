@@ -1,7 +1,5 @@
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
 import BlogIndexClient from './page.client'
+import { allBlogPosts } from './posts'
 
 export const metadata = {
   title: 'Training Library',
@@ -31,26 +29,14 @@ export const metadata = {
 }
 
 function getPosts() {
-  const postsDir = path.join(process.cwd(), 'content', 'blog')
-
-  if (!fs.existsSync(postsDir)) {
-    return []
-  }
-
-  return fs.readdirSync(postsDir)
-    .filter(file => file.endsWith('.md'))
-    .map(file => {
-      const slug = file.replace('.md', '')
-      const fullPath = path.join(postsDir, file)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data } = matter(fileContents)
-
+  return allBlogPosts
+    .map(post => {
       return {
-        slug,
-        title: data.title || 'Untitled article',
-        excerpt: data.excerpt || '',
-        date: data.date || '',
-        category: data.category || 'General',
+        slug: post.slug,
+        title: post.title,
+        excerpt: post.excerpt,
+        date: post.date,
+        category: post.category,
       }
     })
     .sort((a, b) => {

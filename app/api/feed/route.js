@@ -1,8 +1,4 @@
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
-
-const postsDir = path.join(process.cwd(), 'content', 'blog')
+import { allBlogPosts } from '../../blog/posts'
 
 function isValidDate(value) {
   return Boolean(value && !Number.isNaN(new Date(value).getTime()))
@@ -27,24 +23,15 @@ function cdata(value) {
 }
 
 function getPosts() {
-  if (!fs.existsSync(postsDir)) {
-    return []
-  }
-  
-  const files = fs.readdirSync(postsDir)
-  return files
-    .filter(file => file.endsWith('.md'))
-    .map(file => {
-      const fullPath = path.join(postsDir, file)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data, content } = matter(fileContents)
+  return allBlogPosts
+    .map(post => {
       return {
-        slug: file.replace('.md', ''),
-        title: data.title || '',
-        excerpt: data.excerpt || '',
-        date: isValidDate(data.date) ? data.date : '',
-        sortDate: isValidDate(data.date) ? data.date : fallbackDateForSlug(file),
-        category: data.category || 'General'
+        slug: post.slug,
+        title: post.title,
+        excerpt: post.excerpt,
+        date: isValidDate(post.date) ? post.date : '',
+        sortDate: isValidDate(post.date) ? post.date : fallbackDateForSlug(post.slug),
+        category: post.category
       }
     })
     .sort((a, b) => new Date(b.sortDate) - new Date(a.sortDate))

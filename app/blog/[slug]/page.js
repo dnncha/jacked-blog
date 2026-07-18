@@ -1,16 +1,9 @@
-import fs from 'fs'
-import path from 'path'
-import { fileURLToPath } from 'url'
-import matter from 'gray-matter'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { remark } from 'remark'
 import remarkHtml from 'remark-html'
 import { relatedToolsForArticle } from '../../tools/toolSeo.mjs'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
+import { allBlogPosts, findBlogPost } from '../posts'
 
 function isValidDate(value) {
   return Boolean(value && !Number.isNaN(new Date(value).getTime()))
@@ -177,37 +170,26 @@ async function parseContent(content) {
 }
 
 function getPost(slug) {
-  const fullPath = path.join(postsDir, `${slug}.md`)
-
-  if (!fs.existsSync(fullPath)) {
-    return null
-  }
-
-  const fileContents = fs.readFileSync(fullPath, 'utf8')
-  const { data, content } = matter(fileContents)
+  const source = findBlogPost(slug)
+  if (!source) return null
 
   return {
     slug,
-    title: data.title || 'Untitled article',
-    excerpt: data.excerpt || '',
-    date: isValidDate(data.date) ? data.date : '',
-    category: data.category || 'General',
-    keywords: metaKeywords(data.keywords),
-    entities: entityList(data.entities),
-    rankingItems: rankingItems(data.rankingItems),
-    content,
+    title: source.title,
+    excerpt: source.excerpt,
+    date: isValidDate(source.date) ? source.date : '',
+    category: source.category,
+    keywords: metaKeywords(source.keywords),
+    entities: entityList(source.entities),
+    rankingItems: rankingItems(source.rankingItems),
+    content: source.content,
   }
 }
 
 function getPosts() {
-  if (!fs.existsSync(postsDir)) {
-    return []
-  }
-
-  return fs.readdirSync(postsDir)
-    .filter(file => file.endsWith('.md'))
-    .map(file => {
-      const slug = file.replace('.md', '')
+  return allBlogPosts
+    .map(source => {
+      const { slug } = source
       const post = getPost(slug)
       return {
         slug,
@@ -247,8 +229,6 @@ function relatedPosts(posts, currentSlug, currentTitle, currentExcerpt, currentC
     .sort((a, b) => b._score - a._score || a.title.localeCompare(b.title))
     .slice(0, 4)
 }
-
-export const dynamicParams = false
 
 export async function generateMetadata({ params }) {
   const { slug } = await params
@@ -290,15 +270,7 @@ export async function generateMetadata({ params }) {
 }
 
 export async function generateStaticParams() {
-  if (!fs.existsSync(postsDir)) {
-    return []
-  }
-
-  return fs.readdirSync(postsDir)
-    .filter(file => file.endsWith('.md'))
-    .map(file => ({
-      slug: file.replace('.md', ''),
-    }))
+  return allBlogPosts.map(post => ({ slug: post.slug }))
 }
 
 export default async function BlogPost({ params }) {

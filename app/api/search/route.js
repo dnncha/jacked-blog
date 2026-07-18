@@ -1,8 +1,4 @@
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
-
-const postsDir = path.join(process.cwd(), 'content', 'blog')
+import { allBlogPosts } from '../../blog/posts'
 let cachedPosts = null
 
 function dateValue(value) {
@@ -12,21 +8,10 @@ function dateValue(value) {
 function getSearchPosts() {
   if (cachedPosts) return cachedPosts
 
-  if (!fs.existsSync(postsDir)) {
-    cachedPosts = []
-    return cachedPosts
-  }
-  
-  const files = fs.readdirSync(postsDir)
-  cachedPosts = files
-    .filter(file => file.endsWith('.md'))
-    .map(file => {
-      const fullPath = path.join(postsDir, file)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data, content } = matter(fileContents)
-      
+  cachedPosts = allBlogPosts
+    .map(post => {
       // Extract first 200 chars of content for search preview
-      const plainContent = content
+      const plainContent = post.content
         .replace(/^#.*$/gm, '')
         .replace(/^##.*$/gm, '')
         .replace(/^###.*$/gm, '')
@@ -36,12 +21,12 @@ function getSearchPosts() {
         .slice(0, 200)
       
       return {
-        slug: file.replace('.md', ''),
-        title: data.title || '',
-        excerpt: data.excerpt || '',
-        date: data.date || '',
+        slug: post.slug,
+        title: post.title,
+        excerpt: post.excerpt,
+        date: post.date,
         content: plainContent,
-        category: data.category || 'General'
+        category: post.category
       }
     })
     .sort((a, b) => dateValue(b.date) - dateValue(a.date) || a.title.localeCompare(b.title))

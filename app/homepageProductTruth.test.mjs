@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { readFile } from 'node:fs/promises'
+import { readFile, readdir } from 'node:fs/promises'
 
 const files = await Promise.all([
   './page.client.js',
@@ -35,14 +35,36 @@ for (const phrase of [
 
 const internalPlanningLanguage = [
   'adoption evidence',
+  'adoption trust',
+  'ai slop',
   'big wins',
+  'evidence-bounded',
+  'industry exposure',
+  'massive industry impact',
   'next wins',
   'pilot conversations',
   'private feedback',
+  'quote-approved',
+  'turning private evaluation into public adoption evidence',
+  'without turning private feedback into public evidence',
 ]
 
+async function publicSourceFiles(directory) {
+  const entries = await readdir(directory, { withFileTypes: true })
+  const nested = await Promise.all(entries.map(async entry => {
+    const path = `${directory}/${entry.name}`
+    if (entry.isDirectory()) return publicSourceFiles(path)
+    if (entry.name.includes('.test.') || entry.name === 'posts.generated.json') return []
+    return /\.(?:js|jsx|mjs|md|json|txt|xml)$/.test(entry.name) ? [path] : []
+  }))
+  return nested.flat()
+}
+
+const sourcePaths = (await Promise.all(['app', 'content', 'public'].map(publicSourceFiles))).flat()
+const publicFacingCopy = (await Promise.all(sourcePaths.map(path => readFile(path, 'utf8')))).join('\n').toLowerCase()
+
 for (const phrase of internalPlanningLanguage) {
-  assert.ok(!publicCopy.toLowerCase().includes(phrase), `public conversion copy must not expose internal planning language: ${phrase}`)
+  assert.ok(!publicFacingCopy.includes(phrase), `public-facing source must not expose internal planning language: ${phrase}`)
 }
 
 console.log('homepage product truth tests passed')

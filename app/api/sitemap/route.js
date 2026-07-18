@@ -1,9 +1,5 @@
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
 import { tools } from '../../tools/toolData.mjs'
-
-const postsDir = path.join(process.cwd(), 'content', 'blog')
+import { allBlogPosts } from '../../blog/posts'
 
 function isValidDate(value) {
   return Boolean(value && !Number.isNaN(new Date(value).getTime()))
@@ -15,21 +11,12 @@ function fallbackDateForSlug(slug) {
 }
 
 function getPosts() {
-  if (!fs.existsSync(postsDir)) {
-    return []
-  }
-  
-  const files = fs.readdirSync(postsDir)
-  return files
-    .filter(file => file.endsWith('.md'))
-    .map(file => {
-      const fullPath = path.join(postsDir, file)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data } = matter(fileContents)
+  return allBlogPosts
+    .map(post => {
       return {
-        slug: file.replace('.md', ''),
-        date: isValidDate(data.date) ? data.date : '',
-        sortDate: isValidDate(data.date) ? data.date : fallbackDateForSlug(file)
+        slug: post.slug,
+        date: isValidDate(post.date) ? post.date : '',
+        sortDate: isValidDate(post.date) ? post.date : fallbackDateForSlug(post.slug)
       }
     })
     .sort((a, b) => {
