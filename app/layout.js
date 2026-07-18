@@ -157,7 +157,7 @@ export default function RootLayout({ children }) {
               <Link href="/blog" style={{ color: '#b7b0a3', textDecoration: 'none', fontWeight: '650', fontSize: '0.88rem' }}>Training Library</Link>
               <Link href="/about" style={{ color: '#b7b0a3', textDecoration: 'none', fontWeight: '650', fontSize: '0.88rem' }}>About</Link>
               <Link href="/support" style={{ color: '#b7b0a3', textDecoration: 'none', fontWeight: '650', fontSize: '0.88rem' }}>Support</Link>
-              <a href="https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=header_cta" target="_blank" rel="noopener noreferrer" style={{ 
+              <a href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8" target="_blank" rel="noopener noreferrer" style={{ 
                 color: '#111', 
                 textDecoration: 'none', 
                 fontWeight: '720',
