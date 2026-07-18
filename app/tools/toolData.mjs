@@ -1,4 +1,4 @@
-export const APP_STORE_BASE = 'https://apps.apple.com/us/app/jacked/id6757132605'
+export const APP_STORE_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
 
 export const toolGroups = [
   {
@@ -979,5 +979,5 @@ export const tools = [...coreTools, ...exerciseSpecificTools]
 export const toolMap = Object.fromEntries(tools.map((tool) => [tool.slug, tool]))
 
 export function appStoreUrl(campaign, content = 'tool_cta') {
-  return `${APP_STORE_BASE}?utm_source=jacked_coach&utm_medium=tool&utm_campaign=${campaign}&utm_content=${content}`
+  return APP_STORE_BASE
 }

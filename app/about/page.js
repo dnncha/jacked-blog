@@ -25,7 +25,7 @@ export const metadata = {
   },
 }
 
-const appStoreUrl = 'https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_coach&utm_medium=about_page&utm_campaign=ios_install'
+const appStoreUrl = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
 
 export default function About() {
   return (
