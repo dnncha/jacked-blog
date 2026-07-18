@@ -1,0 +1,268 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tae9,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors#webpage","url":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors","name":"The Local IGF-1 System: How Your Muscles Create Their Own Growth Factors","description":"Beyond systemic hormones—discover how your muscles produce their own IGF-1 variants (MGF and IGF-1Ea) in response to mechanical tension, and why this matters...","breadcrumb":{"@id":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors#webpage"},"headline":"The Local IGF-1 System: How Your Muscles Create Their Own Growth Factors","description":"Beyond systemic hormones—discover how your muscles produce their own IGF-1 variants (MGF and IGF-1Ea) in response to mechanical tension, and why this matters...","isAccessibleForFree":true,"wordCount":959,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Local IGF-1 System: How Your Muscles Create Their Own Growth Factors","item":"https://jacked.coach/blog/local-igf-1-muscle-growth-factors"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Local IGF-1 System: How Your Muscles Create Their Own Growth Factors"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Beyond systemic hormones—discover how your muscles produce their own IGF-1 variants (MGF and IGF-1Ea) in response to mechanical tension, and why this matters for hypertrophy."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Local%20IGF-1%20System%3A%20How%20Your%20Muscles%20Create%20Their%20Own%20Growth%20Factors&url=https://jacked.coach/blog/local-igf-1-muscle-growth-factors","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","systemic-vs-local-igf-1-two-different-systems",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#systemic-vs-local-igf-1-two-different-systems","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Systemic vs. Local IGF-1: Two Different Systems"}]}],["$","li","the-igf-1-splice-variants",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-igf-1-splice-variants","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The IGF-1 Splice Variants"}]}],["$","li","igf-1ea",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#igf-1ea","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"IGF-1Ea"}]}],["$","li","mechano-growth-factor-mgf",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#mechano-growth-factor-mgf","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Mechano Growth Factor (MGF)"}]}],["$","li","the-mechanical-trigger",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-mechanical-trigger","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Mechanical Trigger"}]}],["$","li","the-satellite-cell-connection",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-satellite-cell-connection","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Satellite Cell Connection"}]}],["$","li","practical-implications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-implications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Implications"}]}],["$","li","1-mechanical-tension-is-non-negotiable",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-mechanical-tension-is-non-negotiable","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Mechanical Tension Is Non-Negotiable"}]}],["$","li","2-eccentric-training-amplifies-the-signal",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-eccentric-training-amplifies-the-signal","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Eccentric Training Amplifies the Signal"}]}],["$","li","3-training-frequency-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-training-frequency-matters","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Training Frequency Matters"}]}],["$","li","4-age-related-decline",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-age-related-decline","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Age-Related Decline"}]}],["$","li","5-sleep-and-nutrition-still-count",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-sleep-and-nutrition-still-count","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Sleep and Nutrition Still Count"}]}],["$","li","the-big-picture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-big-picture","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Big Picture"}]}]]}]]}]
+e:T1ebb,<p>When we talk about muscle growth, testosterone and growth hormone usually steal the spotlight. But there's a far more interesting story happening inside your muscle fibers themselves—one that explains why mechanical tension, not hormones alone, drives hypertrophy.</p>
+<p>Your muscles aren't just passive recipients of systemic hormones. They're active factories, producing their own growth factors in response to mechanical load. This local IGF-1 system is where the real magic happens.</p>
+<h2 id="systemic-vs-local-igf-1-two-different-systems">Systemic vs. Local IGF-1: Two Different Systems</h2>
+<p>The insulin-like growth factor (IGF-1) system comes in two flavors:</p>
+<ol>
+<li>
+<p><strong>Systemic IGF-1</strong> (primarily liver-derived): Circulates throughout your body, influenced by growth hormone, nutrition, and overall hormonal status.</p>
+</li>
+<li>
+<p><strong>Local IGF-1</strong> (muscle-produced): Synthesized directly within muscle tissue in response to mechanical loading.</p>
+</li>
+</ol>
+<p>While systemic IGF-1 certainly matters—it's involved in overall anabolic signaling—the local production is what directly drives muscle protein synthesis after training. This is why blood tests showing "normal" IGF-1 don't tell the whole story of your muscle-building potential.</p>
+<h2 id="the-igf-1-splice-variants">The IGF-1 Splice Variants</h2>
+<p>Muscle tissue doesn't just produce one version of IGF-1. It produces different splice variants with distinct functions:</p>
+<h3 id="igf-1ea">IGF-1Ea</h3>
+<p>The predominant form in mature muscle tissue. IGF-1Ea promotes:</p>
+<ul>
+<li>Muscle protein synthesis</li>
+<li>Satellite cell activation</li>
+<li>Myogenic differentiation</li>
+<li>General anabolic signaling</li>
+</ul>
+<p>Think of IGF-1Ea as the "maintenance and growth" signal—it supports ongoing muscle protein synthesis and helps satellite cells mature into new muscle fibers.</p>
+<h3 id="mechano-growth-factor-mgf">Mechano Growth Factor (MGF)</h3>
+<p>This is the fascinating one. MGF (also known as IGF-1Ec) is produced specifically in response to mechanical loading. Its primary roles:</p>
+<ul>
+<li><strong>Satellite cell activation</strong>: MGF is the first signal released after muscle damage, activating dormant satellite cells</li>
+<li><strong>Nucleus donation</strong>: It prompts satellite cells to fuse with muscle fibers, adding new nuclei (this is a key limit on hypertrophy)</li>
+<li><strong>Tissue repair</strong>: MGF peaks around 24-48 hours post-exercise, coinciding with the repair window</li>
+</ul>
+<p>MGF is essentially your muscle's "emergency growth signal"—it tells the body that mechanical damage has occurred and repairs are needed.</p>
+<h2 id="the-mechanical-trigger">The Mechanical Trigger</h2>
+<p>Here's where it gets interesting: local IGF-1 production is primarily controlled by <strong>mechanical tension</strong>, not hormonal signaling.</p>
+<p>When you lift weights:</p>
+<ol>
+<li>Muscle fibers experience mechanical stress</li>
+<li>This activates mechanosensors on the cell membrane</li>
+<li>The muscle cell upregulates IGF-1 gene expression</li>
+<li>MGF and IGF-1Ea are produced locally</li>
+</ol>
+<p>This explains why:</p>
+<ul>
+<li>Blood flow restriction (BFR) training works despite low loads—mechanical tension still triggers IGF-1 production</li>
+<li>Eccentric training is particularly effective—greater mechanical stress = more IGF-1 release</li>
+<li>High-volume training can overwhelm the system—there's a ceiling on local production</li>
+</ul>
+<h2 id="the-satellite-cell-connection">The Satellite Cell Connection</h2>
+<p>The local IGF-1 system is inseparable from satellite cell biology. Here's why:</p>
+<p>Adult muscle fibers are multinucleated cells—the nuclei you have are the nuclei you keep (mostly). New nuclei come from satellite cells, which are dormant muscle stem cells sitting between the basement membrane and muscle fiber membrane.</p>
+<p>When MGF activates satellite cells:</p>
+<ol>
+<li>They proliferate (divide)</li>
+<li>Some differentiate and fuse with the muscle fiber</li>
+<li>The muscle fiber gains new nuclei</li>
+<li>This increases the "nuclear domain"—the cytoplasm each nucleus can manage</li>
+</ol>
+<p>More nuclei = greater capacity for protein synthesis = more growth potential.</p>
+<p>This is why advanced lifters often hit a plateau: they've maximized their satellite cell recruitment and need increasingly creative stimuli (like eccentric overload or BFR) to continue growing.</p>
+<h2 id="practical-implications">Practical Implications</h2>
+<p>Understanding the local IGF-1 system has real-world applications:</p>
+<h3 id="1-mechanical-tension-is-non-negotiable">1. Mechanical Tension Is Non-Negotiable</h3>
+<p>You cannot shortcut the mechanical trigger. No amount of supplements or hormones will compensate for inadequate tension. Progressive overload isn't optional—it's the primary driver of local IGF-1 production.</p>
+<h3 id="2-eccentric-training-amplifies-the-signal">2. Eccentric Training Amplifies the Signal</h3>
+<p>Lengthening contractions produce greater mechanical stress than concentric or isometric work. This is why:</p>
+<ul>
+<li>Slow negatives, drop sets, and eccentric-focused training can be particularly effective</li>
+<li>The lengthened partial rep method shows promise for hypertrophy</li>
+</ul>
+<h3 id="3-training-frequency-matters">3. Training Frequency Matters</h3>
+<p>The MGF response peaks around 24-48 hours post-training and then declines. Training a muscle group 2-3 times per week may sustain the IGF-1 signaling better than once-weekly training.</p>
+<h3 id="4-age-related-decline">4. Age-Related Decline</h3>
+<p>Older adults experience "anabolic resistance" partly because:</p>
+<ul>
+<li>Satellite cell function declines with age</li>
+<li>Local IGF-1 production in response to loading is reduced</li>
+<li>This is why higher protein intakes and longer recovery periods help older lifters</li>
+</ul>
+<h3 id="5-sleep-and-nutrition-still-count">5. Sleep and Nutrition Still Count</h3>
+<p>While local IGF-1 is mechanically triggered, systemic factors modulate the response:</p>
+<ul>
+<li>Sleep deprivation blunts the IGF-1 response to training</li>
+<li>Protein intake (especially leucine) amplifies the anabolic signal</li>
+<li>Adequate calories prevent the catabolic override</li>
+</ul>
+<h2 id="the-big-picture">The Big Picture</h2>
+<p>Your muscles are smarter than you might think. They're not just passive tissue waiting for hormonal commands—they actively respond to the mechanical challenges you present them.</p>
+<p>The local IGF-1 system—MGF and IGF-1Ea—sits at the intersection of:</p>
+<ul>
+<li>Mechanical loading</li>
+<li>Satellite cell activation</li>
+<li>Protein synthesis signaling</li>
+<li>Muscle repair and growth</li>
+</ul>
+<p>This is why the fundamentals of hypertrophy haven't changed: lift heavy, eat protein, sleep, and progressively overload. You're not just moving weight—you're triggering a cascade of local growth factor production that builds muscle one workout at a time.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ol>
+<li>Goldspink G. Mechanical signals, IGF-I gene splicing, and muscle adaptation. <em>Physiology</em>. 2005.</li>
+<li>Hameed M, et al. The expression of IGF-I splice variants in young and old human skeletal muscle after resistance exercise. <em>J Physiol</em>. 2003.</li>
+<li>Chakravarthy MV, et al. IGF-I is necessary for exercise-induced mesenchymal stem cell mobilization. <em>J Appl Physiol</em>. 2010.</li>
+<li>Serrão FV, et al. Mechanogrowth factor (MGF) expression in skeletal muscle after strength training. <em>Int J Sports Med</em>. 2019.</li>
+<li>Grounds MD. Age-associated changes in the response of skeletal muscle cells to exercise and regeneration. <em>Ann N Y Acad Sci</em>. 1998.</li>
+</ol>
+<hr>
+<p><em>Track your IGF-1 with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","mechanotransduction-muscle-cells-feel-weight",{"href":"/blog/mechanotransduction-muscle-cells-feel-weight","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"How Muscle Cells 'Feel' The Weight: The Science of Mechanotransduction in Hypertrophy"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Discover how your muscle cells convert mechanical tension into growth signals through mechanosensors—and why this changes how you should train."}]]}],["$","$Ld","satellite-cells-muscle-growth-science",{"href":"/blog/satellite-cells-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Satellite Cells: How Your Muscles Actually Grow"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Beyond mechanical tension and metabolic stress lies a cellular army that determines your muscle growth potential. Understanding satellite cells could be the key to maximizing your hypertrophy gains."}]]}],["$","$Ld","metabolic-stress-vs-mechanical-tension",{"href":"/blog/metabolic-stress-vs-mechanical-tension","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Metabolic Stress vs Mechanical Tension: The Real Drivers of Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Scientists debate what actually causes muscles to grow. The answer matters for your training programming."}]]}],["$","$Ld","neuromuscular-efficiency-nervous-system-recruitment",{"href":"/blog/neuromuscular-efficiency-nervous-system-recruitment","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Neuromuscular Efficiency: How Your Nervous System Becomes a Better Recruiter"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals how neural adaptations supercharge strength gains before muscles ever grow—and why this matters for your training."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

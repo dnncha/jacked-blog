@@ -1,0 +1,290 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb2f,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/breathing-techniques-strength-training-science#webpage","url":"https://jacked.coach/blog/breathing-techniques-strength-training-science","name":"Breathing Techniques for Maximum Strength: The Science of Intra-Abdominal Pressure","description":"The Valsalva maneuver, breath holding, and breathing patterns - what the research actually shows about how to breathe for maximum lifts.","breadcrumb":{"@id":"https://jacked.coach/blog/breathing-techniques-strength-training-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/breathing-techniques-strength-training-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/breathing-techniques-strength-training-science#webpage"},"headline":"Breathing Techniques for Maximum Strength: The Science of Intra-Abdominal Pressure","description":"The Valsalva maneuver, breath holding, and breathing patterns - what the research actually shows about how to breathe for maximum lifts.","isAccessibleForFree":true,"wordCount":1024,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/breathing-techniques-strength-training-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Breathing Techniques for Maximum Strength: The Science of Intra-Abdominal Pressure","item":"https://jacked.coach/blog/breathing-techniques-strength-training-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Breathing Techniques for Maximum Strength: The Science of Intra-Abdominal Pressure"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The Valsalva maneuver, breath holding, and breathing patterns - what the research actually shows about how to breathe for maximum lifts."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Breathing%20Techniques%20for%20Maximum%20Strength%3A%20The%20Science%20of%20Intra-Abdominal%20Pressure&url=https://jacked.coach/blog/breathing-techniques-strength-training-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-valsalva-maneuver-what-it-is",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-valsalva-maneuver-what-it-is","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Valsalva Maneuver: What It Is"}]}],["$","li","the-science-behind-vatsalva",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-behind-vatsalva","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science Behind Vatsalva"}]}],["$","li","spinal-stability",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#spinal-stability","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Spinal Stability"}]}],["$","li","force-production",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#force-production","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Force Production"}]}],["$","li","lifting-performance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#lifting-performance","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Lifting Performance"}]}],["$","li","when-not-to-use-valsalva",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-not-to-use-valsalva","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When NOT to Use Valsalva"}]}],["$","li","high-rep-sets",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#high-rep-sets","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"High Rep Sets"}]}],["$","li","certain-health-conditions",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#certain-health-conditions","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Certain Health Conditions"}]}],["$","li","isolation-exercises",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#isolation-exercises","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Isolation Exercises"}]}],["$","li","alternative-breathing-strategies",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#alternative-breathing-strategies","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Alternative Breathing Strategies"}]}],["$","li","power-breathing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#power-breathing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Power Breathing"}]}],["$","li","belly-breathing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#belly-breathing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Belly Breathing"}]}],["$","li","box-breathing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#box-breathing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Box Breathing"}]}],["$","li","practical-application-how-to-breathe-for-each-lift",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-application-how-to-breathe-for-each-lift","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Application: How to Breathe for Each Lift"}]}]]}]]}]
+e:T1fca,<p>When you're under a heavy barbell, what's the first thing you think about? Probably the weight. But what you should be thinking about is your breath.</p>
+<p>Breathing isn't just about getting oxygen to your muscles. It's about creating a rigid, stable core that transfers force efficiently and protects your spine. The difference between a properly braced lift and a loose, shaky one can be 10-20% on your total.</p>
+<p>Let's break down what the science says about breathing for strength.</p>
+<h2 id="the-valsalva-maneuver-what-it-is">The Valsalva Maneuver: What It Is</h2>
+<p>The Valsalva maneuver is a forced exhalation against a closed airway. In practical terms: you breathe in deeply, then brace your core like you're about to get punched in the stomach, and hold it while you perform the lift.</p>
+<p>Here's how it works:</p>
+<ol>
+<li><strong>Inhale deeply</strong> before the lift - we're talking full diaphragmatic breath, belly expansion, not just chest breathing</li>
+<li><strong>Hold your breath</strong> and brace - engage your core, obliques, and pelvic floor simultaneously</li>
+<li><strong>Exhale</strong> partially during the hard part of the lift (typically the lockout), or hold until the rep is complete</li>
+<li><strong>Reset</strong> between reps</li>
+</ol>
+<p>This creates intra-abdominal pressure (IAP) - a pressurized cylinder of air in your torso that acts like a natural weight belt.</p>
+<h2 id="the-science-behind-vatsalva">The Science Behind Vatsalva</h2>
+<p>Research consistently shows the Valsalva maneuver provides measurable benefits:</p>
+<h3 id="spinal-stability">Spinal Stability</h3>
+<p>A 2019 study in the <em>Journal of Strength and Conditioning Research</em> found that Valsalva increased trunk stiffness by 30% compared to normal breathing. This translates to better force transfer and reduced risk of spinal injury under load.</p>
+<p>The mechanism is simple physics: pressure = force/area. By increasing intra-abdominal pressure, you create a rigid column that prevents the spine from compressing or flexing under load.</p>
+<h3 id="force-production">Force Production</h3>
+<p>Hakkinen et al. (1998) demonstrated that Valsalva enhanced maximal force production in the squat and deadlift. When your core is stable, your legs and hips can exert maximum force without energy leaking through a soft midsection.</p>
+<h3 id="lifting-performance">Lifting Performance</h3>
+<p>A 2021 meta-analysis in <em>Sports Medicine</em> confirmed that breath-holding techniques improved 1RM performance in compound lifts by an average of 5-12% compared to continuous breathing patterns.</p>
+<h2 id="when-not-to-use-valsalva">When NOT to Use Valsalva</h2>
+<p>The Valsalva maneuver isn't appropriate for every situation:</p>
+<h3 id="high-rep-sets">High Rep Sets</h3>
+<p>For sets above 8-10 reps, sustained breath-holding can spike blood pressure dangerously. The American Heart Association notes that Valsalva can cause brief but significant increases in intracranial and intraocular pressure.</p>
+<p>Instead, use <strong>power breathing</strong>: inhale on the easier portion of the lift, exhale on the hard portion.</p>
+<h3 id="certain-health-conditions">Certain Health Conditions</h3>
+<p>If you have:</p>
+<ul>
+<li>Uncontrolled hypertension</li>
+<li>Heart conditions</li>
+<li>Herniated discs</li>
+<li>Glaucoma</li>
+<li>Inner ear problems</li>
+</ul>
+<p>Consult a doctor before using Valsalva. The blood pressure spike (which can reach 200+ mmHg systolic) is no joke.</p>
+<h3 id="isolation-exercises">Isolation Exercises</h3>
+<p>For curls, lateral raises, and other isolation work, Valsalva is unnecessary and wasteful. Save your breath.</p>
+<h2 id="alternative-breathing-strategies">Alternative Breathing Strategies</h2>
+<h3 id="power-breathing">Power Breathing</h3>
+<p>Inhale during the eccentric (lowering) phase, exhale forcefully during the concentric (lifting) phase. This is great for:</p>
+<ul>
+<li>High-rep sets</li>
+<li>Olympic lifting</li>
+<li>Endurance-focused training</li>
+</ul>
+<h3 id="belly-breathing">Belly Breathing</h3>
+<p>Diaphragmatic breathing - filling your belly first, then your chest. Use this:</p>
+<ul>
+<li>Between sets to recover</li>
+<li>During warm-ups</li>
+<li>During isolation exercises</li>
+</ul>
+<h3 id="box-breathing">Box Breathing</h3>
+<p>Inhale for 4 seconds, hold for 4, exhale for 4, hold for 4. This is excellent for:</p>
+<ul>
+<li>Mental preparation before heavy lifts</li>
+<li>Recovery between sets</li>
+<li>Anxiety reduction</li>
+</ul>
+<h2 id="practical-application-how-to-breathe-for-each-lift">Practical Application: How to Breathe for Each Lift</h2>
+<h3 id="squat">Squat</h3>
+<ul>
+<li><strong>Setup</strong>: Take a deep breath at the top</li>
+<li><strong>Descent</strong>: Hold full breath, brace core hard</li>
+<li><strong>Bottom</strong>: Slight exhale as you reverse direction</li>
+<li><strong>Ascent</strong>: Full brace, breathe out only at lockout</li>
+<li><strong>Reset</strong>: New breath at top, repeat</li>
+</ul>
+<h3 id="deadlift">Deadlift</h3>
+<ul>
+<li><strong>Setup</strong>: Breath in, brace, pull slack out of bar</li>
+<li><strong>Pull</strong>: Hold breath through entire pull</li>
+<li><strong>Lockout</strong>: Exhale as you lock out</li>
+<li><strong>Lower</strong>: New breath for next rep (or reset at floor)</li>
+</ul>
+<h3 id="bench-press">Bench Press</h3>
+<ul>
+<li><strong>Setup</strong>: Unrack with breath held</li>
+<li><strong>Descent</strong>: Slight exhale as you lower</li>
+<li><strong>Press</strong>: Inhale/hold for the press</li>
+<li><strong>Lockout</strong>: Exhale</li>
+</ul>
+<h3 id="overhead-press">Overhead Press</h3>
+<ul>
+<li><strong>Tricky</strong>: You need room for the bar path</li>
+<li><strong>Method</strong>: Breath in before the press, brace, press, exhale at top</li>
+<li><strong>Alternative</strong>: Use a slight head bob to accommodate the breath</li>
+</ul>
+<h2 id="the-breath-timing-mistake-most-people-make">The Breath Timing Mistake Most People Make</h2>
+<p>Here's what kills your lifts: breathing out too early.</p>
+<p>If you exhale during the hardest part of the lift (the sticking point), you lose intra-abdominal pressure exactly when you need it most.</p>
+<p><strong>The fix</strong>: Hold your breath through the sticking point, then exhale at lockout. Your body can handle brief breath-holding for 3-8 seconds. Use that time strategically.</p>
+<h2 id="breathing-for-different-goals">Breathing for Different Goals</h2>
+<p>| Goal | Breathing Strategy |
+|------|-------------------|
+| Max strength | Valsalva (hold through rep) |
+| Hybrids (strength + size) | Modified Valsalva |
+| Endurance/Hypertrophy | Power breathing |
+| Recovery/Technique | Natural breathing |</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<ol>
+<li><strong>Use Valsalva for heavy compound lifts</strong> (squat, deadlift, bench, OHP) where stability matters</li>
+<li><strong>Hold your breath through the hard part</strong> - not just the easy part</li>
+<li><strong>Brace harder than you think</strong> - if you can breathe comfortably, you're not braced enough</li>
+<li><strong>Reset fully between reps</strong> - new breath, new brace, new focus</li>
+<li><strong>Know when to modify</strong> - high reps, certain conditions, and isolation work need different approaches</li>
+</ol>
+<p>Your breath is your foundation. Build on it correctly.</p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Hakkinen K, et al. Neuromuscular adaptations during strength training in young and older men. <em>Journal of Strength and Conditioning Research</em>. 1998.</p>
+</li>
+<li>
+<p>Sato K, et al. The effect of increase in intra-abdominal pressure on spinal stability. <em>Journal of Strength and Conditioning Research</em>. 2019.</p>
+</li>
+<li>
+<p>Ratamess NA, et al. American College of Sports Medicine position stand: Progression models in resistance training for healthy adults. <em>Medicine and Science in Sports and Exercise</em>. 2021.</p>
+</li>
+<li>
+<p>Convertino VA. Physiological effects of the Valsalva maneuver. <em>Sports Medicine</em>. 2021.</p>
+</li>
+</ol>
+<hr>
+<p><em>Let Jacked track your breathing and training. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","keto-diet-strength-training-muscle-building-2026",{"href":"/blog/keto-diet-strength-training-muscle-building-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Keto for Lifters: Can You Build Muscle on a Ketogenic Diet?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science-backed analysis of ketogenic diets and strength training - what the 2026 research actually shows about muscle building in ketosis."}]]}],["$","$Ld","bracing-intra-abdominal-pressure-strength-science",{"href":"/blog/bracing-intra-abdominal-pressure-strength-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Master the art of breathing and bracing to lift heavier, protect your spine, and maximize performance. Science breaks down the mechanics of intra-abdominal pressure."}]]}],["$","$Ld","rest-intervals-hypertrophy-science",{"href":"/blog/rest-intervals-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Rest Intervals: What the 2025 Research Actually Shows"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New meta-analysis challenges conventional wisdom about how long to rest between sets for maximum muscle growth."}]]}],["$","$Ld","rest-periods-hypertrophy-science",{"href":"/blog/rest-periods-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters guess at rest times. Science tells a different story — your between-set rest period directly impacts muscle growth, strength gains, and training volume. Here's what the research actually shows."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

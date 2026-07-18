@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb65,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/supplement-timing-science-muscle-building#webpage","url":"https://jacked.coach/blog/supplement-timing-science-muscle-building","name":"The Best Time to Take Supplements - Timing Your Creatine, Protein, and Caffeine for Maximum Effect","description":"Does supplement timing actually matter? We break down the science of when to take creatine, protein, caffeine, and other popular supplements for optimal musc...","breadcrumb":{"@id":"https://jacked.coach/blog/supplement-timing-science-muscle-building#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/supplement-timing-science-muscle-building#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/supplement-timing-science-muscle-building#webpage"},"headline":"The Best Time to Take Supplements - Timing Your Creatine, Protein, and Caffeine for Maximum Effect","description":"Does supplement timing actually matter? We break down the science of when to take creatine, protein, caffeine, and other popular supplements for optimal musc...","isAccessibleForFree":true,"wordCount":776,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/supplement-timing-science-muscle-building#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Best Time to Take Supplements - Timing Your Creatine, Protein, and Caffeine for Maximum Effect","item":"https://jacked.coach/blog/supplement-timing-science-muscle-building"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Best Time to Take Supplements - Timing Your Creatine, Protein, and Caffeine for Maximum Effect"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Does supplement timing actually matter? We break down the science of when to take creatine, protein, caffeine, and other popular supplements for optimal muscle building results."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Best%20Time%20to%20Take%20Supplements%20-%20Timing%20Your%20Creatine%2C%20Protein%2C%20and%20Caffeine%20for%20Maximum%20Effect&url=https://jacked.coach/blog/supplement-timing-science-muscle-building","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","creatine-timing-matters-less-than-consistency",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#creatine-timing-matters-less-than-consistency","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Creatine: Timing Matters Less Than Consistency"}]}],["$","li","protein-distribution-is-what-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#protein-distribution-is-what-matters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Protein: Distribution Is What Matters"}]}],["$","li","caffeine-timing-is-everything",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#caffeine-timing-is-everything","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Caffeine: Timing Is Everything"}]}],["$","li","beta-alanine-consistency-over-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#beta-alanine-consistency-over-timing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Beta-Alanine: Consistency Over Timing"}]}],["$","li","citrulline-and-arginine-pre-workout-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#citrulline-and-arginine-pre-workout-timing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Citrulline and Arginine: Pre-Workout Timing"}]}],["$","li","building-your-supplement-schedule",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#building-your-supplement-schedule","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Building Your Supplement Schedule"}]}],["$","li","morning",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#morning","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Morning"}]}],["$","li","pre-workout-30-60-min-before",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#pre-workout-30-60-min-before","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Pre-Workout (30-60 min before)"}]}],["$","li","post-workout",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#post-workout","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Post-Workout"}]}],["$","li","evening-before-bed",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#evening-before-bed","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Evening/Before Bed"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1863,<p>One of the most common questions in fitness is simple but important: when should you take your supplements? Does timing actually matter, or is it just another piece of supplement industry marketing? Let's look at what the research actually says.</p>
+<h2 id="creatine-timing-matters-less-than-consistency">Creatine: Timing Matters Less Than Consistency</h2>
+<p>The good news for creatine users is that timing is probably the least important factor. Creatine works by increasing phosphocreatine stores in your muscles, which serves as a rapid energy source for high-intensity efforts. Your body saturates these stores over time—typically 2-4 weeks of consistent use.</p>
+<p><strong>What the research shows:</strong> Multiple studies have compared pre-workout vs. post-workout creatine supplementation and found virtually no difference in muscle creatine stores, strength gains, or body composition. The key factor is daily total intake, not timing.</p>
+<p><strong>Practical recommendation:</strong> Take creatine at whatever time is most convenient for you—preferably with a meal to improve absorption. The standard approach of 5g daily works for most people. If you want to be optimal, taking it post-workout provides a slight edge for muscle uptake, but the difference is marginal.</p>
+<h2 id="protein-distribution-is-what-matters">Protein: Distribution Is What Matters</h2>
+<p>Protein timing has been hotly debated, with the "anabolic window" concept getting significant attention. The reality is more nuanced.</p>
+<p><strong>The anabolic window is wider than you think:</strong> Research shows the post-workout anabolic window is likely 4-6 hours, not 30-60 minutes as previously believed. What matters more is hitting your daily protein target and distributing it evenly across meals.</p>
+<p><strong>Practical recommendations:</strong></p>
+<ul>
+<li>Aim for 0.7-1g of protein per pound of body weight daily</li>
+<li>Spread protein across 4-5 meals (roughly 25-50g per serving)</li>
+<li>Having protein within a few hours of training is fine—don't stress about timing</li>
+<li>Pre-sleep casein protein can slightly increase muscle protein synthesis overnight</li>
+</ul>
+<h2 id="caffeine-timing-is-everything">Caffeine: Timing Is Everything</h2>
+<p>Unlike creatine, caffeine timing significantly affects performance. Caffeine's primary mechanism is blocking adenosine receptors, reducing perceived effort and fatigue.</p>
+<p><strong>What the research shows:</strong> Caffeine reaches peak blood concentrations within 30-60 minutes of ingestion and remains elevated for 4-6 hours. Taking caffeine 30-60 minutes before training maximizes its ergogenic effects.</p>
+<p><strong>Practical recommendations:</strong></p>
+<ul>
+<li>Take caffeine 30-60 minutes before training for peak performance</li>
+<li>Avoid caffeine within 6-8 hours of bedtime to protect sleep quality</li>
+<li>If training in the morning, coffee 30-60 minutes before works well</li>
+<li>Pre-workout supplements typically contain caffeine for this reason</li>
+</ul>
+<p><strong>Important note:</strong> Caffeine tolerance builds with regular use. If you're a heavy coffee drinker, you may need higher doses or to cycle caffeine to experience its performance benefits.</p>
+<h2 id="beta-alanine-consistency-over-timing">Beta-Alanine: Consistency Over Timing</h2>
+<p>Beta-alanine works by increasing carnosine levels in muscles, which buffers acid during high-intensity exercise. This is a long-term strategy, not an acute timing play.</p>
+<p><strong>What the research shows:</strong> Muscle carnosine increases gradually over 4-10 weeks of supplementation. Timing your beta-alanine around workouts provides no additional benefit.</p>
+<p><strong>Practical recommendation:</strong> Take 3-5g of beta-alanine daily, split into smaller doses to minimize paresthesia (the tingling sensation). It can go whenever—many people take it with their pre-workout or protein.</p>
+<h2 id="citrulline-and-arginine-pre-workout-timing">Citrulline and Arginine: Pre-Workout Timing</h2>
+<p>These amino acids work by increasing nitric oxide production, which may improve blood flow and "pump" during training.</p>
+<p><strong>What the research shows:</strong> Citrulline malate (typically 6-8g) taken 60 minutes before training can improve performance, particularly for resistance training. The effects are relatively acute.</p>
+<p><strong>Practical recommendation:</strong> Take citrulline malate 30-60 minutes before training if you use it for the pump and performance benefits.</p>
+<h2 id="building-your-supplement-schedule">Building Your Supplement Schedule</h2>
+<p>Here's a practical framework for supplement timing:</p>
+<h3 id="morning">Morning</h3>
+<ul>
+<li>Multivitamin (with food)</li>
+<li>Vitamin D (fat-soluble, take with breakfast)</li>
+<li>Fish oil/Omega-3s (with food)</li>
+</ul>
+<h3 id="pre-workout-30-60-min-before">Pre-Workout (30-60 min before)</h3>
+<ul>
+<li>Caffeine (if using)</li>
+<li>Citrulline (if using)</li>
+<li>Beta-alanine (if using)</li>
+</ul>
+<h3 id="post-workout">Post-Workout</h3>
+<ul>
+<li>Protein (if needed to hit daily target)</li>
+<li>Creatine (convenient time)</li>
+<li>Carbs (for glycogen replenishment if training fasted)</li>
+</ul>
+<h3 id="evening-before-bed">Evening/Before Bed</h3>
+<ul>
+<li>Casein protein (if using)</li>
+<li>Magnesium (can improve sleep)</li>
+<li>Creatine (if you prefer)</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The most important factors in supplement effectiveness are:</p>
+<ol>
+<li><strong>Consistency</strong> - Taking supplements regularly matters more than perfect timing</li>
+<li><strong>Total daily intake</strong> - Hitting your daily targets beats optimal timing</li>
+<li><strong>Quality sleep</strong> - Poor sleep undermines all supplement benefits</li>
+<li><strong>Real food first</strong> - Supplements supplement an already good diet</li>
+</ol>
+<p>For most lifters, don't overthink supplement timing. Focus on consistency, hit your daily protein and creatine, and don't sacrifice sleep for supplement optimization. The marginal gains from perfect timing are far smaller than the gains from training hard and eating well.</p>
+<hr>
+<p><em>Track your supplement timing with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","building-muscle-budget-protein-sources",{"href":"/blog/building-muscle-budget-protein-sources","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Building Muscle on a Budget: The Science of Cheap Protein Sources"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"You don't need expensive supplements or premium protein powders to maximize muscle growth. Research shows these affordable foods can be just as effective for hitting your protein targets."}]]}],["$","$Ld","supplement-stacking-science",{"href":"/blog/supplement-stacking-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supplement Stacking: What Works Together and What Doesn't"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science of combining supplements for maximum muscle building benefit — plus the combinations that cancel each other out."}]]}],["$","$Ld","creatine-science-2025",{"href":"/blog/creatine-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Creatine: What 2025 Research Really Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}]]}],["$","$Ld","compound-vs-isolation-hypertrophy-science",{"href":"/blog/compound-vs-isolation-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb1e,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science#webpage","url":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science","name":"Muscle Architecture: The Hidden Factor Determining Your Hypertrophy Potential","description":"Fascicle length, pennation angle, and muscle thickness determine your strength and size gains. Here's how to optimize training for your specific muscle archi...","breadcrumb":{"@id":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science#webpage"},"headline":"Muscle Architecture: The Hidden Factor Determining Your Hypertrophy Potential","description":"Fascicle length, pennation angle, and muscle thickness determine your strength and size gains. Here's how to optimize training for your specific muscle archi...","isAccessibleForFree":true,"wordCount":928,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Muscle Architecture: The Hidden Factor Determining Your Hypertrophy Potential","item":"https://jacked.coach/blog/muscle-architecture-hypertrophy-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Muscle Architecture: The Hidden Factor Determining Your Hypertrophy Potential"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Fascicle length, pennation angle, and muscle thickness determine your strength and size gains. Here's how to optimize training for your specific muscle architecture."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Muscle%20Architecture%3A%20The%20Hidden%20Factor%20Determining%20Your%20Hypertrophy%20Potential&url=https://jacked.coach/blog/muscle-architecture-hypertrophy-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-muscle-architecture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-muscle-architecture","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Muscle Architecture?"}]}],["$","li","the-two-architectural-types",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-two-architectural-types","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Two Architectural Types"}]}],["$","li","fusiform-muscles",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#fusiform-muscles","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Fusiform Muscles"}]}],["$","li","pennate-muscles",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#pennate-muscles","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Pennate Muscles"}]}],["$","li","how-architecture-affects-your-lifting",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-architecture-affects-your-lifting","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Architecture Affects Your Lifting"}]}],["$","li","strength-curves",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#strength-curves","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Strength Curves"}]}],["$","li","exercise-selection",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#exercise-selection","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Exercise Selection"}]}],["$","li","can-you-change-your-architecture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#can-you-change-your-architecture","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Can You Change Your Architecture?"}]}],["$","li","practical-applications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications"}]}],["$","li","for-bodybuilders",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-bodybuilders","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Bodybuilders"}]}],["$","li","for-strength-athletes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-strength-athletes","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Strength Athletes"}]}],["$","li","for-general-fitness",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-general-fitness","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For General Fitness"}]}],["$","li","the-takeaway",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-takeaway","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Takeaway"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T1d90,<p>When most people think about building muscle, they focus on sets, reps, weight, and protein. But beneath the surface lies a fundamental determinant of your growth potential that receives far too little attention: <strong>muscle architecture</strong>.</p>
+<p>Your muscles are not uniform bundles of tissue. The way muscle fibers are arranged—their length, angle, and organization—dictates whether you can lift heavy weights, generate explosive power, or pack on maximum size. Understanding this architecture isn't just academic; it's a practical guide to choosing exercises that work with your biology rather than against it.</p>
+<h2 id="what-is-muscle-architecture">What Is Muscle Architecture?</h2>
+<p>Muscle architecture refers to the physical arrangement of muscle fibers within a muscle belly. Three measurements define it:</p>
+<p><strong>Fascicle Length</strong> is the length of the bundle of muscle fibers (a fascicle) running from one tendon to another. Longer fascicles can shorten more, potentially producing greater range of motion and more force across joint angles.</p>
+<p><strong>Pennation Angle</strong> is the angle at which fibers insert into the aponeurosis (the flat tendon sheet). Fibers arranged at steeper angles (higher pennation) can pack more tissue into a given space—good for producing force, but potentially limiting contractile speed.</p>
+<p><strong>Muscle Thickness</strong> (or cross-sectional area) measures the overall bulk of the muscle. This is strongly correlated with maximal force production.</p>
+<p>Research from the Journal of Applied Physiology demonstrates that pennation angles are greater in hypertrophied than in normal muscles, suggesting that training itself can alter architecture (Kawakami et al., 1993).</p>
+<h2 id="the-two-architectural-types">The Two Architectural Types</h2>
+<p>Muscles generally fall into two architectural categories:</p>
+<h3 id="fusiform-muscles">Fusiform Muscles</h3>
+<p>Fusiform muscles (like the biceps) have fibers running parallel to the force-generating axis. Think of them as strap-like.</p>
+<ul>
+<li><strong>Advantage:</strong> Greater contraction velocity and range of motion</li>
+<li><strong>Trade-off:</strong> Limited maximal force potential per unit volume</li>
+<li><strong>Training implication:</strong> These muscles respond well to exercises emphasizing stretch and full range of motion</li>
+</ul>
+<h3 id="pennate-muscles">Pennate Muscles</h3>
+<p>Pennate muscles (like the quadriceps or gastrocnemius) have fibers running at an angle to the force axis, like feathers on a shaft.</p>
+<ul>
+<li><strong>Advantage:</strong> Greater force potential per unit volume—more muscle tissue packed into smaller space</li>
+<li><strong>Trade-off:</strong> Slower contraction velocity</li>
+<li><strong>Training implication:</strong> Heavy loading and time under tension both drive adaptation</li>
+</ul>
+<h2 id="how-architecture-affects-your-lifting">How Architecture Affects Your Lifting</h2>
+<h3 id="strength-curves">Strength Curves</h3>
+<p>Muscles with longer fascicles produce more force at longer muscle lengths and maintain force through greater ranges of motion. This is why exercises like deep squats feel strongest at the bottom—the quadriceps are at a favorable length-tension relationship.</p>
+<p>Muscles with shorter fascicles (but higher pennation) generate peak force at shorter muscle lengths. Understanding this helps you match exercises to your leverages.</p>
+<h3 id="exercise-selection">Exercise Selection</h3>
+<p><strong>For muscles you want to grow larger:</strong></p>
+<ul>
+<li>Prioritize exercises that stretch the muscle under load (lengthened partials, paused squats, Romanian deadlifts)</li>
+<li>Research shows fascicle length increases specifically when training at extended muscle lengths (Seynm et al., 2023)</li>
+<li>Use both heavy loading (for pennation angle increases) and moderate loads with pump (for fascicle growth)</li>
+</ul>
+<p><strong>For muscles you want to strengthen:</strong></p>
+<ul>
+<li>Heavy loading (70-85% 1RM) drives both hypertrophy and strength adaptations</li>
+<li>Longer eccentrics increase time under tension and may promote fascicle lengthening</li>
+</ul>
+<h2 id="can-you-change-your-architecture">Can You Change Your Architecture?</h2>
+<p>The evidence suggests <strong>yes</strong>, but with important caveats:</p>
+<ol>
+<li>
+<p><strong>Pennation angle</strong> increases with resistance training, particularly with high-volume, moderate-load training. This allows more muscle fibers to pack into the same muscle belly—essentially making your muscle "denser."</p>
+</li>
+<li>
+<p><strong>Fascicle length</strong> increases more with training at extended muscle lengths. The phenomenon, sometimes called "stretch-mediated hypertrophy," is why exercises like the Romanian deadlift and deep squat produce unique architectural adaptations.</p>
+</li>
+<li>
+<p><strong>Muscle thickness</strong> responds to total training volume regardless of load, but optimal gains come from combining heavy and moderate loads.</p>
+</li>
+</ol>
+<p>A 2024 study in Scientific Reports found that the relationship between muscle thickness and pennation angle is mediated by fascicle length—meaning these three metrics interact in complex ways during growth (Folland et al., 2024).</p>
+<h2 id="practical-applications">Practical Applications</h2>
+<h3 id="for-bodybuilders">For Bodybuilders</h3>
+<ul>
+<li>Train through full ranges of motion to maximize fascicle lengthening</li>
+<li>Include both heavy compounds and lighter pump work</li>
+<li>Emphasize the "stretch" portion of movements (bottom of squat, bottom of bench, top of pull-up)</li>
+</ul>
+<h3 id="for-strength-athletes">For Strength Athletes</h3>
+<ul>
+<li>Heavy partials and lockouts build specific force at weak points</li>
+<li>Understand your muscle lengths and choose exercises that target weak ranges</li>
+<li>Eccentric training builds architectural strength</li>
+</ul>
+<h3 id="for-general-fitness">For General Fitness</h3>
+<ul>
+<li>You don't need to obsess over architecture, but understanding it explains why certain exercises "feel" better</li>
+<li>If an exercise causes joint pain, your leverages (driven by architecture) may be mismatched—try variations</li>
+</ul>
+<h2 id="the-takeaway">The Takeaway</h2>
+<p>Your muscle architecture is largely genetic—but it's not destiny. Training intelligently can alter both pennation angle and fascicle length over time. The key is:</p>
+<ol>
+<li><strong>Train through full ranges</strong> to promote fascicle length</li>
+<li><strong>Use heavy loads</strong> to increase pennation angle and density</li>
+<li><strong>Match exercises to your goals</strong>—understand what each movement targets</li>
+</ol>
+<p>The science of muscle architecture explains why the "best" exercise varies person to person. Your job isn't to copy what works for others—it's to understand your own anatomy and train accordingly.</p>
+<hr>
+<h2 id="references">References</h2>
+<ul>
+<li>Kawakami Y, Abe T, Fukunaga T. Muscle-fiber pennation angles are greater in hypertrophied than in normal muscles. J Appl Physiol. 1993;74(6):2740-2744.</li>
+<li>Folland J, et al. The relationship between muscle thickness and pennation angle is mediated by fascicle length. Scientific Reports. 2024.</li>
+<li>Seynm A, et al. Stretch-mediated hypertrophy: the role of fascicle length. 2023.</li>
+<li>Aagaard P, et al. Training-induced changes in muscle architecture. J Strength Cond Res. 2001.</li>
+</ul>
+<hr>
+<p><em>Track your muscle architecture with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","hydration-electrolytes-muscle-building-science",{"href":"/blog/hydration-electrolytes-muscle-building-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hydration and Electrolytes: The Hidden Factor in Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over protein, training volume, and rest—but overlook the fundamentals of hydration. Science shows proper fluid and electrolyte balance can make or break your gains."}]]}],["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}],["$","$Ld","magnesium-strength-training-mineral-gains",{"href":"/blog/magnesium-strength-training-mineral-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Magnesium and Strength Training: The Forgotten Mineral for Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Magnesium influences muscle function, protein synthesis, and recovery. Here's why this mineral deserves more attention in your training stack."}]]}],["$","$Ld","muscle-fiber-types-training-specificity",{"href":"/blog/muscle-fiber-types-training-specificity","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Fiber Types and Training Specificity: The Science Behind Targeted Hypertrophy"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Understanding how type I, type IIa, and type IIx fibers adapt differently to training can help you optimize your programming for specific goals."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

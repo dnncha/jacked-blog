@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taea,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026#webpage","url":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026","name":"Pre-Sleep Protein: The Overnight Muscle Building Secret","description":"Science shows 20-40g of casein 30 minutes before bed can boost overnight muscle protein synthesis by up to 22%. Here's how to optimize your nighttime nutriti...","breadcrumb":{"@id":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026#webpage"},"headline":"Pre-Sleep Protein: The Overnight Muscle Building Secret","description":"Science shows 20-40g of casein 30 minutes before bed can boost overnight muscle protein synthesis by up to 22%. Here's how to optimize your nighttime nutriti...","isAccessibleForFree":true,"wordCount":883,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Pre-Sleep Protein: The Overnight Muscle Building Secret","item":"https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Pre-Sleep Protein: The Overnight Muscle Building Secret"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Science shows 20-40g of casein 30 minutes before bed can boost overnight muscle protein synthesis by up to 22%. Here's how to optimize your nighttime nutrition for maximum muscle growth."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Pre-Sleep%20Protein%3A%20The%20Overnight%20Muscle%20Building%20Secret&url=https://jacked.coach/blog/pre-sleep-protein-casein-muscle-growth-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-science-of-overnight-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-overnight-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Overnight Muscle Growth"}]}],["$","li","why-casein-specifically",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-casein-specifically","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Casein Specifically?"}]}],["$","li","optimal-dosage-and-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-dosage-and-timing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Dosage and Timing"}]}],["$","li","practical-options",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-options","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Options"}]}],["$","li","who-should-prioritize-this",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-prioritize-this","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Prioritize This?"}]}],["$","li","what-about-sleep-quality",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-about-sleep-quality","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What About Sleep Quality?"}]}],["$","li","key-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#key-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Key Takeaways"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1b0f,<p>If you're serious about building muscle, what you do before bed matters just as much as what you do in the gym. While you've likely optimized your pre-workout nutrition and protein distribution throughout the day, there's one often-overlooked window that can significantly impact your gains: the hours before sleep.</p>
+<p>Research now confirms that consuming protein before bed—particularly casein protein—can dramatically enhance overnight muscle protein synthesis (MPS), leading to greater muscle growth over time.</p>
+<h2 id="the-science-of-overnight-muscle-growth">The Science of Overnight Muscle Growth</h2>
+<p>Your muscles don't stop growing when you sleep. In fact, sleep represents a critical window for recovery and tissue repair. During the night, your body undergoes extensive repair processes, and muscle protein synthesis remains active—provided you give it the raw materials it needs.</p>
+<p>A systematic review published in the <em>Journal of Science and Medicine in Sport</em> analyzed nine clinical studies on pre-sleep protein consumption and found compelling results:</p>
+<ul>
+<li><strong>20-40g of casein consumed ~30 minutes before sleep</strong> significantly improves overnight MPS rates</li>
+<li>Young men experienced enhanced muscle fiber cross-sectional area and strength gains over 10-12 week periods</li>
+<li>The effect occurs whether or not you train that day, though it's enhanced post-exercise</li>
+</ul>
+<p>The mechanism is straightforward: casein is a slow-digesting protein that provides a steady stream of amino acids throughout the night. Unlike whey protein, which digests relatively quickly, casein forms a clot in your stomach that releases amino acids slowly—exactly what your muscles need during the 7-9 hours you're asleep.</p>
+<h2 id="why-casein-specifically">Why Casein Specifically?</h2>
+<p>Not all proteins are created equal when it comes to overnight recovery. Casein, derived from milk, has several properties that make it ideal for pre-sleep consumption:</p>
+<ol>
+<li><strong>Slow digestion</strong>: Casein proteins coagulate in the stomach, creating a gradual release of amino acids lasting 6-8 hours</li>
+<li><strong>High leucine content</strong>: Leucine is the key trigger for muscle protein synthesis, and casein provides approximately 11% leucine</li>
+<li><strong>High glutamine content</strong>: This amino acid supports recovery and immune function during sleep</li>
+</ol>
+<p>Whey protein, while excellent post-workout, clears from the bloodstream within 2-3 hours—meaning you'll likely wake up with lower amino acid availability than if you'd consumed casein.</p>
+<h2 id="optimal-dosage-and-timing">Optimal Dosage and Timing</h2>
+<p>Based on the research, here's what works:</p>
+<ul>
+<li><strong>Dose</strong>: 20-40 grams of casein</li>
+<li><strong>Timing</strong>: 30-60 minutes before bedtime</li>
+<li><strong>Form</strong>: Powder, cottage cheese, or Greek yogurt all work</li>
+</ul>
+<p>For most lifters, 30g of casein protein provides approximately 24g of protein and around 3g of leucine—which is sufficient to maximally stimulate MPS throughout the night.</p>
+<p>If you're in a caloric deficit (cutting), casein before bed can help preserve muscle mass by preventing the overnight fasted state from triggering muscle breakdown. If you're bulking, it provides extra protein calories without disrupting sleep.</p>
+<h2 id="practical-options">Practical Options</h2>
+<p>You don't need specialized supplements—several whole food options provide casein or similar slow-digesting proteins:</p>
+<ul>
+<li><strong>Cottage cheese</strong> (20g protein per 150g serving)</li>
+<li><strong>Greek yogurt</strong> (15-20g per serving)</li>
+<li><strong>Casein protein powder</strong> (25-30g per scoop)</li>
+<li><strong>Milk</strong> (contains both whey and casein)</li>
+</ul>
+<p>Casein protein powder mixes easily and tastes mild, making it the most convenient option. Cottage cheese provides additional calcium and is a solid whole-food alternative.</p>
+<h2 id="who-should-prioritize-this">Who Should Prioritize This?</h2>
+<p>Pre-sleep casein is particularly valuable for:</p>
+<ul>
+<li><strong>Those training in the evening</strong>: If your workout ends within 2-3 hours of bedtime, casein helps extend the anabolic window</li>
+<li><strong>Older lifters</strong>: While the research shows mixed results for elderly men, maintaining amino acid availability becomes more important with age</li>
+<li><strong>People in caloric deficits</strong>: The steady amino acid release helps prevent muscle catabolism overnight</li>
+<li><strong>Anyone seeking marginal gains</strong>: If you're optimizing every variable, pre-sleep protein is a proven edge</li>
+</ul>
+<h2 id="what-about-sleep-quality">What About Sleep Quality?</h2>
+<p>Interestingly, the protein itself may enhance sleep quality. Casein-derived peptides have been shown to have mild sedative effects, potentially improving sleep onset and quality. Better sleep means better recovery, creating a virtuous cycle for muscle building.</p>
+<p>Additionally, the tryptophan content in dairy proteins can support melatonin production, helping regulate your sleep-wake cycle.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li><strong>20-40g casein before bed</strong> significantly boosts overnight muscle protein synthesis</li>
+<li><strong>Timing matters</strong>: Consume 30-60 minutes before sleep for optimal results</li>
+<li><strong>Casein > whey for sleep</strong>: Slow digestion provides sustained amino acid release</li>
+<li><strong>Works with or without training</strong>: Benefit is present either way, enhanced post-exercise</li>
+<li><strong>Whole foods work</strong>: Cottage cheese and Greek yogurt are viable alternatives</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Your muscles grow when you sleep—and they need building materials to do so. A simple casein shake before bed provides those materials in the most effective form possible. For lifters looking to maximize hypertrophy, this is a low-effort, high-return strategy that takes 30 seconds to implement.</p>
+<p>Skip the late-night snack overload. Skip the complicated protocols. Just have 30g of casein, brush your teeth, and let your muscles do the work while you rest.</p>
+<hr>
+<p><strong>References</strong>:</p>
+<ul>
+<li>Reis, C.E.G., et al. (2021). Effects of pre-sleep protein consumption on muscle-related outcomes. <em>Journal of Science and Medicine in Sport</em>, 24(2), 177-182.</li>
+<li>Res, P.T., et al. (2012). Protein ingestion before sleep improves postexercise overnight recovery. <em>Medicine and Science in Sports and Exercise</em>, 44(8), 1560-1569.</li>
+<li>Snijders, T., et al. (2019). Casein protein supplementation with 30g before sleep. <em>Journal of Cachexia, Sarcopenia and Muscle</em>, 10(2), 402-411.</li>
+</ul>
+<hr>
+<p><em>Track your pre-sleep protein with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","circadian-rhythm-training-time-muscle-growth",{"href":"/blog/circadian-rhythm-training-time-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Time of Day: How Circadian Rhythms Affect Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science reveals your body's internal clock significantly impacts strength, muscle protein synthesis, and training adaptations. Here's how to optimize your workout timing."}]]}],["$","$Ld","building-muscle-budget-protein-sources",{"href":"/blog/building-muscle-budget-protein-sources","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Building Muscle on a Budget: The Science of Cheap Protein Sources"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"You don't need expensive supplements or premium protein powders to maximize muscle growth. Research shows these affordable foods can be just as effective for hitting your protein targets."}]]}],["$","$Ld","mtor-leucine-threshold-2026",{"href":"/blog/mtor-leucine-threshold-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"mTOR Activation: The Science Behind Your Muscle-Building Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

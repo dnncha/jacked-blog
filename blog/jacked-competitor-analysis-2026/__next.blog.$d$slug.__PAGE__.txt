@@ -1,0 +1,363 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta42,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/jacked-competitor-analysis-2026#webpage","url":"https://jacked.coach/blog/jacked-competitor-analysis-2026","name":"Jacked Competitor Analysis: The Complete Dossier","description":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Jacked can learn from each.","breadcrumb":{"@id":"https://jacked.coach/blog/jacked-competitor-analysis-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/jacked-competitor-analysis-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/jacked-competitor-analysis-2026#webpage"},"headline":"Jacked Competitor Analysis: The Complete Dossier","description":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Jacked can learn from each.","isAccessibleForFree":true,"wordCount":1315,"articleSection":"Business","about":["hypertrophy training","progressive overload","workout tracking","Business"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/jacked-competitor-analysis-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Jacked Competitor Analysis: The Complete Dossier","item":"https://jacked.coach/blog/jacked-competitor-analysis-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Business"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Jacked Competitor Analysis: The Complete Dossier"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Jacked can learn from each."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Business"}],null,["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Jacked%20Competitor%20Analysis%3A%20The%20Complete%20Dossier&url=https://jacked.coach/blog/jacked-competitor-analysis-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","executive-summary",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#executive-summary","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Executive Summary"}]}],["$","li","detailed-profiles",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#detailed-profiles","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Detailed Profiles"}]}],["$","li","1-sweat-by-kayla-itsines",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-sweat-by-kayla-itsines","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Sweat (by Kayla Itsines)"}]}],["$","li","2-strong-strongapp-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-strong-strongapp-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Strong (strongapp.com)"}]}],["$","li","3-hevy-hevyapp-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-hevy-hevyapp-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Hevy (hevyapp.com)"}]}],["$","li","4-gymstreak-gymstreak-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-gymstreak-gymstreak-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. GymStreak (gymstreak.com)"}]}],["$","li","5-fitbod-fitbod-me",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-fitbod-fitbod-me","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Fitbod (fitbod.me)"}]}],["$","li","6-jefit-jefit-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#6-jefit-jefit-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"6. JEFIT (jefit.com)"}]}],["$","li","7-stronglifts-stronglifts-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#7-stronglifts-stronglifts-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"7. StrongLifts (stronglifts.com)"}]}],["$","li","8-liftosaur-liftosaur-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#8-liftosaur-liftosaur-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"8. Liftosaur (liftosaur.com)"}]}],["$","li","competitive-landscape-summary",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#competitive-landscape-summary","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Competitive Landscape Summary"}]}],["$","li","jacked-s-position",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#jacked-s-position","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Jacked's Position"}]}],["$","li","key-takeaways-for-jacked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#key-takeaways-for-jacked","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Key Takeaways for Jacked"}]}],["$","li","recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Recommendations"}]}]]}]]}]
+e:T2ab9,<p><em>Last updated: February 2026</em></p>
+<hr>
+<h2 id="executive-summary">Executive Summary</h2>
+<p>The fitness app market is valued at $15B+ globally. Jacked competes in the <strong>strength/hypertrophy training</strong> niche — a segment dominated by generalist workout trackers. Key differentiator: <strong>autoprogression + fatigue management</strong> for serious lifters.</p>
+<p>| Competitor | Revenue | Key Differentiator | Target |
+|------------|---------|-------------------|--------|
+| <strong>Sweat</strong> | $100M/yr | Influencer brand, women | Casual fitness |
+| <strong>Strong</strong> | ~$7M/yr | Workout logging, clean UI | Intermediate lifters |
+| <strong>Hevy</strong> | $2M/yr (~$160K MRR) | Social features, community | Intermediate lifters |
+| <strong>GymStreak</strong> | $2.5M/yr | AI-generated programs | Intermediate-advanced |
+| <strong>Fitbod</strong> | ~$1M | AI personalization | All levels |
+| <strong>JEFIT</strong> | ~$1M | Social features, community | Intermediate |
+| <strong>StrongLifts</strong> | Unknown (bootstrapped) | Simplicity, 5x5 focus | Beginners |
+| <strong>Liftosaur</strong> | Unknown (small) | Programmability, advanced | Advanced lifters |</p>
+<hr>
+<h2 id="detailed-profiles">Detailed Profiles</h2>
+<hr>
+<h3 id="1-sweat-by-kayla-itsines">1. Sweat (by Kayla Itsines)</h3>
+<p><strong>What they are:</strong>
+The biggest fitness app in the world. Female-focused, influencer-backed, comprehensive training + nutrition + mindset.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2015 |
+| <strong>Founder</strong> | Kayla Itsines (influencer) + Tom Billington (tech) |
+| <strong>Headquarters</strong> | Australia |
+| <strong>Revenue</strong> | ~$100M/year |
+| <strong>Users</strong> | 50M+ members |
+| <strong>Sale price</strong> | $400M (sold 2023) |
+| <strong>Funding</strong> | Bootstrapped + VC (later) |
+| <strong>Marketing</strong> | Influencer marketing, Instagram-first, brand partnerships |
+| <strong>Pricing</strong> | ~$19.99/mo |
+| <strong>Key strength</strong> | Brand, community, influencer reach |
+| <strong>Weakness</strong> | Not strength-focused, expensive |</p>
+<p><strong>Takeaway:</strong> Not direct competition (different niche), but shows what's possible with brand + community.</p>
+<hr>
+<h3 id="2-strong-strongapp-com">2. Strong (strongapp.com)</h3>
+<p><strong>What they are:</strong>
+Clean, minimalist workout tracker. One of the top-grossing fitness apps globally.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2017 |
+| <strong>Founders</strong> | (Acquired by EXPA) |
+| <strong>Headquarters</strong> | San Francisco |
+| <strong>Revenue</strong> | ~$7M/year (estimated) |
+| <strong>Downloads</strong> | 10M+ |
+| <strong>Funding</strong> | Raised (amount unknown) |
+| <strong>Marketing</strong> | App Store optimization, product-led growth |
+| <strong>Pricing</strong> | $12.99/mo or $79.99/yr |
+| <strong>Key strength</strong> | Clean UI, brand recognition |
+| <strong>Weakness</strong> | Generic — no autoprogression, no AI |</p>
+<p><strong>Takeaway:</strong> The "default" choice for serious lifters. Good UX, but Jacked's autoprogression is a genuine differentiator.</p>
+<hr>
+<h3 id="3-hevy-hevyapp-com">3. Hevy (hevyapp.com)</h3>
+<p><strong>What they are:</strong>
+Community-focused workout tracker with social features, challenges, and sharing.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2019 |
+| <strong>Founders</strong> | Guillem Ros (CEO, Barcelona), Desmond McNamee (CTO) |
+| <strong>Headquarters</strong> | Barcelona, Spain |
+| <strong>Revenue</strong> | $2M/year (~£1.6M) |
+| <strong>MRR</strong> | ~$160K MRR |
+| <strong>Users</strong> | 2M+ downloads |
+| <strong>Team</strong> | 8 people |
+| <strong>Funding</strong> | Bootstrapped, $15K ad spend total |
+| <strong>Marketing</strong> | Community, Reddit, product-led, no paid ads |
+| <strong>Pricing</strong> | Free + $9.99/mo Pro |
+| <strong>Key strength</strong> | Community features, social sharing |
+| <strong>Weakness</strong> | Feature-heavy but no clear differentiation |</p>
+<p><strong>Takeaway:</strong> Close to Jacked's target. Proves you can reach $2M withoutVC funding. Their growth came from Reddit + community, not ads.</p>
+<hr>
+<h3 id="4-gymstreak-gymstreak-com">4. GymStreak (gymstreak.com)</h3>
+<p><strong>What they are:</strong>
+AI-powered workout generator. One of the most advanced algorithmic programs.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2019 |
+| <strong>Founder</strong> | Joseph Mambwe (Cambridge engineering graduate) |
+| <strong>Headquarters</strong> | UK |
+| <strong>Revenue</strong> | $2.5M/year |
+| <strong>Team</strong> | 0 employees (bootstrapped, freelancers only) |
+| <strong>Funding</strong> | Bootstrapped |
+| <strong>Marketing</strong> | Content marketing, SEO, product-led |
+| <strong>Pricing</strong> | ~$10/mo |
+| <strong>Key strength</strong> | AI program generation, automation |
+| <strong>Weakness</strong> | Less control, generic AI |</p>
+<p><strong>Takeaway:</strong> The closest to Jacked's positioning. AI + hypertrophy. Proves a solopreneur can build a $2.5M fitness business.</p>
+<hr>
+<h3 id="5-fitbod-fitbod-me">5. Fitbod (fitbod.me)</h3>
+<p><strong>What they are:</strong>
+AI-powered workout app that generates personalized programs based on equipment + goals.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2016 |
+| <strong>Founders</strong> | (Acquired by iFit?) |
+| <strong>Headquarters</strong> | San Francisco |
+| <strong>Revenue</strong> | ~$1M |
+| <strong>Users</strong> | 100K+ downloads |
+| <strong>Funding</strong> | Bootstrapped + VC |
+| <strong>Marketing</strong> | App Store, partnerships |
+| <strong>Pricing</strong> | $14.99/mo |
+| <strong>Key strength</strong> | AI personalization, equipment awareness |
+| <strong>Weakness</strong> | Generic, not hypertrophy-specific |</p>
+<p><strong>Takeaway:</strong> Established player. AI focus but not strength-specific. Good market validation.</p>
+<hr>
+<h3 id="6-jefit-jefit-com">6. JEFIT (jefit.com)</h3>
+<p><strong>What they are:</strong>
+Long-established workout tracker with strong social features and community.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2010 |
+| <strong>Founder</strong> | Ying Lin (CEO) |
+| <strong>Headquarters</strong> | Sunnyvale, California |
+| <strong>Revenue</strong> | ~$1M/year |
+| <strong>Funding</strong> | Bootstrapped, profitable |
+| <strong>Marketing</strong> | Brand partnerships, featured by Apple/Google |
+| <strong>Pricing</strong> | $12.99/mo or $99.99/yr |
+| <strong>Key strength</strong> | Longevity, community, social features |
+| <strong>Weakness</strong> | Outdated UI, feature bloat |</p>
+<p><strong>Takeaway:</strong> Oldest competitor. Shows you can stay profitable for 15+ years in this space.</p>
+<hr>
+<h3 id="7-stronglifts-stronglifts-com">7. StrongLifts (stronglifts.com)</h3>
+<p><strong>What they are:</strong>
+The 5x5 app. Based on the popular StrongLifts 5x5 program. Very simple, very focused.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | 2011 |
+| <strong>Founder</strong> | Mehdi (full name not public) |
+| <strong>Headquarters</strong> | Netherlands (originally) |
+| <strong>Revenue</strong> | Unknown (bootstrapped) |
+| <strong>Users</strong> | 200K+ 5-star reviews |
+| <strong>Funding</strong> | Bootstrapped |
+| <strong>Marketing</strong> | SEO, blog content |
+| <strong>Pricing</strong> | $9.99 one-time (lifetime) |
+| <strong>Key strength</strong> | Simplicity, program focus |
+| <strong>Weakness</strong> | Only 5x5, very limited |</p>
+<p><strong>Takeaway:</strong> Proves simplicity wins. One program, one app, massive loyal following. Jacked could own "autoprogression" the same way.</p>
+<hr>
+<h3 id="8-liftosaur-liftosaur-com">8. Liftosaur (liftosaur.com)</h3>
+<p><strong>What they are:</strong>
+Highly customizable workout planner for advanced lifters. Scriptable programs.</p>
+<p>| Metric | Data |
+|--------|------|
+| <strong>Founded</strong> | ~2020 |
+| <strong>Founder</strong> | (Individual developer) |
+| <strong>Revenue</strong> | Unknown (small) |
+| <strong>Funding</strong> | Bootstrapped |
+| <strong>Marketing</strong> | Reddit, word of mouth |
+| <strong>Pricing</strong> | ~$5/mo or $40 lifetime |
+| <strong>Key strength</strong> | Customizability, advanced features |
+| <strong>Weakness</strong> | High learning curve, niche |</p>
+<p><strong>Takeaway:</strong> Small but passionate user base. Shows there's room for advanced/niche apps.</p>
+<hr>
+<h2 id="competitive-landscape-summary">Competitive Landscape Summary</h2>
+<p>| Category | Players | Revenue Range |
+|----------|---------|---------------|
+| <strong>Big Fitness (all types)</strong> | Sweat, Aaptiv, Nike Training | $50M+ |
+| <strong>General Strength Trackers</strong> | Strong, Hevy, JEFIT | $1-10M |
+| <strong>AI-Powered</strong> | Fitbod, GymStreak | $1-2.5M |
+| <strong>Simple/Program-Based</strong> | StrongLifts, Liftosaur | &#x3C;$1M |</p>
+<hr>
+<h2 id="jacked-s-position">Jacked's Position</h2>
+<p><strong>Where Jacked wins:</strong></p>
+<ul>
+<li>Autoprogression (automatic weight increases) — not offered by Strong or Hevy</li>
+<li>Fatigue management — unique in the market</li>
+<li>Hypertrophy focus — not a generic fitness app</li>
+<li>Clean positioning: "serious lifters only"</li>
+</ul>
+<p><strong>Threats:</strong></p>
+<ul>
+<li>GymStreak is already doing AI + hypertrophy</li>
+<li>Strong has brand recognition</li>
+<li>Hevy has community locked in</li>
+</ul>
+<p><strong>Opportunity:</strong></p>
+<ul>
+<li>Own the "autoprogression" category</li>
+<li>Build content flywheel (the blog is already doing this)</li>
+<li>Target the Reddit r/weightroom r/fitness crowd</li>
+</ul>
+<hr>
+<h2 id="key-takeaways-for-jacked">Key Takeaways for Jacked</h2>
+<ol>
+<li><strong>$2-3M is achievable</strong> — GymStreak and Hevy prove bootstrapped fitness apps can hit this</li>
+<li><strong>Community matters</strong> — Hevy grew to $2M with Reddit + social, no paid ads</li>
+<li><strong>AI is competitive</strong> — GymStreak and Fitbod own this space</li>
+<li><strong>Simplicity wins</strong> — StrongLifts proves one good program beats feature bloat</li>
+<li><strong>Autoprogression is defensible</strong> — No major competitor offers this</li>
+</ol>
+<hr>
+<h2 id="recommendations">Recommendations</h2>
+<ol>
+<li><strong>Double down on autoprogression</strong> — It's your unique position</li>
+<li><strong>Go where lifters hang out</strong> — Reddit r/weightroom, fitness Discord</li>
+<li><strong>Content is working</strong> — The blog + YouTube pipeline is correct</li>
+<li><strong>Consider GymStreak as closest rival</strong> — They're winning with AI + hypertrophy</li>
+<li><strong>Target $1M ARR</strong> — Realistic 2-3 year goal</li>
+</ol>
+<hr>
+<p><em>This dossier should be updated quarterly as the market evolves.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","bpc-157-peptide-science-recovery-evidence",{"href":"/blog/bpc-157-peptide-science-recovery-evidence","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"BPC-157: The Peptide Hype vs What Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"BPC-157 is being hailed as a miracle healing compound by fitness influencers and wellness clinics. But what does the actual research show? A deep dive into the evidence."}]]}],["$","$Ld","creatine-monohydrate-science-2026",{"href":"/blog/creatine-monohydrate-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Creatine Monohydrate: The Science Behind the Most Researched Supplement"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths."}]]}],["$","$Ld","l-carnitine-supplementation-strength-hypertrophy",{"href":"/blog/l-carnitine-supplementation-strength-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"L-Carnitine Supplementation for Strength Athletes: What the Research Shows"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does L-carnitine actually help lifters build muscle and get stronger? We dive into the science to separate fact from hype."}]]}],["$","$Ld","photobiomodulation-low-level-laser-therapy-muscle-science",{"href":"/blog/photobiomodulation-low-level-laser-therapy-muscle-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Photobiomodulation: Does Low-Level Laser Therapy Actually Work for Muscle Building?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Low-level laser therapy (LLLT) is gaining traction in the fitness world. But does the science actually support using red and near-infrared light for muscle growth and recovery? A deep dive into the evidence."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

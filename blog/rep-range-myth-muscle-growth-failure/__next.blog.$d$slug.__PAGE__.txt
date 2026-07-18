@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta75,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure#webpage","url":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure","name":"The Rep Range Myth: What Actually Matters for Muscle Growth","description":"New research shows rep ranges matter far less than proximity to failure. Here's what actually drives hypertrophy.","breadcrumb":{"@id":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure#webpage"},"headline":"The Rep Range Myth: What Actually Matters for Muscle Growth","description":"New research shows rep ranges matter far less than proximity to failure. Here's what actually drives hypertrophy.","isAccessibleForFree":true,"wordCount":703,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Rep Range Myth: What Actually Matters for Muscle Growth","item":"https://jacked.coach/blog/rep-range-myth-muscle-growth-failure"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Rep Range Myth: What Actually Matters for Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research shows rep ranges matter far less than proximity to failure. Here's what actually drives hypertrophy."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Rep%20Range%20Myth%3A%20What%20Actually%20Matters%20for%20Muscle%20Growth&url=https://jacked.coach/blog/rep-range-myth-muscle-growth-failure","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-the-research-actually-shows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-research-actually-shows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Research Actually Shows"}]}],["$","li","why-rep-ranges-became-dogma",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-rep-ranges-became-dogma","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Rep Ranges Became Dogma"}]}],["$","li","what-actually-drives-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-drives-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Drives Muscle Growth"}]}],["$","li","1-proximity-to-failure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-proximity-to-failure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Proximity to Failure"}]}],["$","li","2-mechanical-tension",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-mechanical-tension","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Mechanical Tension"}]}],["$","li","3-volume-total-work",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-volume-total-work","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Volume (Total Work)"}]}],["$","li","practical-implications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-implications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Implications"}]}],["$","li","when-rep-range-might-matter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-rep-range-might-matter","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When Rep Range Might Matter"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1407,<p>For decades, gym culture has preached the sacred rep ranges: 2-6 for strength, 8-12 for hypertrophy, 15+ for endurance. Walk into any commercial gym and you'll hear people meticulously counting reps within these supposed golden windows.</p>
+<p>But what if it mostly doesn't matter?</p>
+<h2 id="what-the-research-actually-shows">What the Research Actually Shows</h2>
+<p>A 2024 meta-analysis published in the <em>Journal of Science and Medicine in Sport</em> put this question to the test. Researchers split participants into two groups: one doing 10 reps per set, another doing 20 reps per set. Both groups trained to concentric failure—meaning they pushed until they literally couldn't complete another rep.</p>
+<p>The results? Near-identical changes in muscle size, strength, and muscular efficiency.</p>
+<p>This isn't an isolated finding. A 2024 meta-analysis examining proximity to failure found that hypertrophy results were significantly better when sets were taken closer to failure, regardless of rep range. The key variable isn't how many reps you do—it's how hard you push.</p>
+<h2 id="why-rep-ranges-became-dogma">Why Rep Ranges Became Dogma</h2>
+<p>The traditional wisdom stems from biomechanical logic. Heavier loads favor different fiber recruitment patterns. Lower reps at higher loads predominantly target Type II (fast-twitch) fibers. Higher reps at lower loads engage more Type I (slow-twitch) fibers.</p>
+<p>The problem: this model oversimplifies what actually happens in your muscles. When you train to failure, you recruit virtually all motor units regardless of load. The mechanical differences between heavy and light loads become much smaller than traditional theory suggests.</p>
+<h2 id="what-actually-drives-muscle-growth">What Actually Drives Muscle Growth</h2>
+<p>If rep range isn't the key variable, what is? Three factors matter more:</p>
+<h3 id="1-proximity-to-failure">1. Proximity to Failure</h3>
+<p>This is the big one. Training within 1-3 reps of failure produces significantly more hypertrophy than stopping 5+ reps shy. The last few reps of a set create the maximal muscle damage and metabolic stress that drive growth signals.</p>
+<h3 id="2-mechanical-tension">2. Mechanical Tension</h3>
+<p>You need to challenge your muscles with load that creates meaningful tension. But "heavy" is relative. A weight that's challenging for 6 reps creates similar tension to a weight that's challenging for 20 reps—you just reach failure at different points.</p>
+<h3 id="3-volume-total-work">3. Volume (Total Work)</h3>
+<p>The total number of hard sets matters. More quality sets generally mean more growth, up to a point of diminishing returns (typically 10-20 sets per muscle group per week for most people).</p>
+<h2 id="practical-implications">Practical Implications</h2>
+<p>Here's what this means for your training:</p>
+<p><strong>Use Rep Ranges, Not Fixed Reps</strong>
+If your program says 3x8-12, hitting 8, 10, or 12 is fine—provided you're working hard. On days you feel strong, push the upper end. On fatigued days, the lower end still works.</p>
+<p><strong>Adjust Load Based on Energy</strong>
+Feeling depleted? Grab lighter weights and do more reps. Feeling fresh? Go heavier. Both paths lead to growth if you train close to failure.</p>
+<p><strong>Focus on Effort, Not Numbers</strong>
+The last 2-3 reps should be grinding. If your reps look the same on rep 1 as rep 12, you're leaving gains on the table.</p>
+<p><strong>Technical Failure > True Failure</strong>
+Stop when your form breaks down, not when you physically can't move. Technical failure (when you start cutting corners) is where the magic happens without the injury risk.</p>
+<h2 id="when-rep-range-might-matter">When Rep Range Might Matter</h2>
+<p>To be fair, there are scenarios where rep range carries some importance:</p>
+<ul>
+<li><strong>Strength-specific goals</strong>: Heavier loads (1-5 reps) develop force production more directly</li>
+<li><strong>Work capacity</strong>: Higher rep work builds endurance and metabolic conditioning</li>
+<li><strong>Injury rehabilitation</strong>: Often starts with higher-rep, lower-load work</li>
+<li><strong>Individual preferences</strong>: Some people simply enjoy certain rep ranges more, and consistency beats optimization</li>
+</ul>
+<p>These are minor modifiers, not fundamental differences in hypertrophy potential.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Stop stressing about hitting exactly 10 reps versus 12. The difference in muscle growth between these ranges is negligible when effort is equalized. What matters:</p>
+<ol>
+<li>Train within 1-3 reps of failure</li>
+<li>Do enough total hard sets</li>
+<li>Progress over time (more weight, reps, or sets)</li>
+</ol>
+<p>The "perfect" rep range is whatever lets you execute quality sets with genuine effort. Pick up weights that challenge you, push hard, and let the muscle do the rest.</p>
+<hr>
+<p><em>References: Journal of Science and Medicine in Sport (2025); Meta-analysis on proximity to failure and hypertrophy (2024)</em></p>
+<hr>
+<p><em>Track your rep ranges with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","stretch-mediated-hypertrophy-lengthened-partials",{"href":"/blog/stretch-mediated-hypertrophy-lengthened-partials","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."}]]}],["$","$Ld","proximity-to-failure-hypertrophy-2026",{"href":"/blog/proximity-to-failure-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Load Debate Revisited: What 2025-2026 Research Really Says About Building Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that proximity to failure matters more than load for hypertrophy, but there's a catch. Here's what the latest science tells us about optimizing your training."}]]}],["$","$Ld","muscle-pump-myth-2026",{"href":"/blog/muscle-pump-myth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Muscle Pump Myth: What Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"That satisfying pump you feel after a workout might feel like growth, but 2025 research says it's not driving hypertrophy. Here's what the science actually shows."}]]}],["$","$Ld","mechanical-tension-vs-muscle-damage-growth",{"href":"/blog/mechanical-tension-vs-muscle-damage-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Why Mechanical Tension, Not Muscle Damage, Drives Growth: The Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research challenges the old belief that muscle damage is required for hypertrophy. Here's what actually drives muscle growth."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

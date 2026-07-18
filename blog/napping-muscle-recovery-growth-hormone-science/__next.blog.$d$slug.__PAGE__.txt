@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb0e,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science#webpage","url":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science","name":"The Science of Napping for Muscle Recovery: What the Research Says","description":"Can a quick afternoon nap actually accelerate your muscle gains? Here's what science reveals about napping, growth hormone, and post-training recovery.","breadcrumb":{"@id":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science#webpage"},"headline":"The Science of Napping for Muscle Recovery: What the Research Says","description":"Can a quick afternoon nap actually accelerate your muscle gains? Here's what science reveals about napping, growth hormone, and post-training recovery.","isAccessibleForFree":true,"wordCount":868,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Science of Napping for Muscle Recovery: What the Research Says","item":"https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Science of Napping for Muscle Recovery: What the Research Says"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Can a quick afternoon nap actually accelerate your muscle gains? Here's what science reveals about napping, growth hormone, and post-training recovery."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Science%20of%20Napping%20for%20Muscle%20Recovery%3A%20What%20the%20Research%20Says&url=https://jacked.coach/blog/napping-muscle-recovery-growth-hormone-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","sleep-and-muscle-protein-synthesis-the-foundation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#sleep-and-muscle-protein-synthesis-the-foundation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Sleep and Muscle Protein Synthesis: The Foundation"}]}],["$","li","the-growth-hormone-connection",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-growth-hormone-connection","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Growth Hormone Connection"}]}],["$","li","cortisol-reduction-the-hidden-benefit",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#cortisol-reduction-the-hidden-benefit","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Cortisol Reduction: The Hidden Benefit"}]}],["$","li","optimal-nap-duration-the-goldilocks-zone",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-nap-duration-the-goldilocks-zone","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Nap Duration: The Goldilocks Zone"}]}],["$","li","10-20-minutes-power-nap",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#10-20-minutes-power-nap","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"10-20 Minutes (Power Nap)"}]}],["$","li","20-30-minutes-ideal-for-most",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#20-30-minutes-ideal-for-most","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"20-30 Minutes (Ideal for Most)"}]}],["$","li","60-90-minutes-full-cycle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#60-90-minutes-full-cycle","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"60-90 Minutes (Full Cycle)"}]}],["$","li","avoid-30-60-minutes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#avoid-30-60-minutes","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Avoid: 30-60 Minutes"}]}],["$","li","the-afternoon-nap-window",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-afternoon-nap-window","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Afternoon Nap Window"}]}],["$","li","napping-for-athletes-the-evidence",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#napping-for-athletes-the-evidence","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Napping for Athletes: The Evidence"}]}],["$","li","practical-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Recommendations"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1b3d,<p>You crushed your workout. You've eaten your protein. You've drunk your water. But there's one recovery tool you might be overlooking: the humble nap.</p>
+<p>While napping has long been associated with laziness in fitness culture, emerging research suggests that strategic daytime sleep might be one of the most powerful (and free) tools for maximizing muscle growth. Let's dive into the science.</p>
+<h2 id="sleep-and-muscle-protein-synthesis-the-foundation">Sleep and Muscle Protein Synthesis: The Foundation</h2>
+<p>The relationship between sleep and muscle building is straightforward: muscle protein synthesis (MPS) — the process by which your body builds new muscle tissue — occurs primarily during sleep. This isn't controversial; it's basic exercise physiology.</p>
+<p>During deep sleep (particularly slow-wave sleep), your body releases growth hormone (GH), which stimulates tissue repair and muscle growth. Research published in <em>Sleep</em> journal shows that a single night of poor sleep can reduce muscle protein synthesis rates by up to 18% <a href="https://pubmed.ncbi.nlm.nih.gov/21550729/">(1)</a>.</p>
+<p>But here's where napping becomes interesting: you can't just "catch up" on missed sleep entirely. However, strategic naps can help mitigate some of the recovery deficits.</p>
+<h2 id="the-growth-hormone-connection">The Growth Hormone Connection</h2>
+<p>Human growth hormone is your body's most potent natural muscle-building signal. GH脉冲 occur during deep sleep, stimulating:</p>
+<ul>
+<li><strong>Protein synthesis</strong> — the actual building of muscle tissue</li>
+<li><strong>Lipid oxidation</strong> — fat burning for energy</li>
+<li><strong>Cell regeneration</strong> — repairing exercise-induced muscle damage</li>
+</ul>
+<p>A 2025 review in the <em>Journal of Clinical Endocrinology &#x26; Metabolism</em> confirmed that daytime naps can stimulate additional GH release, particularly during afternoon naps (12:00-16:00) <a href="https://link.springer.com/article/10.1007/s12662-025-01030-3">(2)</a>.</p>
+<p>This means a well-timed nap doesn't just make you feel better — it actually triggers the same anabolic processes your nighttime sleep does.</p>
+<h2 id="cortisol-reduction-the-hidden-benefit">Cortisol Reduction: The Hidden Benefit</h2>
+<p>Cortisol is often called the "stress hormone," and for good reason. Chronically elevated cortisol breaks down muscle tissue, impairs immune function, and sabotages your gains.</p>
+<p>Here's the problem: intense training elevates cortisol. Sleep deprivation elevates cortisol. Combine the two, and you have a perfect storm for muscle catabolism.</p>
+<p>Research shows that napping reduces cortisol levels <a href="https://www.napandup.com/en/blog/sport-nap/">(3)</a>. A 20-30 minute nap can lower afternoon cortisol by up to 50%, creating a more anabolic hormonal environment for recovery.</p>
+<h2 id="optimal-nap-duration-the-goldilocks-zone">Optimal Nap Duration: The Goldilocks Zone</h2>
+<p>Not all naps are created equal. Here's what the science says about different nap lengths:</p>
+<h3 id="10-20-minutes-power-nap">10-20 Minutes (Power Nap)</h3>
+<ul>
+<li>Quickly reduces fatigue</li>
+<li>Minimal sleep inertia (that groggy feeling)</li>
+<li>Improves alertness and performance</li>
+<li>May not fully engage deep sleep processes</li>
+</ul>
+<h3 id="20-30-minutes-ideal-for-most">20-30 Minutes (Ideal for Most)</h3>
+<ul>
+<li>Hits light sleep (stages 1-2)</li>
+<li>Enhances motor learning and muscle memory</li>
+<li>Reduces cortisol</li>
+<li>Minimal grogginess</li>
+</ul>
+<h3 id="60-90-minutes-full-cycle">60-90 Minutes (Full Cycle)</h3>
+<ul>
+<li>Includes slow-wave deep sleep (where GH is released)</li>
+<li>Maximum muscle recovery benefits</li>
+<li>Can cause sleep inertia if woken abruptly</li>
+<li>Best for recovery days</li>
+</ul>
+<h3 id="avoid-30-60-minutes">Avoid: 30-60 Minutes</h3>
+<ul>
+<li>This is the "danger zone" where you wake up during deep sleep, causing sleep inertia and grogginess.</li>
+</ul>
+<h2 id="the-afternoon-nap-window">The Afternoon Nap Window</h2>
+<p>Timing matters. Your circadian rhythm naturally dips in the early afternoon (around 2-3 PM), making this the optimal time for napping. Research from the German Journal of Exercise and Sport Research found that athletes napping between 12:00-16:00 showed the most consistent benefits <a href="https://link.springer.com/article/10.1007/s12662-025-01030-3">(4)</a>.</p>
+<p>Napping too late in the day can interfere with nighttime sleep, creating a vicious cycle.</p>
+<h2 id="napping-for-athletes-the-evidence">Napping for Athletes: The Evidence</h2>
+<p>A 2025 scoping review in the <em>German Journal of Exercise and Sport Research</em> analyzed napping patterns in young athletes and found:</p>
+<ul>
+<li><strong>2-3 naps per week</strong> at 30-60 minutes showed small-to-large improvements in reaction time</li>
+<li>Afternoon naps were most effective</li>
+<li>Napping improved both physical recovery and cognitive performance</li>
+<li>No negative effects on nighttime sleep when naps were limited to 30-60 minutes</li>
+</ul>
+<p>Elite athletes in sports requiring rapid recovery (think Olympic swimmers, track athletes) have embraced strategic napping for years. LeBron James reportedly naps for 1-2 hours daily during training camp.</p>
+<h2 id="practical-recommendations">Practical Recommendations</h2>
+<p>Based on the current science, here's how to optimize napping for muscle recovery:</p>
+<ol>
+<li><strong>Time it right</strong>: Nap between 12:00-16:00, ideally around 2 PM</li>
+<li><strong>Keep it short</strong>: 20-30 minutes on training days; 60-90 minutes on rest days</li>
+<li><strong>Avoid the danger zone</strong>: Don't nap 30-60 minutes unless going for a full cycle</li>
+<li><strong>Darken the room</strong>: Light exposure suppresses sleep hormones</li>
+<li><strong>Cool your environment</strong>: 65-68°F (18-20°C) is optimal for sleep</li>
+<li><strong>Don't replace nighttime sleep</strong>: Naps supplement, not replace, 7-9 hours of nightly sleep</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Napping isn't lazy — it's strategic. A well-timed afternoon nap can:</p>
+<ul>
+<li>Stimulate growth hormone release</li>
+<li>Reduce cortisol levels</li>
+<li>Enhance muscle protein synthesis</li>
+<li>Improve next-workout performance</li>
+<li>Accelerate recovery from intense training</li>
+</ul>
+<p>The science is clear: if you're training hard and not napping, you might be leaving gains on the table. Set that alarm for 20 minutes, lie down, and let your muscles grow.</p>
+<hr>
+<p><strong>References:</strong></p>
+<p>1..Sleep and muscle recovery: endocrinological and molecular basis for a new and promising hypothesis - PubMed
+2.Daytime napping in young athletes: a scoping review - German Journal of Exercise and Sport Research, 2025
+3.Uniting sleep and high-intensity exercise - NapAndUp
+4.Ibid.</p>
+<hr>
+<p><em>Track your recovery with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}],["$","$Ld","training-to-failure-proximity",{"href":"/blog/training-to-failure-proximity","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training to Failure: What Science Says About Proximity to Failure"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New meta-analysis reveals training closer to failure helps muscle growth but isn't necessary for strength gains. Here's what the research means for your training."}]]}],["$","$Ld","estrogen-muscle-building-hormone-science",{"href":"/blog/estrogen-muscle-building-hormone-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Estrogen and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and your training outcomes."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

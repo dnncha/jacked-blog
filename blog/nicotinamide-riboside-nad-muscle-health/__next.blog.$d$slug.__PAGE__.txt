@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tad3,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health#webpage","url":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health","name":"Nicotinamide Riboside Supplementation for Muscle Health: The NAD+ Story","description":"NR reliably boosts NAD+ levels, but does that actually translate to better muscle performance? We examine the science behind the hype.","breadcrumb":{"@id":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health#webpage"},"headline":"Nicotinamide Riboside Supplementation for Muscle Health: The NAD+ Story","description":"NR reliably boosts NAD+ levels, but does that actually translate to better muscle performance? We examine the science behind the hype.","isAccessibleForFree":true,"wordCount":1520,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Nicotinamide Riboside Supplementation for Muscle Health: The NAD+ Story","item":"https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Nicotinamide Riboside Supplementation for Muscle Health: The NAD+ Story"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"NR reliably boosts NAD+ levels, but does that actually translate to better muscle performance? We examine the science behind the hype."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[7," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Nicotinamide%20Riboside%20Supplementation%20for%20Muscle%20Health%3A%20The%20NAD%2B%20Story&url=https://jacked.coach/blog/nicotinamide-riboside-nad-muscle-health","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-nicotinamide-riboside-nr",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-nicotinamide-riboside-nr","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What is Nicotinamide Riboside (NR)?"}]}],["$","li","the-science-of-nad-in-muscle-tissue",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-nad-in-muscle-tissue","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of NAD+ in Muscle Tissue"}]}],["$","li","research-on-nr-and-muscle-performance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#research-on-nr-and-muscle-performance","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Research on NR and Muscle Performance"}]}],["$","li","who-might-benefit-from-nr-supplementation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-might-benefit-from-nr-supplementation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Might Benefit from NR Supplementation?"}]}],["$","li","practical-considerations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-considerations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Considerations"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}]]}]]}]
+e:T2ba8,<p>If you've been around fitness circles lately, you've probably heard about NAD+—the coenzyme that's become something of a celebrity molecule in the anti-aging and performance world. And sitting at the center of that conversation is Nicotinamide Riboside, or NR, one of the most popular supplements claimed to boost NAD+ levels and, by extension, improve muscle health and performance.</p>
+<p>But does the science actually back up the hype? Let's break down what NR is, what it does in your muscle tissue, and whether it's worth your money if you're serious about building and maintaining muscle.</p>
+<hr>
+<h2 id="what-is-nicotinamide-riboside-nr">What is Nicotinamide Riboside (NR)?</h2>
+<p>Nicotinamide Riboside is a form of vitamin B3 that serves as a precursor to NAD+ (Nicotinamide Adenine Dinucleotide). NAD+ is a critical coenzyme found in every cell of your body, involved in countless metabolic processes—from converting food into energy to repairing DNA and regulating circadian rhythms.</p>
+<p>You can find trace amounts of NR in certain foods like milk, yeast extract, and some vegetables, but we're talking about barely detectable quantities. To meaningfully boost your NAD+ levels through diet alone would require eating unrealistic amounts of these foods, which is why supplementation has become the go-to strategy.</p>
+<p>What makes NR interesting is how efficiently it raises NAD+ levels compared to other precursors. Unlike niacin (another B3 form) which can cause uncomfortable flushing, or NMN (Nicotinamide Mononucleotide) which has faced questions about absorption, NR appears to cross cell membranes relatively easily and convert to NAD+ through a direct pathway. This has made it the darling of the supplement industry, with products like Tru Niagen and Basis flooding the market.</p>
+<p>Here's the key context: NAD+ levels naturally decline with age. Research suggests we lose approximately 50% of our NAD+ levels between ages 20 and 60. This decline isn't trivial—it correlates with decreased mitochondrial function, impaired cellular repair, and the cascade of age-related issues that follow, including muscle loss.</p>
+<hr>
+<h2 id="the-science-of-nad-in-muscle-tissue">The Science of NAD+ in Muscle Tissue</h2>
+<p>Your skeletal muscles are metabolic powerhouses, and they have enormous energy demands. Every contraction, every rep, every walk up stairs requires massive amounts of ATP (adenosine triphosphate), and NAD+ plays a central role in producing that ATP through oxidative phosphorylation in your mitochondria.</p>
+<p>Beyond energy production, NAD+ serves as a crucial cofactor for two major enzyme families: sirtuins and PARPs (Poly ADP-ribose polymerases). Sirtuins—particularly SIRT1 and SIRT3—are involved in mitochondrial biogenesis, oxidative stress management, and inflammation control. PARPs are primarily responsible for DNA repair. When your muscle cells have adequate NAD+, these processes function smoothly. When NAD+ drops, so does your cells' ability to maintain and repair themselves.</p>
+<p>This becomes particularly relevant when we consider sarcopenia—the age-related loss of muscle mass and function. While sarcopenia is driven by multiple factors including hormonal changes, reduced protein synthesis, and inactivity, declining NAD+ appears to contribute to the problem by impairing mitochondrial function and reducing the muscle's regenerative capacity.</p>
+<p>In younger, healthy individuals, NAD+ turnover in muscle tissue is relatively efficient. But as we age and NAD+ levels decline, the muscle's metabolic and repair machinery simply doesn't work as well. This creates a plausible biological rationale for supplementation: if you can maintain higher NAD+ levels, perhaps you can slow or mitigate some of this decline.</p>
+<p>The theory is compelling. The question is whether the evidence actually supports it.</p>
+<hr>
+<h2 id="research-on-nr-and-muscle-performance">Research on NR and Muscle Performance</h2>
+<p>Here's where things get nuanced. The research on NR and muscle performance tells a complicated story—not a simple "it works" or "it's useless" verdict.</p>
+<p>Let's start with one of the most cited studies: a 2020 paper published in Cell Metabolism that examined the effects of NR supplementation in older men. The researchers found that 250mg daily of NR for 21 days significantly increased NAD+ levels in skeletal muscle and improved mitochondrial function markers. This was exciting news—the mechanisms seemed to work as theorized.</p>
+<p>However, and this is a significant "however," the study didn't show meaningful improvements in muscle strength or physical performance. The subjects' functional metrics remained largely unchanged despite the biochemical improvements. This highlights a recurring theme in the NR research: raising NAD+ markers doesn't automatically translate to better muscle outcomes.</p>
+<p>A 2025 meta-analysis attempted to synthesize the broader body of evidence and reached a somewhat disappointing conclusion for muscle-focused readers: the evidence does NOT strongly support NR supplementation for muscle preservation or performance enhancement in healthy populations. The analysis noted that while NAD+ elevation is consistent across studies, the downstream effects on muscle tissue specifically remain unproven.</p>
+<p>That said, there are important nuances. Some studies show benefits in specific populations—particularly older adults with lower baseline NAD+ levels, or individuals with metabolic dysfunction. The dose matters too. Most studies use 250-500mg daily, and there's some evidence that higher doses may be needed for meaningful effects in muscle tissue specifically.</p>
+<p>The most honest interpretation is this: NR reliably raises NAD+ levels, and NAD+ is biologically important for muscle function. But the leap from "raised NAD+" to "better muscles" hasn't been definitively proven in human trials. It's a case where the mechanistic plausibility is strong, but the clinical evidence is still catching up.</p>
+<hr>
+<h2 id="who-might-benefit-from-nr-supplementation">Who Might Benefit from NR Supplementation?</h2>
+<p>Given the mixed evidence, let's be specific about who might actually benefit from NR supplementation—and who can probably skip it.</p>
+<p><strong>Likely beneficiaries:</strong></p>
+<ul>
+<li>
+<p><strong>Older adults (50+) with clinically low NAD+ levels</strong> — If you're in this demographic and experiencing unexplained fatigue, reduced recovery capacity, or early signs of sarcopenia, NR may help address a genuine deficiency. The research is most supportive here.</p>
+</li>
+<li>
+<p><strong>Sedentary oraging populations</strong> — For those who aren't training intensely but want to preserve muscle health as they age, supporting NAD+ levels makes biological sense, even if direct performance benefits aren't proven.</p>
+</li>
+<li>
+<p><strong>People with metabolic dysfunction</strong> — Some research suggests NR may benefit individuals with metabolic conditions like insulin resistance, where mitochondrial function is impaired. Muscle health in these populations may improve alongside metabolic markers.</p>
+</li>
+<li>
+<p><strong>Those with documented low NAD+</strong> — Functional medicine testing can now measure NAD+ levels. If you've tested and found your levels are genuinely low, supplementation is more justified.</p>
+</li>
+</ul>
+<p><strong>Probably not worth it:</strong></p>
+<ul>
+<li>
+<p><strong>Young, healthy athletes with normal NAD+ levels</strong> — If you're in your 20s or 30s, training regularly, and feeling fine, there's little evidence that NR will enhance your performance or muscle-building results. Your NAD+ turnover is likely fine already.</p>
+</li>
+<li>
+<p><strong>Anyone expecting dramatic results</strong> — This isn't creatine. The expected benefits, if any, are subtle and long-term rather than immediate and obvious.</p>
+</li>
+</ul>
+<hr>
+<h2 id="practical-considerations">Practical Considerations</h2>
+<p>If you decide to try NR, here are the practical details you need to know:</p>
+<p><strong>Dosage:</strong> Most studies use 250-500mg daily. The lower end (250mg) is what's in commercial products like Tru Niagen. Some researchers suggest 500mg may be more effective for muscle tissue specifically.</p>
+<p><strong>Timing:</strong> NR can be taken with or without food. Some users prefer morning to avoid any potential sleep disruption, though the evidence for timing effects is limited.</p>
+<p><strong>Time to effect:</strong> Don't expect immediate results. Most studies show NAD+ markers begin rising after 1-2 weeks of consistent supplementation, with more significant changes at 3-4 weeks. If you're trying it, give it at least a month before evaluating.</p>
+<p><strong>Cost:</strong> Expect to spend $20-40 per month for quality NR supplements. This puts it in the mid-range—more expensive than basic supplements like vitamin D or fish oil, but less than high-dose NMN.</p>
+<p><strong>Comparison to alternatives:</strong></p>
+<ul>
+<li><strong>NMN:</strong> Another NAD+ precursor. Some argue it's more directly converted to NAD+, but research is even more limited. Typically more expensive than NR.</li>
+<li><strong>NRPT:</strong> A combination of NR and pterostilbene (an antioxidant). Some studies use this combination and show promise, but it's pricier.</li>
+<li><strong>Niagen (Nicotinamide Riboside Chloride):</strong> A specific form of NR that's been clinically studied and is used in products like Tru Niagen. This is the most research-backed form.</li>
+</ul>
+<p><strong>Safety:</strong> NR appears safe at recommended doses with minimal reported side effects. The most common are mild digestive issues at very high doses. However, long-term safety data (beyond several months) is limited.</p>
+<hr>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Nicotinamide Riboside is one of the most scientifically validated NAD+ boosters available. It genuinely raises NAD+ levels, and the biological mechanisms by which NAD+ supports muscle health are well-established. The theory is solid.</p>
+<p>What remains unproven is whether that theory translates to meaningful muscle-specific outcomes in healthy, training populations. The 2025 meta-analysis was notably skeptical, and the most rigorous studies show NAD+ elevation without corresponding performance improvements.</p>
+<p>For older adults concerned about sarcopenia or those with documented low NAD+, NR is a reasonable, science-supported supplement to try. For young athletes looking for an edge, the evidence simply doesn't support it—not when proven supplements like creatine, beta-alanine, and adequate protein are available.</p>
+<p>The cost ($20-40/month) isn't trivial, and that money might be better spent on fundamentals: quality food, sufficient sleep, and supplements with stronger evidence bases.</p>
+<p>NR is promising. It's just not proven yet. If you're going to supplement, go in with realistic expectations—this is a long-term, preventive approach, not a quick performance fix. The NAD+ story is still being written.</p>
+<hr>
+<p><em>Track your NAD+ with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","pqq-supplementation-mitochondrial-muscle-health",{"href":"/blog/pqq-supplementation-mitochondrial-muscle-health","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"PQQ Supplementation for Muscle Health: Science Review"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does pyrroloquinoline quinone actually build new mitochondria? We examine the research on PQQ and its effects on muscle performance."}]]}],["$","$Ld","beta-alanine-strength-training-science-2026",{"href":"/blog/beta-alanine-strength-training-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Beta-Alanine for Strength Training: Does It Actually Work?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science behind beta-alanine supplementation for strength and hypertrophy athletes—separating hype from evidence."}]]}],["$","$Ld","fasted-vs-fed-training-muscle-growth-2026",{"href":"/blog/fasted-vs-fed-training-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Fasted vs Fed Training: What the Science Actually Says About Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does training fasted burn more fat or muscle? A 2025 meta-analysis reveals the surprising truth about fasted versus fed training for hypertrophy and performance."}]]}],["$","$Ld","l-carnitine-supplementation-strength-hypertrophy",{"href":"/blog/l-carnitine-supplementation-strength-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"L-Carnitine Supplementation for Strength Athletes: What the Research Shows"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does L-carnitine actually help lifters build muscle and get stronger? We dive into the science to separate fact from hype."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

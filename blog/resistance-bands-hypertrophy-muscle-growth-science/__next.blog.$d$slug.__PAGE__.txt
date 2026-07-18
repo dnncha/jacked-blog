@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb56,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science#webpage","url":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science","name":"Resistance Bands for Muscle Growth: The Science of Elastic Hypertrophy","description":"Resistance bands build muscle just as effectively as weights when volume and intensity are matched. Here's the science behind elastic training and how to opt...","breadcrumb":{"@id":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science#webpage"},"headline":"Resistance Bands for Muscle Growth: The Science of Elastic Hypertrophy","description":"Resistance bands build muscle just as effectively as weights when volume and intensity are matched. Here's the science behind elastic training and how to opt...","isAccessibleForFree":true,"wordCount":889,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Resistance Bands for Muscle Growth: The Science of Elastic Hypertrophy","item":"https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Resistance Bands for Muscle Growth: The Science of Elastic Hypertrophy"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Resistance bands build muscle just as effectively as weights when volume and intensity are matched. Here's the science behind elastic training and how to optimize your bands for hypertrophy."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Resistance%20Bands%20for%20Muscle%20Growth%3A%20The%20Science%20of%20Elastic%20Hypertrophy&url=https://jacked.coach/blog/resistance-bands-hypertrophy-muscle-growth-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-science-do-bands-actually-build-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-do-bands-actually-build-muscle","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: Do Bands Actually Build Muscle?"}]}],["$","li","the-meta-analysis-evidence",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-meta-analysis-evidence","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Meta-Analysis Evidence"}]}],["$","li","why-bands-work-the-mechanical-advantage",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-bands-work-the-mechanical-advantage","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Bands Work: The Mechanical Advantage"}]}],["$","li","the-trade-offs-where-bands-fall-short",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-trade-offs-where-bands-fall-short","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Trade-offs: Where Bands Fall Short"}]}],["$","li","limited-maximum-load",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#limited-maximum-load","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Limited Maximum Load"}]}],["$","li","less-eccentric-overload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#less-eccentric-overload","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Less Eccentric Overload"}]}],["$","li","strength-curve-mismatch",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#strength-curve-mismatch","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Strength Curve Mismatch"}]}],["$","li","harder-to-track-progress",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#harder-to-track-progress","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Harder to Track Progress"}]}],["$","li","optimizing-bands-for-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimizing-bands-for-hypertrophy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimizing Bands for Hypertrophy"}]}],["$","li","1-train-to-failure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-train-to-failure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Train to Failure"}]}],["$","li","2-use-multiple-bands-stacked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-use-multiple-bands-stacked","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Use Multiple Bands Stacked"}]}],["$","li","3-slow-down-your-reps",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-slow-down-your-reps","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Slow Down Your Reps"}]}],["$","li","4-incorporate-partial-reps-at-lockout",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-incorporate-partial-reps-at-lockout","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Incorporate Partial Reps at Lockout"}]}],["$","li","5-track-rpe-not-weight",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-track-rpe-not-weight","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Track RPE, Not Weight"}]}]]}]]}]
+e:T1abd,<p>If you walked into a commercial gym 20 years ago and tried to build muscle with resistance bands, you'd have gotten laughed out of the weight room. Bands were for warm-ups and rehabilitation — not serious muscle building.</p>
+<p>Fast forward to 2026: the science has caught up with the intuition. Research now shows that resistance bands can produce equivalent strength and hypertrophy gains to traditional free weights when you control for volume and intensity. The memes about "flexing with bands" are outdated.</p>
+<p>That equipment flexibility is one reason lifters compare <a href="/blog/alternatives-to-rp-hypertrophy-app">alternatives to RP Hypertrophy App</a>. A good RP alternative should make swaps practical when your gym, travel setup, or joint tolerance changes.</p>
+<h2 id="the-science-do-bands-actually-build-muscle">The Science: Do Bands Actually Build Muscle?</h2>
+<p>A 2019 meta-analysis published in the <em>Journal of Strength and Conditioning Research</em> found resistance band training to be "effective for increasing muscle strength and performance" — with effects comparable to conventional resistance training when volume and effort were matched.</p>
+<p>The key finding: <strong>muscle growth is driven by mechanical tension and metabolic stress, not by the specific tool providing the resistance.</strong></p>
+<p>When you take a set to true failure, your muscle fibers experience the same damage and swelling whether you're pressing 225 pounds on a barbell or fighting against a thick latex band. The adaptation pathways — mTOR activation, satellite cell recruitment, muscle protein synthesis — respond to the stimulus, not the source.</p>
+<h3 id="the-meta-analysis-evidence">The Meta-Analysis Evidence</h3>
+<p>A systematic review comparing elastic resistance versus conventional resistance training found:</p>
+<ul>
+<li><strong>Similar strength gains</strong> across multiple populations (trained athletes, elderly, beginners)</li>
+<li><strong>Comparable muscle thickness increases</strong> when volume was matched</li>
+<li><strong>No significant difference</strong> in hypertrophy markers between bands and weights</li>
+</ul>
+<p>The researchers noted that bands may actually have advantages in certain contexts: constant resistance throughout the range of motion, variable resistance that peaks at the strongest point, and less joint compression at end ranges.</p>
+<h2 id="why-bands-work-the-mechanical-advantage">Why Bands Work: The Mechanical Advantage</h2>
+<p>Traditional weights provide <strong>isoinertial resistance</strong> — the load stays constant regardless of your position in the movement. A 100-pound dumbbell weighs 100 pounds at the bottom of a curl and at the top.</p>
+<p>Resistance bands provide <strong>accommodating resistance</strong> — the load increases as the band stretches. This creates:</p>
+<ol>
+<li><strong>Greater tension at shortened muscle lengths</strong> where you're strongest</li>
+<li><strong>Reduced momentum</strong> — harder to "throw" the weight</li>
+<li><strong>Constant muscle engagement</strong> throughout the entire range of motion</li>
+</ol>
+<p>For exercises like bicep curls, this means your biceps work harder at the top of the movement (where dumbbells become easiest) because the band is at maximum tension. Some researchers argue this leads to more complete muscle recruitment.</p>
+<h2 id="the-trade-offs-where-bands-fall-short">The Trade-offs: Where Bands Fall Short</h2>
+<p>Let's be real: bands aren't perfect.</p>
+<h3 id="limited-maximum-load">Limited Maximum Load</h3>
+<p>Even thick latex bands max out around 150-200 pounds of tension at full extension. For heavy compounds like squats and deadlifts, you hit a ceiling. This matters for advanced lifters pushing true 1RM strength.</p>
+<h3 id="less-eccentric-overload">Less Eccentric Overload</h3>
+<p>You can't easily "drop" a band for controlled eccentric emphasis. Some band routines incorporate manual assistance for negatives, but it's clunkier than simply racking a heavier weight and lowering it slowly.</p>
+<h3 id="strength-curve-mismatch">Strength Curve Mismatch</h3>
+<p>Some exercises work better with constant weight (pressing, squatting) where the strength curve naturally rises. Bands add more resistance at end ranges — beneficial for some movements, awkward for others.</p>
+<h3 id="harder-to-track-progress">Harder to Track Progress</h3>
+<p>With weights, adding 5 pounds is a clear progression. With bands, you're estimating "this feels slightly harder than last week." Progressive overload requires more intentional tracking.</p>
+<h2 id="optimizing-bands-for-hypertrophy">Optimizing Bands for Hypertrophy</h2>
+<p>If you're training with bands (travel, home gym, or by choice), here's how to maximize muscle growth:</p>
+<h3 id="1-train-to-failure">1. Train to Failure</h3>
+<p>Without the psychological feedback of a weight "feeling heavy," it's easy to leave reps in the tank. For hypertrophy with bands, <strong>take every set within 1-2 reps of failure</strong>.</p>
+<h3 id="2-use-multiple-bands-stacked">2. Use Multiple Bands Stacked</h3>
+<p>Stack 2-4 bands to increase total resistance. This solves the "not heavy enough" problem for compound movements.</p>
+<h3 id="3-slow-down-your-reps">3. Slow Down Your Reps</h3>
+<p>The accommodating resistance makes it harder to generate momentum. Slow, controlled reps (3-4 second eccentric) maximize time under tension.</p>
+<h3 id="4-incorporate-partial-reps-at-lockout">4. Incorporate Partial Reps at Lockout</h3>
+<p>Bands are strongest at full extension. Use this for "squeezes" at the top of movements — hold the peak contraction for 1-2 seconds.</p>
+<h3 id="5-track-rpe-not-weight">5. Track RPE, Not Weight</h3>
+<p>Since you can't easily quantify band resistance, rate your perceived exertion (RPE). If a set felt like RPE 8 last week and RPE 9 this week with the same bands, you progressed.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<p>Resistance bands are a legitimate hypertrophy tool — not a gimmick, not a compromise. They build muscle through the same mechanisms as weights: mechanical tension, metabolic stress, and muscle damage.</p>
+<p>For beginners, bands offer a low-barrier entry to resistance training. For travelers and home gym enthusiasts, they provide real stimulus without equipment. For experienced lifters, they offer variable resistance that may even provide advantages in certain range-of-motion phases.</p>
+<p>The era of "bands are for cardio" is over. The science is settled: if you train with intensity and volume, your muscles don't know the difference between steel and latex.</p>
+<hr>
+<p><strong>Key Takeaway:</strong> Load is less important than effort. Bands + true failure = muscle growth. The tool is just the vehicle.</p>
+<hr>
+<p><em>Track your band training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}],["$","$Ld","blood-flow-restriction-training-science",{"href":"/blog/blood-flow-restriction-training-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Blood Flow Restriction Training: The Science Behind Growing Muscle with Light Weights"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"BFRT lets you build muscle using just 30% of your max weight. Here's what 2025 research says about its effectiveness, sex differences, and how to use it safely."}]]}],["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}],["$","$Ld","women-men-muscle-building-2025-research",{"href":"/blog/women-men-muscle-building-2025-research","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Women and Muscle Building: What the 2025 Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A new meta-analysis settles the debate: women build muscle just as effectively as men when you look at relative gains. Here's what the research means for your training."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

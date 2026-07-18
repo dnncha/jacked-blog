@@ -1,0 +1,259 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta7b,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/training-while-sick-when-to-push-rest#webpage","url":"https://jacked.coach/blog/training-while-sick-when-to-push-rest","name":"Training While Sick: When to Push and When to Rest","description":"The common cold vs. flu, the neck check rule, and how to modify your training when under the weather without derailing your gains.","breadcrumb":{"@id":"https://jacked.coach/blog/training-while-sick-when-to-push-rest#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/training-while-sick-when-to-push-rest#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/training-while-sick-when-to-push-rest#webpage"},"headline":"Training While Sick: When to Push and When to Rest","description":"The common cold vs. flu, the neck check rule, and how to modify your training when under the weather without derailing your gains.","isAccessibleForFree":true,"wordCount":901,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Rest Time Calculator","url":"https://jacked.coach/tools/rest-time-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/training-while-sick-when-to-push-rest#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Training While Sick: When to Push and When to Rest","item":"https://jacked.coach/blog/training-while-sick-when-to-push-rest"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Training While Sick: When to Push and When to Rest"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The common cold vs. flu, the neck check rule, and how to modify your training when under the weather without derailing your gains."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Training%20While%20Sick%3A%20When%20to%20Push%20and%20When%20to%20Rest&url=https://jacked.coach/blog/training-while-sick-when-to-push-rest","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","rest-time-calculator",{"href":"/tools/rest-time-calculator","data-related-tool":"rest-time-calculator","children":"Rest Time Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-neck-check-rule-your-first-decision-tool",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-neck-check-rule-your-first-decision-tool","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Neck Check Rule: Your First Decision Tool"}]}],["$","li","the-science-of-exercise-and-immunity",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-exercise-and-immunity","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Exercise and Immunity"}]}],["$","li","when-it-s-okay-to-train",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-it-s-okay-to-train","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When It's Okay to Train"}]}],["$","li","how-to-modify-training-if-sick",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#how-to-modify-training-if-sick","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"How to Modify Training If Sick"}]}],["$","li","when-to-absolutely-rest",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-to-absolutely-rest","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When to Absolutely Rest"}]}],["$","li","the-no-go-symptoms",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-no-go-symptoms","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The \"No-Go\" Symptoms"}]}],["$","li","returning-to-training-after-illness",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#returning-to-training-after-illness","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Returning to Training After Illness"}]}],["$","li","protecting-your-gains-while-sick",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#protecting-your-gains-while-sick","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Protecting Your Gains While Sick"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}]]}]]}]
+e:T1ccb,<p>Every lifter faces this dilemma: you wake up with a scratchy throat or a stuffy nose and wonder whether to hit the gym or stay home. Training while sick is a nuanced topic—push too hard and you prolong illness; rest too much and you lose momentum. Here's what science says about exercising while ill, so you can make smart decisions and protect your gains.</p>
+<h2 id="the-neck-check-rule-your-first-decision-tool">The Neck Check Rule: Your First Decision Tool</h2>
+<p>The <strong>neck check rule</strong> is a simple guideline used by sports physicians to determine whether you can train when feeling under the weather. It divides symptoms into two categories:</p>
+<ul>
+<li><strong>Above the neck</strong>: Sore throat, nasal congestion, sneezing, watery eyes</li>
+<li><strong>Below the neck</strong>: Cough, chest congestion, body aches, fever, gastrointestinal symptoms</li>
+</ul>
+<p><strong>The general rule</strong>: If symptoms are above the neck, light to moderate exercise is typically fine. If symptoms are below the neck, rest is strongly recommended.</p>
+<p>This isn't just folk wisdom—a 2024 review in <em>PMC</em> on respiratory illness in athletes found that the neck check rule remains a commonly used practical tool for determining safe training participation.</p>
+<h2 id="the-science-of-exercise-and-immunity">The Science of Exercise and Immunity</h2>
+<p>Here's the counterintuitive part: regular, moderate exercise actually <strong>boosts</strong> your immune system, while intense training can temporarily suppress it.</p>
+<p>According to research published in <em>PubMed</em> and the <em>Gatorade Sports Science Institute</em>, the relationship between exercise and immunity follows a <strong>J-curve</strong> model:</p>
+<ul>
+<li><strong>Moderate exercise</strong> (45 minutes or less, below 75% max effort): Enhances immune function, reduces infection risk</li>
+<li><strong>High-volume/intense training</strong> (90+ minutes, high intensity): Temporarily suppresses immune function, increases infection susceptibility</li>
+</ul>
+<p>This explains why marathon runners and ultra-endurance athletes frequently report getting sick after major events—their immune systems are temporarily compromised.</p>
+<p>For lifters, this means:</p>
+<ul>
+<li>Regular training builds immune resilience</li>
+<li>Training while already sick adds additional stress that can delay recovery</li>
+<li>Your body needs resources to fight infection, not rebuild muscle</li>
+</ul>
+<h2 id="when-it-s-okay-to-train">When It's Okay to Train</h2>
+<p>You can consider training if:</p>
+<ol>
+<li><strong>Symptoms are above the neck only</strong> (runny nose, mild sore throat, congestion)</li>
+<li><strong>You have no fever</strong> (body temperature above 38°C/100.4°F means rest)</li>
+<li><strong>You're not feeling systemic malaise</strong> (no body aches, fatigue, or chills)</li>
+<li><strong>You've had worse days</strong>—if you're on the upswing, light training is reasonable</li>
+</ol>
+<h3 id="how-to-modify-training-if-sick">How to Modify Training If Sick</h3>
+<p>If you decide to train while experiencing above-the-neck symptoms:</p>
+<ul>
+<li><strong>Reduce intensity</strong>: Drop to 50-60% of your normal load</li>
+<li><strong>Shorten sessions</strong>: Keep workouts under 45 minutes</li>
+<li><strong>Skip high-intensity work</strong>: Avoid PR attempts, drop sets, or training to failure</li>
+<li><strong>Focus on isolation movements</strong>: Replace compound max efforts with lighter machines and cables</li>
+<li><strong>Listen to your body</strong>: If you feel worse during the workout, stop</li>
+</ul>
+<p>A 2025 <em>Houston Methodist</em> article confirms this approach: "If your symptoms are above the neck, you can likely continue with your routine—but at a lower intensity and shorter timeframe."</p>
+<h2 id="when-to-absolutely-rest">When to Absolutely Rest</h2>
+<p>Stop training and prioritize recovery if you have:</p>
+<ul>
+<li><strong>Fever</strong> (any elevated temperature indicates active infection)</li>
+<li><strong>Chest congestion or productive cough</strong> (below-the-neck involvement)</li>
+<li><strong>Body aches or muscle aches</strong> (myalgia indicates systemic infection)</li>
+<li><strong>Gastrointestinal symptoms</strong> (nausea, diarrhea, vomiting)</li>
+<li><strong>Fatigue that limits daily activities</strong> (if you can barely get out of bed, don't train)</li>
+<li><strong>Shortness of breath</strong> (not related to exercise exertion)</li>
+</ul>
+<p>Training with these symptoms can:</p>
+<ul>
+<li>Prolong illness duration by 2-3 days</li>
+<li>Increase risk of complications (sinus infections, bronchitis)</li>
+<li>Potentially cause viral myocarditis (heart inflammation)—rare but serious</li>
+</ul>
+<h2 id="the-no-go-symptoms">The "No-Go" Symptoms</h2>
+<p>Certain symptoms warrant immediate medical attention rather than self-treatment:</p>
+<ul>
+<li>Difficulty breathing at rest</li>
+<li>Chest pain</li>
+<li>Confusion or dizziness</li>
+<li>Symptoms lasting more than 10-14 days</li>
+<li>High fever (above 39°C/102°F) persisting more than 48 hours</li>
+</ul>
+<h2 id="returning-to-training-after-illness">Returning to Training After Illness</h2>
+<p>Once symptoms resolve, don't immediately return to maximal training. Follow this graduated approach:</p>
+<ol>
+<li><strong>Day 1 symptom-free</strong>: Light training at 50% volume and intensity</li>
+<li><strong>Day 2-3</strong>: 70% of normal volume, moderate intensity</li>
+<li><strong>Day 4+</strong>: Resume normal training gradually</li>
+</ol>
+<p>This approach prevents <strong>relapse</strong> and allows your immune system to fully recover. Rushing back to heavy training too soon is a common mistake that leads to getting sick again.</p>
+<h2 id="protecting-your-gains-while-sick">Protecting Your Gains While Sick</h2>
+<p>While you can't build muscle while fighting infection, you can minimize losses:</p>
+<ul>
+<li><strong>Keep protein intake high</strong>: Your body needs amino acids for immune function and muscle protein synthesis</li>
+<li><strong>Stay hydrated</strong>: Mucous production and fever increase fluid requirements</li>
+<li><strong>Prioritize sleep</strong>: Aim for 8-9 hours; sleep is when growth hormone and immune function peak</li>
+<li><strong>Consider supplements</strong>: Vitamin D, zinc, and vitamin C support immune function (though they're not magic bullets)</li>
+</ul>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Use the neck check rule as your decision framework. Above the neck? You can likely train light. Below the neck? Rest and recover. The temporary setback to your training is far less costly than prolonging illness or risking complications.</p>
+<p>Your immune system is your greatest asset as a lifter—protect it, and it'll protect your gains.</p>
+<hr>
+<p><strong>References</strong>:</p>
+<ul>
+<li>"Sport and exercise during viral acute respiratory illness—Time to revisit" (PMC, 2024)</li>
+<li>"Exercise, Immunity, and Illness" (PMC, 2019)</li>
+<li>"Can exercise affect immune function to increase susceptibility to infection?" (PubMed, 2020)</li>
+<li>"Effects of Exercise on Immune Function" (Gatorade Sports Science Institute)</li>
+<li>USA Triathlon: The Neck Rule</li>
+<li>Houston Methodist: "Is It OK to Exercise When You're Sick?" (2025)</li>
+</ul>
+<hr>
+<p><em>Track your training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-around-injuries-keep-gains-banged-up",{"href":"/blog/training-around-injuries-keep-gains-banged-up","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Around Injuries: How to Keep Making Gains When You're Banged Up"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Injuries don't have to derail your progress. Learn the science of training smart around common injuries and maintain muscle even when you can't train normally."}]]}],["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}],["$","$Ld","co2-tolerance-training-strength-lifts",{"href":"/blog/co2-tolerance-training-strength-lifts","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"CO2 Tolerance Training: The Breathing Hack for Stronger Lifts"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters ignore the most powerful breathing tool they have. Better CO2 tolerance can improve your stability, reduce breathlessness, and help you push harder under load."}]]}],["$","$Ld","hydration-electrolytes-muscle-building-science",{"href":"/blog/hydration-electrolytes-muscle-building-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hydration and Electrolytes: The Hidden Factor in Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over protein, training volume, and rest—but overlook the fundamentals of hydration. Science shows proper fluid and electrolyte balance can make or break your gains."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

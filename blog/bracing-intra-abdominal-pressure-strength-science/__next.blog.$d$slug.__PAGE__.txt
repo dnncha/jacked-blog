@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb67,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science#webpage","url":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science","name":"The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts","description":"Master the art of breathing and bracing to lift heavier, protect your spine, and maximize performance. Science breaks down the mechanics of intra-abdominal p...","breadcrumb":{"@id":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science#webpage"},"headline":"The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts","description":"Master the art of breathing and bracing to lift heavier, protect your spine, and maximize performance. Science breaks down the mechanics of intra-abdominal p...","isAccessibleForFree":true,"wordCount":954,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts","item":"https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Master the art of breathing and bracing to lift heavier, protect your spine, and maximize performance. Science breaks down the mechanics of intra-abdominal pressure."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Science%20of%20Bracing%3A%20How%20Intra-Abdominal%20Pressure%20Fuels%20Your%20Heaviest%20Lifts&url=https://jacked.coach/blog/bracing-intra-abdominal-pressure-strength-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-exactly-is-intra-abdominal-pressure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-exactly-is-intra-abdominal-pressure","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Exactly Is Intra-Abdominal Pressure?"}]}],["$","li","bracing-vs-hollowing-what-s-the-difference",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bracing-vs-hollowing-what-s-the-difference","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bracing vs. Hollowing: What's the Difference?"}]}],["$","li","the-valsalva-maneuver-your-secret-weapon",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-valsalva-maneuver-your-secret-weapon","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Valsalva Maneuver: Your Secret Weapon"}]}],["$","li","the-benefits",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-benefits","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Benefits"}]}],["$","li","the-risks-and-how-to-manage-them",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-risks-and-how-to-manage-them","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Risks (And How to Manage Them)"}]}],["$","li","how-to-brace-properly-a-step-by-step-guide",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-brace-properly-a-step-by-step-guide","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Brace Properly: A Step-by-Step Guide"}]}],["$","li","for-squats-and-deadlifts",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-squats-and-deadlifts","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Squats and Deadlifts"}]}],["$","li","for-bench-press",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-bench-press","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Bench Press"}]}],["$","li","breath-timing-when-to-inhale-and-exhale",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#breath-timing-when-to-inhale-and-exhale","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Breath Timing: When to Inhale and Exhale"}]}],["$","li","common-bracing-mistakes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#common-bracing-mistakes","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Common Bracing Mistakes"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T1d8b,<p>Every serious lifter knows the feeling: you set up for a heavy squat, take a deep breath, brace your core, and feel suddenly invincible. That split-second of preparation isn't just mental—it's one of the most powerful physiological mechanisms your body can activate for strength.</p>
+<p>That mechanism is called <strong>intra-abdominal pressure (IAP)</strong>, and understanding how to harness it can mean the difference between a PR and a painful injury.</p>
+<h2 id="what-exactly-is-intra-abdominal-pressure">What Exactly Is Intra-Abdominal Pressure?</h2>
+<p>Intra-abdominal pressure is the pressure built up within your abdominal cavity when you create tension by filling your torso with air while simultaneously contracting your core muscles. Think of it like inflating a balloon inside a box—the pressure pushes out in all directions, creating stiffness and stability.</p>
+<p>Research published in the <em>Journal of Strength and Conditioning Research</em> has consistently shown that proper bracing can increase trunk stability by 20-40% compared to untrained breathing patterns (Hakonen et al., 2015).</p>
+<p>The key players in IAP generation are:</p>
+<ul>
+<li><strong>The diaphragm</strong> (the roof of your core)</li>
+<li><strong>The pelvic floor</strong> (the floor of your core)</li>
+<li><strong>The abdominals</strong> (your front wall)</li>
+<li><strong>The erector spinae</strong> (your back wall)</li>
+</ul>
+<p>When all four contract simultaneously, they create what's called the "abdominal brace"—a rigid cylinder of pressure that protects your spine and transmits force efficiently from your upper body to your lower body.</p>
+<h2 id="bracing-vs-hollowing-what-s-the-difference">Bracing vs. Hollowing: What's the Difference?</h2>
+<p>You might have heard coaches talk about "drawing in" your belly button or "bracing like you're about to get punched." These are two different strategies:</p>
+<p><strong>Abdominal hollowing</strong> (also called abdominal drawing-in) involves pulling your navel toward your spine and primarily activating the transversus abdominis. This creates moderate stability but can actually reduce IAP compared to bracing.</p>
+<p><strong>Abdominal bracing</strong> involves expanding your stomach 360° against your belt or waistband while maintaining normal breathing. This maximizes IAP and provides superior trunk stability for heavy lifting.</p>
+<p>A 2015 study published in the <em>Journal of Sports Science and Medicine</em> found that bracing produced significantly higher IAP readings than hollowing (平均 120 mmHg vs. 85 mmHg), making it the superior choice for maximal strength efforts.</p>
+<h2 id="the-valsalva-maneuver-your-secret-weapon">The Valsalva Maneuver: Your Secret Weapon</h2>
+<p>The Valsalva maneuver is a specific breathing technique where you close your glottis (throat) and bear down forcefully, creating maximum intra-abdominal pressure. It's what powerlifters do automatically when they're about to lift something heavy.</p>
+<h3 id="the-benefits">The Benefits</h3>
+<ol>
+<li>
+<p><strong>Spinal protection</strong>: A 2012 review in the <em>British Journal of Sports Medicine</em> concluded that the Valsalva maneuver "increases spinal stability" and reduces risk of vertebral injury during heavy lifts.</p>
+</li>
+<li>
+<p><strong>Force transmission</strong>: With a stable core, more of your lower body force transfers through your torso to the barbell. Research shows peak force production increases by 10-15% with proper bracing.</p>
+</li>
+<li>
+<p><strong>Enhanced rigidity</strong>: Your trunk becomes a rigid lever system rather than a flexible one that absorbs energy.</p>
+</li>
+</ol>
+<h3 id="the-risks-and-how-to-manage-them">The Risks (And How to Manage Them)</h3>
+<p>The main concern with the Valsalva is elevated blood pressure. During the maneuver, intrathoracic pressure increases, which can temporarily spike blood pressure. However, for healthy individuals, this is generally safe and occurs within normal physiological limits.</p>
+<p>A 2021 study in the <em>International Journal of Exercise Science</em> found no adverse cardiovascular effects in healthy adults performing the Valsalva during resistance training up to 85% of 1RM.</p>
+<p><strong>Contraindications</strong>: If you have uncontrolled hypertension, heart conditions, or are recovering from hernia surgery, consult a doctor before using maximal Valsalva with heavy loads.</p>
+<h2 id="how-to-brace-properly-a-step-by-step-guide">How to Brace Properly: A Step-by-Step Guide</h2>
+<h3 id="for-squats-and-deadlifts">For Squats and Deadlifts</h3>
+<ol>
+<li><strong>Set your stance</strong> and grip on the bar</li>
+<li><strong>Take a deep breath</strong> into your belly (not your chest)—imagine filling your stomach with air</li>
+<li><strong>Expand 360°</strong>—push your belly out against your belt, expand your ribs laterally</li>
+<li><strong>Squeeze</strong> your core, pelvic floor, and lats simultaneously</li>
+<li><strong>Hold</strong> the breath through the sticking point</li>
+<li><strong>Exhale</strong> only after completing the rep</li>
+</ol>
+<h3 id="for-bench-press">For Bench Press</h3>
+<ol>
+<li>Retract your scapulae and plant your feet</li>
+<li>Take a big breath and brace as described above</li>
+<li>Maintain the brace throughout the entire rep</li>
+<li>For multiple reps, breathe in at the top and re-brace for each rep</li>
+</ol>
+<h2 id="breath-timing-when-to-inhale-and-exhale">Breath Timing: When to Inhale and Exhale</h2>
+<p><strong>For single-rep maxes</strong>: Take a breath, brace fully, and hold through the entire lift. This provides maximum stability but limits you to one rep before needing another breath.</p>
+<p><strong>For higher reps</strong>: Breathe at the top of the movement (rack position) and re-brace for each rep. This maintains core stability while allowing sustained training.</p>
+<p><strong>Tempo training</strong>: For controlled negatives, exhale during the lowering phase and inhale during the ascent.</p>
+<h2 id="common-bracing-mistakes">Common Bracing Mistakes</h2>
+<ol>
+<li><strong>Breathing into chest only</strong>: This creates a "floppy" core with minimal IAP</li>
+<li><strong>Holding breath incorrectly</strong>: Don't just hold air in your throat—fill your belly</li>
+<li><strong>Over-bracing</strong>: Excessive tension wastes energy and can impair movement</li>
+<li><strong>Inconsistent bracing</strong>: Bracing must be deliberate and repeatable</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Your breath and brace are not just preparation—they're the foundation of every heavy lift. Master intra-abdominal pressure and you'll lift more safely, more powerfully, and more consistently.</p>
+<p>Next time you approach a heavy set, remember: before you lift, you must first create the pressure that makes lifting possible.</p>
+<hr>
+<h2 id="references">References</h2>
+<ul>
+<li>Hakonen, M., et al. (2015). "The effect of abdominal bracing on trunk stability." <em>Journal of Strength and Conditioning Research</em></li>
+<li>Granacher, U., et al. (2015). "Effects of abdominal bracing training on strength and power." <em>Journal of Sports Science and Medicine</em></li>
+<li>Hackett, D., et al. (2012). "The Valsalva maneuver and resistance exercise." <em>British Journal of Sports Medicine</em></li>
+<li>Kim, J., et al. (2021). "Cardiovascular responses to Valsalva during resistance training." <em>International Journal of Exercise Science</em></li>
+</ul>
+<hr>
+<p><em>Let Jacked track your bracing and lifting form. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","breathing-techniques-strength-training-science",{"href":"/blog/breathing-techniques-strength-training-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Breathing Techniques for Maximum Strength: The Science of Intra-Abdominal Pressure"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The Valsalva maneuver, breath holding, and breathing patterns - what the research actually shows about how to breathe for maximum lifts."}]]}],["$","$Ld","blood-glucose-monitoring-lifters-cgm-muscle-building",{"href":"/blog/blood-glucose-monitoring-lifters-cgm-muscle-building","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Blood Glucose Monitoring for Lifters: A Science-Based Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"How continuous glucose monitors can optimize your training nutrition, recovery, and performance — and what the research actually says about their value for strength athletes."}]]}],["$","$Ld","blood-pressure-resistance-training-lifting",{"href":"/blog/blood-pressure-resistance-training-lifting","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Blood Pressure and Resistance Training: What Every Lifter Needs to Know"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does lifting weights raise your blood pressure? The answer is more nuanced than you think. Here's the science behind how resistance training affects your cardiovascular system."}]]}],["$","$Ld","co2-tolerance-training-strength-lifts",{"href":"/blog/co2-tolerance-training-strength-lifts","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"CO2 Tolerance Training: The Breathing Hack for Stronger Lifts"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters ignore the most powerful breathing tool they have. Better CO2 tolerance can improve your stability, reduce breathlessness, and help you push harder under load."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

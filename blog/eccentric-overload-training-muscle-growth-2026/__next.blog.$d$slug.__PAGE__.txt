@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb26,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026#webpage","url":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026","name":"Eccentric Overload Training: Does It Actually Build More Muscle?","description":"The theory sounds perfect — overload the lowering phase to maximize muscle growth. But what does the research actually show? We review the 2025-2026 science.","breadcrumb":{"@id":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026#webpage"},"headline":"Eccentric Overload Training: Does It Actually Build More Muscle?","description":"The theory sounds perfect — overload the lowering phase to maximize muscle growth. But what does the research actually show? We review the 2025-2026 science.","isAccessibleForFree":true,"wordCount":855,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Eccentric Overload Training: Does It Actually Build More Muscle?","item":"https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Eccentric Overload Training: Does It Actually Build More Muscle?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The theory sounds perfect — overload the lowering phase to maximize muscle growth. But what does the research actually show? We review the 2025-2026 science."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Eccentric%20Overload%20Training%3A%20Does%20It%20Actually%20Build%20More%20Muscle%3F&url=https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-theory-behind-eccentric-overload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-theory-behind-eccentric-overload","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Theory Behind Eccentric Overload"}]}],["$","li","what-the-research-shows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-research-shows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Research Shows"}]}],["$","li","why-the-mixed-results",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-the-mixed-results","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why the Mixed Results?"}]}],["$","li","the-practicality-problem",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-practicality-problem","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Practicality Problem"}]}],["$","li","what-2026-research-tells-us",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-2026-research-tells-us","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What 2026 Research Tells Us"}]}],["$","li","the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Verdict"}]}],["$","li","the-bigger-lesson",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bigger-lesson","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bigger Lesson"}]}]]}]]}]
+e:T198e,<p>If you've spent any time in serious lifting circles, you've heard the pitch: the eccentric (lowering) phase is where the muscle does most of its work, but it's often underloaded. Add extra weight during the descent, and you've got a hypertrophy hack — eccentric overload training.</p>
+<p>It's tidy logic. It sounds right. But as the fitness industry keeps learning, tidy logic isn't the same as data.</p>
+<h2 id="the-theory-behind-eccentric-overload">The Theory Behind Eccentric Overload</h2>
+<p>When you lower a weight, your muscle lengthens while under tension. This eccentric contraction:</p>
+<ul>
+<li>Generates higher peak forces than concentric (lifting) actions</li>
+<li>Causes more muscle damage (in a good way — that's part of the growth stimulus)</li>
+<li>Recruits more motor units, including those hard-to-activate type IIx fibers</li>
+<li>Creates greater mechanical tension overall</li>
+</ul>
+<p>The argument goes: if we're not maxing out the eccentric, we're leaving gains on the table.</p>
+<p>Enter <strong>weight releasers</strong> — devices that hold extra plates on the barbell for the eccentric, then drop off at the bottom so you lift a lighter weight on the way up. Some lifters swear by them.</p>
+<h2 id="what-the-research-shows">What the Research Shows</h2>
+<p>A <strong>2025 systematic review and meta-analysis</strong> (PubMed: 39652733) compared eccentric vs. concentric muscle actions for hypertrophy. The conclusion? Different physiological mechanisms, but the hypertrophy outcomes don't reliably differ.</p>
+<p>The newer <strong>2025 Yue et al. study</strong> put this to the test with squats. Participants did 4 sets of 6 reps, with one group using traditional squats and others using weight releasers (eccentric load at 120% 1RM, concentric at 75% 1RM). The eccentric overload group did show greater rectus femoris growth.</p>
+<p>But here's where it gets interesting — two other high-quality studies told a different story:</p>
+<ul>
+<li>
+<p><strong>Douglas et al.</strong>: Trained rugby players did 12 weeks of squats with accentuated eccentrics (~20% heavier than concentric loads). The eccentric group showed early strength and sprint speed gains — but <strong>quadriceps muscle thickness didn't increase in either group</strong>.</p>
+</li>
+<li>
+<p>Similar longitudinal research found <strong>equivalent hypertrophy</strong> between traditional and accentuated eccentric loading when comparing set-for-set.</p>
+</li>
+</ul>
+<h2 id="why-the-mixed-results">Why the Mixed Results?</h2>
+<p>The answer comes down to <strong>total volume and fatigue management</strong>.</p>
+<p>When you add extra load to the eccentric phase, you also add fatigue. That means you'll likely perform fewer total reps across your working sets. As researchers note, "total tension" across the set may end up being similar enough that hypertrophic outcomes end up comparable.</p>
+<p>In other words: you're not getting something for nothing. The extra eccentric load costs you somewhere.</p>
+<h2 id="the-practicality-problem">The Practicality Problem</h2>
+<p>Even if eccentric overload did provide a small edge, there's another issue: <strong>it's cumbersome to implement safely</strong>.</p>
+<ul>
+<li>Weight releasers require partners to reattach between reps</li>
+<li>They work best on exercises with fixed paths (Smith machines)</li>
+<li>Devices like the Voltra (motorized eccentric overload) exist but remain expensive and niche</li>
+</ul>
+<p>For most lifters in most gyms, this isn't a practical strategy.</p>
+<h2 id="what-2026-research-tells-us">What 2026 Research Tells Us</h2>
+<p>A <strong>January 2026 JMIR study</strong> (researchprotocols.org) tested a protocol where participants performed eccentric contractions to failure <em>after</em> reaching concentric failure. Their hypothesis: the "ECC+" protocol could be a "practical, simple, and low-cost strategy to increase training volume and optimize strength and hypertrophy outcomes."</p>
+<p>This is more feasible than weight releasers — it's just extending the set with negatives after you can't lift the weight anymore. Early results look promising for squeezing out extra volume.</p>
+<p>A <strong>November 2025 meta-analysis</strong> on older adults found that eccentric training does enhance strength and power, with higher training sessions favoring hypertrophy. So for certain populations, the approach has clear value.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<p><strong>Eccentric overload training is a solution in search of a problem.</strong></p>
+<p>For most trainees doing traditional resistance training, the eccentric stimulus is already sufficient. Normal, traditional training already exposes the muscle to adequate eccentric tension for maximum hypertrophy.</p>
+<p>That said, if you want to incorporate eccentric principles practically:</p>
+<ol>
+<li>
+<p><strong>Use eccentrics to failure</strong> — After you hit concentric failure, lower the weight slowly and fight to control it. This is the "ECC+" approach and it's evidence-supported.</p>
+</li>
+<li>
+<p><strong>Slow negatives on key exercises</strong> — 3-4 second eccentric tempos increase time under tension without needing special equipment.</p>
+</li>
+<li>
+<p><strong>Machine overload</strong> — On cable machines or leg press, you can overload the eccentric unilaterally (one leg lowering, both pushing up) without needing partners or devices.</p>
+</li>
+<li>
+<p><strong>Don't stress about weight releasers</strong> — They're cool but not necessary. Save your money and invest in more training volume instead.</p>
+</li>
+</ol>
+<h2 id="the-bigger-lesson">The Bigger Lesson</h2>
+<p>This is a reminder that <strong>compelling theory ≠ proven practice</strong>. The idea that greater eccentric force must yield greater growth sounds persuasive. But when tested, it doesn't reliably hold up.</p>
+<p>When it comes to hypertrophy, the basics still win: train close to failure, progress over time, eat enough protein, and get adequate recovery. The rest is nuance.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Yue et al. (2025). Effects of Accentuated Eccentric Loading Repetition Structures. <em>J Strength Cond Res</em></li>
+<li>Douglas et al. (2017). Accentuated eccentric loading in trained rugby players. <em>PubMed</em></li>
+<li>Eccentric vs. Conentric Meta-analysis (2025). <em>J Strength Cond Res</em> 39(1): 115-134</li>
+<li>ECC+ Protocol (2026). <em>JMIR Research Protocols</em></li>
+</ul>
+<hr>
+<p><em>Track your eccentric training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","omega-3-fatty-acids-muscle-growth-2026",{"href":"/blog/omega-3-fatty-acids-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Omega-3 Fatty Acids and Muscle Growth: What the Science Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Can fish oil supplements actually help you build more muscle? A look at the 2024-2025 research on omega-3s and resistance training."}]]}],["$","$Ld","tempo-training-hypertrophy-science-2026",{"href":"/blog/tempo-training-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Tempo Training Science: The Complete Guide to Repetition Speed for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does slowing down your reps build more muscle? We examine the 2024-2026 research on repetition tempo and what it means for your training."}]]}],["$","$Ld","estrogen-muscle-building-hormone-science",{"href":"/blog/estrogen-muscle-building-hormone-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Estrogen and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and your training outcomes."}]]}],["$","$Ld","fasted-vs-fed-training-muscle-growth-2026",{"href":"/blog/fasted-vs-fed-training-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Fasted vs Fed Training: What the Science Actually Says About Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does training fasted burn more fat or muscle? A 2025 meta-analysis reveals the surprising truth about fasted versus fed training for hypertrophy and performance."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

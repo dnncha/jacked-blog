@@ -1,0 +1,233 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb49,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026#webpage","url":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026","name":"The Sleep-Muscle Connection: UC Berkeley Scientists Map the Brain's Growth Hormone Switch","description":"New research reveals exactly how sleep triggers muscle-building hormones—and why the sleep-hormone balance may be the most important factor in your gains.","breadcrumb":{"@id":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026#webpage"},"headline":"The Sleep-Muscle Connection: UC Berkeley Scientists Map the Brain's Growth Hormone Switch","description":"New research reveals exactly how sleep triggers muscle-building hormones—and why the sleep-hormone balance may be the most important factor in your gains.","isAccessibleForFree":true,"wordCount":827,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Hevy Import Checker","url":"https://jacked.coach/tools/hevy-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Strong CSV Import Checker","url":"https://jacked.coach/tools/strong-csv-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout CSV Validator","url":"https://jacked.coach/tools/workout-csv-validator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Sleep-Muscle Connection: UC Berkeley Scientists Map the Brain's Growth Hormone Switch","item":"https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Sleep-Muscle Connection: UC Berkeley Scientists Map the Brain's Growth Hormone Switch"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research reveals exactly how sleep triggers muscle-building hormones—and why the sleep-hormone balance may be the most important factor in your gains."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Sleep-Muscle%20Connection%3A%20UC%20Berkeley%20Scientists%20Map%20the%20Brain's%20Growth%20Hormone%20Switch&url=https://jacked.coach/blog/sleep-growth-hormone-brain-circuits-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","hevy-import-checker",{"href":"/tools/hevy-import-checker","data-related-tool":"hevy-import-checker","children":"Hevy Import Checker"}],["$","$Ld","strong-csv-import-checker",{"href":"/tools/strong-csv-import-checker","data-related-tool":"strong-csv-import-checker","children":"Strong CSV Import Checker"}],["$","$Ld","workout-csv-validator",{"href":"/tools/workout-csv-validator","data-related-tool":"workout-csv-validator","children":"Workout CSV Validator"}],["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-brain-s-sleep-wake-cycle-of-growth-hormone",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-brain-s-sleep-wake-cycle-of-growth-hormone","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Brain's Sleep-Wake Cycle of Growth Hormone"}]}],["$","li","the-feedback-loop-that-changes-everything",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-feedback-loop-that-changes-everything","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Feedback Loop That Changes Everything"}]}],["$","li","what-this-means-for-your-gains",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-your-gains","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means for Your Gains"}]}],["$","li","sleep-quality-sleep-quantity",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#sleep-quality-sleep-quantity","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Sleep Quality > Sleep Quantity"}]}],["$","li","the-optimal-sleep-window",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-optimal-sleep-window","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Optimal Sleep Window"}]}],["$","li","cognitive-benefits-physical-benefits",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#cognitive-benefits-physical-benefits","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Cognitive Benefits = Physical Benefits"}]}],["$","li","practical-sleep-optimization",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-sleep-optimization","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Sleep Optimization"}]}],["$","li","the-bigger-picture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bigger-picture","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bigger Picture"}]}]]}]]}]
+e:T198a,<p>Every bodybuilder knows the feeling: after a solid 8 hours of sleep, you wake up feeling recovered, your muscles full, and your strength ready to crush the next workout. We've long known that sleep and growth hormone (GH) are intimately connected, but the <em>why</em> has remained a mystery—until now.</p>
+<p>UC Berkeley researchers have recently mapped the exact brain circuits that control growth hormone release during sleep, publishing their findings in the journal <em>Cell</em> in September 2025. Their discovery provides the first real mechanistic understanding of how sleep translates into muscle building—and it's a game-changer for anyone serious about maximizing their gains.</p>
+<h2 id="the-brain-s-sleep-wake-cycle-of-growth-hormone">The Brain's Sleep-Wake Cycle of Growth Hormone</h2>
+<p>The neurons that orchestrate growth hormone release during sleep are buried deep in the hypothalamus, an ancient brain hub conserved in all mammals. These neurons produce two key hormones:</p>
+<ul>
+<li><strong>GHRH (Growth Hormone Releasing Hormone):</strong> Promotes GH release</li>
+<li><strong>Somatostatin:</strong> Inhibits GH release</li>
+</ul>
+<p>What the Berkeley team discovered is that these two hormones operate differently depending on your sleep phase:</p>
+<p><strong>During REM sleep:</strong> Both somatostatin and GHRH surge together, creating a powerful combined effect that dramatically boosts growth hormone release.</p>
+<p><strong>During non-REM sleep:</strong> Somatostatin decreases while GHRH increases moderately, producing a more moderate but sustained GH release.</p>
+<p>This explains why GH pulses throughout the night rather than being released in one continuous stream—and why sleep quality matters as much as sleep duration.</p>
+<h2 id="the-feedback-loop-that-changes-everything">The Feedback Loop That Changes Everything</h2>
+<p>Perhaps the most fascinating finding is the feedback mechanism the researchers uncovered. Growth hormone doesn't just build muscle and burn fat—it also regulates your wakefulness.</p>
+<p>Once released, GH increases activity in the locus coeruleus, a brainstem region involved in arousal, attention, and cognitive function. This creates a elegant yin-yang system:</p>
+<ol>
+<li><strong>Sleep drives GH release</strong> → Muscle building, fat burning, bone strengthening</li>
+<li><strong>GH feeds back to the locus coeruleus</strong> → Promotes wakefulness and alertness</li>
+<li><strong>But there's a paradox:</strong> An overexcited locus coeruleus actually promotes sleepiness</li>
+</ol>
+<p>"This suggests that sleep and growth hormone form a tightly balanced system," explained postdoctoral fellow Xinlu Ding, the study's first author. "Too little sleep reduces growth hormone release, and too much growth hormone can in turn push the brain toward wakefulness."</p>
+<h2 id="what-this-means-for-your-gains">What This Means for Your Gains</h2>
+<p>The implications for athletes and lifters are significant:</p>
+<h3 id="sleep-quality-sleep-quantity">Sleep Quality > Sleep Quantity</h3>
+<p>The research shows that both REM and non-REM sleep contribute to GH release, but in different ways. This means that:</p>
+<ul>
+<li><strong>Fragmented sleep</strong> (frequent wake-ups) disrupts the natural GH pulse pattern</li>
+<li><strong>Deep sleep (non-REM)</strong> provides sustained, moderate GH release</li>
+<li><strong>REM sleep</strong> (typically in the later sleep cycles) provides the biggest GH surges</li>
+</ul>
+<p>If you're getting 8 hours but waking up multiple times, you're not maximizing your growth hormone potential.</p>
+<h3 id="the-optimal-sleep-window">The Optimal Sleep Window</h3>
+<p>Because GH release is tied to the sleep-wake cycle, timing matters. Most GH pulses occur:</p>
+<ul>
+<li>During the first few hours after falling asleep</li>
+<li>During REM periods in the second half of the night</li>
+</ul>
+<p>This suggests that consistency in your sleep schedule matters—your body learns to time these hormonal events.</p>
+<h3 id="cognitive-benefits-physical-benefits">Cognitive Benefits = Physical Benefits</h3>
+<p>The researchers noted that growth hormone "may also have cognitive benefits, promoting your overall arousal level when you wake up." This creates a positive feedback loop: better sleep → more GH → better cognitive function → better training decisions → better gains.</p>
+<h2 id="practical-sleep-optimization">Practical Sleep Optimization</h2>
+<p>Based on this new understanding, here's how to optimize your sleep for maximum muscle building:</p>
+<ol>
+<li>
+<p><strong>Prioritize sleep continuity:</strong> Aim for uninterrupted sleep. Alcohol, caffeine, and blue light exposure can fragment sleep and disrupt GH pulses.</p>
+</li>
+<li>
+<p><strong>Get 7-9 hours minimum:</strong> The research confirms that shorter sleep reduces GH release. Athletes may need more.</p>
+</li>
+<li>
+<p><strong>Sleep in a cool, dark room:</strong> Both factors promote deeper, more restorative sleep (more non-REM and REM cycles).</p>
+</li>
+<li>
+<p><strong>Maintain consistent sleep-wake times:</strong> Your hormonal system adapts to routines. Inconsistent schedules disrupt the natural GH timing.</p>
+</li>
+<li>
+<p><strong>Don't panic about one bad night:</strong> The system has some resilience. One poor sleep won't ruin your gains, but chronic poor sleep will.</p>
+</li>
+</ol>
+<h2 id="the-bigger-picture">The Bigger Picture</h2>
+<p>This research represents a shift in how we understand the sleep-muscle relationship. We're no longer just saying "sleep is important for recovery"—we now understand <em>the precise mechanisms</em> at play.</p>
+<p>As study co-author Daniel Silverman noted: "Sleep drives growth hormone release, and growth hormone feeds back to regulate wakefulness, and this balance is essential for growth, repair and metabolic health."</p>
+<p>For the fitness-minded, the message is clear: your training program and nutrition plan matter, but without proper sleep, you're leaving massive gains on the table. The brain circuits that build muscle are literally turned on while you sleep.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Ding, X. et al. (2025). Neuroendocrine circuit for sleep-dependent growth hormone release. <em>Cell</em>. https://doi.org/10.1016/j.cell.2025.05.039</li>
+<li>University of California, Berkeley. (2025, September 8). Sleep strengthens muscle and bone by boosting growth hormone levels. <em>Berkeley News</em>.</li>
+</ul>
+<hr>
+<p><em>Track your sleep with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","sleep-growth-hormone-circuit-muscle-building-2025",{"href":"/blog/sleep-growth-hormone-circuit-muscle-building-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Sleep Switch That Builds Muscle: New 2025 Research"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"UC Berkeley scientists mapped the brain circuits linking sleep to growth hormone release — here's what it means for your gains."}]]}],["$","$Ld","mtor-leucine-threshold-2026",{"href":"/blog/mtor-leucine-threshold-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"mTOR Activation: The Science Behind Your Muscle-Building Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."}]]}],["$","$Ld","sleep-recovery-muscle-growth",{"href":"/blog/sleep-recovery-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Sleep and Recovery: Why Your Gains Are Made in Bed"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"You can train perfectly and nail your nutrition, but without proper sleep, you're leaving muscle on the table. Recent research reveals why sleep is the most underrated factor in muscle building."}]]}],["$","$Ld","sleep-growth-hormone-circuit-2025",{"href":"/blog/sleep-growth-hormone-circuit-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Sleep-Muscle Connection: 2025 Research on How Sleep Builds Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New Cell paper reveals the neural circuit linking deep sleep to growth hormone release—and why your gains depend on sleep quality, not just duration."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

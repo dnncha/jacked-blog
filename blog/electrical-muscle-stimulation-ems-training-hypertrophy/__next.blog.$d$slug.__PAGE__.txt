@@ -1,0 +1,212 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb3c,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy#webpage","url":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy","name":"Electrical Muscle Stimulation: The Science Behind EMS Training for Hypertrophy","description":"New research reveals how electrical muscle stimulation can complement traditional training for accelerated muscle growth.","breadcrumb":{"@id":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy#webpage"},"headline":"Electrical Muscle Stimulation: The Science Behind EMS Training for Hypertrophy","description":"New research reveals how electrical muscle stimulation can complement traditional training for accelerated muscle growth.","isAccessibleForFree":true,"wordCount":633,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Electrical Muscle Stimulation: The Science Behind EMS Training for Hypertrophy","item":"https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Electrical Muscle Stimulation: The Science Behind EMS Training for Hypertrophy"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research reveals how electrical muscle stimulation can complement traditional training for accelerated muscle growth."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[3," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Electrical%20Muscle%20Stimulation%3A%20The%20Science%20Behind%20EMS%20Training%20for%20Hypertrophy&url=https://jacked.coach/blog/electrical-muscle-stimulation-ems-training-hypertrophy","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-electrical-muscle-stimulation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-electrical-muscle-stimulation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Electrical Muscle Stimulation?"}]}],["$","li","ems-vs-traditional-resistance-training-the-research",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#ems-vs-traditional-resistance-training-the-research","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"EMS vs. Traditional Resistance Training: The Research"}]}],["$","li","how-ems-enhances-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-ems-enhances-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How EMS Enhances Muscle Growth"}]}],["$","li","1-increased-motor-unit-recruitment",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-increased-motor-unit-recruitment","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Increased Motor Unit Recruitment"}]}],["$","li","2-metabolic-stress-amplification",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-metabolic-stress-amplification","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Metabolic Stress Amplification"}]}],["$","li","3-time-efficiency",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-time-efficiency","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Time Efficiency"}]}],["$","li","practical-applications-for-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications-for-lifters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications for Lifters"}]}],["$","li","best-uses",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#best-uses","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Best Uses"}]}],["$","li","what-the-research-suggests",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-the-research-suggests","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What the Research Suggests"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1485,<p>Electrical muscle stimulation (EMS) has moved beyond physical therapy clinics into the mainstream fitness world. But what's the actual science behind EMS training for muscle growth? Recent research from 2025-2026 is providing clearer answers.</p>
+<h2 id="what-is-electrical-muscle-stimulation">What Is Electrical Muscle Stimulation?</h2>
+<p>EMS uses electrical currents to cause involuntary muscle contractions by stimulating motor neurons. The technique was originally developed for rehabilitation—to prevent muscle atrophy in bedridden patients—but researchers have been investigating its potential for hypertrophy in healthy populations.</p>
+<p>A 2023 study in <em>Frontiers in Public Health</em> found that whole-body EMS combined with high-intensity slow eccentric movements significantly enhanced muscle strength and body composition in moderately trained males [1]. The additional recruitment of muscle fibers induced by EMS appears to maximize stimulation of metabolic stress—a key driver of hypertrophy.</p>
+<h2 id="ems-vs-traditional-resistance-training-the-research">EMS vs. Traditional Resistance Training: The Research</h2>
+<p>A fascinating 2025 study published in <em>ScienceDirect</em> compared 25 minutes of EMS training to 90 minutes of full-body resistance training over 20 weeks [2]. The results were telling:</p>
+<ul>
+<li><strong>Traditional training</strong> showed greater gains in muscle thickness and strength (bench press, leg press, triceps pushdown, abdominal strength)</li>
+<li><strong>EMS training</strong> produced greater reductions in body weight and BMI</li>
+</ul>
+<p>This suggests EMS isn't a direct replacement for traditional training—but it may offer unique benefits, particularly for time-efficient training or as a supplement.</p>
+<h2 id="how-ems-enhances-muscle-growth">How EMS Enhances Muscle Growth</h2>
+<p>Research demonstrates several mechanisms through which EMS may contribute to hypertrophy:</p>
+<h3 id="1-increased-motor-unit-recruitment">1. Increased Motor Unit Recruitment</h3>
+<p>EMS can recruit more muscle fibers than voluntary contractions, especially in deeper muscle layers that are difficult to activate through traditional lifting [3].</p>
+<h3 id="2-metabolic-stress-amplification">2. Metabolic Stress Amplification</h3>
+<p>The sustained contractions induced by EMS create significant metabolic stress, which research links to muscle growth through mechanisms including:</p>
+<ul>
+<li>Muscle cell swelling</li>
+<li>Hormone response</li>
+<li>Metabolic byproduct accumulation</li>
+</ul>
+<h3 id="3-time-efficiency">3. Time Efficiency</h3>
+<p>A 2024 feasibility study found that 8 weeks of resistance training combined with daily EMS training significantly improved muscle mass, upper body strength, and reduced body fat percentage in healthy adults [4]. This suggests EMS could help people with limited time achieve meaningful results.</p>
+<h2 id="practical-applications-for-lifters">Practical Applications for Lifters</h2>
+<p>Based on the current science, here's how to incorporate EMS effectively:</p>
+<h3 id="best-uses">Best Uses</h3>
+<ul>
+<li><strong>Supplement to traditional training</strong>: Use EMS on rest days or for muscle groups that lag</li>
+<li><strong>Recovery tool</strong>: Low-intensity EMS may enhance blood flow without causing additional fatigue</li>
+<li><strong>Time-constrained training</strong>: Replace a session occasionally, but don't rely solely on EMS</li>
+<li><strong>Plateau breaking</strong>: The different fiber recruitment pattern may provide novel stimulus</li>
+</ul>
+<h3 id="what-the-research-suggests">What the Research Suggests</h3>
+<ul>
+<li>Frequency-specific EMS (targeting specific muscle groups on specific days) appears effective</li>
+<li>Combining EMS with eccentric training may maximize hypertrophy response</li>
+<li>20-30 minute sessions 2-3 times per week show positive results</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>EMS is not a magic shortcut—it won't replace heavy squats or deadlifts for maximum hypertrophy. But the 2025-2026 research is clear: when used strategically as a complement to traditional training, EMS can contribute to muscle growth, improve body composition, and offer a time-efficient alternative when needed.</p>
+<p>The key is treating EMS as a tool in your toolbox, not a replacement for progressive overload and hard training. As with any training modality, individual response varies—experiment to find what works for your body and goals.</p>
+<hr>
+<p><strong>References:</strong></p>
+<p>[1] Frontiers in Public Health (2023). Effects of whole-body electromyostimulation training on upper limb muscles strength and body composition in moderately trained males.</p>
+<p>[2] ScienceDirect (2025). Comparing the effects of 25-minute electrical muscle stimulation vs. 90-minute full-body resistance training on body composition and strength.</p>
+<p>[3] PMC (2018). Electromyostimulation to fight atrophy and to build muscle: facts and numbers.</p>
+<p>[4] PMC (2023). Effect of 8-week frequency-specific electrical muscle stimulation combined with resistance exercise training on muscle mass, strength, and body composition.</p>
+<hr>
+<p><em>Track your training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","supersets-hypertrophy-science-2026",{"href":"/blog/supersets-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supersets for Hypertrophy: What the Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."}]]}],["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","heat-training-muscle-growth-science-2026",{"href":"/blog/heat-training-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Heat Training for Muscle Growth: The Science of Heat Acclimation and Hypertrophy"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that strategic heat exposure before or during training can enhance muscle growth, improve performance, and accelerate adaptations. Here's how to use heat training safely."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

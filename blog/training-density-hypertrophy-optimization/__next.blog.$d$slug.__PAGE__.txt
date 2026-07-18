@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb01,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/training-density-hypertrophy-optimization#webpage","url":"https://jacked.coach/blog/training-density-hypertrophy-optimization","name":"Training Density: The Hidden Variable in Hypertrophy Programming","description":"Most lifters obsess over sets, reps, and load—but ignore how efficiently they use their time in the gym. Training density is the secret weapon most programs...","breadcrumb":{"@id":"https://jacked.coach/blog/training-density-hypertrophy-optimization#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/training-density-hypertrophy-optimization#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/training-density-hypertrophy-optimization#webpage"},"headline":"Training Density: The Hidden Variable in Hypertrophy Programming","description":"Most lifters obsess over sets, reps, and load—but ignore how efficiently they use their time in the gym. Training density is the secret weapon most programs...","isAccessibleForFree":true,"wordCount":872,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/training-density-hypertrophy-optimization#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Training Density: The Hidden Variable in Hypertrophy Programming","item":"https://jacked.coach/blog/training-density-hypertrophy-optimization"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Training Density: The Hidden Variable in Hypertrophy Programming"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Most lifters obsess over sets, reps, and load—but ignore how efficiently they use their time in the gym. Training density is the secret weapon most programs never mention."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Training%20Density%3A%20The%20Hidden%20Variable%20in%20Hypertrophy%20Programming&url=https://jacked.coach/blog/training-density-hypertrophy-optimization","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-actually-is-training-density",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-is-training-density","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Is Training Density?"}]}],["$","li","the-science-of-time-under-tension-vs-time-under-load",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-time-under-tension-vs-time-under-load","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Time Under Tension vs. Time Under Load"}]}],["$","li","why-training-density-might-matter-more-than-you-think",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-training-density-might-matter-more-than-you-think","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Training Density Might Matter More Than You Think"}]}],["$","li","the-dark-side-when-high-density-becomes-counterproductive",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-dark-side-when-high-density-becomes-counterproductive","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Dark Side: When High Density Becomes Counterproductive"}]}],["$","li","practical-programming-optimizing-your-density",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-programming-optimizing-your-density","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Programming: Optimizing Your Density"}]}],["$","li","1-time-box-your-sessions",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-time-box-your-sessions","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Time-Box Your Sessions"}]}],["$","li","2-use-active-rest",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-use-active-rest","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Use Active Rest"}]}],["$","li","3-prioritize-compound-movements-early",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-prioritize-compound-movements-early","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Prioritize Compound Movements Early"}]}],["$","li","4-periodize-density-like-you-periodize-volume",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-periodize-density-like-you-periodize-volume","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Periodize Density Like You Periodize Volume"}]}],["$","li","the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Verdict"}]}]]}]]}]
+e:T1a11,<p>Most lifters obsess over sets, reps, and load. They'll spend hours debating whether 3x10 beats 4x8, whether 85% 1RM beats 70%, whether chest-supported rows are superior to bent-over rows. Yet one variable that dwarfs all these debates gets almost no attention: <strong>training density</strong>.</p>
+<p>Training density is simple: it's how much work you accomplish per unit of time in the gym. More precisely, it's the relationship between your total weekly sets and the actual time you spend training. Two lifters doing identical programs with identical volumes can have wildly different training densities—and research suggests this gap might explain why some people grow faster than others.</p>
+<h2 id="what-actually-is-training-density">What Actually Is Training Density?</h2>
+<p>Training density = Total Work (sets × reps × load) ÷ Time in the gym</p>
+<p>But that's a simplification. The more useful frame is this: <strong>how much effective hypertrophic stimulus can you pack into your training session before fatigue degrades your performance?</strong></p>
+<p>A lifter doing 15 working sets in 45 minutes has dramatically different density than one doing 15 sets in 75 minutes. The first lifter either has shorter rest periods, faster transitions, or both. And here's where it gets interesting—research suggests that simply躺 spending more time in the gym doesn't linearly translate to more muscle growth.</p>
+<h2 id="the-science-of-time-under-tension-vs-time-under-load">The Science of Time Under Tension vs. Time Under Load</h2>
+<p>A 2024 study in the <em>Journal of Strength and Conditioning Research</em> compared two groups performing identical volume (12 sets each, 3x/week for 8 weeks):</p>
+<ul>
+<li><strong>Group A:</strong> Traditional rest periods (90 seconds)</li>
+<li><strong>Group B:</strong> Aggressive rest periods (45 seconds), matched for total sets</li>
+</ul>
+<p>Both groups gained similar muscle thickness. But Group B finished each session in roughly 60% of the time. Their "training density" was dramatically higher, yet the hypertrophic response was comparable.</p>
+<p>This challenges the conventional wisdom that longer rest always equals more growth. What matters is not rest in isolation, but the relationship between rest, performance across sets, and total weekly stimulus.</p>
+<h2 id="why-training-density-might-matter-more-than-you-think">Why Training Density Might Matter More Than You Think</h2>
+<p>The key insight is this: <strong>training density is a proxy for neuromuscular efficiency.</strong> When you improve your ability to move from set to set with minimal wasted motion, you're training your body to maintain high-force production under fatigue. You're also increasing your work capacity—the foundation of progressive overload.</p>
+<p>Consider two scenarios:</p>
+<ol>
+<li>
+<p><strong>Low-density training:</strong> 5 sets of 10 with 3 minutes rest, taking 90 seconds between exercises, scrolling your phone between sets. Total: 20 minutes for 5 sets.</p>
+</li>
+<li>
+<p><strong>High-density training:</strong> 5 sets of 10 with 90 seconds rest, minimal transition time, focus on保持ing performance. Total: 12 minutes for 5 sets.</p>
+</li>
+</ol>
+<p>The second scenario isn't just more efficient—it's training your recovery systems to handle repeated efforts. Over months, this compounds. Your rest requirements drop. You can fit more volume into your session. Your work capacity expands.</p>
+<h2 id="the-dark-side-when-high-density-becomes-counterproductive">The Dark Side: When High Density Becomes Counterproductive</h2>
+<p>Training density isn't a license to rush everything. There's a floor on rest periods below which performance tanks without any hypertrophic benefit.</p>
+<p>Research is clear: when rest drops below ~60 seconds for heavy compound movements, force output drops significantly. You're no longer training muscle—you're training cardiovascular endurance masquerading as resistance training.</p>
+<p>The sweet spot appears to be:</p>
+<ul>
+<li><strong>Heavy compounds (squat, deadlift, bench):</strong> 2-3 minutes</li>
+<li><strong>Medium compounds (rows, pull-ups, overhead press):</strong> 90-120 seconds</li>
+<li><strong>Isolation movements:</strong> 60-90 seconds</li>
+</ul>
+<p>Going below these thresholds doesn't increase density—it decreases effective tension, which is the primary driver of hypertrophy.</p>
+<h2 id="practical-programming-optimizing-your-density">Practical Programming: Optimizing Your Density</h2>
+<p>Here's how to think about training density without overcomplicating it:</p>
+<h3 id="1-time-box-your-sessions">1. Time-Box Your Sessions</h3>
+<p>Set a hard stop for each session. If your chest workout typically takes 60 minutes, cut it to 50 and force yourself to complete the same volume. Track your density: sets completed ÷ minutes in the gym.</p>
+<h3 id="2-use-active-rest">2. Use Active Rest</h3>
+<p>Between sets, don't sit. Stand. Visualize the next set. Setup the weight. This saves 15-30 seconds per transition without compromising recovery.</p>
+<h3 id="3-prioritize-compound-movements-early">3. Prioritize Compound Movements Early</h3>
+<p>Your highest-force production happens when fresh. Dense rest periods only work on movements where you can maintain quality. Put your heavy compounds first, when you can handle longer rest without it destroying your session length.</p>
+<h3 id="4-periodize-density-like-you-periodize-volume">4. Periodize Density Like You Periodize Volume</h3>
+<p>Some mesocycles should focus on accumulating volume with moderate density (longer rest, higher intensity). Others should emphasize density (shorter rest, faster tempo, higher frequency). Alternating these creates both growth stimulus and work capacity adaptations.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<p>Training density is not the most important variable in hypertrophy—mechanical tension and volume still reign. But it's an overlooked lever that separates efficient programs from bloated ones. Two lifters with identical weekly sets, identical loads, and identical diets can have completely different results if one trains smarter with their time.</p>
+<p>Stop thinking about gym time as a badge of honor. Start thinking about it as a resource to optimize.</p>
+<p><strong>TL;DR:</strong> Training density = effective work ÷ time. Higher density (within reasonable rest limits) correlates with better work capacity and similar hypertrophic outcomes to lower-density, longer sessions. Time-box your workouts, minimize transitions, and don't let rest periods creep up without reason.</p>
+<hr>
+<p><em>Track your training density with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","exercise-order-hypertrophy-programming",{"href":"/blog/exercise-order-hypertrophy-programming","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Exercise Order: The Programming Variable Nobody Talks About"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over sets, reps, and weight — but what you do first in your workout matters more than you think. Here's the science behind exercise order and how to program it for maximum gains."}]]}],["$","$Ld","co2-tolerance-training-strength-lifts",{"href":"/blog/co2-tolerance-training-strength-lifts","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"CO2 Tolerance Training: The Breathing Hack for Stronger Lifts"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters ignore the most powerful breathing tool they have. Better CO2 tolerance can improve your stability, reduce breathlessness, and help you push harder under load."}]]}],["$","$Ld","hydration-electrolytes-muscle-building-science",{"href":"/blog/hydration-electrolytes-muscle-building-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hydration and Electrolytes: The Hidden Factor in Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over protein, training volume, and rest—but overlook the fundamentals of hydration. Science shows proper fluid and electrolyte balance can make or break your gains."}]]}],["$","$Ld","liver-muscle-axis-gains",{"href":"/blog/liver-muscle-axis-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Liver-Muscle Axis: How Your Liver Dictates Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters focus on training and protein intake, but ignore the organ most critical to muscle growth. Your liver is the hidden engine driving protein synthesis, hormone metabolism, and recovery."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

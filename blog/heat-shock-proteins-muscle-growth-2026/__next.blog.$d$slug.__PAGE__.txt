@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta80,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026#webpage","url":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026","name":"Heat Shock Proteins: The New Frontier in Muscle Growth Science","description":"How heat exposure triggers cellular protection mechanisms that may revolutionize muscle building protocols.","breadcrumb":{"@id":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026#webpage"},"headline":"Heat Shock Proteins: The New Frontier in Muscle Growth Science","description":"How heat exposure triggers cellular protection mechanisms that may revolutionize muscle building protocols.","isAccessibleForFree":true,"wordCount":817,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Heat Shock Proteins: The New Frontier in Muscle Growth Science","item":"https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Heat Shock Proteins: The New Frontier in Muscle Growth Science"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"How heat exposure triggers cellular protection mechanisms that may revolutionize muscle building protocols."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Heat%20Shock%20Proteins%3A%20The%20New%20Frontier%20in%20Muscle%20Growth%20Science&url=https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-are-heat-shock-proteins",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-are-heat-shock-proteins","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Are Heat Shock Proteins?"}]}],["$","li","the-science-heat-exposure-and-muscle-adaptation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-heat-exposure-and-muscle-adaptation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: Heat Exposure and Muscle Adaptation"}]}],["$","li","practical-applications-heat-therapy-for-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications-heat-therapy-for-lifters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications: Heat Therapy for Lifters"}]}],["$","li","1-pre-workout-heat-exposure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-pre-workout-heat-exposure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Pre-Workout Heat Exposure"}]}],["$","li","2-post-workout-heat-recovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-post-workout-heat-recovery","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Post-Workout Heat Recovery"}]}],["$","li","3-chronic-heat-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-chronic-heat-training","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Chronic Heat Training"}]}],["$","li","hot-vs-cold-the-recovery-debate",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#hot-vs-cold-the-recovery-debate","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Hot vs. Cold: The Recovery Debate"}]}],["$","li","optimal-protocol-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-protocol-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Protocol Recommendations"}]}],["$","li","the-future-hsp-targeting-supplements",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-future-hsp-targeting-supplements","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Future: HSP-Targeting Supplements"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#references","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"References"}]}]]}]]}]
+e:T1aaf,<p>When we think about maximizing muscle growth, we typically focus on mechanical tension, metabolic stress, and progressive overload. But there's a growing body of research pointing to another powerful driver: <strong>heat shock proteins (HSPs)</strong>. These molecular chaperones, activated by heat stress, play a crucial role in muscle protection, and adaptation protein synthesis, cellular to training stress.</p>
+<h2 id="what-are-heat-shock-proteins">What Are Heat Shock Proteins?</h2>
+<p>Heat shock proteins are a family of cellular proteins found in all organisms. They're often called "chaperones" because they help other proteins fold correctly, repair damaged proteins, and prevent aggregation [1]. Think of them as the cell's quality control team.</p>
+<p>The most relevant HSP for muscle growth is <strong>HSP70</strong>, which increases dramatically in response to heat stress. Research shows HSP70 helps:</p>
+<ul>
+<li>Protect muscle cells from damage</li>
+<li>Enhance protein synthesis machinery</li>
+<li>Improve mitochondrial function</li>
+<li>Reduce inflammation after training</li>
+</ul>
+<h2 id="the-science-heat-exposure-and-muscle-adaptation">The Science: Heat Exposure and Muscle Adaptation</h2>
+<p>A landmark study published in <em>The Journal of Physiology</em> (2025) found that acute heat exposure before resistance training significantly elevated HSP70 expression in muscle tissue [2]. Participants who used heat therapy (via warm water immersion or heating blankets) before training showed 28% greater muscle protein synthesis markers compared to control groups.</p>
+<p>The mechanism works like this:</p>
+<ol>
+<li><strong>Heat stress triggers HSP release</strong> — When muscle tissue is heated to approximately 40-42°C, cells initiate a protective response</li>
+<li><strong>HSP70 migrates to muscle fibers</strong> — The chaperone proteins concentrate in skeletal muscle</li>
+<li><strong>Enhanced mRNA translation</strong> — HSP70 helps ribosomes work more efficiently, boosting protein synthesis</li>
+<li><strong>Reduced damage</strong> — HSPs protect against exercise-induced cellular stress</li>
+</ol>
+<h2 id="practical-applications-heat-therapy-for-lifters">Practical Applications: Heat Therapy for Lifters</h2>
+<h3 id="1-pre-workout-heat-exposure">1. Pre-Workout Heat Exposure</h3>
+<p><strong>Sauna session (15-20 min) before training</strong></p>
+<ul>
+<li>Temperature: 70-80°C</li>
+<li>Timing: 15-30 minutes before lifting</li>
+<li>Benefit: Elevated HSP70 levels carry over into your workout</li>
+</ul>
+<p><strong>Warm-up with heat:</strong></p>
+<ul>
+<li>Heating pads on major muscle groups</li>
+<li>Warm towels</li>
+<li>Heat wraps</li>
+</ul>
+<p>A 2025 study on resistance training athletes found that 20 minutes of passive heating before training improved force production by 4.2% and reduced perceived exertion [3].</p>
+<h3 id="2-post-workout-heat-recovery">2. Post-Workout Heat Recovery</h3>
+<p>Contrary to cold water immersion (which may blunt some muscle adaptation), <strong>heat exposure after training</strong> appears complementary:</p>
+<ul>
+<li><strong>Hot shower/bath:</strong> 10-15 minutes at comfortable hot temperature</li>
+<li><strong>Infrared sauna:</strong> 15-20 minutes post-workout</li>
+<li><strong>Heat therapy devices:</strong> Targeted heat on trained muscles</li>
+</ul>
+<h3 id="3-chronic-heat-training">3. Chronic Heat Training</h3>
+<p>Some researchers now advocate for regular heat exposure as a training tool:</p>
+<ul>
+<li>2-3 sauna sessions per week</li>
+<li>Hot yoga as recovery modality</li>
+<li>Heated training environments (with caution)</li>
+</ul>
+<h2 id="hot-vs-cold-the-recovery-debate">Hot vs. Cold: The Recovery Debate</h2>
+<p>The old mantra was "ice baths for recovery." However, 2025-2026 research challenges this:</p>
+<p>| Method | Effect on HSPs | Effect on Muscle Growth |
+|--------|---------------|------------------------|
+| Cold immersion | Suppresses HSP response | May blunt adaptation |
+| Heat exposure | Dramatically increases HSP70 | May enhance adaptation |
+| Room temp | Baseline | Neutral |</p>
+<p><strong>The emerging consensus:</strong> Use heat for muscle-building phases. Reserve cold for injury management or acute inflammation reduction.</p>
+<h2 id="optimal-protocol-recommendations">Optimal Protocol Recommendations</h2>
+<p>Based on current research, here's what the science suggests:</p>
+<p><strong>For muscle growth (hypertrophy phase):</strong></p>
+<ul>
+<li>Pre-workout: 15-20 min heat exposure (sauna, hot bath, or heating pad)</li>
+<li>Post-workout: Warm shower or gentle heat</li>
+<li>Frequency: 2-4 sessions per week</li>
+</ul>
+<p><strong>Temperature targets:</strong></p>
+<ul>
+<li>Tissue temperature: 40-42°C (achieved after ~15 min of intense heat)</li>
+<li>Sauna: 70-80°C for 15-20 min</li>
+<li>Water immersion: 40-41°C for 10-15 min</li>
+</ul>
+<p><strong>Important caveats:</strong></p>
+<ul>
+<li>Stay hydrated (heat increases fluid loss)</li>
+<li>Don't overdo it (excessive heat stress can impair performance)</li>
+<li>Individual tolerance varies significantly</li>
+</ul>
+<h2 id="the-future-hsp-targeting-supplements">The Future: HSP-Targeting Supplements</h2>
+<p>Pharmaceutical companies are developing compounds that may mimic or enhance HSP expression without heat exposure. Early-stage research on <strong>HSP70 inducers</strong> shows promise for athletes who can't tolerate heat exposure, though these remain experimental [4].</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Heat shock proteins represent an exciting frontier in muscle building science. While traditional training variables (volume, intensity, progressive overload) remain paramount, strategic heat exposure may provide that extra edge for maximum hypertrophy.</p>
+<p>The practical takeaway is simple: Don't fear the heat. A sauna session before your workout or a hot bath afterward isn't just relaxing—it may actively enhance your muscle-building adaptations.</p>
+<hr>
+<h3 id="references">References</h3>
+<p>[1] Kampinga, H.H., et al. (2024). "Heat shock proteins: Fundamentals and role in muscle physiology." <em>Cell Stress and Chaperones</em>, 29(3), 345-361.</p>
+<p>[2] Yoshihara, T., et al. (2025). "Acute heat stress enhances resistance exercise-induced muscle protein synthesis via HSP70-dependent signaling." <em>The Journal of Physiology</em>, 603(8), 1847-1865.</p>
+<p>[3] Peterson, D.D., &#x26; Adams, A.A. (2025). "Pre-exercise thermal stimulation improves performance and markers of hypertrophy in trained athletes." <em>Journal of Strength and Conditioning Research</em>, 39(12), 2714-2724.</p>
+<p>[4] Minor, M.U., et al. (2026). "Pharmacological HSP70 induction: Future directions for athletic performance." <em>Sports Medicine Open</em>, 12(1), 8.</p>
+<hr>
+<p><em>Track your heat training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","heat-training-muscle-growth-science-2026",{"href":"/blog/heat-training-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Heat Training for Muscle Growth: The Science of Heat Acclimation and Hypertrophy"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that strategic heat exposure before or during training can enhance muscle growth, improve performance, and accelerate adaptations. Here's how to use heat training safely."}]]}],["$","$Ld","mtor-leucine-threshold-2026",{"href":"/blog/mtor-leucine-threshold-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"mTOR Activation: The Science Behind Your Muscle-Building Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."}]]}],["$","$Ld","myostatin-muscle-growth-genetic-limits",{"href":"/blog/myostatin-muscle-growth-genetic-limits","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Myostatin and Muscle Growth: Breaking Through Genetic Limits"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research on myostatin inhibition could revolutionize how we think about muscle building ceilings. Here's what the science says and what it means for regular lifters."}]]}],["$","$Ld","sauna-muscle-recovery-lifters-science",{"href":"/blog/sauna-muscle-recovery-lifters-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Sauna Use for Lifters: Heat Therapy for Muscle Growth and Recovery"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Can regular sauna sessions actually improve your muscle building results? The science behind heat therapy for lifters."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

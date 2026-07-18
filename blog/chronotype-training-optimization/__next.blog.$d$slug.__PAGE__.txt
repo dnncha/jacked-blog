@@ -1,0 +1,246 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taa6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/chronotype-training-optimization#webpage","url":"https://jacked.coach/blog/chronotype-training-optimization","name":"Chronotype Training: Match Your Workout to Your Biological Clock","description":"Why training at the wrong time for your chronotype is like fighting your circadian rhythm—and how to optimize your schedule for maximum gains.","breadcrumb":{"@id":"https://jacked.coach/blog/chronotype-training-optimization#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/chronotype-training-optimization#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/chronotype-training-optimization#webpage"},"headline":"Chronotype Training: Match Your Workout to Your Biological Clock","description":"Why training at the wrong time for your chronotype is like fighting your circadian rhythm—and how to optimize your schedule for maximum gains.","isAccessibleForFree":true,"wordCount":829,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/chronotype-training-optimization#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Chronotype Training: Match Your Workout to Your Biological Clock","item":"https://jacked.coach/blog/chronotype-training-optimization"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Chronotype Training: Match Your Workout to Your Biological Clock"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Why training at the wrong time for your chronotype is like fighting your circadian rhythm—and how to optimize your schedule for maximum gains."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Chronotype%20Training%3A%20Match%20Your%20Workout%20to%20Your%20Biological%20Clock&url=https://jacked.coach/blog/chronotype-training-optimization","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-chronotype",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-chronotype","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Chronotype?"}]}],["$","li","the-hormonal-landscape",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-hormonal-landscape","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Hormonal Landscape"}]}],["$","li","the-performance-gap",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-performance-gap","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Performance Gap"}]}],["$","li","the-muscle-growth-angle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-muscle-growth-angle","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Muscle Growth Angle"}]}],["$","li","practical-applications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications"}]}],["$","li","find-your-chronotype",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#find-your-chronotype","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Find Your Chronotype"}]}],["$","li","the-entrained-awakening-approach",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-entrained-awakening-approach","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The \"Entrained Awakening\" Approach"}]}],["$","li","if-you-must-train-against-type",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#if-you-must-train-against-type","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"If You Must Train Against Type"}]}],["$","li","chronotype-manipulation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#chronotype-manipulation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Chronotype Manipulation"}]}],["$","li","the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Verdict"}]}]]}]]}]
+e:T1a83,<p>Not everyone should lift at 7 AM. In fact, forcing yourself into a training schedule that fights your biology might be costing you gains. The science of chronotype—the your natural preference for morning or evening activity—is reshaping how we think about optimal training timing.</p>
+<h2 id="what-is-chronotype">What Is Chronotype?</h2>
+<p>Your chronotype is your inherent circadian rhythm preference. It determines when you feel most alert, when your body temperature peaks, and when hormonal conditions favor performance. The three main chronotypes are:</p>
+<ul>
+<li><strong>Morning types (larks):</strong> Peak alertness early, struggle in evenings</li>
+<li><strong>Evening types (owls):</strong> Best performance afternoon/evening, slow starts</li>
+<li><strong>Intermediate types:</strong> Flexible, fall somewhere in between</li>
+</ul>
+<p>Your chronotype isn't a personality quirk—it's written into your genes. The PER3 gene, in particular, influences whether you're built for early morning workouts or evening sessions.</p>
+<h2 id="the-hormonal-landscape">The Hormonal Landscape</h2>
+<p>Testosterone peaks in the morning (around 7-10 AM) and declines throughout the day. This has led many to conclude that morning is always optimal for lifting. But it's not that simple.</p>
+<p>Cortisol—the stress hormone that also has anabolic properties—follows a similar pattern, peaking early. The ratio of testosterone to cortisol matters more than absolute levels. Research published in the <em>Journal of Circadian Rhythms</em> (2025) found that this ratio actually remains relatively stable across the day in trained individuals, suggesting hormonal timing matters less for experienced lifters than previously thought.</p>
+<p>However, other hormones tell a different story:</p>
+<ul>
+<li><strong>Insulin sensitivity</strong> peaks in the morning, potentially favoring nutrient partitioning and muscle protein synthesis after morning meals</li>
+<li><strong>Growth hormone</strong> pulses during deep sleep—not significantly affected by training time</li>
+<li><strong>Epinephrine (adrenaline)</strong> responds to exercise regardless of time, but baseline levels are higher in mornings</li>
+</ul>
+<h2 id="the-performance-gap">The Performance Gap</h2>
+<p>Multiple studies show evening types outperform morning types in the AM—and vice versa—by 3-7% in strength tasks. Research from PubMed demonstrates that morning types perceive lower RPE for morning workouts, while evening types report the opposite.</p>
+<p>A 2025 MDPI review found that diurnal chronotype significantly affects performance metrics. Morning types show:</p>
+<ul>
+<li>5-10% greater grip strength in AM hours</li>
+<li>Faster reaction times morning vs evening</li>
+<li>Better perceived exertion scores in early sessions</li>
+</ul>
+<p>Evening types demonstrate:</p>
+<ul>
+<li>Higher peak power output in afternoon/evening</li>
+<li>Greater force production when training after 5 PM</li>
+<li>Improved workout volume tolerance later in the day</li>
+</ul>
+<h2 id="the-muscle-growth-angle">The Muscle Growth Angle</h2>
+<p>Here's where it gets interesting for hypertrophy. Muscle protein synthesis (MPS) doesn't care what time it is—it's driven by amino acids and mechanical tension. However, several factors influence whether you can actually <em>generate</em> that tension:</p>
+<p><strong>Morning training pros:</strong></p>
+<ul>
+<li>Lower glycogen stores might enhance metabolic stress pathways</li>
+<li>Faster central nervous system arousal (for larks)</li>
+<li>Better consistency—no fighting sleep inertia</li>
+</ul>
+<p><strong>Evening training pros:</strong></p>
+<ul>
+<li>Higher muscle temperature improves flexibility and force production</li>
+<li>Greater force potential from warm, primed tissues</li>
+<li>Higher testosterone-to-cortisol ratio in some individuals</li>
+</ul>
+<p>A 2025 study in <em>Sports Medicine</em> found that when training at their optimal time, subjects lifted 4.2% more total volume over 12 weeks compared to training at their non-preferred time. Over months, that compounds.</p>
+<h2 id="practical-applications">Practical Applications</h2>
+<h3 id="find-your-chronotype">Find Your Chronotype</h3>
+<p>The Morningness-Eveningness Questionnaire (MEQ) is the gold standard. Score yourself:</p>
+<ul>
+<li><strong>Morning types (MEQ 70+):</strong> Train mornings</li>
+<li><strong>Evening types (MEQ 30-):</strong> Train afternoons/evenings</li>
+<li><strong>Intermediate:</strong> Choose based on schedule, but aim for consistency</li>
+</ul>
+<h3 id="the-entrained-awakening-approach">The "Entrained Awakening" Approach</h3>
+<p>A 2025 study in <em>Chronobiology International</em> found that training within 2-3 hours of your natural wake time optimizes performance. This aligns with your circadian phase. To find your optimal window:</p>
+<ol>
+<li>Note when you naturally wake (without alarm) for a week</li>
+<li>Add 2-4 hours</li>
+<li>That's your peak performance window</li>
+</ol>
+<h3 id="if-you-must-train-against-type">If You Must Train Against Type</h3>
+<p>Sometimes life dictates schedule. To optimize:</p>
+<ul>
+<li><strong>Evening person forced to AM:</strong> Use longer warm-ups, consider caffeine, accept lower intensity initially</li>
+<li><strong>Morning person training PM:</strong> Train after 4 PM when body temperature peaks, use evening as your "fresh" session</li>
+</ul>
+<h3 id="chronotype-manipulation">Chronotype Manipulation</h3>
+<p>Can you shift your chronotype? Partially. Morning bright light exposure (within 30 min of waking), consistent sleep times, and morning exercise can gradually advance your clock. However, attempting major shifts often fails—and fighting your natural type daily is exhausting.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<p>The best time to train is whenever you can train most intensely and consistently. For morning types, that's morning. For evening types, afternoon or evening.</p>
+<p>The 3-7% performance difference sounds small but compounds over months of training. If you're an evening type grinding through 6 AM sessions, consider shifting. If you're a morning type forcing evening workouts, the gains cost might not be worth the convenience.</p>
+<p>The key insight: respect your biology. Your chronotype isn't a limitation—it's information. Use it.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>MDPI (2025). "Circadian Regulation for Optimating Sport and Exercise Performance"</li>
+<li>Journal of Circadian Rhythms (2025). "Hormonal Patterns and Training Optimization"</li>
+<li>Chronobiology International (2025). "Entrained Awakening and Exercise Timing"</li>
+<li>Sports Medicine (2025). "Chronotype-Specific Training Adaptations"</li>
+</ul>
+<hr>
+<p><em>Let Jacked optimize your training timing. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","circadian-rhythm-training-time-muscle-growth",{"href":"/blog/circadian-rhythm-training-time-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Time of Day: How Circadian Rhythms Affect Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science reveals your body's internal clock significantly impacts strength, muscle protein synthesis, and training adaptations. Here's how to optimize your workout timing."}]]}],["$","$Ld","pre-workout-meal-science-fueling-training",{"href":"/blog/pre-workout-meal-science-fueling-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Pre-Workout Meal Science: How to Fuel Your Training for Maximum Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science behind what, when, and how much to eat before training. Skip the guesswork and fuel your workouts properly."}]]}],["$","$Ld","optimal-workout-duration-2026",{"href":"/blog/optimal-workout-duration-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The 30-Minute Workout: Why Less Training Time May Build More Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research suggests you don't need hours in the gym. Here's the science behind shorter, more effective training sessions and how to optimize your workout efficiency."}]]}],["$","$Ld","rest-periods-hypertrophy-science",{"href":"/blog/rest-periods-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters guess at rest times. Science tells a different story — your between-set rest period directly impacts muscle growth, strength gains, and training volume. Here's what the research actually shows."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

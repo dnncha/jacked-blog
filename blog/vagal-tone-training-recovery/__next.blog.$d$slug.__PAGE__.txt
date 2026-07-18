@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta70,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/vagal-tone-training-recovery#webpage","url":"https://jacked.coach/blog/vagal-tone-training-recovery","name":"Vagal Tone and Training Recovery: The Missing Piece of Your Gains","description":"Your nervous system controls recovery more than you think. Learn how vagal tone affects muscle growth and practical ways to optimize it.","breadcrumb":{"@id":"https://jacked.coach/blog/vagal-tone-training-recovery#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/vagal-tone-training-recovery#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/vagal-tone-training-recovery#webpage"},"headline":"Vagal Tone and Training Recovery: The Missing Piece of Your Gains","description":"Your nervous system controls recovery more than you think. Learn how vagal tone affects muscle growth and practical ways to optimize it.","isAccessibleForFree":true,"wordCount":1122,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/vagal-tone-training-recovery#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Vagal Tone and Training Recovery: The Missing Piece of Your Gains","item":"https://jacked.coach/blog/vagal-tone-training-recovery"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Vagal Tone and Training Recovery: The Missing Piece of Your Gains"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Your nervous system controls recovery more than you think. Learn how vagal tone affects muscle growth and practical ways to optimize it."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Vagal%20Tone%20and%20Training%20Recovery%3A%20The%20Missing%20Piece%20of%20Your%20Gains&url=https://jacked.coach/blog/vagal-tone-training-recovery","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-the-vagus-nerve",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-the-vagus-nerve","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is the Vagus Nerve?"}]}],["$","li","the-science-vagal-tone-and-resistance-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-vagal-tone-and-resistance-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: Vagal Tone and Resistance Training"}]}],["$","li","how-vagal-tone-affects-muscle-building",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-vagal-tone-affects-muscle-building","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Vagal Tone Affects Muscle Building"}]}],["$","li","inflammation-control",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#inflammation-control","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Inflammation Control"}]}],["$","li","sleep-quality",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#sleep-quality","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Sleep Quality"}]}],["$","li","digestion-and-nutrient-absorption",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#digestion-and-nutrient-absorption","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Digestion and Nutrient Absorption"}]}],["$","li","perceived-exertion-and-pain",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#perceived-exertion-and-pain","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Perceived Exertion and Pain"}]}],["$","li","measuring-your-vagal-tone",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#measuring-your-vagal-tone","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Measuring Your Vagal Tone"}]}],["$","li","practical-strategies-to-improve-vagal-tone",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-strategies-to-improve-vagal-tone","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Strategies to Improve Vagal Tone"}]}],["$","li","1-cold-exposure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-cold-exposure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Cold Exposure"}]}],["$","li","2-deep-breathing-exercises",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-deep-breathing-exercises","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Deep Breathing Exercises"}]}],["$","li","3-nasal-breathing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-nasal-breathing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Nasal Breathing"}]}],["$","li","4-mindfulness-and-meditation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-mindfulness-and-meditation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Mindfulness and Meditation"}]}],["$","li","5-adequate-sleep-and-consistent-sleep-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-adequate-sleep-and-consistent-sleep-timing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Adequate Sleep and Consistent Sleep Timing"}]}]]}]]}]
+e:T21c1,<p>If you are tracking your training diligently but still feeling flat, beat up, or stuck in a plateau, the problem might not be your program, your protein intake, or your sleep. It might be your nervous system.</p>
+<p>Specifically, your <strong>vagal tone</strong> — the activity of your vagus nerve, the primary component of your parasympathetic ("rest and digest") nervous system. While you have been obsessing over sets, reps, and macros, this quiet conductor of your body's recovery processes has been largely ignored in mainstream fitness culture. That is a mistake.</p>
+<h2 id="what-is-the-vagus-nerve">What Is the Vagus Nerve?</h2>
+<p>The vagus nerve runs from your brainstem through your neck, chest, and abdomen, connecting to virtually every major organ. It is the Information Superhighway between your brain and your body, responsible for regulating heart rate, digestion, inflammation, and — critically for lifters — recovery.</p>
+<p>High vagal tone means your body can efficiently switch into rest-and-digest mode after stress (like a hard training session). Low vagal tone means you stay stuck in sympathetic overdrive ("fight or flight"), even when you are trying to recover. Chronic sympathetic dominance is a one-way ticket to overtraining, stalled gains, and feeling like garbage despite sleeping eight hours.</p>
+<h2 id="the-science-vagal-tone-and-resistance-training">The Science: Vagal Tone and Resistance Training</h2>
+<p>Research increasingly shows that resistance training acutely depresses vagal tone — this is normal and expected. A 2019 study published in <em>Sports</em> found that high-volume, high-intensity resistance training significantly reduced heart rate variability (HRV, a proxy for vagal tone) immediately post-workout and through 24-48 hours of recovery in trained males.</p>
+<p>The interesting part: individuals with higher baseline vagal tone recovered faster. Their parasympathetic nervous system bounced back quicker, meaning their heart rate, digestion, and cellular repair processes returned to baseline faster. This translated to better neuromuscular performance on subsequent sessions.</p>
+<p>A 2025 study in the <em>European Heart Journal</em> found that higher vagal parasympathetic activity was strongly associated with better exercise tolerance and reduced systemic inflammation — both critical for long-term muscle building and recovery.</p>
+<p>In plain English: if your vagus nerve works well, you recover faster between sessions, which means you can train harder more often, which means more gains over time.</p>
+<h2 id="how-vagal-tone-affects-muscle-building">How Vagal Tone Affects Muscle Building</h2>
+<p>The connection is not just about feeling fresh. Vagal tone directly influences:</p>
+<h3 id="inflammation-control">Inflammation Control</h3>
+<p>The vagus nerve releases acetylcholine, which dampens systemic inflammation. Chronic low-grade inflammation — common in overtrained lifters — blunts muscle protein synthesis and promotes muscle breakdown. High vagal tone acts as a natural anti-inflammatory, keeping the environment for muscle growth favorable.</p>
+<h3 id="sleep-quality">Sleep Quality</h3>
+<p>Vagal tone is closely tied to sleep architecture, particularly deep sleep (slow-wave sleep), where human growth hormone (HGH) pulses and muscle repair peaks. Poor vagal tone disrupts this process, even if you are in bed for eight hours.</p>
+<h3 id="digestion-and-nutrient-absorption">Digestion and Nutrient Absorption</h3>
+<p>The vagus nerve controls gastric motility and enzyme secretion. If you are constantly in sympathetic overdrive, your digestion slows, nutrient absorption suffers, and that whey protein you chugged might not actually reach your muscles.</p>
+<h3 id="perceived-exertion-and-pain">Perceived Exertion and Pain</h3>
+<p>Higher vagal tone is associated with better pain tolerance and lower perceived exertion. This might seem abstract, but it matters: if every workout feels brutal, you are less likely to push hard or maintain consistency.</p>
+<h2 id="measuring-your-vagal-tone">Measuring Your Vagal Tone</h2>
+<p>The most practical proxy for vagal tone is <strong>heart rate variability (HRV)</strong>. HRV measures the variation in time between heartbeats — more variation means higher vagal tone and better autonomic flexibility.</p>
+<p>You can track HRV with:</p>
+<ul>
+<li><strong>Oura Ring</strong> — excellent for overnight HRV tracking</li>
+<li><strong>Whoop</strong> — tracks strain and recovery continuously</li>
+<li><strong>Apple Watch</strong> — basic HRV tracking</li>
+<li><strong>Chest strap monitors</strong> (e.g., Polar H10) with apps like Elite HRV</li>
+</ul>
+<p>Look at <strong>overnight HRV</strong> (measured at rest, typically first thing in the morning). Trends matter more than single values. A consistent baseline with normal fluctuations is good. A sustained drop below your baseline for several days signals your nervous system is still in recovery mode — back off the gas.</p>
+<h2 id="practical-strategies-to-improve-vagal-tone">Practical Strategies to Improve Vagal Tone</h2>
+<p>The good news: vagal tone is trainable. Here is how to optimize it:</p>
+<h3 id="1-cold-exposure">1. Cold Exposure</h3>
+<p>Cold water immersion or cold showers stimulate the vagus nerve. Research shows that cold exposure increases HRV and promotes parasympathetic activity. Start with 30-60 seconds of cold water at the end of your shower, building up over time.</p>
+<h3 id="2-deep-breathing-exercises">2. Deep Breathing Exercises</h3>
+<p>Slow, diaphragmatic breathing — particularly extended exhale breathing — directly activates the vagus nerve. Try this:</p>
+<ul>
+<li>Inhale for 4-6 seconds</li>
+<li>Exhale for 6-8 seconds (longer exhales = more vagal activation)</li>
+<li>Repeat for 5-10 minutes, ideally before bed</li>
+</ul>
+<p>This is one of the most effective and underused recovery tools available.</p>
+<h3 id="3-nasal-breathing">3. Nasal Breathing</h3>
+<p>Breathing through your nose, especially during sleep and light exercise, stimulates vagal activity. Mouth breathing (common during heavy lifting) tends to activate sympathetic drive. Try keeping your mouth closed during warm-ups and lighter sets.</p>
+<h3 id="4-mindfulness-and-meditation">4. Mindfulness and Meditation</h3>
+<p>Regular meditation, even just 10-15 minutes daily, increases vagal tone over time. Apps like Calm, Headspace, or simple breath-focus practices work.</p>
+<h3 id="5-adequate-sleep-and-consistent-sleep-timing">5. Adequate Sleep and Consistent Sleep Timing</h3>
+<p>Your vagal tone follows circadian rhythms. Irregular sleep-wake cycles disrupt it. Prioritize consistent sleep timing, not just duration.</p>
+<h3 id="6-moderate-intensity-cardio">6. Moderate Intensity Cardio</h3>
+<p>Low-to-moderate intensity steady-state cardio (30-45 minutes, heart rate in zone 2) promotes vagal tone. High-intensity cardio, if overdone, can have the opposite effect.</p>
+<h3 id="7-massage-and-social-connection">7. Massage and Social Connection</h3>
+<p>Physical touch (massage, hugging) and positive social interaction activate the vagus nerve. This is why "recovery" is about more than just physical interventions.</p>
+<h2 id="applying-this-to-your-training">Applying This to Your Training</h2>
+<p>Here is the practical framework:</p>
+<ol>
+<li><strong>Track HRV</strong> (overnight, trend over weeks)</li>
+<li><strong>Use HRV to guide training intensity</strong>: When HRV is below baseline, do active recovery or light sessions. When it is normal or elevated, push hard.</li>
+<li><strong>Implement daily vagal tone practices</strong>: Even five minutes of extended-exhale breathing makes a difference over months.</li>
+<li><strong>Do not ignore the signs</strong>: If you are constantly sore, tired, irritable, and your HRV is suppressed, your body is telling you something. Listen.</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>You can have the perfect program, crush every meal, and sleep eight hours — but if your nervous system is stuck in overdrive, you are leaving gains on the table. Vagal tone is the missing link between training and recovery.</p>
+<p>Start paying attention to your autonomic nervous system. Measure HRV. Breathe harder (literally). The best lifters do not just train hard — they recover smarter.</p>
+<hr>
+<p><em>References: Heart Rate Variability, Neuromuscular and Perceptual Recovery Following Resistance Training (Sports, 2019); Non-invasive vagus nerve stimulation and exercise capacity (European Heart Journal, 2025).</em></p>
+<hr>
+<p><em>Track your vagal tone with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","mental-fatigue-training-performance-cns",{"href":"/blog/mental-fatigue-training-performance-cns","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Your central nervous system might be holding you back more than your muscles. New research reveals how mental fatigue sabotages training performance and what you can do about it."}]]}],["$","$Ld","blood-pressure-resistance-training-lifting",{"href":"/blog/blood-pressure-resistance-training-lifting","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Blood Pressure and Resistance Training: What Every Lifter Needs to Know"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does lifting weights raise your blood pressure? The answer is more nuanced than you think. Here's the science behind how resistance training affects your cardiovascular system."}]]}],["$","$Ld","magnesium-strength-training-mineral-gains",{"href":"/blog/magnesium-strength-training-mineral-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Magnesium and Strength Training: The Forgotten Mineral for Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Magnesium influences muscle function, protein synthesis, and recovery. Here's why this mineral deserves more attention in your training stack."}]]}],["$","$Ld","muscle-glycogen-supercompensation-carb-loading",{"href":"/blog/muscle-glycogen-supercompensation-carb-loading","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Glycogen Supercompensation: The Science of Carb Loading for Lifters"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Learn how to optimize your muscle glycogen stores through strategic carbohydrate loading, and why it matters for strength training performance and recovery."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

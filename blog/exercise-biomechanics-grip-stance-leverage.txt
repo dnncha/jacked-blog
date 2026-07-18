@@ -1,0 +1,270 @@
+1:"$Sreact.fragment"
+a:I[68027,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+2:T6fd,(function(e,c){if(!c.__SV){var l,h;window.mixpanel=c;c._i=[];c.init=function(q,r,f){function t(d,a){var g=a.split(".");2==g.length&&(d=d[g[0]],a=g[1]);d[a]=function(){d.push([a].concat(Array.prototype.slice.call(arguments,0)))}}var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";b.people=b.people||[];b.toString=function(d){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);d||(a+=" (stub)");return a};b.people.toString=function(){return b.toString(1)+".people (stub)"};l="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders start_session_recording stop_session_recording people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<l.length;h++)t(b,l[h]);var n="set set_once union unset remove delete".split(" ");b.get_group=function(){function d(p){a[p]=function(){b.push([g,[p].concat(Array.prototype.slice.call(arguments,0))])}}for(var a={},g=["get_group"].concat(Array.prototype.slice.call(arguments,0)),m=0;m<n.length;m++)d(n[m]);return a};c._i.push([q,r,f])};c.__SV=1.2;var k=e.createElement("script");k.type="text/javascript";k.async=!0;k.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=e.getElementsByTagName("script")[0];e.parentNode.insertBefore(k,e)}})(document,window.mixpanel||[]);mixpanel.init('32b861825d2e0b1beca8b2a1ae0f52c1',{autocapture:false,record_sessions_percent:0,api_host:'https://api-eu.mixpanel.com'});0:{"P":null,"c":["","blog","exercise-biomechanics-grip-stance-leverage"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","exercise-biomechanics-grip-stance-leverage","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}],["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Jacked training library RSS feed","href":"/feed.xml"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Jacked - Gym Workout Tracker\",\"alternateName\":\"Jacked\",\"operatingSystem\":\"iOS\",\"applicationCategory\":\"HealthApplication\",\"description\":\"Free iPhone workout tracker with weekly muscle targets, double progression, next-lift guidance, fast set logging, rest timers, and compatible Hevy import.\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\",\"availability\":\"https://schema.org/InStock\"},\"url\":\"https://jacked.coach\",\"downloadUrl\":\"https://apps.apple.com/app/id6757132605\",\"featureList\":[\"Fast workout and set logging\",\"Weekly hard-set targets by muscle\",\"Double progression guidance\",\"Next load and rep-range targets\",\"Compatible Hevy workout history import\",\"Rest timer and active workout resume\",\"Lift and workout history\"]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Jacked\",\"url\":\"https://jacked.coach\",\"logo\":\"https://jacked.coach/og-image.png\",\"sameAs\":[\"https://apps.apple.com/app/id6757132605\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"url\":\"https://jacked.coach/support\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Jacked\",\"url\":\"https://jacked.coach\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jacked.coach/blog?search={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"4oDca2fm6PaWFsjWl2cD8"}
+b:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+c:I[39756,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+d:I[37457,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+11:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+3:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener('click',function(e){const a=e.target.closest('[data-nav-section]');if(a){window.mixpanel?.track?.('nav_click',{section:a.getAttribute('data-nav-section')||'unknown'});}const c=e.target.closest('[data-global-cta]');if(c){window.mixpanel?.track?.('cta_click',{placement:c.getAttribute('data-global-cta')||'unknown',target:'app_store'});}const r=e.target.closest('[data-related-tool]');if(r){const p=new URLSearchParams(window.location.search);window.mixpanel?.track?.('tool_related_tool_clicked',{tool_name:window.location.pathname.split('/').filter(Boolean).pop()||'tools',related_tool:r.getAttribute('data-related-tool')||'unknown',units:'',goal:'',exercise_type:'',source_page:document.referrer||'',utm_source:p.get('utm_source')||'',utm_campaign:p.get('utm_campaign')||''});}});"}}]
+4:["$","body",null,{"style":{"margin":0,"fontFamily":"-apple-system, BlinkMacSystemFont, \"SF Pro Text\", \"Inter\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","lineHeight":1.6,"color":"#e5e5e5","backgroundColor":"#000000"},"children":[["$","header",null,{"style":{"backgroundColor":"#000000","borderBottom":"1px solid rgba(242,238,228,0.1)","color":"white","padding":"0.85rem 1.5rem","position":"sticky","top":0,"zIndex":100},"children":["$","nav",null,{"style":{"maxWidth":"1120px","margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","flexWrap":"wrap","gap":"1rem"},"children":[["$","$Lb",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none","display":"flex","alignItems":"center","gap":"0.5rem"},"children":["$","span",null,{"style":{"fontSize":"1.22rem","fontWeight":"760","letterSpacing":"0.02em","fontStyle":"normal","background":"linear-gradient(135deg, #ead878 0%, #c7aa44 100%)","WebkitBackgroundClip":"text","WebkitTextFillColor":"transparent","backgroundClip":"text"},"children":"JACKED"}]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1rem","flexWrap":"wrap"},"children":[["$","$Lb",null,{"href":"/tools","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Tools"}],["$","$Lb",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Training Library"}],["$","$Lb",null,{"href":"/about","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"About"}],["$","$Lb",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Support"}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"color":"#111","textDecoration":"none","fontWeight":"720","background":"#e2c95f","padding":"0.5rem 1rem","borderRadius":"8px","fontSize":"0.84rem","transition":"transform 0.2s, box-shadow 0.2s","display":"inline-block"},"data-global-cta":"header","children":"Get the iPhone App"}]]}]]}]}],["$","main",null,{"style":{"margin":"0 auto","padding":0,"minHeight":"calc(100vh - 200px)","backgroundColor":"#000000"},"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"style":{"backgroundColor":"#0a0a0a","borderTop":"1px solid #222","color":"#8f897c","padding":"2rem","textAlign":"center"},"children":[["$","div",null,{"style":{"display":"flex","justifyContent":"center","gap":"1rem","flexWrap":"wrap","marginBottom":"0.9rem"},"children":[["$","$Lb",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Training Library"}],["$","$Lb",null,{"href":"/blog/alternatives-to-rp-hypertrophy-app","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"RP Hypertrophy alternatives"}],["$","$Lb",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Support"}],["$","$Lb",null,{"href":"/privacy","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Privacy"}],"$Le"]}],"$Lf"]}]]}]
+5:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+6:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+7:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+8:"$W14"
+9:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],null]}]
+e:["$","$Lb",null,{"href":"/terms","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Terms"}]
+f:["$","p",null,{"style":{"margin":0,"fontSize":"0.9rem"},"children":"© 2026 Jacked. Hypertrophy training for iPhone."}]
+19:Tae6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage#webpage","url":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage","name":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation","description":"Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting.","breadcrumb":{"@id":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage#webpage"},"headline":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation","description":"Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting.","isAccessibleForFree":true,"wordCount":945,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation","item":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage"}]}]}1a:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      10:["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],["$","style",null,{"children":"$1a"}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]
+1b:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Lb",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Lb",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+1c:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+1d:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Exercise%20Biomechanics%3A%20How%20Grip%20Width%2C%20Stance%2C%20and%20Leverage%20Affect%20Muscle%20Activation&url=https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+1e:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Lb","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}],["$","$Lb","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Lb","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Lb","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+1f:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-science-of-muscle-activation-emg-research",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-muscle-activation-emg-research","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Muscle Activation: EMG Research"}]}],["$","li","grip-width-lat-pulldown-deep-dive",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#grip-width-lat-pulldown-deep-dive","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Grip Width: Lat Pulldown Deep Dive"}]}],["$","li","stance-width-squat-science",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#stance-width-squat-science","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Stance Width: Squat Science"}]}],["$","li","lever-length-the-forgotten-variable",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#lever-length-the-forgotten-variable","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Lever Length: The Forgotten Variable"}]}],["$","li","grip-type-pronated-vs-supinated",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#grip-type-pronated-vs-supinated","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Grip Type: Pronated vs. Supinated"}]}],["$","li","range-of-motion-the-amplifier",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#range-of-motion-the-amplifier","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Range of Motion: The Amplifier"}]}],["$","li","individual-differences-your-anatomy-isn-t-average",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#individual-differences-your-anatomy-isn-t-average","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Individual Differences: Your Anatomy Isn't Average"}]}],["$","li","the-practical-framework",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-practical-framework","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Practical Framework"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+23:T1ea1,<p>When you grip the lat pulldown bar, do you go wide or narrow? When you step under the bar for a squat, how wide do you stance? These seemingly minor setup decisions can dramatically shift which muscles bear the load—and the science is clearer than most gym myths would have you believe.</p>
+<h2 id="the-science-of-muscle-activation-emg-research">The Science of Muscle Activation: EMG Research</h2>
+<p>Researchers use electromyography (EMG) to measure which muscles fire and how intensely during exercises. This technology has revealed something counterintuitive: <strong>small biomechanical changes often don't alter which muscles activate—but they dramatically shift how much load each muscle carries</strong>.</p>
+<h2 id="grip-width-lat-pulldown-deep-dive">Grip Width: Lat Pulldown Deep Dive</h2>
+<p>The lat pulldown offers the clearest case study in grip manipulation. A 2014 study published in the <em>Journal of Strength and Conditioning Research</em> tested narrow (shoulder-width), medium, and wide grips in trained lifters [1].</p>
+<p><strong>The surprising finding</strong>: All three grips showed similar EMG activation in the latissimus dorsi, trapezius, and infraspinatus. However, <strong>strength differed significantly</strong>—narrow and medium grips allowed lifters to handle more weight (80.3 kg and 80 kg vs. 77.3 kg for wide grip).</p>
+<p>A 2025 MDPI study expanded this, examining grip type (pronated, supinated, neutral) and forearm orientation [2]. The research confirmed that <strong>wide grip with anterior pull (bringing the bar to your face)</strong> maximally engages the lats, while also revealing that forearm orientation significantly affects rear delt and upper back activation.</p>
+<p><strong>Practical application</strong>:</p>
+<ul>
+<li>For maximum lat development: Wide grip, pull to upper chest/face</li>
+<li>For balanced back thickness: Medium or narrow grip allows heavier loads</li>
+</ul>
+<h2 id="stance-width-squat-science">Stance Width: Squat Science</h2>
+<p>Squat stance width reveals a clear pattern: <strong>wider stances emphasize glutes; narrower stances emphasize quadriceps</strong>.</p>
+<p>A 2009 study examined eight superficial thigh muscles across narrow (75% shoulder width), shoulder-width, and wide (140% shoulder width) stances at multiple loads [3]. Key findings:</p>
+<ul>
+<li><strong>Gluteus maximus activation increased with stance width</strong>—wider stance = more glute engagement</li>
+<li><strong>Quadriceps activation remained relatively stable</strong> across widths</li>
+<li><strong>Adductor involvement increased</strong> in wider stances</li>
+<li>At 70% 1RM, wide stance showed highest glute activation</li>
+</ul>
+<p>A follow-up study confirmed these findings while adding that <strong>hip-dominant muscles (glutes, hamstrings) prefer wider stances</strong>, while knee-dominant muscles (quads) tolerate narrower stances better [4].</p>
+<p><strong>Practical application</strong>:</p>
+<ul>
+<li>Want to build glutes and posterior chain? Widen your squat stance</li>
+<li>Quad-dominant athletes may benefit from narrower stances</li>
+<li>Sumo deadlifters aren't wrong—they're just prioritizing glutes</li>
+</ul>
+<h2 id="lever-length-the-forgotten-variable">Lever Length: The Forgotten Variable</h2>
+<p>Beyond grip and stance, <strong>lever length</strong>—the distance between joint centers—determines mechanical advantage. This is why:</p>
+<ul>
+<li><strong>Close-grip bench press</strong> targets triceps more effectively (shorter lever for chest)</li>
+<li><strong>Longer arms</strong> make pull-ups harder (more distance to travel)</li>
+<li><strong>Taller lifters</strong> often struggle with conventional deadlifts but excel at sumo</li>
+</ul>
+<p>A 2024 study in the <em>Scandinavian Journal of Medicine &#x26; Science in Sports</em> emphasized that individual biomechanics matter more than absolute positions [5]. What works for a lifter with long femurs may fail for someone with shorter levers.</p>
+<h2 id="grip-type-pronated-vs-supinated">Grip Type: Pronated vs. Supinated</h2>
+<p>Grip orientation affects more than just comfort:</p>
+<ul>
+<li><strong>Pronated (overhand)</strong>: Default for most lifts; neutral wrist position</li>
+<li><strong>Supinated (underhand)</strong>: Greater bicep engagement; higher elbow flexion stress</li>
+<li><strong>Neutral</strong>: Often optimal for forearm and grip strength; reduces joint stress</li>
+</ul>
+<p>Research on the lat pulldown specifically shows that <strong>supinated grip increases bicep activation by 15-20%</strong> while slightly reducing lat engagement compared to pronated [2].</p>
+<h2 id="range-of-motion-the-amplifier">Range of Motion: The Amplifier</h2>
+<p>Perhaps the most underappreciated factor: <strong>where in the range you train matters more than grip width</strong>.</p>
+<p>EMG studies consistently show muscle activation peaks at different points:</p>
+<ul>
+<li><strong>Squat</strong>: Peak quad activation at parallel; glutes fire more in bottom position</li>
+<li><strong>Bench press</strong>: Lower chest activation increases with greater range (inclines > flats for upper chest)</li>
+<li><strong>Pull-ups</strong>: Peak lat activation at full stretch (bottom) and contracted (top) positions</li>
+</ul>
+<p><strong>The principle</strong>: Training through full range activates muscles more completely than partial reps—even with the same load.</p>
+<h2 id="individual-differences-your-anatomy-isn-t-average">Individual Differences: Your Anatomy Isn't Average</h2>
+<p>Every lifter's ideal setup differs based on:</p>
+<ul>
+<li><strong>Limb lengths</strong>: Longer arms = different optimal bench grip</li>
+<li><strong>Hip structure</strong>: Some hips naturally external rotate more (affects squat stance)</li>
+<li><strong>Shoulder mobility</strong>: Limits safe overhead positions</li>
+<li><strong>Torso length</strong>: Affects bar path and leverage in squats and deadlifts</li>
+</ul>
+<p>A 2024 <em>Frontiers in Physiology</em> review emphasized that <strong>individualized exercise selection based on anthropometry outperforms generic recommendations</strong> [6].</p>
+<h2 id="the-practical-framework">The Practical Framework</h2>
+<p>Here's how to apply this research:</p>
+<ol>
+<li><strong>Start with standard positions</strong> (medium grip, shoulder-width stance)</li>
+<li><strong>Identify your goal</strong> (glute emphasis vs. quad emphasis)</li>
+<li><strong>Make one adjustment at a time</strong> and track results</li>
+<li><strong>Prioritize feel</strong>—if something hurts, your anatomy likely disagrees with the research average</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Grip width, stance, and leverage don't change <em>which</em> muscles work—they change <strong>how hard each muscle works</strong>. Use this knowledge intentionally:</p>
+<ul>
+<li>Wide lat pulldown grip → more lat-focused</li>
+<li>Wide squat stance → more glute-focused</li>
+<li>Narrow bench grip → more tricep-focused</li>
+<li>Supinated pull-ups → more bicep-focused</li>
+</ul>
+<p>Your body responds to mechanical demand. Control the levers, and you control the results.</p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>Lehman GJ. The influence of grip width on bench press strength. J Strength Cond Res. 2014.</li>
+<li>MDPI Electromyographic Analysis of Back Muscle Activation During Lat Pulldown Exercise. Functions. 2025.</li>
+<li>Paoli A, Marcolin G, Petrone N. The effect of stance width on EMG activity. J Strength Cond Res. 2009.</li>
+<li>Escamilla RF, et al. Stance width and bar load effects on leg muscle activity. J Strength Cond Res. 2001.</li>
+<li>Scandinavian Journal of Medicine &#x26; Science in Sports. 2024;34:e14709.</li>
+<li>Frontiers in Physiology. 2025;16:1681591.</li>
+</ol>
+<hr>
+<p><em>Track your biomechanics with Jacked. Download now.</em></p>
+20:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$23"}}]}]
+21:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Lb","gym-gloves-vs-bare-hand-forearm-science",{"href":"/blog/gym-gloves-vs-bare-hand-forearm-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Gym Gloves vs Bare Hands: What the Science Says About Grip and Forearm Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Do lifting gloves help or hinder your forearm development? The science reveals surprising answers about grip strength, muscle activation, and what actually works."}]]}],["$","$Lb","muscle-memory-science-gains",{"href":"/blog/muscle-memory-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science Behind Why Your Gains Stick"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."}]]}],["$","$Lb","muscle-memory-science-gains-faster",{"href":"/blog/muscle-memory-science-gains-faster","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science of muscle memory reveals why previously trained muscles regrow faster — and how to leverage this biological advantage for permanent gains."}]]}],["$","$Lb","resistance-training-mental-health-brain-aging-2026",{"href":"/blog/resistance-training-mental-health-brain-aging-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Resistance Training for Mental Health: The Science Behind Lifting Depression"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Groundbreaking 2026 research shows exercise rivals therapy for depression—with resistance training proving more effective than aerobic exercise alone. Plus: how heavy lifting can shave years off your brain age."}]]}]]}]]}]
+22:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:null
+18:[["$","title","0",{"children":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation | Jacked"}],["$","meta","1",{"name":"description","content":"Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting."}],["$","meta","2",{"name":"author","content":"Jacked"}],["$","meta","3",{"name":"keywords","content":"gym workout tracker,workout log,strength training app,hypertrophy tracker,progressive overload app,double progression,weekly muscle targets,Hevy import"}],["$","meta","4",{"name":"creator","content":"Jacked"}],["$","meta","5",{"name":"publisher","content":"Jacked"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage"}],["$","meta","8",{"property":"og:title","content":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation"}],["$","meta","9",{"property":"og:description","content":"Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/blog/exercise-biomechanics-grip-stance-leverage"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation | Jacked"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation"}],["$","meta","18",{"name":"twitter:description","content":"Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting."}],["$","meta","19",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]

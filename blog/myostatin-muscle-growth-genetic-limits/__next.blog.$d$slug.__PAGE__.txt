@@ -1,0 +1,213 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tae4,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits#webpage","url":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits","name":"Myostatin and Muscle Growth: Breaking Through Genetic Limits","description":"New research on myostatin inhibition could revolutionize how we think about muscle building ceilings. Here's what the science says and what it means for regu...","breadcrumb":{"@id":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits#webpage"},"headline":"Myostatin and Muscle Growth: Breaking Through Genetic Limits","description":"New research on myostatin inhibition could revolutionize how we think about muscle building ceilings. Here's what the science says and what it means for regu...","isAccessibleForFree":true,"wordCount":876,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Myostatin and Muscle Growth: Breaking Through Genetic Limits","item":"https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Myostatin and Muscle Growth: Breaking Through Genetic Limits"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research on myostatin inhibition could revolutionize how we think about muscle building ceilings. Here's what the science says and what it means for regular lifters."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Myostatin%20and%20Muscle%20Growth%3A%20Breaking%20Through%20Genetic%20Limits&url=https://jacked.coach/blog/myostatin-muscle-growth-genetic-limits","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-myostatin",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-myostatin","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Myostatin?"}]}],["$","li","the-2025-2026-research-update",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-2025-2026-research-update","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The 2025-2026 Research Update"}]}],["$","li","1-oral-myostatin-inhibition-advances",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-oral-myostatin-inhibition-advances","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Oral Myostatin Inhibition Advances"}]}],["$","li","2-myostatin-and-fat-loss-connection",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-myostatin-and-fat-loss-connection","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Myostatin and Fat Loss Connection"}]}],["$","li","3-combination-approaches",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-combination-approaches","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Combination Approaches"}]}],["$","li","4-pharmaceutical-development",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-pharmaceutical-development","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Pharmaceutical Development"}]}],["$","li","what-this-means-for-natural-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-natural-lifters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means for Natural Lifters"}]}],["$","li","1-your-genetic-ceiling-isn-t-fixed",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-your-genetic-ceiling-isn-t-fixed","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Your Genetic Ceiling Isn't Fixed"}]}],["$","li","2-training-strategies-to-naturally-modulate-myostatin",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-training-strategies-to-naturally-modulate-myostatin","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Training Strategies to Naturally Modulate Myostatin"}]}],["$","li","3-nutrition-s-role",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-nutrition-s-role","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Nutrition's Role"}]}],["$","li","4-the-future-is-coming",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-the-future-is-coming","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. The Future Is Coming"}]}],["$","li","the-bigger-picture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bigger-picture","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bigger Picture"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}]]}]]}]
+e:T1c19,<p>Every lifter knows the frustration: you train hard, eat right, sleep well, and still hit a plateau. For decades, we've been told our muscle-building potential is largely genetic—capped by factors we can't control. But what if that ceiling isn't as fixed as we thought?</p>
+<p>If that plateau is why you are comparing <a href="/blog/alternatives-to-rp-hypertrophy-app">alternatives to RP Hypertrophy App</a>, focus on the apps that make progression, effort, weekly volume, and exercise changes easier to audit before blaming genetics.</p>
+<p>Enter myostatin, a protein that acts as a molecular brake on muscle growth. Recent research in 2025-2026 has shed new light on how this protein works and whether we can safely modulate it to build more muscle.</p>
+<h2 id="what-is-myostatin">What Is Myostatin?</h2>
+<p>Myostatin is a member of the TGF-beta superfamily, produced primarily in skeletal muscle tissue. Its primary function is to regulate muscle mass—essentially telling your body when to stop building muscle. In nature, animals with myostatin mutations develop dramatically larger muscles. The famous "double-muscling" in Belgian Blue cattle comes from a myostatin gene mutation. Likewise, a child born with myostatin deficiency showed unprecedented muscle development from birth.</p>
+<p>In healthy adults, myostatin binds to activin type II receptors (ActRIIB), triggering a signaling cascade that inhibits muscle protein synthesis and promotes muscle breakdown. Think of it as your body's built-in governor—useful for survival when food is scarce, but potentially limiting when you're trying to maximize hypertrophy.</p>
+<h2 id="the-2025-2026-research-update">The 2025-2026 Research Update</h2>
+<p>Recent studies have advanced our understanding of myostatin in several important ways:</p>
+<h3 id="1-oral-myostatin-inhibition-advances">1. Oral Myostatin Inhibition Advances</h3>
+<p>A November 2025 study published in Frontiers in Neurology demonstrated that orally administered Lactobacillus casei expressing modified human myostatin could increase muscle mass in models of Duchenne muscular dystrophy. While this research focuses on pathological conditions, it represents a significant step toward practical myostatin intervention.</p>
+<h3 id="2-myostatin-and-fat-loss-connection">2. Myostatin and Fat Loss Connection</h3>
+<p>Research from UConn (February 2025) highlighted that myostatin inhibition doesn't just increase muscle—it also reduces body fat. Studies in mice showed that knocking out myostatin simultaneously increased muscle growth while decreasing fat mass, suggesting these processes share more regulatory pathways than previously understood.</p>
+<h3 id="3-combination-approaches">3. Combination Approaches</h3>
+<p>A 2025 systematic review in MDPI examined myostatin modulation in spinal muscular atrophy, finding that combining myostatin inhibitors with SMN-enhancing agents improved motor function and neuromuscular connectivity. This synergy suggests future therapies might stack multiple mechanisms for maximum effect.</p>
+<h3 id="4-pharmaceutical-development">4. Pharmaceutical Development</h3>
+<p>The COURAGE trial (Regeneron, 2025-2026) tested combining semaglutide (a GLP-1 weight loss drug) with muscle-preserving antibodies. Results showed this combination preserved 50-80% more lean mass compared to semaglutide alone, pointing toward the future of controlled myostatin modulation.</p>
+<h2 id="what-this-means-for-natural-lifters">What This Means for Natural Lifters</h2>
+<p>Here's the practical reality: true myostatin inhibitors remain in the realm of pharmaceutical intervention, not available as supplements. However, the science offers several actionable insights:</p>
+<h3 id="1-your-genetic-ceiling-isn-t-fixed">1. Your Genetic Ceiling Isn't Fixed</h3>
+<p>The understanding that muscle growth is genetically capped is being challenged. While you won't be injecting myostatin inhibitors anytime soon, the principle matters—your body's natural myostatin response adapts to training. Progressive overload, adequate protein, and proper recovery all help you work WITH your physiology rather than against it.</p>
+<h3 id="2-training-strategies-to-naturally-modulate-myostatin">2. Training Strategies to Naturally Modulate Myostatin</h3>
+<p>Research suggests certain training approaches may influence myostatin expression:</p>
+<ul>
+<li><strong>High-volume training</strong> has been shown to transiently increase myostatin, but also triggers greater muscle adaptation</li>
+<li><strong>Mechanical tension</strong> appears to be the primary driver for overriding myostatin's inhibitory signals</li>
+<li><strong>Consistent training</strong> downregulates myostatin expression over time—another reason training experience matters</li>
+</ul>
+<h3 id="3-nutrition-s-role">3. Nutrition's Role</h3>
+<p>While no food directly inhibits myostatin, certain compounds may influence the pathway:</p>
+<ul>
+<li><strong>Leucine</strong> activates mTOR, partially working downstream of myostatin inhibition</li>
+<li><strong>Omega-3 fatty acids</strong> may modulate inflammatory pathways that interact with myostatin signaling</li>
+<li><strong>Adequate vitamin D</strong> supports muscle function and may interact with the myostatin pathway</li>
+</ul>
+<h3 id="4-the-future-is-coming">4. The Future Is Coming</h3>
+<p>Pharmaceutical myostatin inhibitors are in development. Companies like Regeneron, Amgen, and others have active programs. Within 5-10 years, we may see approved myostatin-modulating drugs. For now, focus on maximizing what you can control—training stimulus, nutrition, sleep, and consistency.</p>
+<h2 id="the-bigger-picture">The Bigger Picture</h2>
+<p>Myostatin research represents a paradigm shift in how we think about muscle building. Rather than accepting genetic limits, we're entering an era where those limits might be pushed back through targeted intervention. Even for natural lifters, understanding this pathway provides hope and explains why certain training approaches work.</p>
+<p>The key insight isn't that you need pharmaceutical intervention—it's that your body has natural mechanisms that can be optimized through proper training and nutrition. Every rep with proper form, every night of quality sleep, every gram of protein—you're not just building muscle; you're signaling your body that muscle growth is the priority.</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Myostatin is real, and it does limit muscle growth. But the same training principles that have always worked—progressive overload, adequate volume, proper recovery—work by partially overriding this limit naturally. The pharmaceutical future looks promising, but the fundamentals still apply. Train smart, eat well, and trust the process.</p>
+<hr>
+<p><em>References:</em></p>
+<ul>
+<li>Frontiers in Neurology (2025). "Myostatin inhibition with orally administered Lactobacillus casei"</li>
+<li>UConn Today (2025). "Next Generation of Weight Loss Drugs"</li>
+<li>MDPI (2025). "Myostatin Modulation in Spinal Muscular Atrophy"</li>
+<li>Regeneron COURAGE Trial (2025-2026)</li>
+</ul>
+<hr>
+<p><em>Track your genetic potential with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-to-failure-proximity",{"href":"/blog/training-to-failure-proximity","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training to Failure: What Science Says About Proximity to Failure"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New meta-analysis reveals training closer to failure helps muscle growth but isn't necessary for strength gains. Here's what the research means for your training."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","cortisol-muscle-growth-stress-hormone",{"href":"/blog/cortisol-muscle-growth-stress-hormone","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cortisol and Muscle Growth: The Hidden Killer of Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Chronic stress and elevated cortisol can silently sabotage your muscle-building efforts. Here's what science says about managing this hormonal beast."}]]}],["$","$Ld","estrogen-muscle-building-hormone-science",{"href":"/blog/estrogen-muscle-building-hormone-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Estrogen and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and your training outcomes."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

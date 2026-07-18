@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb32,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period#webpage","url":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period","name":"The Muscle Protein Synthesis Refractory Period: How Often Can You Maximize Growth?","description":"Research reveals a 3-4 hour refractory period between muscle protein synthesis bouts. Learn how to optimize your protein timing for maximum hypertrophy.","breadcrumb":{"@id":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period#webpage"},"headline":"The Muscle Protein Synthesis Refractory Period: How Often Can You Maximize Growth?","description":"Research reveals a 3-4 hour refractory period between muscle protein synthesis bouts. Learn how to optimize your protein timing for maximum hypertrophy.","isAccessibleForFree":true,"wordCount":979,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Muscle Protein Synthesis Refractory Period: How Often Can You Maximize Growth?","item":"https://jacked.coach/blog/muscle-protein-synthesis-refractory-period"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Muscle Protein Synthesis Refractory Period: How Often Can You Maximize Growth?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Research reveals a 3-4 hour refractory period between muscle protein synthesis bouts. Learn how to optimize your protein timing for maximum hypertrophy."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Muscle%20Protein%20Synthesis%20Refractory%20Period%3A%20How%20Often%20Can%20You%20Maximize%20Growth%3F&url=https://jacked.coach/blog/muscle-protein-synthesis-refractory-period","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-the-mps-refractory-period",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-the-mps-refractory-period","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is the MPS Refractory Period?"}]}],["$","li","the-science-how-long-is-the-refractory-period",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-how-long-is-the-refractory-period","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: How Long Is the Refractory Period?"}]}],["$","li","the-muscle-full-concept-explained",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-muscle-full-concept-explained","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The \"Muscle Full\" Concept Explained"}]}],["$","li","practical-implications-for-your-protein-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-implications-for-your-protein-timing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Implications for Your Protein Timing"}]}],["$","li","the-3-4-hour-rule",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-3-4-hour-rule","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The 3-4 Hour Rule"}]}],["$","li","training-modifies-the-refractory-period",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#training-modifies-the-refractory-period","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Training Modifies the Refractory Period"}]}],["$","li","can-you-train-the-same-muscle-twice-a-day",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#can-you-train-the-same-muscle-twice-a-day","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Can You Train the Same Muscle Twice a Day?"}]}],["$","li","optimal-daily-protein-distribution",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-daily-protein-distribution","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Daily Protein Distribution"}]}],["$","li","key-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#key-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Key Takeaways"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#references","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"References"}]}]]}]]}]
+e:T1edb,<p>If you've ever wondered whether spreading protein throughout the day is better than cramming it all into one meal, or whether training the same muscle group twice daily might double your gains, science has some clear answers. The concept of the <strong>muscle protein synthesis (MPS) refractory period</strong> — often called the "muscle full" phenomenon — explains exactly how often you can maximally stimulate muscle growth.</p>
+<h2 id="what-is-the-mps-refractory-period">What Is the MPS Refractory Period?</h2>
+<p>After you eat protein or train, your muscles enter a state of elevated protein synthesis. But here's the crucial part: your muscles can't stay in this maximized state indefinitely. After a certain period, they become temporarily unresponsive to further anabolic stimuli — this is the refractory period.</p>
+<p>Think of it like a battery that needs time to recharge. You can drain it (through training and daily activities), charge it up (through protein intake), but there's a limit to how much you can charge it again before it needs to discharge first.</p>
+<h2 id="the-science-how-long-is-the-refractory-period">The Science: How Long Is the Refractory Period?</h2>
+<p>Research published in <em>Frontiers in Nutrition</em> (2024) characterizes this limited duration response as a "refractory period when MPS appears to be unresponsive to normal activation signals" [1].</p>
+<p>More specifically, a 2024 review from Technology Networks explains that this refractory period lasts approximately <strong>3–4 hours</strong> before MPS can be activated again [2]. This means:</p>
+<ul>
+<li>After consuming ~20-25g of high-quality protein (which maximizes MPS in young adults)</li>
+<li>Your muscles are "full" for about 3-4 hours</li>
+<li>After this window, you can stimulate MPS again</li>
+</ul>
+<p>The seminal research from Cell Reports Medicine (2023) demonstrated that 20-25g of protein is sufficient to maximize post-exercise MPS in healthy young adults, with no further increase when larger amounts are consumed [3]. This established the "muscle full" concept — anything beyond this threshold gets oxidized for energy or used for other bodily functions rather than muscle building.</p>
+<h2 id="the-muscle-full-concept-explained">The "Muscle Full" Concept Explained</h2>
+<p>The "muscle full" concept, originally proposed by researchers studying protein metabolism, describes the quantitative limitation on how much amino acids can be incorporated into contractile muscle protein during periods of hyperaminoacidemia (elevated blood amino acids).</p>
+<p>Key findings from MDPI Nutrients (2013) show this limitation is <strong>modulated by physical activity</strong>: [4]</p>
+<ul>
+<li><strong>Muscle inactivity</strong> narrows the limitation (less ability to build muscle)</li>
+<li><strong>Muscle activity</strong> (training) expands the limitation (greater muscle-building capacity)</li>
+</ul>
+<p>This is why training makes you more "anabolic sensitive" — your muscles become better at absorbing and incorporating protein when you've actually challenged them.</p>
+<h2 id="practical-implications-for-your-protein-timing">Practical Implications for Your Protein Timing</h2>
+<h3 id="the-3-4-hour-rule">The 3-4 Hour Rule</h3>
+<p>Based on the refractory period research, here's what optimal protein timing looks like:</p>
+<ol>
+<li><strong>Consume 20-40g of protein</strong> (depending on body size; ~0.25-0.3g/kg per meal)</li>
+<li><strong>Wait 3-4 hours</strong> before consuming more protein</li>
+<li><strong>Repeat</strong> 3-4 times throughout the day</li>
+</ol>
+<p>This approach maximizes the number of "MPS pulses" you can achieve daily. If you eat all your protein in one meal, you're leaving potential growth on the table.</p>
+<h3 id="training-modifies-the-refractory-period">Training Modifies the Refractory Period</h3>
+<p>Here's where it gets interesting: training extends the anabolic window. When you train, you're not just breaking down muscle — you're creating a state where your muscles are more receptive to protein for longer periods.</p>
+<p>A 2025 review from Fit Beside Health confirms that "this response only lasts about 24-48 hours after training" for the overall muscle remodeling process [5]. This means:</p>
+<ul>
+<li><strong>Post-workout</strong>: Your muscles are maximally anabolic for up to 48 hours</li>
+<li><strong>During this window</strong>: More protein is directed toward muscle repair and growth</li>
+<li><strong>The refractory period still applies</strong>: But the baseline "ceiling" of potential growth is higher</li>
+</ul>
+<h3 id="can-you-train-the-same-muscle-twice-a-day">Can You Train the Same Muscle Twice a Day?</h3>
+<p>This is where the refractory period becomes crucial. While training does increase anabolic sensitivity, there's still a practical limit:</p>
+<ul>
+<li><strong>Training creates damage</strong> that requires recovery</li>
+<li><strong>Neural fatigue</strong> accumulates with excessive volume</li>
+<li><strong>The MPS refractory period</strong> still operates (~3-4 hours between "pulses")</li>
+</ul>
+<p>For most people, training the same muscle group twice daily provides diminishing returns and increases injury risk. The exception might be very advanced athletes using specialized protocols, but for 99% of trainees, once-daily training with optimal protein distribution is superior.</p>
+<h2 id="optimal-daily-protein-distribution">Optimal Daily Protein Distribution</h2>
+<p>Based on combining the refractory period science with practical meal patterns:</p>
+<p>| Meals per Day | Protein per Meal | Timing Strategy |
+|---------------|------------------|-----------------|
+| 3 meals | 30-40g each | Every 4-5 hours while awake |
+| 4 meals | 25-30g each | Every 3-4 hours while awake |
+| 5 meals | 20-25g each | Every 2-3 hours while awake |</p>
+<p>The total daily protein (1.6-2.2g/kg body weight) matters more than exact timing, but distribution does provide a modest advantage.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li>
+<p><strong>The MPS refractory period lasts ~3-4 hours</strong> — after this window, you can stimulate muscle protein synthesis again</p>
+</li>
+<li>
+<p><strong>"Muscle full" is real</strong> — consuming more than 20-25g protein per meal doesn't proportionally increase MPS in untrained states</p>
+</li>
+<li>
+<p><strong>Training extends anabolic capacity</strong> — worked muscles can utilize more protein, supporting the importance of protein intake post-workout</p>
+</li>
+<li>
+<p><strong>Spread protein throughout the day</strong> — 3-4 meals spaced 3-4 hours apart maximizes daily MPS pulses</p>
+</li>
+<li>
+<p><strong>Don't overcomplicate it</strong> — total daily protein intake remains the most important factor; timing provides incremental benefits</p>
+</li>
+</ol>
+<hr>
+<h3 id="references">References</h3>
+<p>[1] Frontiers in Nutrition (2024). "Impacts of protein quantity and distribution on body composition." https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1388986</p>
+<p>[2] Technology Networks (2024). "Dietary Protein and Exercise for Skeletal Muscle Health." https://www.technologynetworks.com/proteomics/articles/the-importance-of-dietary-protein-and-exercise-for-skeletal-muscle-health-392691</p>
+<p>[3] Cell Reports Medicine (2023). "The anabolic response to protein ingestion during recovery from exercise has no upper limit in magnitude and duration in vivo in humans." https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00540-2</p>
+<p>[4] MDPI Nutrients (2013). "Influence of Amino Acids, Dietary Protein, and Physical Activity on Muscle Mass Development in Humans." https://www.mdpi.com/2072-6643/5/3/852</p>
+<p>[5] Fit Beside Health (2025). "The Complete Guide to Hypertrophy Training." https://fitbesideshealth.com/hypertrophy-training/</p>
+<hr>
+<p><em>Track your MPS with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","circadian-rhythm-training-time-muscle-growth",{"href":"/blog/circadian-rhythm-training-time-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Time of Day: How Circadian Rhythms Affect Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science reveals your body's internal clock significantly impacts strength, muscle protein synthesis, and training adaptations. Here's how to optimize your workout timing."}]]}],["$","$Ld","mtor-leucine-threshold-2026",{"href":"/blog/mtor-leucine-threshold-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"mTOR Activation: The Science Behind Your Muscle-Building Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."}]]}],["$","$Ld","pre-sleep-protein-casein-muscle-growth-2026",{"href":"/blog/pre-sleep-protein-casein-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Pre-Sleep Protein: The Overnight Muscle Building Secret"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows 20-40g of casein 30 minutes before bed can boost overnight muscle protein synthesis by up to 22%. Here's how to optimize your nighttime nutrition for maximum muscle growth."}]]}],["$","$Ld","gut-microbiome-muscle-building-probiotics-2026",{"href":"/blog/gut-microbiome-muscle-building-probiotics-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Gut-Muscle Axis: How Your Microbiome Affects Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals the powerful connection between your gut microbiome and muscle protein synthesis. Could probiotics be the next supplement in your stack?"}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

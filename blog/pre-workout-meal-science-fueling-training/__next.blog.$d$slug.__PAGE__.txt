@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tac2,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training#webpage","url":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training","name":"Pre-Workout Meal Science: How to Fuel Your Training for Maximum Gains","description":"The science behind what, when, and how much to eat before training. Skip the guesswork and fuel your workouts properly.","breadcrumb":{"@id":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training#webpage"},"headline":"Pre-Workout Meal Science: How to Fuel Your Training for Maximum Gains","description":"The science behind what, when, and how much to eat before training. Skip the guesswork and fuel your workouts properly.","isAccessibleForFree":true,"wordCount":836,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Pre-Workout Meal Science: How to Fuel Your Training for Maximum Gains","item":"https://jacked.coach/blog/pre-workout-meal-science-fueling-training"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Pre-Workout Meal Science: How to Fuel Your Training for Maximum Gains"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The science behind what, when, and how much to eat before training. Skip the guesswork and fuel your workouts properly."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Pre-Workout%20Meal%20Science%3A%20How%20to%20Fuel%20Your%20Training%20for%20Maximum%20Gains&url=https://jacked.coach/blog/pre-workout-meal-science-fueling-training","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-two-pre-workout-meal-windows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-two-pre-workout-meal-windows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Two Pre-Workout Meal Windows"}]}],["$","li","what-actually-works-the-macronutrient-formula",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-works-the-macronutrient-formula","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Works: The Macronutrient Formula"}]}],["$","li","practical-pre-workout-meal-examples",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-pre-workout-meal-examples","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Pre-Workout Meal Examples"}]}],["$","li","pre-workout-meal-mistakes-to-avoid",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#pre-workout-meal-mistakes-to-avoid","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Pre-Workout Meal Mistakes to Avoid"}]}],["$","li","what-about-fasted-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-about-fasted-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What About Fasted Training?"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1802,<p>The pre-workout meal is one of the most debated topics in fitness nutrition. Should you train fasted? Eat a huge meal hours before? Grab something right before walking into the gym? The answers matter — get it wrong and you're either dragging through your sets or dealing with nausea mid-set.</p>
+<p>Here's what the science actually says.</p>
+<h2 id="the-two-pre-workout-meal-windows">The Two Pre-Workout Meal Windows</h2>
+<p>Research consistently shows two effective timing windows for pre-workout nutrition, and neither involves training completely fasted (unless you're doing low-intensity cardio, which is a different conversation).</p>
+<p><strong>Window 1: 2-4 hours before training</strong></p>
+<p>This is the "big meal" window. Eat a complete meal with carbs, protein, and moderate fat 2-4 hours before your workout. This gives your body time to digest and ensures you're not fighting digestion during training.</p>
+<p>A study in the <em>Journal of the International Society of Sports Nutrition</em> found that training 3 hours after a mixed meal produced better performance than training fasted or just 1 hour after eating. The 3-hour window allowed for proper gastric emptying while maintaining blood glucose levels throughout the session.</p>
+<p><strong>Window 2: 30-60 minutes before training</strong></p>
+<p>This is the "small snack" window. When you're short on time or training early in the morning, a quickly digestible snack 30-60 minutes before can provide immediate energy without causing discomfort.</p>
+<p>Research from Cui &#x26; Krayesky-Self (2022) supports using simple carbohydrates 30 minutes before exercise for quick energy. Pair this with a small amount of protein — a study in <em>Frontiers in Nutrition</em> (2024) found that consuming protein pre-workout induces a significant rise in muscle protein synthesis (MPS).</p>
+<h2 id="what-actually-works-the-macronutrient-formula">What Actually Works: The Macronutrient Formula</h2>
+<p>Your pre-workout meal needs three things:</p>
+<p><strong>Carbohydrates</strong> are the primary fuel source for high-intensity training. They top off glycogen stores and provide immediate energy. Research shows carb consumption before training improves performance in sets lasting more than 60 seconds — which describes most hypertrophy work.</p>
+<p><strong>Protein</strong> matters more than most people think. While the "anabolic window" is largely a myth, consuming 20-40g of protein before training does stimulate MPS. The 2024 Frontiers study confirmed pre-workout protein raises amino acid availability during training, supporting muscle building.</p>
+<p><strong>Fat</strong> is the wildcard. Some fat is fine in a meal eaten 3+ hours before training. But avoid large amounts of fat close to your workout — fat slows gastric emptying and can leave you feeling heavy and sluggish.</p>
+<h2 id="practical-pre-workout-meal-examples">Practical Pre-Workout Meal Examples</h2>
+<p><strong>The big meal (2-4 hours before):</strong></p>
+<ul>
+<li>Chicken breast or lean beef with rice and vegetables</li>
+<li>Oatmeal with whey protein and banana</li>
+<li>Turkey and sweet potato</li>
+<li>Greek yogurt with granola and fruit</li>
+</ul>
+<p><strong>The quick snack (30-60 minutes before):</strong></p>
+<ul>
+<li>Banana with small protein shake</li>
+<li>Rice cakes with peanut butter</li>
+<li>Small cup of Greek yogurt</li>
+<li>A piece of fruit with 10g whey</li>
+</ul>
+<h2 id="pre-workout-meal-mistakes-to-avoid">Pre-Workout Meal Mistakes to Avoid</h2>
+<p><strong>Mistake 1: Eating too close to training</strong></p>
+<p>Eating a large meal within 30 minutes of training is a recipe for disaster. Blood flow gets diverted to digestion instead of your muscles, you risk nausea, and performance suffers. If you only have 30 minutes, stick to liquid or easily digestible carbs.</p>
+<p><strong>Mistake 2: Too much fiber</strong></p>
+<p>That massive bowl of bran cereal might be healthy, but the fiber will betray you during your squat session. High-fiber foods cause bloating and gas — not ideal when you're trying to set a PR. Save the fiber for post-workout.</p>
+<p><strong>Mistake 3: Trying new foods</strong></p>
+<p>Never experiment with a new pre-workout meal on competition day or when you have an important training session. Your body might react unpredictably. Stick with what you know works.</p>
+<p><strong>Mistake 4: Ignoring individual tolerance</strong></p>
+<p>Some people can eat a full meal and train 90 minutes later. Others need to be fasted. Your digestive system is unique. Experiment to find what works for you, then stick with it.</p>
+<h2 id="what-about-fasted-training">What About Fasted Training?</h2>
+<p>Training in a fasted state — usually morning before breakfast — has gained popularity thanks to intermittent fasting. The theory: lower insulin allows better fat oxidation, and growth hormone is elevated overnight.</p>
+<p>The reality: for strength training and hypertrophy, fasted training typically underperforms. Your central nervous system needs glucose, and glycogen depletion limits intensity. Studies consistently show better strength and power performance with pre-workout carbs.</p>
+<p>If you prefer fasted training for personal reasons (digestive comfort, schedule), it's not catastrophic. But don't expect optimal performance or maximal muscle growth from it.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<ul>
+<li><strong>2-4 hours before</strong>: Complete meal with carbs, protein, moderate fat</li>
+<li><strong>30-60 minutes before</strong>: Small, quickly digestible carb + protein snack</li>
+<li><strong>What matters most</strong>: Carbs for energy, protein for muscle synthesis, avoid fat and fiber close to training</li>
+<li><strong>Know your body</strong>: Experiment to find your tolerance window</li>
+</ul>
+<p>Don't overthink this. Get some quality carbs and protein in before training, give yourself enough time to digest, and crush your workout. The gains come from training hard — and you can only train hard when you're properly fueled.</p>
+<hr>
+<p><em>Track your pre-workout nutrition with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","exercise-order-hypertrophy-programming",{"href":"/blog/exercise-order-hypertrophy-programming","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Exercise Order: The Programming Variable Nobody Talks About"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over sets, reps, and weight — but what you do first in your workout matters more than you think. Here's the science behind exercise order and how to program it for maximum gains."}]]}],["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","muscle-memory-science-gains",{"href":"/blog/muscle-memory-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science Behind Why Your Gains Stick"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."}]]}],["$","$Ld","dynamic-warm-up-strength-training-science",{"href":"/blog/dynamic-warm-up-strength-training-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Dynamic Warm-Ups for Strength Training"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Why static stretching kills your gains—and what the research says about the optimal warm-up routine for maximum performance and injury prevention."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

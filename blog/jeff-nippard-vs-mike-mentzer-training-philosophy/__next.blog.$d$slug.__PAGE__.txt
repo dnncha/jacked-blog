@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb3a,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy#webpage","url":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy","name":"Jeff Nippard vs Mike Mentzer: The Training Philosophy Battle Explained","description":"Two radically different approaches to building muscle — science-based high volume versus high-intensity minimalism. We break down which actually works.","breadcrumb":{"@id":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy#webpage"},"headline":"Jeff Nippard vs Mike Mentzer: The Training Philosophy Battle Explained","description":"Two radically different approaches to building muscle — science-based high volume versus high-intensity minimalism. We break down which actually works.","isAccessibleForFree":true,"wordCount":964,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Jeff Nippard vs Mike Mentzer: The Training Philosophy Battle Explained","item":"https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Jeff Nippard vs Mike Mentzer: The Training Philosophy Battle Explained"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Two radically different approaches to building muscle — science-based high volume versus high-intensity minimalism. We break down which actually works."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Jeff%20Nippard%20vs%20Mike%20Mentzer%3A%20The%20Training%20Philosophy%20Battle%20Explained&url=https://jacked.coach/blog/jeff-nippard-vs-mike-mentzer-training-philosophy","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-high-volume-approach-nippard-and-israetel",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-high-volume-approach-nippard-and-israetel","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The High-Volume Approach: Nippard and Israetel"}]}],["$","li","the-high-intensity-approach-mike-mentzer-s-heavy-duty",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-high-intensity-approach-mike-mentzer-s-heavy-duty","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The High-Intensity Approach: Mike Mentzer's Heavy Duty"}]}],["$","li","what-the-science-actually-says-in-2026",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-science-actually-says-in-2026","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Science Actually Says in 2026"}]}],["$","li","the-real-difference-recovery-capacity",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-real-difference-recovery-capacity","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Real Difference: Recovery Capacity"}]}],["$","li","practical-takeaways-which-approach-is-right-for-you",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-takeaways-which-approach-is-right-for-you","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Takeaways: Which Approach Is Right for You?"}]}],["$","li","the-synthesis-it-doesn-t-have-to-be-binary",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-synthesis-it-doesn-t-have-to-be-binary","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Synthesis: It Doesn't Have to Be Binary"}]}]]}]]}]
+e:T1cdb,<p>The fitness internet is divided. On one side, Jeff Nippard and Dr. Mike Israetel advocates pushing 10-20 sets per muscle group per week. On the other, Mike Mentzer's Heavy Duty preaches one set to failure — and nothing more. Both claim science backs them. Both have passionate followers. Who's right?</p>
+<p>The answer: both are — under different circumstances. Let's unpack what each approach actually teaches, what the research says in 2025-2026, and how to pick the right one for your situation.</p>
+<h2 id="the-high-volume-approach-nippard-and-israetel">The High-Volume Approach: Nippard and Israetel</h2>
+<p>Jeff Nippard built his empire on what he calls "evidence-based bodybuilding." His training programs typically feature 10-20 sets per muscle group per week, spread across multiple sessions, with careful attention to progressive overload and time under tension.</p>
+<p>Dr. Mike Israetel, co-founder of Renaissance Periodization, pushes this even further with his concept of "volume landmarks" — minimum effective volume (MEV), maximum recoverable volume (MRV), and the optimal range in between. His philosophy: you need significant mechanical tension through sufficient total work to maximize muscle growth.</p>
+<p><strong>Key principles of the high-volume approach:</strong></p>
+<ul>
+<li>Multiple sets (typically 3-5 per exercise)</li>
+<li>6-12+ exercises per workout</li>
+<li>Training frequency of 4-6 days per week</li>
+<li>Progressive overload as the primary driver</li>
+<li>RPE 7-9 for most working sets, failure reserved for final sets</li>
+</ul>
+<p>The 2021 Journal of Applied Physiology meta-analysis that Mike Mentzer supporters cite actually showed that single-set training produces similar strength gains to multiple sets — but muscle <em>size</em> favored higher volumes in trained individuals. A 2024 update from the same research group confirmed: volume is the primary driver of hypertrophy when intensity is held constant.</p>
+<h2 id="the-high-intensity-approach-mike-mentzer-s-heavy-duty">The High-Intensity Approach: Mike Mentzer's Heavy Duty</h2>
+<p>Mike Mentzer revolutionized training in the 1980s with his "Heavy Duty" philosophy — one set per exercise, taken to absolute failure, with longer rest periods (2-3 minutes) and lower frequency (2-3 workouts per week).</p>
+<p><strong>Key principles of Heavy Duty:</strong></p>
+<ul>
+<li>One working set per exercise to failure</li>
+<li>4-6 exercises per workout maximum</li>
+<li>Training frequency of 2-3 times per week</li>
+<li>Focus on intensity over volume</li>
+<li>Longer rest periods to enable maximal effort</li>
+<li>Short, intense sessions (30-45 minutes)</li>
+</ul>
+<p>Recent 2025 coverage in <em>Men's Health UK</em> and <em>Well Built Human</em> has revisited Heavy Duty with fresh eyes. The approach shows particular promise for:</p>
+<ul>
+<li>Time-crunched professionals</li>
+<li>Lifters over 40</li>
+<li>Those recovering from injury</li>
+<li>Anyone prone to overtraining</li>
+</ul>
+<h2 id="what-the-science-actually-says-in-2026">What the Science Actually Says in 2026</h2>
+<p>Here's where it gets interesting: recent research suggests <strong>both approaches work, but for different people and goals.</strong></p>
+<p>A 2025 systematic review in <em>Sports Medicine</em> found:</p>
+<ol>
+<li><strong>Beginners</strong>: Low-volume, high-intensity works surprisingly well — possibly because beginners haven't yet hit the neurological ceiling and respond well to any mechanical tension</li>
+<li><strong>Intermediate lifters</strong>: Higher volumes tend to win for pure hypertrophy, but there's a clear ceiling</li>
+<li><strong>Advanced lifters</strong>: Volume becomes less important; intensity, exercise selection, and recovery quality matter more</li>
+<li><strong>Time-constrained individuals</strong>: One all-out set produces 80% of the hypertrophy benefit of multiple sets in about 20% of the time</li>
+</ol>
+<p>The 2021 Journal of Applied Physiology data that Mentzer fans cite showed a 10.6% strength gain for single-set training versus 14.5% for multiple sets — a meaningful difference, but not the blowout you'd expect from the online debates.</p>
+<h2 id="the-real-difference-recovery-capacity">The Real Difference: Recovery Capacity</h2>
+<p>The honest truth is that most people can recover from both approaches. The difference is <strong>individual recovery capacity</strong> — and that's determined by:</p>
+<ul>
+<li><strong>Training age</strong>: More experienced lifters typically need more volume to stimulate new growth</li>
+<li><strong>Sleep and nutrition</strong>: You can't recover from high volumes if you're underfueled</li>
+<li><strong>Stress outside the gym</strong>: Life stress impacts recovery more than most people realize</li>
+<li><strong>Genetics</strong>: Some people genuinely thrive on low volume; others need more stimulus</li>
+</ul>
+<p>Dr. Mike Israetel's volume landmark system is essentially an admission of this: start low, increase until you hit the "maximum recoverable volume," then back off. Jeff Nippard's programs work because they're designed around what works for the <em>average</em> person — but he's also the first to tell you to adjust based on your response.</p>
+<h2 id="practical-takeaways-which-approach-is-right-for-you">Practical Takeaways: Which Approach Is Right for You?</h2>
+<p><strong>Choose the high-volume approach (Nippard/Israetel style) if:</strong></p>
+<ul>
+<li>You train 4-6 days per week consistently</li>
+<li>You can eat and sleep adequately (8+ hours, 2000+ calories above maintenance)</li>
+<li>You're an intermediate lifter (1-3 years of consistent training)</li>
+<li>You're trying to maximize muscle size for competition</li>
+<li>You enjoy the gym and want to spend more time there</li>
+</ul>
+<p><strong>Choose the high-intensity approach (Heavy Duty) if:</strong></p>
+<ul>
+<li>You only have 2-3 days per week available</li>
+<li>You're a beginner (first 6-12 months)</li>
+<li>You're over 40 and recovery is slower</li>
+<li>You've been overtraining on high-volume programs</li>
+<li>You prefer shorter, more intense sessions</li>
+<li>You're coming back from injury</li>
+</ul>
+<h2 id="the-synthesis-it-doesn-t-have-to-be-binary">The Synthesis: It Doesn't Have to Be Binary</h2>
+<p>Here's what the fitness industry doesn't want to admit: you can periodize between these approaches. Many successful bodybuilders use high-volume phases during off-season (when recovery is prioritized) and switch to shorter, more intense sessions during prep (when calories are restricted and recovery capacity is lower).</p>
+<p>The real enemy isn't choosing the wrong philosophy — it's <strong>analysis paralysis</strong>. Pick an approach, commit to it for 8-12 weeks, assess your results, and adjust. Both Nippard-style volume and Mentzer-style intensity will build muscle if you apply them consistently and recover properly.</p>
+<p>The best program is the one you'll actually do.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Journal of Applied Physiology, 2021: Single vs. multiple set training meta-analysis</li>
+<li>Sports Medicine, 2025: Systematic review on volume/intensity for hypertrophy</li>
+<li>Well Built Human, March 2025: "Heavy Duty Training in 2025"</li>
+<li>Men's Health UK, September 2025: "Mike Mentzer's Training Legacy"</li>
+</ul>
+<hr>
+<p><em>Track your training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","influencer-training-programs-science-analysis",{"href":"/blog/influencer-training-programs-science-analysis","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Influencer Training Programs Decoded: What Science Says About Jeff Nippard, Mike Mentzer, and Competing Systems"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"We analyze the training methodologies of fitness YouTubers through the lens of current research. Which approaches actually build muscle, and which are overhyped?"}]]}],["$","$Ld","mike-mentzer-heavy-duty-training-science-2026",{"href":"/blog/mike-mentzer-heavy-duty-training-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mike Mentzer's Heavy Duty Training: Does High-Intensity Actually Work in 2026?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"One set to failure, maximum intensity, minimal volume — Mike Mentzer's Heavy Duty method divided the bodybuilding world. Here's what science says in 2026."}]]}],["$","$Ld","training-split-science-hypertrophy",{"href":"/blog/training-split-science-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Training Splits: Which One Actually Works Best for Muscle Growth?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Full body, upper/lower, PPL, or bro split? We break down the research on training frequency and volume to find the optimal split for hypertrophy."}]]}],["$","$Ld","compound-vs-isolation-hypertrophy-science",{"href":"/blog/compound-vs-isolation-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

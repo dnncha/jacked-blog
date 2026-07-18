@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tafe,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science#webpage","url":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science","name":"Estrogen and Muscle Building: What Science Actually Says in 2026","description":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and you...","breadcrumb":{"@id":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science#webpage"},"headline":"Estrogen and Muscle Building: What Science Actually Says in 2026","description":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and you...","isAccessibleForFree":true,"wordCount":973,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Estrogen and Muscle Building: What Science Actually Says in 2026","item":"https://jacked.coach/blog/estrogen-muscle-building-hormone-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Estrogen and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and your training outcomes."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Estrogen%20and%20Muscle%20Building%3A%20What%20Science%20Actually%20Says%20in%202026&url=https://jacked.coach/blog/estrogen-muscle-building-hormone-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","estrogen-s-role-in-muscle-not-what-you-think",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#estrogen-s-role-in-muscle-not-what-you-think","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Estrogen's Role in Muscle: Not What You Think"}]}],["$","li","the-menstrual-cycle-myth-debunked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-menstrual-cycle-myth-debunked","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Menstrual Cycle Myth: Debunked"}]}],["$","li","what-this-means-for-female-athletes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-this-means-for-female-athletes","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What This Means for Female Athletes"}]}],["$","li","estrogen-in-men-the-forgotten-anabolic-hormone",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#estrogen-in-men-the-forgotten-anabolic-hormone","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Estrogen in Men: The Forgotten Anabolic Hormone"}]}],["$","li","practical-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Takeaways"}]}],["$","li","for-women",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-women","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Women"}]}],["$","li","for-men",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-men","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Men"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1f11,<p>For decades, lifters have worried about estrogen's impact on muscle building. High estrogen in men被认为会削弱力量。Female athletes have wondered whether their menstrual cycles sabotage their gains. The conventional wisdom: estrogen is catabolic, ruins gains, and needs to be suppressed or managed.</p>
+<p>But 2025-2026 research tells a different story. Let's look at what estrogen actually does for your muscles—and why ignoring this hormone might be costing you gains.</p>
+<h2 id="estrogen-s-role-in-muscle-not-what-you-think">Estrogen's Role in Muscle: Not What You Think</h2>
+<p>Estrogen is typically framed as the "female hormone," but it plays critical roles in male physiology too. In fact, aromatize converts testosterone to estrogen in men—so ignoring estrogen means ignoring a major player in your anabolic physiology.</p>
+<p><strong>Here's what estrogen actually does for muscle:</strong></p>
+<ol>
+<li>
+<p><strong>Enhances muscle protein synthesis</strong> — Estrogen receptors exist on skeletal muscle fibers. When activated, they stimulate muscle protein synthesis pathways, particularly through the mTOR cascade.</p>
+</li>
+<li>
+<p><strong>Reduces muscle damage</strong> — Estrogen has anti-inflammatory properties that protect muscle fibers from exercise-induced damage. This means faster recovery between sessions.</p>
+</li>
+<li>
+<p><strong>Supports satellite cell function</strong> — Satellite cells are your muscle's repair cells. Estrogen enhances their activation and fusion with damaged muscle fibers.</p>
+</li>
+<li>
+<p><strong>Improves muscle quality</strong> — Research shows estrogen doesn't just increase muscle size—it may improve force production per unit of muscle tissue.</p>
+</li>
+</ol>
+<p>A 2013 Journal of Applied Physiology review (still the landmark paper on this topic) found that estrogen enhances both muscle mass maintenance and exercise-induced hypertrophy. The mechanisms go beyond simply increasing contractile proteins—estrogen appears to improve the <em>quality</em> of muscle tissue itself.</p>
+<h2 id="the-menstrual-cycle-myth-debunked">The Menstrual Cycle Myth: Debunked</h2>
+<p>One of the most persistent beliefs in fitness is that women's muscles become "weaker" during certain phases of their menstrual cycle. The theory: estrogen and progesterone fluctuations create an anabolic environment in the follicular phase and a catabolic one during the luteal phase.</p>
+<p><strong>2024-2025 research says otherwise.</strong></p>
+<p>A landmark study published in The Journal of Physiology (December 2024) directly tested this hypothesis. Researchers measured muscle protein synthesis and myofibrillar protein breakdown in women across different menstrual cycle phases in response to resistance exercise.</p>
+<p><strong>Results:</strong> No significant differences. The menstrual cycle phase did not influence muscle protein synthesis rates or muscle protein breakdown in response to resistance training. The follicular phase was not more "anabolic" than the luteal phase.</p>
+<p>This aligns with a 2024 systematic review in <em>Sports Medicine</em> that concluded: "Current evidence does not support the notion that menstrual cycle phase significantly impacts resistance training adaptations in women."</p>
+<h3 id="what-this-means-for-female-athletes">What This Means for Female Athletes</h3>
+<p>Stop timing your workouts around your cycle. The physiological differences across phases are real (energy levels, perceived exertion, water retention), but muscle protein synthesis remains consistent. Your ability to build muscle does not tank during the luteal phase.</p>
+<p>What <em>does</em> matter:</p>
+<ul>
+<li>Total weekly volume</li>
+<li>Protein intake</li>
+<li>Sleep quality</li>
+<li>Progressive overload</li>
+</ul>
+<p>These factors dwarf any hormonal fluctuations from your menstrual cycle.</p>
+<h2 id="estrogen-in-men-the-forgotten-anabolic-hormone">Estrogen in Men: The Forgotten Anabolic Hormone</h2>
+<p>Men aromatize roughly 5-10% of their testosterone to estradiol. This isn't a "loss" of testosterone—it's a necessary conversion. Estrogen in men:</p>
+<ul>
+<li>Maintains bone density (which supports heavy lifting)</li>
+<li>Regulates libido (which affects training motivation)</li>
+<li>Modulates the immune response to training stress</li>
+<li>May enhance muscle protein synthesis through different pathways than testosterone</li>
+</ul>
+<p>The key insight: <strong>you need some estrogen to build muscle optimally.</strong> Extremely low estrogen (from aggressive aromatase inhibitor use or severe caloric restriction) can impair recovery and muscle protein synthesis.</p>
+<p>That said, high estrogen in men (often from excess body fat, which aromatizes testosterone) can cause:</p>
+<ul>
+<li>Water retention (hiding muscle definition)</li>
+<li>Increased estrogen receptors in fat cells (more fat storage)</li>
+<li>Potential gynecomastia</li>
+</ul>
+<p>The solution isn't suppressing estrogen entirely—it's maintaining healthy body fat levels so aromatization stays in balance.</p>
+<h2 id="practical-takeaways">Practical Takeaways</h2>
+<h3 id="for-women">For Women</h3>
+<ol>
+<li>
+<p><strong>Don't cycle-sync your training</strong> — Your muscles can grow equally well in any phase. Focus on consistent training instead.</p>
+</li>
+<li>
+<p><strong>Consider estrogen's protective effects</strong> — If you're post-menopausal and not on hormone replacement therapy, know that reduced estrogen increases muscle loss risk. Resistance training becomes even more critical.</p>
+</li>
+<li>
+<p><strong>Eat adequate fat</strong> — Estrogen is synthesized from cholesterol. Extremely low-fat diets can impair hormone production. Aim for 0.4-0.5g per pound of body weight.</p>
+</li>
+<li>
+<p><strong>Monitor if on oral contraceptives</strong> — Some research suggests oral contraceptives may slightly blunt muscle protein synthesis responses. This doesn't mean you shouldn't use them—it means be extra consistent with training and nutrition.</p>
+</li>
+</ol>
+<h3 id="for-men">For Men</h3>
+<ol>
+<li>
+<p><strong>Don't fear aromatization</strong> — Your body converts testosterone to estrogen for reasons. Don't aggressively suppress this unless medically necessary.</p>
+</li>
+<li>
+<p><strong>Manage body fat</strong> — Aromatization increases with excess adipose tissue. Stay in a healthy body fat range (10-20% for most men) to keep estrogen in the optimal range.</p>
+</li>
+<li>
+<p><strong>Don't crash diet</strong> — Severe caloric restriction tanks estrogen levels, impairing recovery and muscle retention. Slow cuts preserve hormonal health.</p>
+</li>
+<li>
+<p><strong>Consider the age factor</strong> — Men experience a gradual decline in estrogen too (along with testosterone). This contributes to age-related muscle loss. Resistance training mitigates this.</p>
+</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Estrogen isn't your enemy. It's a critical part of the muscle-building equation—for both sexes. The old narrative of estrogen as purely catabolic or detrimental to gains is outdated.</p>
+<p>The biggest factors in muscle growth remain:</p>
+<ul>
+<li>Adequate protein intake (1.6-2.2g/kg bodyweight)</li>
+<li>Sufficient training volume</li>
+<li>Progressive overload</li>
+<li>Sleep and recovery</li>
+<li>Consistency over months and years</li>
+</ul>
+<p>Estrogen supports all of these. Your hormones aren't the bottleneck—your training discipline is.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Pellegrino et al. "Estrogen replacement and skeletal muscle: mechanisms and population health" J Appl Physiol 2013</li>
+<li>Colenso-Semple et al. "Menstrual cycle phase does not influence muscle protein synthesis" J Physiology 2024</li>
+<li>"Hormonal Influences on Skeletal Muscle Function in Women across Life Stages" Sports Medicine Review 2024</li>
+</ul>
+<hr>
+<p><em>Track your hormones and training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","menstrual-cycle-training-muscle-growth",{"href":"/blog/menstrual-cycle-training-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Menstrual Cycle Training: Does Timing Matter for Muscle Growth?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research suggests synchronizing your training with your menstrual cycle could optimize muscle growth. Here's what the science actually says."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","supersets-hypertrophy-science-2026",{"href":"/blog/supersets-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supersets for Hypertrophy: What the Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."}]]}],["$","$Ld","stretch-mediated-hypertrophy-lengthened-partials",{"href":"/blog/stretch-mediated-hypertrophy-lengthened-partials","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

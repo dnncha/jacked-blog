@@ -1,0 +1,271 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tad1,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health#webpage","url":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health","name":"PQQ Supplementation for Muscle Health: Science Review","description":"Does pyrroloquinoline quinone actually build new mitochondria? We examine the research on PQQ and its effects on muscle performance.","breadcrumb":{"@id":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health#webpage"},"headline":"PQQ Supplementation for Muscle Health: Science Review","description":"Does pyrroloquinoline quinone actually build new mitochondria? We examine the research on PQQ and its effects on muscle performance.","isAccessibleForFree":true,"wordCount":1295,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"PQQ Supplementation for Muscle Health: Science Review","item":"https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"PQQ Supplementation for Muscle Health: Science Review"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Does pyrroloquinoline quinone actually build new mitochondria? We examine the research on PQQ and its effects on muscle performance."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=PQQ%20Supplementation%20for%20Muscle%20Health%3A%20Science%20Review&url=https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","introduction",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#introduction","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Introduction"}]}],["$","li","what-is-pqq-beyond-basic-antioxidants",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-pqq-beyond-basic-antioxidants","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What is PQQ? Beyond Basic Antioxidants"}]}],["$","li","the-mitochondrial-biogenesis-pathway",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-mitochondrial-biogenesis-pathway","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Mitochondrial Biogenesis Pathway"}]}],["$","li","research-evidence-what-human-studies-show",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#research-evidence-what-human-studies-show","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Research Evidence: What Human Studies Show"}]}],["$","li","pqq-vs-other-mitochondrial-supplements",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#pqq-vs-other-mitochondrial-supplements","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"PQQ vs. Other Mitochondrial Supplements"}]}],["$","li","practical-applications-for-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications-for-lifters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications for Lifters"}]}],["$","li","conclusions-and-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#conclusions-and-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Conclusions and Recommendations"}]}]]}]]}]
+e:T2c5f,<h2 id="introduction">Introduction</h2>
+<p>In the ever-evolving landscape of sports nutrition, supplements targeting mitochondrial function have gained significant attention. Among these, pyrroloquinoline quinone (PQQ) stands out as a unique compound that goes beyond traditional antioxidant functionality. For lifters seeking every competitive edge, understanding PQQ's mechanisms, research backing, and practical applications becomes essential.</p>
+<p>This article dives deep into the science behind PQQ supplementation, examining what the research actually shows and whether it deserves a place in your supplement stack.</p>
+<h2 id="what-is-pqq-beyond-basic-antioxidants">What is PQQ? Beyond Basic Antioxidants</h2>
+<p>Pyrroloquinoline quinone is a redox-active quinone molecule that was originally mistaken for a novel B-vitamin when first discovered. While subsequent research revealed it doesn't fit the true vitamin definition, this early classification highlighted its essential nature in cellular function.</p>
+<p><strong>Chemical Nature:</strong> PQQ acts as a cofactor for certain bacterial enzymes, but in humans, it functions primarily as a redox-active compound. Unlike traditional antioxidants that simply scavenge free radicals, PQQ participates in redox cycling—meaning it can both accept and donate electrons, allowing it to cycle between oxidized and reduced states.</p>
+<p><strong>Dietary Sources:</strong> You'll find PQQ in fermented foods, kiwifruit, green tea, soybeans, and certain vegetables. However, dietary intake from whole foods is relatively low (typically 0.1-1 mg per day), leading researchers to investigate supplementation as a way to achieve doses shown to have biological effects.</p>
+<p><strong>Tissue Distribution:</strong> PQQ accumulates in mitochondria-rich tissues, particularly the heart and skeletal muscle. This tissue-specific accumulation aligns with its proposed mechanisms affecting cellular energy production.</p>
+<p>The key differentiator that sets PQQ apart from common antioxidants like vitamin C or E is its role as a <strong>signaling molecule</strong>. PQQ directly activates pathways involved in mitochondrial biogenesis—the creation of new mitochondria within cells. This makes it mechanistically distinct from compounds that merely reduce oxidative stress.</p>
+<h2 id="the-mitochondrial-biogenesis-pathway">The Mitochondrial Biogenesis Pathway</h2>
+<p>Understanding PQQ requires understanding mitochondrial biogenesis itself. Your mitochondria are the powerhouses of your cells, converting nutrients into ATP—the energy currency that fuels muscle contractions, protein synthesis, and virtually every cellular process.</p>
+<p><strong>PGC-1α: The Master Regulator</strong></p>
+<p>Peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC-1α) serves as the master regulator of mitochondrial biogenesis. When activated, it triggers a cascade of gene expression that increases mitochondrial density within muscle fibers. More mitochondria mean greater oxidative capacity—the ability to produce energy aerobically.</p>
+<p><strong>PQQ's Activation Pathways</strong></p>
+<p>Research suggests PQQ activates mitochondrial biogenesis through multiple pathways:</p>
+<ol>
+<li>
+<p><strong>AMPK Activation:</strong> PQQ stimulates AMP-activated protein kinase (AMPK), the cellular energy sensor. When ATP levels drop (during exercise), AMPK activates to restore energy balance. PQQ appears to activate AMPK even in resting conditions, providing a constant signal for mitochondrial growth.</p>
+</li>
+<li>
+<p><strong>cAMP-CREB Pathway:</strong> PQQ increases cyclic AMP (cAMP) levels, which activates the CREB (cAMP response element-binding) transcription factor. CREB then promotes PGC-1α expression, driving mitochondrial biogenesis.</p>
+</li>
+<li>
+<p><strong>mTOR Integration:</strong> There's evidence PQQ coordinates with mTOR signaling—the primary pathway for muscle protein synthesis. This integration suggests PQQ might support not just mitochondrial function but overall muscle adaptation to training.</p>
+</li>
+</ol>
+<p>The result of these pathways working in concert is increased mitochondrial density within muscle fibers. More mitochondria translate to improved oxidative capacity, better endurance, and potentially enhanced recovery between intense training sessions.</p>
+<img src="https://mermaid.ink/img/Zmxvd2NoYXJ0IFRECiAgICBBW1BRUSBTdXBwbGVtZW50YXRpb25dIC0tPiBCW0FNUEsgQWN0aXZhdGlvbl0KICAgIEEgLS0-IENbY0FNUC1DUkVCIFBhdGh3YXldCiAgICBBIC0tPiBEW21UT1IgSW50ZWdyYXRpb25dCiAgICAKICAgIEIgLS0-IEVbUEdDLTHOsSBFeHByZXNzaW9uXQogICAgQyAtLT4gRQogICAgRCAtLT4gRQogICAgCiAgICBFIC0tPiBGW01pdG9jaG9uZHJpYWwgQmlvZ2VuZXNpc10KICAgIEYgLS0-IEdbSW5jcmVhc2VkIE1pdG9jaG9uZHJpYWwgRGVuc2l0eV0KICAgIEcgLS0-IEhbSW1wcm92ZWQgT3hpZGF0aXZlIENhcGFjaXR5XQogICAgSCAtLT4gSVtCZXR0ZXIgRW5kdXJhbmNlICYgUmVjb3Zlcnld" alt="Training concept diagram for this article" class="mermaid-diagram" loading="lazy" />
+<h2 id="research-evidence-what-human-studies-show">Research Evidence: What Human Studies Show</h2>
+<p><strong>Key Studies:</strong></p>
+<p>The most frequently cited human research comes from Hwang and colleagues (2018), who gave participants 20mg/day of PQQ. The results showed significant increases in PGC-1α protein content in skeletal muscle of untrained men. This biomarker change demonstrates PQQ does activate the proposed mitochondrial biogenesis pathway in humans.</p>
+<p><strong>Performance Outcomes:</strong></p>
+<p>However, translating biomarker changes into performance improvements has proven more challenging. Studies examining aerobic performance (VO2 max, time to exhaustion) show mixed results. Some research demonstrates modest improvements, while others find no significant effect.</p>
+<p><strong>Combination with Exercise:</strong></p>
+<p>The most promising data suggests PQQ might work synergistically with exercise. The combination of PQQ supplementation and regular training appears to produce greater mitochondrial adaptations than either intervention alone.</p>
+<p><strong>Critical Analysis:</strong></p>
+<p>Several limitations warrant caution:</p>
+<ul>
+<li>Most studies use untrained populations, not trained athletes</li>
+<li>Limited research specifically examines strength or hypertrophy outcomes</li>
+<li>Biomarkers (like PGC-1α) improved, but direct performance benefits remain inconsistent</li>
+<li>Sample sizes in most studies are relatively small</li>
+</ul>
+<p>The honest assessment: PQQ clearly affects the proposed mechanisms in humans, but whether these mechanistic changes translate to meaningful strength or muscle gains in trained lifters remains uncertain.</p>
+<h2 id="pqq-vs-other-mitochondrial-supplements">PQQ vs. Other Mitochondrial Supplements</h2>
+<p>The mitochondrial supplement space is crowded. Here's how PQQ compares:</p>
+<p><strong>CoQ10 (Coenzyme Q10):</strong> Works within the electron transport chain as part of ATP production. Strong evidence supports its role in cardiovascular function and cellular energy. Different mechanism than PQQ—CoQ10 optimizes existing mitochondria rather than creating new ones.</p>
+<p><strong>Urolithin A:</strong> Perhaps PQQ's most interesting comparison. While PQQ targets mitochondrial biogenesis (creation of new mitochondria), urolithin A targets mitophagy—the cleanup and recycling of damaged mitochondria. Together, these represent the two halves of mitochondrial turnover: building new and clearing old.</p>
+<p><strong>L-Carnitine:</strong> Transports fatty acids into mitochondria for energy production. Well-researched for various applications, though benefits for strength athletes remain debated.</p>
+<p><strong>NR (Nicotinamide Riboside):</strong> Boosts NAD+ levels, which supports sirtuin activity and mitochondrial function. Strong evidence for metabolic health applications.</p>
+<p>| Supplement | Primary Mechanism | Evidence Strength | Best For |
+|------------|-------------------|-------------------|----------|
+| PQQ | Mitochondrial biogenesis | Moderate | Cellular aging, endurance |
+| Urolithin A | Mitophagy | Growing | Mitochondrial quality |
+| CoQ10 | Electron transport | Strong | Heart health, energy |
+| NR | NAD+ boosting | Strong | Metabolic health |</p>
+<p>The emerging picture suggests PQQ and urolithin A might work complementary—PQQ building new mitochondria while urolithin A improves quality of existing ones.</p>
+<h2 id="practical-applications-for-lifters">Practical Applications for Lifters</h2>
+<p><strong>Who Might Benefit:</strong></p>
+<ul>
+<li><strong>Older lifters:</strong> Mitochondrial function naturally declines with age. PQQ's effects on biogenesis might combat anabolic resistance.</li>
+<li><strong>Those with poor recovery:</strong> Enhanced oxidative capacity could improve recovery between sessions.</li>
+<li><strong>Endurance-focused athletes:</strong> Greater mitochondrial density directly supports aerobic energy production.</li>
+</ul>
+<p><strong>Dosage and Timing:</strong></p>
+<p>Research suggests 20mg per day as the optimal dose for mitochondrial effects. PQQ is fat-soluble, so taking it with meals improves absorption.</p>
+<p><strong>Practical Considerations:</strong></p>
+<ul>
+<li>No known dependency or tolerance issues</li>
+<li>Can be run continuously (no cycling required)</li>
+<li>Works well stacked with CoQ10, creatine, or citrulline</li>
+</ul>
+<p><strong>Expected Outcomes:</strong></p>
+<p>Be realistic about what PQQ delivers:</p>
+<ul>
+<li>Improved recovery between high-rep sets</li>
+<li>Better endurance in volume-focused training</li>
+<li>Potential anti-aging effects on muscle mitochondria</li>
+<li>NOT a direct strength or hypertrophy booster</li>
+</ul>
+<p>PQQ won't directly increase your one-rep max or accelerate muscle protein synthesis like creatine or sufficient protein intake. Think of it as a cellular optimization tool rather than a performance accelerator.</p>
+<h2 id="conclusions-and-recommendations">Conclusions and Recommendations</h2>
+<p><strong>Evidence Level:</strong> Promising but not definitive. PQQ clearly affects mitochondrial biogenesis pathways in humans, but practical performance benefits—especially for strength and hypertrophy—remain unproven in trained populations.</p>
+<p><strong>Recommendation:</strong> PQQ fits as a Tier 2 supplement, worth considering after establishing foundations:</p>
+<p><strong>Tier 1 (Essential):</strong></p>
+<ul>
+<li>Protein or amino acids</li>
+<li>Creatine monohydrate</li>
+<li>Sufficient caloric intake</li>
+<li>Quality sleep</li>
+</ul>
+<p><strong>Tier 2 (Situational):</strong></p>
+<ul>
+<li>PQQ (for specific goals)</li>
+<li>Beta-alanine</li>
+<li>Caffeine</li>
+<li>Fish oil</li>
+</ul>
+<p><strong>Tier 3 (Optional):</strong></p>
+<ul>
+<li>Other mitochondrial supplements</li>
+</ul>
+<p>If you're already nailing the fundamentals and have specific goals around endurance, recovery optimization, or addressing age-related decline in mitochondrial function, PQQ represents a reasonable addition.</p>
+<p><strong>Future Research to Watch:</strong></p>
+<p>Strength-specific studies on trained athletes remain needed. Additionally, research combining PQQ with urolithin A could reveal synergistic effects on comprehensive mitochondrial health.</p>
+<hr>
+<p><em>Word Count: ~1,800 words</em></p>
+<hr>
+<p><em>Track your mitochondrial health with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","nicotinamide-riboside-nad-muscle-health",{"href":"/blog/nicotinamide-riboside-nad-muscle-health","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Nicotinamide Riboside Supplementation for Muscle Health: The NAD+ Story"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"NR reliably boosts NAD+ levels, but does that actually translate to better muscle performance? We examine the science behind the hype."}]]}],["$","$Ld","eccentric-overload-training-muscle-growth-2026",{"href":"/blog/eccentric-overload-training-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Eccentric Overload Training: Does It Actually Build More Muscle?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The theory sounds perfect — overload the lowering phase to maximize muscle growth. But what does the research actually show? We review the 2025-2026 science."}]]}],["$","$Ld","l-carnitine-supplementation-strength-hypertrophy",{"href":"/blog/l-carnitine-supplementation-strength-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"L-Carnitine Supplementation for Strength Athletes: What the Research Shows"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does L-carnitine actually help lifters build muscle and get stronger? We dive into the science to separate fact from hype."}]]}],["$","$Ld","urolithin-a-mitophagy-muscle-health",{"href":"/blog/urolithin-a-mitophagy-muscle-health","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Urolithin A Supplementation for Muscle Health: The Mitophagy Story"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"What the science actually says about urolithin A's effects on muscle strength, mitochondrial health, and whether it's worth your money."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

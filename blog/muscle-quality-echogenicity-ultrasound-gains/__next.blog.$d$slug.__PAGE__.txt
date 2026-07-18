@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb31,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains#webpage","url":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains","name":"Muscle Quality: What Ultrasound Echogenicity Reveals About Your Gains","description":"Your muscles might be bigger without being better. New ultrasound technology lets lifters measure muscle quality — the functional capacity of tissue — beyond...","breadcrumb":{"@id":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains#webpage"},"headline":"Muscle Quality: What Ultrasound Echogenicity Reveals About Your Gains","description":"Your muscles might be bigger without being better. New ultrasound technology lets lifters measure muscle quality — the functional capacity of tissue — beyond...","isAccessibleForFree":true,"wordCount":966,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Muscle Quality: What Ultrasound Echogenicity Reveals About Your Gains","item":"https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Muscle Quality: What Ultrasound Echogenicity Reveals About Your Gains"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Your muscles might be bigger without being better. New ultrasound technology lets lifters measure muscle quality — the functional capacity of tissue — beyond just size."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Muscle%20Quality%3A%20What%20Ultrasound%20Echogenicity%20Reveals%20About%20Your%20Gains&url=https://jacked.coach/blog/muscle-quality-echogenicity-ultrasound-gains","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-muscle-quality",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-muscle-quality","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Muscle Quality?"}]}],["$","li","ultrasound-echogenicity-the-brightness-metric",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#ultrasound-echogenicity-the-brightness-metric","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Ultrasound Echogenicity: The Brightness Metric"}]}],["$","li","why-would-your-muscle-quality-drop",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-would-your-muscle-quality-drop","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Would Your Muscle Quality Drop?"}]}],["$","li","overtraining-and-insufficient-recovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#overtraining-and-insufficient-recovery","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Overtraining and Insufficient Recovery"}]}],["$","li","chronic-unloading",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#chronic-unloading","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Chronic Unloading"}]}],["$","li","poor-nutrition",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#poor-nutrition","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Poor Nutrition"}]}],["$","li","age-related-factors",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#age-related-factors","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Age-Related Factors"}]}],["$","li","can-you-improve-muscle-quality",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#can-you-improve-muscle-quality","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Can You Improve Muscle Quality?"}]}],["$","li","heavy-loading",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#heavy-loading","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Heavy Loading"}]}],["$","li","proper-protein-intake",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#proper-protein-intake","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Proper Protein Intake"}]}],["$","li","adequate-sleep",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#adequate-sleep","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Adequate Sleep"}]}],["$","li","strategic-deload-weeks",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#strategic-deload-weeks","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Strategic Deload Weeks"}]}],["$","li","measuring-your-own-progress",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#measuring-your-own-progress","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Measuring Your Own Progress"}]}],["$","li","the-practical-takeaway",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-practical-takeaway","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Practical Takeaway"}]}]]}]]}]
+e:T1eae,<p>Bigger isn't always better. It's an uncomfortable truth in a sport obsessed with gains, but the science is clear: muscle size and muscle function don't always track together. Two people with identical biceps measurements can have wildly different strength, power, and endurance capacity. The difference lies in muscle quality.</p>
+<p>While DEXA scans tell you how much muscle you have, and standard scales tell you how much you weigh, a growing body of research now points to ultrasound echogenicity as a window into something more valuable: how good your muscle actually is.</p>
+<h2 id="what-is-muscle-quality">What Is Muscle Quality?</h2>
+<p>Muscle quality refers to the functional capacity of muscle tissue per unit of mass. In practical terms, it's how much force your muscle can generate relative to its size. High-quality muscle is dense, contractile, and efficient. Low-quality muscle may look impressive but performs poorly.</p>
+<p>Several factors determine muscle quality:</p>
+<ul>
+<li><strong>Fiber type distribution</strong>: More type II fibers generally means higher force production capacity</li>
+<li><strong>Intramuscular fat infiltration</strong>: Fat inside muscle reduces quality</li>
+<li><strong>Fibrosis</strong>: Scar tissue from repeated damage compromises contractile tissue</li>
+<li><strong>Neuromuscular efficiency</strong>: How well your nervous system activates muscle</li>
+<li><strong>Mitochondrial density</strong>: More mitochondria = better endurance and recovery</li>
+</ul>
+<p>Historically, assessing muscle quality required biopsies or expensive MRI spectroscopy. But ultrasound technology has changed the calculus, making quality assessment accessible in a way that was impossible a decade ago.</p>
+<h2 id="ultrasound-echogenicity-the-brightness-metric">Ultrasound Echogenicity: The Brightness Metric</h2>
+<p>When sound waves hit muscle tissue, different structures reflect differently. Healthy, dense muscle appears darker on ultrasound (low echogenicity), while fat, fibrosis, and damaged tissue appear brighter (high echogenicity). This "brightness" — measured numerically — correlates with muscle quality.</p>
+<p>Research published in the European Journal of Physical and Rehabilitation Medicine (2025) found that an echogenicity cutoff of 70 offered 83% sensitivity for detecting muscle weakness. In simpler terms: brighter muscles on ultrasound tend to be weaker muscles.</p>
+<p>A 2024 study in Frontiers in Nutrition used AI-assisted ultrasound to analyze muscle structure in athletes, finding that texture-based characteristics (derived from echogenicity patterns) could distinguish between healthy, high-functioning muscle and compromised tissue with remarkable accuracy.</p>
+<p>The implications are significant. A lifter could theoretically have:</p>
+<ul>
+<li>Large muscles (high cross-sectional area)</li>
+<li>Low echogenicity (dense, healthy tissue)</li>
+<li>Excellent strength-to-size ratio</li>
+</ul>
+<p>Or alternatively:</p>
+<ul>
+<li>Moderate muscles</li>
+<li>High echogenicity (fat infiltration, fibrosis)</li>
+<li>Poor performance despite visible size</li>
+</ul>
+<h2 id="why-would-your-muscle-quality-drop">Why Would Your Muscle Quality Drop?</h2>
+<p>Several training and lifestyle factors can degrade muscle quality without affecting size:</p>
+<h3 id="overtraining-and-insufficient-recovery">Overtraining and Insufficient Recovery</h3>
+<p>Repeated training without adequate recovery leads to chronic inflammation. Over time, this can result in fibrotic tissue deposition — scar-like material that appears bright on ultrasound. The muscle gets bigger but less functional.</p>
+<h3 id="chronic-unloading">Chronic Unloading</h3>
+<p>Extended periods of reduced activity (bed rest, sedentary jobs, injury recovery) cause muscle to become infiltrated with fat, particularly in older adults. This significantly raises echogenicity. Research shows that just two weeks of step reduction can measurably degrade muscle quality in healthy adults.</p>
+<h3 id="poor-nutrition">Poor Nutrition</h3>
+<p>Inadequate protein intake affects muscle protein synthesis, but so does chronic overconsumption of ultra-processed foods. The inflammatory environment from poor diet may promote intramuscular fat storage even in trained individuals.</p>
+<h3 id="age-related-factors">Age-Related Factors</h3>
+<p>Sarcopenia — age-related muscle loss — comes with increased fat infiltration. Older lifters need to be particularly attentive to both resistance training and adequate protein to maintain muscle quality, not just quantity.</p>
+<h2 id="can-you-improve-muscle-quality">Can You Improve Muscle Quality?</h2>
+<p>The good news: muscle quality responds to training, often more quickly than size itself.</p>
+<h3 id="heavy-loading">Heavy Loading</h3>
+<p>Low-rep, high-load training (sets of 3-6 reps) has been shown to improve measures of muscle quality more effectively than high-rep training. The mechanical stress signals muscle tissue to strengthen its contractile apparatus rather than merely expanding in size.</p>
+<h3 id="proper-protein-intake">Proper Protein Intake</h3>
+<p>Current evidence supports 1.6-2.2g/kg protein daily for muscle quality optimization. Beyond total intake, leucine-rich foods (whey, beef, eggs) trigger the mTOR pathway that drives muscle protein synthesis more robustly.</p>
+<h3 id="adequate-sleep">Adequate Sleep</h3>
+<p>Growth hormone and testosterone — both critical for muscle repair and quality maintenance — peak during deep sleep. Chronic sleep deprivation elevates cortisol, which promotes muscle breakdown and fat storage.</p>
+<h3 id="strategic-deload-weeks">Strategic Deload Weeks</h3>
+<p>Every 4-8 weeks, reducing volume by 40-60% for a week allows for systemic recovery. This reduces chronic inflammation and gives muscle tissue time to repair microdamage that accumulates during heavy training.</p>
+<h2 id="measuring-your-own-progress">Measuring Your Own Progress</h2>
+<p>While clinical ultrasound isn't practical for most lifters, you can gauge muscle quality through performance metrics:</p>
+<ul>
+<li><strong>Strength-to-weight ratio</strong>: Track your lifts relative to bodyweight. Improving ratio suggests improving quality</li>
+<li><strong>Power output</strong>: Can you explode more weight faster? Power tends to reflect quality better than maximal strength</li>
+<li><strong>Recovery rate</strong>: High-quality muscle recovers faster between sessions</li>
+<li><strong>Endurance at given load</strong>: Can you do more reps at 70% of your max? This reflects muscular quality</li>
+</ul>
+<p>More advanced lifters might explore:</p>
+<ul>
+<li><strong>Muscle ultrasound devices</strong>: Some gyms and clinics now offer muscle ultrasound assessments</li>
+<li><strong>InBody or similar BIA devices</strong>: While imperfect, some can estimate muscle quality scores</li>
+<li><strong>Blood markers</strong>: Creatine kinase (CK) levels post-training can indicate muscle damage severity</li>
+</ul>
+<h2 id="the-practical-takeaway">The Practical Takeaway</h2>
+<p>Size is the vanity metric. Quality is the performance metric. The best lifters in the world understand this distinction: they train for functional hypertrophy — muscle that gets bigger AND better.</p>
+<p>If your strength has plateaued despite continued growth in measurements, consider that your muscles might need quality-focused training rather than more volume. Drop the weights slightly, focus on clean eccentric control, prioritize sleep, and nail your nutrition. Your muscles will thank you — and the ultrasound (if you could see it) would agree.</p>
+<hr>
+<p><em>References: European Journal of Physical and Rehabilitation Medicine 2025; Frontiers in Nutrition 2025; Journal of Ultrasound in Medicine various studies.</em></p>
+<hr>
+<p><em>Track your muscle quality with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","mental-fatigue-training-performance-cns",{"href":"/blog/mental-fatigue-training-performance-cns","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Your central nervous system might be holding you back more than your muscles. New research reveals how mental fatigue sabotages training performance and what you can do about it."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","muscle-memory-science-gains",{"href":"/blog/muscle-memory-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science Behind Why Your Gains Stick"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tae1,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science#webpage","url":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science","name":"Creatine and Caffeine: Do They Cancel Each Other Out?","description":"Research shows caffeine may blunt creatine's benefits. Here's what the science says about timing, dosage, and whether you should take them together.","breadcrumb":{"@id":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science#webpage"},"headline":"Creatine and Caffeine: Do They Cancel Each Other Out?","description":"Research shows caffeine may blunt creatine's benefits. Here's what the science says about timing, dosage, and whether you should take them together.","isAccessibleForFree":true,"wordCount":614,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Creatine and Caffeine: Do They Cancel Each Other Out?","item":"https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Creatine and Caffeine: Do They Cancel Each Other Out?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Research shows caffeine may blunt creatine's benefits. Here's what the science says about timing, dosage, and whether you should take them together."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[3," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Creatine%20and%20Caffeine%3A%20Do%20They%20Cancel%20Each%20Other%20Out%3F&url=https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-research-caffeine-counteracts-creatine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-research-caffeine-counteracts-creatine","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Research: Caffeine Counteracts Creatine"}]}],["$","li","opposite-effects-on-muscle-relaxation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#opposite-effects-on-muscle-relaxation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Opposite Effects on Muscle Relaxation"}]}],["$","li","what-this-means-for-your-stack",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-your-stack","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means For Your Stack"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1314,<p>Two of the most popular supplements in the fitness world—creatine and caffeine—are often stacked in pre-workout formulas. But what if taking them together is actually working against you? Emerging research suggests these two ergogenic aids may interfere with each other's effectiveness, and the timing of your supplementation could determine whether you're leaving gains on the table.</p>
+<h2 id="the-research-caffeine-counteracts-creatine">The Research: Caffeine Counteracts Creatine</h2>
+<p>The most concerning evidence comes from a study published in the <em>Journal of Applied Physiology</em> that found caffeine appears to counteract the ergogenic effects of creatine supplementation. Researchers had subjects undergo creatine loading (20g daily for 5-6 days) followed by exercise testing. When caffeine was added, the performance benefits of creatine were significantly diminished.</p>
+<p>The proposed mechanism involves how creatine works at the cellular level. Creatine increases muscle phosphocreatine (PCr) stores, which serve as a rapid energy buffer during high-intensity exercise. Caffeine, on the other hand, works primarily through adenosine receptor antagonism and increased calcium release from the sarcoplasmic reticulum. The interaction between these pathways may reduce creatine's effectiveness at enhancing PCr resynthesis during recovery between sets.</p>
+<p>A more recent 2024 study in <em>Nutrients</em> examined the combined effects of creatine nitrate and caffeine, finding that "the interactions between caffeine and creatine are mixed and remain to be fully elucidated." This scientific uncertainty translates to practical confusion for athletes and lifters trying to optimize their supplementation strategy.</p>
+<h2 id="opposite-effects-on-muscle-relaxation">Opposite Effects on Muscle Relaxation</h2>
+<p>Interestingly, research has also demonstrated that creatine and caffeine have opposite effects on muscle relaxation time. A 2001 study in the <em>Journal of Applied Physiology</em> found that while creatine shortened contraction time, caffeine actually lengthened muscle relaxation time. These opposing actions suggest the two supplements may work against each other in ways beyond just energy production.</p>
+<h2 id="what-this-means-for-your-stack">What This Means For Your Stack</h2>
+<div class="diagram callout-diagram">
+  <h4>Stress and adaptation balance</h4>
+  <p>A useful program applies enough stress to adapt, then manages fatigue so performance can recover and progress can continue.</p>
+</div>
+<p>Given the current evidence, here are practical recommendations:</p>
+<p><strong>Separate Your Supplements</strong>
+The simplest approach is to take caffeine (from pre-workout, coffee, or caffeine pills) at least 2-3 hours away from your creatine dose. This is particularly important during the loading phase (first 5-7 days) when muscle creatine saturation is the priority.</p>
+<p><strong>Morning Coffee, Evening Creatine</strong>
+If you train in the morning, consider taking your creatine in the evening. This separates it from your pre-workout caffeine and may enhance absorption. If you train later in the day, take creatine in the morning.</p>
+<p><strong>Don't Panic About Perfect Timing</strong>
+The interference effect appears most pronounced during creatine loading. Once your muscle stores are saturated (after 4 weeks of maintenance dosing), the interaction may be less relevant. The counteraction isn't complete—creatine still works even with caffeine—just potentially suboptimal.</p>
+<p><strong>Consider Caffeine-Free Pre-Workouts</strong>
+If you're serious about maximizing creatine's effects, especially during a loading phase or when trying to break through a plateau, using a caffeine-free pre-workout or taking caffeine separately may be worthwhile.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The research isn't definitive enough to say you must avoid caffeine entirely if you take creatine. However, if you're maximizing every marginal gain and want to optimize your supplementation strategy, separating these two by several hours makes scientific sense. The performance difference may be small in absolute terms, but in competitive contexts or during critical training phases, those margins matter.</p>
+<p>Your best approach: take creatine consistently (5g daily, with or without loading), and if you use caffeine, time it strategically away from your creatine dose. Track your performance over time—if you're not seeing the results you expect from creatine despite proper training and nutrition, timing could be the missing piece.</p>
+<hr>
+<p><em>Note: Individual responses vary based on genetics, training status, and other factors. The "best" approach is whatever produces results in your specific situation.</em></p>
+<hr>
+<p><em>Track your creatine and training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","muscle-group-training-frequency-optimal",{"href":"/blog/muscle-group-training-frequency-optimal","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"How Often Should You Train Each Muscle Group? The Frequency Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science-backed guidelines for muscle group training frequency. Stop guessing whether 2x or 3x per week is better — here's what the research actually shows."}]]}],["$","$Ld","sodium-bicarbonate-ergogenic-aid-performance",{"href":"/blog/sodium-bicarbonate-ergogenic-aid-performance","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Sodium Bicarbonate: The Cheap Ergogenic Aid That Actually Works"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Baking soda isn't just for baking—it's one of the most researched and effective legal supplements for high-intensity performance. Here's what the science says about dosing, timing, and who benefits most."}]]}],["$","$Ld","citrulline-malate-pre-workout-science-2026",{"href":"/blog/citrulline-malate-pre-workout-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Citrulline Malate: The Pre-Workout Supplement That Actually Works"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing."}]]}],["$","$Ld","creatine-monohydrate-science-2026",{"href":"/blog/creatine-monohydrate-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Creatine Monohydrate: The Science Behind the Most Researched Supplement"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

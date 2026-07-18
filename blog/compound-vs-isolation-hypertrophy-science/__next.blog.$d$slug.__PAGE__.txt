@@ -1,0 +1,276 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb37,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science#webpage","url":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science","name":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says","description":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing...","breadcrumb":{"@id":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science#webpage"},"headline":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says","description":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing...","isAccessibleForFree":true,"wordCount":1017,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says","item":"https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Compound%20vs%20Isolation%20Exercises%20for%20Hypertrophy%3A%20What%20the%20Science%20Actually%20Says&url=https://jacked.coach/blog/compound-vs-isolation-hypertrophy-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","understanding-the-difference",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#understanding-the-difference","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Understanding the Difference"}]}],["$","li","the-theoretical-case-for-each",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-theoretical-case-for-each","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Theoretical Case for Each"}]}],["$","li","why-compounds-might-be-better",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#why-compounds-might-be-better","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Why Compounds Might Be Better"}]}],["$","li","why-isolation-might-be-better",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#why-isolation-might-be-better","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Why Isolation Might Be Better"}]}],["$","li","what-the-research-shows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-research-shows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Research Shows"}]}],["$","li","the-evidence-compound-vs-isolation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-evidence-compound-vs-isolation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Evidence: Compound vs Isolation"}]}],["$","li","the-key-insight-they-re-largely-interchangeable",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-key-insight-they-re-largely-interchangeable","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Key Insight: They're Largely Interchangeable"}]}],["$","li","practical-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Recommendations"}]}],["$","li","for-maximum-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-maximum-hypertrophy","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Maximum Hypertrophy"}]}],["$","li","sample-integration",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#sample-integration","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Sample Integration"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T211e,<p>The fitness industry has long debated whether compound exercises or isolation movements are superior for building muscle. Walk into any gym, and you'll hear strong opinions on both sides. Some swear by squats, deadlifts, and bench presses as the only movements worth doing. Others spend hours on cable machines, targeting individual muscles with surgical precision.</p>
+<p>But what does the actual science say? Is one approach genuinely better than the other for maximizing muscle growth? Let's dive into the research to separate fact from fitness fiction.</p>
+<h2 id="understanding-the-difference">Understanding the Difference</h2>
+<p>Before we examine the evidence, let's clarify our terms:</p>
+<p><strong>Compound exercises</strong> are movements that involve multiple muscle groups and joints working together. Examples include squats, deadlifts, bench presses, barbell rows, and pull-ups. These movements allow you to lift heavier loads and typically require more overall body coordination.</p>
+<p><strong>Isolation exercises</strong> target a single muscle group with minimal involvement from other muscles. Bicep curls, leg extensions, lateral raises, and tricep pushdowns fall into this category. These movements allow you to target specific muscles without being limited by weaker synergistic muscle groups.</p>
+<h2 id="the-theoretical-case-for-each">The Theoretical Case for Each</h2>
+<h3 id="why-compounds-might-be-better">Why Compounds <em>Might</em> Be Better</h3>
+<p>The argument for compound exercises rests on several theoretical advantages:</p>
+<ol>
+<li>
+<p><strong>Greater mechanical tension</strong>: Heavier loads create more total tension, which is a primary driver of muscle growth.</p>
+</li>
+<li>
+<p><strong>Hormonal response</strong>: Compound movements trigger a greater acute hormonal response (testosterone, growth hormone) compared to isolation exercises.</p>
+</li>
+<li>
+<p><strong>Functional strength</strong>: Compound lifts carry over to real-world strength and athletic performance.</p>
+</li>
+<li>
+<p><strong>Time efficiency</strong>: You can train multiple muscle groups simultaneously.</p>
+</li>
+</ol>
+<h3 id="why-isolation-might-be-better">Why Isolation <em>Might</em> Be Better</h3>
+<p>The case for isolation exercises focuses on targeted muscle development:</p>
+<ol>
+<li>
+<p><strong>Reduced competing muscles</strong>: With compound movements, weaker muscle groups often limit how close you can take your target muscle to failure. Isolation exercises allow you to fatigue the specific muscle you want to grow without other muscles "stealing" the workload.</p>
+</li>
+<li>
+<p><strong>Better mind-muscle connection</strong>: Isolation exercises can help develop a stronger mind-muscle connection, potentially enhancing hypertrophy signals.</p>
+</li>
+<li>
+<p><strong>Reduced systemic fatigue</strong>: You can train a muscle to failure without exhausting your entire central nervous system.</p>
+</li>
+<li>
+<p><strong>Injury prevention</strong>: Isolation exercises are generally lower risk for certain injuries.</p>
+</li>
+</ol>
+<h2 id="what-the-research-shows">What the Research Shows</h2>
+<p>Here's where things get interesting. The research doesn't strongly support either side as categorically superior.</p>
+<h3 id="the-evidence-compound-vs-isolation">The Evidence: Compound vs Isolation</h3>
+<p>A 2023 meta-analysis by Avery et al., reviewing seven studies, found <strong>no statistically significant difference</strong> in hypertrophy outcomes between single-joint (isolation) and multi-joint (compound) movements. This is a critical finding that challenges both dogmatic viewpoints.</p>
+<p>Several individual studies reinforce this conclusion:</p>
+<ul>
+<li>
+<p><strong>Gentil et al.</strong> compared wide-grip lat pulldowns (compound) to dumbbell curls (isolation). Despite being a compound versus isolation comparison, both resulted in similar elbow flexor hypertrophy.</p>
+</li>
+<li>
+<p><strong>Mannarino et al.</strong> compared underhand dumbbell rows to dumbbell curls. Surprisingly, the curls produced roughly double the growth in the elbow flexors compared to the rows—an isolation "win."</p>
+</li>
+<li>
+<p><strong>Burke et al.</strong> compared leg press to leg extension. The leg press produced more growth in the vastii muscles, while the leg extension favored the rectus femoris—suggesting exercise-specific regional hypertrophy matters more than exercise type.</p>
+</li>
+<li>
+<p><strong>Brandão et al.</strong> compared bench press to skullcrushers. The skullcrusher led to more growth in the long and medial heads of the triceps, while the bench press favored the lateral head.</p>
+</li>
+</ul>
+<h3 id="the-key-insight-they-re-largely-interchangeable">The Key Insight: They're Largely Interchangeable</h3>
+<p>Taken together, the research suggests compound and isolation exercises are similarly effective for muscle growth. Neither is inherently "better" for hypertrophy. This means your program can legitimately include both, depending on your goals and preferences.</p>
+<p>However, there are important nuances:</p>
+<ol>
+<li>
+<p><strong>Regional hypertrophy varies</strong>: Different exercises target different portions of a muscle. If you want complete development, you'll likely need both compound and isolation work.</p>
+</li>
+<li>
+<p><strong>Failure proximity matters more</strong>: What matters most is training your target muscle to or near failure—whether that's a squat or a leg extension.</p>
+</li>
+<li>
+<p><strong>Exercise-specific adaptation</strong>: Your muscles adapt specifically to the training stimulus. A compound movement won't perfectly replicate the growth pattern of an isolation exercise for a given muscle.</p>
+</li>
+</ol>
+<h2 id="practical-recommendations">Practical Recommendations</h2>
+<p>Based on the science, here's how to structure your exercise selection:</p>
+<h3 id="for-maximum-hypertrophy">For Maximum Hypertrophy</h3>
+<ol>
+<li>
+<p><strong>Prioritize compound movements</strong>: Since compounds train multiple muscles efficiently and are similarly effective for growth, make them the foundation of your program.</p>
+</li>
+<li>
+<p><strong>Add targeted isolation work</strong>: Include isolation exercises to target muscles that may be underworked by compounds or to focus on specific muscle regions.</p>
+</li>
+<li>
+<p><strong>Choose exercises based on goals</strong>:</p>
+<ul>
+<li>For overall muscle mass: Heavy compounds + strategic isolation</li>
+<li>For specific muscle groups: Direct isolation work + compounds that emphasize that muscle</li>
+<li>For time efficiency: Compounds dominate your program</li>
+<li>For bodybuilder-style development: Equal emphasis on both</li>
+</ul>
+</li>
+</ol>
+<h3 id="sample-integration">Sample Integration</h3>
+<p>A well-rounded hypertrophy program might look like:</p>
+<ul>
+<li><strong>Push day</strong>: Bench press + overhead press → tricep isolation</li>
+<li><strong>Pull day</strong>: Barbell row + pull-ups → bicep isolation</li>
+<li><strong>Leg day</strong>: Squat + leg press → quad/hamstring isolation</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The compound vs. isolation debate has been largely settled by science: <strong>both are equally effective for muscle growth when programmed properly</strong>. The best approach isn't ideological—it's practical.</p>
+<p>Make compound movements the backbone of your training for efficiency and overall development. Add isolation exercises to target specific muscles or muscle regions that need extra attention. Don't let dogma dictate your program when the research clearly shows both approaches work.</p>
+<p>Remember: consistency, progressive overload, and training to near-failure matter far more than whether your exercise label says "compound" or "isolation."</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Avery, et al. (2023). Hypertrophic effects of single- versus multi-joint resistance exercise. <em>NSCA SCJ</em>.</li>
+<li>Brandão, et al. (2020). Varying the order of combinations of single- and multi-joint exercises. <em>JSSCR</em>.</li>
+<li>Burke, et al. (2024). Exercise-related changes in lower-body regional muscle development. <em>Research</em>.</li>
+<li>Gentil, et al. (2015). Comparison of wide-grip lat pulldown to dumbbell curl. <em>PMC</em>.</li>
+<li>Mannarino, et al. (2019). Underhand dumbbell rows vs dumbbell curls. <em>PubMed</em>.</li>
+</ul>
+<hr>
+<p><em>Track your compound and isolation exercises with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-split-science-hypertrophy",{"href":"/blog/training-split-science-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Training Splits: Which One Actually Works Best for Muscle Growth?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Full body, upper/lower, PPL, or bro split? We break down the research on training frequency and volume to find the optimal split for hypertrophy."}]]}],["$","$Ld","foam-rolling-recovery-science-2025",{"href":"/blog/foam-rolling-recovery-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Foam Rolling for Muscle Growth: What the 2024-2025 Research Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science on foam rolling has matured significantly. We break down what recent research reveals about its effects on recovery, performance, and yes — even muscle growth."}]]}],["$","$Ld","muscle-damage-doms-hypertrophy-science-2026",{"href":"/blog/muscle-damage-doms-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Damage & DOMS: What Science Really Says About Soreness and Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does muscle damage drive hypertrophy, or is it just a sign you pushed too hard? We break down the 2025-2026 research on DOMS, recovery interventions, and the muscle damage hypothesis."}]]}],["$","$Ld","sarcoplasmic-vs-myofibrillar-hypertrophy-science-2026",{"href":"/blog/sarcoplasmic-vs-myofibrillar-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The age-old bodybuilding debate finally answered with 2025 research. Does pump training actually build different muscle than heavy lifting?"}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta8e,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/muscle-memory-science-gains-faster#webpage","url":"https://jacked.coach/blog/muscle-memory-science-gains-faster","name":"Muscle Memory: Why Your Gains Come Back Faster","description":"The science of muscle memory reveals why previously trained muscles regrow faster — and how to leverage this biological advantage for permanent gains.","breadcrumb":{"@id":"https://jacked.coach/blog/muscle-memory-science-gains-faster#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/muscle-memory-science-gains-faster#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/muscle-memory-science-gains-faster#webpage"},"headline":"Muscle Memory: Why Your Gains Come Back Faster","description":"The science of muscle memory reveals why previously trained muscles regrow faster — and how to leverage this biological advantage for permanent gains.","isAccessibleForFree":true,"wordCount":852,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/muscle-memory-science-gains-faster#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Muscle Memory: Why Your Gains Come Back Faster","item":"https://jacked.coach/blog/muscle-memory-science-gains-faster"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The science of muscle memory reveals why previously trained muscles regrow faster — and how to leverage this biological advantage for permanent gains."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Muscle%20Memory%3A%20Why%20Your%20Gains%20Come%20Back%20Faster&url=https://jacked.coach/blog/muscle-memory-science-gains-faster","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-muscle-memory",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-muscle-memory","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Muscle Memory?"}]}],["$","li","the-science-myonuclei-and-epigenetic-changes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-myonuclei-and-epigenetic-changes","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: Myonuclei and Epigenetic Changes"}]}],["$","li","epigenetic-memory",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#epigenetic-memory","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Epigenetic Memory"}]}],["$","li","how-long-do-these-effects-last",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-long-do-these-effects-last","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Long Do These Effects Last?"}]}],["$","li","practical-implications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-implications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Implications"}]}],["$","li","1-your-early-training-matters-most",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-your-early-training-matters-most","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Your Early Training Matters Most"}]}],["$","li","2-taking-time-off-is-not-catastrophic",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-taking-time-off-is-not-catastrophic","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Taking Time Off Is Not Catastrophic"}]}],["$","li","3-train-smart-even-when-you-cannot-train-hard",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-train-smart-even-when-you-cannot-train-hard","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Train Smart Even When You Cannot Train Hard"}]}],["$","li","4-periodization-works-with-your-biology",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-periodization-works-with-your-biology","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Periodization Works With Your Biology"}]}],["$","li","5-it-works-for-both-strength-and-size",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-it-works-for-both-strength-and-size","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. It Works for Both Strength and Size"}]}],["$","li","how-to-leverage-muscle-memory",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-leverage-muscle-memory","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Leverage Muscle Memory"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1a4c,<p>If you have ever taken time off from lifting — whether due to injury, travel, or life — and noticed that your strength and size came back suspiciously quickly, you have experienced muscle memory. What feels like a lucky break is actually a well-documented biological phenomenon with fascinating implications for your training strategy.</p>
+<h2 id="what-is-muscle-memory">What Is Muscle Memory?</h2>
+<p>Muscle memory in the context of strength training refers to the phenomenon where previously trained muscles regain size and strength significantly faster than untrained muscles during retraining, even after extended periods of detraining (Gundersen, 2016).</p>
+<p>This is not psychological. Your muscles actually retain a "memory" of prior training at the cellular level, allowing them to respond more efficiently to renewed stimulus.</p>
+<h2 id="the-science-myonuclei-and-epigenetic-changes">The Science: Myonuclei and Epigenetic Changes</h2>
+<p>The leading theory involves <strong>myonuclear permanence</strong>. When you resistance train, your muscle fibers acquire additional nuclei (myonuclei) through fusion with satellite cells. These extra nuclei persist even during detraining, meaning your muscles do not start from zero — they retain the capacity for rapid regrowth.</p>
+<p>A 2024 study published in <em>The Journal of Physiology</em> confirmed this in humans, demonstrating long-term transcriptional regulation changes after strength training that persist well beyond the training period. The researchers found that previously trained muscle maintains a heightened readiness for protein synthesis and growth pathways.</p>
+<p>More recent research from 2025 published in the <em>American Journal of Physiology-Cell Physiology</em> expanded this understanding, showing that prior endurance training creates a "metabolic memory" that persists after exercise cessation and can overcome dietary challenges to support muscle hypertrophy. Retrained mice showed 12-30% greater muscle mass compared to naive controls, despite identical exercise exposure.</p>
+<h2 id="epigenetic-memory">Epigenetic Memory</h2>
+<p>Beyond the physical retention of myonuclei, muscle tissue exhibits <strong>epigenetic changes</strong> — modifications to gene expression patterns that alter how cells respond to future stimuli. A 2024 study in the <em>American Journal of Physiology-Cell Physiology</em> demonstrated epigenetic muscle memory in mice, showing that prior training creates lasting molecular signatures that accelerate future growth.</p>
+<p>This means your first serious training block is arguably the most important — it lays the epigenetic foundation for all future muscle-building potential.</p>
+<h2 id="how-long-do-these-effects-last">How Long Do These Effects Last?</h2>
+<p>The persistence of muscle memory varies:</p>
+<ul>
+<li><strong>Myonuclear permanence</strong>: Appears to be very long-lasting, possibly permanent. Animal studies suggest retained nuclei can persist for months or even years.</li>
+<li><strong>Epigenetic changes</strong>: Research suggests these molecular signatures persist for at least several months to years after training cessation.</li>
+<li><strong>Strength memory</strong>: Neuromuscular adaptations (improved motor unit recruitment, coordination) fade faster — typically within a few weeks to months.</li>
+</ul>
+<p>The practical takeaway: even if you detrain for months or years, your muscles retain a biological "head start."</p>
+<h2 id="practical-implications">Practical Implications</h2>
+<h3 id="1-your-early-training-matters-most">1. Your Early Training Matters Most</h3>
+<p>The gains from your first serious training phase create lasting structural changes. This is why "newbie gains" are so powerful — you are building your muscle memory foundation. Maximize this period with consistent, intelligent training.</p>
+<h3 id="2-taking-time-off-is-not-catastrophic">2. Taking Time Off Is Not Catastrophic</h3>
+<p>If you need to take a break (injury, vacation, life), do not panic. Your muscles remember. The research shows you will regain what you lost faster than it took to build originally. The detraining curve is much steeper in the retraining direction.</p>
+<h3 id="3-train-smart-even-when-you-cannot-train-hard">3. Train Smart Even When You Cannot Train Hard</h3>
+<p>Even maintenance-level training or brief sessions preserve the neurological adaptations while your muscles retain the cellular memory. Consistency matters more than intensity for long-term muscle memory encoding.</p>
+<h3 id="4-periodization-works-with-your-biology">4. Periodization Works With Your Biology</h3>
+<p>The muscle memory phenomenon supports aggressive periodization — alternating between high-volume and lower-volume phases. When you return to heavy training after a deload or recovery phase, your muscles respond more efficiently because they retain the memory of prior overload.</p>
+<h3 id="5-it-works-for-both-strength-and-size">5. It Works for Both Strength and Size</h3>
+<p>Muscle memory benefits both muscular strength and hypertrophy. Whether your goal is pure strength or aesthetics, the underlying mechanisms apply equally.</p>
+<h2 id="how-to-leverage-muscle-memory">How to Leverage Muscle Memory</h2>
+<ul>
+<li><strong>Be consistent early</strong>: Your first training block sets your lifetime baseline</li>
+<li><strong>Do not fear breaks</strong>: Know that time away is not wasted — you are not losing as much as you think</li>
+<li><strong>Stack training blocks</strong>: If possible, schedule your training so you return to serious lifting before neuromuscular adaptations fully fade (within a few weeks to months)</li>
+<li><strong>Track your progress</strong>: Your retraining curves will be faster — use this data to calibrate expectations</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Muscle memory is one of the most powerful allies in your muscle-building journey. It means that every rep you train today is an investment that pays dividends long after you stop lifting. Your muscles remember the work, and they are ready to grow again faster than you think.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Cumming et al. (2024). Muscle memory in humans: evidence for myonuclear permanence and long-term transcriptional regulation after strength training. <em>The Journal of Physiology</em>.</li>
+<li>American Journal of Physiology-Cell Physiology (2024). Human skeletal muscle possesses an epigenetic memory.</li>
+<li>American Journal of Physiology-Cell Physiology (2025). Muscle memory of exercise optimizes mitochondrial metabolism to support skeletal muscle growth.</li>
+</ul>
+<hr>
+<p><em>Track your muscle memory with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","muscle-memory-hypertrophy-detraining-science",{"href":"/blog/muscle-memory-hypertrophy-detraining-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science reveals previously trained muscles regrow faster. Here's the epigenetic and myonuclear mechanisms behind this phenomenon."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}],["$","$Ld","muscle-memory-myonuclei-retention-science",{"href":"/blog/muscle-memory-myonuclei-retention-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows your muscles remember training. New research reveals myonuclear retention means strength returns faster after detraining - here's what that means for your programming."}]]}],["$","$Ld","muscle-memory-science-gains",{"href":"/blog/muscle-memory-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science Behind Why Your Gains Stick"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

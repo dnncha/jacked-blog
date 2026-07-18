@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb3d,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026#webpage","url":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026","name":"Taurine: The Forgotten Amino Acid That's Secretly a Training powerhouse","description":"While creatine and caffeine get all the glory, taurine is quietly backed by solid science for performance, recovery, and even muscle building. Here's what th...","breadcrumb":{"@id":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026#webpage"},"headline":"Taurine: The Forgotten Amino Acid That's Secretly a Training powerhouse","description":"While creatine and caffeine get all the glory, taurine is quietly backed by solid science for performance, recovery, and even muscle building. Here's what th...","isAccessibleForFree":true,"wordCount":945,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Taurine: The Forgotten Amino Acid That's Secretly a Training powerhouse","item":"https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Taurine: The Forgotten Amino Acid That's Secretly a Training powerhouse"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"While creatine and caffeine get all the glory, taurine is quietly backed by solid science for performance, recovery, and even muscle building. Here's what the research actually says."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Taurine%3A%20The%20Forgotten%20Amino%20Acid%20That's%20Secretly%20a%20Training%20powerhouse&url=https://jacked.coach/blog/taurine-supplementation-fitness-performance-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-actually-is-taurine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-is-taurine","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Is Taurine?"}]}],["$","li","the-performance-benefits-what-science-says",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-performance-benefits-what-science-says","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Performance Benefits: What Science Says"}]}],["$","li","1-enhanced-exercise-capacity",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-enhanced-exercise-capacity","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Enhanced Exercise Capacity"}]}],["$","li","2-reduced-muscle-damage-and-soreness",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-reduced-muscle-damage-and-soreness","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Reduced Muscle Damage and Soreness"}]}],["$","li","3-better-heat-tolerance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-better-heat-tolerance","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Better Heat Tolerance"}]}],["$","li","4-potential-muscle-building-effects",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-potential-muscle-building-effects","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Potential Muscle-Building Effects"}]}],["$","li","how-it-works-the-mechanisms",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-it-works-the-mechanisms","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How It Works: The Mechanisms"}]}],["$","li","calcium-handling",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#calcium-handling","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Calcium Handling"}]}],["$","li","antioxidant-defense",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#antioxidant-defense","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Antioxidant Defense"}]}],["$","li","cell-hydration-the-cell-volumization-effect",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#cell-hydration-the-cell-volumization-effect","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Cell Hydration (The \"Cell Volumization\" Effect)"}]}],["$","li","insulin-sensitivity",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#insulin-sensitivity","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Insulin Sensitivity"}]}],["$","li","dosing-and-practical-advice",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#dosing-and-practical-advice","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Dosing and Practical Advice"}]}],["$","li","side-effects-and-safety",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#side-effects-and-safety","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Side Effects and Safety"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1d8e,<p>When you think of supplements that move the needle for muscle building and performance, creatine, whey protein, and caffeine probably come to mind. But there's a lesser-known amino acid flying under the radar that's backed by surprisingly solid science: <strong>taurine</strong>.</p>
+<p>You know it as the ingredient in energy drinks that makes your heart go weird. But behind that jittery association lies a compound with legitimate benefits for lifters — from better performance to faster recovery to potential muscle-building effects.</p>
+<h2 id="what-actually-is-taurine">What Actually Is Taurine?</h2>
+<p>Taurine is a <strong>conditionally essential amino acid</strong>. Your body can synthesize it, but not in large amounts — you also get it from diet, primarily from meat and seafood. It's one of the most abundant amino acids in your body, found in high concentrations in skeletal muscle, the heart, and the brain.</p>
+<p>Unlike protein-building amino acids, taurine isn't incorporated into muscle tissue directly. Instead, it acts as a <strong>regulatory molecule</strong> — influencing calcium handling, antioxidant defense, insulin sensitivity, and cell hydration. These functions directly impact how well you train and recover.</p>
+<h2 id="the-performance-benefits-what-science-says">The Performance Benefits: What Science Says</h2>
+<h3 id="1-enhanced-exercise-capacity">1. Enhanced Exercise Capacity</h3>
+<p>A 2025 meta-analysis in <em>PubMed</em> examined 23 randomized controlled trials on acute taurine supplementation and found significant improvements in exercise performance across multiple modalities [1]. The analysis showed benefits for:</p>
+<ul>
+<li><strong>Endurance performance</strong> — time to exhaustion increased</li>
+<li><strong>Strength output</strong> — particularly in repeated-sprint protocols</li>
+<li><strong>Anaerobic capacity</strong> — Wingate test improvements</li>
+</ul>
+<p>The typical effective dose in these studies was <strong>1-3 grams</strong>, taken 60-90 minutes before exercise.</p>
+<h3 id="2-reduced-muscle-damage-and-soreness">2. Reduced Muscle Damage and Soreness</h3>
+<p>A 2025 systematic review in <em>ScienceDirect</em> examined taurine's effects on muscle damage markers in athletic populations. The analysis found that taurine supplementation significantly reduced:</p>
+<ul>
+<li>Creatine kinase (CK) levels — a marker of muscle damage</li>
+<li>Perceived muscle soreness (DOMS)</li>
+<li>Inflammatory markers post-exercise [2]</li>
+</ul>
+<p>This means you're not only training harder — you're recovering faster between sessions.</p>
+<h3 id="3-better-heat-tolerance">3. Better Heat Tolerance</h3>
+<p>This is where taurine gets interesting for serious trainees. A 2026 paper in <em>Nutrients</em> found that taurine enhances thermoregulation by improving <strong>eccrine sweating and evaporative heat loss</strong> [3].</p>
+<p>If you train in hot environments, this is a big deal. Better heat tolerance means:</p>
+<ul>
+<li>Maintained performance in warm gyms</li>
+<li>Fewer cramping issues</li>
+<li>More volume under stress</li>
+</ul>
+<h3 id="4-potential-muscle-building-effects">4. Potential Muscle-Building Effects</h3>
+<p>Here's where it gets speculative but intriguing. Taurine influences <strong>insulin sensitivity</strong> and <strong>muscle protein synthesis</strong> pathways. While it's not an anabolic agent like creatine, research shows it may:</p>
+<ul>
+<li>Improve nutrient uptake by muscle cells</li>
+<li>Reduce catabolic signaling during intense training</li>
+<li>Support satellite cell function (the cells responsible for muscle repair and growth)</li>
+</ul>
+<p>A 2024 study in the <em>Journal of the International Society of Sports Nutrition</em> noted that taurine's effects on performance are consistent, while muscle-building effects may be "supportive" rather than primary [4].</p>
+<h2 id="how-it-works-the-mechanisms">How It Works: The Mechanisms</h2>
+<h3 id="calcium-handling">Calcium Handling</h3>
+<p>Taurine helps regulate calcium within muscle cells. Better calcium handling means:</p>
+<ul>
+<li>More powerful contractions</li>
+<li>Improved force production</li>
+<li>Better muscle endurance</li>
+</ul>
+<h3 id="antioxidant-defense">Antioxidant Defense</h3>
+<p>Intense training creates oxidative stress. Taurine acts as an antioxidant, scavenging free radicals and reducing cellular damage. This directly translates to less soreness and faster recovery.</p>
+<h3 id="cell-hydration-the-cell-volumization-effect">Cell Hydration (The "Cell Volumization" Effect)</h3>
+<p>Taurine draws water into cells — a process called cell volumization. Hydrated muscle cells function better, synthesize protein more efficiently, and feel less fatigued. This is the same principle behind creatine's "cell swelling" effects.</p>
+<h3 id="insulin-sensitivity">Insulin Sensitivity</h3>
+<p>Taurine improves insulin signaling, meaning glucose (and amino acids) get into muscle cells more efficiently. More nutrients in = more fuel for training and recovery.</p>
+<h2 id="dosing-and-practical-advice">Dosing and Practical Advice</h2>
+<p>Based on the research, here's what works:</p>
+<p>| Factor | Recommendation |
+|--------|----------------|
+| <strong>Pre-workout dose</strong> | 1-3 grams |
+| <strong>Timing</strong> | 60-90 minutes before training |
+| <strong>With carbs</strong> | Better absorption when taken with food |
+| <strong>Daily maintenance</strong> | 1-2g daily for cumulative benefits |</p>
+<p>You can find taurine as a standalone powder (cheap), or in pre-workout blends. The typical "energy drink" dose (~500mg) is too low for performance benefits — go higher.</p>
+<h2 id="side-effects-and-safety">Side Effects and Safety</h2>
+<p>Taurine is one of the safer supplements out there. Studies using up to 10 grams daily found no serious adverse effects. The main considerations:</p>
+<ul>
+<li><strong>Blood pressure</strong> — some reports of mild reductions</li>
+<li><strong>Heart rhythm</strong> — if you have existing cardiac issues, consult a doctor (the energy drink association isn't entirely baseless)</li>
+<li><strong>GI discomfort</strong> — high doses may cause nausea</li>
+</ul>
+<p>For healthy individuals, 3g pre-workout is well-tolerated.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Taurine isn't going to transform your physique overnight. But the science is clear: it's an effective, affordable, and safe supplement that improves performance, reduces recovery time, and may support muscle-building indirectly.</p>
+<p>At $0.10-0.20 per dose, it's also ridiculously cheap — especially compared to overpriced "pump products" with weaker evidence.</p>
+<p><strong>Consider adding taurine to your stack if you:</strong></p>
+<ul>
+<li>Train in hot environments</li>
+<li>Struggle with post-workout soreness</li>
+<li>Want a cheap edge on endurance and power output</li>
+<li>Already take creatine and caffeine and want one more proven addition</li>
+</ul>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>"Does One Shot Work? The Acute Impact of a Single Taurine Dose on Exercise Performance: A Meta-Analytic Review" — PubMed, 2025</li>
+<li>"The effect of taurine supplementation on markers of muscle damage and muscle pain in an athletic population" — ScienceDirect, 2025</li>
+<li>"Taurine Supplementation and Human Heat Tolerance" — Nutrients, 2026</li>
+<li>"Taurine in sports and exercise" — Journal of the International Society of Sports Nutrition, 2024</li>
+</ol>
+<hr>
+<p><em>Track your taurine supplementation with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","dileucine-supplement-muscle-protein-synthesis-research",{"href":"/blog/dileucine-supplement-muscle-protein-synthesis-research","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Dileucine: The Amino Acid Combo That Outperforms Leucine?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research suggests dileucine—a bonded leucine pair—may trigger 60% greater muscle protein synthesis than leucine alone. Here's what the science says."}]]}],["$","$Ld","foam-rolling-recovery-science-2025",{"href":"/blog/foam-rolling-recovery-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Foam Rolling for Muscle Growth: What the 2024-2025 Research Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science on foam rolling has matured significantly. We break down what recent research reveals about its effects on recovery, performance, and yes — even muscle growth."}]]}],["$","$Ld","intermittent-fasting-muscle-building-research-2026",{"href":"/blog/intermittent-fasting-muscle-building-research-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Intermittent Fasting for Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

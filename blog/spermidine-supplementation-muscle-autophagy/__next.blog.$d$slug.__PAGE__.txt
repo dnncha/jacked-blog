@@ -1,0 +1,241 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb14,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy#webpage","url":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy","name":"Spermidine Supplementation for Muscle Health: The Complete Guide","description":"Discover how spermidine activates autophagy—the cellular cleanup process that keeps your muscles functioning optimally—and why it might be the missing piece...","breadcrumb":{"@id":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy#webpage"},"headline":"Spermidine Supplementation for Muscle Health: The Complete Guide","description":"Discover how spermidine activates autophagy—the cellular cleanup process that keeps your muscles functioning optimally—and why it might be the missing piece...","isAccessibleForFree":true,"wordCount":1341,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Spermidine Supplementation for Muscle Health: The Complete Guide","item":"https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Spermidine Supplementation for Muscle Health: The Complete Guide"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Discover how spermidine activates autophagy—the cellular cleanup process that keeps your muscles functioning optimally—and why it might be the missing piece in your supplement stack."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Spermidine%20Supplementation%20for%20Muscle%20Health%3A%20The%20Complete%20Guide&url=https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-spermidine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-spermidine","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What is Spermidine?"}]}],["$","li","the-science-of-autophagy-and-muscle-quality",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-autophagy-and-muscle-quality","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Autophagy and Muscle Quality"}]}],["$","li","spermidine-s-mechanism-of-action",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#spermidine-s-mechanism-of-action","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Spermidine's Mechanism of Action"}]}],["$","li","the-eif5a-hypusination-pathway",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-eif5a-hypusination-pathway","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The eIF5A Hypusination Pathway"}]}],["$","li","ampk-foxo3a-activation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#ampk-foxo3a-activation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"AMPK-FOXO3a Activation"}]}],["$","li","mtor-independent-induction",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#mtor-independent-induction","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"mTOR-Independent Induction"}]}],["$","li","comparison-to-urolithin-a",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#comparison-to-urolithin-a","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Comparison to Urolithin A"}]}],["$","li","research-spermidine-exercise-muscle-magic",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#research-spermidine-exercise-muscle-magic","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Research: Spermidine + Exercise = Muscle Magic"}]}],["$","li","human-evidence-supplementation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#human-evidence-supplementation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Human Evidence & Supplementation"}]}],["$","li","practical-application-for-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-application-for-lifters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Application for Lifters"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T2a06,<p>If you're serious about building muscle and staying strong into your 40s, 50s, and beyond, you need to understand autophagy. It's the cellular cleaning process that keeps your muscle fibers running like well-oiled machines—and spermidine might be the missing piece of your supplement stack.</p>
+<h2 id="what-is-spermidine">What is Spermidine?</h2>
+<p>Spermidine is a polyamine compound found in every living cell in your body. Think of it as one of those essential maintenance molecules that cells need to function properly. Your body produces it naturally, but here's the problem: production declines sharply after age 40.</p>
+<p>This isn't just academic. When spermidine levels drop, so does your cells' ability to clean themselves out. Damaged proteins accumulate. Mitochondria become dysfunctional. Muscle quality suffers.</p>
+<p>You can get spermidine from food—wheat germ, soybeans, mushrooms, and aged cheese are all decent sources. But to get a therapeutic dose, you'd need to eat quantities that aren't practical. A typical Western diet provides maybe 1-3 mg of spermidine daily. Research suggests you might need 10-50 mg to see meaningful benefits.</p>
+<p>That's where supplementation comes in.</p>
+<h2 id="the-science-of-autophagy-and-muscle-quality">The Science of Autophagy and Muscle Quality</h2>
+<p>Autophagy—literally "self-eating" in Greek—is your body's way of cleaning house at the cellular level. When autophagy is working properly, your cells identify damaged proteins, broken mitochondria, and other cellular debris, envelop them in membranes, and deliver them to lysosomes for recycling.</p>
+<p>For muscle tissue, this process is critical. Your muscle fibers are constantly under stress from training. Small amounts of damage happen with every set, every rep. Autophagy cleans up the wreckage so your muscles can rebuild stronger.</p>
+<p>But here's the catch: autophagy declines with age. Studies show autophagy markers drop significantly after 40. The result? Damaged proteins accumulate in muscle tissue. Mitochondrial function deteriorates. Muscle quality declines even if you're still training hard.</p>
+<p>This explains why many lifters notice recovery slowing down in their late 30s and 40s. They're doing everything right in the gym, but their cells aren't cleaning up efficiently anymore.</p>
+<h2 id="spermidine-s-mechanism-of-action">Spermidine's Mechanism of Action</h2>
+<p>How does spermidine flip the autophagy switch back on? The science is fascinating.</p>
+<h3 id="the-eif5a-hypusination-pathway">The eIF5A Hypusination Pathway</h3>
+<p>This is the cutting-edge stuff. Recent research discovered that spermidine undergoes a unique modification called hypusination to activate eIF5A (eukaryotic initiation factor 5A). This modified eIF5A is essential for autophagy induction. Without it, the autophagy cascade stalls.</p>
+<p>Here's why this matters: the hypusination pathway is distinct from mTOR, the more famous autophagy regulator. This means spermidine can potentially boost autophagy even when mTOR is active—like after a protein-rich meal when you'd normally expect autophagy to be suppressed.</p>
+<h3 id="ampk-foxo3a-activation">AMPK-FOXO3a Activation</h3>
+<p>Spermidine also activates AMPK (AMP-activated protein kinase), the cellular energy sensor. When AMPK gets activated, it triggers a cascade that includes FOXO3a—a transcription factor that turns on genes involved in autophagy and muscle protein breakdown.</p>
+<p>This is important for lifters because FOXO3a activation helps clear out damaged cellular components, making room for new mitochondria and healthy muscle protein. The result: better muscle quality over time.</p>
+<h3 id="mtor-independent-induction">mTOR-Independent Induction</h3>
+<p>Unlike some autophagy promoters that work primarily through mTOR inhibition, spermidine uses multiple pathways. This gives it a more nuanced effect and potentially fewer side effects than pharmaceutical mTOR inhibitors.</p>
+<img src="https://mermaid.ink/img/Zmxvd2NoYXJ0IFRECiAgICBBW1NwZXJtaWRpbmVdIC0tPiBCW2VJRjVBIEh5cHVzaW5hdGlvbl0KICAgIEEgLS0-IENbQU1QSyBBY3RpdmF0aW9uXQogICAgQSAtLT4gRFttVE9SLUluZGVwZW5kZW50IFBhdGh3YXlzXQogICAgCiAgICBCIC0tPiBFW0F1dG9waGFneSBJbmR1Y3Rpb25dCiAgICBDIC0tPiBGW0ZPWE8zYSBBY3RpdmF0aW9uXQogICAgRiAtLT4gRQogICAgRCAtLT4gRQogICAgCiAgICBFIC0tPiBHW0RhbWFnZWQgUHJvdGVpbnMgQ2xlYXJlZF0KICAgIEUgLS0-IEhbTWl0b2Nob25kcmlhIFJlY3ljbGVkXQogICAgRSAtLT4gSVtNdXNjbGUgUXVhbGl0eSBJbXByb3ZlZF0KICAgIAogICAgc3R5bGUgQSBmaWxsOiNlMWY1ZmUKICAgIHN0eWxlIEcgZmlsbDojYzhlNmM5CiAgICBzdHlsZSBIIGZpbGw6I2M4ZTZjOQogICAgc3R5bGUgSSBmaWxsOiNjOGU2Yzk" alt="Training concept diagram for this article" class="mermaid-diagram" loading="lazy" />
+<h3 id="comparison-to-urolithin-a">Comparison to Urolithin A</h3>
+<p>If you've read our article on urolithin A, you might be wondering how spermidine compares. Both promote autophagy, but through different mechanisms:</p>
+<ul>
+<li><strong>Urolithin A:</strong> Primarily works through mitophagy (mitochondrial-specific autophagy)</li>
+<li><strong>Spermidine:</strong> Broader effect, works through multiple pathways including the eIF5A mechanism</li>
+</ul>
+<p>They're complementary, not redundant. Think of urolithin A as a specialist for mitochondria, while spermidine is more of a general contractor for cellular cleanup.</p>
+<h2 id="research-spermidine-exercise-muscle-magic">Research: Spermidine + Exercise = Muscle Magic</h2>
+<p>Here's where things get exciting for lifters. Several animal studies show that spermidine combined with exercise produces synergistic benefits for muscle health.</p>
+<p>In one notable study, researchers induced muscle atrophy in mice through hindlimb suspension (basically simulated space flight conditions—known to cause rapid muscle loss). Then they gave some mice spermidine while others got nothing. Both groups did resistance exercise.</p>
+<p>The results were striking. The spermidine + exercise group showed significantly better muscle fiber preservation and even hypertrophy compared to exercise alone. The mechanism? Enhanced AMPK-FOXO3a pathway activation, reduced cellular apoptosis, and improved autophagic flux.</p>
+<p>Another study found that spermidine supplementation enhanced the muscle satellite cell response to overload training. Satellite cells are the muscle stem cells that respond to damage and help with repair and growth. More activation = more growth potential.</p>
+<p>Human evidence is still emerging. Epidemiological studies consistently show that higher dietary spermidine intake correlates with better longevity markers and reduced all-cause mortality. But direct muscle-specific trials in young, resistance-trained humans are limited.</p>
+<p>What we have are promising signals: cognitive benefits in elderly populations, improved cardiovascular markers, and the mechanistic studies suggesting muscle benefits should translate. It's not definitive proof, but it's enough to make it worth considering.</p>
+<h2 id="human-evidence-x26-supplementation">Human Evidence &#x26; Supplementation</h2>
+<p>Let's be clear: the strongest evidence for spermidine comes from epidemiological studies showing that people who eat more spermidine-rich foods live longer. Direct supplementation studies in young, healthy, resistance-trained populations are thin.</p>
+<p>That said, the existing human trials aren't nothing:</p>
+<ul>
+<li>A 2018 study in Nature Aging showed that spermidine supplementation improved cognitive function in older adults</li>
+<li>Cardiovascular studies show improved blood pressure and arterial stiffness</li>
+<li>The KETA-COG trial is looking at cognitive outcomes in older adults</li>
+</ul>
+<p>Typical doses in research range widely—from 1-6 mg/kg of body weight to supplemental doses of 500mg to 3 grams of spermidine trihydrochloride. The lower end seems to work for most people.</p>
+<p>Forms matter. Most supplements use spermidine trihydrochloride, which is the most bioavailable form. Some use wheat germ extract, which contains spermidine along with other compounds. Both work; it's more about consistency than the specific form.</p>
+<h2 id="practical-application-for-lifters">Practical Application for Lifters</h2>
+<p>Who should consider spermidine? Based on the evidence:</p>
+<p><strong>Ideal candidates:</strong></p>
+<ul>
+<li>Lifters over 35 who notice slower recovery</li>
+<li>Anyone focused on muscle longevity (not just building, but maintaining)</li>
+<li>People whose training results have plateaued despite good programming</li>
+<li>Those interested in the autophagy/longevity angle</li>
+</ul>
+<p><strong>Dosage:</strong> Start with 500mg of spermidine trihydrochloride daily. You can go up to 1-2g if you're heavier or want a more aggressive approach.</p>
+<p><strong>Timing:</strong> Spermidine can be taken with or without food. For lifters, taking it with your post-workout meal makes sense—that's when you're already optimizing muscle protein synthesis.</p>
+<p><strong>Stacking:</strong> Spermidine plays well with others. Consider combining with:</p>
+<ul>
+<li>Protein (obviously)</li>
+<li>Urolithin A (complementary autophagy mechanisms)</li>
+<li>Creatine (different pathways, same goal: better muscle quality)</li>
+<li>Omega-3s (cellular membrane health)</li>
+</ul>
+<p>One important note: don't expect dramatic effects. Spermidine isn't going to add 10 pounds of muscle in a month. It's a gradual, cellular-level optimization. Think of it as infrastructure improvement, not immediate performance gain.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Spermidine supplementation for muscle health sits in an interesting evidence space: promising but not definitive. The mechanistic work is solid. The animal data is compelling. The human epidemiological data supports the general concept. But direct evidence in young, resistance-trained humans is still lacking.</p>
+<p>That said, if you're a serious lifter focused on long-term muscle health—especially if you're over 35—it's worth trying. The potential upside (better cellular cleanup, improved mitochondrial function, better recovery) is significant. The downside is minimal—spermidine is generally well-tolerated.</p>
+<p><strong>Key takeaways:</strong></p>
+<ol>
+<li>Spermidine declines with age, and so does autophagy</li>
+<li>It works through multiple mechanisms including the novel eIF5A pathway</li>
+<li>Evidence suggests synergy with resistance training</li>
+<li>Typical dose: 500mg-2g daily of spermidine trihydrochloride</li>
+<li>Complementary to urolithin A, not redundant</li>
+</ol>
+<p>If you're optimizing for muscle longevity, add it to your stack. Just manage your expectations—this is a slow burn, not a quick fix.</p>
+<hr>
+<p><em>Track your longevity with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","time-under-tension-hypertrophy-science",{"href":"/blog/time-under-tension-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Time Under Tension: The Science of Controlled Reps for Maximum Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research reveals the optimal time your muscles need to spend under tension for hypertrophy—and why slow reps might be the missing piece in your training."}]]}],["$","$Ld","nicotinamide-riboside-nad-muscle-health",{"href":"/blog/nicotinamide-riboside-nad-muscle-health","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Nicotinamide Riboside Supplementation for Muscle Health: The NAD+ Story"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"NR reliably boosts NAD+ levels, but does that actually translate to better muscle performance? We examine the science behind the hype."}]]}],["$","$Ld","satellite-cells-muscle-growth-science",{"href":"/blog/satellite-cells-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Satellite Cells: How Your Muscles Actually Grow"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Beyond mechanical tension and metabolic stress lies a cellular army that determines your muscle growth potential. Understanding satellite cells could be the key to maximizing your hypertrophy gains."}]]}],["$","$Ld","urolithin-a-mitophagy-muscle-health",{"href":"/blog/urolithin-a-mitophagy-muscle-health","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Urolithin A Supplementation for Muscle Health: The Mitophagy Story"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"What the science actually says about urolithin A's effects on muscle strength, mitochondrial health, and whether it's worth your money."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

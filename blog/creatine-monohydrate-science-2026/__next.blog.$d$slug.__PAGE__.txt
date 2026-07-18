@@ -1,0 +1,209 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tabc,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/creatine-monohydrate-science-2026#webpage","url":"https://jacked.coach/blog/creatine-monohydrate-science-2026","name":"Creatine Monohydrate: The Science Behind the Most Researched Supplement","description":"A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths.","breadcrumb":{"@id":"https://jacked.coach/blog/creatine-monohydrate-science-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/creatine-monohydrate-science-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/creatine-monohydrate-science-2026#webpage"},"headline":"Creatine Monohydrate: The Science Behind the Most Researched Supplement","description":"A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths.","isAccessibleForFree":true,"wordCount":727,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/creatine-monohydrate-science-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Creatine Monohydrate: The Science Behind the Most Researched Supplement","item":"https://jacked.coach/blog/creatine-monohydrate-science-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Creatine Monohydrate: The Science Behind the Most Researched Supplement"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Creatine%20Monohydrate%3A%20The%20Science%20Behind%20the%20Most%20Researched%20Supplement&url=https://jacked.coach/blog/creatine-monohydrate-science-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-creatine-actually-does",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-creatine-actually-does","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Creatine Actually Does"}]}],["$","li","the-muscle-building-mechanism",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-muscle-building-mechanism","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Muscle-Building Mechanism"}]}],["$","li","dosage-the-evidence-based-approach",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#dosage-the-evidence-based-approach","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Dosage: The Evidence-Based Approach"}]}],["$","li","common-myths-debunked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#common-myths-debunked","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Common Myths Debunked"}]}],["$","li","myth-1-creatine-causes-water-retention-and-bloating",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#myth-1-creatine-causes-water-retention-and-bloating","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Myth 1: Creatine Causes Water Retention and Bloating"}]}],["$","li","myth-2-creatine-is-bad-for-your-kidneys",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#myth-2-creatine-is-bad-for-your-kidneys","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Myth 2: Creatine is Bad for Your Kidneys"}]}],["$","li","myth-3-you-need-to-cycle-creatine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#myth-3-you-need-to-cycle-creatine","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Myth 3: You Need to Cycle Creatine"}]}],["$","li","myth-4-creatine-works-only-for-power-athletes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#myth-4-creatine-works-only-for-power-athletes","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Myth 4: Creatine Works Only for Power Athletes"}]}],["$","li","who-should-take-creatine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-take-creatine","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Take Creatine"}]}],["$","li","who-might-skip-it",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-might-skip-it","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Might Skip It"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1701,<p>Creatine monohydrate is the most thoroughly researched sports supplement on the planet. With over 1,000 peer-reviewed studies spanning three decades, it remains the gold standard for improving strength and power output. Yet confusion persists. Should you load? Is creatine safe? Does it actually build muscle or just make you look fuller? Here's what the 2024-2026 science actually shows.</p>
+<h2 id="what-creatine-actually-does">What Creatine Actually Does</h2>
+<p>Creatine is a naturally occurring compound found in muscle cells, synthesized from amino acids in the kidneys and liver. Your body produces about 1-2 grams daily, and you also get it from red meat and fish.</p>
+<p>The science is straightforward: creatine increases your muscles' phosphocreatine (PCr) stores. PCr is your primary energy system for activities lasting 10 seconds or less—sprints, heavy singles, maximal jumps. When PCr is topped up, you recover faster between sets and produce more force in that critical 1-5 rep range.</p>
+<p>A 2025 systematic review and meta-analysis published in <em>Nutrients</em> (Kazeminasab et al.) confirmed significant improvements in both upper and lower body strength and power following creatine supplementation, with effects enhanced when combined with resistance training.</p>
+<h2 id="the-muscle-building-mechanism">The Muscle-Building Mechanism</h2>
+<p>Here's what most people miss: creatine doesn't just help you lift heavier—it directly influences muscle growth through multiple pathways:</p>
+<ol>
+<li><strong>Cell hydration</strong> — Creatine draws water into muscle cells, creating an anabolic environment that may trigger muscle protein synthesis</li>
+<li><strong>Increased training volume</strong> — More reps and sets possible per session = more total volume = more growth stimulus</li>
+<li><strong>Satellite cell activation</strong> — Research suggests creatine may increase satellite cell proliferation, aiding muscle repair and growth</li>
+<li><strong>Myostatin modulation</strong> — Preliminary 2024-2025 research indicates creatine may slightly reduce myostatin (the hormone that limits muscle growth)</li>
+</ol>
+<p>A 2025 Frontiers in Nutrition study even showed creatine supplementation increased muscle strength and size in older adults with Alzheimer's disease—populations with significant anabolic resistance—suggesting benefits extend well beyond young athletes.</p>
+<h2 id="dosage-the-evidence-based-approach">Dosage: The Evidence-Based Approach</h2>
+<p>The research supports two phases:</p>
+<p><strong>Loading phase (optional but faster):</strong> 20g daily (4 × 5g) for 5-7 days to saturate muscle creatine stores quickly.</p>
+<p><strong>Maintenance phase:</strong> 3-5g daily to maintain saturated stores.</p>
+<p>Recent meta-analyses (2024-2025) confirm that lower doses (3g) still work but take 3-4 weeks to reach full effect versus 1-2 weeks with loading. If you're patient, a simple 3-5g daily works fine—no loading required.</p>
+<h2 id="common-myths-debunked">Common Myths Debunked</h2>
+<h3 id="myth-1-creatine-causes-water-retention-and-bloating">Myth 1: Creatine Causes Water Retention and Bloating</h3>
+<p>Partially true—but it's intramuscular water retention, not subcutaneous. The "bloat" is actually your muscles looking fuller and more defined. This is the desired effect. If anything, creatine improves water balance at the cellular level.</p>
+<h3 id="myth-2-creatine-is-bad-for-your-kidneys">Myth 2: Creatine is Bad for Your Kidneys</h3>
+<p>Multiple long-term studies (including 2024-2025 follow-ups on renal function in athletes using creatine for 5+ years) show no adverse effects in healthy individuals with normal kidney function. The myth persists because creatinine—a kidney function marker—increases with creatine use, but this is expected and not indicative of damage.</p>
+<h3 id="myth-3-you-need-to-cycle-creatine">Myth 3: You Need to Cycle Creatine</h3>
+<p>No scientific support for cycling. Muscles don't become "resistant" to creatine. Once saturated, you stay saturated as long as you maintain 3-5g daily. Stopping causes gradual return to baseline over 2-4 weeks—no crash, no withdrawal.</p>
+<h3 id="myth-4-creatine-works-only-for-power-athletes">Myth 4: Creatine Works Only for Power Athletes</h3>
+<p>Wrong. While power athletes see the most dramatic acute effects, 2024-2025 research confirms creatine benefits strength athletes, bodybuilders, and even endurance athletes (with appropriate dosing to avoid unnecessary weight gain).</p>
+<h2 id="who-should-take-creatine">Who Should Take Creatine</h2>
+<p>The evidence supports creatine for:</p>
+<ul>
+<li><strong>Resistance trainees</strong> seeking strength and size gains</li>
+<li><strong>Power athletes</strong> (football, sprinting, jumping)</li>
+<li><strong>Older adults</strong> combating age-related muscle loss (sarcopenia)</li>
+<li><strong>Vegetarians/vegans</strong> who get minimal dietary creatine</li>
+</ul>
+<h2 id="who-might-skip-it">Who Might Skip It</h2>
+<ul>
+<li>Elite endurance athletes where every gram of body weight matters</li>
+<li>People with certain kidney conditions (consult a doctor)</li>
+<li>Those unwilling to commit to consistent daily intake</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Creatine monohydrate isn't sexy. It won't generate Instagram hype or sell supplements with flashy marketing. But it's the most cost-effective, evidence-backed supplement in existence. A month's supply costs roughly €10-15, and the return on investment—consistent 5-15% strength improvements over baseline—is better than any other ergogenic aid.</p>
+<p>If you're serious about building muscle and strength, there's no legitimate scientific argument against creatine monohydrate. The only question is why you haven't started yet.</p>
+<hr>
+<p><em>Get Jacked and track your strength gains. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","creatine-science-2025",{"href":"/blog/creatine-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Creatine: What 2025 Research Really Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","hypertrophy-training-myths-2026",{"href":"/blog/hypertrophy-training-myths-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hypertrophy Training Myths: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"We separate fact from fiction with the latest research on muscle building. No bro-science allowed."}]]}],["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

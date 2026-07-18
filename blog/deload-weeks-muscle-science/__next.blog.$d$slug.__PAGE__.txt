@@ -1,0 +1,241 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tabd,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/deload-weeks-muscle-science#webpage","url":"https://jacked.coach/blog/deload-weeks-muscle-science","name":"The Science of Deload Weeks: When to Rest for Maximum Gains","description":"Research shows deload weeks may not boost hypertrophy, but they're crucial for long-term progress and injury prevention. Here's what the science actually says.","breadcrumb":{"@id":"https://jacked.coach/blog/deload-weeks-muscle-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/deload-weeks-muscle-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/deload-weeks-muscle-science#webpage"},"headline":"The Science of Deload Weeks: When to Rest for Maximum Gains","description":"Research shows deload weeks may not boost hypertrophy, but they're crucial for long-term progress and injury prevention. Here's what the science actually says.","datePublished":"2025-01-01","dateModified":"2025-01-01","isAccessibleForFree":true,"wordCount":915,"articleSection":"Recovery","about":["hypertrophy training","progressive overload","workout tracking","Recovery"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Rest Time Calculator","url":"https://jacked.coach/tools/rest-time-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/deload-weeks-muscle-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Science of Deload Weeks: When to Rest for Maximum Gains","item":"https://jacked.coach/blog/deload-weeks-muscle-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Recovery"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Science of Deload Weeks: When to Rest for Maximum Gains"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Research shows deload weeks may not boost hypertrophy, but they're crucial for long-term progress and injury prevention. Here's what the science actually says."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Recovery"}],["$","span",null,{"children":["Published ","January 1, 2025"]}],["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Science%20of%20Deload%20Weeks%3A%20When%20to%20Rest%20for%20Maximum%20Gains&url=https://jacked.coach/blog/deload-weeks-muscle-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","rest-time-calculator",{"href":"/tools/rest-time-calculator","data-related-tool":"rest-time-calculator","children":"Rest Time Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-exactly-is-a-deload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-exactly-is-a-deload","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Exactly Is a Deload?"}]}],["$","li","the-science-does-deload-actually-work",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-does-deload-actually-work","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: Does Deload Actually Work?"}]}],["$","li","the-hypertrophy-question",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-hypertrophy-question","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Hypertrophy Question"}]}],["$","li","what-about-longer-breaks",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-about-longer-breaks","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What About Longer Breaks?"}]}],["$","li","why-deloads-still-matter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-deloads-still-matter","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Deloads Still Matter"}]}],["$","li","1-injury-prevention",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-injury-prevention","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Injury Prevention"}]}],["$","li","2-mental-refresh",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-mental-refresh","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Mental Refresh"}]}],["$","li","3-long-term-performance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-long-term-performance","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Long-Term Performance"}]}],["$","li","4-managing-non-functional-overreaching-nfor",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-managing-non-functional-overreaching-nfor","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Managing Non-Functional Overreaching (NFOR)"}]}],["$","li","expert-consensus-when-to-deload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#expert-consensus-when-to-deload","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Expert Consensus: When to Deload"}]}],["$","li","practical-deload-strategies",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-deload-strategies","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Deload Strategies"}]}],["$","li","option-1-volume-deload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-1-volume-deload","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option 1: Volume Deload"}]}],["$","li","option-2-intensity-deload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-2-intensity-deload","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option 2: Intensity Deload"}]}],["$","li","option-3-complete-rest",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-3-complete-rest","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option 3: Complete Rest"}]}]]}]]}]
+e:T1d73,<p>We've all been there—you're crushing your workouts, progressive overload is working, and then someone suggests taking a "deload week." It feels counterintuitive. Less training? More gains? Seems backwards. But deload weeks are one of the most debated topics in resistance training, and the science might surprise you.</p>
+<h2 id="what-exactly-is-a-deload">What Exactly Is a Deload?</h2>
+<p>Before diving into the research, let's clarify what we mean by "deload." A 2023 International Delphi Consensus study involving 21 expert strength and physique coaches defined deloading as:</p>
+<blockquote>
+<p><em>"A period of reduced training stress designed to mitigate physiological and psychological fatigue, promote recovery, and enhance preparedness for subsequent training."</em></p>
+</blockquote>
+<p>Key word: <strong>reduced</strong>, not eliminated. A proper deload isn't sitting on the couch for a week—it's decreasing training volume, intensity, or both while still maintaining some mechanical stimulus.</p>
+<h2 id="the-science-does-deload-actually-work">The Science: Does Deload Actually Work?</h2>
+<h3 id="the-hypertrophy-question">The Hypertrophy Question</h3>
+<p>A 2024 study published in PeerJ put the deload hypothesis to the test. Researchers took 39 resistance-trained individuals and split them into two groups:</p>
+<ul>
+<li><strong>DELOAD group</strong>: Performed 9 weeks of high-volume training with a 1-week deload at the midpoint</li>
+<li><strong>TRAD group</strong>: Performed 9 weeks of continuous training</li>
+</ul>
+<p>The results? <strong>No significant difference in muscle growth</strong> between groups. The deload didn't hurt hypertrophy, but it didn't help either.</p>
+<p>However—and this is a big however—the <strong>traditional training group showed greater improvements in both isometric and dynamic lower body strength</strong>. The researchers also noted some slight psychological benefits in the control group.</p>
+<p>This challenges the popular notion that deloads "re-sensitize" muscles to anabolic stimuli. While the theory sounds good (muscle fatigue → deload → muscles "reset" → even better growth), the evidence doesn't strongly support it.</p>
+<h3 id="what-about-longer-breaks">What About Longer Breaks?</h3>
+<p>Earlier research from Ogasawara et al. examined 3-week training cessation periods after 6 weeks of training. Over 15-24 week periods, <strong>no statistically significant differences</strong> were observed in muscular strength or hypertrophy between continuous training and deload groups.</p>
+<p>This suggests that for muscle building specifically, strategic deloads aren't necessary for optimal results—but they're not harmful either.</p>
+<h2 id="why-deloads-still-matter">Why Deloads Still Matter</h2>
+<p>If deloads don't boost hypertrophy, why do 87-99% of competitive strength athletes use them? Because they serve other critical functions:</p>
+<h3 id="1-injury-prevention">1. Injury Prevention</h3>
+<p>Continuous high-intensity training accumulates fatigue. Without periodic relief, your form breaks down, increasing injury risk. A deload acts as a pressure release valve.</p>
+<h3 id="2-mental-refresh">2. Mental Refresh</h3>
+<p>Training burnout is real. The 2024 study noted psychological readiness to train was sometimes better in continuous training groups, but that was over just 9 weeks. Over months or years, mental fatigue becomes a major barrier to consistency.</p>
+<h3 id="3-long-term-performance">3. Long-Term Performance</h3>
+<p>While deloads might slightly blunt short-term strength gains, they may preserve long-term progress by preventing overtraining. The goal isn't one good month—it's decades of consistent training.</p>
+<h3 id="4-managing-non-functional-overreaching-nfor">4. Managing Non-Functional Overreaching (NFOR)</h3>
+<p>If you're constantly fatigued, sleeping poorly, and feeling run-down, a deload can help distinguish between normal training stress and problematic overreaching.</p>
+<p>If you need a quick decision aid, the <a href="/tools/deload-calculator">deload calculator</a> can help turn performance and fatigue signals into a practical back-off plan.</p>
+<h2 id="expert-consensus-when-to-deload">Expert Consensus: When to Deload</h2>
+<p>The Delphi study reached consensus on several key points:</p>
+<ul>
+<li><strong>Frequency</strong>: Most athletes benefit from a deload after 4-8 weeks of progressive training</li>
+<li><strong>Duration</strong>: 5-7 days is standard</li>
+<li><strong>Volume reduction</strong>: Decrease training volume by 40-60% while maintaining intensity</li>
+<li><strong>Exercise selection</strong>: Keep the same exercises, just with less volume</li>
+</ul>
+<p>The survey also found that athletes typically reduce training intensity (load) and effort (more repetitions in reserve) during deloads while maintaining the same exercise selection.</p>
+<h2 id="practical-deload-strategies">Practical Deload Strategies</h2>
+<p>Based on the research, here are evidence-based approaches:</p>
+<h3 id="option-1-volume-deload">Option 1: Volume Deload</h3>
+<ul>
+<li>Reduce sets and reps by 50%</li>
+<li>Keep intensity (weight) the same</li>
+<li>Ideal for: Hypertrophy-focused trainees</li>
+</ul>
+<h3 id="option-2-intensity-deload">Option 2: Intensity Deload</h3>
+<ul>
+<li>Keep volume normal</li>
+<li>Reduce weight by 20-30%</li>
+<li>Ideal for: Strength-focused athletes</li>
+</ul>
+<h3 id="option-3-complete-rest">Option 3: Complete Rest</h3>
+<ul>
+<li>3-7 days off from lifting</li>
+<li>Active recovery (walking, light stretching)</li>
+<li>Ideal for: Signs of overtraining or injury recovery</li>
+</ul>
+<h3 id="option-4-autoregulation-based">Option 4: Autoregulation-Based</h3>
+<ul>
+<li>Use RPE/RIR to guide deload timing</li>
+<li>When average session RPE exceeds normal by 1-2 points for 2+ weeks, deload</li>
+<li>Ideal for: Advanced trainees using auto-regulation</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p><strong>For hypertrophy</strong>: You don't need regular deloads. Muscle growth continues with consistent training. However, occasional deloads won't hurt and may help with recovery.</p>
+<p><strong>For strength</strong>: Periodic deloads may slightly blunt peak strength gains but help maintain long-term progression.</p>
+<p><strong>For longevity and injury prevention</strong>: Delos are valuable. The goal is decades of training, not maximizing every single week.</p>
+<p><strong>For the Jacked app user</strong>: If you're using autoprogression, your program naturally adjusts intensity based on performance. However, consider scheduling a deliberate deload every 4-8 weeks—reduce volume by roughly half for 5-7 days while keeping your exercises the same. Your muscles might not "re-sensitize," but your joints, nervous system, and motivation will thank you.</p>
+<p>The best program is one you can sustain. If that means occasional deloads to prevent burnout, they're earn their place in your routine.</p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>Seigel JA, et al. (2024). "Gaining more from doing less? The effects of a one-week deload period during supervised resistance training on muscular adaptations." <em>PeerJ</em>.</li>
+<li>Bell LN, et al. (2023). "Integrating Deloading into Strength and Physique Sports Training Programmes: An International Delphi Consensus Approach." <em>Sports Medicine - Open</em>.</li>
+<li>Ogasawara R, et al. (2013). "Intermittent and continuous training effects on muscle hypertrophy." <em>Journal of Sports Science and Medicine</em>.</li>
+</ol>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","rest-periods-hypertrophy-science",{"href":"/blog/rest-periods-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters guess at rest times. Science tells a different story — your between-set rest period directly impacts muscle growth, strength gains, and training volume. Here's what the research actually shows."}]]}],["$","$Ld","intermittent-fasting-muscle-building-research-2026",{"href":"/blog/intermittent-fasting-muscle-building-research-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Intermittent Fasting for Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals."}]]}],["$","$Ld","forearm-hypertrophy-training-science",{"href":"/blog/forearm-hypertrophy-training-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Forearm Hypertrophy: What Actually Works"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters neglect their forearms, yet they're crucial for pulling strength and overall arm aesthetics. Here's what the research actually says about building bigger, stronger forearms."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

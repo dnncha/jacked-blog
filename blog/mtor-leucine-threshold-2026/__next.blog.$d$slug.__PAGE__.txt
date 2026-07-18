@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta8e,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/mtor-leucine-threshold-2026#webpage","url":"https://jacked.coach/blog/mtor-leucine-threshold-2026","name":"mTOR Activation: The Science Behind Your Muscle-Building Switch","description":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger.","breadcrumb":{"@id":"https://jacked.coach/blog/mtor-leucine-threshold-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/mtor-leucine-threshold-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/mtor-leucine-threshold-2026#webpage"},"headline":"mTOR Activation: The Science Behind Your Muscle-Building Switch","description":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger.","isAccessibleForFree":true,"wordCount":757,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/mtor-leucine-threshold-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"mTOR Activation: The Science Behind Your Muscle-Building Switch","item":"https://jacked.coach/blog/mtor-leucine-threshold-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"mTOR Activation: The Science Behind Your Muscle-Building Switch"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=mTOR%20Activation%3A%20The%20Science%20Behind%20Your%20Muscle-Building%20Switch&url=https://jacked.coach/blog/mtor-leucine-threshold-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-mtor",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-mtor","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is mTOR?"}]}],["$","li","the-leucine-threshold-your-anabolic-switch",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-leucine-threshold-your-anabolic-switch","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Leucine Threshold: Your Anabolic Switch"}]}],["$","li","the-magic-numbers",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-magic-numbers","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Magic Numbers"}]}],["$","li","how-mtor-controls-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-mtor-controls-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How mTOR Controls Muscle Growth"}]}],["$","li","practical-applications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications"}]}],["$","li","protein-dosing-strategy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#protein-dosing-strategy","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Protein Dosing Strategy"}]}],["$","li","what-suppresses-mtor",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-suppresses-mtor","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What Suppresses mTOR?"}]}],["$","li","age-related-considerations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#age-related-considerations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Age-Related Considerations"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T19d5,<p>If you've ever wondered what actually flips the "muscle-building switch" in your body, the answer lies in a pathway called mTOR (mechanistic target of rapamycin). This molecular master regulator controls whether your muscles grow or shrink, and understanding how to optimize it can mean the difference between mediocrity and maximum hypertrophy.</p>
+<h2 id="what-is-mtor">What Is mTOR?</h2>
+<p>mTOR (mechanistic target of rapamycin) is a serine/threonine kinase that exists in two functionally distinct protein complexes: <strong>mTORC1</strong> and <strong>mTORC2</strong> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9720898/">PMC9720898</a>.</p>
+<p>For muscle building, mTORC1 is the key player. It acts as a central hub that integrates signals from:</p>
+<ul>
+<li><strong>Amino acids</strong> (especially leucine)</li>
+<li><strong>Mechanical load</strong> (resistance training)</li>
+<li><strong>Growth factors</strong> (IGF-1)</li>
+<li><strong>Hormones</strong> (insulin)</li>
+</ul>
+<p>When mTORC1 is activated, it triggers protein synthesis—the process by which your body builds new muscle tissue. When it's suppressed, muscle protein synthesis drops, and atrophy can occur.</p>
+<h2 id="the-leucine-threshold-your-anabolic-switch">The Leucine Threshold: Your Anabolic Switch</h2>
+<p>Here's where 2024-2025 research gets fascinating. A groundbreaking study identified a <strong>leucine-mediated threshold effect</strong> for mTOR signaling. The key finding: approximately <strong>25-30 grams of high-quality protein per meal</strong> maximally activates mTOR <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11448845/">PMC11448845</a>.</p>
+<p>Why leucine? Leucine is the "anabolic amino acid"—it's the specific trigger that tells mTOR to turn on muscle protein synthesis. Think of leucine as the key that unlocks the door to muscle growth.</p>
+<h3 id="the-magic-numbers">The Magic Numbers</h3>
+<p>Based on recent research, the optimal protein per meal to maximize MPS:</p>
+<ul>
+<li><strong>20-40 grams</strong> of high-quality, complete protein is generally considered adequate</li>
+<li>The <strong>leucine threshold</strong> is reached at approximately <strong>2.5-3g of leucine</strong> per meal</li>
+<li>This translates to roughly <strong>25g of whey protein</strong> or <strong>30-35g of casein/egg protein</strong></li>
+</ul>
+<p>For reference, here's leucine content in common protein sources:</p>
+<p>| Food | Protein (g) | Leucine (g) |
+|------|-------------|-------------|
+| Whey protein (30g) | 24g | 2.4g |
+| Eggs (3 large) | 18g | 1.4g |
+| Chicken breast (100g) | 31g | 2.5g |
+| Beef (100g) | 26g | 2.2g |
+| Greek yogurt (200g) | 17g | 1.1g |</p>
+<h2 id="how-mtor-controls-muscle-growth">How mTOR Controls Muscle Growth</h2>
+<p>Once activated, mTORC1 initiates muscle protein synthesis through several downstream pathways <a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1635219/full">Frontiers in Medicine, 2025</a>:</p>
+<ol>
+<li><strong>p70S6K activation</strong>: Phosphorylates ribosomal protein S6, enhancing translation initiation</li>
+<li><strong>4E-BP1 inhibition</strong>: Releases eIF4E to promote protein translation</li>
+<li><strong>Ribosomal biogenesis</strong>: Increases production of new ribosomes for protein synthesis</li>
+<li><strong>Autophagy suppression</strong>: Inhibits muscle breakdown while building</li>
+</ol>
+<p>Research from 2025 confirms that resistance training causes muscle hypertrophic remodeling primarily through <strong>mTOR-mediated protein synthesis</strong>—this pathway is non-negotiable for muscle growth.</p>
+<h2 id="practical-applications">Practical Applications</h2>
+<h3 id="protein-dosing-strategy">Protein Dosing Strategy</h3>
+<p>Based on the leucine threshold research, here's how to optimize your protein intake:</p>
+<p><strong>The 25-30g Rule</strong>: Each meal should contain at least 25g of high-quality protein to maximally activate mTOR. This doesn't mean more is always better—research shows diminishing returns above this threshold for a single meal.</p>
+<p><strong>Meal Frequency</strong>: The ISSN recommends spreading protein across <strong>4-5 meals</strong> to maximize muscle protein synthesis throughout the day. If you're eating 160g protein daily, four 40g meals or five 32g meals both work well.</p>
+<p><strong>Pre- and Post-Workout</strong>: While the "anabolic window" has been overstated, consuming protein (25-30g) within a couple hours of training provides amino acids when mTOR sensitivity is elevated from exercise.</p>
+<h3 id="what-suppresses-mtor">What Suppresses mTOR?</h3>
+<p>Understanding what <em>inhibits</em> mTOR is just as important:</p>
+<ul>
+<li><strong>Insufficient protein/leucine intake</strong></li>
+<li><strong>Rapamycin</strong> (immunosuppressant drug—hence the name)</li>
+<li><strong>Insufficient sleep</strong></li>
+<li><strong>Chronic caloric restriction</strong> (without adequate protein)</li>
+<li><strong>Aging</strong> (mTOR sensitivity decreases)</li>
+</ul>
+<h2 id="age-related-considerations">Age-Related Considerations</h2>
+<p>Here's a crucial finding from 2025 research: older adults may need more protein to trigger the same mTOR response. A study in GeroScience found that while resistance training increased basal muscle protein synthesis, the response to leucine supplementation alone was blunted in older women <a href="https://link.springer.com/article/10.1007/s11357-025-01877-2">GeroScience, 2025</a>.</p>
+<p><strong>Practical implication</strong>: If you're over 40, you may need:</p>
+<ul>
+<li>Higher daily protein intake (up to 2.4g/kg)</li>
+<li>More leucine per meal (closer to 3g)</li>
+<li>Potentially supplementing with leucine-rich foods</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>mTOR is the master switch for muscle growth, and leucine is the key that activates it. Here's your action plan:</p>
+<ol>
+<li><strong>Eat 25-30g+ quality protein per meal</strong> to maximally activate mTOR</li>
+<li><strong>Aim for 2.5-3g leucine per meal</strong> (whey hits this easily; plant proteins need careful combining)</li>
+<li><strong>Space protein feedings every 3-4 hours</strong> to keep MPS elevated</li>
+<li><strong>Train hard</strong>—resistance training sensitizes mTOR to amino acids</li>
+<li><strong>Don't fear carbs and fats</strong>—they don't suppress mTOR and insulin helps</li>
+</ol>
+<p>Understanding the science behind mTOR lets you stop guessing and start optimizing. Your muscles are waiting for the signal—give them what they need.</p>
+<hr>
+<p><em>Track your mTOR with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","sleep-growth-hormone-brain-circuits-2026",{"href":"/blog/sleep-growth-hormone-brain-circuits-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Sleep-Muscle Connection: UC Berkeley Scientists Map the Brain's Growth Hormone Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals exactly how sleep triggers muscle-building hormones—and why the sleep-hormone balance may be the most important factor in your gains."}]]}],["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,219 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb09,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/bone-density-resistance-training-science#webpage","url":"https://jacked.coach/blog/bone-density-resistance-training-science","name":"Bone Density and Resistance Training: The Science of Stronger Bones","description":"New meta-analysis reveals optimal resistance training parameters for bone mineral density. Here's what the research says about intensity, frequency, and dura...","breadcrumb":{"@id":"https://jacked.coach/blog/bone-density-resistance-training-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/bone-density-resistance-training-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/bone-density-resistance-training-science#webpage"},"headline":"Bone Density and Resistance Training: The Science of Stronger Bones","description":"New meta-analysis reveals optimal resistance training parameters for bone mineral density. Here's what the research says about intensity, frequency, and dura...","isAccessibleForFree":true,"wordCount":786,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Strong CSV Import Checker","url":"https://jacked.coach/tools/strong-csv-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/bone-density-resistance-training-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Bone Density and Resistance Training: The Science of Stronger Bones","item":"https://jacked.coach/blog/bone-density-resistance-training-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Bone Density and Resistance Training: The Science of Stronger Bones"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New meta-analysis reveals optimal resistance training parameters for bone mineral density. Here's what the research says about intensity, frequency, and duration."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Bone%20Density%20and%20Resistance%20Training%3A%20The%20Science%20of%20Stronger%20Bones&url=https://jacked.coach/blog/bone-density-resistance-training-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","strong-csv-import-checker",{"href":"/tools/strong-csv-import-checker","data-related-tool":"strong-csv-import-checker","children":"Strong CSV Import Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-bone-building-mechanism",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bone-building-mechanism","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bone-Building Mechanism"}]}],["$","li","what-the-research-says-2025-meta-analysis",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-research-says-2025-meta-analysis","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Research Says (2025 Meta-Analysis)"}]}],["$","li","optimal-parameters-for-bone-health",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-parameters-for-bone-health","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Parameters for Bone Health"}]}],["$","li","power-training-the-x-factor",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#power-training-the-x-factor","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Power Training: The X-Factor"}]}],["$","li","who-should-care",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-care","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Care?"}]}],["$","li","the-practical-program",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-practical-program","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Practical Program"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T184e,<p>Most lifters think about building muscle, losing fat, or getting stronger. But there's a silent benefit to resistance training that doesn't get nearly enough attention: <strong>bone density</strong>.</p>
+<p>Your bones are living tissue. They respond to mechanical stress by becoming denser and stronger. And the best way to apply that stress? Lifting weights.</p>
+<h2 id="the-bone-building-mechanism">The Bone-Building Mechanism</h2>
+<p>Here's what happens when you lift: your muscles contract and pull on your bones. This mechanical loading creates stress that osteocytes (bone cells) detect. In response, they upregulate <strong>Wnt1 expression</strong> — a signaling pathway that activates osteoblasts, the cells responsible for building new bone.</p>
+<p>Simultaneously, resistance training <strong>reduces sclerostin</strong>, a protein that normally inhibits bone formation. Less sclerostin = more bone-building activity.</p>
+<p>A 2025 meta-analysis published in <em>Frontiers in Physiology</em> confirmed what exercise scientists suspected: resistance training significantly improves bone mineral density (BMD) at the lumbar spine, femoral neck, and total hip. These aren't minor gains either — the effect sizes were substantial (SMD = 0.88 for lumbar spine).</p>
+<h2 id="what-the-research-says-2025-meta-analysis">What the Research Says (2025 Meta-Analysis)</h2>
+<p>A comprehensive review of 17 randomized controlled trials involving 690 postmenopausal women (the population most at risk for bone loss) found:</p>
+<ul>
+<li><strong>High-intensity training (≥70% 1RM)</strong> significantly improved BMD at the hip and femoral neck</li>
+<li><strong>Training 3 times per week</strong> was optimal across all skeletal sites</li>
+<li><strong>Durations of 48+ weeks</strong> showed the most significant improvements</li>
+<li><strong>40-minute sessions</strong> produced the best results for lumbar spine BMD</li>
+</ul>
+<p>This matters because osteoporosis isn't a old person's problem starting in your 30s. You lose about 1% of bone density per year after peak bone mass (around age 30). By 50, you're actively losing. Resistance training is one of the few interventions that directly counteracts this.</p>
+<h2 id="optimal-parameters-for-bone-health">Optimal Parameters for Bone Health</h2>
+<p>Based on the latest research, here's what works:</p>
+<p><strong>Intensity</strong>: ≥70% of your 1RM. Higher intensities create greater mechanical strain on bone, triggering stronger osteogenic responses. This doesn't mean you need to max out — working in the 70-85% range is sufficient.</p>
+<p><strong>Frequency</strong>: 3 sessions per week. This provides consistent mechanical stimulus without overloading recovery. Your bones need time to rebuild, but they also need regular challenges.</p>
+<p><strong>Volume</strong>: The meta-analysis found 40-minute sessions optimal. This doesn't mean hours in the gym — focused, intense work beats long sessions.</p>
+<p><strong>Exercise Selection</strong>: Compound movements matter. The research highlighted deadlifts, back squats, and overhead presses as particularly effective. These exercises load the spine and major weight-bearing bones.</p>
+<p><strong>Progressive Overload</strong>: Just like muscle, bone adapts to increased demands. Gradually increasing load ensures continued bone remodeling.</p>
+<h2 id="power-training-the-x-factor">Power Training: The X-Factor</h2>
+<p>A study in the <em>Journal of Applied Physiology</em> found that <strong>power training</strong> (explosive movements with moderate loads) was more effective than traditional strength training for maintaining bone density in postmenopausal women.</p>
+<p>This makes sense mechancially — power training involves higher velocity movements, creating different loading patterns that stimulate bone in ways slow, heavy lifting alone might miss.</p>
+<p>Practical application: Include some explosive work. Box jumps, jump squats, clean pulls, or even throwing movements can add osteogenic stimulus.</p>
+<h2 id="who-should-care">Who Should Care?</h2>
+<p>Everyone, but especially:</p>
+<ul>
+<li><strong>Anyone over 30</strong> — peak bone mass is behind you; now it's maintenance mode</li>
+<li><strong>Postmenopausal women</strong> — estrogen decline accelerates bone loss</li>
+<li><strong>People with family history of osteoporosis</strong> — genetics load the gun; lifestyle pulls the trigger</li>
+<li><strong>Athletes in high-impact sports</strong> — you might be getting enough stimulus already</li>
+<li><strong>Anyone who's ever broken a bone</strong> — past fractures predict future fractures</li>
+</ul>
+<h2 id="the-practical-program">The Practical Program</h2>
+<p>Based on the science, a bone-building session might look like:</p>
+<ol>
+<li><strong>Squat pattern</strong> (back squat, front squat, or leg press): 3-4 sets of 5-8 reps at 75-80% 1RM</li>
+<li><strong>Hip hinge</strong> (deadlift or RDL): 3-4 sets of 5-8 reps</li>
+<li><strong>Vertical push</strong> (overhead press): 3 sets of 6-8 reps</li>
+<li><strong>Power movement</strong> (jump squat or explosive lunge): 3 sets of 5-6 reps</li>
+<li><strong>Carry/loaded walk</strong> (farmers walk): 3-4 sets of 40-60 seconds</li>
+</ol>
+<p>Three sessions per week, with at least one rest day between sessions. After 48 weeks, you should see measurable improvements in DEXA scan results.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Bone density is the forgotten pillar of fitness. Muscles get all the attention, but your skeleton is what keeps you moving. The good news: you don't need special equipment or complicated programs. Heavy compound lifting, done consistently, at adequate intensity, builds bone as effectively as it builds muscle.</p>
+<p>Start before you need it. Osteoporosis is easier to prevent than reverse.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Frontiers in Physiology (2025): Meta-analysis of resistance training and BMD in postmenopausal women</li>
+<li>Journal of Applied Physiology: Power vs strength training for bone density</li>
+<li>PMC12107943: Optimal resistance training parameters for BMD</li>
+</ul>
+<hr>
+<p><em>Track your strength training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-frequency-muscle-growth-2025",{"href":"/blog/training-frequency-muscle-growth-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Training Frequency: What the 2025 Research Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A new meta-analysis reveals surprising insights about how often you should train each muscle group for maximum growth—and it's not what most people think."}]]}],["$","$Ld","training-to-failure-proximity",{"href":"/blog/training-to-failure-proximity","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training to Failure: What Science Says About Proximity to Failure"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New meta-analysis reveals training closer to failure helps muscle growth but isn't necessary for strength gains. Here's what the research means for your training."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}],["$","$Ld","supersets-hypertrophy-science-2026",{"href":"/blog/supersets-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supersets for Hypertrophy: What the Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

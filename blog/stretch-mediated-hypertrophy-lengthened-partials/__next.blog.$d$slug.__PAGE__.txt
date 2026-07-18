@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb99,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials#webpage","url":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials","name":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth","description":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediat...","breadcrumb":{"@id":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials#webpage"},"headline":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth","description":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediat...","isAccessibleForFree":true,"wordCount":862,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth","item":"https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Lengthened%20Partial%20Revolution%3A%20How%20Training%20in%20the%20Stretched%20Position%20Maximizes%20Muscle%20Growth&url=https://jacked.coach/blog/stretch-mediated-hypertrophy-lengthened-partials","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-the-lengthened-position",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-the-lengthened-position","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is the Lengthened Position?"}]}],["$","li","the-2025-research-breakthrough",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-2025-research-breakthrough","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The 2025 Research Breakthrough"}]}],["$","li","key-findings",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#key-findings","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Key Findings:"}]}],["$","li","practical-applications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications"}]}],["$","li","1-emphasize-the-bottom-of-your-reps",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-emphasize-the-bottom-of-your-reps","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Emphasize the Bottom of Your Reps"}]}],["$","li","2-use-lengthened-partial-reps-strategically",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-use-lengthened-partial-reps-strategically","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Use Lengthened Partial Reps Strategically"}]}],["$","li","3-add-stretched-holds",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-add-stretched-holds","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Add \"Stretched Holds\""}]}],["$","li","4-consider-equipment-choices",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-consider-equipment-choices","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Consider Equipment Choices"}]}],["$","li","the-caveats",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-caveats","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Caveats"}]}],["$","li","putting-it-all-together",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#putting-it-all-together","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Putting It All Together"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#references","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"References"}]}]]}]]}]
+e:T1a9d,<p>If you've been paying attention to the latest hypertrophy research, you've probably heard about "lengthened partials" or "stretch-mediated hypertrophy." But what if I told you that <em>where</em> you train within your range of motion might matter just as much as how much weight you're lifting?</p>
+<p>Recent research from 2025 has thrown a wrench into the conventional wisdom that "any full-range rep is equally effective for muscle growth." The science now shows that training in the <strong>lengthened position</strong>—the point where your muscle is under the most stretch—can significantly enhance hypertrophy compared to mid-range or shortened positions.</p>
+<h2 id="what-is-the-lengthened-position">What Is the Lengthened Position?</h2>
+<p>Every exercise has a range of motion. When you're doing a bicep curl, the lengthened position is at the bottom (elbow fully extended), with the bicep stretched. The shortened position is at the top (elbow fully flexed). The mid-range is somewhere in between.</p>
+<p>Research now suggests that <strong>the lengthened portion of any exercise may be where the magic happens</strong> for muscle growth.</p>
+<blockquote>
+<p>"Muscles are strongest in the mid-range and weakest in the lengthened position—but growth appears to be greatest when trained in that lengthened position." — Brad Schoenfeld</p>
+</blockquote>
+<p>This seems counterintuitive: we're told to train through a full range of motion, but now it seems the <em>specific portion</em> where your muscle is stretched might be the most important.</p>
+<h2 id="the-2025-research-breakthrough">The 2025 Research Breakthrough</h2>
+<p>A significant study from Schoenfeld's lab in 2025 confirmed what coaches like John Meadows had observed anecdotally for years: training in the lengthened position produces superior hypertrophy gains.</p>
+<p>The mechanism behind this is called <strong>stretch-mediated hypertrophy</strong>. When a muscle is placed under tension while lengthened, it appears to activate different growth pathways than training in neutral or shortened positions.</p>
+<h3 id="key-findings">Key Findings:</h3>
+<ol>
+<li><strong>Full ROM isn't always optimal</strong> — Deep stretching at the bottom of movements may contribute disproportionately to muscle growth</li>
+<li><strong>Lengthened partials can match or exceed full-range training</strong> — When the bottom portion of a lift is emphasized, you may get equal or better results with less total range of motion</li>
+<li><strong>The stretch is where damage occurs</strong> — Muscle damage (a driver of hypertrophy) appears to be greatest in the lengthened position</li>
+</ol>
+<h2 id="practical-applications">Practical Applications</h2>
+<p>So how do you apply this to your training? Here are some evidence-based strategies:</p>
+<h3 id="1-emphasize-the-bottom-of-your-reps">1. Emphasize the Bottom of Your Reps</h3>
+<p>Don't just go through the motions—<em>own the stretch</em>. When doing bicep curls, let the weight pull you down fully. In bench press, touch your chest (with control). In squats, go deep.</p>
+<h3 id="2-use-lengthened-partial-reps-strategically">2. Use Lengthened Partial Reps Strategically</h3>
+<p>For exercises like lat pulldowns or leg extensions, you can deliberately emphasize the stretched portion:</p>
+<ul>
+<li><strong>Lat pulldowns</strong>: Focus on the stretch at the bottom before pulling</li>
+<li><strong>Leg extensions</strong>: Control the descent fully rather than stopping mid-range</li>
+<li><strong>Curls</strong>: Let the weight stretch you fully at the bottom of each rep</li>
+</ul>
+<h3 id="3-add-stretched-holds">3. Add "Stretched Holds"</h3>
+<p>At the bottom of your main compound lifts, hold for 2-3 seconds in the stretched position. This increases time under tension in the lengthened state.</p>
+<h3 id="4-consider-equipment-choices">4. Consider Equipment Choices</h3>
+<p>Some equipment naturally emphasizes the lengthened position:</p>
+<ul>
+<li><strong>Decline bench</strong> for chest</li>
+<li><strong>Romanian deadlifts</strong> for hamstrings</li>
+<li><strong>Low-pulley rows</strong> for lats</li>
+<li><strong>Hack squats</strong> for quads</li>
+</ul>
+<h2 id="the-caveats">The Caveats</h2>
+<p>Before you completely restructure your training, consider these nuances:</p>
+<ul>
+<li><strong>Heavy compounds still matter</strong>: For overall strength and body composition, traditional full-range lifts remain essential</li>
+<li><strong>Safety first</strong>: Don't sacrifice form to chase the stretch—controlled eccentrics in the lengthened position are key</li>
+<li><strong>Individual variation</strong>: Not everyone responds identically; some may need more volume in mid-range</li>
+<li><strong>Joint health</strong>: Aggressive stretching under load can stress joints—progress gradually</li>
+</ul>
+<h2 id="putting-it-all-together">Putting It All Together</h2>
+<p>The lengthened position isn't a magic bullet, but it's a powerful tool in your hypertrophy toolkit. Here's how to integrate it:</p>
+<ol>
+<li><strong>Primary compounds</strong>: Use full range of motion with controlled eccentrics—own the stretch at the bottom</li>
+<li><strong>Isolation exercises</strong>: Consider lengthened partials or paused reps in the stretched position</li>
+<li><strong>Time under tension</strong>: Add 2-3 second pauses in the stretched position for key exercises</li>
+<li><strong>Exercise selection</strong>: Prioritize movements that naturally allow deep stretches (decline press, RDLs, low-pulley rows)</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The conventional advice to "use full range of motion" isn't wrong—but it's incomplete. The science now shows that <em>where</em> you train within that range matters. By emphasizing the lengthened position, you may be able to stimulate more muscle growth with the same or even less total range of motion.</p>
+<p>The "stretched position revolution" doesn't mean abandoning everything you know about training. It means being more intentional about the portion of each rep where your muscle is under the most mechanical stress. That's where the growth happens.</p>
+<hr>
+<h3 id="references">References</h3>
+<ol>
+<li>Schoenfeld, B.J. et al. (2025). "Effects of Range of Motion on Muscle Hypertrophy: New Perspectives." <em>Journal of Strength and Conditioning Research</em>.</li>
+<li>Hirono, T. et al. (2025). "Mechanisms of Stretch-Mediated Hypertrophy." <em>Sports Medicine Open</em>.</li>
+<li>Vigotsky, A.D., et al. (2017). "Role of Muscle Architecture in Hypertrophy." <em>Frontiers in Physiology</em>.</li>
+<li>Bello, et al. (2025). "Light vs. Heavy Loads for Muscle Thickness." <em>British Journal of Sports Medicine</em>.</li>
+</ol>
+<hr>
+<p><em>Track your stretch-mediated hypertrophy with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","proximity-to-failure-hypertrophy-2026",{"href":"/blog/proximity-to-failure-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Load Debate Revisited: What 2025-2026 Research Really Says About Building Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that proximity to failure matters more than load for hypertrophy, but there's a catch. Here's what the latest science tells us about optimizing your training."}]]}],["$","$Ld","protein-quality-pdcaas-diaas-muscle-growth",{"href":"/blog/protein-quality-pdcaas-diaas-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Protein Quality: Why Your Body Doesn't Care About the Label"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that protein quality—measured by PDCAAS and DIAAS scores—may matter more than total intake for muscle growth. Here's what the science says."}]]}],["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

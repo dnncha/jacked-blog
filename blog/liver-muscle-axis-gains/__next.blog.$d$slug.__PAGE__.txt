@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+10:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+2:Ta65,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/liver-muscle-axis-gains#webpage","url":"https://jacked.coach/blog/liver-muscle-axis-gains","name":"The Liver-Muscle Axis: How Your Liver Dictates Your Gains","description":"Most lifters focus on training and protein intake, but ignore the organ most critical to muscle growth. Your liver is the hidden engine driving protein synth...","breadcrumb":{"@id":"https://jacked.coach/blog/liver-muscle-axis-gains#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/liver-muscle-axis-gains#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/liver-muscle-axis-gains#webpage"},"headline":"The Liver-Muscle Axis: How Your Liver Dictates Your Gains","description":"Most lifters focus on training and protein intake, but ignore the organ most critical to muscle growth. Your liver is the hidden engine driving protein synth...","isAccessibleForFree":true,"wordCount":1144,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/liver-muscle-axis-gains#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Liver-Muscle Axis: How Your Liver Dictates Your Gains","item":"https://jacked.coach/blog/liver-muscle-axis-gains"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Liver-Muscle Axis: How Your Liver Dictates Your Gains"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Most lifters focus on training and protein intake, but ignore the organ most critical to muscle growth. Your liver is the hidden engine driving protein synthesis, hormone metabolism, and recovery."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Liver-Muscle%20Axis%3A%20How%20Your%20Liver%20Dictates%20Your%20Gains&url=https://jacked.coach/blog/liver-muscle-axis-gains","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-your-liver-does-for-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-your-liver-does-for-muscle","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Your Liver Does for Muscle"}]}],["$","li","1-amino-acid-processing-and-distribution",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-amino-acid-processing-and-distribution","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Amino Acid Processing and Distribution"}]}],["$","li","2-igf-1-production",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-igf-1-production","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. IGF-1 Production"}]}],["$","li","3-glycogen-storage-and-training-capacity",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-glycogen-storage-and-training-capacity","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Glycogen Storage and Training Capacity"}]}],["$","li","4-hepatokines-the-liver-muscle-communication-network",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-hepatokines-the-liver-muscle-communication-network","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Hepatokines: The Liver-Muscle Communication Network"}]}],["$","li","5-hormone-metabolism",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-hormone-metabolism","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Hormone Metabolism"}]}],["$","li","what-damages-your-liver",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-damages-your-liver","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Damages Your Liver"}]}],["$","li","how-to-support-your-liver-for-better-gains",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-support-your-liver-for-better-gains","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Support Your Liver for Better Gains"}]}],["$","li","1-eat-enough-protein-but-not-excessive",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-eat-enough-protein-but-not-excessive","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Eat Enough Protein (But Not Excessive)"}]}],["$","li","2-prioritize-whole-foods",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-prioritize-whole-foods","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Prioritize Whole Foods"}]}],["$","li","3-consider-liver-supporting-compounds",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-consider-liver-supporting-compounds","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Consider Liver-Supporting Compounds"}]}],["$","li","4-get-adequate-sleep",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-get-adequate-sleep","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Get Adequate Sleep"}]}],["$","li","5-moderate-alcohol",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-moderate-alcohol","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Moderate Alcohol"}]}],"$Le"]}]]}]
+f:T224d,<p>When it comes to building muscle, most lifters obsess over protein intake, training volume, and progressive overload. They track macros down to the gram and measure rest periods to the second. Yet there's one organ absolutely critical to muscle growth that gets almost no attention: the liver.</p>
+<p>The liver is the body's metabolic hub. It processes nutrients, regulates hormones, stores glycogen, and determines how many amino acids actually reach your muscles. Ignore it, and you're leaving massive gains on the table.</p>
+<h2 id="what-your-liver-does-for-muscle">What Your Liver Does for Muscle</h2>
+<h3 id="1-amino-acid-processing-and-distribution">1. Amino Acid Processing and Distribution</h3>
+<p>Every gram of protein you eat passes through your liver first. The liver determines how amino acids are distributed—some get used for liver protein synthesis, some are released into circulation for other tissues, and some get converted to glucose or urea [1].</p>
+<p>When you eat protein, your liver acts as a gatekeeper. It absorbs the incoming amino acids and decides the allocation. If your liver is overwhelmed (say, from excessive alcohol, processed food, or fatty liver disease), fewer amino acids reach your muscles [2]. Research shows that liver dysfunction reduces muscle protein synthesis rates, even with adequate amino acid availability [3].</p>
+<h3 id="2-igf-1-production">2. IGF-1 Production</h3>
+<p>Insulin-like growth factor 1 (IGF-1) is one of the most anabolic hormones for muscle growth. And here's what most lifters don't know: your liver produces most of the circulating IGF-1 in response to growth hormone [4].</p>
+<p>When you train, your pituitary releases GH, which signals your liver to produce IGF-1. That IGF-1 then travels through your bloodstream to muscle tissue, activating mTOR and stimulating protein synthesis [5]. If your liver isn't functioning optimally, your IGF-1 production suffers—and so does your ability to build muscle.</p>
+<h3 id="3-glycogen-storage-and-training-capacity">3. Glycogen Storage and Training Capacity</h3>
+<p>Your liver stores roughly 100-120g of glycogen (400-500 calories), plus another 300-400g in your muscles. During training, you burn through muscle glycogen first, but liver glycogen becomes critical during prolonged sessions or when you're training fasted [6].</p>
+<p>Low liver glycogen means reduced training capacity, poorer performance, and compromised recovery. Many lifters who struggle with energy in the gym actually have suboptimal liver glycogen—not a problem with their muscles or motivation.</p>
+<h3 id="4-hepatokines-the-liver-muscle-communication-network">4. Hepatokines: The Liver-Muscle Communication Network</h3>
+<p>Exercise doesn't just affect your muscles—it triggers your liver to release signaling molecules called hepatokines. These proteins communicate with skeletal muscle and other organs to coordinate metabolic adaptations [7].</p>
+<p><strong>FGF21</strong> (Fibroblast Growth Factor 21) is one of the most studied hepatokines. Exercise increases FGF21, which improves insulin sensitivity, enhances glucose uptake in muscle, and promotes fatty acid oxidation [8]. Some research suggests FGF21 may directly stimulate muscle protein synthesis, though findings are mixed [9].</p>
+<p><strong>Irisin</strong> is another hepatokine (actually produced in muscle too) that gets released during exercise. It converts white fat to brown fat and improves metabolic health, indirectly supporting muscle building [10].</p>
+<h3 id="5-hormone-metabolism">5. Hormone Metabolism</h3>
+<p>Your liver is responsible for metabolizing (breaking down) many hormones, including testosterone, estrogen, and cortisol. This might sound negative, but it's actually essential. Without liver-mediated hormone clearance, your body would have dysfunctional hormone levels [11].</p>
+<p>The key insight: an overworked liver struggles to clear excess cortisol (the stress hormone that breaks down muscle), while a healthy liver maintains optimal cortisol regulation. If your liver is fatty or inflamed, cortisol clearance is impaired—and chronic high cortisol destroys muscle tissue.</p>
+<h2 id="what-damages-your-liver">What Damages Your Liver</h2>
+<p>Several factors common among lifters can impair liver function:</p>
+<ul>
+<li><strong>Excessive alcohol</strong>: Even moderate drinking affects liver function and reduces protein synthesis [12]</li>
+<li><strong>High fructose intake</strong>: Excessive sugary foods and processed carbs contribute to fatty liver</li>
+<li><strong>Overuse of certain supplements</strong>: High doses of certain vitamins and minerals stress the liver</li>
+<li><strong>Chronic sleep deprivation</strong>: Poor sleep increases liver fat accumulation [13]</li>
+<li><strong>Certain medications</strong>: NSAIDs and other drugs can strain liver function</li>
+</ul>
+<p>Non-alcoholic fatty liver disease (NAFLD) now affects up to 30% of adults in Western countries—and many don't know they have it. Fatty liver directly impairs the liver's ability to produce IGF-1 and process amino acids [14].</p>
+<h2 id="how-to-support-your-liver-for-better-gains">How to Support Your Liver for Better Gains</h2>
+<h3 id="1-eat-enough-protein-but-not-excessive">1. Eat Enough Protein (But Not Excessive)</h3>
+<p>While protein is essential, extremely high intakes (over 2.2g/kg bodyweight) increase liver workload as the organ processes excess amino acids. Moderate, optimized protein intake (1.6-2.2g/kg) supports muscle without overburdening your liver [15].</p>
+<h3 id="2-prioritize-whole-foods">2. Prioritize Whole Foods</h3>
+<p>Processed foods, especially those high in refined carbohydrates and fructose, contribute to fatty liver. Emphasize whole foods, plenty of vegetables, and adequate fiber to support liver health.</p>
+<h3 id="3-consider-liver-supporting-compounds">3. Consider Liver-Supporting Compounds</h3>
+<p>Certain supplements may support liver function:</p>
+<ul>
+<li><strong>Milk thistle (silymarin)</strong>: May protect liver cells and support regeneration [16]</li>
+<li><strong>TUDCA (tauroursodeoxycholic acid)</strong>: Supports liver function and bile flow</li>
+<li><strong>Vitamin E</strong>: Shown to improve fatty liver in some studies [17]</li>
+</ul>
+<h3 id="4-get-adequate-sleep">4. Get Adequate Sleep</h3>
+<p>Sleep deprivation increases liver fat and impairs glucose metabolism. Aim for 7-9 hours quality sleep nightly—non-negotiable for both recovery and liver health.</p>
+<h3 id="5-moderate-alcohol">5. Moderate Alcohol</h3>
+<p>If you drink, limit it significantly, especially around training periods. Alcohol directly impairs muscle protein synthesis and liver function.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Your liver is the unsung hero of muscle building. It processes the protein you eat, produces IGF-1, regulates hormones, stores glycogen, and communicates with your muscles through hepatokines. Neglect it, and you're leaving significant gains unrealized.</p>
+<p>The fix isn't complicated: eat whole foods, sleep enough, drink moderately, and consider occasional liver-supporting supplements if needed. Your muscles will thank you.</p>
+<hr>
+<p><strong>References:</strong></p>
+<p>[1] Wolfe RR. The underappreciated role of muscle in human protein metabolism. Nutrients. 2019.</p>
+<p>[2] Tessari P, et al. Role of the liver in protein metabolism. Am J Clin Nutr. 1996.</p>
+<p>[3] Das SK, et al. Liver dysfunction and muscle protein synthesis. J Hepatol. 2021.</p>
+<p>[4] Yakar S, et al. Liver-specific IGF-1 deficiency. Growth Horm IGF Res. 2004.</p>
+<p>[5] Veldhuis JD, et al. GH-IGF1 axis interactions in muscle. J Clin Endocrinol Metab. 2005.</p>
+<p>[6] Jensen J, et al. Liver and muscle glycogen in exercise. J Appl Physiol. 2011.</p>
+<p>[7] Hashimoto T, et al. Exercise-induced hepatokines. Am J Physiol Endocrinol Metab. 2020.</p>
+<p>[8] Fisher FM, et al. FGF21 and metabolic regulation. Annu Rev Physiol. 2017.</p>
+<p>[9] Kharitonenkov A, et al. FGF21 and muscle. J Endocrinol. 2015.</p>
+<p>[10] Bostrom P, et al. PGC-1alpha-responsive gene involved in irisin. Nature. 2012.</p>
+<p>[11] Kharitonenkov A, et al. Liver hormone metabolism. Curr Opin Pharmacol. 2016.</p>
+<p>[12] Mysore R, et al. Alcohol and muscle protein synthesis. Alcohol Clin Exp Res. 2021.</p>
+<p>[13] Morris CJ, et al. Sleep deprivation and liver fat. J Hepatol. 2016.</p>
+<p>[14] Younossi ZM, et al. NAFLD prevalence. Hepatology. 2022.</p>
+<p>[15] Morton RW, et al. Protein dose-response relationships. Br J Sports Med. 2018.</p>
+<p>[16] Abenavoli L, et al. Milk thistle in liver disease. Phytother Res. 2018.</p>
+<p>[17] Sato K, et al. Vitamin E and fatty liver. J Hepatol. 2015.</p>
+<hr>
+<p><em>Track your liver health with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","hydration-electrolytes-muscle-building-science",{"href":"/blog/hydration-electrolytes-muscle-building-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hydration and Electrolytes: The Hidden Factor in Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over protein, training volume, and rest—but overlook the fundamentals of hydration. Science shows proper fluid and electrolyte balance can make or break your gains."}]]}],["$","$Ld","thyroid-hormones-muscle-building-metabolism",{"href":"/blog/thyroid-hormones-muscle-building-metabolism","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Thyroid Hormones and Muscle Building: The Metabolic Master Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"How T3 and T4 regulate muscle protein synthesis, metabolism, and recovery—and what lifters need to know about optimizing thyroid function for maximum gains."}]]}],["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","magnesium-strength-training-mineral-gains",{"href":"/blog/magnesium-strength-training-mineral-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Magnesium and Strength Training: The Forgotten Mineral for Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Magnesium influences muscle function, protein synthesis, and recovery. Here's why this mineral deserves more attention in your training stack."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+e:["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]
+12:null

@@ -1,0 +1,220 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb00,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research#webpage","url":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research","name":"Beta-Ecdysterone for Muscle Growth: The Complete Guide","description":"The plant compound that out-performed anabolic steroids in research — and WADA considered banning it. Here's what the science actually shows.","breadcrumb":{"@id":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research#webpage"},"headline":"Beta-Ecdysterone for Muscle Growth: The Complete Guide","description":"The plant compound that out-performed anabolic steroids in research — and WADA considered banning it. Here's what the science actually shows.","datePublished":"2026-03-02","dateModified":"2026-03-02","isAccessibleForFree":true,"wordCount":988,"articleSection":"Supplements","about":["hypertrophy training","progressive overload","workout tracking","Supplements"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Beta-Ecdysterone for Muscle Growth: The Complete Guide","item":"https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Supplements"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Beta-Ecdysterone for Muscle Growth: The Complete Guide"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The plant compound that out-performed anabolic steroids in research — and WADA considered banning it. Here's what the science actually shows."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Supplements"}],["$","span",null,{"children":["Published ","March 2, 2026"]}],["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Beta-Ecdysterone%20for%20Muscle%20Growth%3A%20The%20Complete%20Guide&url=https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-beta-ecdysterone",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-beta-ecdysterone","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What is Beta-Ecdysterone?"}]}],["$","li","the-science-how-it-works",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-how-it-works","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: How It Works"}]}],["$","li","key-human-research",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#key-human-research","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Key Human Research"}]}],["$","li","dosage-supplementation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#dosage-supplementation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Dosage & Supplementation"}]}],["$","li","practical-application-for-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-application-for-lifters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Application for Lifters"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1dd0,<p>Most lifters chasing gains reach for creatine, caffeine, or protein powder without a second thought. But there's a compound that research suggests can build muscle more effectively than some anabolic steroids — without the side effects. It's called beta-ecdysterone, and it's generating serious buzz in the strength training world.</p>
+<p>The interesting part? Beta-ecdysterone isn't some pharmaceutical invention or designer drug. It's a natural compound found in plants like spinach, quinoa, and yuca. And the research on its muscle-building properties is so compelling that WADA (the World Anti-Doping Agency) seriously considered banning it.</p>
+<p>Let's dig into what the science actually shows, how it works, and whether it's worth adding to your supplement stack.</p>
+<h2 id="what-is-beta-ecdysterone">What is Beta-Ecdysterone?</h2>
+<p>Beta-ecdysterone (also spelled β-ecdysterone) is a phytoecdysteroid — a class of compounds that plants produce as a defense mechanism. Interestingly, these compounds mimic the structure of insect molting hormones, which is where the initial curiosity about their effects on mammals came from.</p>
+<p>The most common dietary sources include:</p>
+<ul>
+<li><strong>Spinach</strong> — the most famous source, though you'd need enormous quantities to reach therapeutic doses</li>
+<li><strong>Quinoa</strong> — another decent source, though again, quantity is a factor</li>
+<li><strong>Yuca (cassava)</strong> — contains measurable amounts</li>
+<li><strong>Silene</strong> — a genus of flowering plants with particularly high concentrations</li>
+</ul>
+<p>For supplementation purposes, beta-ecdysterone is typically extracted from these plants into a concentrated form. The key distinction is between pure ecdysterone and spinach extract — the latter may contain other compounds, but the active ingredient is typically standardized.</p>
+<h2 id="the-science-how-it-works">The Science: How It Works</h2>
+<p>Here's where things get interesting. Beta-ecdysterone doesn't work like traditional anabolic steroids. Instead, it binds selectively to estrogen receptors, particularly the beta subtype (ER-β).</p>
+<p>Wait — estrogen receptors? Yes, and that's actually a good thing.</p>
+<p>When beta-ecdysterone binds to ER-β, it triggers a different cascade of events than what you'd see with testosterone or synthetic anabolic steroids. The result is increased protein synthesis, enhanced muscle fiber growth, and improved recovery — but without the androgenic effects that cause issues like hair loss, prostate enlargement, or mood swings.</p>
+<p>The mechanism breaks down like this:</p>
+<ol>
+<li>Beta-ecdysterone binds to ER-β (not the alpha subtype associated with feminine characteristics)</li>
+<li>This triggers increased translation of mRNA related to muscle protein synthesis</li>
+<li>Muscle cells grow larger (hypertrophy) without cellular proliferation</li>
+<li>Recovery time between training sessions improves</li>
+</ol>
+<p>The key differentiator from steroids is that beta-ecdysterone doesn't significantly affect androgenic receptors. That's why the side effect profile appears dramatically different — you're getting the muscle-building benefits without the hormonal disruption.</p>
+<h2 id="key-human-research">Key Human Research</h2>
+<p>The most frequently cited study on beta-ecdysterone and muscle growth is the 2019 Isenmann et al. trial, which recruited 46 trained subjects and ran for 10 weeks. The results were striking:</p>
+<ul>
+<li><strong>Significant increases in muscle mass</strong> compared to placebo</li>
+<li><strong>Measurable improvements in bench press performance</strong></li>
+<li><strong>No adverse effects on liver or kidney function</strong> (a major concern with traditional anabolics)</li>
+</ul>
+<p>The subjects weren't beginners either — they were trained individuals, which makes the results more applicable to serious lifters.</p>
+<p>WADA took notice. In 2022, they considered adding beta-ecdysterone to their prohibited list after reviewing the evidence. Ultimately, they chose not to ban it — partly because the doses required for meaningful effects are difficult to achieve through supplementation alone, and the mechanism is distinct from classic anabolic agents. But the fact that they considered it tells you something about the strength of the data.</p>
+<p>Additional supporting evidence comes from in vitro studies using C2C12 mouse muscle cells. These showed clear increases in protein synthesis when exposed to beta-ecdysterone, confirming the mechanistic pathway observed in human trials.</p>
+<h2 id="dosage-x26-supplementation">Dosage &#x26; Supplementation</h2>
+<p>Research studies have used wide ranging doses — from 2mg up to 800mg daily. The effective range appears to be somewhere in the higher end, with most studies showing benefits at doses of 200-500mg per day.</p>
+<p>Key considerations:</p>
+<p><strong>Bioavailability:</strong> Beta-ecdysterone is fat-soluble, meaning it absorbs better when taken with a meal containing healthy fats. Taking it on an empty stomach will reduce absorption.</p>
+<p><strong>Forms:</strong> Pure ecdysterone powder gives you precise dosing. Spinach extract products may contain other compounds — look for standardization to ensure you're getting actual ecdysterone.</p>
+<p><strong>Timing:</strong> There's no definitive best time, but taking it with your largest meal makes sense given the fat-soluble nature.</p>
+<h2 id="practical-application-for-lifters">Practical Application for Lifters</h2>
+<p>Who should consider beta-ecdysterone? Based on the evidence:</p>
+<ul>
+<li><strong>Trained individuals</strong> — the research shows effects in people already lifting</li>
+<li><strong>Those seeking legal alternatives</strong> — if you want the muscle-building without the legal/ethical concerns</li>
+<li><strong>People sensitive to stimulants</strong> — unlike caffeine or yohimbine, ecdysterone isn't a stimulant</li>
+<li><strong>Advanced lifters</strong> — those who've plateaued on basics like creatine</li>
+</ul>
+<p><strong>Expected timeline:</strong> Based on the 10-week study, give it 8-12 weeks to assess effectiveness. This isn't a quick-hit supplement.</p>
+<p><strong>Stacking:</strong> Beta-ecdysterone stacks well with creatine, protein, and other foundational supplements. There's no known interaction that would make combining them problematic.</p>
+<p><strong>Comparison to other supplements:</strong> It occupies a unique niche — more evidence for direct muscle-building than creatine (which works primarily through cellular hydration), but not as well-studied as caffeine. Think of it as a targeted muscle-building addition rather than a replacement for fundamentals.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Beta-ecdysterone is one of the more intriguing natural compounds for muscle building to emerge in recent years. The human data, while not enormous, is compelling — significant gains in both mass and strength without the side effect profile of traditional anabolics.</p>
+<p>If you're already doing the fundamentals (adequate protein, progressive overload, sufficient sleep), adding beta-ecdysterone could represent a meaningful next edge. The dose to aim for is 200-500mg daily, taken with food.</p>
+<p>It's not a magic bullet, and more research would be welcome. But the fact that WADA considered banning it — and chose not to — tells you everything about how seriously the scientific community takes this compound.</p>
+<hr>
+<p><em>Let Jacked handle your progressive overload. Download and train smarter, not harder.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","citrulline-supplementation-strength-training",{"href":"/blog/citrulline-supplementation-strength-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Citrulline Supplementation for Strength Training: The Pump Amino Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"L-citrulline delivers better pumps and more reps — but it's not about strength. Here's what the research actually shows for hypertrophy-focused lifters."}]]}],["$","$Ld","muscle-pump-myth-2026",{"href":"/blog/muscle-pump-myth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Muscle Pump Myth: What Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"That satisfying pump you feel after a workout might feel like growth, but 2025 research says it's not driving hypertrophy. Here's what the science actually shows."}]]}],["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","beta-ecdysterone-muscle-growth",{"href":"/blog/beta-ecdysterone-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Beta-Ecdysterone for Muscle Growth: The Complete Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does ecdysterone actually work? The science behind this controversial supplement."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

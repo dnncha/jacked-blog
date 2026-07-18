@@ -1,0 +1,277 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+10:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+2:Taf2,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/mental-fatigue-training-performance-cns#webpage","url":"https://jacked.coach/blog/mental-fatigue-training-performance-cns","name":"Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion","description":"Your central nervous system might be holding you back more than your muscles. New research reveals how mental fatigue sabotages training performance and what...","breadcrumb":{"@id":"https://jacked.coach/blog/mental-fatigue-training-performance-cns#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/mental-fatigue-training-performance-cns#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/mental-fatigue-training-performance-cns#webpage"},"headline":"Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion","description":"Your central nervous system might be holding you back more than your muscles. New research reveals how mental fatigue sabotages training performance and what...","isAccessibleForFree":true,"wordCount":936,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/mental-fatigue-training-performance-cns#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion","item":"https://jacked.coach/blog/mental-fatigue-training-performance-cns"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Your central nervous system might be holding you back more than your muscles. New research reveals how mental fatigue sabotages training performance and what you can do about it."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Mental%20Fatigue%20Is%20Killing%20Your%20Gains%3A%20The%20Science%20of%20CNS%20Exhaustion&url=https://jacked.coach/blog/mental-fatigue-training-performance-cns","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-actually-is-mental-fatigue",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-is-mental-fatigue","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Is Mental Fatigue?"}]}],["$","li","the-central-governor-model-your-brain-s-hidden-protector",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-central-governor-model-your-brain-s-hidden-protector","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Central Governor Model: Your Brain's Hidden Protector"}]}],["$","li","how-mental-fatigue-wrecks-your-workouts",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-mental-fatigue-wrecks-your-workouts","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Mental Fatigue Wrecks Your Workouts"}]}],["$","li","1-reduced-force-output",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-reduced-force-output","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Reduced Force Output"}]}],["$","li","2-compromised-technique",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-compromised-technique","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Compromised Technique"}]}],["$","li","3-lowered-motivation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-lowered-motivation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Lowered Motivation"}]}],["$","li","4-increased-injury-risk",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-increased-injury-risk","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Increased Injury Risk"}]}],["$","li","the-day-job-problem",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-day-job-problem","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Day Job Problem"}]}],["$","li","practical-solutions-train-your-brain-save-your-gains",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-solutions-train-your-brain-save-your-gains","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Solutions: Train Your Brain, Save Your Gains"}]}],["$","li","1-schedule-hard-lifts-when-fresh",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-schedule-hard-lifts-when-fresh","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Schedule Hard Lifts When Fresh"}]}],["$","li","2-implement-a-warm-up-for-your-brain",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-implement-a-warm-up-for-your-brain","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Implement a \"Warm-Up\" for Your Brain"}]}],["$","li","3-reduce-decision-fatigue",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-reduce-decision-fatigue","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Reduce Decision Fatigue"}]}],["$","li","4-manage-daily-cognitive-load",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-manage-daily-cognitive-load","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Manage Daily Cognitive Load"}]}],"$Le"]}]]}]
+f:T1d65,<p>You walk into the gym feeling motivated. You've slept well, ate right, and your muscles are rested. But something feels off. Your lifts are weaker. Your form slips. You quit early.</p>
+<p>The problem isn't your muscles. It's your brain.</p>
+<p><strong>Mental fatigue</strong> — that foggy, drained, "I can't be bothered" feeling — is one of the most underappreciated factors limiting training performance. And unlike physical fatigue, it sneaks up on you without warning.</p>
+<h2 id="what-actually-is-mental-fatigue">What Actually Is Mental Fatigue?</h2>
+<p>Mental fatigue is a <strong>psychobiological state</strong> where prolonged cognitive activity impairs your brain's ability to generate and sustain effort. It's not just "being tired." It's a measurable drop in brain function caused by extended mental work.</p>
+<p>Think of your central nervous system (CNS) like a car battery. Every decision, every bit of focus, every moment of stress drains it. By the end of a long workday, your CNS battery is running low — even if your muscles feel fine.</p>
+<p>A 2025 paper in <em>Trends in Cognitive Sciences</em> highlighted that mental fatigue isn't just about feeling sleepy. It's a specific failure of self-regulation and motivational processes in the prefrontal cortex [1].</p>
+<h2 id="the-central-governor-model-your-brain-s-hidden-protector">The Central Governor Model: Your Brain's Hidden Protector</h2>
+<p>Exercise physiologist Timothy Noakes proposed the <strong>Central Governor Model</strong> in the early 2000s. The idea: your brain isn't just a passenger during exercise — it's actively regulating how hard you can work.</p>
+<p>The central governor acts like a <strong>circuit breaker</strong>. When it senses you can't safely continue, it dials back output before you cause physical harm. This shows up as:</p>
+<ul>
+<li>Reduced force production</li>
+<li>Compensatory movement patterns</li>
+<li>Early termination of sets</li>
+<li>"Just not feeling it"</li>
+</ul>
+<p>Here's the key insight: <strong>your CNS can limit your physical performance BEFORE your muscles are actually fatigued.</strong> You're not weak. You're being held back by protective brain mechanisms you don't consciously feel.</p>
+<h2 id="how-mental-fatigue-wrecks-your-workouts">How Mental Fatigue Wrecks Your Workouts</h2>
+<p>Research from the past few years shows mental fatigue impacts training in several concrete ways:</p>
+<h3 id="1-reduced-force-output">1. Reduced Force Output</h3>
+<p>A 2024 study in <em>Journal of Sports Sciences</em> found that 90 minutes of cognitively demanding work dropped maximal voluntary contraction by 12-15% in trained lifters — even though subjects reported feeling "fine" [2].</p>
+<h3 id="2-compromised-technique">2. Compromised Technique</h3>
+<p>When mentally fatigued, your <strong>motor cortex</strong> struggles to coordinate precise movement patterns. This means:</p>
+<ul>
+<li>Shallow squats</li>
+<li>Loose scapular control on bench</li>
+<li>Rushed lockouts on deadlifts</li>
+</ul>
+<p>You're not just lifting less — you're lifting worse.</p>
+<h3 id="3-lowered-motivation">3. Lowered Motivation</h3>
+<p>Mental fatigue blunts your brain's reward signaling. Dopamine release decreases, making effort feel disproportionately hard. That "I can't be bothered" feeling? It's neurological, not character flaw.</p>
+<h3 id="4-increased-injury-risk">4. Increased Injury Risk</h3>
+<p>A 2025 systematic review found cognitive fatigue significantly impaired proprioception and reaction time — both critical for safety under heavy loads [3].</p>
+<h2 id="the-day-job-problem">The Day Job Problem</h2>
+<p>Here's where it gets personal for most lifters:</p>
+<p><strong>Your workday is training for nothing — and draining your gains.</strong></p>
+<p>Every hour of:</p>
+<ul>
+<li>Deep focus work</li>
+<li>Meetings and social interaction</li>
+<li>Decision-making</li>
+<li>Stress about deadlines</li>
+</ul>
+<p>...depletes the same CNS resources you need for lifting. By 6 PM, you might have the physical recovery capacity to crush it — but not the neurological readiness.</p>
+<p>This is why many lifters plateau despite:</p>
+<ul>
+<li>Perfect sleep</li>
+<li>Adequate nutrition</li>
+<li>Sufficient rest between sessions</li>
+</ul>
+<p>The missing piece? <strong>Cognitive recovery.</strong></p>
+<h2 id="practical-solutions-train-your-brain-save-your-gains">Practical Solutions: Train Your Brain, Save Your Gains</h2>
+<h3 id="1-schedule-hard-lifts-when-fresh">1. Schedule Hard Lifts When Fresh</h3>
+<p>If possible, train in the morning before work — or right after a genuine break. Your CNS battery is at its peak.</p>
+<h3 id="2-implement-a-warm-up-for-your-brain">2. Implement a "Warm-Up" for Your Brain</h3>
+<p>5-10 minutes of light cognitive work actually improves subsequent performance. A 2025 study showed a brief mental warm-up reduced the fatigue-induced performance drop by nearly half [4].</p>
+<p>Try:</p>
+<ul>
+<li>Simple reaction-time games</li>
+<li>Breathing exercises</li>
+<li>Visualization of the workout</li>
+</ul>
+<h3 id="3-reduce-decision-fatigue">3. Reduce Decision Fatigue</h3>
+<ul>
+<li>Have a pre-planned workout (no wing-it sessions)</li>
+<li>Lay out clothes the night before</li>
+<li>Use the same pre-workout supplement/routine</li>
+</ul>
+<h3 id="4-manage-daily-cognitive-load">4. Manage Daily Cognitive Load</h3>
+<p>This is the real hack:</p>
+<ul>
+<li><strong>Batch administrative tasks</strong> away from training days</li>
+<li><strong>Take real breaks</strong> at work (no scrolling — actual rest)</li>
+<li><strong>Meditate</strong> — even 10 minutes daily improves CNS resilience [5]</li>
+</ul>
+<h3 id="5-use-cns-supporting-supplements-evidence-based">5. Use CNS-Supporting Supplements (Evidence-Based)</h3>
+<ul>
+<li><strong>Caffeine</strong>: 3-6mg/kg offsets mental fatigue effects [6]</li>
+<li><strong>Rhodiola Rosea</strong>: Shown to reduce perceived exertion in cognitively fatigued states [7]</li>
+<li><strong>Omega-3s</strong>: Support brain function and may improve recovery</li>
+</ul>
+<h3 id="6-deload-more-often">6. Deload More Often</h3>
+<p>If you're genuinely burned out, a deload isn't weakness — it's CNS recalibration. Sometimes the best thing for gains is complete rest.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Your muscles have infinite potential. Your brain has limits.</p>
+<p>The gap between where you are and what you're capable of isn't always muscle. Sometimes it's mental fatigue you don't even realize you carry.</p>
+<p><strong>Train smart. Protect your CNS. Leave no gains on the table.</strong></p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Trends in Cognitive Sciences. (2025). "Origins and consequences of cognitive fatigue."</p>
+</li>
+<li>
+<p>Journal of Sports Sciences. (2024). "Mental fatigue and maximal voluntary contraction in trained individuals."</p>
+</li>
+<li>
+<p>Sports Medicine. (2025). "Current Practices for Mental Fatigue Quantification and Induction in Movement Science."</p>
+</li>
+<li>
+<p>Frontiers in Psychology. (2025). "Cognitive warm-up effects on exercise performance."</p>
+</li>
+<li>
+<p>Neuroscience &#x26; Biobehavioral Reviews. (2024). "Meditation and CNS recovery in athletes."</p>
+</li>
+<li>
+<p>International Journal of Sports Physiology and Performance. (2025). "Caffeine offset of cognitive fatigue."</p>
+</li>
+<li>
+<p>Phytomedicine. (2024). "Rhodiola Rosea and perceived exertion in fatigue states."</p>
+</li>
+</ol>
+<hr>
+<p><em>Track your mental fatigue with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","muscle-memory-science-gains",{"href":"/blog/muscle-memory-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science Behind Why Your Gains Stick"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."}]]}],["$","$Ld","muscle-memory-myonuclei-retention-science",{"href":"/blog/muscle-memory-myonuclei-retention-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows your muscles remember training. New research reveals myonuclear retention means strength returns faster after detraining - here's what that means for your programming."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+e:["$","li","5-use-cns-supporting-supplements-evidence-based",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-use-cns-supporting-supplements-evidence-based","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Use CNS-Supporting Supplements (Evidence-Based)"}]}]
+12:null

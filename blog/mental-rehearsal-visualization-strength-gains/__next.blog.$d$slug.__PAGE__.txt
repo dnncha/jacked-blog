@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tac9,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains#webpage","url":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains","name":"Mental Rehearsal: Can Visualization Actually Build Muscle?","description":"Science shows mental practice can increase strength by 10-15% without lifting a finger. Here's the research and how to apply it.","breadcrumb":{"@id":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains#webpage"},"headline":"Mental Rehearsal: Can Visualization Actually Build Muscle?","description":"Science shows mental practice can increase strength by 10-15% without lifting a finger. Here's the research and how to apply it.","isAccessibleForFree":true,"wordCount":862,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Mental Rehearsal: Can Visualization Actually Build Muscle?","item":"https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Mental Rehearsal: Can Visualization Actually Build Muscle?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Science shows mental practice can increase strength by 10-15% without lifting a finger. Here's the research and how to apply it."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Mental%20Rehearsal%3A%20Can%20Visualization%20Actually%20Build%20Muscle%3F&url=https://jacked.coach/blog/mental-rehearsal-visualization-strength-gains","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-happens-when-you-visualize",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-happens-when-you-visualize","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Happens When You Visualize?"}]}],["$","li","why-does-it-work",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-does-it-work","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Does It Work?"}]}],["$","li","1-neural-pathway-strengthening",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-neural-pathway-strengthening","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Neural Pathway Strengthening"}]}],["$","li","2-motor-unit-recruitment",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-motor-unit-recruitment","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Motor Unit Recruitment"}]}],["$","li","3-reduced-interference",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-reduced-interference","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Reduced Interference"}]}],["$","li","mental-practice-vs-physical-practice",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#mental-practice-vs-physical-practice","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Mental Practice vs. Physical Practice"}]}],["$","li","how-to-visualize-effectively",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-visualize-effectively","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Visualize Effectively"}]}],["$","li","vividness-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#vividness-matters","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Vividness Matters"}]}],["$","li","use-first-person-perspective",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#use-first-person-perspective","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Use First-Person Perspective"}]}],["$","li","contract-the-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#contract-the-muscle","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Contract the Muscle"}]}],["$","li","consistency-beats-duration",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#consistency-beats-duration","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Consistency Beats Duration"}]}],["$","li","practical-applications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications"}]}],["$","li","injury-recovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#injury-recovery","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Injury Recovery"}]}],["$","li","break-plateaus",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#break-plateaus","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Break Plateaus"}]}]]}]]}]
+e:T1a78,<p>Picture this: You're sitting on the couch after a long day, too tired to hit the gym. But what if you could still make gains—without moving a muscle? It sounds like wishful thinking, but decades of research suggest visualization might actually work.</p>
+<p>The concept isn't new. Soviet athletes in the 1960s used mental rehearsal to prepare for competitions. But modern neuroscience has revealed exactly what's happening in your brain and muscles when you visualize a lift—and the results are genuinely compelling.</p>
+<h2 id="what-happens-when-you-visualize">What Happens When You Visualize?</h2>
+<p>When you vividly imagine performing a movement, your brain fires many of the same neural pathways as when you actually do it. This phenomenon is called <strong>motor imagery</strong>, and functional MRI studies show increased activity in the motor cortex, premotor areas, and even the cerebellum during mental practice.</p>
+<p>Here's the kicker: your muscles aren't just passive passengers. Research published in the <em>Journal of Neurophysiology</em> found that mental rehearsal of a fist clenching caused measurable electrical activity in the relevant muscle groups—even though no physical movement occurred. The signals are weaker than real contractions, but they're undeniably present.</p>
+<p>A systematic review in the <em>British Journal of Sports Medicine</em> analyzed 30 studies on mental imagery and muscular strength. The combined data showed that mental practice produced an average <strong>10-15% increase in strength</strong> in the visualized muscles. Not huge, but significant—and this was WITHOUT any physical training.</p>
+<h2 id="why-does-it-work">Why Does It Work?</h2>
+<p>Three mechanisms explain the visualization effect:</p>
+<h3 id="1-neural-pathway-strengthening">1. Neural Pathway Strengthening</h3>
+<p>Repeated mental practice strengthens the cortical-spinal motor pathways. Think of it like mentally rehearsing a speech—the neural "script" becomes more automatic. When you then physically perform the movement, the signals travel more efficiently.</p>
+<h3 id="2-motor-unit-recruitment">2. Motor Unit Recruitment</h3>
+<p>Visualization appears to prime motor units—the bundles of muscle fibers controlled by a single nerve. Research using electromyography (EMG) shows increased muscle activation in the first few sets after a visualization session, suggesting the nervous system is "warmed up."</p>
+<h3 id="3-reduced-interference">3. Reduced Interference</h3>
+<p>Athletes who mentally rehearse movements before sleep show improved performance the next day. This might work through memory consolidation processes that strengthen neural patterns during REM sleep.</p>
+<h2 id="mental-practice-vs-physical-practice">Mental Practice vs. Physical Practice</h2>
+<p>Here's where it gets interesting. Studies consistently show that <strong>combining mental and physical practice beats either alone</strong>.</p>
+<p>In one experiment, participants who visualized finger exercises for 12 weeks showed measurable increases in cortical motor map area—the part of the brain controlling those fingers. Physical training alone produced similar results. But the group doing BOTH showed the greatest improvements.</p>
+<p>This has massive practical implications. If you're injured and can't train, mental rehearsal can prevent strength loss. Some studies show less than 5% strength decline during periods of casting or immobilization when patients performed daily visualization—compared to 20-30% losses in control groups.</p>
+<h2 id="how-to-visualize-effectively">How to Visualize Effectively</h2>
+<p>Not all visualization is created equal. The research points to a few key factors:</p>
+<h3 id="vividness-matters">Vividness Matters</h3>
+<p>The more detailed your mental image, the better. Don't just think "I'm doing a bench press." Picture the weight in your hands, feel the bar's texture, hear the clink of plates, sense your shoulder blades retract. Multisensory imagery activates more brain regions.</p>
+<h3 id="use-first-person-perspective">Use First-Person Perspective</h3>
+<p>Research shows first-person visualization (seeing from your own eyes) activates motor regions more than third-person (watching yourself). Imagine yourself actually performing the lift, not watching a video of yourself.</p>
+<h3 id="contract-the-muscle">Contract the Muscle</h3>
+<p>Mentally "push" during the concentric phase. Feel the muscle shortening. Some athletes find it helpful to make a slight fist or toe curl during visualization—the subtle physical cue enhances the neural effect.</p>
+<h3 id="consistency-beats-duration">Consistency Beats Duration</h3>
+<p>Five minutes daily works better than one 35-minute session per week. The brain responds to repeated, consistent practice.</p>
+<h2 id="practical-applications">Practical Applications</h2>
+<h3 id="injury-recovery">Injury Recovery</h3>
+<p>If you're sidelined with an injury, spend 10 minutes daily visualizing the affected movement. Research on post-surgical patients shows this maintains neural drive and speeds recovery when physical training resumes.</p>
+<h3 id="break-plateaus">Break Plateaus</h3>
+<p>Stuck at the same bench press weight? Add 5 minutes of visualization after your physical session. The mental practice reinforces motor patterns and can unlock new strength.</p>
+<h3 id="complement-your-training">Complement Your Training</h3>
+<p>Use it strategically. Visualize your main compound lift before hitting the gym. A 2016 study on volleyball players found that combined mental-physical practice improved vertical jump more than physical training alone.</p>
+<h3 id="active-recovery-days">Active Recovery Days</h3>
+<p>On rest days, visualize your next training session. This keeps the neural pathways primed without adding physical stress.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Mental rehearsal isn't magic—it's neuromuscular science. It won't replace heavy lifting, but it genuinely enhances strength gains and maintains muscle function when training isn't possible.</p>
+<p>The beautiful thing? It's free, requires no equipment, and you can do it anywhere. Stuck in a meeting? Visualize your next deadlift set during a boring presentation. Can't sleep? Run through your training session mentally.</p>
+<p>Your muscles are listening, even when you're not moving.</p>
+<hr>
+<p><strong>Key Takeaway:</strong> 10-15% strength gains from visualization alone is realistic. Combine it with physical training for 15-20% greater gains than training alone. Use first-person vivid imagery, contract the muscle mentally, and practice consistently—five minutes daily beats one long session weekly.</p>
+<hr>
+<p><em>Track your visualization training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","ashwagandha-strength-training-supplement-science-2026",{"href":"/blog/ashwagandha-strength-training-supplement-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Ashwagandha for Lifters: The Stress-Adaptogen That Builds Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2026 research confirms ashwagandha reduces cortisol, enhances recovery, and increases strength—here's what the science shows about this ancient herb for modern lifters."}]]}],["$","$Ld","apply-hypertrophy-research-training-practical-guide",{"href":"/blog/apply-hypertrophy-research-training-practical-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"How to Apply Hypertrophy Research to Your Training: A Practical Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"85+ research-backed articles later, here's how to actually use the science to build muscle faster."}]]}],["$","$Ld","intermittent-fasting-muscle-building-research-2026",{"href":"/blog/intermittent-fasting-muscle-building-research-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Intermittent Fasting for Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals."}]]}],["$","$Ld","keto-diet-strength-training-muscle-building-2026",{"href":"/blog/keto-diet-strength-training-muscle-building-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Keto for Lifters: Can You Build Muscle on a Ketogenic Diet?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science-backed analysis of ketogenic diets and strength training - what the 2026 research actually shows about muscle building in ketosis."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

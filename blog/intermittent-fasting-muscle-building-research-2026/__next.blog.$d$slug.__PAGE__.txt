@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb46,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026#webpage","url":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026","name":"Intermittent Fasting for Muscle Building: What the Science Actually Says","description":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals.","breadcrumb":{"@id":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026#webpage"},"headline":"Intermittent Fasting for Muscle Building: What the Science Actually Says","description":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals.","isAccessibleForFree":true,"wordCount":665,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Rest Time Calculator","url":"https://jacked.coach/tools/rest-time-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Intermittent Fasting for Muscle Building: What the Science Actually Says","item":"https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Intermittent Fasting for Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Intermittent%20Fasting%20for%20Muscle%20Building%3A%20What%20the%20Science%20Actually%20Says&url=https://jacked.coach/blog/intermittent-fasting-muscle-building-research-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","rest-time-calculator",{"href":"/tools/rest-time-calculator","data-related-tool":"rest-time-calculator","children":"Rest Time Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-the-meta-analyses-show",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-meta-analyses-show","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Meta-Analyses Show"}]}],["$","li","the-feast-famine-cycle-explained",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-feast-famine-cycle-explained","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Feast-Famine Cycle Explained"}]}],["$","li","practical-implications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-implications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Implications"}]}],["$","li","who-should-consider-tre",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-consider-tre","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Consider TRE"}]}],["$","li","who-should-maybe-skip-it",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-maybe-skip-it","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Maybe Skip It"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T13be,<p>Intermittent fasting and time-restricted eating (TRE) have exploded in popularity over the past few years. But if you're lifting heavy and trying to build muscle, you might wonder: does squeezing your eating into a narrow window hurt your gains?</p>
+<p>The research is in, and the answer might surprise you.</p>
+<h2 id="what-the-meta-analyses-show">What the Meta-Analyses Show</h2>
+<p>A 2024 systematic review and meta-analysis published in <em>Nutrients</em> examined the synergistic effects of time-restricted feeding combined with resistance training. The findings were encouraging for those who prefer eating within a constrained window.</p>
+<p>The analysis found that TRE with resistance training produced significant reductions in fat mass while <strong>preserving lean muscle mass</strong>—a critical finding for anyone worried that fasting would cannibalize their gains.</p>
+<p>A 2025 study published in the <em>International Journal of Obesity</em> (Nature) confirmed these results, showing that intermittent fasting had a significant effect on reducing body mass and fat mass relative to non-fasting groups, <strong>without significant differences in fat-free mass</strong> (i.e., muscle).</p>
+<p>Perhaps most interestingly, research from the University of Mississippi (December 2025) found that eating within an 8-hour window while exercising may help burn more fat while preserving muscle compared to eating throughout the day.</p>
+<h2 id="the-feast-famine-cycle-explained">The Feast-Famine Cycle Explained</h2>
+<p>Here's where it gets scientifically interesting. When you combine resistance training with time-restricted eating, you create what researchers call a "feast-famine cycle."</p>
+<p>During your eating window, you provide your body with the anabolic stimuli it needs: protein to trigger muscle protein synthesis, carbohydrates to replenish glycogen, and the mechanical tension from lifting to stimulate growth pathways.</p>
+<p>During your fasting window, you get benefits too: improved insulin sensitivity, increased growth hormone secretion, and enhanced fat oxidation. The repeated cycling between these states may actually prime your body for optimal body composition.</p>
+<p>A 2025 study published in the <em>Journal of the International Society of Sports Nutrition</em> found that the repeated intermittent periods of anabolic stimuli (resistance exercise, protein, carbohydrate) paired with periods of energy restriction may lead to what they call "preferential manipulation of the feast-famine cycle"—resulting in fat-free mass accumulation with limited fat mass gain.</p>
+<h2 id="practical-implications">Practical Implications</h2>
+<p>Based on the current science, here's what you need to know:</p>
+<p><strong>You can maintain muscle on TRE.</strong> Multiple high-quality studies now confirm that time-restricted eating does not significantly impair muscle gains when combined with adequate protein intake and resistance training.</p>
+<p><strong>Protein intake still matters—a lot.</strong> Most studies showing successful muscle preservation with TRE involved protein intakes of 1.6-2.2g/kg body weight. Don't use IF as an excuse to undereat protein.</p>
+<p><strong>The 16:8 protocol is well-studied.</strong> Eating within an 8-hour window and fasting for 16 hours is the most researched approach and shows consistent results for body composition.</p>
+<p><strong>Timing your workouts matters less than you'd think.</strong> Whether you train fasted or within your eating window, research suggests muscle protein synthesis responds similarly—as long as you hit your daily protein targets.</p>
+<h2 id="who-should-consider-tre">Who Should Consider TRE</h2>
+<p>Time-restricted eating might be especially useful if you:</p>
+<ul>
+<li>Struggle with grazing and constant snacking</li>
+<li>Want to improve your metabolic health markers</li>
+<li>Prefer simpler meal planning (fewer meals, bigger portions)</li>
+<li>Are in a cutting phase and want to preserve muscle while losing fat</li>
+</ul>
+<h2 id="who-should-maybe-skip-it">Who Should Maybe Skip It</h2>
+<p>TRE might not be ideal if you:</p>
+<ul>
+<li>Have a history of disordered eating</li>
+<li>Struggle with energy during fasted training</li>
+<li>Are a hardgainer trying to bulk aggressively</li>
+<li>Have metabolic or hormonal issues</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The fear that intermittent fasting will destroy your muscle gains is largely unfounded—at least when implemented properly. The research consistently shows that time-restricted eating combined with resistance training preserves muscle while enhancing fat loss.</p>
+<p>Your gains don't depend on eating every 2-3 hours. They depend on total daily protein, training stimulus, and consistency. If you prefer eating in a compressed window, the science says you're fine.</p>
+<p>As always, the best diet is the one you can stick to. If TRE fits your lifestyle, the research has your back.</p>
+<hr>
+<p><em>Track your intermittent fasting with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}],["$","$Ld","supersets-hypertrophy-science-2026",{"href":"/blog/supersets-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supersets for Hypertrophy: What the Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."}]]}],["$","$Ld","optimal-set-volume-2025-research",{"href":"/blog/optimal-set-volume-2025-research","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The 16 Sets Per Session Limit: New Research on Optimal Training Volume"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent 2025 research reveals a surprising ceiling for training volume per session—going beyond 16 sets may actually hinder muscle growth. Here's what the science says."}]]}],["$","$Ld","glp-1-muscle-preservation-science-2026",{"href":"/blog/glp-1-muscle-preservation-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"GLP-1 Weight Loss Drugs and Muscle Preservation: The Science Behind Keeping Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"With 12% of US adults now using GLP-1 agonists for weight loss, the biggest concern isn't fat loss—it's muscle loss. Here's what the research says about preserving lean tissue during pharmacological weight loss."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

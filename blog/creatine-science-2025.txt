@@ -1,0 +1,237 @@
+1:"$Sreact.fragment"
+a:I[68027,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+2:T6fd,(function(e,c){if(!c.__SV){var l,h;window.mixpanel=c;c._i=[];c.init=function(q,r,f){function t(d,a){var g=a.split(".");2==g.length&&(d=d[g[0]],a=g[1]);d[a]=function(){d.push([a].concat(Array.prototype.slice.call(arguments,0)))}}var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";b.people=b.people||[];b.toString=function(d){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);d||(a+=" (stub)");return a};b.people.toString=function(){return b.toString(1)+".people (stub)"};l="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders start_session_recording stop_session_recording people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<l.length;h++)t(b,l[h]);var n="set set_once union unset remove delete".split(" ");b.get_group=function(){function d(p){a[p]=function(){b.push([g,[p].concat(Array.prototype.slice.call(arguments,0))])}}for(var a={},g=["get_group"].concat(Array.prototype.slice.call(arguments,0)),m=0;m<n.length;m++)d(n[m]);return a};c._i.push([q,r,f])};c.__SV=1.2;var k=e.createElement("script");k.type="text/javascript";k.async=!0;k.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=e.getElementsByTagName("script")[0];e.parentNode.insertBefore(k,e)}})(document,window.mixpanel||[]);mixpanel.init('32b861825d2e0b1beca8b2a1ae0f52c1',{autocapture:false,record_sessions_percent:0,api_host:'https://api-eu.mixpanel.com'});0:{"P":null,"c":["","blog","creatine-science-2025"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","creatine-science-2025","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}],["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Jacked training library RSS feed","href":"/feed.xml"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Jacked - Gym Workout Tracker\",\"alternateName\":\"Jacked\",\"operatingSystem\":\"iOS\",\"applicationCategory\":\"HealthApplication\",\"description\":\"Free iPhone workout tracker with weekly muscle targets, double progression, next-lift guidance, fast set logging, rest timers, and compatible Hevy import.\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\",\"availability\":\"https://schema.org/InStock\"},\"url\":\"https://jacked.coach\",\"downloadUrl\":\"https://apps.apple.com/app/id6757132605\",\"featureList\":[\"Fast workout and set logging\",\"Weekly hard-set targets by muscle\",\"Double progression guidance\",\"Next load and rep-range targets\",\"Compatible Hevy workout history import\",\"Rest timer and active workout resume\",\"Lift and workout history\"]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Jacked\",\"url\":\"https://jacked.coach\",\"logo\":\"https://jacked.coach/og-image.png\",\"sameAs\":[\"https://apps.apple.com/app/id6757132605\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"url\":\"https://jacked.coach/support\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Jacked\",\"url\":\"https://jacked.coach\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jacked.coach/blog?search={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"4oDca2fm6PaWFsjWl2cD8"}
+b:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+c:I[39756,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+d:I[37457,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+11:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+3:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener('click',function(e){const a=e.target.closest('[data-nav-section]');if(a){window.mixpanel?.track?.('nav_click',{section:a.getAttribute('data-nav-section')||'unknown'});}const c=e.target.closest('[data-global-cta]');if(c){window.mixpanel?.track?.('cta_click',{placement:c.getAttribute('data-global-cta')||'unknown',target:'app_store'});}const r=e.target.closest('[data-related-tool]');if(r){const p=new URLSearchParams(window.location.search);window.mixpanel?.track?.('tool_related_tool_clicked',{tool_name:window.location.pathname.split('/').filter(Boolean).pop()||'tools',related_tool:r.getAttribute('data-related-tool')||'unknown',units:'',goal:'',exercise_type:'',source_page:document.referrer||'',utm_source:p.get('utm_source')||'',utm_campaign:p.get('utm_campaign')||''});}});"}}]
+4:["$","body",null,{"style":{"margin":0,"fontFamily":"-apple-system, BlinkMacSystemFont, \"SF Pro Text\", \"Inter\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","lineHeight":1.6,"color":"#e5e5e5","backgroundColor":"#000000"},"children":[["$","header",null,{"style":{"backgroundColor":"#000000","borderBottom":"1px solid rgba(242,238,228,0.1)","color":"white","padding":"0.85rem 1.5rem","position":"sticky","top":0,"zIndex":100},"children":["$","nav",null,{"style":{"maxWidth":"1120px","margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","flexWrap":"wrap","gap":"1rem"},"children":[["$","$Lb",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none","display":"flex","alignItems":"center","gap":"0.5rem"},"children":["$","span",null,{"style":{"fontSize":"1.22rem","fontWeight":"760","letterSpacing":"0.02em","fontStyle":"normal","background":"linear-gradient(135deg, #ead878 0%, #c7aa44 100%)","WebkitBackgroundClip":"text","WebkitTextFillColor":"transparent","backgroundClip":"text"},"children":"JACKED"}]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1rem","flexWrap":"wrap"},"children":[["$","$Lb",null,{"href":"/tools","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Tools"}],["$","$Lb",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Training Library"}],["$","$Lb",null,{"href":"/about","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"About"}],["$","$Lb",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Support"}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"color":"#111","textDecoration":"none","fontWeight":"720","background":"#e2c95f","padding":"0.5rem 1rem","borderRadius":"8px","fontSize":"0.84rem","transition":"transform 0.2s, box-shadow 0.2s","display":"inline-block"},"data-global-cta":"header","children":"Get the iPhone App"}]]}]]}]}],["$","main",null,{"style":{"margin":"0 auto","padding":0,"minHeight":"calc(100vh - 200px)","backgroundColor":"#000000"},"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"style":{"backgroundColor":"#0a0a0a","borderTop":"1px solid #222","color":"#8f897c","padding":"2rem","textAlign":"center"},"children":[["$","div",null,{"style":{"display":"flex","justifyContent":"center","gap":"1rem","flexWrap":"wrap","marginBottom":"0.9rem"},"children":[["$","$Lb",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Training Library"}],["$","$Lb",null,{"href":"/blog/alternatives-to-rp-hypertrophy-app","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"RP Hypertrophy alternatives"}],["$","$Lb",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Support"}],["$","$Lb",null,{"href":"/privacy","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Privacy"}],"$Le"]}],"$Lf"]}]]}]
+5:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+6:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+7:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+8:"$W14"
+9:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],null]}]
+e:["$","$Lb",null,{"href":"/terms","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Terms"}]
+f:["$","p",null,{"style":{"margin":0,"fontSize":"0.9rem"},"children":"© 2026 Jacked. Hypertrophy training for iPhone."}]
+19:Ta3a,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/creatine-science-2025#webpage","url":"https://jacked.coach/blog/creatine-science-2025","name":"The Science of Creatine: What 2025 Research Really Says","description":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing.","breadcrumb":{"@id":"https://jacked.coach/blog/creatine-science-2025#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/creatine-science-2025#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/creatine-science-2025#webpage"},"headline":"The Science of Creatine: What 2025 Research Really Says","description":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing.","isAccessibleForFree":true,"wordCount":837,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/creatine-science-2025#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Science of Creatine: What 2025 Research Really Says","item":"https://jacked.coach/blog/creatine-science-2025"}]}]}1a:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      10:["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],["$","style",null,{"children":"$1a"}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]
+1b:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Lb",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Lb",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+1c:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Science of Creatine: What 2025 Research Really Says"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+1d:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Science%20of%20Creatine%3A%20What%202025%20Research%20Really%20Says&url=https://jacked.coach/blog/creatine-science-2025","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+1e:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Lb","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Lb","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Lb","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Lb","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+1f:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","how-creatine-works",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-creatine-works","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Creatine Works"}]}],["$","li","what-the-2025-research-shows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-2025-research-shows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the 2025 Research Shows"}]}],["$","li","strength-and-muscle-gains",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#strength-and-muscle-gains","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Strength and Muscle Gains"}]}],["$","li","beyond-muscle-cognitive-and-health-benefits",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#beyond-muscle-cognitive-and-health-benefits","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Beyond Muscle: Cognitive and Health Benefits"}]}],["$","li","pre-workout-vs-post-workout-does-timing-matter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#pre-workout-vs-post-workout-does-timing-matter","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Pre-Workout vs. Post-Workout: Does Timing Matter?"}]}],["$","li","optimal-dosing-protocol",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-dosing-protocol","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Dosing Protocol"}]}],["$","li","creatine-and-caffeine-the-interaction",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#creatine-and-caffeine-the-interaction","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Creatine and Caffeine: The Interaction"}]}],["$","li","common-myths-debunked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#common-myths-debunked","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Common Myths Debunked"}]}],["$","li","which-form-is-best",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#which-form-is-best","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Which Form Is Best?"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}]]}]]}]
+23:T1a66,<p>Creatine monohydrate isn't just popular—it's arguably the most thoroughly researched sports supplement on the planet. With over 500 peer-reviewed studies spanning decades, you'd think we'd know everything by now. But 2024-2025 research continues to refine our understanding. Here's what the science actually says.</p>
+<h2 id="how-creatine-works">How Creatine Works</h2>
+<p>Creatine is a naturally occurring compound found in muscle cells, synthesized from amino acids in your liver and kidneys. Your body produces about 1-2 grams daily, and you also get it from red meat and fish.</p>
+<p>The magic happens in your ATP-PCr energy system. During high-intensity, short-duration efforts (think sets of 1-8 reps, sprints, jumps), your muscles burn through ATP rapidly. Creatine phosphate donates its phosphate group to regenerate ATP, essentially giving your muscles a faster recharge between intense efforts.</p>
+<p>This means more reps, more sets, and ultimately more mechanical tension—the primary driver of hypertrophy.</p>
+<h2 id="what-the-2025-research-shows">What the 2025 Research Shows</h2>
+<h3 id="strength-and-muscle-gains">Strength and Muscle Gains</h3>
+<p>A 2025 meta-analysis published in <em>PeerJ</em> confirmed what bodybuilders have known for decades: creatine supplementation significantly enhances strength gains during resistance training. The analysis showed greater improvements in both upper and lower body strength, with effects more pronounced in higher-intensity protocols (>75% 1RM).</p>
+<p>Another 2025 systematic review in <em>Nutrients</em> found that creatine monohydrate supplementation during resistance training leads to significantly greater gains in lean body mass compared to training alone. The effect size? Meaningful but not miraculous—supplemental, not substitutive. You still need to train hard.</p>
+<h3 id="beyond-muscle-cognitive-and-health-benefits">Beyond Muscle: Cognitive and Health Benefits</h3>
+<p>Here's where 2025 research gets interesting. A Frontiers study published in August 2025 found that eight weeks of creatine supplementation increased muscle strength and size in individuals with Alzheimer's disease. While more research is needed, the implications are significant: creatine's benefits may extend beyond athletic performance to neuromuscular health and cognitive function.</p>
+<p>Another 2025 paper in <em>Frontiers in Nutrition</em> concluded that creatine monohydrate is "safe, beneficial throughout the lifespan, and should not be restricted"—challenging outdated concerns about kidney and liver health in healthy individuals.</p>
+<h2 id="pre-workout-vs-post-workout-does-timing-matter">Pre-Workout vs. Post-Workout: Does Timing Matter?</h2>
+<p>This is where things get nuanced. The classic 2013 study by Antonio and Cicocchio found that consuming 5 grams of creatine <em>after</em> exercise led to greater improvements in fat-free mass and strength compared to the same dose before exercise.</p>
+<p>However, a 2022 Frontiers study found that timing (pre vs. post) leads to <em>similar</em> gains in muscle mass and strength across different age groups. The differences observed in early studies may be too small to matter practically.</p>
+<p><strong>Practical takeaway:</strong> Consistency matters more than timing. Take creatine at whatever time you remember. Post-workout might have a slight edge for muscle growth, but the difference is marginal.</p>
+<h2 id="optimal-dosing-protocol">Optimal Dosing Protocol</h2>
+<p>The evidence supports a simple approach:</p>
+<ol>
+<li><strong>Loading phase (optional):</strong> 20 grams/day (4 × 5g) for 5-7 days</li>
+<li><strong>Maintenance:</strong> 3-5 grams daily</li>
+<li><strong>No loading needed:</strong> Recent research suggests you can skip loading entirely and reach saturation in 2-3 weeks with just 3-5 grams daily. Less convenient but equally effective long-term.</li>
+</ol>
+<h3 id="creatine-and-caffeine-the-interaction">Creatine and Caffeine: The Interaction</h3>
+<p>Worried about your morning coffee? Good news: a 2024 study confirmed that caffeine does not blunt creatine's effects on strength or body composition. Your pre-workout coffee is fine.</p>
+<h2 id="common-myths-debunked">Common Myths Debunked</h2>
+<p><strong>"Creatine causes water retention":</strong> Partially true—creatine causes intracellular (inside muscle) water retention, which actually supports muscle growth. Subcutaneous (under-skin) water gain is minimal with modern monohydrate.</p>
+<p><strong>"You need to cycle creatine":</strong> No evidence supports cycling. Your body naturally produces less creatine when supplemented (reducing endogenous production), but this normalizes quickly after stopping. Continuous use is fine.</p>
+<p><strong>"Creatine is only for bodybuilders":</strong> Wrong. The 2025 research shows benefits for cognitive health, neuromuscular function, and even elderly populations. Anyone doing high-intensity exercise can benefit.</p>
+<p><strong>"Creatine is dangerous":</strong> Extensive research spanning decades shows creatine monohydrate is one of the safest supplements available. The 2025 Frontiers paper explicitly states it should not be restricted.</p>
+<h2 id="which-form-is-best">Which Form Is Best?</h2>
+<p>Creatine monohydrate remains the gold standard. It's:</p>
+<ul>
+<li>The most researched form</li>
+<li>The cheapest per gram</li>
+<li>Supported by the strongest evidence</li>
+<li>Subject to minimal "new form" marketing hype</li>
+</ul>
+<p>Creatine HCL, ethyl ester, and liquid forms have not demonstrated superior absorption or efficacy. Save your money on marketing tricks.</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Creatine monohydrate is a well-earned reputation as the #1 evidence-based supplement. The 2024-2025 research confirms:</p>
+<ul>
+<li>Significant strength and muscle gain enhancement</li>
+<li>Potential cognitive and health benefits beyond performance</li>
+<li>Excellent safety profile</li>
+<li>Simple, cheap, effective</li>
+</ul>
+<p>If you're not taking creatine and you're training hard, you're leaving gains on the table. The only question is why you haven't started yet.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Smith AN et al. (2025). Creatine monohydrate supplementation and muscle strength/size. <em>Frontiers in Nutrition</em>.</li>
+<li>Haniel et al. (2025). Effects of creatine supplementation on muscle strength gains. <em>PeerJ</em>.</li>
+<li>Creatine supplementation and lifespan benefits. <em>Frontiers in Nutrition</em> (2025).</li>
+<li>Antonio J, Ciccone V. (2013). Effects of pre vs post workout creatine. <em>Journal of the International Society of Sports Nutrition</em>.</li>
+</ul>
+<hr>
+<p><em>Track your creatine and training with Jacked. Download now.</em></p>
+20:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$23"}}]}]
+21:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Lb","creatine-monohydrate-science-2026",{"href":"/blog/creatine-monohydrate-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Creatine Monohydrate: The Science Behind the Most Researched Supplement"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths."}]]}],["$","$Lb","foam-rolling-recovery-science-2025",{"href":"/blog/foam-rolling-recovery-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Foam Rolling for Muscle Growth: What the 2024-2025 Research Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science on foam rolling has matured significantly. We break down what recent research reveals about its effects on recovery, performance, and yes — even muscle growth."}]]}],["$","$Lb","muscle-damage-doms-hypertrophy-science-2026",{"href":"/blog/muscle-damage-doms-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Damage & DOMS: What Science Really Says About Soreness and Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does muscle damage drive hypertrophy, or is it just a sign you pushed too hard? We break down the 2025-2026 research on DOMS, recovery interventions, and the muscle damage hypothesis."}]]}],["$","$Lb","omega-3-fatty-acids-muscle-growth-2026",{"href":"/blog/omega-3-fatty-acids-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Omega-3 Fatty Acids and Muscle Growth: What the Science Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Can fish oil supplements actually help you build more muscle? A look at the 2024-2025 research on omega-3s and resistance training."}]]}]]}]]}]
+22:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:null
+18:[["$","title","0",{"children":"The Science of Creatine: What 2025 Research Really Says | Jacked"}],["$","meta","1",{"name":"description","content":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}],["$","meta","2",{"name":"author","content":"Jacked"}],["$","meta","3",{"name":"keywords","content":"gym workout tracker,workout log,strength training app,hypertrophy tracker,progressive overload app,double progression,weekly muscle targets,Hevy import"}],["$","meta","4",{"name":"creator","content":"Jacked"}],["$","meta","5",{"name":"publisher","content":"Jacked"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/blog/creatine-science-2025"}],["$","meta","8",{"property":"og:title","content":"The Science of Creatine: What 2025 Research Really Says"}],["$","meta","9",{"property":"og:description","content":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/blog/creatine-science-2025"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"The Science of Creatine: What 2025 Research Really Says | Jacked"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"The Science of Creatine: What 2025 Research Really Says"}],["$","meta","18",{"name":"twitter:description","content":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}],["$","meta","19",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]

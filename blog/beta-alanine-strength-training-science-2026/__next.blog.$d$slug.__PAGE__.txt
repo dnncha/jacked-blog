@@ -1,0 +1,277 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taa7,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026#webpage","url":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026","name":"Beta-Alanine for Strength Training: Does It Actually Work?","description":"The science behind beta-alanine supplementation for strength and hypertrophy athletes—separating hype from evidence.","breadcrumb":{"@id":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026#webpage"},"headline":"Beta-Alanine for Strength Training: Does It Actually Work?","description":"The science behind beta-alanine supplementation for strength and hypertrophy athletes—separating hype from evidence.","isAccessibleForFree":true,"wordCount":904,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Beta-Alanine for Strength Training: Does It Actually Work?","item":"https://jacked.coach/blog/beta-alanine-strength-training-science-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Beta-Alanine for Strength Training: Does It Actually Work?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The science behind beta-alanine supplementation for strength and hypertrophy athletes—separating hype from evidence."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Beta-Alanine%20for%20Strength%20Training%3A%20Does%20It%20Actually%20Work%3F&url=https://jacked.coach/blog/beta-alanine-strength-training-science-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-beta-alanine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-beta-alanine","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Beta-Alanine?"}]}],["$","li","the-research-what-actually-happens",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-research-what-actually-happens","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Research: What Actually Happens?"}]}],["$","li","effects-on-exercise-performance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#effects-on-exercise-performance","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Effects on Exercise Performance"}]}],["$","li","the-loading-protocol",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-loading-protocol","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Loading Protocol"}]}],["$","li","combination-effects",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#combination-effects","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Combination Effects"}]}],["$","li","what-this-means-for-strength-athletes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-strength-athletes","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means for Strength Athletes"}]}],["$","li","the-downsides",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-downsides","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Downsides"}]}],["$","li","paresthesia",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#paresthesia","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Paresthesia"}]}],["$","li","timing-doesn-t-matter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#timing-doesn-t-matter","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Timing Doesn't Matter"}]}],["$","li","it-s-not-essential",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#it-s-not-essential","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"It's Not Essential"}]}],["$","li","the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Verdict"}]}],["$","li","key-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#key-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Key Takeaways"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T2301,<p>If you've spent any time in the supplement aisle or scrolling through pre-workout labels, you've seen it: <strong>beta-alanine</strong>. That tingling ingredient that makes your skin crawl (literally—it's called paresthesia). But does it actually help you lift heavier, build more muscle, or train harder?</p>
+<p>Let's dig into the science.</p>
+<h2 id="what-is-beta-alanine">What Is Beta-Alanine?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Beta-alanine is a non-essential amino acid that, when combined with histidine, forms <strong>carnosine</strong> in your muscles. Carnosine acts as an intracellular buffer, helping to neutralize acid buildup during high-intensity exercise.</p>
+<p>During intense effort—say, grinding out a set of 8-12 reps to near-failure—your muscles produce hydrogen ions (H+), which lowers pH and contributes to that burning sensation. Carnosine sponges up these ions, delaying fatigue and allowing you to push more reps.</p>
+<p>The theory: more beta-alanine → more carnosine → less acid buildup → more reps → more muscle.</p>
+<p>Simple, right? But the reality is more nuanced.</p>
+<h2 id="the-research-what-actually-happens">The Research: What Actually Happens?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<h3 id="effects-on-exercise-performance">Effects on Exercise Performance</h3>
+<p>A 2024-2025 systematic review and meta-analysis by Georgiou et al. (published in <em>International Journal of Sport Nutrition and Exercise Metabolism</em>) found beta-alanine supplementation does enhance <strong>maximal intensity exercise</strong>—but with important caveats.</p>
+<p>The benefits are most pronounced for:</p>
+<ul>
+<li><strong>Exercises lasting 60-240 seconds</strong> (think 400m sprints, circuit training)</li>
+<li><strong>High-rep sets</strong> (15+ reps) where metabolic stress is the primary driver</li>
+<li><strong>Activities with repeated sprints</strong> or intervals</li>
+</ul>
+<p>For traditional hypertrophy training (8-12 reps, 2-3 minute rest), the evidence is <strong>less clear</strong>. A 2025 systematic review in <em>Research, Society and Development</em> analyzed beta-alanine's effectiveness specifically in strength training and found modest benefits, but noted the effect size varies significantly based on training status and dosage.</p>
+<h3 id="the-loading-protocol">The Loading Protocol</h3>
+<p>To saturate muscle carnosine stores, you can't just take a scoop before your workout. Research shows:</p>
+<ul>
+<li><strong>Chronic loading</strong>: 4-6 grams/day divided into doses ≤2g each</li>
+<li><strong>Time to effect</strong>: 20-30% increase in 2 weeks, 40-60% increase in 4 weeks</li>
+<li><strong>Maintenance</strong>: 3.2-6.4 grams/day to maintain elevated levels</li>
+</ul>
+<p>This is a commitment—you're looking at weeks of consistent supplementation before seeing results.</p>
+<h3 id="combination-effects">Combination Effects</h3>
+<p>Here's where it gets interesting. A 2025 systematic review examining <strong>creatine + beta-alanine co-supplementation</strong> found potential synergistic effects on body composition and performance. Since many lifters already take creatine, adding beta-alanine on top might provide marginal additional benefits.</p>
+<p>Some research also suggests carnosine levels increase more when beta-alanine is taken with:</p>
+<ul>
+<li><strong>Carbohydrates and protein</strong> (meal-dependent absorption)</li>
+<li><strong>Caffeine</strong> (though research is limited)</li>
+</ul>
+<h2 id="what-this-means-for-strength-athletes">What This Means for Strength Athletes</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Let's be practical:</p>
+<p>| Training Goal | Beta-Alanine Value |
+|---------------|-------------------|
+| Maximal strength (1-5 reps) | Low - not much help |
+| Hypertrophy (8-12 reps) | Moderate - slight benefit |
+| High-rep endurance (15+ reps) | Moderate-High - good buffer |
+| Circuit/conditioning | High - clear benefit |</p>
+<p>If you're doing traditional bodybuilding-style training with moderate weights and controlled rest periods, beta-alanine provides <strong>modest benefits at best</strong>. The "pump" and metabolic stress come more from volume and time under tension than from buffering capacity.</p>
+<p>However, if you're:</p>
+<ul>
+<li>Doing high-rep drop sets</li>
+<li>Training to failure frequently</li>
+<li>Incorporating rest-pause or German volume training</li>
+<li>Doing cardio-based conditioning</li>
+</ul>
+<p>...beta-alanine becomes more relevant.</p>
+<h2 id="the-downsides">The Downsides</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<h3 id="paresthesia">Paresthesia</h3>
+<p>That tingling sensation? It's harmless but annoying. Doses above 2g at once trigger it. Solutions:</p>
+<ul>
+<li>Divide into 1-1.5g doses throughout the day</li>
+<li>Use sustained-release formulations</li>
+<li>Accept it and move on (it's not dangerous)</li>
+</ul>
+<h3 id="timing-doesn-t-matter">Timing Doesn't Matter</h3>
+<p>Beta-alanine builds up in your muscles over weeks—timing your dose around workouts is pointless. Take it whenever is convenient.</p>
+<h3 id="it-s-not-essential">It's Not Essential</h3>
+<p>Compared to creatine (which has far stronger evidence for strength/hypertrophy), beta-alanine is optional. If you're budget-limited, skip it. If you want to optimize every edge and do high-rep training, it might be worth the investment.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p><strong>For traditional strength and hypertrophy training, beta-alanine is a decent supplement but not a game-changer.</strong> The science supports its use primarily for endurance-type activities and high-rep protocols.</p>
+<p>If you're already taking creatine, eating enough protein, and hitting your calories, beta-alanine is a reasonable addition—not because it'll transform your lifts, but because the marginal gains might add up over time.</p>
+<p>But let's be clear: <strong>no supplement replaces good programming, consistent effort, and adequate recovery.</strong> Beta-alanine won't compensate for skipping legs day or sleeping 4 hours a night.</p>
+<hr>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<ol>
+<li><strong>Effective dose</strong>: 4-6g/day divided, for 2-4 weeks minimum</li>
+<li><strong>Best for</strong>: High-rep training, endurance, conditioning</li>
+<li><strong>Limited value for</strong>: Low-rep strength work</li>
+<li><strong>Works well with</strong>: Creatine, caffeine (emerging evidence)</li>
+<li><strong>Side effect</strong>: Tingling (harmless, manageable)</li>
+</ol>
+<p><strong>Rating for strength/hypertrophy</strong>: ⭐⭐⭐ (3/5) — Useful but not essential</p>
+<hr>
+<p><em>Track your supplements and training progress with Jacked. Download now.</em></p>
+<hr>
+<h2 id="references">References</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<ol>
+<li>Georgiou GD, et al. Effect of Beta-Alanine Supplementation on Maximal Intensity Exercise in Trained Young Male Individuals: A Systematic Review and Meta-Analysis. <em>Int J Sport Nutr Exerc Metab</em>. 2024 Jul 19.</li>
+<li>Trexler ET, et al. Effects of Beta-Alanine Supplementation on Exercise Performance: A Meta-Analysis. <em>Amino Acids</em>. 2022.</li>
+<li>Hoffman J, et al. Beta-Alanine and Carnosine Supplementation in Athletes. <em>J Int Soc Sports Nutr</em>. 2024.</li>
+<li>Saunders B, et al. Beta-Alanine Supplementation: An Update on Current Knowledge. <em>Nutrients</em>. 2025.</li>
+<li>Effects of Creatine and β-Alanine Co-Supplementation on Exercise Performance and Body Composition: A Systematic Review. <em>PubMed</em>. 2025.</li>
+<li>Research on Effectiveness of Beta-Alanine in Strength and Endurance Training Athletes. <em>Research, Society and Development</em>. 2025.</li>
+</ol>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","l-carnitine-supplementation-strength-hypertrophy",{"href":"/blog/l-carnitine-supplementation-strength-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"L-Carnitine Supplementation for Strength Athletes: What the Research Shows"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does L-carnitine actually help lifters build muscle and get stronger? We dive into the science to separate fact from hype."}]]}],["$","$Ld","hmb-supplementation-strength-athletes",{"href":"/blog/hmb-supplementation-strength-athletes","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"HMB for Strength Athletes: Does It Actually Work?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"HMB has been marketed as a muscle-preserving powerhouse for decades. But does the science actually support the hype? Here's what the research says."}]]}],["$","$Ld","magnesium-supplementation-strength-athletes",{"href":"/blog/magnesium-supplementation-strength-athletes","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Magnesium Supplementation for Strength Athletes: What the Science Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The research on magnesium for strength athletes—does it actually improve performance or is it just another supplement hype?"}]]}],["$","$Ld","beta-ecdysterone-muscle-growth",{"href":"/blog/beta-ecdysterone-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Beta-Ecdysterone for Muscle Growth: The Complete Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does ecdysterone actually work? The science behind this controversial supplement."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

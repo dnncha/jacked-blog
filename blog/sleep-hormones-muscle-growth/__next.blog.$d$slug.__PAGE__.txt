@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:T9d6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/sleep-hormones-muscle-growth#webpage","url":"https://jacked.coach/blog/sleep-hormones-muscle-growth","name":"Sleep, Hormones, and Muscle Growth","description":"How sleep affects testosterone, growth hormone, and muscle protein synthesis.","breadcrumb":{"@id":"https://jacked.coach/blog/sleep-hormones-muscle-growth#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/sleep-hormones-muscle-growth#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/sleep-hormones-muscle-growth#webpage"},"headline":"Sleep, Hormones, and Muscle Growth","description":"How sleep affects testosterone, growth hormone, and muscle protein synthesis.","datePublished":"2026-03-01","dateModified":"2026-03-01","isAccessibleForFree":true,"wordCount":1271,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/sleep-hormones-muscle-growth#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Sleep, Hormones, and Muscle Growth","item":"https://jacked.coach/blog/sleep-hormones-muscle-growth"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Sleep, Hormones, and Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"How sleep affects testosterone, growth hormone, and muscle protein synthesis."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],["$","span",null,{"children":["Published ","March 1, 2026"]}],["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Sleep%2C%20Hormones%2C%20and%20Muscle%20Growth&url=https://jacked.coach/blog/sleep-hormones-muscle-growth","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","introduction",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#introduction","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Introduction"}]}],["$","li","section-1-the-science-of-sleep-and-anabolic-hormones",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#section-1-the-science-of-sleep-and-anabolic-hormones","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Section 1: The Science of Sleep and Anabolic Hormones"}]}],["$","li","section-2-cortisol-the-muscle-building-counterpart",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#section-2-cortisol-the-muscle-building-counterpart","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Section 2: Cortisol - The Muscle-Building Counterpart"}]}],["$","li","section-3-sleep-deprivation-s-direct-impact-on-muscle-protein-synthesis",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#section-3-sleep-deprivation-s-direct-impact-on-muscle-protein-synthesis","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Section 3: Sleep Deprivation's Direct Impact on Muscle Protein Synthesis"}]}],["$","li","section-4-how-much-sleep-do-lifters-actually-need",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#section-4-how-much-sleep-do-lifters-actually-need","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Section 4: How Much Sleep Do Lifters Actually Need?"}]}],["$","li","section-5-practical-strategies-for-better-sleep",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#section-5-practical-strategies-for-better-sleep","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Section 5: Practical Strategies for Better Sleep"}]}],["$","li","section-6-the-compounding-effect-sleep-week-after-week",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#section-6-the-compounding-effect-sleep-week-after-week","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Section 6: The Compounding Effect - Sleep Week After Week"}]}]]}]]}]
+e:T235f,<h2 id="introduction">Introduction</h2>
+<p>One sleepless night increases cortisol by 21% and drops testosterone by 24%. Before you write this off as another "sleep is important" article, consider what this actually means for your training. These aren't minor fluctuations—they're the difference between your body being in an anabolic state and a catabolic one. Sleep isn't just when you recover from training. It's when the muscle-building machinery actually runs.</p>
+<p>If you're serious about hypertrophy, you can program your workouts perfectly, nail your protein intake, and still spin your wheels if sleep is garbage. This article breaks down exactly why sleep matters for muscle growth through the lens of hormones—the mechanisms that determine whether the work you do in the gym translates into actual tissue.</p>
+<h2 id="section-1-the-science-of-sleep-and-anabolic-hormones">Section 1: The Science of Sleep and Anabolic Hormones</h2>
+<p>Growth hormone is the poster child for sleep and muscle. GH pulses intensely during deep sleep—specifically stage N3 (slow-wave sleep)—with secretion peaking in the first half of the night. A single night of shortened sleep can reduce GH脉冲 by up to 70%. That's not a minor dip; it's a near-complete blunting of one of your most anabolic hormones.</p>
+<p>But GH is only part of the picture. Testosterone follows a circadian rhythm: highest in the morning, lowest in the evening. Sleep deprivation doesn't just reduce total testosterone—it disrupts the entire hormonal cascade. Studies show that after just one week of sleeping five hours per night, young men experience a 15% reduction in testosterone levels. That's comparable to aging a decade.</p>
+<p>These hormones directly impact muscle protein synthesis (MPS). GH increases amino acid uptake in muscle tissue and enhances IGF-1 production. Testosterone upregulates androgen receptors and promotes satellite cell activation. When both are suppressed, MPS takes a hit regardless of how much protein you eat. You can nail your post-workout shake, but if you're sleeping four hours, you're throwing away the gains.</p>
+<h2 id="section-2-cortisol-the-muscle-building-counterpart">Section 2: Cortisol - The Muscle-Building Counterpart</h2>
+<p>Cortisol gets a bad rap, but it's not the enemy. It's your body's primary stress hormone, designed to mobilize energy during acute challenges. The problem isn't cortisol itself—it's chronic elevation.</p>
+<p>Sleep deprivation doesn't just suppress anabolic hormones; it cranks up cortisol. One study found that after six nights of restricted sleep (four hours per night), cortisol levels were 21% higher in the evening compared to well-rested controls. Elevated cortisol promotes muscle breakdown through several mechanisms: it increases ubiquitin-proteasome activity (the system that breaks down proteins), reduces protein synthesis, and impairs glucose uptake in muscle tissue.</p>
+<p>The cortisol-to-testosterone ratio matters more than either hormone alone. When this ratio skews too high—common with poor sleep—you're in a catabolic state. Training hard without adequate sleep is essentially smashing your nervous system while flooding it with cortisol. You might feel like you're grinding, but you're likely accumulating fatigue faster than adaptations.</p>
+<p>This is why training under chronic sleep deprivation feels different. Your strength may hold for a session, but recovery suffers. You're breaking down tissue without the hormonal environment to rebuild it efficiently.</p>
+<h2 id="section-3-sleep-deprivation-s-direct-impact-on-muscle-protein-synthesis">Section 3: Sleep Deprivation's Direct Impact on Muscle Protein Synthesis</h2>
+<p>The hormonal effects translate directly to measurable impacts on muscle protein synthesis. A study published in the Journal of Clinical Endocrinology and Metabolism found that after just five nights of sleeping five hours per night, participants had an 18% reduction in muscle protein synthesis rates despite consuming adequate protein.</p>
+<p>The mechanism runs through mTOR—the master regulator of muscle protein synthesis. Sleep deprivation disrupts mTOR signaling through multiple pathways: reduced insulin sensitivity, impaired amino acid delivery, and blunted muscle satellite cell activity. Even with perfect nutrition, you can't fully compensate for this.</p>
+<p>Beyond synthesis, sleep loss impairs nutrient partitioning. Your body becomes less efficient at directing nutrients toward muscle and more likely to store them as fat. A week of poor sleep shifts your metabolism toward a catabolic, fat-storing state. Combined with the cortisol elevation we covered earlier, you're fighting a two-front war against muscle loss every time you train on insufficient sleep.</p>
+<p>The worst part? The effects compound. One bad night is recoverable. A pattern of chronic sleep restriction creates a sustained suppression of your anabolic capacity that doesn't reverse after a single good night's sleep.</p>
+<h2 id="section-4-how-much-sleep-do-lifters-actually-need">Section 4: How Much Sleep Do Lifters Actually Need?</h2>
+<p>Research consistently points to 7-9 hours as the optimal range for general health, but for lifters chasing muscle growth, the data suggests 8 hours is the sweet spot. A study on basketball players found that extending sleep from baseline to 10 hours per night over 7 weeks led to significant improvements in sprint times, free-throw accuracy, and reaction time. More relevantly, another study showed that eight hours of sleep maximized the anabolic response to resistance training.</p>
+<p>The key word is "extending." Sleep extension studies consistently show benefits beyond what occurs at baseline sleep levels. Most people aren't getting eight hours—they're getting six or seven and thinking that's fine. It's not fine if you're training hard.</p>
+<p>Individual variation exists. Some people genuinely need closer to nine hours to function optimally. Genetics, training volume, stress levels, and prior sleep debt all factor in. But the evidence is clear: the minimum for anyone serious about hypertrophy is eight hours. Less than that, and you're leaving gains on the table.</p>
+<h2 id="section-5-practical-strategies-for-better-sleep">Section 5: Practical Strategies for Better Sleep</h2>
+<p>Sleep hygiene isn't glamorous, but it works. Start with the basics: consistent sleep and wake times, even on weekends. Your circadian rhythm doesn't care about your social life—it responds to regularity.</p>
+<p>Training and meal timing matter more than most people realize. Intense exercise raises cortisol and body temperature, both of which delay sleep onset. Finish heavy training at least three hours before bed. Similarly, large meals close to bedtime spike insulin and can fragment sleep. A smaller protein-focused meal two hours before sleep is fine; a massive dinner an hour before bed is not.</p>
+<p>Environment: cool (65-68°F/18-20°C), dark, and quiet. Blackout curtains, earplugs or white noise, and removing devices from the bedroom. The blue light thing is overhyped—its effect is minor compared to total darkness—but putting your phone away still helps with wind-down routine.</p>
+<p>Supplements can support sleep but shouldn't replace fundamentals. Magnesium glycinate (300-400mg) promotes muscle relaxation and sleep quality. Glycine (3g) has research showing benefits for sleep quality and next-day cognition. Ashwagandha (300-600mg KSM-66) lowers cortisol and can improve sleep onset. None are magic, but they're useful tools in the toolbox.</p>
+<p>Consistency beats perfection. You're not going to nail sleep every night—life happens. But if you prioritize it most nights, the compound effect works in your favor.</p>
+<h2 id="section-6-the-compounding-effect-sleep-week-after-week">Section 6: The Compounding Effect - Sleep Week After Week</h2>
+<p>Here's what most lifters miss: the damage from poor sleep isn't just acute. Chronic partial sleep deprivation—a consistent pattern of sleeping six hours instead of eight—creates cumulative harm that doesn't show up immediately but manifests over months.</p>
+<p>Training adaptations suffer most. A study on resistance training found that after eight weeks, the sleep-restricted group (six hours per night) showed significantly less strength gain and muscle hypertrophy compared to the eight-hour group, despite identical training and nutrition. The participants didn't feel dramatically worse. They just... stopped progressing.</p>
+<p>Athletes in team sports who prioritize sleep show measurable performance improvements over those who don't. The same applies to lifters. Every week of poor sleep is a week of suboptimal adaptation. Over a year, that's a meaningful difference in results.</p>
+<p>Sleep is the foundation. You can build a house without one, but it won't stand. Prioritize sleep like you prioritize your training, because without it, nothing else matters.</p>
+<hr>
+<p><em>Track your sleep with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","circadian-training-timing-muscle-growth",{"href":"/blog/circadian-training-timing-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training at Night vs Morning: Circadian Rhythm Impact on Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does it matter when you lift? New research reveals how your circadian rhythm affects testosterone, strength, and muscle protein synthesis throughout the day."}]]}],["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","pre-sleep-protein-casein-muscle-growth-2026",{"href":"/blog/pre-sleep-protein-casein-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Pre-Sleep Protein: The Overnight Muscle Building Secret"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows 20-40g of casein 30 minutes before bed can boost overnight muscle protein synthesis by up to 22%. Here's how to optimize your nighttime nutrition for maximum muscle growth."}]]}],["$","$Ld","lean-pork-muscle-protein-synthesis-2025",{"href":"/blog/lean-pork-muscle-protein-synthesis-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lean Pork Discovery: How Meat Type Affects Post-Workout Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that lean pork stimulates greater muscle protein synthesis than high-fat pork after weight training—challenging previous assumptions about dietary fat and hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb06,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/muscle-memory-detraining-science-2026#webpage","url":"https://jacked.coach/blog/muscle-memory-detraining-science-2026","name":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)","description":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come bac...","breadcrumb":{"@id":"https://jacked.coach/blog/muscle-memory-detraining-science-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/muscle-memory-detraining-science-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/muscle-memory-detraining-science-2026#webpage"},"headline":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)","description":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come bac...","isAccessibleForFree":true,"wordCount":817,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Strong CSV Import Checker","url":"https://jacked.coach/tools/strong-csv-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/muscle-memory-detraining-science-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)","item":"https://jacked.coach/blog/muscle-memory-detraining-science-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Muscle%20Memory%3A%20The%20Science%20of%20Losing%20Gains%20(And%20Getting%20Them%20Back%20Faster)&url=https://jacked.coach/blog/muscle-memory-detraining-science-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","strong-csv-import-checker",{"href":"/tools/strong-csv-import-checker","data-related-tool":"strong-csv-import-checker","children":"Strong CSV Import Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-actually-happens-when-you-stop-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-happens-when-you-stop-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Happens When You Stop Training?"}]}],["$","li","the-myonuclear-memory-discovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-myonuclear-memory-discovery","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Myonuclear Memory Discovery"}]}],["$","li","how-fast-can-you-come-back",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-fast-can-you-come-back","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Fast Can You Come Back?"}]}],["$","li","what-about-steroids-the-cellular-memory-effect",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-about-steroids-the-cellular-memory-effect","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What About Steroids? The Cellular Memory Effect"}]}],["$","li","practical-implications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-implications","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Implications"}]}],["$","li","for-injury-recovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-injury-recovery","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Injury Recovery"}]}],["$","li","for-planned-deloads",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-planned-deloads","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Planned Deloads"}]}],["$","li","for-aging-lifters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#for-aging-lifters","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"For Aging Lifters"}]}],["$","li","how-to-minimize-detraining-losses",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-minimize-detraining-losses","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Minimize Detraining Losses"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1897,<p>You've probably heard it before: "muscle has memory." But what if I told you that's not just a motivational saying—it's actual biology? Recent research from 2025 has shed remarkable new light on how our muscles retain "memory" of previous training, making comebacks faster than starting from scratch.</p>
+<h2 id="what-actually-happens-when-you-stop-training">What Actually Happens When You Stop Training?</h2>
+<p>When you stop lifting, several things happen in sequence:</p>
+<p><strong>Week 1-2: Neuromuscular adaptations fade first</strong>
+Your nervous system adaptations—the neural pathways that make you stronger—disappear rapidly. This is why strength drops faster than muscle size. You're not losing muscle; your brain just forgets how to use it efficiently.</p>
+<p><strong>Weeks 2-8: Muscle atrophy begins</strong>
+Muscle protein synthesis drops, and if you're not eating in a surplus, your body starts breaking down muscle tissue. Studies show you might lose 5-10% of muscle size within a few weeks of complete detraining.</p>
+<p><strong>After 8+ weeks: Structural changes persist</strong>
+Here's where it gets interesting. Even when muscle size returns to baseline after detraining, something else remains—the nuclei.</p>
+<h2 id="the-myonuclear-memory-discovery">The Myonuclear Memory Discovery</h2>
+<p>For decades, scientists debated whether muscle cells could "remember" previous training at a cellular level. The 2025 Frontiers in Nutrition review and Journal of Physiology study have essentially settled the debate: <strong>yes, they can</strong>.</p>
+<p>Here's the science:</p>
+<p>During hypertrophy, your muscle fibers acquire additional myonuclei (the "control centers" of muscle cells) through satellite cell fusion. Previously, researchers believed these extra nuclei were lost during atrophy. But groundbreaking research now shows <strong>myonuclear permanence</strong>—those nuclei stick around even when the muscle shrinks back to baseline.</p>
+<p>A 2025 study tracking participants through 10 weeks of training, 10 weeks of detraining, and 10 weeks of retraining found that myonuclear number increased after initial training and was <strong>almost entirely maintained during detraining</strong>, despite fiber size decreasing.</p>
+<p>This is huge. Those extra nuclei represent a "head start" when you return to training.</p>
+<h2 id="how-fast-can-you-come-back">How Fast Can You Come Back?</h2>
+<p>The research is encouraging:</p>
+<ul>
+<li><strong>Strength returns in ~4-8 weeks</strong> of retraining (often faster than initial gains)</li>
+<li><strong>Muscle size recovers in ~8-12 weeks</strong></li>
+<li><strong>Second training cycle often produces faster hypertrophy</strong> than the first</li>
+</ul>
+<p>A 2025 study on older adults demonstrated that retraining restored strength within 8 weeks and muscle cross-sectional area within 12 weeks—significantly faster than the initial 12-week training block that preceded detraining.</p>
+<h2 id="what-about-steroids-the-cellular-memory-effect">What About Steroids? The Cellular Memory Effect</h2>
+<p>One of the most controversial questions in muscle memory research: does previous anabolic steroid use create lasting advantages?</p>
+<p>The science suggests there may be lasting epigenetic changes. Animal studies show that prior anabolic exposure can enhance subsequent hypertrophic responses. While human data is limited, researchers in 2025 have proposed that anabolic steroids may leave "epigenetic signatures" that persist even after discontinuation—potentially accelerating future muscle growth.</p>
+<p>This has massive implications for competitive sports and raises ethical questions that the scientific community is still grappling with.</p>
+<h2 id="practical-implications">Practical Implications</h2>
+<h3 id="for-injury-recovery">For Injury Recovery</h3>
+<p>If you've had to take time off due to injury, the news is good. Your muscles retain cellular memory of their previous state. Don't despair—just get back to training methodically, and you'll likely regain what you lost faster than you think.</p>
+<h3 id="for-planned-deloads">For Planned Deloads</h3>
+<p>Short breaks (1-2 weeks) have minimal impact. Your neural adaptations and myonuclear content remain largely intact. In fact, deloads can be beneficial for recovery and long-term growth.</p>
+<h3 id="for-aging-lifters">For Aging Lifters</h3>
+<p>Perhaps most exciting: muscle memory appears to remain functional even in older adults. The same mechanisms that help young lifters apply to those maintaining muscle into their 50s, 60s, and beyond.</p>
+<h2 id="how-to-minimize-detraining-losses">How to Minimize Detraining Losses</h2>
+<p>While you can't completely prevent atrophy during time off, you can minimize it:</p>
+<ol>
+<li><strong>Maintain protein intake</strong>: Even during caloric deficits, adequate protein (1.6-2.2g/kg) preserves muscle tissue</li>
+<li><strong>Train at least once weekly</strong>: Even one session per muscle group maintains neural adaptations</li>
+<li><strong>Do some kind of physical activity</strong>: Walking, sports, anything maintains some muscle protein synthesis stimulus</li>
+<li><strong>Sleep and recover</strong>: Recovery factors matter even when you're not training</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Muscle memory is real, and the 2025 research has quantified just how powerful it is. Your muscles remember what they've done before—those gains aren't as fragile as you might fear. Whether you're coming back from injury, vacation, or just a lazy month, the cellular machinery for building muscle remains primed and ready.</p>
+<p>So next time life forces you to take a break? Don't stress. Your muscles are waiting to grow back—and they'll do it faster this time.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Frontiers in Nutrition (2025). "Skeletal muscle memory: implications for sports, aging and nutrition"</li>
+<li>Journal of Physiology (2025). "Human skeletal muscle possesses both reversible proteomic signatures and a retained proteomic memory after repeated resistance training"</li>
+<li>Transparent Labs (2025). "Muscle Memory: How Fast Can You Rebuild Lost Gains?"</li>
+</ul>
+<hr>
+<p><em>Track your muscle memory with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","muscle-memory-myonuclei-retention-science",{"href":"/blog/muscle-memory-myonuclei-retention-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows your muscles remember training. New research reveals myonuclear retention means strength returns faster after detraining - here's what that means for your programming."}]]}],["$","$Ld","muscle-memory-science-gains",{"href":"/blog/muscle-memory-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science Behind Why Your Gains Stick"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."}]]}],["$","$Ld","napping-muscle-recovery-growth-hormone-science",{"href":"/blog/napping-muscle-recovery-growth-hormone-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Napping for Muscle Recovery: What the Research Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Can a quick afternoon nap actually accelerate your muscle gains? Here's what science reveals about napping, growth hormone, and post-training recovery."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

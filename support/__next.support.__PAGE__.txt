@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+9:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+2:T5c9,
+        .static-page a {
+          color: #e2c95f;
+          text-decoration: none;
+          font-weight: 700;
+        }
+
+        .static-page a:hover {
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+
+        .static-page h2 {
+          margin: 2.35rem 0 0.65rem;
+          color: #fffaf0;
+          font-size: 1.25rem;
+          line-height: 1.25;
+        }
+
+        .static-page h3 {
+          margin: 0 0 0.45rem;
+          color: #fffaf0;
+          font-size: 1.02rem;
+        }
+
+        .static-page p,
+        .static-page li {
+          color: #bcb6a8;
+          line-height: 1.75;
+        }
+
+        .static-page ul {
+          margin: 0.75rem 0 1.25rem;
+          padding-left: 1.2rem;
+        }
+
+        .static-card {
+          border: 1px solid rgba(245,241,232,0.12);
+          border-radius: 8px;
+          background: linear-gradient(180deg, rgba(255,255,255,0.055), rgba(255,255,255,0.022));
+          padding: 22px;
+        }
+
+        .static-grid {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 12px;
+          margin-top: 22px;
+        }
+
+        .static-note {
+          margin: 30px 0 0;
+          padding: 24px;
+          border: 1px solid rgba(226,201,95,0.38);
+          border-radius: 8px;
+          background: #10100f;
+        }
+
+        @media (max-width: 720px) {
+          .static-grid {
+            grid-template-columns: 1fr;
+          }
+        }
+      4:T87a,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I start a workout?","acceptedAnswer":{"@type":"Answer","text":"Open Today and start the planned session, or go to Train to start or resume the current workout. Jacked keeps the live workout focused on set logging, rest timing, exercise swaps, and the next useful set."}},{"@type":"Question","name":"How do weekly muscle targets work?","acceptedAnswer":{"@type":"Answer","text":"Jacked counts hard sets for each muscle across the week and shows how many sets remain for your target. The view updates as you log workouts, so volume stays visible across your training split."}},{"@type":"Question","name":"How do I swap an exercise I do not have in my gym?","acceptedAnswer":{"@type":"Answer","text":"In a live workout, use the swap control on the exercise card. Jacked shows close alternatives first so you can replace a machine, cable, dumbbell, or barbell variant without rebuilding the whole session."}},{"@type":"Question","name":"How does progression work?","acceptedAnswer":{"@type":"Answer","text":"Jacked uses double progression: build reps within the target range, then add load when you reach the top. Your recent load, reps, and next target stay together so the next step is clear."}},{"@type":"Question","name":"Can I import from Hevy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Jacked includes a compatible Hevy import path for workouts, routines, exercise notes, and set history so you can keep useful training context."}},{"@type":"Question","name":"Where is my data stored?","acceptedAnswer":{"@type":"Answer","text":"Workout data is stored locally on your device. Jacked does not run a user-account server for your workout history. See the privacy policy for the full data handling summary."}},{"@type":"Question","name":"Is Jacked free?","acceptedAnswer":{"@type":"Answer","text":"Yes. Jacked is currently free to download and use on iPhone, with no account required."}},{"@type":"Question","name":"Can I export my data?","acceptedAnswer":{"@type":"Answer","text":"Yes. Use the export option in Settings to keep a copy of your workout history."}}]}0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"background":"#050505","color":"#f5f1e8","minHeight":"100vh"},"children":[["$","style",null,{"children":"$2"}],["$","section",null,{"className":"static-page","style":{"width":"min(860px, calc(100% - 32px))","margin":"0 auto","padding":"68px 0 82px"},"children":[["$","$L3",null,{"href":"/","style":{"display":"inline-flex","marginBottom":"28px","color":"#bcb6a8","fontSize":"0.92rem"},"children":"Back to Jacked"}],["$","h1",null,{"style":{"margin":0,"color":"#fffaf0","fontSize":"clamp(2.65rem, 7vw, 5rem)","lineHeight":0.95,"fontWeight":950,"letterSpacing":0},"children":"Support"}],"$undefined",["$","p",null,{"style":{"maxWidth":"720px","margin":"24px 0 0","color":"#bcb6a8","fontSize":"1.12rem","lineHeight":1.75},"children":"Help for Jacked on iPhone: training setup, live workout logging, weekly muscle targets, exercise swaps, imports, privacy, and data export."}],["$","div",null,{"style":{"marginTop":"34px"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}],false]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+5:["$","section",null,{"className":"static-note","style":{"marginTop":0},"children":[["$","h2",null,{"style":{"marginTop":0},"children":"Contact"}],["$","p",null,{"style":{"margin":"0 0 10px"},"children":"For bugs, feature requests, account questions, or release feedback:"}],["$","a",null,{"href":"mailto:support@jacked.coach","children":"support@jacked.coach"}],["$","p",null,{"style":{"margin":"16px 0 0","fontSize":"0.95rem"},"children":"Include your iPhone model, iOS version, Jacked version, and the screen where the issue happened when you can."}]]}]
+6:["$","section",null,{"children":[["$","h2",null,{"children":"Frequently Asked Questions"}],["$","div",null,{"className":"static-grid","children":[["$","article","How do I start a workout?",{"className":"static-card","children":[["$","h3",null,{"children":"How do I start a workout?"}],["$","p",null,{"style":{"margin":0},"children":"Open Today and start the planned session, or go to Train to start or resume the current workout. Jacked keeps the live workout focused on set logging, rest timing, exercise swaps, and the next useful set."}]]}],["$","article","How do weekly muscle targets work?",{"className":"static-card","children":[["$","h3",null,{"children":"How do weekly muscle targets work?"}],["$","p",null,{"style":{"margin":0},"children":"Jacked counts hard sets for each muscle across the week and shows how many sets remain for your target. The view updates as you log workouts, so volume stays visible across your training split."}]]}],["$","article","How do I swap an exercise I do not have in my gym?",{"className":"static-card","children":[["$","h3",null,{"children":"How do I swap an exercise I do not have in my gym?"}],["$","p",null,{"style":{"margin":0},"children":"In a live workout, use the swap control on the exercise card. Jacked shows close alternatives first so you can replace a machine, cable, dumbbell, or barbell variant without rebuilding the whole session."}]]}],["$","article","How does progression work?",{"className":"static-card","children":[["$","h3",null,{"children":"How does progression work?"}],["$","p",null,{"style":{"margin":0},"children":"Jacked uses double progression: build reps within the target range, then add load when you reach the top. Your recent load, reps, and next target stay together so the next step is clear."}]]}],["$","article","Can I import from Hevy?",{"className":"static-card","children":[["$","h3",null,{"children":"Can I import from Hevy?"}],["$","p",null,{"style":{"margin":0},"children":"Yes. Jacked includes a compatible Hevy import path for workouts, routines, exercise notes, and set history so you can keep useful training context."}]]}],["$","article","Where is my data stored?",{"className":"static-card","children":[["$","h3",null,{"children":"Where is my data stored?"}],["$","p",null,{"style":{"margin":0},"children":"Workout data is stored locally on your device. Jacked does not run a user-account server for your workout history. See the privacy policy for the full data handling summary."}]]}],["$","article","Is Jacked free?",{"className":"static-card","children":[["$","h3",null,{"children":"Is Jacked free?"}],["$","p",null,{"style":{"margin":0},"children":"Yes. Jacked is currently free to download and use on iPhone, with no account required."}]]}],["$","article","Can I export my data?",{"className":"static-card","children":[["$","h3",null,{"children":"Can I export my data?"}],["$","p",null,{"style":{"margin":0},"children":"Yes. Use the export option in Settings to keep a copy of your workout history."}]]}]]}]]}]
+7:["$","section",null,{"className":"static-note","children":[["$","h2",null,{"style":{"marginTop":0},"children":"App Store and policy links"}],["$","p",null,{"children":["Read the ",["$","$L3",null,{"href":"/privacy","children":"Privacy Policy"}]," and ",["$","$L3",null,{"href":"/terms","children":"Terms of Service"}],", or open the current ",["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","children":"App Store listing"}],"."]}]]}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

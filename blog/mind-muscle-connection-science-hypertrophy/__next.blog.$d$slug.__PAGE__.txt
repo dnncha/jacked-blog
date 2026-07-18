@@ -1,0 +1,242 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta93,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy#webpage","url":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy","name":"Mind-Muscle Connection: Science or Snake Oil?","description":"The research on internal focus cues and muscle activation—what works, what doesn't, and how to use it for maximum hypertrophy.","breadcrumb":{"@id":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy#webpage"},"headline":"Mind-Muscle Connection: Science or Snake Oil?","description":"The research on internal focus cues and muscle activation—what works, what doesn't, and how to use it for maximum hypertrophy.","isAccessibleForFree":true,"wordCount":925,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Mind-Muscle Connection: Science or Snake Oil?","item":"https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Mind-Muscle Connection: Science or Snake Oil?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The research on internal focus cues and muscle activation—what works, what doesn't, and how to use it for maximum hypertrophy."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Mind-Muscle%20Connection%3A%20Science%20or%20Snake%20Oil%3F&url=https://jacked.coach/blog/mind-muscle-connection-science-hypertrophy","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-the-mind-muscle-connection",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-the-mind-muscle-connection","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is the Mind-Muscle Connection?"}]}],["$","li","what-the-research-shows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-research-shows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Research Shows"}]}],["$","li","the-critical-nuance-for-hypertrophy-not-max-strength",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-critical-nuance-for-hypertrophy-not-max-strength","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Critical Nuance: For Hypertrophy, Not Max Strength"}]}],["$","li","when-internal-cues-work-best",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-internal-cues-work-best","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When Internal Cues Work Best"}]}],["$","li","when-to-skip-it",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-to-skip-it","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When to Skip It"}]}],["$","li","practical-application-how-to-use-internal-cues",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-application-how-to-use-internal-cues","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Application: How to Use Internal Cues"}]}],["$","li","the-bigger-picture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bigger-picture","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bigger Picture"}]}],["$","li","the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Verdict"}]}]]}]]}]
+e:T1c91,<p>The idea is seductive: think about your biceps during curls, and they'll grow bigger. Elite bodybuilders swear by it. But does the science actually support the "mind-muscle connection," or is it justbro-science passed down in gym folklore?</p>
+<p>The answer is nuanced—and more interesting than a simple yes or no.</p>
+<h2 id="what-is-the-mind-muscle-connection">What Is the Mind-Muscle Connection?</h2>
+<p>The concept is straightforward: by consciously focusing on the muscle you're training—how it feels, how it contracts—you increase muscle activation and, theoretically, growth. It's an <strong>internal attentional focus</strong>: directing attention to your body rather than the weight or the movement.</p>
+<p>In research terms, this contrasts with <strong>external focus</strong> (thinking about the outcome: "push the floor apart" or "press the bar away") or no specific cues at all.</p>
+<p>The hypothesis makes sense. Muscle growth requires sufficient motor unit recruitment. If you can voluntarily increase activation in your target muscle, you might trigger a greater hypertrophic response.</p>
+<h2 id="what-the-research-shows">What the Research Shows</h2>
+<p>The evidence is surprisingly robust—for specific situations.</p>
+<p>A foundational study by Calatayud et al. found that resistance-trained participants increased pectoralis major and triceps brachii activation during the bench press when focusing internally, but <strong>only at intensities up to 60% of 1RM</strong>. Beyond 60%, the effect disappeared. At 80% 1RM, the body is already recruiting maximum motor units, leaving no room for conscious improvement.</p>
+<p>More recent research (2024-2025) has refined this picture:</p>
+<ul>
+<li><strong>Internal cues consistently increase muscle activation</strong> compared to external cues or no cues—but primarily during controlled, slower tempos</li>
+<li><strong>Explosive lifting overrides the benefit</strong>. When subjects were told to press the bar as fast as possible, internal focus cues added nothing. The demand for rapid force production already maximizes motor unit recruitment</li>
+<li><strong>The effect is muscle-specific</strong>. Focusing on your pecs increases pec activation. Focusing on triceps increases triceps activation. You can selectively emphasize different muscles in compound movements</li>
+</ul>
+<p>A 2024 study on motor imagery (mentally rehearsing the movement while actually training) showed enhanced force performance in expert athletes when combined with physical practice—a fascinating extension of the mind-muscle concept.</p>
+<h2 id="the-critical-nuance-for-hypertrophy-not-max-strength">The Critical Nuance: For Hypertrophy, Not Max Strength</h2>
+<p>Here's where it gets interesting for bodybuilders.</p>
+<p>The ScienceDaily analysis of the research found that "to lift heavier, or longer, it is better to focus on" external cues. For pure performance—moving more weight or generating more power—external focus wins.</p>
+<p>But hypertrophy is different. You're not trying to maximize force output. You're trying to maximize time under tension and muscle damage within a moderate rep range. In this context, internal focus can help you:</p>
+<ul>
+<li>Feel the muscle working more intensely</li>
+<li>Maintain constant tension (slower eccentrics help)</li>
+<li>Develop better mind-muscle awareness over time</li>
+</ul>
+<h2 id="when-internal-cues-work-best">When Internal Cues Work Best</h2>
+<p>Based on the research, internal focus is most effective when:</p>
+<ol>
+<li><strong>Training with moderate loads (50-70% 1RM)</strong></li>
+<li><strong>Using controlled tempos</strong> (2-3 second eccentric, slower concentric)</li>
+<li><strong>During isolation exercises</strong> (curls, flyes, leg extensions)</li>
+<li><strong>For smaller or harder-to-feel muscles</strong> (lower chest, rear delts, calves)</li>
+<li><strong>When learning new movements</strong> to establish proper muscle engagement</li>
+</ol>
+<h2 id="when-to-skip-it">When to Skip It</h2>
+<p>Save your mental energy in these scenarios:</p>
+<ol>
+<li><strong>Heavy compound lifts above 75% 1RM</strong> — your nervous system is already at max recruitment</li>
+<li><strong>Explosutive or dynamic training</strong> — power, plyometrics</li>
+<li><strong>When you're already highly trained</strong> — experienced lifters have better intrinsic mind-muscle connection</li>
+<li><strong>When form breaks down</strong> — focus on technique first, muscle feel second</li>
+</ol>
+<h2 id="practical-application-how-to-use-internal-cues">Practical Application: How to Use Internal Cues</h2>
+<p>Here's how to actually apply this research in your training:</p>
+<p><strong>For each set, try this progression:</strong></p>
+<ol>
+<li><strong>Set up the movement</strong> with proper form and stance</li>
+<li><strong>Take a breath and visualize</strong> the target muscle contracting</li>
+<li><strong>During the eccentric</strong>, focus on the stretch in the target muscle</li>
+<li><strong>During the concentric</strong>, focus on squeezing or flexing the muscle</li>
+<li><strong>At the top</strong>, hold briefly and try to feel maximal contraction</li>
+</ol>
+<p><strong>Example cues by muscle group:</strong></p>
+<ul>
+<li><strong>Chest:</strong> "Feel the stretch in my lower chest" / "Squeeze my pecs together"</li>
+<li><strong>Back:</strong> "Drive my elbows back" / "Pull with my lats"</li>
+<li><strong>Biceps:</strong> "Flex my bicep" / "Shorten the muscle"</li>
+<li><strong>Quads:</strong> "Press my knees out" / "Stand up with my thighs"</li>
+</ul>
+<h2 id="the-bigger-picture">The Bigger Picture</h2>
+<p>The mind-muscle connection isn't magic—it's a tool. Research supports its use for enhancing muscle activation in specific contexts, particularly moderate-load hypertrophy training. But it's not a replacement for progressive overload, adequate volume, or proper recovery.</p>
+<p>Think of it as a supplement to solid programming: useful, additive, but not foundational. The trainee grinding out sets with internal focus but inadequate volume will still make no gains. Add internal cues on top of a solid training base, not as a replacement for one.</p>
+<p>Over time, consistent internal focus training builds what's called "proprioceptive awareness"—a better connection between your nervous system and your muscles. This can help with exercise selection, form, and the ability to feel when a muscle is working hard, which helps with self-regulation of intensity.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<p>Mind-muscle connection is <strong>real but situational</strong>. It works when:</p>
+<ul>
+<li>You're training with moderate loads</li>
+<li>You're moving with control</li>
+<li>You're prioritizing hypertrophy over max strength</li>
+</ul>
+<p>It doesn't work when:</p>
+<ul>
+<li>Lifting near-maximal loads</li>
+<li>Trying to move explosively</li>
+<li>Your form is already breaking down</li>
+</ul>
+<p>For bodybuilders and physique athletes, internal focus cues are a legitimate tool in the hypertrophy toolkit. Use them strategically on isolation exercises and moderate-load compounds, and let them build a better feel for your muscles over time.</p>
+<p>Now go flex—but do it consciously.</p>
+<hr>
+<p><em>Track your mind-muscle connection with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","mind-muscle-connection-science-gains",{"href":"/blog/mind-muscle-connection-science-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mind-Muscle Connection: The Science Behind Thinking Your Way to Bigger Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows you can increase muscle activation by 12% just by focusing on the muscle you're training. Here's the science and how to apply it."}]]}],["$","$Ld","compound-vs-isolation-hypertrophy-science",{"href":"/blog/compound-vs-isolation-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."}]]}],["$","$Ld","supplement-stacking-science",{"href":"/blog/supplement-stacking-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supplement Stacking: What Works Together and What Doesn't"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science of combining supplements for maximum muscle building benefit — plus the combinations that cancel each other out."}]]}],["$","$Ld","mind-muscle-connection-science",{"href":"/blog/mind-muscle-connection-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Mind-Muscle Connection: Real Science or Just Hype?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does consciously focusing on your muscles actually build more muscle? We dive into the research to separate fact from fitness fiction."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb37,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up#webpage","url":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up","name":"Training Around Injuries: How to Keep Making Gains When You're Banged Up","description":"Injuries don't have to derail your progress. Learn the science of training smart around common injuries and maintain muscle even when you can't train normally.","breadcrumb":{"@id":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up#webpage"},"headline":"Training Around Injuries: How to Keep Making Gains When You're Banged Up","description":"Injuries don't have to derail your progress. Learn the science of training smart around common injuries and maintain muscle even when you can't train normally.","isAccessibleForFree":true,"wordCount":771,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Training Around Injuries: How to Keep Making Gains When You're Banged Up","item":"https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Training Around Injuries: How to Keep Making Gains When You're Banged Up"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Injuries don't have to derail your progress. Learn the science of training smart around common injuries and maintain muscle even when you can't train normally."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Training%20Around%20Injuries%3A%20How%20to%20Keep%20Making%20Gains%20When%20You're%20Banged%20Up&url=https://jacked.coach/blog/training-around-injuries-keep-gains-banged-up","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-problem-with-complete-rest",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-problem-with-complete-rest","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Problem with Complete Rest"}]}],["$","li","the-modified-training-approach",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-modified-training-approach","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Modified Training Approach"}]}],["$","li","principle-1-distinguish-pain-from-damage",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#principle-1-distinguish-pain-from-damage","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Principle 1: Distinguish Pain from Damage"}]}],["$","li","principle-2-work-around-not-through",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#principle-2-work-around-not-through","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Principle 2: Work Around, Not Through"}]}],["$","li","principle-3-use-tempo-and-load-modifications",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#principle-3-use-tempo-and-load-modifications","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Principle 3: Use Tempo and Load Modifications"}]}],["$","li","the-evidence",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-evidence","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Evidence"}]}],["$","li","practical-programming",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-programming","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Programming"}]}],["$","li","during-the-acute-phase-first-48-72-hours",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#during-the-acute-phase-first-48-72-hours","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"During the Acute Phase (First 48-72 hours)"}]}],["$","li","during-recovery-days-3-14",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#during-recovery-days-3-14","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"During Recovery (Days 3-14)"}]}],["$","li","return-to-full-training-week-3",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#return-to-full-training-week-3","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Return to Full Training (Week 3+)"}]}],["$","li","what-to-do-instead-of-nothing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-to-do-instead-of-nothing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What to Do Instead of Nothing"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1745,<p>Every lifter faces it eventually: you pick something up wrong, tweak something during a set, or wake up with a mysteriously painful shoulder. The old approach was simple: stop everything until you're 100% healed. But research now shows that's often the worst strategy.</p>
+<p>The science of training around injuries—sometimes called "training around pain" or "modified training"—has evolved significantly. Here's how to keep making progress even when you're not 100%.</p>
+<h2 id="the-problem-with-complete-rest">The Problem with Complete Rest</h2>
+<p>Extended rest leads to what researchers call "disuse atrophy." Your muscles begin losing strength within 48-72 hours of inactivity, and the longer you stop, the more you lose. Studies show that just two weeks of detraining can reduce muscle protein synthesis rates by nearly 50%.</p>
+<p>Beyond muscle loss, complete rest often means:</p>
+<ul>
+<li><strong>Loss of neural adaptations</strong> – Your body "forgets" the movement patterns you've built</li>
+<li><strong>Psychological disengagement</strong> – Motivation crashes when you go cold turkey</li>
+<li><strong>Stiffness increases</strong> – Immobility leads to reduced joint mobility</li>
+</ul>
+<p>The key insight: some training is usually better than no training, when done correctly.</p>
+<h2 id="the-modified-training-approach">The Modified Training Approach</h2>
+<h3 id="principle-1-distinguish-pain-from-damage">Principle 1: Distinguish Pain from Damage</h3>
+<p>Not all pain is created equal. The sports science literature distinguishes between:</p>
+<ul>
+<li><strong>Muscle soreness (DOMS)</strong> – Deep, achy, spread out, improves within 48-72 hours</li>
+<li><strong>Joint pain</strong> – More localized, often sharp, doesn't improve with warm-up</li>
+<li><strong>Tendon issues</strong> – Stiffness that worsens with continued loading</li>
+</ul>
+<p>If pain is sharp, localized to a joint, or gets worse with movement, stop. But if it's general muscle soreness or mild discomfort that warms up and improves, you can often train around it.</p>
+<h3 id="principle-2-work-around-not-through">Principle 2: Work Around, Not Through</h3>
+<p>The golden rule: never train through acute pain. But you can absolutely work around injured areas:</p>
+<p><strong>Shoulder impingement?</strong> Skip overhead pressing. Do pull-ups, rows, and leg work instead.</p>
+<p><strong>Lower back strain?</strong> Avoid heavy squats and deadlifts. Focus on upper body, leg presses (with support), and light posterior chain work.</p>
+<p><strong>Elbow tendinopathy?</strong> Skip curls and pushdowns. Do pressing movements, rows, and legs.</p>
+<p>The goal: maintain training frequency and stimulus on everything you CAN train while the injury heals.</p>
+<h3 id="principle-3-use-tempo-and-load-modifications">Principle 3: Use Tempo and Load Modifications</h3>
+<p>When you have a minor injury, manipulating how you train matters more than what you train:</p>
+<ul>
+<li><strong>Slow eccentrics</strong> – Reduce force on joints while increasing time under tension</li>
+<li><strong>Reduced range of motion</strong> – Partial reps protect injured tissues while still providing stimulus</li>
+<li><strong>Lower intensity, higher volume</strong> – More reps at 60-70% can maintain muscle without stressing injured areas</li>
+<li><strong>Blood flow restriction (BFR)</strong> – Allows significant muscle stimulus at very low loads</li>
+</ul>
+<h2 id="the-evidence">The Evidence</h2>
+<p>A 2019 meta-analysis in the <em>British Journal of Sports Medicine</em> found that modified training during injury recovery led to faster return to full capacity compared to complete rest. The training group maintained more muscle mass, strength, and neural adaptations.</p>
+<p>Research on knee injuries shows that continuing light quad work during patellar tendinopathy recovery resulted in better outcomes than rest. The mechanical loading actually promoted tissue healing.</p>
+<h2 id="practical-programming">Practical Programming</h2>
+<p>Here's a framework for training around common injuries:</p>
+<h3 id="during-the-acute-phase-first-48-72-hours">During the Acute Phase (First 48-72 hours)</h3>
+<ul>
+<li>Ice and rest</li>
+<li>Light mobility work only</li>
+<li>Train everything except the painful area at reduced volume</li>
+</ul>
+<h3 id="during-recovery-days-3-14">During Recovery (Days 3-14)</h3>
+<ul>
+<li>Begin loading the injured area gently if pain allows</li>
+<li>Keep intensity at 60-70%</li>
+<li>Focus on tempo (3-0-1-0 or slower eccentrics)</li>
+<li>Prioritize pump work over heavy loads</li>
+</ul>
+<h3 id="return-to-full-training-week-3">Return to Full Training (Week 3+)</h3>
+<ul>
+<li>Gradually increase intensity by 5% per week</li>
+<li>Monitor pain levels 24 hours post-training</li>
+<li>Accept that some sessions will need scaling back</li>
+</ul>
+<h2 id="what-to-do-instead-of-nothing">What to Do Instead of Nothing</h2>
+<p>If you can't train legs due to knee pain, you can still:</p>
+<ul>
+<li>Train upper body normally</li>
+<li>Do single-leg work with the healthy leg</li>
+<li>Use BFR on the injured leg at very light loads</li>
+<li>Focus on mobility and corrective work</li>
+</ul>
+<p>If you have shoulder issues:</p>
+<ul>
+<li>Train back with various grips</li>
+<li>Do push-ups (often less aggravating than barbell pressing)</li>
+<li>Focus on rear delts and upper back</li>
+<li>Use machines instead of free weights for chest</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Injuries are part of the game. What separates lifters who keep making long-term progress from those who spin their wheels is the ability to train intelligently around setbacks. Learn to distinguish between pain that warns you and pain that just needs management. Modify, don't quit.</p>
+<p>Your muscles respond to stimulus. Keep giving them a reason to grow, even when the situation isn't perfect.</p>
+<hr>
+<p><em>Track your training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-age-hypertrophy-beginner-advanced",{"href":"/blog/training-age-hypertrophy-beginner-advanced","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Age: Why Beginners Grow Fast and Advanced Lifters Struggle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Understanding why your gains slow down and how to keep making progress no matter your training age."}]]}],["$","$Ld","training-while-sick-when-to-push-rest",{"href":"/blog/training-while-sick-when-to-push-rest","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training While Sick: When to Push and When to Rest"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The common cold vs. flu, the neck check rule, and how to modify your training when under the weather without derailing your gains."}]]}],["$","$Ld","velocity-based-training-science-2026",{"href":"/blog/velocity-based-training-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Velocity-Based Training: The Science Behind Training Smarter, Not Just Harder"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Discover how measuring movement speed can revolutionize your progressive overload, optimize fatigue management, and maximize muscle growth without relying on outdated 1RM percentages."}]]}],["$","$Ld","autoregulation-vs-traditional-training",{"href":"/blog/autoregulation-vs-traditional-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A 2025 meta-analysis confirms what elite coaches have long suspected—autoregulated training produces superior strength gains compared to rigid percentage-based programs. Here's what the research means for your gains."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

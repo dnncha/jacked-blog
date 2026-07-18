@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taaa,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/body-types-science-fitness-2026#webpage","url":"https://jacked.coach/blog/body-types-science-fitness-2026","name":"Body Types in 2026: Science or Just a Convenient Excuse?","description":"Ectomorph, mesomorph, endomorph — the trio that's dominated fitness discussion for decades. But does the science actually support tailoring your training to...","breadcrumb":{"@id":"https://jacked.coach/blog/body-types-science-fitness-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/body-types-science-fitness-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/body-types-science-fitness-2026#webpage"},"headline":"Body Types in 2026: Science or Just a Convenient Excuse?","description":"Ectomorph, mesomorph, endomorph — the trio that's dominated fitness discussion for decades. But does the science actually support tailoring your training to...","isAccessibleForFree":true,"wordCount":1084,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/body-types-science-fitness-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Body Types in 2026: Science or Just a Convenient Excuse?","item":"https://jacked.coach/blog/body-types-science-fitness-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Body Types in 2026: Science or Just a Convenient Excuse?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Ectomorph, mesomorph, endomorph — the trio that's dominated fitness discussion for decades. But does the science actually support tailoring your training to your body type?"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Body%20Types%20in%202026%3A%20Science%20or%20Just%20a%20Convenient%20Excuse%3F&url=https://jacked.coach/blog/body-types-science-fitness-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-origin-story",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-origin-story","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Origin Story"}]}],["$","li","what-modern-science-says",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-modern-science-says","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Modern Science Says"}]}],["$","li","1-muscle-fiber-types-are-not-bound-to-body-shape",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-muscle-fiber-types-are-not-bound-to-body-shape","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Muscle Fiber Types Are Not Bound to Body Shape"}]}],["$","li","2-metabolism-is-more-complex-than-frame-size",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-metabolism-is-more-complex-than-frame-size","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Metabolism Is More Complex Than Frame Size"}]}],["$","li","3-training-response-is-highly-individual-and-unpredictable",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-training-response-is-highly-individual-and-unpredictable","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Training Response Is Highly Individual — And Unpredictable"}]}],["$","li","where-body-types-have-value",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#where-body-types-have-value","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Where Body Types Have Value"}]}],["$","li","1-as-a-starting-point-for-self-assessment",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-as-a-starting-point-for-self-assessment","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. As a Starting Point for Self-Assessment"}]}],["$","li","2-setting-realistic-expectations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-setting-realistic-expectations","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Setting Realistic Expectations"}]}],["$","li","3-guiding-priorities-without-overthinking",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-guiding-priorities-without-overthinking","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Guiding Priorities Without Overthinking"}]}],["$","li","the-real-problem-with-body-type-thinking",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-real-problem-with-body-type-thinking","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Real Problem With Body Type Thinking"}]}],["$","li","what-actually-matters-more",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-matters-more","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Matters More"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1ff9,<p>Walk into any gym or fitness forum, and you'll hear it: "I'm an ectomorph, so I need to eat more." "She's a mesomorph — that's why she fills out so fast." The body type conversation has been around since the 1940s, when psychologist William Sheldon coined the terms ectomorph, mesomorph, and endomorph to categorize human physiques.</p>
+<p>But in 2026, with modern exercise science and genetic research at our fingertips, it's worth asking: <strong>Is there actual value in categorizing yourself by body type, or is it just a sophisticated way of making excuses?</strong></p>
+<h2 id="the-origin-story">The Origin Story</h2>
+<p>Sheldon originally described three extremes:</p>
+<ul>
+<li><strong>Ectomorphs</strong>: Lean, narrow-shouldered, fast metabolism, struggle to gain weight</li>
+<li><strong>Mesomorphs</strong>: Muscular, broad shoulders, gain muscle easily, athletic build</li>
+<li><strong>Endomorphs</strong>: Wider waist, tendency to store fat, build muscle but also fat readily</li>
+</ul>
+<p>The problem? Sheldon developed this classification by looking at thousands of photographs of young men — not by studying their training responses, hormone levels, or muscle fiber composition. It was a morphological categorization, not a physiological one.</p>
+<h2 id="what-modern-science-says">What Modern Science Says</h2>
+<p>The Carter and Heath somatotyping system, widely used in sports science, acknowledges something crucial: <strong>somatotype classification lacks predictive power and fails to account for training status, nutrition, and genetic variation in muscle fiber composition and hormonal response.</strong></p>
+<p>That's a scientific way of saying: knowing you're an "ectomorph" doesn't tell us how you'll respond to training.</p>
+<p>Here's why:</p>
+<h3 id="1-muscle-fiber-types-are-not-bound-to-body-shape">1. Muscle Fiber Types Are Not Bound to Body Shape</h3>
+<p>Your muscles contain two primary fiber types — type I (slow-twitch, endurance-oriented) and type II (fast-twitch, power-oriented). Research consistently shows that individual fiber type distribution varies dramatically between people, and <strong>there's no reliable correlation between your external physique and your muscle fiber composition</strong>.</p>
+<p>A skinny-looking person can have predominantly fast-twitch fibers. A thick-set person can have mostly slow-twitch. The body type labels tell you almost nothing about what actually matters for training.</p>
+<h3 id="2-metabolism-is-more-complex-than-frame-size">2. Metabolism Is More Complex Than Frame Size</h3>
+<p>Yes, ectomorphs often have faster metabolisms. But metabolic rate is determined by:</p>
+<ul>
+<li>Lean body mass (more muscle = higher metabolism)</li>
+<li>Thyroid function</li>
+<li>Activity level</li>
+<li>Muscle fiber type (type II fibers burn more at rest)</li>
+<li>Hormonal status</li>
+</ul>
+<p>Reducing this to "I'm an ectomorph, I eat a lot and still stay thin" ignores all of the above. Two people of identical height and weight can have 30-40% different metabolic rates based on factors completely unrelated to somatotype.</p>
+<h3 id="3-training-response-is-highly-individual-and-unpredictable">3. Training Response Is Highly Individual — And Unpredictable</h3>
+<p>Here's the uncomfortable truth: <strong>we can't reliably predict who will respond best to what type of training</strong>. Studies on twin populations show that genetic factors explain roughly 60-80% of strength training adaptations, but the specific genes and mechanisms are incredibly complex.</p>
+<p>Some people put on 20 pounds of muscle in their first year of serious training. Others do the same work and add half that. The difference isn't their body type — it's their individual genetic architecture.</p>
+<h2 id="where-body-types-have-value">Where Body Types Have Value</h2>
+<p>This isn't to say the concept is completely useless. Here's where somatotypes can be a practical tool:</p>
+<h3 id="1-as-a-starting-point-for-self-assessment">1. As a Starting Point for Self-Assessment</h3>
+<p>Body type labels can help you honestly assess where you're starting:</p>
+<ul>
+<li>If you've always been lean and lanky, you probably need to prioritize caloric surplus and volume</li>
+<li>If you tend to gain fat easily, you may need more aggressive cardio and tighter nutrition</li>
+<li>If you build muscle easily, you can afford more training variety</li>
+</ul>
+<p>This isn't science — it's pattern recognition from thousands of gym-goers.</p>
+<h3 id="2-setting-realistic-expectations">2. Setting Realistic Expectations</h3>
+<p>A mesomorph who's trained for five years has different realistic expectations than an ectomorph at the same experience level. Not because of some fixed genetic ceiling, but because <strong>your starting point influences how much "room to grow" you have</strong>.</p>
+<p>A 140-pound ectomorph has more potential weight to add than a 180-pound mesomorph at the same body fat percentage. That doesn't mean the ectomorph can't get bigger — it just means their journey looks different.</p>
+<h3 id="3-guiding-priorities-without-overthinking">3. Guiding Priorities Without Overthinking</h3>
+<p>Some practical applications:</p>
+<ul>
+<li><strong>If you're naturally lean and struggle to eat enough</strong>: Focus on calorie-dense foods, bigger portions, and possibly more rest days</li>
+<li><strong>If you gain fat easily</strong>: Prioritize protein intake, don't fear cardio, and track your weight trending over weeks not days</li>
+<li><strong>If you build muscle easily</strong>: You can experiment more with training styles, but watch for hidden fat gain</li>
+</ul>
+<h2 id="the-real-problem-with-body-type-thinking">The Real Problem With Body Type Thinking</h2>
+<p>Here's where body type labels become dangerous: <strong>they can become self-fulfilling prophecies and excuses</strong>.</p>
+<p>"I'm an ectomorph so I'll never be big" — that's a mindset killer. The research on muscle memory, satellite cells, and long-term training adaptation shows that almost everyone can make dramatic progress given enough time and proper programming.</p>
+<p>The bigger issue is that body type obsession leads to:</p>
+<ul>
+<li>Constantly changing programs looking for the "perfect" one for your type</li>
+<li>Comparing your journey to people with completely different genetics</li>
+<li>Using "type" as an excuse not to push on hard days</li>
+<li>Missing the forest for the trees — the basics matter far more than optimization</li>
+</ul>
+<h2 id="what-actually-matters-more">What Actually Matters More</h2>
+<p>Instead of worrying about whether you're an ectomorph or endomorph, focus on what we know works:</p>
+<ol>
+<li><strong>Progressive overload</strong> — get slightly better at something every session</li>
+<li><strong>Training consistency</strong> — show up for years, not weeks</li>
+<li><strong>Protein intake</strong> — 1.6-2.2g/kg daily, regardless of body type</li>
+<li><strong>Sleep and recovery</strong> — where the actual growth happens</li>
+<li><strong>Caloric awareness</strong> — eat enough to support growth, adjust based on results</li>
+</ol>
+<p>A perfect program matched to your "wrong" body type will always lose to a decent program executed consistently.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Body types are a <strong>descriptive framework</strong>, not a <strong>prescriptive one</strong>. They describe what you currently look like — they don't determine what you can become.</p>
+<p>The 1940s-era categories of ectomorph, mesomorph, and endomorph have been largely superseded by more meaningful variables: training age, muscle fiber composition, hormonal profile, and individual response patterns.</p>
+<p>Use body types as a rough guide for prioritization if you want. But don't let them become a cage. The science is clear: <strong>your genetic ceiling is higher than you think, and it has far more to do with your individual biology than which category you slot into.</strong></p>
+<p>Train smart. Eat properly. Be patient. The results will come — regardless of what you're called.</p>
+<hr>
+<p><em>Let Jacked track your progress. Download and start training smarter.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","exercise-order-pre-exhaustion-science",{"href":"/blog/exercise-order-pre-exhaustion-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Exercise Order Science: Does Pre-Exhaustion Actually Work?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The pre-exhaustion method—doing isolation exercises before compound movements—has been a bodybuilding staple for decades. But does the science actually support it?"}]]}],["$","$Ld","mike-mentzer-heavy-duty-training-science-2026",{"href":"/blog/mike-mentzer-heavy-duty-training-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mike Mentzer's Heavy Duty Training: Does High-Intensity Actually Work in 2026?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"One set to failure, maximum intensity, minimal volume — Mike Mentzer's Heavy Duty method divided the bodybuilding world. Here's what science says in 2026."}]]}],["$","$Ld","mind-muscle-connection-science",{"href":"/blog/mind-muscle-connection-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Mind-Muscle Connection: Real Science or Just Hype?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does consciously focusing on your muscles actually build more muscle? We dive into the research to separate fact from fitness fiction."}]]}],["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

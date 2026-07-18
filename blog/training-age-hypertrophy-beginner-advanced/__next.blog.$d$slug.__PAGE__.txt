@@ -1,0 +1,278 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta9c,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced#webpage","url":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced","name":"Training Age: Why Beginners Grow Fast and Advanced Lifters Struggle","description":"Understanding why your gains slow down and how to keep making progress no matter your training age.","breadcrumb":{"@id":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced#webpage"},"headline":"Training Age: Why Beginners Grow Fast and Advanced Lifters Struggle","description":"Understanding why your gains slow down and how to keep making progress no matter your training age.","isAccessibleForFree":true,"wordCount":1001,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Training Age: Why Beginners Grow Fast and Advanced Lifters Struggle","item":"https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Training Age: Why Beginners Grow Fast and Advanced Lifters Struggle"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Understanding why your gains slow down and how to keep making progress no matter your training age."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Training%20Age%3A%20Why%20Beginners%20Grow%20Fast%20and%20Advanced%20Lifters%20Struggle&url=https://jacked.coach/blog/training-age-hypertrophy-beginner-advanced","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-training-age",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-training-age","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Training Age?"}]}],["$","li","the-science-behind-diminishing-returns",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-behind-diminishing-returns","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science Behind Diminishing Returns"}]}],["$","li","neural-adaptations-vs-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#neural-adaptations-vs-muscle-growth","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Neural Adaptations vs. Muscle Growth"}]}],["$","li","the-muscle-protein-synthesis-ceiling",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-muscle-protein-synthesis-ceiling","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Muscle Protein Synthesis Ceiling"}]}],["$","li","satellite-cell-saturation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#satellite-cell-saturation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Satellite Cell Saturation"}]}],["$","li","the-individual-response-spectrum",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-individual-response-spectrum","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Individual Response Spectrum"}]}],["$","li","genetic-factors",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#genetic-factors","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Genetic Factors"}]}],["$","li","anatomical-factors",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#anatomical-factors","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Anatomical Factors"}]}],["$","li","lifestyle-factors",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#lifestyle-factors","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Lifestyle Factors"}]}],["$","li","programming-for-your-training-age",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#programming-for-your-training-age","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Programming for Your Training Age"}]}],["$","li","beginners-0-1-years",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#beginners-0-1-years","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Beginners (0-1 Years)"}]}],["$","li","intermediates-1-3-years",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#intermediates-1-3-years","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Intermediates (1-3 Years)"}]}],["$","li","advanced-3-years",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#advanced-3-years","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Advanced (3+ Years)"}]}],["$","li","breaking-through-the-plateau",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#breaking-through-the-plateau","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Breaking Through the Plateau"}]}]]}]]}]
+e:T22a1,<p>If you've been lifting for a few months, you've probably noticed something frustrating: the gains that came effortlessly in the beginning now require Herculean effort. What used to be adding 5 pounds weekly to the bar is now a months-long battle for a single rep.</p>
+<p>This isn't your imagination. It's biology—and understanding why it happens is the key to breaking through plateaus.</p>
+<h2 id="what-is-training-age">What Is Training Age?</h2>
+<p><strong>Training age</strong> refers to how long you've been consistently performing resistance training, distinct from your chronological age. A 30-year-old who's lifted seriously for 5 years has a higher training age than a 50-year-old who's been lifting for 20 years.</p>
+<p>Research from the Journal of Strength and Conditioning Research shows that training age is one of the strongest predictors of hypertrophic response. A 2025 meta-analysis in <em>Sports Medicine</em> found that beginners (0-1 years training age) experience muscle growth rates approximately <strong>3-4 times higher</strong> than advanced lifters (3+ years training age).</p>
+<h2 id="the-science-behind-diminishing-returns">The Science Behind Diminishing Returns</h2>
+<h3 id="neural-adaptations-vs-muscle-growth">Neural Adaptations vs. Muscle Growth</h3>
+<p>Early strength gains come primarily from <strong>neural adaptations</strong>—your brain learns to activate more muscle fibers more efficiently. These adaptations happen fast (weeks to months) but plateau quickly.</p>
+<p>True muscle hypertrophy (actual muscle fiber growth) takes longer to develop and requires more sophisticated stimuli. This explains why:</p>
+<ul>
+<li><strong>Month 1-3:</strong> Rapid strength gains with visible muscle changes</li>
+<li><strong>Month 3-12:</strong> Continued growth, but slowing</li>
+<li><strong>Year 1-3:</strong> Solid gains requiring more deliberate programming</li>
+<li><strong>Year 3+:</strong> Incremental progress requiring precision</li>
+</ul>
+<h3 id="the-muscle-protein-synthesis-ceiling">The Muscle Protein Synthesis Ceiling</h3>
+<p>Research published in 2025 in <em>Nutrients</em> demonstrates that muscle protein synthesis (MPS) response to training differs dramatically by training age:</p>
+<ul>
+<li><strong>Beginners:</strong> MPS increases 300-500% above baseline post-training</li>
+<li><strong>Intermediates:</strong> MPS increases 150-250%</li>
+<li><strong>Advanced:</strong> MPS increases 50-100%</li>
+</ul>
+<p>This doesn't mean advanced lifters can't build muscle—it means they need more volume, greater intensity, and more recovery to stimulate the same response.</p>
+<h3 id="satellite-cell-saturation">Satellite Cell Saturation</h3>
+<p>Satellite cells are stem cells that help repair and grow muscle fibers. Beginners start with abundant satellite cell pools that activate easily with training. Over time, these pools become "used up," requiring more advanced stimuli (mechanical tension, metabolic stress, muscle damage) to activate new satellite cells.</p>
+<h2 id="the-individual-response-spectrum">The Individual Response Spectrum</h2>
+<p>Here's what most guides don't tell you: <strong>training age explains only about 30-40% of the variation in hypertrophy response</strong>. The rest comes down to:</p>
+<h3 id="genetic-factors">Genetic Factors</h3>
+<ul>
+<li><strong>Myostatin levels:</strong> This protein acts as a "brake" on muscle growth. Some people have genetic variants that produce less myostatin, allowing greater muscle growth potential.</li>
+<li><strong>Muscle fiber composition:</strong> Type II (fast-twitch) fibers have greater hypertrophy potential than Type I (slow-twitch).</li>
+<li><strong>Hormonal profile:</strong> Testosterone, growth hormone, and IGF-1 variations affect recovery and growth capacity.</li>
+</ul>
+<h3 id="anatomical-factors">Anatomical Factors</h3>
+<ul>
+<li><strong>Tendon insertion points:</strong> Longer muscle bellies from certain tendon placements create more room for growth.</li>
+<li><strong>Muscle architecture:</strong> Pennate muscles (angled fibers) can potentially grow more than parallel muscles.</li>
+</ul>
+<h3 id="lifestyle-factors">Lifestyle Factors</h3>
+<ul>
+<li><strong>Sleep quality and duration</strong></li>
+<li><strong>Nutrition consistency</strong></li>
+<li><strong>Stress management</strong></li>
+<li><strong>Alcohol and recovery habits</strong></li>
+</ul>
+<h2 id="programming-for-your-training-age">Programming for Your Training Age</h2>
+<h3 id="beginners-0-1-years">Beginners (0-1 Years)</h3>
+<p><strong>Focus:</strong> Learn movements, build consistency, establish habits</p>
+<ul>
+<li>Full-body workouts 3x/week</li>
+<li>Moderate volume (10-15 sets/muscle/week)</li>
+<li>Moderate intensity (RPE 7-8)</li>
+<li>Progressive overload through any means available</li>
+<li><strong>Expected growth:</strong> 1-2 lbs lean muscle/month</li>
+</ul>
+<h3 id="intermediates-1-3-years">Intermediates (1-3 Years)</h3>
+<p><strong>Focus:</strong> Volume accumulation, exercise variety, recovery optimization</p>
+<ul>
+<li>Upper/lower split or push/pull/legs</li>
+<li>Higher volume (15-20 sets/muscle/week)</li>
+<li>Periodized intensity (mix of RPE 7-9)</li>
+<li>Track everything meticulously</li>
+<li><strong>Expected growth:</strong> 0.5-1 lb lean muscle/month</li>
+</ul>
+<h3 id="advanced-3-years">Advanced (3+ Years)</h3>
+<p><strong>Focus:</strong> Precision, recovery, novelty, specialization</p>
+<ul>
+<li>Customized split based on weaknesses</li>
+<li>Strategic volume (sometimes higher, sometimes lower deload weeks)</li>
+<li>Intensity varies based on goals (strength vs. hypertrophy blocks)</li>
+<li>Consider blood flow restriction,cluster sets, intensifiers</li>
+<li>Periodization is essential</li>
+<li><strong>Expected growth:</strong> 0.25-0.5 lb lean muscle/month</li>
+</ul>
+<h2 id="breaking-through-the-plateau">Breaking Through the Plateau</h2>
+<p>When progress stalls—which it will—here are evidence-based strategies:</p>
+<h3 id="1-shock-the-system">1. Shock the System</h3>
+<p>Your body adapts to routine. Change:</p>
+<ul>
+<li>Exercise selection (new angles, movements)</li>
+<li>Training frequency</li>
+<li>Volume distribution</li>
+<li>Rest periods</li>
+</ul>
+<h3 id="2-train-to-true-failure-occasionally">2. Train to True Failure (Occasionally)</h3>
+<p>Advanced lifters often stop 1-2 reps short of failure. Occasional true failure sets can re-stimulate growth, but limit these to 1-2 per muscle group per week.</p>
+<h3 id="3-optimize-recovery">3. Optimize Recovery</h3>
+<p>At advanced levels, training is rarely the problem—recovery is:</p>
+<ul>
+<li>Sleep: 8-9 hours minimum</li>
+<li>Nutrition: 0.8-1g protein per pound bodyweight</li>
+<li>Stress management: Cortisol suppresses growth</li>
+</ul>
+<h3 id="4-consider-specialized-techniques">4. Consider Specialized Techniques</h3>
+<ul>
+<li><strong>Blood flow restriction training:</strong> Allows high tension with lower loads</li>
+<li><strong>Eccentric overload:</strong> Greater muscle damage stimulates growth</li>
+<li><strong>Isometric training:</strong> Builds strength at specific joint angles</li>
+<li><strong>Cluster sets:</strong> More quality reps with shorter rest</li>
+</ul>
+<h3 id="5-accept-diminishing-returns">5. Accept Diminishing Returns</h3>
+<p>This is the hardest but most important lesson. At advanced levels, you're fighting biology. A 0.5 lb/month gain averaged over a year is excellent progress. Comparing yourself to beginner gains guarantees frustration.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Your body isn't broken when gains slow down—it's working exactly as designed. The adaptations that made you stronger and bigger initially were low-hanging fruit. Now you're mining diamonds, and that requires better tools, more precision, and patience.</p>
+<p>Understanding your training age helps you set realistic expectations and program appropriately. A beginner doing advanced volume will burn out. An advanced lifter doing beginner programming will stall.</p>
+<p>Meet yourself where you are, respect the biology, and keep pushing. The muscles you build after year three are earned—not given.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ol>
+<li>Schoenfeld, B.J. et al. (2025). "Training Age and Hypertrophic Response: A Meta-Analysis." <em>Sports Medicine</em>.</li>
+<li>Morton, R.W. et al. (2025). "Muscle Protein Synthesis Responses to Resistance Training by Training Status." <em>Nutrients</em>, 17(16), 2579.</li>
+<li>Ahtiainen, J.P. et al. (2025). "Satellite Cell Activity in Resistance Training: Effects of Training Status." <em>Journal of Strength and Conditioning Research</em>.</li>
+<li>Bradshaw, E.J. et al. (2025). "Individual Responses to Resistance Training: Genetic and Environmental Factors." <em>Medicine &#x26; Science in Sports &#x26; Exercise</em>.</li>
+</ol>
+<hr>
+<p><em>Track your training age with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-around-injuries-keep-gains-banged-up",{"href":"/blog/training-around-injuries-keep-gains-banged-up","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Around Injuries: How to Keep Making Gains When You're Banged Up"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Injuries don't have to derail your progress. Learn the science of training smart around common injuries and maintain muscle even when you can't train normally."}]]}],["$","$Ld","neuromuscular-efficiency-nervous-system-recruitment",{"href":"/blog/neuromuscular-efficiency-nervous-system-recruitment","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Neuromuscular Efficiency: How Your Nervous System Becomes a Better Recruiter"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals how neural adaptations supercharge strength gains before muscles ever grow—and why this matters for your training."}]]}],["$","$Ld","tempo-training-hypertrophy-science-2026",{"href":"/blog/tempo-training-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Tempo Training Science: The Complete Guide to Repetition Speed for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does slowing down your reps build more muscle? We examine the 2024-2026 research on repetition tempo and what it means for your training."}]]}],["$","$Ld","liver-muscle-axis-gains",{"href":"/blog/liver-muscle-axis-gains","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Liver-Muscle Axis: How Your Liver Dictates Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters focus on training and protein intake, but ignore the organ most critical to muscle growth. Your liver is the hidden engine driving protein synthesis, hormone metabolism, and recovery."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,247 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb04,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/load-tempo-equivalence-2025-research#webpage","url":"https://jacked.coach/blog/load-tempo-equivalence-2025-research","name":"The 2025 Science That Changes Everything: Load and Tempo Don't Matter (Almost)","description":"New research confirms what recent studies have been suggesting - both load and repetition tempo matter far less than we thought, as long as you train smart.","breadcrumb":{"@id":"https://jacked.coach/blog/load-tempo-equivalence-2025-research#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/load-tempo-equivalence-2025-research#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/load-tempo-equivalence-2025-research#webpage"},"headline":"The 2025 Science That Changes Everything: Load and Tempo Don't Matter (Almost)","description":"New research confirms what recent studies have been suggesting - both load and repetition tempo matter far less than we thought, as long as you train smart.","isAccessibleForFree":true,"wordCount":897,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/load-tempo-equivalence-2025-research#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The 2025 Science That Changes Everything: Load and Tempo Don't Matter (Almost)","item":"https://jacked.coach/blog/load-tempo-equivalence-2025-research"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The 2025 Science That Changes Everything: Load and Tempo Don't Matter (Almost)"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research confirms what recent studies have been suggesting - both load and repetition tempo matter far less than we thought, as long as you train smart."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%202025%20Science%20That%20Changes%20Everything%3A%20Load%20and%20Tempo%20Don't%20Matter%20(Almost)&url=https://jacked.coach/blog/load-tempo-equivalence-2025-research","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-load-equivalence-discovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-load-equivalence-discovery","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Load Equivalence Discovery"}]}],["$","li","what-this-means-practically",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-this-means-practically","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What This Means Practically"}]}],["$","li","the-repetition-tempo-meta-analysis",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-repetition-tempo-meta-analysis","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Repetition Tempo Meta-Analysis"}]}],["$","li","breaking-down-the-tempo-findings",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#breaking-down-the-tempo-findings","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Breaking Down the Tempo Findings"}]}],["$","li","the-real-drivers-of-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-real-drivers-of-hypertrophy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Real Drivers of Hypertrophy"}]}],["$","li","1-proximity-to-failure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-proximity-to-failure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Proximity to Failure"}]}],["$","li","2-total-volume-sets-reps-load",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-total-volume-sets-reps-load","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Total Volume (Sets × Reps × Load)"}]}],["$","li","3-progressive-overload",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-progressive-overload","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Progressive Overload"}]}],["$","li","4-training-frequency",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-training-frequency","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Training Frequency"}]}],["$","li","what-this-means-for-your-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-your-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means for Your Training"}]}],["$","li","the-exceptions",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-exceptions","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Exceptions"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T1b44,<p>If you've been stressing about whether to lift heavy or light, whether to slow down your reps or speed them up - good news. The 2025 research is in, and it's beautifully simple.</p>
+<p>Two landmark studies published in late 2025 have essentially confirmed what many progressive coaches have suspected for years: <strong>both load and repetition tempo matter far less than we thought</strong>, provided you're training close to failure and hitting sufficient volume.</p>
+<h2 id="the-load-equivalence-discovery">The Load Equivalence Discovery</h2>
+<p>The most paradigm-shifting finding comes from Bello et al. (2025), published in the <em>Journal of Functional Morphology and Kinesiology</em>. This study put to rest one of fitness's oldest debates.</p>
+<p><strong>The result</strong>: Light loads (30% of 1-RM) and heavy loads (85% of 1-RM) produced <em>statistically equivalent</em> muscle thickness gains when sets were taken to muscular failure.</p>
+<p>That's right. The same hypertrophy from lifting 30% of your max as 85% of your max.</p>
+<h3 id="what-this-means-practically">What This Means Practically</h3>
+<ul>
+<li><strong>Beginners</strong> can build muscle with very light weights (even bodyweight) as long as they train to near-failure</li>
+<li><strong>Injured lifters</strong> can maintain and even build muscle with reduced loads</li>
+<li><strong>Endurance athletes</strong> don't need to "go heavy" to preserve muscle</li>
+<li><strong>Time-cracked trainees</strong> can do high-rep circuits with lighter weights and still grow</li>
+</ul>
+<p>The caveat that matters: <strong>sets must be taken to failure</strong> (or very close to it). This is the critical piece. Light loads with 5 reps left in the tank won't cut it. But light loads pushed to failure? Same result.</p>
+<h2 id="the-repetition-tempo-meta-analysis">The Repetition Tempo Meta-Analysis</h2>
+<p>The second game-changing finding comes from a 2025 systematic review and meta-analysis published through the National Strength and Conditioning Association. Researchers examined how manipulating repetition tempo affects muscle hypertrophy.</p>
+<p><strong>The result</strong>: Repetition durations ranging from <strong>0.5 to 8 seconds</strong> produced equivalent hypertrophic outcomes.</p>
+<p>The old dogma of "3 seconds eccentric, 1 second concentric" appears to be - at best - overoptimized, and at worst, arbitrary.</p>
+<h3 id="breaking-down-the-tempo-findings">Breaking Down the Tempo Findings</h3>
+<p>The meta-analysis found:</p>
+<ul>
+<li><strong>Fast tempos</strong> (0.5-1 second per rep): Work just as well</li>
+<li><strong>Slow tempos</strong> (4-8 seconds per rep): Also work just as well</li>
+<li><strong>Total time under tension</strong> is not the primary driver of hypertrophy</li>
+</ul>
+<p>What actually drives growth is the combination of mechanical tension, metabolic stress, and muscle damage - none of which are uniquely optimized by any specific tempo.</p>
+<h2 id="the-real-drivers-of-hypertrophy">The Real Drivers of Hypertrophy</h2>
+<p>Now that we've eliminated two variables that matter less than we thought, what <em>does</em> matter? The research points clearly to:</p>
+<h3 id="1-proximity-to-failure">1. Proximity to Failure</h3>
+<p>This is the common thread in both studies. Whether you're using 30% or 85% of your 1RM, hitting failure (or within 0-3 reps of it) is non-negotiable for maximizing growth.</p>
+<p><strong>Practical application</strong>: Leave 0-3 reps in reserve (RIR 0-3) on most working sets.</p>
+<h3 id="2-total-volume-sets-reps-load">2. Total Volume (Sets × Reps × Load)</h3>
+<p>Volume remains king. More total work = more growth stimulus. The 2025 research reaffirms the 10-20 sets per muscle group per week recommendation.</p>
+<p><strong>Practical application</strong>: Track your weekly volume per muscle group. If you're stalling, add sets before adding weight.</p>
+<h3 id="3-progressive-overload">3. Progressive Overload</h3>
+<p>The principle of doing <em>slightly more</em> over time remains fundamental. This can be:</p>
+<ul>
+<li>More weight</li>
+<li>More reps</li>
+<li>More sets</li>
+<li>Better form/technique</li>
+<li>Less rest between sets</li>
+</ul>
+<p><strong>Practical application</strong>: Progress one variable per week. Don't try to improve everything simultaneously.</p>
+<h3 id="4-training-frequency">4. Training Frequency</h3>
+<p>The research continues to support training each muscle group 2-3 times per week for optimal growth. Twice weekly shows clear superiority over once weekly.</p>
+<p><strong>Practical application</strong>: Split your weekly volume across at least two sessions per muscle group.</p>
+<h2 id="what-this-means-for-your-training">What This Means for Your Training</h2>
+<p>Here's the beautiful implication: <strong>you have more freedom than ever to design a training program that fits your goals, preferences, and circumstances.</strong></p>
+<p>Want to do 20-rep sets with light weight? Go ahead - it'll work.</p>
+<p>Want to do powerlifting-style 5s with heavy weight? Also works.</p>
+<p>Want to do fast, explosive reps? Still works.</p>
+<p>Prefer slow, controlled tempo? Knock yourself out.</p>
+<p>The key is consistency and effort, not optimization of variables that turn out to matter less than we thought.</p>
+<h2 id="the-exceptions">The Exceptions</h2>
+<p>Before you ditch the heavy weights entirely, note what the research <em>still</em> supports heavy loads for:</p>
+<ul>
+<li><strong>Maximal strength</strong>: Heavier loads (80-90% 1RM) remain superior for pure strength gains</li>
+<li><strong>Bone density</strong>: Higher loads stimulate greater bone adaptations</li>
+<li><strong>Confounding factors</strong>: Some lifters may respond better to heavier loads due to individual differences</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The 2025 research tells us:</p>
+<ul>
+<li><strong>Load equivalence</strong>: 30% and 85% 1RM produce equal hypertrophy when training to failure</li>
+<li><strong>Tempo flexibility</strong>: 0.5-8 second reps all work equally well</li>
+<li><strong>Failure matters</strong>: Proximity to failure is the key variable, not load or tempo</li>
+<li><strong>Volume still rules</strong>: Total work done drives growth</li>
+</ul>
+<p>Stop stressing about optimal. Start focusing on consistent, effortful training.</p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Bello ML, Arent SM, Gillen ZM, Smith JW. Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training. <em>Journal of Functional Morphology and Kinesiology</em>. 2026; 11(1):17.</p>
+</li>
+<li>
+<p>Resistance Training Tempo and Hypertrophy: A Systematic Review with Meta-Analysis. <em>Journal of Strength and Conditioning Research</em>. 2025.</p>
+</li>
+<li>
+<p>Smart Rabbit Fitness. Strength Training Basics 2026: Force, Hypertrophy and Flexibility. 2026.</p>
+</li>
+</ol>
+<hr>
+<p><em>Track your load and tempo with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","proximity-to-failure-hypertrophy-2026",{"href":"/blog/proximity-to-failure-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Load Debate Revisited: What 2025-2026 Research Really Says About Building Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that proximity to failure matters more than load for hypertrophy, but there's a catch. Here's what the latest science tells us about optimizing your training."}]]}],["$","$Ld","light-vs-heavy-weights-2025-research",{"href":"/blog/light-vs-heavy-weights-2025-research","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Light Weights vs Heavy Weights: The 2025 Research That Changes Everything"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New study reveals training to failure bridges the gap between light and heavy loads—does load even matter for muscle growth?"}]]}],["$","$Ld","stretch-mediated-hypertrophy-lengthened-partials",{"href":"/blog/stretch-mediated-hypertrophy-lengthened-partials","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."}]]}],["$","$Ld","autoregulation-vs-traditional-training",{"href":"/blog/autoregulation-vs-traditional-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A 2025 meta-analysis confirms what elite coaches have long suspected—autoregulated training produces superior strength gains compared to rigid percentage-based programs. Here's what the research means for your gains."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

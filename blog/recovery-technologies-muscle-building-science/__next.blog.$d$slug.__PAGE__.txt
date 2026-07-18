@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb08,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/recovery-technologies-muscle-building-science#webpage","url":"https://jacked.coach/blog/recovery-technologies-muscle-building-science","name":"Recovery Technologies: What Actually Works for Muscle Building?","description":"From massage guns to compression boots, the recovery device market is booming. But what does the science actually say about these tools for muscle building?","breadcrumb":{"@id":"https://jacked.coach/blog/recovery-technologies-muscle-building-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/recovery-technologies-muscle-building-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/recovery-technologies-muscle-building-science#webpage"},"headline":"Recovery Technologies: What Actually Works for Muscle Building?","description":"From massage guns to compression boots, the recovery device market is booming. But what does the science actually say about these tools for muscle building?","isAccessibleForFree":true,"wordCount":872,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/recovery-technologies-muscle-building-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Recovery Technologies: What Actually Works for Muscle Building?","item":"https://jacked.coach/blog/recovery-technologies-muscle-building-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Recovery Technologies: What Actually Works for Muscle Building?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"From massage guns to compression boots, the recovery device market is booming. But what does the science actually say about these tools for muscle building?"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Recovery%20Technologies%3A%20What%20Actually%20Works%20for%20Muscle%20Building%3F&url=https://jacked.coach/blog/recovery-technologies-muscle-building-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","percussion-massage-guns-more-than-a-gimmick",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#percussion-massage-guns-more-than-a-gimmick","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Percussion Massage Guns: More Than a Gimmick?"}]}],["$","li","compression-therapy-normatec-leg-boots-for-recovery",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#compression-therapy-normatec-leg-boots-for-recovery","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Compression Therapy (NormaTec): Leg Boots for Recovery"}]}],["$","li","vibration-therapy-the-underdog",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#vibration-therapy-the-underdog","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Vibration Therapy: The Underdog"}]}],["$","li","foam-rolling-the-cheap-alternative",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#foam-rolling-the-cheap-alternative","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Foam Rolling: The Cheap Alternative"}]}],["$","li","what-actually-matters-for-muscle-building",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-matters-for-muscle-building","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Matters for Muscle Building"}]}],["$","li","ranking-recovery-technologies-by-value",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#ranking-recovery-technologies-by-value","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Ranking Recovery Technologies by Value"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}]]}]]}]
+e:T1b9c,<p>The recovery device industry has exploded in recent years. Massage guns, compression boots, vibration plates—every fitness influencer seems to swear by something. But if you're serious about maximizing muscle growth, you need to separate marketing hype from what actually speeds up recovery and enhances hypertrophy.</p>
+<p>Let's break down the science behind the most popular recovery technologies and figure out what's worth your money.</p>
+<h2 id="percussion-massage-guns-more-than-a-gimmick">Percussion Massage Guns: More Than a Gimmick?</h2>
+<p>Percussion massage guns (Theragun, Hypervolt, etc.) deliver rapid pulses into muscle tissue, theoretically reducing tension and improving blood flow. The 2023 systematic review in <em>The International Journal of Sports Physical Therapy</em> found that consistent use of massage guns significantly reduces muscle pain and delayed onset muscle soreness (DOMS).</p>
+<p><strong>The mechanism</strong>: The rapid percussive stimulation appears to:</p>
+<ul>
+<li>Increase local blood circulation</li>
+<li>Reduce muscle stiffness and tenderness</li>
+<li>May enhance range of motion temporarily</li>
+</ul>
+<p>However, the evidence for <em>enhanced muscle growth</em> specifically is weaker. These tools excel at managing soreness and improving recovery perception—which matters for training consistency—but they're not a magic hypertrophy booster.</p>
+<p><strong>Practical take</strong>: Use percussion therapy post-workout to manage soreness and stay consistent with training. Don't expect it to magically build muscle, but it's valuable for keeping you in the gym.</p>
+<h2 id="compression-therapy-normatec-leg-boots-for-recovery">Compression Therapy (NormaTec): Leg Boots for Recovery</h2>
+<p>Intermittent pneumatic compression (IPC) devices like NormaTec use sequential air pulses to "milk" fluid out of limbs and improve circulation. Originally developed for medical use (preventing blood clots in hospital patients), athletes quickly adopted them.</p>
+<p><strong>What the research shows</strong>:</p>
+<ul>
+<li>A 2024 study demonstrated enhanced cardiovascular recovery following maximal exercise with IPC</li>
+<li>Research in <em>PMC</em> found IPC can reduce DOMS in endurance athletes</li>
+<li>Improved range of motion and flexibility has been documented</li>
+</ul>
+<p>The ACE-supported research compared NormaTec to both passive and active recovery, finding it competitive with active recovery methods—which is notable since active recovery is one of the most evidence-backed recovery strategies.</p>
+<p><strong>Practical take</strong>: Compression therapy works, especially for athletes doing high-volume endurance or leg-heavy training. For pure strength/hypertrophy trainees, the benefits are moderate but real. If you're training legs hard 2-3x weekly, compression boots can help you recover faster between sessions.</p>
+<h2 id="vibration-therapy-the-underdog">Vibration Therapy: The Underdog</h2>
+<p>Whole-body vibration (WBV) plates and localized vibration devices get less attention than massage guns but have solid research behind them.</p>
+<p>A 2022 meta-analysis found that vibration training reduced perceived soreness after DOMS-inducing exercise, with participants reporting less soreness at 24, 48, and 72 hours post-exercise.</p>
+<p><strong>Beyond recovery</strong>: Some research suggests vibration therapy may:</p>
+<ul>
+<li>Improve muscle activation</li>
+<li>Increase power output slightly</li>
+<li>Aid in warm-up protocols</li>
+</ul>
+<p><strong>Practical take</strong>: Vibration therapy is underutilized. It's not just for "biohackers"—there's real science here. Consider using a vibration plate as part of your warm-up or post-session recovery protocol.</p>
+<h2 id="foam-rolling-the-cheap-alternative">Foam Rolling: The Cheap Alternative</h2>
+<p>If percussion guns are expensive, foam rolling is the budget alternative. Both work on similar principles—myofascial release and improved blood flow.</p>
+<p><strong>The evidence</strong>: Foam rolling effectively:</p>
+<ul>
+<li>Reduces DOMS severity</li>
+<li>Improves range of motion (temporarily)</li>
+<li>Enhances recovery perception</li>
+</ul>
+<p>A 2025 review in <em>Sports Medicine and Health Science</em> confirmed that foam rolling and self-myofascial release are effective recovery strategies, though the mechanisms are still being understood.</p>
+<p><strong>Practical take</strong>: Foam rolling is cheap, requires no batteries, and works. If you're budget-conscious, a quality foam roller (or stick) gets you 80% of the benefit at 10% of the cost.</p>
+<h2 id="what-actually-matters-for-muscle-building">What Actually Matters for Muscle Building</h2>
+<p>Here's the uncomfortable truth: <strong>none of these recovery technologies directly increase muscle protein synthesis.</strong> The real drivers of hypertrophy remain:</p>
+<ol>
+<li><strong>Training stimulus</strong> — progressive overload, adequate volume, training to or near failure</li>
+<li><strong>Protein intake</strong> — 1.6-2.2g/kg body weight daily</li>
+<li><strong>Sleep</strong> — 7-9 hours, growth hormone pulses</li>
+<li><strong>Calories</strong> — surplus drives growth, deficit limits it</li>
+</ol>
+<p>Recovery technologies are <em>supportive</em> tools. They help you train more consistently by managing soreness and fatigue. But they don't replace the fundamentals.</p>
+<h2 id="ranking-recovery-technologies-by-value">Ranking Recovery Technologies by Value</h2>
+<p>| Technology | Cost | Evidence Level | Best For |
+|------------|------|----------------|----------|
+| Foam Rolling | $ | Strong | Budget-conscious, general recovery |
+| Percussion Massage | $$$ | Moderate-Strong | Localized soreness, muscle tension |
+| Compression Therapy | $$$$ | Moderate | Heavy leg training, athletes |
+| Vibration Therapy | $$ | Moderate | Warm-up, general recovery |</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Recovery technologies are nice-to-haves, not must-haves. If you're training optimally, sleeping enough, and eating right, these tools offer marginal gains in recovery speed and training consistency.</p>
+<p><strong>My recommendation</strong>: Start with foam rolling (~$30-50). If you have the budget and train legs heavily, add compression boots. Percussion guns are great for targeted relief. Vibration plates are worth considering for warm-ups.</p>
+<p>But never let recovery gadget shopping distract you from the basics. No amount of NormaTec boots will compensate for skipping protein or sleeping 5 hours.</p>
+<hr>
+<p><strong>References</strong>:</p>
+<ol>
+<li>International Journal of Sports Physical Therapy (2023). Systematic review on massage guns and DOMS</li>
+<li>PMC (2020). Effects of IPC on DOMS in Long Distance Runners</li>
+<li>ACE Fitness (2021). Compression Devices and Athletic Performance</li>
+<li>Sports Medicine and Health Science (2025). Foam Rolling and Recovery Strategies</li>
+<li>Men's Health (2022). Meta-analysis on Vibration Training and DOMS</li>
+</ol>
+<hr>
+<p><em>Track your recovery with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","hmb-supplementation-muscle-building-2026",{"href":"/blog/hmb-supplementation-muscle-building-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"HMB Supplementation: Does Beta-Hydroxy Beta-Methylbutyrate Actually Work for Muscle Building?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"HMB has been marketed as a powerful muscle-building supplement for decades. But what does the latest 2025-2026 research actually say about its effectiveness for lifters?"}]]}],["$","$Ld","testosterone-muscle-building-science-2026",{"href":"/blog/testosterone-muscle-building-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Testosterone and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Separating facts from fiction about testosterone's role in muscle growth — and what you can actually do about it."}]]}],["$","$Ld","compound-vs-isolation-hypertrophy-science",{"href":"/blog/compound-vs-isolation-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."}]]}],["$","$Ld","estrogen-muscle-building-hormone-science",{"href":"/blog/estrogen-muscle-building-hormone-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Estrogen and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and your training outcomes."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

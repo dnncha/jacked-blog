@@ -1,0 +1,246 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tba9,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/influencer-training-programs-science-analysis#webpage","url":"https://jacked.coach/blog/influencer-training-programs-science-analysis","name":"Influencer Training Programs Decoded: What Science Says About Jeff Nippard, Mike Mentzer, and Competing Systems","description":"We analyze the training methodologies of fitness YouTubers through the lens of current research. Which approaches actually build muscle, and which are overhy...","breadcrumb":{"@id":"https://jacked.coach/blog/influencer-training-programs-science-analysis#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/influencer-training-programs-science-analysis#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/influencer-training-programs-science-analysis#webpage"},"headline":"Influencer Training Programs Decoded: What Science Says About Jeff Nippard, Mike Mentzer, and Competing Systems","description":"We analyze the training methodologies of fitness YouTubers through the lens of current research. Which approaches actually build muscle, and which are overhy...","isAccessibleForFree":true,"wordCount":1062,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/influencer-training-programs-science-analysis#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Influencer Training Programs Decoded: What Science Says About Jeff Nippard, Mike Mentzer, and Competing Systems","item":"https://jacked.coach/blog/influencer-training-programs-science-analysis"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Influencer Training Programs Decoded: What Science Says About Jeff Nippard, Mike Mentzer, and Competing Systems"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"We analyze the training methodologies of fitness YouTubers through the lens of current research. Which approaches actually build muscle, and which are overhyped?"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Influencer%20Training%20Programs%20Decoded%3A%20What%20Science%20Says%20About%20Jeff%20Nippard%2C%20Mike%20Mentzer%2C%20and%20Competing%20Systems&url=https://jacked.coach/blog/influencer-training-programs-science-analysis","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","jeff-nippard-the-science-communicator",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#jeff-nippard-the-science-communicator","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Jeff Nippard: The Science Communicator"}]}],["$","li","the-approach",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-approach","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Approach"}]}],["$","li","what-the-science-says",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-the-science-says","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What the Science Says"}]}],["$","li","mike-mentzer-s-heavy-duty-the-high-intensity-contrarian",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#mike-mentzer-s-heavy-duty-the-high-intensity-contrarian","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Mike Mentzer's Heavy Duty: The High-Intensity Contrarian"}]}],["$","li","the-approach-2",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-approach-2","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Approach"}]}],["$","li","what-the-science-says-2",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#what-the-science-says-2","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"What the Science Says"}]}],["$","li","the-volume-intensity-spectrum",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-volume-intensity-spectrum","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Volume-Intensity Spectrum"}]}],["$","li","what-actually-matters-according-to-research",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-matters-according-to-research","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Matters (According to Research)"}]}],["$","li","1-progressive-overload-non-negotiable",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-progressive-overload-non-negotiable","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Progressive Overload (Non-Negotiable)"}]}],["$","li","2-effort-management",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-effort-management","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Effort Management"}]}],["$","li","3-consistency-over-optimization",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-consistency-over-optimization","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Consistency Over Optimization"}]}],["$","li","4-recovery-adequacy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-recovery-adequacy","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. Recovery Adequacy"}]}],["$","li","practical-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Takeaways"}]}],["$","li","the-real-winner-autoprogression",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-real-winner-autoprogression","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Real Winner: Autoprogression"}]}]]}]]}]
+e:T225d,<p>The fitness YouTube landscape has exploded with self-proclaimed "science-based" coaches, each claiming their method is the optimal path to muscle building. But when you strip away the production quality, the personality, and the marketing, what does the actual research say?</p>
+<p>We analyzed the training systems behind three of the most influential fitness educators—Jeff Nippard, Mike Mentzer's Heavy Duty, and other popular programs—to see how they stack up against current hypertrophy research.</p>
+<h2 id="jeff-nippard-the-science-communicator">Jeff Nippard: The Science Communicator</h2>
+<p>Jeff Nippard has become the face of evidence-based fitness. With a biochemistry degree and competitive bodybuilding credentials, his appeal lies in citing primary research for every claim. His 2025 "Muscle Lab" research facility represents a significant investment in generating proprietary training data.</p>
+<h3 id="the-approach">The Approach</h3>
+<p>Nippard's programs emphasize:</p>
+<ul>
+<li><strong>Moderate volume</strong> (10-20 sets per muscle group per week)</li>
+<li><strong>Progressive overload</strong> through weekly progression</li>
+<li><strong>Compound movements</strong> as the foundation</li>
+<li><strong>Moderate intensity</strong> (typically 1-2 reps in reserve)</li>
+<li><strong>Training frequency</strong> of 2x per muscle group weekly</li>
+</ul>
+<h3 id="what-the-science-says">What the Science Says</h3>
+<p>Nippard's approach aligns remarkably well with current meta-analyses. The 2021 Journal of Sports Science meta-analysis on training volume (published in 2022 and still cited through 2025-2026) found that 10-20 sets per muscle group per week optimizes hypertrophic response for most trainees. His emphasis on progressive overload matches the foundational principle confirmed in countless studies.</p>
+<p>His 2025 experiment—gaining 2.7 pounds of lean mass in one year on a strict science-based protocol—demonstrates realistic natural expectations. This aligns with the 0.25-0.5 lbs per week "ceiling" often cited in the literature for advanced trainees.</p>
+<p><strong>Verdict:</strong> Nippard's methodology is well-supported by research. His "Science-Based" branding is largely earned.</p>
+<h2 id="mike-mentzer-s-heavy-duty-the-high-intensity-contrarian">Mike Mentzer's Heavy Duty: The High-Intensity Contrarian</h2>
+<p>Mike Mentzer's Heavy Duty system has experienced a renaissance, particularly among older lifters and those seeking time-efficient training. The philosophy: train to failure (or beyond) on fewer sets, and let recovery do the rest.</p>
+<h3 id="the-approach-2">The Approach</h3>
+<ul>
+<li><strong>Low volume</strong>: 1-2 sets per exercise, 6-8 exercises total</li>
+<li><strong>High intensity</strong>: Training to absolute failure</li>
+<li><strong>Low frequency</strong>: Training each muscle group once weekly</li>
+<li><strong>Long rest periods</strong>: 3-5 minutes between sets</li>
+</ul>
+<h3 id="what-the-science-says-2">What the Science Says</h3>
+<p>Here's where it gets interesting. The 2021 Journal of Applied Physiology study (still referenced in 2025-2026 discussions) confirmed that single sets to failure can produce similar hypertrophy to multiple sets—but only when taken to true failure.</p>
+<p>However, newer 2024-2025 research has complicated this picture:</p>
+<ol>
+<li><strong>Fatigue accumulates faster</strong> on high-intensity protocols, potentially limiting weekly volume</li>
+<li><strong>Recovery demands are higher</strong>, making the protocol harder to sustain</li>
+<li><strong>Neural fatigue</strong> from true failure sets can impair performance on subsequent sessions</li>
+<li><strong>Individual differences matter significantly</strong>—some people respond better to high-intensity, low-volume</li>
+</ol>
+<p>The Well Built Human analysis from March 2025 concluded that Heavy Duty "still builds muscle in 2025, especially for time-crunched or over-40 lifters." But they also noted it's "less versatile than PPL, less voluminous than nSuns."</p>
+<p><strong>Verdict:</strong> Heavy Duty works for specific populations and goals, but it's not universally superior. The science supports it as <em>one</em> valid approach, not <em>the</em> optimal approach.</p>
+<h2 id="the-volume-intensity-spectrum">The Volume-Intensity Spectrum</h2>
+<p>The real insight from analyzing these competing systems is that they occupy different positions on the volume-intensity spectrum—and both can work:</p>
+<p>| Approach | Weekly Sets/Muscle | Intensity | Best For |
+|----------|-------------------|-----------|----------|
+| Nippard (Science-Based) | 12-20 | Moderate | Most trainees, muscle building |
+| Mentzer (Heavy Duty) | 6-10 | Very High | Time-crusted, older lifters |
+| Traditional Bodybuilding | 15-25 | Moderate-High | Maximum hypertrophy |
+| Powerbuilding | 10-15 | High | Strength + Size |</p>
+<p>A 2024 meta-analysis in the <em>British Journal of Sports Medicine</em> found that the relationship between volume and hypertrophy follows a dose-response curve—but that curve plateaus rather than demonstrating an ideal "sweet spot." This explains why both high-volume and low-volume approaches can work: the key is finding what you can consistently execute.</p>
+<h2 id="what-actually-matters-according-to-research">What Actually Matters (According to Research)</h2>
+<p>After analyzing these systems against the literature, the factors that truly determine success are:</p>
+<h3 id="1-progressive-overload-non-negotiable">1. Progressive Overload (Non-Negotiable)</h3>
+<p>Every effective system incorporates progressive overload. Whether you add weight, reps, or sets, you must provide an increasing stimulus over time. This is the most robust finding in hypertrophy research.</p>
+<h3 id="2-effort-management">2. Effort Management</h3>
+<p>Training close to failure (within 1-3 reps) appears optimal. True failure training provides no additional benefit and may increase recovery demands. The RPE (Rating of Perceived Exertion) system, widely promoted by Nippard, aligns with this finding.</p>
+<h3 id="3-consistency-over-optimization">3. Consistency Over Optimization</h3>
+<p>The best program is the one you actually follow. Mentzer's single-set approach and Nippard's more complex protocols both produce results for people who stick with them. Analysis paralysis—constantly switching programs chasing 2% optimization—consistently underperforms.</p>
+<h3 id="4-recovery-adequacy">4. Recovery Adequacy</h3>
+<p>Sleep, nutrition, and stress management matter more than training specifics. A conservative program with perfect recovery outperforms an aggressive program with poor recovery.</p>
+<h2 id="practical-takeaways">Practical Takeaways</h2>
+<ol>
+<li>
+<p><strong>If you're new to lifting</strong>: Start with Nippard's foundational approach—moderate volume, moderate intensity, focus on learning movements.</p>
+</li>
+<li>
+<p><strong>If you're time-crunched</strong>: Mentzer's Heavy Duty can work, but commit fully. Half-hearted attempts at high-intensity training produce poor results.</p>
+</li>
+<li>
+<p><strong>If you're advanced</strong>: Periodize between higher-volume and higher-intensity phases. Neither approach works indefinitely without variation.</p>
+</li>
+<li>
+<p><strong>If you're over 40</strong>: Evidence suggests slightly higher intensity with lower volume may be beneficial, making Heavy Duty more applicable—but not mandatory.</p>
+</li>
+</ol>
+<h2 id="the-real-winner-autoprogression">The Real Winner: Autoprogression</h2>
+<p>Here's what both Nippard and Mentzer would agree on: the system must automatically progress over time. Whether that's adding weight when you hit your rep targets (Nippard-style) or simply pushing harder on your one set (Mentzer-style), static programs produce static results.</p>
+<p>This is exactly why autoprogression systems like Jacked exist—to remove the decision fatigue from progressive overload while ensuring you're always providing an increasing stimulus.</p>
+<p>The "science-based" vs. "high-intensity" debate misses the point. Both work. The optimal approach is the one you can sustain while progressively overloading for years, not weeks.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Brad J. Schoenfeld et al., "Resistance Training Volume and Muscle Hypertrophy," <em>Journal of Sports Science</em> (2021)</li>
+<li>"Heavy Duty Training: Does Mike Mentzer's High-Intensity Method Still Work in 2025?" <em>Well Built Human</em> (March 2025)</li>
+<li>"Mike Mentzer Was Right: The Science, Logic, and Legacy of Heavy Duty Training" (June 2025)</li>
+<li>Jeff Nippard, <em>The Muscle Ladder: Get Jacked Using Science</em> (2024)</li>
+<li>"How Jeff Nippard Became the Face (and Body) of Science-Based Lifting," <em>GQ</em> (December 2025)</li>
+</ul>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","jeff-nippard-vs-mike-mentzer-training-philosophy",{"href":"/blog/jeff-nippard-vs-mike-mentzer-training-philosophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Jeff Nippard vs Mike Mentzer: The Training Philosophy Battle Explained"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Two radically different approaches to building muscle — science-based high volume versus high-intensity minimalism. We break down which actually works."}]]}],["$","$Ld","estrogen-muscle-building-hormone-science",{"href":"/blog/estrogen-muscle-building-hormone-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Estrogen and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Forget everything you thought you knew about estrogen and muscle growth. New research challenges old assumptions about hormones, the menstrual cycle, and your training outcomes."}]]}],["$","$Ld","blood-flow-restriction-training-science",{"href":"/blog/blood-flow-restriction-training-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Blood Flow Restriction Training: The Science Behind Growing Muscle with Light Weights"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"BFRT lets you build muscle using just 30% of your max weight. Here's what 2025 research says about its effectiveness, sex differences, and how to use it safely."}]]}],["$","$Ld","periodization-dup-vs-linear-2026",{"href":"/blog/periodization-dup-vs-linear-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Daily Undulating Periodization vs Linear Periodization: What the Science Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Which periodization model builds more muscle? We analyze the latest 2025 research comparing DUP, linear, and block periodization for hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

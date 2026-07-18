@@ -1,0 +1,525 @@
+1:"$Sreact.fragment"
+c:I[24954,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0txetin0xo5lq.js"],"default"]
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0txetin0xo5lq.js"],""]
+e:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+2:T315f,
+      .tools-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+      }
+      .tools-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .tools-hero {
+        padding: 54px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
+        gap: 32px;
+        align-items: end;
+      }
+      .tools-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.25rem, 5.6vw, 4.4rem);
+        line-height: 0.98;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .tools-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.02rem;
+        line-height: 1.62;
+        max-width: 720px;
+      }
+      .tools-signal {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px;
+        color: #d9c26c;
+        font-weight: 680;
+        line-height: 1.55;
+      }
+      .tools-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+      }
+      .tool-link-card {
+        display: flex;
+        min-height: 156px;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 18px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242,238,228,0.1);
+        color: inherit;
+        text-decoration: none;
+      }
+      .tool-link-card strong {
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .tool-link-card p {
+        color: #a7a094;
+        margin: 10px 0 18px;
+        line-height: 1.55;
+        font-size: 0.94rem;
+      }
+      .tool-link-card span {
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .tool-section {
+        padding: 38px 0;
+        border-top: 1px solid rgba(255,255,255,0.08);
+      }
+      .tool-section h2 {
+        margin: 0 0 18px;
+        color: #f7f2e8;
+        font-size: clamp(1.42rem, 3.2vw, 2.2rem);
+        line-height: 1.12;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .tool-workspace {
+        display: grid;
+        grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.98fr);
+        gap: 18px;
+        align-items: start;
+        padding: 24px 0 54px;
+      }
+      .tool-card,
+      .tool-result-card {
+        border-radius: 8px;
+        border: 1px solid rgba(242,238,228,0.11);
+        background: #0e0e0d;
+        box-shadow: 0 18px 44px rgba(0,0,0,0.28);
+      }
+      .tool-card {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        padding: 18px;
+      }
+      .tool-card-head,
+      .tool-field-wide {
+        grid-column: 1 / -1;
+      }
+      .tool-card-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        align-items: baseline;
+        padding-bottom: 6px;
+      }
+      .tool-card-head h2 {
+        margin: 0;
+        color: #f7f2e8;
+        font-size: 1rem;
+        font-weight: 720;
+      }
+      .tool-card-head span,
+      .tool-kicker {
+        color: #817b70;
+        font-size: 0.72rem;
+        font-weight: 720;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .tool-field {
+        display: grid;
+        gap: 6px;
+      }
+      .tool-field span {
+        color: #b7b0a3;
+        font-size: 0.82rem;
+        font-weight: 650;
+      }
+      .tool-field input,
+      .tool-field textarea,
+      .tool-field select {
+        min-height: 44px;
+        width: 100%;
+        box-sizing: border-box;
+        border-radius: 8px;
+        border: 1px solid rgba(245,241,232,0.16);
+        background: #070707;
+        color: #f7f2e8;
+        padding: 0 12px;
+        font-size: 0.96rem;
+        outline: none;
+      }
+      .tool-field textarea {
+        min-height: 180px;
+        padding: 12px;
+        resize: vertical;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        line-height: 1.5;
+      }
+      .tool-field input:focus,
+      .tool-field textarea:focus,
+      .tool-field select:focus {
+        border-color: #d9c26c;
+      }
+      .tool-primary,
+      .tool-secondary {
+        min-height: 46px;
+        border-radius: 8px;
+        padding: 0 18px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 760;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 0.94rem;
+      }
+      .tool-primary {
+        border: 1px solid rgba(255,255,255,0.12);
+        background: #e2c95f;
+        color: #101010;
+        grid-column: 1 / -1;
+      }
+      .tool-secondary {
+        border: 1px solid rgba(245,241,232,0.16);
+        background: rgba(255,255,255,0.03);
+        color: #f2eee4;
+      }
+      .tool-result-card {
+        position: sticky;
+        top: 88px;
+        padding: 20px;
+      }
+      .tool-result-card h2 {
+        margin: 8px 0 12px;
+        color: #e2c95f;
+        font-size: clamp(1.55rem, 3.8vw, 2.55rem);
+        line-height: 1.06;
+        letter-spacing: 0;
+        font-weight: 760;
+      }
+      .tool-result-card p {
+        color: #c8c1b6;
+        line-height: 1.62;
+      }
+      .tool-muted {
+        color: #8f897c !important;
+        font-size: 0.92rem;
+      }
+      .tool-result-line {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 12px 0;
+        border-top: 1px solid rgba(255,255,255,0.08);
+      }
+      .tool-result-line span {
+        color: #8f897c;
+      }
+      .tool-result-line strong {
+        color: #f7f2e8;
+        text-align: right;
+      }
+      .tool-app-copy {
+        margin-top: 18px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
+      .tool-result-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 12px;
+      }
+      .rir-table {
+        overflow-x: auto;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+      }
+      .rir-table table {
+        border-collapse: collapse;
+        min-width: 560px;
+        width: 100%;
+      }
+      .rir-table th,
+      .rir-table td {
+        padding: 8px;
+        border-bottom: 1px solid rgba(255,255,255,0.06);
+        text-align: right;
+        font-size: 0.86rem;
+      }
+      .rir-table th {
+        color: #d9c26c;
+      }
+      .rir-table td {
+        color: #f2eee4;
+      }
+      .mini-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0 14px;
+      }
+      .warmup-list {
+        display: grid;
+        gap: 8px;
+      }
+      .warmup-list div {
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 12px;
+        background: #080808;
+      }
+      .warmup-list strong {
+        color: #f7f2e8;
+      }
+      .warmup-list span {
+        color: #8f897c;
+      }
+      .split-day-list {
+        display: grid;
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .split-day-card {
+        border: 1px solid rgba(255,255,255,0.09);
+        border-radius: 8px;
+        background: #080808;
+        overflow: hidden;
+      }
+      .split-day-card header {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        align-items: flex-start;
+        padding: 12px;
+        border-bottom: 1px solid rgba(255,255,255,0.07);
+      }
+      .split-day-card header div {
+        display: grid;
+        gap: 3px;
+      }
+      .split-day-card header strong {
+        color: #f7f2e8;
+        font-weight: 760;
+      }
+      .split-day-card header span,
+      .split-day-card header em {
+        color: #9f988c;
+        font-size: 0.86rem;
+        font-style: normal;
+      }
+      .split-day-card header em {
+        flex: 0 0 auto;
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .split-exercise-list {
+        display: grid;
+      }
+      .split-exercise-row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto auto;
+        gap: 10px;
+        align-items: baseline;
+        padding: 9px 12px;
+      }
+      .split-exercise-row + .split-exercise-row {
+        border-top: 1px solid rgba(255,255,255,0.055);
+      }
+      .split-exercise-row strong {
+        color: #f2eee4;
+        font-size: 0.92rem;
+      }
+      .split-exercise-row span {
+        color: #d9c26c;
+        font-size: 0.86rem;
+        font-weight: 720;
+        white-space: nowrap;
+      }
+      .split-exercise-row em {
+        color: #8f897c;
+        font-size: 0.84rem;
+        font-style: normal;
+        white-space: nowrap;
+      }
+      .split-volume-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .split-volume-grid div {
+        display: grid;
+        gap: 2px;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 10px;
+        background: rgba(226, 201, 95, 0.06);
+      }
+      .split-volume-grid strong {
+        color: #f7f2e8;
+        font-size: 0.88rem;
+      }
+      .split-volume-grid span {
+        color: #d9c26c;
+        font-size: 0.9rem;
+        font-weight: 720;
+      }
+      .split-volume-grid em {
+        color: #8f897c;
+        font-size: 0.82rem;
+        font-style: normal;
+      }
+      .split-rules {
+        display: grid;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .split-rules p {
+        margin: 0;
+        padding-left: 12px;
+        border-left: 2px solid rgba(226, 201, 95, 0.55);
+      }
+      .volume-list,
+      .swap-list,
+      .standards-list {
+        display: grid;
+        gap: 8px;
+        margin-top: 12px;
+      }
+      .volume-list div,
+      .swap-list div,
+      .standards-list div {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 4px 12px;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 12px;
+        background: #080808;
+      }
+      .swap-list div {
+        grid-template-columns: 1fr;
+      }
+      .standards-list div {
+        grid-template-columns: 1fr auto auto;
+        align-items: baseline;
+      }
+      .standards-list div.is-current {
+        border-color: rgba(226, 201, 95, 0.48);
+        background: rgba(226, 201, 95, 0.08);
+      }
+      .volume-list strong,
+      .swap-list strong,
+      .standards-list strong {
+        color: #f7f2e8;
+      }
+      .volume-list span,
+      .standards-list span {
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .volume-list em,
+      .swap-list span,
+      .standards-list em {
+        grid-column: 1 / -1;
+        color: #9f988c;
+        font-style: normal;
+        font-size: 0.9rem;
+      }
+      .standards-list em {
+        grid-column: auto;
+      }
+      .copy-blocks {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 0.7fr);
+        gap: 26px;
+      }
+      .copy-blocks h2,
+      .copy-blocks h3 {
+        color: #f7f2e8;
+        margin: 0 0 10px;
+      }
+      .copy-blocks p,
+      .copy-blocks li {
+        color: #a9a294;
+        line-height: 1.7;
+      }
+      .copy-list {
+        display: grid;
+        gap: 16px;
+      }
+      .copy-list article {
+        padding-bottom: 16px;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+      }
+      .related-tools {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      .related-tools a {
+        color: #d9c26c;
+        font-weight: 720;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(243,199,77,0.42);
+      }
+      .tool-cta-band {
+        background: #f5f1e8;
+        color: #111;
+        padding: 42px 0;
+      }
+      .tool-cta-band h2 {
+        margin: 0 0 10px;
+        color: #111;
+      }
+      .tool-cta-band p {
+        color: #4b473f;
+        max-width: 760px;
+        line-height: 1.65;
+      }
+      @media (max-width: 820px) {
+        .tools-hero,
+        .tool-workspace,
+        .copy-blocks {
+          grid-template-columns: 1fr;
+        }
+        .tool-card {
+          grid-template-columns: 1fr;
+        }
+        .tool-result-card {
+          position: static;
+        }
+        .split-exercise-row {
+          grid-template-columns: minmax(0, 1fr) auto;
+        }
+        .split-exercise-row em {
+          grid-column: 1 / -1;
+        }
+        .split-volume-grid {
+          grid-template-columns: 1fr;
+        }
+        .tools-hero {
+          padding-top: 44px;
+        }
+      }
+    0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"name\":\"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus\",\"description\":\"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.\",\"url\":\"https://jacked.coach/tools/exercise-swap-finder\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://jacked.coach/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://jacked.coach/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Exercise Swap Finder\",\"item\":\"https://jacked.coach/tools/exercise-swap-finder\"}]}},{\"@type\":\"WebApplication\",\"name\":\"Exercise Swap Finder\",\"description\":\"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.\",\"applicationCategory\":\"HealthApplication\",\"operatingSystem\":\"Web\",\"url\":\"https://jacked.coach/tools/exercise-swap-finder\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}]}"}}]
+4:["$","section",null,{"className":"tools-wrap tools-hero","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Exercise Swap Finder"}],["$","p",null,{"children":[["$","strong",null,{"children":"Replace an exercise without losing the training intent."}]," ","Most alternative lists are static. Jacked ranks swaps by why you need the swap: equipment, joint comfort, fatigue, or preference."]}]]}],["$","div",null,{"className":"tools-signal","children":"Log the set in Jacked and the next target stays with the workout."}]]}]
+5:["$","section",null,{"className":"tools-wrap","children":["$","$Lc",null,{"tool":{"slug":"exercise-swap-finder","type":"swaps","name":"Exercise Swap Finder","title":"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus","metaDescription":"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.","h1":"Exercise Swap Finder","promise":"Replace an exercise without losing the training intent.","intro":"Most alternative lists are static. Jacked ranks swaps by why you need the swap: equipment, joint comfort, fatigue, or preference.","primaryKeyword":"exercise alternatives","campaign":"exercise_swap_finder","defaults":{"exercise":"barbell back squat","reason":"too much fatigue","equipment":"commercial gym","goal":"less fatigue"},"sections":[["How the swap finder works","The tool starts with the original exercise, then ranks alternatives by target muscle, movement pattern, fatigue cost, equipment, and reason for swapping."],["Swap the exercise, not the goal","A good swap keeps the target muscle and effort close unless pain, equipment, or fatigue forces a bigger change."],["When to use a lower-fatigue swap","Use lower-fatigue options when the target muscle needs work but the original lift is creating too much systemic or joint cost."],["Common mistakes","Do not replace a hard compound with a random easy movement and expect the same stimulus. Match the intent."]],"examples":["Replace barbell back squat with leg press when you want similar quad stimulus and less axial fatigue.","Replace bench press with dumbbell bench press when shoulder comfort is the reason for the swap."],"faqs":[["What is a good squat alternative?","Leg press, hack squat, front squat, and heel-elevated goblet squat can all work depending on equipment and reason."],["Should I swap exercises often?","Swap when there is a clear reason. Too much random variation makes progression harder to read."]],"related":["workout-split-builder","weekly-volume-checker","next-set-calculator"]}}]}]
+6:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"className":"copy-list","children":[["$","article",null,{"children":[["$","h2",null,{"children":"How to read the result"}],["$","p",null,{"children":["Replace an exercise without losing the training intent."," The notes below show the assumptions behind that recommendation."]}]]}],[["$","article","How the swap finder works",{"children":[["$","h2",null,{"children":"How the swap finder works"}],["$","p",null,{"children":"The tool starts with the original exercise, then ranks alternatives by target muscle, movement pattern, fatigue cost, equipment, and reason for swapping."}]]}],["$","article","Swap the exercise, not the goal",{"children":[["$","h2",null,{"children":"Swap the exercise, not the goal"}],["$","p",null,{"children":"A good swap keeps the target muscle and effort close unless pain, equipment, or fatigue forces a bigger change."}]]}],["$","article","When to use a lower-fatigue swap",{"children":[["$","h2",null,{"children":"When to use a lower-fatigue swap"}],["$","p",null,{"children":"Use lower-fatigue options when the target muscle needs work but the original lift is creating too much systemic or joint cost."}]]}],["$","article","Common mistakes",{"children":[["$","h2",null,{"children":"Common mistakes"}],["$","p",null,{"children":"Do not replace a hard compound with a random easy movement and expect the same stimulus. Match the intent."}]]}]]]}],["$","aside",null,{"children":[["$","h2",null,{"children":"Examples"}],["$","ul",null,{"children":[["$","li","Replace barbell back squat with leg press when you want similar quad stimulus and less axial fatigue.",{"children":"Replace barbell back squat with leg press when you want similar quad stimulus and less axial fatigue."}],["$","li","Replace bench press with dumbbell bench press when shoulder comfort is the reason for the swap.",{"children":"Replace bench press with dumbbell bench press when shoulder comfort is the reason for the swap."}]]}],["$","h2",null,{"style":{"marginTop":"28px"},"children":"Related tools"}],["$","div",null,{"className":"related-tools","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}]]}]]}]]}]}]
+7:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Short answers"}],[["$","article","What is a good squat alternative?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"What is a good squat alternative?"}],["$","p",null,{"children":"Leg press, hack squat, front squat, and heel-elevated goblet squat can all work depending on equipment and reason."}]]}],["$","article","Should I swap exercises often?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Should I swap exercises often?"}],["$","p",null,{"children":"Swap when there is a clear reason. Too much random variation makes progression harder to read."}]]}]]]}],["$","div",null,{"className":"tools-signal","children":"Jacked turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback."}]]}]}]
+8:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Method, assumptions, and privacy"}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Method"}],["$","p",null,{"children":"Ranks alternatives by target muscle, equipment, fatigue cost, movement similarity, and the reason for replacing the exercise."}]]}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Assumptions"}],["$","p",null,{"children":"A good swap preserves the training intent unless pain or equipment forces a larger change."}]]}],["$","article",null,{"children":[["$","h3",null,{"children":"Privacy"}],["$","p",null,{"children":"Inputs are handled in the browser for the web tool experience. Jacked should only store lifting data when a user chooses to log it in the app."}]]}]]}],["$","div",null,{"className":"tools-signal","children":"Check the method before you trust the number. Bad inputs still produce tidy-looking outputs."}]]}]}]
+9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Jacked does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_exercise-swap-finder","children":"Download Jacked for iPhone"}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/0txetin0xo5lq.js","async":true}]
+b:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

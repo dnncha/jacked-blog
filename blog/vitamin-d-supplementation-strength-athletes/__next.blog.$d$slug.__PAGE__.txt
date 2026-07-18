@@ -1,0 +1,213 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb66,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes#webpage","url":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes","name":"Vitamin D Supplementation for Strength Athletes: What the Science Actually Says","description":"The sunshine vitamin does far more than bone health — it directly impacts muscle function, type II fibers, and recovery. But who's it actually helping?","breadcrumb":{"@id":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes#webpage"},"headline":"Vitamin D Supplementation for Strength Athletes: What the Science Actually Says","description":"The sunshine vitamin does far more than bone health — it directly impacts muscle function, type II fibers, and recovery. But who's it actually helping?","datePublished":"2026-03-02","dateModified":"2026-03-02","isAccessibleForFree":true,"wordCount":1455,"articleSection":"Supplements","about":["hypertrophy training","progressive overload","workout tracking","Supplements"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Vitamin D Supplementation for Strength Athletes: What the Science Actually Says","item":"https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Supplements"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Vitamin D Supplementation for Strength Athletes: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The sunshine vitamin does far more than bone health — it directly impacts muscle function, type II fibers, and recovery. But who's it actually helping?"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Supplements"}],["$","span",null,{"children":["Published ","March 2, 2026"]}],["$","span",null,{"children":[7," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Vitamin%20D%20Supplementation%20for%20Strength%20Athletes%3A%20What%20the%20Science%20Actually%20Says&url=https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","how-vitamin-d-works-in-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-vitamin-d-works-in-muscle","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Vitamin D Works in Muscle"}]}],["$","li","the-research-what-studies-show",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-research-what-studies-show","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Research: What Studies Show"}]}],["$","li","optimal-dosage-and-blood-levels",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#optimal-dosage-and-blood-levels","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Optimal Dosage and Blood Levels"}]}],["$","li","who-benefits-most",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-benefits-most","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Benefits Most"}]}],["$","li","practical-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Recommendations"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T2929,<p>Most strength athletes spend hours researching the latest boutique supplements — exotic mushrooms, proprietary testosterone boosters, obscure amino acid blends — while ignoring one of the most fundamental factors in their performance: vitamin D. It's free (or cheap), it's simple to test, and the consequences of deficiency are anything but trivial. Yet vitamin D remains an afterthought for most lifters caught up in the supplement industry's endless cycle of shiny new objects.</p>
+<p>The "sunshine vitamin" does far more than support bone health. It plays a direct role in muscle function, neuromuscular control, protein synthesis, and recovery. But here's the nuance that most articles gloss over: the benefits are not universal. If you're walking around with optimal vitamin D levels, supplementation may do little for your squat. If you're deficient — which is surprisingly common among strength athletes, especially those training indoors or living at northern latitudes — you might be leaving serious gains on the table.</p>
+<p>Let's break down what the research actually shows, who stands to benefit most, and how to optimize your vitamin D status without wasting money on a supplement you don't need.</p>
+<hr>
+<h2 id="how-vitamin-d-works-in-muscle">How Vitamin D Works in Muscle</h2>
+<p>Vitamin D's role in skeletal muscle is more direct than most people realize. Muscle cells contain vitamin D receptors (VDR), and when the active form of vitamin D (1,25-dihydroxyvitamin D) binds to these receptors, it activates genomic pathways that influence muscle protein synthesis, fiber size, and neuromuscular function.</p>
+<p>The mechanism breaks down into two pathways:</p>
+<p><strong>Genomic pathway:</strong> Vitamin D binding to VDR activates transcription factors that regulate genes involved in protein synthesis, myocyte differentiation, and calcium handling within muscle cells. This is a slower process — think hours to days — but it produces lasting changes in muscle tissue.</p>
+<p><strong>Non-genomic pathway:</strong> Vitamin D also acts rapidly through membrane-associated receptors, affecting calcium flux and muscle contraction within minutes. This pathway may explain some of the immediate effects observed in neuromuscular performance.</p>
+<p>Of particular interest to strength athletes is vitamin D's relationship with type II (fast-twitch) muscle fibers. These fibers are responsible for explosive, high-force output — exactly what powers your heavy squats, deadlifts, and Olympic lifts. Research suggests that vitamin D may help maintain type II fiber size and function, which tends to decline with age (a process called anabolic resistance) and may be particularly vulnerable to deficiency.</p>
+<hr>
+<h2 id="the-research-what-studies-show">The Research: What Studies Show</h2>
+<p>The evidence on vitamin D and athletic performance is mixed, and understanding why requires digging into the details.</p>
+<p>A 2025 systematic review published in the Journal of Human Sport and Exercise found that vitamin D supplementation produced a modest but meaningful effect on both upper and lower body muscle strength in athletes. However, the researchers noted considerable variability across studies — some showed significant benefits, others showed nothing.</p>
+<p>The key differentiator? Baseline vitamin D status.</p>
+<p>When athletes start with deficient or insufficient 25-hydroxyvitamin D (25(OH)D) levels — below 30 ng/mL — supplementation consistently improves strength outcomes. When athletes already have adequate levels (30 ng/mL or above), the benefits diminish substantially. A 2024 meta-analysis put it bluntly: vitamin D supplementation cannot warrant significant performance enhancements in athletes who are already sufficient.</p>
+<p>This pattern — benefit in deficient populations, minimal effect in sufficient ones — appears repeatedly across the literature. It explains why early studies in general athletic populations showed mixed results, while studies in specific deficient populations (indoor athletes, winter training scenarios, northern latitudes) show more consistent benefits.</p>
+<p>The 2025 Nutrition Reviews meta-analysis went further, examining the dose-response relationship between vitamin D and muscular strength. The findings suggest a nonlinear relationship — there's a threshold effect rather than a linear "more is better" pattern. This aligns with the practical reality: you want to get into the optimal range, not maximize your blood level.</p>
+<p>What about injury prevention? The evidence here is more promising. Several studies indicate that vitamin D supplementation in deficient athletes reduces the incidence of stress fractures and muscle injuries. Given that injuries are one of the biggest derailments of strength training progress, this alone makes addressing vitamin D status worth considering.</p>
+<hr>
+<h2 id="optimal-dosage-and-blood-levels">Optimal Dosage and Blood Levels</h2>
+<p>Here's where the confusion begins. There's no universal recommendation that works for everyone, because your starting point matters enormously.</p>
+<p><strong>Target blood levels:</strong> Most research suggests aiming for 25(OH)D serum levels between 40-60 ng/mL (100-150 nmol/L). This is above the "sufficient" threshold typically cited by medical bodies (30 ng/mL), but below the levels associated with toxicity (>200 ng/mL).</p>
+<p><strong>Why 40-60 ng/mL?</strong> Several studies show optimal muscle function and bone health in this range. Going significantly above 60 ng/mL doesn't appear to provide additional benefits for strength athletes.</p>
+<p><strong>Dosage:</strong> For most adults, supplementation in the range of 2,000-5,000 IU per day is sufficient to reach and maintain optimal levels, assuming deficient starting status. Those with severe deficiency may benefit from短期 loading protocol (10,000 IU/day for 4-8 weeks), followed by a maintenance dose.</p>
+<p><strong>Testing:</strong> If you haven't tested your vitamin D levels, you're essentially flying blind. A simple 25(OH) blood test — available through your doctor or direct-to-consumer labs — costs roughly $30-50 and gives you the baseline you need. Test in late winter/early spring if possible, as this is when levels tend to hit their lowest.</p>
+<p><strong>Food vs. supplements:</strong> Vitamin D is difficult to obtain through diet alone. Fatty fish (salmon, mackerel), egg yolks, and fortified foods contain some vitamin D, but you'd need to eat impractical quantities to reach optimal levels. Supplementation is the practical choice for most athletes.</p>
+<hr>
+<h2 id="who-benefits-most">Who Benefits Most</h2>
+<p>Not every strength athlete needs to panic about vitamin D. But certain populations are far more likely to be deficient and therefore stand to gain the most from supplementation.</p>
+<p><strong>Indoor athletes and desk workers:</strong> If you spend most of your day indoors — office job, training in a gym with limited natural light — your vitamin D production from sun exposure is minimal. This describes a huge percentage of serious lifters.</p>
+<p><strong>Training in winter at northern latitudes:</strong> Above approximately 37° latitude (roughly the line from Northern California to Virginia across to Shanghai), sun exposure during winter months produces little to no vitamin D in the skin. Dublin, where Donncha trains, sits at 53° N — well into the deficiency zone from October through March.</p>
+<p><strong>Darker skin tones:</strong> Melanin competes with 7-dehydrocholesterol for UV absorption, meaning individuals with darker skin require longer sun exposure to produce equivalent vitamin D. This is a significant factor for athletes of African, South Asian, or Middle Eastern descent training in northern latitudes.</p>
+<p><strong>Older lifters (40+):</strong> Aging skin becomes less efficient at producing vitamin D. Combined with age-related anabolic resistance, older athletes have more to gain from optimizing vitamin D status.</p>
+<p><strong>Those with gastrointestinal issues:</strong> Conditions affecting fat absorption (celiac disease, Crohn's, IBS) can impair vitamin D absorption from both food and supplements.</p>
+<p>If you fall into one or more of these categories, the odds are high that your vitamin D levels are suboptimal. Testing becomes especially important.</p>
+<hr>
+<h2 id="practical-recommendations">Practical Recommendations</h2>
+<p>Based on the research, here's what a sensible approach looks like:</p>
+<p><strong>Step 1: Test your levels.</strong> Don't supplement blindly. Get a 25(OH)D test and establish your baseline. This is the single most important step.</p>
+<p><strong>Step 2: If deficient, supplement aggressively for 4-8 weeks.</strong> If your level is below 30 ng/mL, a higher dose (5,000-10,000 IU/day) is appropriate to build stores quickly.</p>
+<p><strong>Step 3: Re-test and adjust.</strong> After 2-3 months of supplementation, test again. If you've reached 40-60 ng/mL, drop to a maintenance dose (2,000-4,000 IU/day). If you're still low, continue at the higher dose.</p>
+<p><strong>Step 4: Maintain with sun and/or low-dose supplementation.</strong> During summer months, reasonable sun exposure (15-30 minutes of midday sun on exposed skin) can maintain levels for many. In winter or at northern latitudes, a daily maintenance supplement is more reliable.</p>
+<p><strong>Step 5: Retest annually.</strong> Vitamin D status fluctuates with season and lifestyle changes. Annual testing ensures you stay in the optimal range.</p>
+<hr>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Vitamin D is not a magic bullet for strength performance. If you're already sufficient, don't expect your squat to jump 50 pounds after starting supplementation. The research doesn't support that claim.</p>
+<p>But deficiency is genuinely common among strength athletes, especially those training indoors, living at northern latitudes, or with darker skin tones. And in deficient athletes, vitamin D supplementation reliably improves muscle strength, reduces injury risk, and supports overall health.</p>
+<p>The practical move is simple: test your levels, supplement if you're low, and re-test to confirm you're in the optimal range. It's a low-cost, low-effort intervention with meaningful potential upside. Most lifters would benefit far more from optimizing their vitamin D than from buying the latest overhyped supplement.</p>
+<hr>
+<p><em>Track your vitamin D with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","citrulline-supplementation-strength-training",{"href":"/blog/citrulline-supplementation-strength-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Citrulline Supplementation for Strength Training: The Pump Amino Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"L-citrulline delivers better pumps and more reps — but it's not about strength. Here's what the research actually shows for hypertrophy-focused lifters."}]]}],["$","$Ld","melatonin-muscle-recovery-lifters-science",{"href":"/blog/melatonin-muscle-recovery-lifters-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Melatonin for Lifters: The Surprising Muscle Recovery Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research shows melatonin does more than regulate sleep—it directly impacts muscle recovery, inflammation, and next-day performance. Here's what lifters need to know."}]]}],["$","$Ld","vitamin-d-muscle-building-strength-science",{"href":"/blog/vitamin-d-muscle-building-strength-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Vitamin D and Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent meta-analyses reveal nuanced benefits of vitamin D for strength athletes. Here's what the research says about supplementation, blood levels, and practical optimization."}]]}],["$","$Ld","beta-ecdysterone-muscle-anabolic-research",{"href":"/blog/beta-ecdysterone-muscle-anabolic-research","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Beta-Ecdysterone for Muscle Growth: The Complete Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The plant compound that out-performed anabolic steroids in research — and WADA considered banning it. Here's what the science actually shows."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

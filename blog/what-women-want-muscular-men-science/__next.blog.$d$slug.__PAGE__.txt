@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tadb,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/what-women-want-muscular-men-science#webpage","url":"https://jacked.coach/blog/what-women-want-muscular-men-science","name":"What Women Actually Want: The Science of Muscularity and Attraction","description":"Is bigger really better? The research on muscularity, attraction, and what women actually prefer — backed by evolutionary psychology and real studies.","breadcrumb":{"@id":"https://jacked.coach/blog/what-women-want-muscular-men-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/what-women-want-muscular-men-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/what-women-want-muscular-men-science#webpage"},"headline":"What Women Actually Want: The Science of Muscularity and Attraction","description":"Is bigger really better? The research on muscularity, attraction, and what women actually prefer — backed by evolutionary psychology and real studies.","isAccessibleForFree":true,"wordCount":763,"articleSection":"Science","about":["hypertrophy training","progressive overload","workout tracking","Science"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/what-women-want-muscular-men-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"What Women Actually Want: The Science of Muscularity and Attraction","item":"https://jacked.coach/blog/what-women-want-muscular-men-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Science"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"What Women Actually Want: The Science of Muscularity and Attraction"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Is bigger really better? The research on muscularity, attraction, and what women actually prefer — backed by evolutionary psychology and real studies."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Science"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=What%20Women%20Actually%20Want%3A%20The%20Science%20of%20Muscularity%20and%20Attraction&url=https://jacked.coach/blog/what-women-want-muscular-men-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-evolutionary-backdrop",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-evolutionary-backdrop","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Evolutionary Backdrop"}]}],["$","li","what-the-research-actually-shows",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-research-actually-shows","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the Research Actually Shows"}]}],["$","li","the-j-shaped-curve",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-j-shaped-curve","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The J-shaped Curve"}]}],["$","li","short-term-vs-long-term",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#short-term-vs-long-term","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Short-term vs Long-term"}]}],["$","li","cultural-variation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#cultural-variation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Cultural Variation"}]}],["$","li","the-too-muscular-problem",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-too-muscular-problem","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The \"Too Muscular\" Problem"}]}],["$","li","what-women-actually-say",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-women-actually-say","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Women Actually Say"}]}],["$","li","the-confidence-factor",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-confidence-factor","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Confidence Factor"}]}],["$","li","the-honest-summary",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-honest-summary","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Honest Summary"}]}],["$","li","the-practical-takeaway",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-practical-takeaway","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Practical Takeaway"}]}]]}]]}]
+e:T1826,<p>It's one of the most common questions in the gym: do women actually prefer muscular men? You've seen the memes, the debates in comment sections, and the confident opinions from guys who've "talked to plenty of women." But what does the actual research say?</p>
+<p>The answer is more nuanced than "yes" or no. And it's more interesting too.</p>
+<h2 id="the-evolutionary-backdrop">The Evolutionary Backdrop</h2>
+<p>Before we get to the studies, some context helps. From an evolutionary standpoint, muscularity signals several things:</p>
+<ul>
+<li><strong>Health</strong> — ability to survive and thrive</li>
+<li><strong>Social dominance</strong> — capacity to compete for resources</li>
+<li><strong>Good genes</strong> — physical fitness as a proxy for genetic quality</li>
+<li><strong>Protection</strong> — ability to defend against threats</li>
+</ul>
+<p>These aren't conscious calculations women make. They're psychological cues that have evolved over hundreds of thousands of years.</p>
+<h2 id="what-the-research-actually-shows">What the Research Actually Shows</h2>
+<h3 id="the-j-shaped-curve">The J-shaped Curve</h3>
+<p>Multiple studies have found a "J-shaped" relationship between muscularity and attraction. At very low levels of muscularity, attraction is moderate. It drops when men are too skinny or average. It rises as muscularity increases — but only up to a point.</p>
+<p>The peak? Moderately muscular. Not bodybuilder. Not powerlifter. The guy who looks like he lifts but doesn't look like he's on gear.</p>
+<p><strong>Study example:</strong> A 2019 study in <em>Proceedings of the Royal Society B</em> found that women rated men with moderate muscularity most attractive across multiple contexts. Very low muscularity was rated lowest. But interestingly, extremely high muscularity — the "bodybuilder" look — actually scored lower than moderate muscularity in long-term relationship contexts.</p>
+<h3 id="short-term-vs-long-term">Short-term vs Long-term</h3>
+<p>Here's where it gets interesting. The context matters:</p>
+<p><strong>Short-term attraction:</strong> Studies consistently show women rate muscular men as more attractive for one-night stands and short-term flings. This aligns with evolutionary predictions — muscularity signals good genes for immediate offspring.</p>
+<p><strong>Long-term relationships:</strong> The preference for muscularity weakens. Women value other traits more: kindness, humor, stability, shared values. A 2017 study in <em>Archives of Sexual Behavior</em> found that while muscularity increased initial attraction, it was not the primary factor in relationship satisfaction or long-term partner choice.</p>
+<h3 id="cultural-variation">Cultural Variation</h3>
+<p>It's not universal. Studies in different populations show variation:</p>
+<ul>
+<li>Western cultures tend to show stronger preferences for muscular men</li>
+<li>Non-Western cultures sometimes show preferences for thinner or average builds</li>
+<li>Cultures with less exposure to bodybuilding culture have different baselines</li>
+</ul>
+<p>This suggests cultural norms and media exposure shape preferences, not just innate biology.</p>
+<h2 id="the-too-muscular-problem">The "Too Muscular" Problem</h2>
+<p>Multiple studies have found that being "too muscular" backfires. Women rate extremely muscular men as less attractive than moderately muscular men.</p>
+<p><strong>Why?</strong></p>
+<ul>
+<li>Perceived as narcissistic or vain</li>
+<li>May signal unbalanced priorities</li>
+<li>Intimidation factor</li>
+<li>Fear of aggression or volatility</li>
+</ul>
+<p>The "sweet spot" appears to be: visible muscle, defined, but not "I take steroids" huge.</p>
+<h2 id="what-women-actually-say">What Women Actually Say</h2>
+<p>Survey data adds nuance:</p>
+<ul>
+<li>Most women say personality matters more than body type</li>
+<li>"Athletic" is the most common preferred body type</li>
+<li>"Fit" and "muscular" rank high but below "athletic"</li>
+<li>Extreme thinness or extreme bulk are both usually rejected</li>
+</ul>
+<p>Importantly, women consistently rank confidence, humor, and kindness above physical attributes for long-term attraction.</p>
+<h2 id="the-confidence-factor">The Confidence Factor</h2>
+<p>Here's what the research doesn't fully capture: how a man carries himself matters enormously. Studies show that confidence, posture, and social presence can override baseline physical preferences.</p>
+<p>The guy who's moderately muscular and confident will beat the jacked guy who slouches and looks insecure. Every time.</p>
+<h2 id="the-honest-summary">The Honest Summary</h2>
+<p><strong>Yes, women find muscular men attractive.</strong> The research supports this. But:</p>
+<ol>
+<li><strong>Moderation wins</strong> — lean, athletic, visible muscle beats massive</li>
+<li><strong>Context matters</strong> — more important for short-term than long-term</li>
+<li><strong>It's not everything</strong> — personality, confidence, and behavior matter more</li>
+<li><strong>Culture shapes preferences</strong> — not universal</li>
+<li><strong>Confidence amplifies</strong> — how you carry yourself amplifies (or diminishes) your physical attributes</li>
+</ol>
+<h2 id="the-practical-takeaway">The Practical Takeaway</h2>
+<p>If you're building muscle primarily to attract women:</p>
+<ol>
+<li>Aim for the "athletic" look, not the "pro bodybuilder" look</li>
+<li>Don't neglect personality, style, and social skills</li>
+<li>Confidence is your multiplier</li>
+<li>Being in shape signals discipline, which is attractive regardless of the specific body type</li>
+</ol>
+<p>The guys who do best with women aren't necessarily the biggest. They're the ones who lift, take care of themselves, dress well, have social skills, and carry themselves with confidence.</p>
+<hr>
+<p><strong>Related Articles:</strong></p>
+<ul>
+<li><a href="/blog/complete-guide-muscle-building-2026">Complete Guide to Muscle Building</a></li>
+<li><a href="/blog/training-fundamentals-muscle-growth">Training Fundamentals</a></li>
+<li><a href="/blog/how-to-progress-gym-framework">How to Progress in the Gym</a></li>
+</ul>
+<hr>
+<p><em>Track your training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","citrulline-malate-pre-workout-science-2026",{"href":"/blog/citrulline-malate-pre-workout-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Citrulline Malate: The Pre-Workout Supplement That Actually Works"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing."}]]}],["$","$Ld","muscle-group-training-frequency-optimal",{"href":"/blog/muscle-group-training-frequency-optimal","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"How Often Should You Train Each Muscle Group? The Frequency Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science-backed guidelines for muscle group training frequency. Stop guessing whether 2x or 3x per week is better — here's what the research actually shows."}]]}],["$","$Ld","citrulline-supplementation-strength-training",{"href":"/blog/citrulline-supplementation-strength-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Citrulline Supplementation for Strength Training: The Pump Amino Science"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"L-citrulline delivers better pumps and more reps — but it's not about strength. Here's what the research actually shows for hypertrophy-focused lifters."}]]}],["$","$Ld","keto-diet-strength-training-muscle-building-2026",{"href":"/blog/keto-diet-strength-training-muscle-building-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Keto for Lifters: Can You Build Muscle on a Ketogenic Diet?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science-backed analysis of ketogenic diets and strength training - what the 2026 research actually shows about muscle building in ketosis."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

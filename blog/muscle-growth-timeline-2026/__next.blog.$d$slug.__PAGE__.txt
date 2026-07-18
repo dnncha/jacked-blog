@@ -1,0 +1,209 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta83,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/muscle-growth-timeline-2026#webpage","url":"https://jacked.coach/blog/muscle-growth-timeline-2026","name":"The Muscle Growth Timeline: From Workout to New Muscle","description":"Understanding the exact sequence of events after training—from muscle damage to protein synthesis to actual hypertrophy—and what it means for your programming","breadcrumb":{"@id":"https://jacked.coach/blog/muscle-growth-timeline-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/muscle-growth-timeline-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/muscle-growth-timeline-2026#webpage"},"headline":"The Muscle Growth Timeline: From Workout to New Muscle","description":"Understanding the exact sequence of events after training—from muscle damage to protein synthesis to actual hypertrophy—and what it means for your programming","isAccessibleForFree":true,"wordCount":866,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/muscle-growth-timeline-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Muscle Growth Timeline: From Workout to New Muscle","item":"https://jacked.coach/blog/muscle-growth-timeline-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Muscle Growth Timeline: From Workout to New Muscle"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Understanding the exact sequence of events after training—from muscle damage to protein synthesis to actual hypertrophy—and what it means for your programming"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Muscle%20Growth%20Timeline%3A%20From%20Workout%20to%20New%20Muscle&url=https://jacked.coach/blog/muscle-growth-timeline-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-acute-response-first-0-3-hours",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-acute-response-first-0-3-hours","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Acute Response: First 0-3 Hours"}]}],["$","li","muscle-protein-synthesis-kicks-in-3-24-hours",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#muscle-protein-synthesis-kicks-in-3-24-hours","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Muscle Protein Synthesis Kicks In: 3-24 Hours"}]}],["$","li","the-recovery-window-24-72-hours",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-recovery-window-24-72-hours","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Recovery Window: 24-72 Hours"}]}],["$","li","when-does-actual-hypertrophy-happen",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-does-actual-hypertrophy-happen","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When Does Actual Hypertrophy Happen?"}]}],["$","li","what-this-means-for-your-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-your-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means for Your Training"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T19ce,<p>If you've been lifting for any length of time, you've probably wondered: what actually happens in my muscles after I train? Is growth immediate, or does it take days? And more importantly—does any of this matter for your training decisions?</p>
+<p>Recent research has painted a remarkably detailed picture of the muscle growth timeline. Here's what science tells us about what happens after you put down the weights.</p>
+<h2 id="the-acute-response-first-0-3-hours">The Acute Response: First 0-3 Hours</h2>
+<p>The moment you finish your last set, a cascade of biological events begins. Muscle damage—specifically to the sarcomere structure—triggers an inflammatory response. Satellite cells, the stem cells nestled alongside muscle fibers, get activated.</p>
+<p>This isn't the muscle "growing" yet. Think of it more like the construction crew arriving at the site. According to 2025 research published in the <em>Journal of Functional Morphology and Kinesiology</em>, resistance training creates measurable hormonal and cellular responses within minutes of completing your workout (Bello et al., 2026).</p>
+<p>The damage signal calls in the repair crew. Inflammation markers rise. Various growth factors—including IGF-1 and MGF—get released. Your body is essentially saying: "We need to rebuild this tissue stronger than before."</p>
+<h2 id="muscle-protein-synthesis-kicks-in-3-24-hours">Muscle Protein Synthesis Kicks In: 3-24 Hours</h2>
+<p>Here's where things get interesting for practical purposes. Muscle protein synthesis (MPS)—the actual process of building new muscle protein—doesn't start immediately.</p>
+<p>Research consistently shows a lag phase of about 2-3 hours post-exercise before MPS begins to rise meaningfully. Then it peaks somewhere between 4-6 hours, with some studies showing elevated MPS lasting up to 24-48 hours in trained individuals.</p>
+<p>A 2025 meta-analysis in <em>Nutrients</em> confirmed that the combination of whey protein and resistance training enhances MPS within 3-5 hours post-exercise, with the AKT/mTOR pathway driving this response. Leucine—the amino acid most responsible for triggering mTOR—acts like the ignition key.</p>
+<p><strong>Key insight</strong>: This is why protein distribution throughout the day matters more than the "anabolic window" immediately post-workout. Your muscles are synthesizing protein for 24+ hours after training, not just the 30-60 minute window some marketers would have you believe.</p>
+<h2 id="the-recovery-window-24-72-hours">The Recovery Window: 24-72 Hours</h2>
+<p>This is where the rubber meets the road for actual hypertrophy. Between 24 and 72 hours post-training:</p>
+<ul>
+<li>Satellite cells fuse with damaged muscle fibers</li>
+<li>New nuclei are added (this is permanent—muscle cells don't divide, so they "borrow" nuclei from satellite cells)</li>
+<li>Protein synthesis remains elevated</li>
+<li>The muscle fiber repairs and potentially adds new sarcomeres</li>
+</ul>
+<p>Research from 2025-2026 has shown that trained individuals maintain elevated MPS longer than untrained individuals—potentially up to 72 hours after intense training. This has implications for training frequency that we'll get to.</p>
+<p><strong>The practical takeaway</strong>: If you're training with enough intensity to actually stimulate growth, you need 48-72 hours before training that same muscle group again. Training "fresh" muscles might feel good, but it may not provide the growth stimulus.</p>
+<h2 id="when-does-actual-hypertrophy-happen">When Does Actual Hypertrophy Happen?</h2>
+<p>Here's the uncomfortable truth: the changes you see in the mirror aren't happening this week. Or even next week.</p>
+<p>Actual muscle hypertrophy—the permanent addition of contractile protein to your muscle fibers—occurs over weeks and months. The process involves:</p>
+<ol>
+<li><strong>Repeated stimulation</strong>: Multiple training sessions providing the damage/repair stimulus</li>
+<li><strong>Accumulation</strong>: Small amounts of protein added with each recovery cycle</li>
+<li><strong>Remodeling</strong>: The muscle adapts structurally to handle future loads</li>
+</ol>
+<p>Studies tracking actual muscle growth find measurable hypertrophy typically requires 4-8 weeks of consistent training. The "pump" you feel after a workout is temporary fluid accumulation—actual new muscle tissue takes much longer to build.</p>
+<h2 id="what-this-means-for-your-training">What This Means for Your Training</h2>
+<p><strong>Training frequency</strong>: Since MPS remains elevated for 24-72 hours, training a muscle group 2-3 times per week allows you to "ride" the anabolic response rather than starting from zero each time.</p>
+<p><strong>Protein intake</strong>: With MPS elevated for 24+ hours, spacing protein intake to maintain amino acid availability throughout the day makes more sense than obsessing about immediate post-workout consumption.</p>
+<p><strong>Sleep</strong>: Growth hormone and testosterone pulses occur during sleep. Getting 7-9 hours isn't optional if you want to actually convert training stimulus into new muscle.</p>
+<p><strong>Progressive overload</strong>: The stimulus must be repeated week after week. One hard workout doesn't build significant muscle—consistent, progressive training does.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Muscle growth isn't a single event—it's a multi-day biological process that begins with training damage, progresses through protein synthesis, and culminates in actual tissue addition over weeks of consistent effort.</p>
+<p>Understanding this timeline helps you make better decisions: train with sufficient frequency to stimulate muscle protein synthesis regularly, but allow adequate recovery between sessions. Eat enough protein throughout the day, not just after your workout. Sleep enough to complete the repair process.</p>
+<p>The science is clear: the muscle growth timeline is longer than most people think. But that also means you have multiple points where you can optimize the process.</p>
+<hr>
+<p><strong>References</strong>:</p>
+<ul>
+<li>Bello ML, et al. (2026). Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training. <em>Journal of Functional Morphology and Kinesiology</em>, 11(1):17.</li>
+<li>Nutrition and Exercise Research (2025). Whey Protein Supplementation Combined with Exercise on Muscle Protein Synthesis and the AKT/mTOR Pathway. <em>Nutrients</em>, 17(16):2579.</li>
+</ul>
+<hr>
+<p><em>Track your muscle growth timeline with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","supersets-hypertrophy-science-2026",{"href":"/blog/supersets-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supersets for Hypertrophy: What the Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."}]]}],["$","$Ld","lean-pork-muscle-protein-synthesis-2025",{"href":"/blog/lean-pork-muscle-protein-synthesis-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lean Pork Discovery: How Meat Type Affects Post-Workout Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that lean pork stimulates greater muscle protein synthesis than high-fat pork after weight training—challenging previous assumptions about dietary fat and hypertrophy."}]]}],["$","$Ld","auto-progression-feature-muscle-growth",{"href":"/blog/auto-progression-feature-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Auto-Progression: The Feature That Changes Everything for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"What if your workout app automatically increased your weights? That's auto-progression — and it's the biggest innovation in hypertrophy training."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

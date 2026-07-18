@@ -1,0 +1,525 @@
+1:"$Sreact.fragment"
+d:I[24954,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0txetin0xo5lq.js"],"default"]
+e:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0txetin0xo5lq.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:T315f,
+      .tools-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+      }
+      .tools-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .tools-hero {
+        padding: 54px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
+        gap: 32px;
+        align-items: end;
+      }
+      .tools-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.25rem, 5.6vw, 4.4rem);
+        line-height: 0.98;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .tools-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.02rem;
+        line-height: 1.62;
+        max-width: 720px;
+      }
+      .tools-signal {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px;
+        color: #d9c26c;
+        font-weight: 680;
+        line-height: 1.55;
+      }
+      .tools-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+      }
+      .tool-link-card {
+        display: flex;
+        min-height: 156px;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 18px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242,238,228,0.1);
+        color: inherit;
+        text-decoration: none;
+      }
+      .tool-link-card strong {
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .tool-link-card p {
+        color: #a7a094;
+        margin: 10px 0 18px;
+        line-height: 1.55;
+        font-size: 0.94rem;
+      }
+      .tool-link-card span {
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .tool-section {
+        padding: 38px 0;
+        border-top: 1px solid rgba(255,255,255,0.08);
+      }
+      .tool-section h2 {
+        margin: 0 0 18px;
+        color: #f7f2e8;
+        font-size: clamp(1.42rem, 3.2vw, 2.2rem);
+        line-height: 1.12;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .tool-workspace {
+        display: grid;
+        grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.98fr);
+        gap: 18px;
+        align-items: start;
+        padding: 24px 0 54px;
+      }
+      .tool-card,
+      .tool-result-card {
+        border-radius: 8px;
+        border: 1px solid rgba(242,238,228,0.11);
+        background: #0e0e0d;
+        box-shadow: 0 18px 44px rgba(0,0,0,0.28);
+      }
+      .tool-card {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        padding: 18px;
+      }
+      .tool-card-head,
+      .tool-field-wide {
+        grid-column: 1 / -1;
+      }
+      .tool-card-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        align-items: baseline;
+        padding-bottom: 6px;
+      }
+      .tool-card-head h2 {
+        margin: 0;
+        color: #f7f2e8;
+        font-size: 1rem;
+        font-weight: 720;
+      }
+      .tool-card-head span,
+      .tool-kicker {
+        color: #817b70;
+        font-size: 0.72rem;
+        font-weight: 720;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .tool-field {
+        display: grid;
+        gap: 6px;
+      }
+      .tool-field span {
+        color: #b7b0a3;
+        font-size: 0.82rem;
+        font-weight: 650;
+      }
+      .tool-field input,
+      .tool-field textarea,
+      .tool-field select {
+        min-height: 44px;
+        width: 100%;
+        box-sizing: border-box;
+        border-radius: 8px;
+        border: 1px solid rgba(245,241,232,0.16);
+        background: #070707;
+        color: #f7f2e8;
+        padding: 0 12px;
+        font-size: 0.96rem;
+        outline: none;
+      }
+      .tool-field textarea {
+        min-height: 180px;
+        padding: 12px;
+        resize: vertical;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        line-height: 1.5;
+      }
+      .tool-field input:focus,
+      .tool-field textarea:focus,
+      .tool-field select:focus {
+        border-color: #d9c26c;
+      }
+      .tool-primary,
+      .tool-secondary {
+        min-height: 46px;
+        border-radius: 8px;
+        padding: 0 18px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 760;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 0.94rem;
+      }
+      .tool-primary {
+        border: 1px solid rgba(255,255,255,0.12);
+        background: #e2c95f;
+        color: #101010;
+        grid-column: 1 / -1;
+      }
+      .tool-secondary {
+        border: 1px solid rgba(245,241,232,0.16);
+        background: rgba(255,255,255,0.03);
+        color: #f2eee4;
+      }
+      .tool-result-card {
+        position: sticky;
+        top: 88px;
+        padding: 20px;
+      }
+      .tool-result-card h2 {
+        margin: 8px 0 12px;
+        color: #e2c95f;
+        font-size: clamp(1.55rem, 3.8vw, 2.55rem);
+        line-height: 1.06;
+        letter-spacing: 0;
+        font-weight: 760;
+      }
+      .tool-result-card p {
+        color: #c8c1b6;
+        line-height: 1.62;
+      }
+      .tool-muted {
+        color: #8f897c !important;
+        font-size: 0.92rem;
+      }
+      .tool-result-line {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 12px 0;
+        border-top: 1px solid rgba(255,255,255,0.08);
+      }
+      .tool-result-line span {
+        color: #8f897c;
+      }
+      .tool-result-line strong {
+        color: #f7f2e8;
+        text-align: right;
+      }
+      .tool-app-copy {
+        margin-top: 18px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
+      .tool-result-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 12px;
+      }
+      .rir-table {
+        overflow-x: auto;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+      }
+      .rir-table table {
+        border-collapse: collapse;
+        min-width: 560px;
+        width: 100%;
+      }
+      .rir-table th,
+      .rir-table td {
+        padding: 8px;
+        border-bottom: 1px solid rgba(255,255,255,0.06);
+        text-align: right;
+        font-size: 0.86rem;
+      }
+      .rir-table th {
+        color: #d9c26c;
+      }
+      .rir-table td {
+        color: #f2eee4;
+      }
+      .mini-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0 14px;
+      }
+      .warmup-list {
+        display: grid;
+        gap: 8px;
+      }
+      .warmup-list div {
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 12px;
+        background: #080808;
+      }
+      .warmup-list strong {
+        color: #f7f2e8;
+      }
+      .warmup-list span {
+        color: #8f897c;
+      }
+      .split-day-list {
+        display: grid;
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .split-day-card {
+        border: 1px solid rgba(255,255,255,0.09);
+        border-radius: 8px;
+        background: #080808;
+        overflow: hidden;
+      }
+      .split-day-card header {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        align-items: flex-start;
+        padding: 12px;
+        border-bottom: 1px solid rgba(255,255,255,0.07);
+      }
+      .split-day-card header div {
+        display: grid;
+        gap: 3px;
+      }
+      .split-day-card header strong {
+        color: #f7f2e8;
+        font-weight: 760;
+      }
+      .split-day-card header span,
+      .split-day-card header em {
+        color: #9f988c;
+        font-size: 0.86rem;
+        font-style: normal;
+      }
+      .split-day-card header em {
+        flex: 0 0 auto;
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .split-exercise-list {
+        display: grid;
+      }
+      .split-exercise-row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto auto;
+        gap: 10px;
+        align-items: baseline;
+        padding: 9px 12px;
+      }
+      .split-exercise-row + .split-exercise-row {
+        border-top: 1px solid rgba(255,255,255,0.055);
+      }
+      .split-exercise-row strong {
+        color: #f2eee4;
+        font-size: 0.92rem;
+      }
+      .split-exercise-row span {
+        color: #d9c26c;
+        font-size: 0.86rem;
+        font-weight: 720;
+        white-space: nowrap;
+      }
+      .split-exercise-row em {
+        color: #8f897c;
+        font-size: 0.84rem;
+        font-style: normal;
+        white-space: nowrap;
+      }
+      .split-volume-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .split-volume-grid div {
+        display: grid;
+        gap: 2px;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 10px;
+        background: rgba(226, 201, 95, 0.06);
+      }
+      .split-volume-grid strong {
+        color: #f7f2e8;
+        font-size: 0.88rem;
+      }
+      .split-volume-grid span {
+        color: #d9c26c;
+        font-size: 0.9rem;
+        font-weight: 720;
+      }
+      .split-volume-grid em {
+        color: #8f897c;
+        font-size: 0.82rem;
+        font-style: normal;
+      }
+      .split-rules {
+        display: grid;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .split-rules p {
+        margin: 0;
+        padding-left: 12px;
+        border-left: 2px solid rgba(226, 201, 95, 0.55);
+      }
+      .volume-list,
+      .swap-list,
+      .standards-list {
+        display: grid;
+        gap: 8px;
+        margin-top: 12px;
+      }
+      .volume-list div,
+      .swap-list div,
+      .standards-list div {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 4px 12px;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 12px;
+        background: #080808;
+      }
+      .swap-list div {
+        grid-template-columns: 1fr;
+      }
+      .standards-list div {
+        grid-template-columns: 1fr auto auto;
+        align-items: baseline;
+      }
+      .standards-list div.is-current {
+        border-color: rgba(226, 201, 95, 0.48);
+        background: rgba(226, 201, 95, 0.08);
+      }
+      .volume-list strong,
+      .swap-list strong,
+      .standards-list strong {
+        color: #f7f2e8;
+      }
+      .volume-list span,
+      .standards-list span {
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .volume-list em,
+      .swap-list span,
+      .standards-list em {
+        grid-column: 1 / -1;
+        color: #9f988c;
+        font-style: normal;
+        font-size: 0.9rem;
+      }
+      .standards-list em {
+        grid-column: auto;
+      }
+      .copy-blocks {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 0.7fr);
+        gap: 26px;
+      }
+      .copy-blocks h2,
+      .copy-blocks h3 {
+        color: #f7f2e8;
+        margin: 0 0 10px;
+      }
+      .copy-blocks p,
+      .copy-blocks li {
+        color: #a9a294;
+        line-height: 1.7;
+      }
+      .copy-list {
+        display: grid;
+        gap: 16px;
+      }
+      .copy-list article {
+        padding-bottom: 16px;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+      }
+      .related-tools {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      .related-tools a {
+        color: #d9c26c;
+        font-weight: 720;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(243,199,77,0.42);
+      }
+      .tool-cta-band {
+        background: #f5f1e8;
+        color: #111;
+        padding: 42px 0;
+      }
+      .tool-cta-band h2 {
+        margin: 0 0 10px;
+        color: #111;
+      }
+      .tool-cta-band p {
+        color: #4b473f;
+        max-width: 760px;
+        line-height: 1.65;
+      }
+      @media (max-width: 820px) {
+        .tools-hero,
+        .tool-workspace,
+        .copy-blocks {
+          grid-template-columns: 1fr;
+        }
+        .tool-card {
+          grid-template-columns: 1fr;
+        }
+        .tool-result-card {
+          position: static;
+        }
+        .split-exercise-row {
+          grid-template-columns: minmax(0, 1fr) auto;
+        }
+        .split-exercise-row em {
+          grid-column: 1 / -1;
+        }
+        .split-volume-grid {
+          grid-template-columns: 1fr;
+        }
+        .tools-hero {
+          padding-top: 44px;
+        }
+      }
+    0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+c:T414,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Strong CSV Import Checker: Preview Your Workout History Before Importing","description":"Check a Strong workout CSV locally in your browser before moving your training history into Jacked.","url":"https://jacked.coach/tools/strong-csv-import-checker","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Tools","item":"https://jacked.coach/tools"},{"@type":"ListItem","position":3,"name":"Strong CSV Import Checker","item":"https://jacked.coach/tools/strong-csv-import-checker"}]}},{"@type":"WebApplication","name":"Strong CSV Import Checker","description":"Check a Strong workout CSV locally in your browser before moving your training history into Jacked.","applicationCategory":"HealthApplication","operatingSystem":"Web","url":"https://jacked.coach/tools/strong-csv-import-checker","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$c"}}]
+4:["$","section",null,{"className":"tools-wrap tools-hero","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Strong CSV Import Checker"}],["$","p",null,{"children":[["$","strong",null,{"children":"Preview a Strong export before you switch apps."}]," ","Paste or upload a Strong CSV and see whether the file has the workout, exercise, set, load, rep, note, and effort fields Jacked can use."]}]]}],["$","div",null,{"className":"tools-signal","children":"Log the set in Jacked and the next target stays with the workout."}]]}]
+5:["$","section",null,{"className":"tools-wrap","children":["$","$Ld",null,{"tool":{"slug":"strong-csv-import-checker","type":"strong-import","name":"Strong CSV Import Checker","title":"Strong CSV Import Checker: Preview Your Workout History Before Importing","metaDescription":"Check a Strong workout CSV locally in your browser before moving your training history into Jacked.","h1":"Strong CSV Import Checker","promise":"Preview a Strong export before you switch apps.","intro":"Paste or upload a Strong CSV and see whether the file has the workout, exercise, set, load, rep, note, and effort fields Jacked can use.","primaryKeyword":"Strong CSV import","campaign":"strong_csv_import_checker","defaults":{"csvText":"Date,Workout Name,Exercise Name,Set Order,Weight,Reps,Distance,Seconds,Notes\n2026-01-01,Upper,Bench Press,1,80,10,,,\n2026-01-01,Upper,Bench Press,2,80,8,,,\n2026-01-02,Lower,Leg Press,1,200,12,,,"},"sections":[["What this checker looks for","It checks dates, workout names, exercise names, set rows, loads, reps, notes, and effort columns so you can spot import problems before switching."],["Why Strong exports need review","Old logs often include custom exercises, missing units, blank rows, and unusual timed sets. Those details can split history or hide useful progress."],["Privacy implementation","The CSV is parsed in your browser. Nothing is uploaded by this web tool. Keep the original export untouched until your import is verified."],["Common mistakes","Do not edit your only copy of the export. Work from a duplicate and spot-check your main lifts after import."]],"examples":["A Strong export with workout dates, exercise names, set order, weight, and reps is usually import-ready enough to preview.","If exercise names or dates are missing, fix those first. Those fields anchor history, routines, and progress charts."],"faqs":[["Is my Strong CSV uploaded?","No. This page parses the text in your browser and does not send it to a server."],["What should I check after import?","Open your main lifts, recent workouts, custom exercises, and notes before training from the imported history."]],"related":["workout-csv-validator","hevy-import-checker","next-set-calculator","weekly-volume-checker"]}}]}]
+6:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"className":"copy-list","children":[["$","article",null,{"children":[["$","h2",null,{"children":"How to read the result"}],["$","p",null,{"children":["Preview a Strong export before you switch apps."," The notes below show the assumptions behind that recommendation."]}]]}],[["$","article","What this checker looks for",{"children":[["$","h2",null,{"children":"What this checker looks for"}],["$","p",null,{"children":"It checks dates, workout names, exercise names, set rows, loads, reps, notes, and effort columns so you can spot import problems before switching."}]]}],["$","article","Why Strong exports need review",{"children":[["$","h2",null,{"children":"Why Strong exports need review"}],["$","p",null,{"children":"Old logs often include custom exercises, missing units, blank rows, and unusual timed sets. Those details can split history or hide useful progress."}]]}],["$","article","Privacy implementation",{"children":[["$","h2",null,{"children":"Privacy implementation"}],["$","p",null,{"children":"The CSV is parsed in your browser. Nothing is uploaded by this web tool. Keep the original export untouched until your import is verified."}]]}],["$","article","Common mistakes",{"children":[["$","h2",null,{"children":"Common mistakes"}],["$","p",null,{"children":"Do not edit your only copy of the export. Work from a duplicate and spot-check your main lifts after import."}]]}]]]}],["$","aside",null,{"children":[["$","h2",null,{"children":"Examples"}],["$","ul",null,{"children":[["$","li","A Strong export with workout dates, exercise names, set order, weight, and reps is usually import-ready enough to preview.",{"children":"A Strong export with workout dates, exercise names, set order, weight, and reps is usually import-ready enough to preview."}],["$","li","If exercise names or dates are missing, fix those first. Those fields anchor history, routines, and progress charts.",{"children":"If exercise names or dates are missing, fix those first. Those fields anchor history, routines, and progress charts."}]]}],["$","h2",null,{"style":{"marginTop":"28px"},"children":"Related tools"}],["$","div",null,{"className":"related-tools","children":[["$","$Le","workout-csv-validator",{"href":"/tools/workout-csv-validator","data-related-tool":"workout-csv-validator","children":"Workout CSV Validator"}],["$","$Le","hevy-import-checker",{"href":"/tools/hevy-import-checker","data-related-tool":"hevy-import-checker","children":"Hevy Import Checker"}],["$","$Le","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Le","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]]}]}]
+7:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Short answers"}],[["$","article","Is my Strong CSV uploaded?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Is my Strong CSV uploaded?"}],["$","p",null,{"children":"No. This page parses the text in your browser and does not send it to a server."}]]}],["$","article","What should I check after import?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"What should I check after import?"}],["$","p",null,{"children":"Open your main lifts, recent workouts, custom exercises, and notes before training from the imported history."}]]}]]]}],["$","div",null,{"className":"tools-signal","children":"Jacked turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback."}]]}]}]
+8:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Method, assumptions, and privacy"}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Method"}],["$","p",null,{"children":"Parses the Strong-style CSV locally in the browser and checks for workout dates, exercise names, set rows, loads, reps, notes, and effort fields."}]]}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Assumptions"}],["$","p",null,{"children":"Strong exports and edited CSV files can vary. Treat this as a preview and keep the original export untouched."}]]}],["$","article",null,{"children":[["$","h3",null,{"children":"Privacy"}],["$","p",null,{"children":"The CSV is parsed in your browser. Nothing is uploaded. No account required. No server storage."}]]}]]}],["$","div",null,{"className":"tools-signal","children":"Check the method before you trust the number. Bad inputs still produce tidy-looking outputs."}]]}]}]
+9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Jacked does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_strong-csv-import-checker","children":"Download Jacked for iPhone"}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/0txetin0xo5lq.js","async":true}]
+b:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

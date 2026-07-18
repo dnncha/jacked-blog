@@ -1,0 +1,222 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb58,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026#webpage","url":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026","name":"Grip Strength: The Simple Metric That Predicts Longevity and Muscle Building Success","description":"New research confirms what serious lifters have long suspected—grip strength is far more than just a party trick. It's a powerful predictor of muscle growth...","breadcrumb":{"@id":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026#webpage"},"headline":"Grip Strength: The Simple Metric That Predicts Longevity and Muscle Building Success","description":"New research confirms what serious lifters have long suspected—grip strength is far more than just a party trick. It's a powerful predictor of muscle growth...","isAccessibleForFree":true,"wordCount":807,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Grip Strength: The Simple Metric That Predicts Longevity and Muscle Building Success","item":"https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Grip Strength: The Simple Metric That Predicts Longevity and Muscle Building Success"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research confirms what serious lifters have long suspected—grip strength is far more than just a party trick. It's a powerful predictor of muscle growth potential, overall strength, and even lifespan."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Grip%20Strength%3A%20The%20Simple%20Metric%20That%20Predicts%20Longevity%20and%20Muscle%20Building%20Success&url=https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-mortality-connection",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-mortality-connection","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Mortality Connection"}]}],["$","li","why-does-grip-strength-predict-mortality",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-does-grip-strength-predict-mortality","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Does Grip Strength Predict Mortality?"}]}],["$","li","grip-strength-and-muscle-building",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#grip-strength-and-muscle-building","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Grip Strength and Muscle Building"}]}],["$","li","1-it-s-a-limiting-factor-in-many-lifts",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-it-s-a-limiting-factor-in-many-lifts","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. It's a Limiting Factor in Many Lifts"}]}],["$","li","2-relative-grip-strength-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-relative-grip-strength-matters","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Relative Grip Strength Matters"}]}],["$","li","3-grip-training-and-forearm-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-grip-training-and-forearm-hypertrophy","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Grip Training and Forearm Hypertrophy"}]}],["$","li","how-to-test-and-improve-your-grip",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-test-and-improve-your-grip","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Test and Improve Your Grip"}]}],["$","li","testing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#testing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Testing"}]}],["$","li","training-methods",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#training-methods","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Training Methods"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T18b2,<p>When you think of strength, what comes to mind? Squatting 315 pounds? Benching two plates? Deadlifting triple digits? While these numbers are impressive, there's a much simpler measure that scientists increasingly believe is a better indicator of your overall strength, health, and even how long you'll live: <strong>grip strength</strong>.</p>
+<p>New research published in 2024 in <em>Scientific Reports</em> analyzing NHANES data from over 9,500 adults confirms what longevity researchers have been shouting from the rooftops—grip strength is a remarkably powerful predictor of all-cause mortality [1]. But what does this mean for muscle builders and strength athletes? Quite a lot, actually.</p>
+<h2 id="the-mortality-connection">The Mortality Connection</h2>
+<p>A 2024 meta-analysis examining grip strength and mortality found that higher grip strength was associated with a <strong>31% reduction in all-cause mortality risk</strong> [2]. That's a stronger association than many traditional health markers.</p>
+<p>The PURE study, published in <em>The Lancet</em>, found that each 5 kg reduction in grip strength was associated with:</p>
+<ul>
+<li><strong>16% increased risk of all-cause mortality</strong></li>
+<li><strong>17% increased risk of cardiovascular mortality</strong></li>
+<li><strong>Significant increases in non-cardiovascular mortality</strong> [3]</li>
+</ul>
+<p>For perspective, having weak grip strength is now considered a clinical marker of "frailty"—a condition associated with increased falls, hospitalization, and death in older adults [4].</p>
+<h2 id="why-does-grip-strength-predict-mortality">Why Does Grip Strength Predict Mortality?</h2>
+<p>Grip strength isn't just about your forearms. It's a proxy for <strong>overall skeletal muscle function</strong>. The muscles responsible for grip—including the flexor digitorum profundus, flexor pollicis longus, and the intrinsic hand muscles—represent a significant portion of your total muscle mass.</p>
+<p>More importantly, grip strength correlates strongly with:</p>
+<ul>
+<li><strong>Lower body strength</strong> (squats, deadlifts)</li>
+<li><strong>Functional mobility</strong></li>
+<li><strong>Nutritional status</strong></li>
+<li><strong>Neurological function</strong></li>
+</ul>
+<p>When these systems decline, grip strength declines with them. It's like checking the engine light—weak grip is a warning sign that something upstream isn't working optimally.</p>
+<h2 id="grip-strength-and-muscle-building">Grip Strength and Muscle Building</h2>
+<p>For those of us interested in hypertrophy, grip strength offers several practical insights:</p>
+<h3 id="1-it-s-a-limiting-factor-in-many-lifts">1. It's a Limiting Factor in Many Lifts</h3>
+<p>Whether you're doing rows, pull-ups, or farmer's walks, grip often fails before your target muscles do. Improving grip strength can directly increase your training volume on key exercises.</p>
+<p>Research shows that forearm muscle cross-sectional area correlates strongly with overall upper body hypertrophy potential [5]. If you want bigger arms, your grip training may be holding you back.</p>
+<h3 id="2-relative-grip-strength-matters">2. Relative Grip Strength Matters</h3>
+<p>A 2024 study found that <strong>relative grip strength</strong> (grip strength normalized to body weight or BMI) may be a better predictor of outcomes than absolute grip strength [1]. This suggests that as a lifter, your grip strength should be proportional to your body weight to maximize your strength potential.</p>
+<p>Practical application: If you've gained significant body weight but your grip hasn't improved proportionally, you're relatively weaker than before—regardless of what the scale says.</p>
+<h3 id="3-grip-training-and-forearm-hypertrophy">3. Grip Training and Forearm Hypertrophy</h3>
+<p>Unlike many muscles, forearms respond well to high-rep training and don't require elaborate equipment. Farmer's walks, dead hangs, and thick-grip training all contribute to forearm development while improving your ability to handle heavier loads in other lifts.</p>
+<h2 id="how-to-test-and-improve-your-grip">How to Test and Improve Your Grip</h2>
+<h3 id="testing">Testing</h3>
+<p>The standard cutoff for "healthy" grip strength (used in sarcopenia diagnosis) is:</p>
+<ul>
+<li><strong>Men: &#x3C; 26 kg = weak</strong></li>
+<li><strong>Women: &#x3C; 16 kg = weak</strong> [6]</li>
+</ul>
+<p>For muscle building purposes, aim higher. Most trained men should target 45-55+ kg, with some advanced lifters exceeding 70 kg.</p>
+<h3 id="training-methods">Training Methods</h3>
+<ol>
+<li><strong>Static holds</strong> – Load a barbell or dumbbells and hold at the top of a deadlift or carry position</li>
+<li><strong>Farmer's walks</strong> – Heavy carries for time or distance</li>
+<li><strong>Dead hangs</strong> – Hang from a pull-up bar with added weight or for time</li>
+<li><strong>Thick-grip training</strong> – Use fat grips or wrapped bars to increase demands</li>
+<li><strong>Wrist roller</strong> – Underrated forearm developer</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Grip strength is a deceptively simple metric that tells you a remarkable amount about your health and training status. For muscle builders, it's both a limiting factor to address and a useful marker of overall strength development.</p>
+<p>Train your grip directly, track your progress, and consider it alongside traditional strength metrics. Your longevity—along with your deadlift—may depend on it.</p>
+<hr>
+<h2 id="references">References</h2>
+<p>[1] Scientific Reports. (2024). "Comparison of grip strength measurements for predicting all-cause mortality among adults aged 20+ years from the NHANES 2011–2014."</p>
+<p>[2] García-Hermosa et al. Meta-analysis of 33 studies on grip strength and mortality.</p>
+<p>[3] The Lancet. (2015). "Prognostic value of grip strength: findings from the PURE study."</p>
+<p>[4] BMC Geriatrics. "Grip Strength: An Indispensable Biomarker For Older Adults."</p>
+<p>[5] Stronger by Science. "The Evidence-Based Guide to Grip Strength Training &#x26; Forearm Muscle Development."</p>
+<p>[6] European Working Group on Sarcopenia in Older People (EWGSOP) criteria for sarcopenia diagnosis.</p>
+<hr>
+<p><em>Track your grip strength with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}],["$","$Ld","psychology-muscle-building-mindset-habits",{"href":"/blog/psychology-muscle-building-mindset-habits","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Psychology of Muscle Building: Why Your Mind Determines Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The best program means nothing if you don't stick to it. Research shows that mindset, habit formation, and motivation psychology predict long-term success more than genetics or nutrition timing."}]]}],["$","$Ld","protein-distribution-muscle-protein-synthesis",{"href":"/blog/protein-distribution-muscle-protein-synthesis","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Protein Distribution: How Often Should You Eat Protein?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research confirms what athletes have long suspected: spreading your protein intake evenly throughout the day maximizes muscle protein synthesis by up to 25%. Here's the science behind optimal protein distribution."}]]}],["$","$Ld","ashwagandha-strength-training-supplement-science-2026",{"href":"/blog/ashwagandha-strength-training-supplement-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Ashwagandha for Lifters: The Stress-Adaptogen That Builds Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2026 research confirms ashwagandha reduces cortisol, enhances recovery, and increases strength—here's what the science shows about this ancient herb for modern lifters."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

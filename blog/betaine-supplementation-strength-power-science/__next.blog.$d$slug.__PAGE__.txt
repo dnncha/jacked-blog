@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taed,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/betaine-supplementation-strength-power-science#webpage","url":"https://jacked.coach/blog/betaine-supplementation-strength-power-science","name":"Betaine Supplementation: The Underrated Muscle Builder?","description":"Betaine (trimethylglycine) is gaining attention as a performance supplement. Here's what the science says about strength, power, and muscle growth.","breadcrumb":{"@id":"https://jacked.coach/blog/betaine-supplementation-strength-power-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/betaine-supplementation-strength-power-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/betaine-supplementation-strength-power-science#webpage"},"headline":"Betaine Supplementation: The Underrated Muscle Builder?","description":"Betaine (trimethylglycine) is gaining attention as a performance supplement. Here's what the science says about strength, power, and muscle growth.","isAccessibleForFree":true,"wordCount":837,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/betaine-supplementation-strength-power-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Betaine Supplementation: The Underrated Muscle Builder?","item":"https://jacked.coach/blog/betaine-supplementation-strength-power-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Betaine Supplementation: The Underrated Muscle Builder?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Betaine (trimethylglycine) is gaining attention as a performance supplement. Here's what the science says about strength, power, and muscle growth."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Betaine%20Supplementation%3A%20The%20Underrated%20Muscle%20Builder%3F&url=https://jacked.coach/blog/betaine-supplementation-strength-power-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-betaine",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-betaine","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Betaine?"}]}],["$","li","the-research-on-strength-and-power",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-research-on-strength-and-power","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Research on Strength and Power"}]}],["$","li","what-about-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-about-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What About Muscle Growth?"}]}],["$","li","dosage-and-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#dosage-and-timing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Dosage and Timing"}]}],["$","li","how-does-it-stack-up-against-other-supplements",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-does-it-stack-up-against-other-supplements","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How Does It Stack Up Against Other Supplements?"}]}],["$","li","practical-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Recommendations"}]}],["$","li","the-future-exercise-mimetic",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-future-exercise-mimetic","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Future: Exercise Mimetic?"}]}],["$","li","the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Verdict"}]}]]}]]}]
+e:T202a,<p>Betaine—also known as trimethylglycine (TMG)—has been lurking in the supplement shadows for years, overshadowed by creatine, caffeine, and the latest trendy compounds. But the research is accumulating, and the mechanisms are intriguing. So what's the deal? Does betaine actually help you build muscle and get stronger?</p>
+<h2 id="what-is-betaine">What Is Betaine?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Betaine is a naturally occurring compound found in foods like beets, spinach, and whole grains. It's a methyl donor, meaning it helps shuttle methyl groups around the body for various metabolic processes. In the context of exercise and muscle building, betaine plays several potentially relevant roles:</p>
+<ol>
+<li><strong>Creatine synthesis</strong> — Betaine contributes to creatine production in the body. Since creatine is one of the most well-researched supplements for strength and power, this indirect pathway is interesting.</li>
+<li><strong>Cellular hydration</strong> — As an osmolyte, betaine helps cells retain water, which may support protein synthesis and muscle fullness.</li>
+<li><strong>Methylation and homocysteine</strong> — Betaine converts homocysteine to methionine, supporting various metabolic functions.</li>
+</ol>
+<h2 id="the-research-on-strength-and-power">The Research on Strength and Power</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>The evidence on betaine's ergogenic effects has been mixed but trending positive, particularly for lower body strength.</p>
+<p>A 2024 meta-analysis concluded that <strong>betaine supplementation significantly enhances muscular strength, particularly in lower body exercises</strong>, with some evidence for improved upper-body strength and power as well. The analysis noted moderate to high study heterogeneity—meaning not all studies agree—but the overall effect is promising.</p>
+<p>Studies using 2.5g daily of betaine for 6-12 weeks have shown:</p>
+<ul>
+<li><strong>Increased power output</strong> — Particularly in tasks requiring explosive force</li>
+<li><strong>Improved strength</strong> — Especially in leg-based movements like squats and leg presses</li>
+<li><strong>Better endurance</strong> — Some studies show improved time-to-exhaustion</li>
+</ul>
+<p>The lower body emphasis makes sense given that larger muscle groups may benefit more from the cellular hydration and energy availability effects.</p>
+<h2 id="what-about-muscle-growth">What About Muscle Growth?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>The research here is less definitive but intriguing. Early studies suggested betaine might positively influence body composition—improving muscle mass while decreasing fat. However, more recent systematic reviews have found inconsistent results.</p>
+<p>One proposed mechanism is that betaine's role in cellular hydration could support the anabolic environment. When muscle cells are properly hydrated, protein synthesis may be optimized. The creatine connection is also worth noting—some researchers hypothesize that betaine's contribution to endogenous creatine production could provide benefits, though likely not to the same degree as direct creatine supplementation.</p>
+<p><strong>Bottom line:</strong> Betaine is unlikely to dramatically transform your physique on its own, but it may provide modest support for strength and power development.</p>
+<h2 id="dosage-and-timing">Dosage and Timing</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Most research uses <strong>2.0-2.5 grams daily</strong>, typically split into two doses or taken once daily. The timing doesn't appear critical—studies have used both pre- and post-workout administration with success.</p>
+<p>Betaine is found in some pre-workout supplements, but it's also available as a standalone powder or capsule. It's generally well-tolerated, though high doses can cause mild GI distress in some people.</p>
+<h2 id="how-does-it-stack-up-against-other-supplements">How Does It Stack Up Against Other Supplements?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Let's be realistic: betaine is not a replacement for the foundational supplements:</p>
+<p>| Supplement | Strength | Body Comp | Evidence Quality |
+|------------|----------|-----------|------------------|
+| <strong>Creatine</strong> | Strong | Strong | Extensive |
+| <strong>Caffeine</strong> | Strong | Minimal | Extensive |
+| <strong>Beta-alanine</strong> | Moderate | Minimal | Strong |
+| <strong>Betaine</strong> | Moderate | Weak-Moderate | Growing |</p>
+<p>Betaine sits nicely as a <strong>potential addition</strong> to a supplement stack rather than a standalone must-have. If you're already taking creatine, caffeine, and beta-alanine, betaine might offer incremental benefits.</p>
+<h2 id="practical-recommendations">Practical Recommendations</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Based on the current evidence:</p>
+<ol>
+<li><strong>If you're optimized already</strong>, adding 2.5g betaine daily is low-cost and might provide small power/strength gains</li>
+<li><strong>If you're building a stack</strong>, prioritize creatine and caffeine first, then consider betaine</li>
+<li><strong>Don't expect miracles</strong> — This isn't going to transform your gains, but it might help with that extra rep or bit of power</li>
+</ol>
+<p>The most compelling use case appears to be for <strong>athletes focused on power development</strong>—weightlifters, powerlifters, and explosive athletes may see the most benefit.</p>
+<h2 id="the-future-exercise-mimetic">The Future: Exercise Mimetic?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Interestingly, 2025 research has explored betaine as a potential "exercise mimetic"—a compound that recapitulates some of exercise's beneficial effects on aging. Studies suggest betaine may help combat sarcopenia (age-related muscle loss) by increasing muscle fiber cross-sectional area. While this is early-stage research, it points to broader applications beyond just athletic performance.</p>
+<h2 id="the-verdict">The Verdict</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Betaine isn't going to replace your creatine monohydrate, but it's a legitimate supplement with growing evidence for strength and power benefits—particularly for lower body movements. At about $15-20 for a two-month supply, it's affordable and low-risk.</p>
+<p>If you're chasing every possible advantage and have the basics covered, betaine is worth a trial. Just don't expect it to do the heavy lifting for you.</p>
+<hr>
+<p><strong>Key Takeaway:</strong> Betaine (2-2.5g/day) shows moderate benefits for strength and power, particularly in lower body exercises. It's a sensible addition to a well-rounded supplement stack but not a replacement for proven staples like creatine.</p>
+<hr>
+<p><em>Want automated progressive overload? Download Jacked and let the app optimize your training.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","glycine-supplementation-lifters-science",{"href":"/blog/glycine-supplementation-lifters-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Glycine Supplementation for Lifters: The Underrated Amino Acid"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":" glycine offers sleep, recovery, and tendon benefits. Here's what the science says about dosing and timing for strength athletes."}]]}],["$","$Ld","vitamin-d-muscle-building-strength-science",{"href":"/blog/vitamin-d-muscle-building-strength-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Vitamin D and Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent meta-analyses reveal nuanced benefits of vitamin D for strength athletes. Here's what the research says about supplementation, blood levels, and practical optimization."}]]}],["$","$Ld","astaxanthin-supplementation-athletes",{"href":"/blog/astaxanthin-supplementation-athletes","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Astaxanthin Supplementation for Athletes: The Science Behind the Pink Powerhouse"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"One of the most potent antioxidants ever studied could be the recovery tool your training needs. Here's what the science says about astaxanthin for athletes."}]]}],["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,21 @@
+{
+  "name": "Jacked - Gym Workout Logger & Hypertrophy Coach",
+  "short_name": "Jacked",
+  "description": "Gym workout logger and hypertrophy coach for iPhone with fast set logging, next-set targets, RIR-aware progression, rest timers, and workout import.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

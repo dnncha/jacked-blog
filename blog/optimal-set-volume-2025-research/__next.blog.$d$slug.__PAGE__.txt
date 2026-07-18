@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tadc,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/optimal-set-volume-2025-research#webpage","url":"https://jacked.coach/blog/optimal-set-volume-2025-research","name":"The 16 Sets Per Session Limit: New Research on Optimal Training Volume","description":"Recent 2025 research reveals a surprising ceiling for training volume per session—going beyond 16 sets may actually hinder muscle growth. Here's what the sci...","breadcrumb":{"@id":"https://jacked.coach/blog/optimal-set-volume-2025-research#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/optimal-set-volume-2025-research#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/optimal-set-volume-2025-research#webpage"},"headline":"The 16 Sets Per Session Limit: New Research on Optimal Training Volume","description":"Recent 2025 research reveals a surprising ceiling for training volume per session—going beyond 16 sets may actually hinder muscle growth. Here's what the sci...","isAccessibleForFree":true,"wordCount":816,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/optimal-set-volume-2025-research#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The 16 Sets Per Session Limit: New Research on Optimal Training Volume","item":"https://jacked.coach/blog/optimal-set-volume-2025-research"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The 16 Sets Per Session Limit: New Research on Optimal Training Volume"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Recent 2025 research reveals a surprising ceiling for training volume per session—going beyond 16 sets may actually hinder muscle growth. Here's what the science says."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%2016%20Sets%20Per%20Session%20Limit%3A%20New%20Research%20on%20Optimal%20Training%20Volume&url=https://jacked.coach/blog/optimal-set-volume-2025-research","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","understanding-training-volume-landmarks",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#understanding-training-volume-landmarks","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Understanding Training Volume Landmarks"}]}],["$","li","the-2025-research-more-isn-t-always-better",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-2025-research-more-isn-t-always-better","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The 2025 Research: More Isn't Always Better"}]}],["$","li","the-j-curve-volume-and-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-j-curve-volume-and-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The J-Curve: Volume and Muscle Growth"}]}],["$","li","why-this-matters-for-your-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-this-matters-for-your-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why This Matters for Your Training"}]}],["$","li","the-exception-trained-vs-untrained-individuals",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-exception-trained-vs-untrained-individuals","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Exception: Trained vs. Untrained Individuals"}]}],["$","li","balancing-weekly-volume",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#balancing-weekly-volume","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Balancing Weekly Volume"}]}],["$","li","conclusion",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#conclusion","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Conclusion"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T19c2,<p>For decades, the fitness industry has operated on a simple premise: more volume equals more muscle. Train more sets, work harder, grow bigger. But a wave of recent research is challenging this assumption, suggesting there may be a ceiling—and that ceiling might be lower than you think.</p>
+<p>A 2025 study published in <em>Frontiers in Sports and Active Living</em> found that <strong>training volume exceeding 16 sets per session could inversely affect hypertrophic gains</strong>, emphasizing the importance of moderating volume during high-intensity training phases [1].</p>
+<p>This challenges everything we thought we knew about volume and growth.</p>
+<h2 id="understanding-training-volume-landmarks">Understanding Training Volume Landmarks</h2>
+<p>Training volume is typically measured in three ways:</p>
+<ul>
+<li><strong>Total sets</strong> per muscle group per week</li>
+<li><strong>Total reps</strong> performed</li>
+<li><strong>Volume load</strong> (sets × reps × weight)</li>
+</ul>
+<p>The most practical metric for hypertrophy is total weekly sets per muscle group. Recent meta-analyses have established key volume landmarks:</p>
+<ul>
+<li><strong>Minimum effective dose</strong>: ~5-6 sets per muscle group per week [2]</li>
+<li><strong>Optimal range</strong>: 10-20 sets per muscle group per week</li>
+<li><strong>High volume</strong>: 20+ sets (where returns begin to diminish)</li>
+</ul>
+<p>But the new research suggests the <em>per-session</em> volume matters too—and there's a point where more becomes counterproductive.</p>
+<h2 id="the-2025-research-more-isn-t-always-better">The 2025 Research: More Isn't Always Better</h2>
+<p>The <em>Frontiers</em> study examined competitive physique athletes and found that <strong>exceeding 16 sets in a single session</strong> was associated with diminished hypertrophic returns. The researchers hypothesized several mechanisms:</p>
+<ol>
+<li><strong>Accumulated fatigue</strong>: High-volume sessions generate significant systemic fatigue that compromises recovery between sets</li>
+<li><strong>Diminishing motor unit recruitment</strong>: As fatigue accumulates, the quality of subsequent sets drops</li>
+<li><strong>Hormonal responses</strong>: Extremely high-volume training may trigger catabolic hormonal responses</li>
+<li><strong>Central nervous system exhaustion</strong>: CNS fatigue limits the body's ability to fully activate muscles</li>
+</ol>
+<p>This aligns with older research showing that performance metrics—force production, power output, and even muscle activation—decline significantly after 10-15 sets per muscle group in a single session [3].</p>
+<h2 id="the-j-curve-volume-and-muscle-growth">The J-Curve: Volume and Muscle Growth</h2>
+<p>The relationship between training volume and muscle growth follows a <strong>J-curve</strong>:</p>
+<ul>
+<li><strong>Low volume</strong> (1-5 sets): Minimal stimulus, minimal growth</li>
+<li><strong>Moderate volume</strong> (6-15 sets): Strong linear gains</li>
+<li><strong>High volume</strong> (16-20+ sets): Diminishing returns, potential stagnation</li>
+<li><strong>Extremely high volume</strong> (25+ sets): Possible overtraining, inverse effects</li>
+</ul>
+<p>The 2025 data suggests the "sweet spot" per session is <strong>10-16 sets</strong> for most trained individuals, with the upper limit being around 16 sets before performance and adaptation begin to suffer.</p>
+<h2 id="why-this-matters-for-your-training">Why This Matters for Your Training</h2>
+<p>If you've been grinding out 20+ sets per muscle group per session with diminishing results, this research offers a clear explanation—and solution.</p>
+<p><strong>Practical applications:</strong></p>
+<ol>
+<li><strong>Split your volume across sessions</strong>: Instead of 20 sets in one workout, do 10 sets twice</li>
+<li><strong>Prioritize quality over quantity</strong>: 12 hard sets beat 20 mediocre ones</li>
+<li><strong>Listen to performance</strong>: If your later sets are significantly weaker, you've likely exceeded your optimal volume</li>
+<li><strong>Periodize strategically</strong>: Use higher volume in accumulation phases, reduce during intensification</li>
+</ol>
+<h2 id="the-exception-trained-vs-untrained-individuals">The Exception: Trained vs. Untrained Individuals</h2>
+<p>It's worth noting that the 16-set ceiling appears to apply primarily to <strong>trained individuals</strong> with several years of lifting experience. Beginners and from higher intermediates may still benefit volumes because:</p>
+<ul>
+<li>Their bodies are adapting rapidly to any stimulus</li>
+<li>They've not yet hit their genetic ceiling</li>
+<li>Neurological adaptations dominate early growth</li>
+</ul>
+<p>For beginners, even 20+ sets per session often produces results. But as you advance, quality and intelligent volume management become increasingly critical.</p>
+<h2 id="balancing-weekly-volume">Balancing Weekly Volume</h2>
+<p>Here's how to apply this research while hitting your weekly volume targets:</p>
+<p>| Weekly Sets Goal | Per Session (3x/week) | Per Session (4x/week) |
+|-----------------|----------------------|----------------------|
+| 12 sets | 4 sets | 3 sets |
+| 16 sets | 5-6 sets | 4 sets |
+| 20 sets | 7 sets | 5 sets |</p>
+<p>If your goal is 20 weekly sets per muscle group, doing 10 sets twice daily or splitting across 4 sessions is more effective than crushing 20 sets in one workout.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The era of "more is better" is evolving. The 2025 research confirms what some experienced lifters have long suspected: there's a ceiling to what your body can productively handle in a single session.</p>
+<p><strong>Key takeaway</strong>: Aim for 10-16 sets per muscle group per session, split your weekly volume intelligently, and prioritize the quality of each set over sheer quantity. Your muscles will thank you.</p>
+<hr>
+<h2 id="references">References</h2>
+<p>[1] Frontiers in Sports and Active Living (2025). "Quantification of weekly strength-training volume per muscle group in competitive physique athletes." https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1536360</p>
+<p>[2] Krieger, J.W. (2010). "Single vs. multiple sets of resistance exercise for muscle hypertrophy: A meta-analysis." <em>Journal of Strength and Conditioning Research</em>.</p>
+<p>[3] Haff, G.G., et al. (2008). "Volume load and muscular fatigue during consecutive high-intensity resistance exercise bouts." <em>International Journal of Sports Medicine</em>.</p>
+<hr>
+<p><em>Track your set volume with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","supersets-hypertrophy-science-2026",{"href":"/blog/supersets-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Supersets for Hypertrophy: What the Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."}]]}],["$","$Ld","training-frequency-muscle-growth-2025",{"href":"/blog/training-frequency-muscle-growth-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Training Frequency: What the 2025 Research Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A new meta-analysis reveals surprising insights about how often you should train each muscle group for maximum growth—and it's not what most people think."}]]}],["$","$Ld","cold-water-immersion-muscle-growth-science-2026",{"href":"/blog/cold-water-immersion-muscle-growth-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."}]]}],["$","$Ld","fasted-vs-fed-training-muscle-growth-2026",{"href":"/blog/fasted-vs-fed-training-muscle-growth-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Fasted vs Fed Training: What the Science Actually Says About Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Does training fasted burn more fat or muscle? A 2025 meta-analysis reveals the surprising truth about fasted versus fed training for hypertrophy and performance."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taaa,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health#webpage","url":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health","name":"Urolithin A Supplementation for Muscle Health: The Mitophagy Story","description":"What the science actually says about urolithin A's effects on muscle strength, mitochondrial health, and whether it's worth your money.","breadcrumb":{"@id":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health#webpage"},"headline":"Urolithin A Supplementation for Muscle Health: The Mitophagy Story","description":"What the science actually says about urolithin A's effects on muscle strength, mitochondrial health, and whether it's worth your money.","isAccessibleForFree":true,"wordCount":1427,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Urolithin A Supplementation for Muscle Health: The Mitophagy Story","item":"https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Urolithin A Supplementation for Muscle Health: The Mitophagy Story"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"What the science actually says about urolithin A's effects on muscle strength, mitochondrial health, and whether it's worth your money."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[7," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Urolithin%20A%20Supplementation%20for%20Muscle%20Health%3A%20The%20Mitophagy%20Story&url=https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-urolithin-a",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-urolithin-a","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What is Urolithin A?"}]}],["$","li","the-science-of-mitophagy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-mitophagy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Mitophagy"}]}],["$","li","research-on-muscle-strength-and-performance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#research-on-muscle-strength-and-performance","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Research on Muscle Strength and Performance"}]}],["$","li","who-might-benefit",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-might-benefit","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Might Benefit"}]}],["$","li","practical-considerations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-considerations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Considerations"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T2925,<p>If you've been paying attention to the supplement industry lately, you've probably heard about urolithin A. It's being billed as something close to a miracle compound—a natural substance that can rejuvenate your mitochondria, fight aging, and potentially extend your physical prime. But what's the actual science behind the hype? And more importantly, should you actually spend your money on it?</p>
+<p>Let's break down what urolithin A is, how it works, and whether it deserves a place in your supplement stack.</p>
+<h2 id="what-is-urolithin-a">What is Urolithin A?</h2>
+<p>Urolithin A is a fascinating compound that sits somewhere between a supplement and a postbiotic. It's naturally found in foods like pomegranates, berries, and certain nuts—but here's the catch: you can't actually get therapeutic amounts from food alone.</p>
+<p>That's because urolithin A isn't directly present in these foods. Instead, it's produced when your gut bacteria metabolize compounds called ellagitannins, which are abundant in pomegranates and some berries. The process is complex, and here's the kicker: only about 10% of the Western population actually produces significant amounts of urolithin A endogenously.</p>
+<p>This means that for roughly 90% of people, urolithin A supplementation is literally the only way to get meaningful amounts of this compound. If you've ever eaten a pomegranate and wondered why you didn't feel any different, now you know why.</p>
+<h2 id="the-science-of-mitophagy">The Science of Mitophagy</h2>
+<p>To understand why urolithin A has generated so much excitement, you need to understand mitophagy. Don't worry—we'll keep it simple.</p>
+<p>Your muscle cells are packed with mitochondria—the powerhouses that generate ATP, the energy currency your body uses for everything from heavy squats to walking to the fridge. But here's the problem: mitochondria aren't immortal. Over time, they become damaged, dysfunctional, and less efficient at producing energy.</p>
+<p>This is especially true as you age. Older mitochondria accumulate, creating a backlog of cellular "dead weight" that not only produces less energy but also generates more oxidative stress and inflammation. It's one of the reasons we experience age-related declines in strength, endurance, and recovery.</p>
+<p>Mitophagy is your body's way of cleaning house. It's a specific type of autophagy—the cellular recycling process that breaks down damaged components and repurposes their building blocks. When mitophagy works properly, your cells identify old or damaged mitochondria and mark them for destruction. The cell then recycles the raw materials to build fresh, healthy mitochondria.</p>
+<img src="https://mermaid.ink/img/Zmxvd2NoYXJ0IFRECiAgICBBW0RhbWFnZWQgTWl0b2Nob25kcmlhXSAtLT4gQltNYXJrZWQgZm9yIERlc3RydWN0aW9uXQogICAgQiAtLT4gQ1tBdXRvcGhhZ3kgUGF0aHdheV0KICAgIEMgLS0-IERbUmVjeWNsZWQgQ29tcG9uZW50c10KICAgIEQgLS0-IEVbTmV3IEhlYWx0aHkgTWl0b2Nob25kcmlhXQogICAgCiAgICBGW1Vyb2xpdGhpbiBBXSAtLT58QWN0aXZhdGVzfCBDCiAgICAKICAgIEdbTXVzY2xlIENlbGxzXSAtLT58TmVlZHwgRQogICAgCiAgICBzdHlsZSBBIGZpbGw6I2Y5OSxzdHJva2U6IzMzMwogICAgc3R5bGUgRSBmaWxsOiM5Zjksc3Ryb2tlOiMzMzMKICAgIHN0eWxlIEYgZmlsbDojYmJmLHN0cm9rZTojMzMz" alt="Training concept diagram for this article" class="mermaid-diagram" loading="lazy" />
+<p>This is where urolithin A comes in. Research has shown that urolithin A can activate the mitophagy pathway, essentially giving your cellular cleanup crew a much-needed boost. The science is compelling: in animal studies, urolithin A has been shown to improve mitochondrial function, increase muscle strength, and extend lifespan.</p>
+<p>But here's what makes this particularly relevant for muscle health: muscle cells have some of the highest energy demands in your body. They need tons of functional mitochondria to perform at their best. When mitophagy is impaired, your muscles don't just feel tired—they actually become less capable of producing force, recovering efficiently, and adapting to training stress.</p>
+<h2 id="research-on-muscle-strength-and-performance">Research on Muscle Strength and Performance</h2>
+<p>Now for the million-dollar question: does urolithin A actually improve muscle strength and performance in humans?</p>
+<p>The most frequently cited study is a 2019 trial published in Nature Medicine. Researchers gave 90 older adults (ages 40 to 80) either urolithin A or a placebo for four months. The results were encouraging: participants taking urolithin A showed improved muscle strength and reduced biomarkers of inflammation compared to the placebo group.</p>
+<p>But before you rush to buy stock in urolithin A, let's look at what the study actually measured. The primary outcomes were grip strength and something called the "6-minute walk test"—a measure of functional capacity, not necessarily maximal strength or athletic performance. The improvements were statistically significant but modest, and the study population was older adults, not young athletes.</p>
+<p>Follow-up studies have looked at mitochondrial function directly, showing that urolithin A can improve markers of mitochondrial health. However, the evidence for dramatic performance enhancements in healthy, young, training individuals is essentially nonexistent.</p>
+<p>This is a crucial distinction. The research suggests urolithin A might help restore mitochondrial function in people who have already experienced age-related decline. It might help older adults maintain muscle mass and strength. But there's no evidence it will take an already-healthy 25-year-old athlete and make them significantly stronger or faster.</p>
+<p>The science is promising, but it's not a magic pill for performance. It's a compound that addresses a specific biological mechanism—mitochondrial quality control—that becomes more relevant with age.</p>
+<h2 id="who-might-benefit">Who Might Benefit</h2>
+<p>Given the current evidence, urolithin A supplementation makes the most sense for specific populations:</p>
+<p><strong>Older adults (40+) experiencing declining mitochondrial function.</strong> This is where the evidence is strongest. If you're noticing that recovery takes longer, strength gains have stalled, and you just don't feel as energetic as you used to, urolithin A might help address the underlying mitochondrial component of that decline.</p>
+<p><strong>People with poor gut health who can't produce urolithin A endogenously.</strong> Remember that only about 10% of people produce significant amounts naturally. If you have gut issues, have taken lots of antibiotics, or have digestive problems that might affect your microbiome, you might be in the 90% who can't make their own.</p>
+<p><strong>Those looking for anti-aging and longevity benefits.</strong> The mitophagy mechanism is genuinely exciting from a longevity perspective. While the performance benefits for young athletes are unproven, the cellular health implications are theoretically compelling.</p>
+<p><strong>What about young, healthy athletes?</strong> Here's where I'd be cautious. If you're 25, training regularly, sleeping enough, and eating well, your mitochondria are probably functioning just fine. The evidence doesn't support urolithin A as a performance enhancer for this population. Your money is likely better spent on proven supplements like creatine, protein, or beta-alanine.</p>
+<h2 id="practical-considerations">Practical Considerations</h2>
+<p>If you've decided urolithin A might be worth trying, here's what you need to know:</p>
+<p><strong>Dosage:</strong> The standard dose used in research is 500mg to 1000mg daily. Most supplements on the market offer 500mg or 500mg capsules, so one to two capsules per day is typical.</p>
+<p><strong>Timing:</strong> There's no specific optimal time, but taking it with a meal might improve absorption. More importantly, consistency matters. Urolithin A works by supporting an ongoing biological process—you're not going to feel different after one dose. Give it at least 4-6 weeks before evaluating effects.</p>
+<p><strong>Cost:</strong> Let's be honest: urolithin A supplements aren't cheap. Monthly supplies typically run $30-60+, depending on the brand and dosage. This is significantly more expensive than basic supplements like creatine or protein powder. You need to decide if the potential benefits justify the cost for your specific situation.</p>
+<p><strong>Quality and sourcing:</strong> Not all urolithin A supplements are created equal. Look for products that specify urolithin A specifically—not just "pomegranate extract" or "ellagitannins." The conversion from food sources to actual urolithin A is unreliable, so you want a supplement that delivers the actual compound in meaningful doses.</p>
+<p><strong>The bottom line on consistency:</strong> This isn't a supplement you take before a workout. It's a daily commitment to supporting cellular health over time. If you're looking for immediate performance effects, look elsewhere.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Urolithin A is one of the more scientifically grounded newer supplements to hit the market. The mitophagy mechanism is real, the research in older adults is promising, and the compound appears safe at recommended doses.</p>
+<p>However, it's not magic. It's not going to transform your physique or break your personal records. It's a targeted intervention for a specific biological process that becomes more relevant as you age.</p>
+<p><strong>Should you take it?</strong> If you're over 40, experiencing the effects of mitochondrial decline, and have the budget for it—probably yes. If you're a young athlete looking for a competitive edge—probably no. Your money is better spent on the fundamentals: adequate protein, sufficient sleep, proper training, and proven supplements like creatine.</p>
+<p><strong>The cost-benefit analysis</strong> matters here. Urolithin A costs significantly more than most supplements with far less proven benefit for performance. Until we see more research in younger, athletic populations, it makes most sense as part of a broader longevity-focused approach for older adults.</p>
+<p>As always, talk to a healthcare provider before starting any new supplement regimen—especially if you have underlying health conditions or are taking medications.</p>
+<p>The science on urolithin A will continue evolving. For now, manage your expectations, understand who it's really for, and don't expect miracles.</p>
+<hr>
+<p><em>Track your urolithin A with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","gym-gloves-vs-bare-hand-forearm-science",{"href":"/blog/gym-gloves-vs-bare-hand-forearm-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Gym Gloves vs Bare Hands: What the Science Says About Grip and Forearm Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Do lifting gloves help or hinder your forearm development? The science reveals surprising answers about grip strength, muscle activation, and what actually works."}]]}],["$","$Ld","vitamin-d-muscle-building-strength-science",{"href":"/blog/vitamin-d-muscle-building-strength-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Vitamin D and Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent meta-analyses reveal nuanced benefits of vitamin D for strength athletes. Here's what the research says about supplementation, blood levels, and practical optimization."}]]}],["$","$Ld","betaine-supplementation-strength-power-science",{"href":"/blog/betaine-supplementation-strength-power-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Betaine Supplementation: The Underrated Muscle Builder?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Betaine (trimethylglycine) is gaining attention as a performance supplement. Here's what the science says about strength, power, and muscle growth."}]]}],["$","$Ld","blood-glucose-monitoring-lifters-cgm-muscle-building",{"href":"/blog/blood-glucose-monitoring-lifters-cgm-muscle-building","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Blood Glucose Monitoring for Lifters: A Science-Based Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"How continuous glucose monitors can optimize your training nutrition, recovery, and performance — and what the research actually says about their value for strength athletes."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

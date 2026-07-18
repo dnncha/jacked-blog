@@ -1,0 +1,211 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb04,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/circadian-training-timing-muscle-growth#webpage","url":"https://jacked.coach/blog/circadian-training-timing-muscle-growth","name":"Training at Night vs Morning: Circadian Rhythm Impact on Muscle Growth","description":"Does it matter when you lift? New research reveals how your circadian rhythm affects testosterone, strength, and muscle protein synthesis throughout the day.","breadcrumb":{"@id":"https://jacked.coach/blog/circadian-training-timing-muscle-growth#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/circadian-training-timing-muscle-growth#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/circadian-training-timing-muscle-growth#webpage"},"headline":"Training at Night vs Morning: Circadian Rhythm Impact on Muscle Growth","description":"Does it matter when you lift? New research reveals how your circadian rhythm affects testosterone, strength, and muscle protein synthesis throughout the day.","isAccessibleForFree":true,"wordCount":1139,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/circadian-training-timing-muscle-growth#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Training at Night vs Morning: Circadian Rhythm Impact on Muscle Growth","item":"https://jacked.coach/blog/circadian-training-timing-muscle-growth"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Training at Night vs Morning: Circadian Rhythm Impact on Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Does it matter when you lift? New research reveals how your circadian rhythm affects testosterone, strength, and muscle protein synthesis throughout the day."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[6," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Training%20at%20Night%20vs%20Morning%3A%20Circadian%20Rhythm%20Impact%20on%20Muscle%20Growth&url=https://jacked.coach/blog/circadian-training-timing-muscle-growth","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","understanding-your-circadian-rhythm",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#understanding-your-circadian-rhythm","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Understanding Your Circadian Rhythm"}]}],["$","li","testosterone-the-morning-advantage",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#testosterone-the-morning-advantage","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Testosterone: The Morning Advantage"}]}],["$","li","strength-performance-the-afternoon-peak",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#strength-performance-the-afternoon-peak","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Strength Performance: The Afternoon Peak"}]}],["$","li","muscle-protein-synthesis-the-training-effect",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#muscle-protein-synthesis-the-training-effect","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Muscle Protein Synthesis: The Training Effect"}]}],["$","li","the-real-world-factors-that-matter-more",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-real-world-factors-that-matter-more","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Real-World Factors That Matter More"}]}],["$","li","practical-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Recommendations"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T2156,<p>The question of morning versus night training has sparked debates in gym communities for decades. Conventional wisdom says consistency matters more than timing, but emerging circadian biology research tells a more nuanced story. Your body's molecular machinery operates on a 24-hour clock, and that clock dramatically influences your capacity to build muscle.</p>
+<h2 id="understanding-your-circadian-rhythm">Understanding Your Circadian Rhythm</h2>
+<p>Your circadian rhythm is a master biological clock located in the hypothalamus that regulates nearly every physiological process, from hormone release to body temperature to sleep-wake cycles. This clock doesn't just make you feel sleepy at night—it coordinates the timing of anabolic hormones, nutrient metabolism, and cellular repair mechanisms crucial for muscle growth.</p>
+<p>The suprachiasmatic nucleus (SCN) receives light signals and synchronizes peripheral clocks in your muscles, liver, and other tissues. These peripheral clocks determine when your muscles are most receptive to training stimuli and nutrients. What this means: your body has optimal windows for muscle building, and those windows aren't the same at 6 AM versus 6 PM.</p>
+<h2 id="testosterone-the-morning-advantage">Testosterone: The Morning Advantage</h2>
+<p>Testosterone—the primary anabolic hormone for muscle protein synthesis—follows a robust circadian pattern. Levels peak in the early morning, typically between 6 AM and 10 AM, and reach their lowest point in the evening, around 8 PM to 10 PM. This isn't a small difference: research published in the <em>Journal of Clinical Endocrinology and Metabolism</em> shows morning testosterone levels can be 15-25% higher than evening levels.</p>
+<p>For decades, this morning testosterone peak has been cited as evidence that early training is optimal. And while testosterone certainly matters for muscle growth, its direct correlation with training timing isn't as straightforward as it once seemed. The practical impact of this hormonal variation on actual muscle gains appears smaller than the absolute numbers suggest. Your body adapts to training at consistent times, and the total weekly testosterone exposure matters more than the timing of any single session.</p>
+<h2 id="strength-performance-the-afternoon-peak">Strength Performance: The Afternoon Peak</h2>
+<p>If morning has the hormonal advantage, afternoon and early evening dominate in neuromuscular performance. Research consistently shows that peak strength, power, and force production occur in the late afternoon, typically between 4 PM and 8 PM. A comprehensive review in the <em>British Journal of Sports Medicine</em> found that grip strength, jumping performance, and maximal voluntary contraction all peak approximately 8-10 hours after waking.</p>
+<p>Several factors drive this afternoon performance peak:</p>
+<p><strong>Body temperature</strong> reaches its highest point in the late afternoon. Warmer muscles contract more efficiently, produce more force, and have lower injury risk. Your core temperature is roughly 0.5-1°C higher at 6 PM compared to 6 AM, creating optimal conditions for muscle contraction and flexibility.</p>
+<p><strong>Neural drive</strong>—the ability to recruit maximum motor units—also follows a circadian pattern. Reaction time, voluntary activation, and neuromuscular coordination all peak in the afternoon when your central nervous system is most alert.</p>
+<p><strong>Cortisol</strong>, while often villainized, follows a normal morning peak that decreases throughout the day. Lower evening cortisol means less catabolic pressure and potentially better recovery capacity post-training.</p>
+<h2 id="muscle-protein-synthesis-the-training-effect">Muscle Protein Synthesis: The Training Effect</h2>
+<p>Here's where timing gets genuinely interesting: muscle protein synthesis (MPS) responds to resistance training regardless of when you train, but the molecular signaling environment differs by time of day.</p>
+<p>Research from the University of Copenhagen demonstrates that resistance exercise robustly stimulates MPS at any time, but the underlying signaling pathways show time-dependent variations. The mTOR pathway—your primary anabolic switch—responds differently to training stimuli depending on your circadian phase. Evening training may actually produce a slightly more prolonged MPS response due to reduced baseline mTOR activity at that time.</p>
+<p>However, the practical reality is this: the difference in MPS between morning and evening training is negligible compared to factors like total protein intake, training volume, and progressive overload. If you're currently training consistently at one time, the last thing you should do is disrupt that consistency to chase a theoretical optimal window.</p>
+<h2 id="the-real-world-factors-that-matter-more">The Real-World Factors That Matter More</h2>
+<p>Before you dramatically restructure your schedule around this research, consider what actually drives muscle growth:</p>
+<p><strong>Consistency beats optimization.</strong> The best training schedule is the one you can stick to. If morning workouts fit your life, do them. If evenings work better, train then. Switching from a comfortable 6 PM session to a dreaded 6 AM workout because of circadian research is almost guaranteed to reduce your long-term results through decreased adherence.</p>
+<p><strong>Sleep quality matters more.</strong> Your circadian alignment only helps if you're sleeping adequately. Research shows that sleep deprivation—not training timing—is the real muscle-building killer. One week of sleeping 5 hours per night reduces muscle protein synthesis by 18% while increasing muscle protein breakdown. No amount of perfect timing compensates for poor sleep.</p>
+<p><strong>Nutrient timing within the day matters.</strong> What you eat matters far more than when you eat it relative to training. Aim for 1.6-2.2g of protein per kg of body weight daily, distributed across 3-4 meals. This matters far more than your pre-workout meal timing.</p>
+<p><strong>Training frequency and volume win.</strong> Three or four solid weekly sessions will always outperform one "optimally timed" session. The frequency effect—hitting each muscle group 2-3 times weekly—provides more total growth stimulus than any circadian manipulation.</p>
+<h2 id="practical-recommendations">Practical Recommendations</h2>
+<p>Based on the current evidence, here's how to think about training timing:</p>
+<ol>
+<li>
+<p><strong>Train when you can be consistent.</strong> Schedule beats science every time. If 5 AM works for your life, own it.</p>
+</li>
+<li>
+<p><strong>Consider evening training for maximal strength.</strong> If your goal is peak strength or power, afternoon and early evening sessions offer modest but real performance advantages.</p>
+</li>
+<li>
+<p><strong>Don't train exhausted.</strong> Your circadian rhythm creates natural energy peaks and valleys. Avoid training when you're genuinely tired, regardless of the clock.</p>
+</li>
+<li>
+<p><strong>Align your schedule if possible.</strong> If you have flexibility, training in the late afternoon (4-7 PM) offers the best combination of strength performance and reasonable testosterone levels.</p>
+</li>
+<li>
+<p><strong>Watch the weekend shift.</strong> If you train consistently during the week at one time but shift drastically on weekends, your body never fully adapts. Keep weekend sessions within 2-3 hours of your weekday timing.</p>
+</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The circadian rhythm absolutely influences your training capacity, but the effect size is smaller than most gym bro theories would have you believe. Your morning testosterone is higher, your afternoon strength is greater, and your evening recovery capacity is enhanced—but none of these differences are large enough to overcome the power of consistent, well-programmed training.</p>
+<p>The athlete who trains consistently at 6 PM will always outperform the one who randomly trains at "optimal" times but does so infrequently. Focus on the big rocks—protein intake, training volume, progressive overload, sleep quality—and let training timing be whatever fits your life.</p>
+<hr>
+<p><strong>Key Takeaway:</strong> Train when you'll actually train. The consistency and quality of your sessions matter infinitely more than whether those sessions happen at 6 AM or 6 PM.</p>
+<hr>
+<p><em>Let Jacked optimize your training schedule. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","circadian-rhythm-training-time-muscle-growth",{"href":"/blog/circadian-rhythm-training-time-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Time of Day: How Circadian Rhythms Affect Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science reveals your body's internal clock significantly impacts strength, muscle protein synthesis, and training adaptations. Here's how to optimize your workout timing."}]]}],["$","$Ld","protein-quality-pdcaas-diaas-muscle-growth",{"href":"/blog/protein-quality-pdcaas-diaas-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Protein Quality: Why Your Body Doesn't Care About the Label"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that protein quality—measured by PDCAAS and DIAAS scores—may matter more than total intake for muscle growth. Here's what the science says."}]]}],["$","$Ld","gut-muscle-axis-microbiome-muscle-building",{"href":"/blog/gut-muscle-axis-microbiome-muscle-building","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Gut-Muscle Axis: How Your Microbiome Affects Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Emerging research reveals a powerful connection between your gut microbiome and muscle protein synthesis. Here's what lifters need to know."}]]}],["$","$Ld","lean-pork-muscle-protein-synthesis-2025",{"href":"/blog/lean-pork-muscle-protein-synthesis-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lean Pork Discovery: How Meat Type Affects Post-Workout Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that lean pork stimulates greater muscle protein synthesis than high-fat pork after weight training—challenging previous assumptions about dietary fat and hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

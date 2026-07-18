@@ -1,0 +1,227 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta4e,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/train-through-soreness-vs-rest#webpage","url":"https://jacked.coach/blog/train-through-soreness-vs-rest","name":"When to Train Through Muscle Soreness vs. When to Rest","description":"Learn to distinguish between productive muscle soreness and warning signs of injury, plus practical strategies for training smart.","breadcrumb":{"@id":"https://jacked.coach/blog/train-through-soreness-vs-rest#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/train-through-soreness-vs-rest#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/train-through-soreness-vs-rest#webpage"},"headline":"When to Train Through Muscle Soreness vs. When to Rest","description":"Learn to distinguish between productive muscle soreness and warning signs of injury, plus practical strategies for training smart.","isAccessibleForFree":true,"wordCount":805,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Rest Time Calculator","url":"https://jacked.coach/tools/rest-time-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/train-through-soreness-vs-rest#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"When to Train Through Muscle Soreness vs. When to Rest","item":"https://jacked.coach/blog/train-through-soreness-vs-rest"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"When to Train Through Muscle Soreness vs. When to Rest"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Learn to distinguish between productive muscle soreness and warning signs of injury, plus practical strategies for training smart."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=When%20to%20Train%20Through%20Muscle%20Soreness%20vs.%20When%20to%20Rest&url=https://jacked.coach/blog/train-through-soreness-vs-rest","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","rest-time-calculator",{"href":"/tools/rest-time-calculator","data-related-tool":"rest-time-calculator","children":"Rest Time Calculator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-actually-causes-muscle-soreness",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-actually-causes-muscle-soreness","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Actually Causes Muscle Soreness"}]}],["$","li","when-it-s-ok-to-train-through-soreness",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-it-s-ok-to-train-through-soreness","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When It's OK to Train Through Soreness"}]}],["$","li","when-you-need-to-rest-injury-warning-signs",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#when-you-need-to-rest-injury-warning-signs","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"When You NEED to Rest (Injury Warning Signs)"}]}],["$","li","how-to-train-smart-when-sore",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#how-to-train-smart-when-sore","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"How to Train Smart When Sore"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T16ef,<p>Walking Funny after leg day? Your chest feels like it's been punched? Welcome to delayed onset muscle soreness (DOMS) — every lifter's favorite party favor. But here's the question that actually matters: should you train through it or take the day off?</p>
+<p>The answer isn't "always push" or "always rest." It's about knowing the difference between soreness that's a sign of growth and soreness that's a warning sign of injury.</p>
+<h2 id="what-actually-causes-muscle-soreness">What Actually Causes Muscle Soreness</h2>
+<p>DOMS typically kicks in 24-72 hours after challenging training. That achy, stiff feeling is your muscles responding to:</p>
+<ul>
+<li><strong>Mechanical damage</strong> — microscopic tears in muscle fibers (this sounds bad but it's part of the growth process)</li>
+<li><strong>Inflammation</strong> — your immune system sending repair crews to the damage site</li>
+<li><strong>Metabolic stress</strong> — the buildup of byproducts from intense muscle contractions</li>
+</ul>
+<p>Here's the part most people miss: <strong>soreness is NOT a reliable indicator of muscle growth or workout quality.</strong> You can have devastating workouts with minimal soreness, and conversely, you can be incredibly sore from a workout that wasn't even that hard if you're detrained. The relationship is weak at best.</p>
+<h2 id="when-it-s-ok-to-train-through-soreness">When It's OK to Train Through Soreness</h2>
+<p>Research actually shows that mild to moderate soreness doesn't worsen with continued exercise. A 2022 review in the <em>Journal of Sports Science and Medicine</em> concluded that training with sore muscles doesn't impair muscle growth or increase injury risk — provided you're not dealing with actual tissue damage.</p>
+<p><strong>Go ahead and train if:</strong></p>
+<ol>
+<li><strong>The soreness is diffuse</strong> — spread across the entire muscle rather than sharp in one spot</li>
+<li><strong>It improves with movement</strong> — yes, it might be stiff at first, but warms up as you move</li>
+<li><strong>You can maintain good form</strong> — this is non-negotiable. If soreness compromises your technique, especially on compound lifts, sit out</li>
+<li><strong>It's mild to moderate</strong> — think 3-4 out of 10 on the pain scale, not 7-8</li>
+<li><strong>You trained that muscle 48-72 hours ago</strong> — if you're still severely sore a week later, something's wrong</li>
+</ol>
+<p><strong>Practical strategy:</strong> Train other muscle groups or do lighter work. If your legs are destroyed, hit upper body. If your whole body is sore, go for a walk, stretch, or do active recovery. You're not losing gains — you're managing the stimulus intelligently.</p>
+<h2 id="when-you-need-to-rest-injury-warning-signs">When You NEED to Rest (Injury Warning Signs)</h2>
+<p>This is where most people get it wrong. Soreness and injury pain feel different — you just have to know what to look for.</p>
+<p><strong>Stop training immediately if:</strong></p>
+<ol>
+<li><strong>Sharp, stabbing pain</strong> — DOMS is achy and dull. Sharp, localized pain means something is damaged</li>
+<li><strong>Joint pain</strong> — muscle soreness hurts the muscle. Joint pain (knees, shoulders, elbows) is a warning sign</li>
+<li><strong>Swelling or bruising</strong> — visible swelling or discoloration suggests actual tissue damage</li>
+<li><strong>Loss of range of motion</strong> — if you can't straighten your arm or walk normally, that's not DOMS</li>
+<li><strong>Pain that gets WORSE during exercise</strong> — DOMS tends to feel better as you warm up. Injury pain often worsens</li>
+<li><strong>Numbness or tingling</strong> — this could indicate nerve involvement, not muscle soreness</li>
+<li><strong>Symptoms beyond 7-10 days</strong> — genuine DOMS should resolve within a week. Persistent pain needs professional assessment</li>
+</ol>
+<h2 id="how-to-train-smart-when-sore">How to Train Smart When Sore</h2>
+<p><strong>Adjust volume, not intensity:</strong></p>
+<ul>
+<li>Drop the weight by 10-20% if needed</li>
+<li>Reduce sets rather than going lighter on every set</li>
+<li>Focus on the pump — volume with moderate weight often feels better when sore than grinding heavy singles</li>
+</ul>
+<p><strong>Use blood flow to your advantage:</strong></p>
+<ul>
+<li>A warm-up with lighter weights increases blood flow and can temporarily relieve soreness</li>
+<li>Light cardio between sets helps manage the "stuck" feeling</li>
+</ul>
+<p><strong>Prioritize recovery modalities:</strong></p>
+<ul>
+<li>Active recovery (walking, swimming, light cycling) promotes blood flow without adding stress</li>
+<li>Sleep and nutrition matter more when you're in a sore state — your body is repairing</li>
+</ul>
+<p><strong>Listen to the "two-day rule":</strong></p>
+<p>If you're still severely sore after 48 hours, your training may have been too intense. Consider deloading the next week. Consistent severe DOMS is a sign of overreaching, not hard work.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Train smart, not just hard. Soreness is information — use it. Diffuse, mild soreness that improves with movement? Get in the gym. Sharp, localized pain that worsens with exercise? That's your body's way of saying "please stop."</p>
+<p>The goal is long-term progression, not one-day heroics. Learn to read your body, adjust intelligently, and you'll keep making gains while staying injury-free.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Stronger By Science: Muscle and Strength Gain Myths</li>
+<li>Journal of Sports Science and Medicine: Effects of Exercise-Induced Muscle Damage</li>
+<li>Houston Methodist: Should You Work Out When Sore or in Pain?</li>
+<li>PubMed: Energy deficiency impairs resistance training gains in lean mass</li>
+</ul>
+<hr>
+<p><em>Track your soreness with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-around-injuries-keep-gains-banged-up",{"href":"/blog/training-around-injuries-keep-gains-banged-up","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training Around Injuries: How to Keep Making Gains When You're Banged Up"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Injuries don't have to derail your progress. Learn the science of training smart around common injuries and maintain muscle even when you can't train normally."}]]}],["$","$Ld","muscle-glycogen-supercompensation-carb-loading",{"href":"/blog/muscle-glycogen-supercompensation-carb-loading","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Glycogen Supercompensation: The Science of Carb Loading for Lifters"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Learn how to optimize your muscle glycogen stores through strategic carbohydrate loading, and why it matters for strength training performance and recovery."}]]}],["$","$Ld","myo-reps-rest-pause-training-efficiency",{"href":"/blog/myo-reps-rest-pause-training-efficiency","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Myo Reps & Rest-Pause Training: The Science of Efficient Hypertrophy"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Discover how Myo-reps and rest-pause training can help you build muscle in less time, backed by peer-reviewed research and practical application guidelines."}]]}],["$","$Ld","tart-cherry-juice-precovery-science",{"href":"/blog/tart-cherry-juice-precovery-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Tart Cherry Juice: The Precovery Drink Science Says You Need"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Forget recovery—tart cherry juice works best when you drink it BEFORE training. New research reveals the optimal timing strategy for reducing soreness and accelerating muscle recovery."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

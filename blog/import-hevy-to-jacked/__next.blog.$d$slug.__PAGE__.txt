@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tace,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/import-hevy-to-jacked#webpage","url":"https://jacked.coach/blog/import-hevy-to-jacked","name":"Import Hevy to Jacked: Move Your Workout History Without Starting Over","description":"A practical Hevy to Jacked migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training.","breadcrumb":{"@id":"https://jacked.coach/blog/import-hevy-to-jacked#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/import-hevy-to-jacked#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/import-hevy-to-jacked#webpage"},"headline":"Import Hevy to Jacked: Move Your Workout History Without Starting Over","description":"A practical Hevy to Jacked migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training.","datePublished":"2026-05-17","dateModified":"2026-05-17","isAccessibleForFree":true,"wordCount":590,"articleSection":"Workout Apps","about":["hypertrophy training","progressive overload","workout tracking","Workout Apps"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Hevy Import Checker","url":"https://jacked.coach/tools/hevy-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Strong CSV Import Checker","url":"https://jacked.coach/tools/strong-csv-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout CSV Validator","url":"https://jacked.coach/tools/workout-csv-validator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/import-hevy-to-jacked#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Import Hevy to Jacked: Move Your Workout History Without Starting Over","item":"https://jacked.coach/blog/import-hevy-to-jacked"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Workout Apps"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Import Hevy to Jacked: Move Your Workout History Without Starting Over"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"A practical Hevy to Jacked migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Workout Apps"}],["$","span",null,{"children":["Published ","May 17, 2026"]}],["$","span",null,{"children":[3," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Import%20Hevy%20to%20Jacked%3A%20Move%20Your%20Workout%20History%20Without%20Starting%20Over&url=https://jacked.coach/blog/import-hevy-to-jacked","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","hevy-import-checker",{"href":"/tools/hevy-import-checker","data-related-tool":"hevy-import-checker","children":"Hevy Import Checker"}],["$","$Ld","strong-csv-import-checker",{"href":"/tools/strong-csv-import-checker","data-related-tool":"strong-csv-import-checker","children":"Strong CSV Import Checker"}],["$","$Ld","workout-csv-validator",{"href":"/tools/workout-csv-validator","data-related-tool":"workout-csv-validator","children":"Workout CSV Validator"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","quick-checklist",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#quick-checklist","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Quick Checklist"}]}],["$","li","what-should-carry-over",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-should-carry-over","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Should Carry Over"}]}],["$","li","why-exercise-matching-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-exercise-matching-matters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Exercise Matching Matters"}]}],["$","li","use-the-import-checker-first",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#use-the-import-checker-first","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Use the Import Checker First"}]}],["$","li","what-to-verify-inside-jacked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-to-verify-inside-jacked","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What to Verify Inside Jacked"}]}],["$","li","why-this-matters-for-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-this-matters-for-hypertrophy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why This Matters for Hypertrophy"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom Line"}]}]]}]]}]
+e:T1023,<p>Leaving a workout app should not erase your training context.</p>
+<p>If you have used Hevy for months or years, the important asset is not the app account. It is the log: exercises, loads, reps, set types, notes, routines, bodyweight, and the recent trend that tells you what to do next.</p>
+<p>Jacked is built around that next decision. The import has to make old history useful inside the workout, not just visible in a static archive.</p>
+<p>If you are moving from Hevy while also comparing <a href="/blog/alternatives-to-rp-hypertrophy-app">alternatives to RP Hypertrophy App</a>, import quality matters because old performance data is what makes progression guidance useful on day one.</p>
+<h2 id="quick-checklist">Quick Checklist</h2>
+<p>Before you import:</p>
+<ul>
+<li>Export your Hevy workout data.</li>
+<li>Keep the original export unchanged.</li>
+<li>Preview the file with the <a href="/tools/hevy-import-checker">Hevy Import Checker</a>.</li>
+<li>Check workout count, set count, exercise count, and measurement-like fields.</li>
+<li>Review custom exercises and unusual set types.</li>
+<li>Import into Jacked.</li>
+<li>Open your recent main lifts before training.</li>
+</ul>
+<p>If the preview looks wrong, do not delete or edit the original file. Work from a duplicate.</p>
+<h2 id="what-should-carry-over">What Should Carry Over</h2>
+<p>A useful Hevy migration should preserve the training details you will need during the next session:</p>
+<ul>
+<li>Workout dates</li>
+<li>Workout names</li>
+<li>Exercise names</li>
+<li>Sets, reps, and load</li>
+<li>Notes</li>
+<li>Warmup, drop, failure, or technique labels where supported</li>
+<li>Bodyweight or measurement rows where available</li>
+<li>Routines or repeatable training structure where the app supports them</li>
+</ul>
+<p>The goal is simple: when you open a lift in Jacked, your recent work should help set the next target.</p>
+<h2 id="why-exercise-matching-matters">Why Exercise Matching Matters</h2>
+<p>Exercise names are the easiest place to damage a migration.</p>
+<p>If one app uses "DB Incline Bench" and another uses "Incline Dumbbell Press", the import flow has to map those to one exercise. If it does not, your history splits across duplicates and your progress view becomes less useful.</p>
+<p>After import, check these first:</p>
+<ol>
+<li>Bench press or your main press.</li>
+<li>Squat or your main quad lift.</li>
+<li>Deadlift, RDL, or your main hinge.</li>
+<li>Main row or pulldown.</li>
+<li>Any custom exercise you use every week.</li>
+</ol>
+<h2 id="use-the-import-checker-first">Use the Import Checker First</h2>
+<p>The <a href="/tools/hevy-import-checker">Hevy Import Checker</a> runs in your browser. It gives a quick preview of what the export appears to contain:</p>
+<ul>
+<li>Workouts found</li>
+<li>Sets found</li>
+<li>Exercises found</li>
+<li>Measurement-like rows found</li>
+<li>Likely match confidence</li>
+</ul>
+<p>That does not replace the app import. It prevents blind switching.</p>
+<h2 id="what-to-verify-inside-jacked">What to Verify Inside Jacked</h2>
+<p>After import, do a short audit before your next workout:</p>
+<ul>
+<li>Open the most recent workout and compare it to Hevy.</li>
+<li>Check one older workout from at least a month ago.</li>
+<li>Open your main lift history and confirm the trend makes sense.</li>
+<li>Check whether notes stayed attached to the right exercise or set.</li>
+<li>Start with conservative targets until you trust the imported history.</li>
+</ul>
+<p>This takes five minutes. It can save weeks of bad progression data.</p>
+<h2 id="why-this-matters-for-hypertrophy">Why This Matters for Hypertrophy</h2>
+<p>Hypertrophy training depends on repeated signals.</p>
+<p>One set is not enough. You need to know whether load, reps, effort, rest, and weekly volume are moving in the right direction. A clean import lets Jacked use old sessions as training context instead of forcing you to rebuild from memory.</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Export first. Preview second. Import third. Verify before training.</p>
+<p>You used Hevy to collect the data. Jacked should turn that data into your next set.</p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","strong-to-jacked-import-guide",{"href":"/blog/strong-to-jacked-import-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Strong to Jacked Import Guide: Check Your CSV Before Switching Apps"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Move Strong workout history into Jacked without losing the context that drives progression: dates, exercises, sets, reps, weights, notes, and effort."}]]}],["$","$Ld","hevy-import-guide",{"href":"/blog/hevy-import-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hevy Import Guide: How to Move Workout History Into a Better Hypertrophy Tracker"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Switching workout apps should not mean losing years of training context. Here is what matters when importing Hevy workouts, routines, measurements, notes, and set types."}]]}],["$","$Ld","alternatives-to-rp-hypertrophy-app",{"href":"/blog/alternatives-to-rp-hypertrophy-app","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progressive overload."}]]}],["$","$Ld","best-hypertrophy-app-ios-review",{"href":"/blog/best-hypertrophy-app-ios-review","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Best Hypertrophy App for iOS: What Serious Lifters Should Look For"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The best hypertrophy app for iPhone is not just a workout log. It should make progression, volume, effort, history, and body-composition evidence easier to act on."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

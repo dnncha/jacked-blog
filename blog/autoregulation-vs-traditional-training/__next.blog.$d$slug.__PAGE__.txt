@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb1e,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/autoregulation-vs-traditional-training#webpage","url":"https://jacked.coach/blog/autoregulation-vs-traditional-training","name":"Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression","description":"A 2025 meta-analysis confirms what elite coaches have long suspected—autoregulated training produces superior strength gains compared to rigid percentage-bas...","breadcrumb":{"@id":"https://jacked.coach/blog/autoregulation-vs-traditional-training#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/autoregulation-vs-traditional-training#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/autoregulation-vs-traditional-training#webpage"},"headline":"Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression","description":"A 2025 meta-analysis confirms what elite coaches have long suspected—autoregulated training produces superior strength gains compared to rigid percentage-bas...","isAccessibleForFree":true,"wordCount":727,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"1RM Calculator","url":"https://jacked.coach/tools/one-rep-max-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/autoregulation-vs-traditional-training#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression","item":"https://jacked.coach/blog/autoregulation-vs-traditional-training"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"A 2025 meta-analysis confirms what elite coaches have long suspected—autoregulated training produces superior strength gains compared to rigid percentage-based programs. Here's what the research means for your gains."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Why%20Autoregulation%20Beats%20Traditional%20Training%3A%20The%20Science%20Behind%20Auto-Progression&url=https://jacked.coach/blog/autoregulation-vs-traditional-training","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","one-rep-max-calculator",{"href":"/tools/one-rep-max-calculator","data-related-tool":"one-rep-max-calculator","children":"1RM Calculator"}],["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-autoregulation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-autoregulation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Autoregulation?"}]}],["$","li","the-2025-meta-analysis-what-the-science-says",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-2025-meta-analysis-what-the-science-says","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The 2025 Meta-Analysis: What the Science Says"}]}],["$","li","why-does-autoregulation-work-better",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-does-autoregulation-work-better","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Does Autoregulation Work Better?"}]}],["$","li","1-daily-fluctuations-are-real",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-daily-fluctuations-are-real","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Daily Fluctuations Are Real"}]}],["$","li","2-optimal-proximity-to-failure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-optimal-proximity-to-failure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Optimal Proximity to Failure"}]}],["$","li","3-reduced-injury-risk",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-reduced-injury-risk","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Reduced Injury Risk"}]}],["$","li","practical-applications-how-to-autoregulate-your-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-applications-how-to-autoregulate-your-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Applications: How to Autoregulate Your Training"}]}],["$","li","method-1-rpe-based-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#method-1-rpe-based-training","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Method 1: RPE-Based Training"}]}],["$","li","method-2-velocity-based-training-vbt",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#method-2-velocity-based-training-vbt","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Method 2: Velocity-Based Training (VBT)"}]}],["$","li","method-3-apre",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#method-3-apre","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Method 3: APRE"}]}],["$","li","the-jacked-approach-auto-progression-in-action",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-jacked-approach-auto-progression-in-action","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Jacked Approach: Auto-Progression in Action"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#references","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"References"}]}]]}]]}]
+e:T1b6d,<p>If you're still following a rigid percentage-based training program, science has some bad news for you. A landmark 2025 network meta-analysis published in peer-reviewed research confirms what elite coaches have suspected for years: autoregulated training methods significantly outperform traditional fixed-percentage programs for building maximal strength.</p>
+<p>But what exactly is autoregulation, and why should you care? Let's dive into the science.</p>
+<h2 id="what-is-autoregulation">What Is Autoregulation?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Traditional resistance training prescribes loads based on a percentage of your one-repetition maximum (1RM). If your bench press max is 100kg, you'd typically train at 70-80% of that—simple math, but it ignores one crucial factor: <strong>you're not the same every day.</strong></p>
+<p>Autoregulation dynamically adjusts training load based on your <strong>real-time physiological state</strong>. Bad sleep? Elevated stress? A lingering cold? These factors affect your strength performance, but a rigid percentage-based program couldn't care less. Autoregulation adapts.</p>
+<p>The three main autoregulation methods are:</p>
+<ol>
+<li><strong>APRE (Autoregulating Progressive Resistance Exercise)</strong>: Adjusts load based on performance in prior sets</li>
+<li><strong>RPE/RIR (Rate of Perceived Exertion / Reps In Reserve)</strong>: Subjective rating of effort</li>
+<li><strong>VBRT (Velocity-Based Resistance Training)</strong>: Uses movement speed as a fatigue indicator</li>
+</ol>
+<h2 id="the-2025-meta-analysis-what-the-science-says">The 2025 Meta-Analysis: What the Science Says</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Researchers conducted a systematic review and network meta-analysis examining which autoregulation method produces the greatest strength gains. The results were striking:</p>
+<p><strong>For back squat 1RM:</strong></p>
+<ul>
+<li>APRE: 93% probability of being optimal</li>
+<li>RPE: 66.8%</li>
+<li>VBRT: 27%</li>
+<li>Traditional %-based training: 13.2%</li>
+</ul>
+<p><strong>For bench press 1RM:</strong></p>
+<ul>
+<li>APRE: 97.1% probability of being optimal</li>
+<li>VBRT: 57.1%</li>
+<li>RPE: 29.9%</li>
+<li>Traditional %-based training: 15.9%</li>
+</ul>
+<p>The conclusion was clear: <strong>APRE, VBRT, and RPE were all significantly more effective than traditional percentage-based training</strong> for enhancing maximum strength, with APRE taking the top spot for both exercises.</p>
+<h2 id="why-does-autoregulation-work-better">Why Does Autoregulation Work Better?</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<h3 id="1-daily-fluctuations-are-real">1. Daily Fluctuations Are Real</h3>
+<p>Your body doesn't exist in a vacuum. Research shows that factors like sleep quality, stress, hydration, and fatigue accumulate differently each day. A 2021 Frontiers in Physiology review noted that traditional percentage-based programs "do not account for daily fluctuations in athletes' physiological states, physical performance, and life stressors, which can lead to suboptimal load adjustments and an increased risk of injury."</p>
+<h3 id="2-optimal-proximity-to-failure">2. Optimal Proximity to Failure</h3>
+<p>Training to failure isn't necessary for hypertrophy—in fact, research shows training with <strong>1-2 reps in reserve (RIR) produces similar muscle growth</strong> compared to training to failure, with less fatigue. Autoregulation helps you hover in that optimal zone consistently.</p>
+<h3 id="3-reduced-injury-risk">3. Reduced Injury Risk</h3>
+<p>By matching training stress to your actual recovery capacity, autoregulation prevents the "forced progression" that leads to overuse injuries. When you're under-recovered, autoregulation tells you to back off—your rigid program won't.</p>
+<h2 id="practical-applications-how-to-autoregulate-your-training">Practical Applications: How to Autoregulate Your Training</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<h3 id="method-1-rpe-based-training">Method 1: RPE-Based Training</h3>
+<p>Rate your effort on a scale of 1-10, where 10 is maximum effort. Subtract your reps in reserve from 10 to get your RPE.</p>
+<ul>
+<li><strong>RPE 7</strong> = 3 reps left in the tank</li>
+<li><strong>RPE 8</strong> = 2 reps left</li>
+<li><strong>RPE 9</strong> = 1 rep left</li>
+<li><strong>RPE 10</strong> = Maximum effort (failure)</li>
+</ul>
+<p>For hypertrophy, target RPE 7-9. For strength, RPE 8-9.5.</p>
+<h3 id="method-2-velocity-based-training-vbt">Method 2: Velocity-Based Training (VBT)</h3>
+<p>Track your barbell velocity across sets. As you fatigue, velocity decreases. Stop when velocity drops below a certain threshold (typically 70-80% of your fresh velocity).</p>
+<h3 id="method-3-apre">Method 3: APRE</h3>
+<p>The simplest method for auto-progression:</p>
+<ul>
+<li>Perform a set</li>
+<li>If you hit your target reps easily, increase weight</li>
+<li>If you struggle, keep the same weight</li>
+<li>This automatically adjusts based on your daily performance</li>
+</ul>
+<h2 id="the-jacked-approach-auto-progression-in-action">The Jacked Approach: Auto-Progression in Action</h2>
+<div class="diagram callout-diagram">
+  <h4>Recovery priority pyramid</h4>
+  <p>Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.</p>
+</div>
+<p>Here's the thing: you don't need to become a spreadsheet warrior to benefit from autoregulation. <strong>Jacked</strong>, the autoprogression fitness app, handles all this complexity for you. It automatically adjusts your training weight based on your performance, ensuring you're always training at the optimal intensity—no math required.</p>
+<p>The science is clear. Your training should adapt to you, not the other way around.</p>
+<hr>
+<h3 id="references">References</h3>
+<ol>
+<li>Zhang, Y. et al. (2025). Autoregulated resistance training for maximal strength enhancement: A systematic review and network meta-analysis. <em>ScienceDirect</em>.</li>
+<li>Dorrell, H. et al. (2020). Autoregulation in resistance training. <em>Frontiers in Physiology</em>.</li>
+<li>Helms, E. et al. (2018). RPE and autoregulation in resistance training. <em>Journal of Strength and Conditioning Research</em>.</li>
+<li>Weakley, J. et al. (2021). Velocity-based resistance training. <em>Sports Medicine</em>.</li>
+</ol>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","training-to-failure-proximity",{"href":"/blog/training-to-failure-proximity","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Training to Failure: What Science Says About Proximity to Failure"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New meta-analysis reveals training closer to failure helps muscle growth but isn't necessary for strength gains. Here's what the research means for your training."}]]}],["$","$Ld","women-men-muscle-building-2025-research",{"href":"/blog/women-men-muscle-building-2025-research","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Women and Muscle Building: What the 2025 Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A new meta-analysis settles the debate: women build muscle just as effectively as men when you look at relative gains. Here's what the research means for your training."}]]}],["$","$Ld","protein-distribution-muscle-protein-synthesis",{"href":"/blog/protein-distribution-muscle-protein-synthesis","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Protein Distribution: How Often Should You Eat Protein?"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research confirms what athletes have long suspected: spreading your protein intake evenly throughout the day maximizes muscle protein synthesis by up to 25%. Here's the science behind optimal protein distribution."}]]}],["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

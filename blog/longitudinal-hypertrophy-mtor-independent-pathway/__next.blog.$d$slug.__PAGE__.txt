@@ -1,0 +1,253 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb9a,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway#webpage","url":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway","name":"Longitudinal Hypertrophy: The mTOR-Independent Pathway Changing How We Understand Muscle Growth","description":"New research reveals muscle growth happens through two distinct pathways - radial thickening (mTOR-dependent) and longitudinal lengthening (mTOR-independent)...","breadcrumb":{"@id":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway#webpage"},"headline":"Longitudinal Hypertrophy: The mTOR-Independent Pathway Changing How We Understand Muscle Growth","description":"New research reveals muscle growth happens through two distinct pathways - radial thickening (mTOR-dependent) and longitudinal lengthening (mTOR-independent)...","isAccessibleForFree":true,"wordCount":989,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Longitudinal Hypertrophy: The mTOR-Independent Pathway Changing How We Understand Muscle Growth","item":"https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Longitudinal Hypertrophy: The mTOR-Independent Pathway Changing How We Understand Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New research reveals muscle growth happens through two distinct pathways - radial thickening (mTOR-dependent) and longitudinal lengthening (mTOR-independent). What this means for your training."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Longitudinal%20Hypertrophy%3A%20The%20mTOR-Independent%20Pathway%20Changing%20How%20We%20Understand%20Muscle%20Growth&url=https://jacked.coach/blog/longitudinal-hypertrophy-mtor-independent-pathway","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-two-pathways-explained",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-two-pathways-explained","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Two Pathways Explained"}]}],["$","li","radial-hypertrophy-mtor-dependent",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#radial-hypertrophy-mtor-dependent","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Radial Hypertrophy (mTOR-Dependent)"}]}],["$","li","longitudinal-hypertrophy-mtor-independent",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#longitudinal-hypertrophy-mtor-independent","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Longitudinal Hypertrophy (mTOR-Independent)"}]}],["$","li","what-this-means-for-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-this-means-for-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What This Means for Training"}]}],["$","li","eccentric-training-longitudinal-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#eccentric-training-longitudinal-growth","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Eccentric Training → Longitudinal Growth"}]}],["$","li","mechanical-tension-volume-radial-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#mechanical-tension-volume-radial-growth","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Mechanical Tension + Volume → Radial Growth"}]}],["$","li","why-this-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-this-matters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why This Matters"}]}],["$","li","why-some-exercises-feel-long",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#why-some-exercises-feel-long","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Why Some Exercises Feel \"Long\""}]}],["$","li","why-doms-can-hit-different-muscles-different-ways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#why-doms-can-hit-different-muscles-different-ways","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Why Doms Can Hit Different Muscles Different Ways"}]}],["$","li","why-stretching-might-actually-build-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#why-stretching-might-actually-build-muscle","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Why Stretching Might Actually Build Muscle"}]}],["$","li","the-bigger-picture-beyond-mtor-as-the-be-all",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bigger-picture-beyond-mtor-as-the-be-all","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bigger Picture: Beyond mTor as the Be-All"}]}],["$","li","practical-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Takeaways"}]}],["$","li","the-future-of-hypertrophy-research",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-future-of-hypertrophy-research","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Future of Hypertrophy Research"}]}]]}]]}]
+e:T2143,<p>For decades, the mTOR pathway has been considered the master regulator of muscle hypertrophy. Eat protein, activate mTOR, build muscle. Simple narrative. But new research published in 2025-2026 is overturning that assumption entirely.</p>
+<p>A groundbreaking preprint from researchers at the University of Wisconsin-Madison (Hornberger lab) demonstrates that skeletal muscle growth is not a singular biological process regulated solely by mTORC1. Instead, muscle growth splits into two distinct, mechanically driven avenues:</p>
+<ol>
+<li><strong>Radial Growth</strong> — getting bulkier and thicker, which requires mTORC1</li>
+<li><strong>Longitudinal Growth</strong> — getting longer by adding functional units in-series, which is completely mTOR-independent</li>
+</ol>
+<p>This discovery has massive implications for how we should think about training, nutrition, and muscle building.</p>
+<h2 id="the-two-pathways-explained">The Two Pathways Explained</h2>
+<h3 id="radial-hypertrophy-mtor-dependent">Radial Hypertrophy (mTOR-Dependent)</h3>
+<p>Traditional muscle building focuses on radial hypertrophy — increasing the cross-sectional area of muscle fibers. This is what happens when your biceps get bigger around. This process is driven by:</p>
+<ul>
+<li><strong>Mechanical tension</strong> triggering mTORC1 activation</li>
+<li><strong>Leucine</strong> and other amino acids stimulating the nutrient-sensing pathway</li>
+<li><strong>Protein synthesis</strong> increasing within existing sarcomeres</li>
+</ul>
+<p>This is the well-trodden path we've optimized for years: eat enough protein (~1.6-2.2g/kg), train with sufficient intensity, and mTOR does its job.</p>
+<h3 id="longitudinal-hypertrophy-mtor-independent">Longitudinal Hypertrophy (mTOR-Independent)</h3>
+<p>The new kid on the block is longitudinal hypertrophy — adding new sarcomeres in-series, effectively making muscle fibers longer. This is mechanically distinct from radial growth and operates through entirely different cellular mechanisms.</p>
+<p>The research found that <strong>muscle overload (MOV) is mediated through an mTORC1-independent mechanism</strong>. When muscles are stretched under load, they trigger a different signaling cascade that leads to sarcomere addition along the length of the muscle fiber.</p>
+<p>Key players in this pathway include:</p>
+<ul>
+<li><strong>Piezo channels</strong> — mechanosensitive ion channels that detect stretch</li>
+<li><strong>Titin</strong> — the giant protein that acts as a molecular spring</li>
+<li><strong>Satellite cells</strong> — activated differently for lengthening contractions</li>
+<li><strong>Growth factor signaling</strong> independent of mTOR</li>
+</ul>
+<h2 id="what-this-means-for-training">What This Means for Training</h2>
+<p>Here's where it gets practical. Different training approaches appear to preferentially target different hypertrophy pathways:</p>
+<h3 id="eccentric-training-longitudinal-growth">Eccentric Training → Longitudinal Growth</h3>
+<p>Eccentric contractions (the lowering phase) create the stretch-under-load conditions that drive longitudinal hypertrophy. When you lower a heavy weight slowly, you're applying tension while the muscle lengthens — exactly the mechanical signal that triggers sarcomere addition.</p>
+<p>Research from the Journal of Applied Physiology confirms that fascicle length increases in response to longitudinal resistance training, particularly with eccentric-focused protocols.</p>
+<p><strong>Practical implication:</strong> If you want to build a longer, more functional muscle (potentially less injury-prone, better force transmission), incorporate more eccentric training:</p>
+<ul>
+<li>Slow negatives (3-5 second eccentric)</li>
+<li>Eccentric-focused sets</li>
+<li>Stretch-under-load exercises (flyes, pulldowns at full extension)</li>
+</ul>
+<h3 id="mechanical-tension-volume-radial-growth">Mechanical Tension + Volume → Radial Growth</h3>
+<p>Traditional hypertrophy training — moderate loads, time under tension, volume — primarily drives radial growth through the mTOR pathway. This is where protein timing, leucine thresholds, and adequate nutrition matter most.</p>
+<p><strong>Practical implication:</strong> Continue eating sufficient protein. The mTOR pathway still drives radial hypertrophy. But understand that this pathway builds thickness, not length.</p>
+<h2 id="why-this-matters">Why This Matters</h2>
+<p>Understanding the dual pathways explains several phenomena that previously puzzled researchers:</p>
+<h3 id="why-some-exercises-feel-long">Why Some Exercises Feel "Long"</h3>
+<p>Ever notice how pulldowns at full stretch or chest flies at the bottom feel like they're targeting "long" muscles? You're feeling longitudinal sarcomere addition happening. These exercises create the stretch conditions that trigger this pathway.</p>
+<h3 id="why-doms-can-hit-different-muscles-different-ways">Why Doms Can Hit Different Muscles Different Ways</h3>
+<p>Muscles with more longitudinal growth potential (those with greater fascicle length) may respond differently to training. Some muscles may naturally favor one pathway over the other based on architecture.</p>
+<h3 id="why-stretching-might-actually-build-muscle">Why Stretching Might Actually Build Muscle</h3>
+<p>Static stretching was long considered "just flexibility work." But given that stretch-under-load drives longitudinal growth, it makes sense that extended stretch holds (especially with added load) could contribute to muscle building — through the mTOR-independent pathway.</p>
+<h2 id="the-bigger-picture-beyond-mtor-as-the-be-all">The Bigger Picture: Beyond mTor as the Be-All</h2>
+<p>This research joins a growing body of evidence that mTOR is not the sole arbiter of muscle growth:</p>
+<ul>
+<li><strong>Rapamycin studies</strong> show longitudinal hypertrophy can occur even when mTOR is pharmacologically inhibited</li>
+<li><strong>Metformin research</strong> (2026) shows reduced lean mass gains in seniors taking the drug — but this may primarily affect radial growth, leaving longitudinal pathways partially intact</li>
+<li><strong>Aging research</strong> shows older adults lose muscle mass but can still gain strength through neural adaptations and potentially longitudinal mechanisms</li>
+</ul>
+<h2 id="practical-takeaways">Practical Takeaways</h2>
+<ol>
+<li>
+<p><strong>Don't neglect eccentric training</strong> — it's not just for injury prevention; it drives a completely separate hypertrophy pathway</p>
+</li>
+<li>
+<p><strong>Protein still matters</strong> — for radial growth, you still need adequate amino acids to activate mTOR</p>
+</li>
+<li>
+<p><strong>Stretch your muscles</strong> — particularly under load. The bottom of dumbbell flyes, full extension on cable exercises, and loaded stretching may all contribute to longitudinal growth</p>
+</li>
+<li>
+<p><strong>Train through full ranges</strong> — partial reps may build thickness but full range of motion engages both pathways</p>
+</li>
+<li>
+<p><strong>Consider your goals</strong> — if you want a "long" muscle appearance (aesthetic or functional), emphasize eccentric training and stretch-under-load movements</p>
+</li>
+</ol>
+<h2 id="the-future-of-hypertrophy-research">The Future of Hypertrophy Research</h2>
+<p>This paradigm shift opens new research avenues:</p>
+<ul>
+<li>Can we develop supplements or interventions that specifically enhance longitudinal growth?</li>
+<li>Do certain rep ranges or tempos preferentially target each pathway?</li>
+<li>Can we optimize training to maximize both pathways simultaneously?</li>
+<li>What role does genetics play in an individual's balance between radial and longitudinal growth potential?</li>
+</ul>
+<p>The mTOR-centric view of muscle building served us well, but 2026 marks a new era in hypertrophy science. The muscle growth equation just got more complex — and more interesting.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Hornberger Lab, University of Wisconsin-Madison (2025). Mechanical Loading Induces the Longitudinal Growth of Skeletal Muscle Fibers. <em>bioRxiv</em> doi:10.1101/2025.09.19.676647</li>
+<li>Herzog W, de Fontana HB (2022). Does eccentric exercise stimulate sarcomerogenesis? <em>J Sport Health Sci</em> 11:40-42</li>
+<li>Rindom E, Vissing K. Mechanosensitive molecular networks involved in transducing resistance exercise-signals into muscle protein accretion. <em>J Appl Physiol</em></li>
+</ul>
+<hr>
+<p><em>Track your hypertrophy with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","mitochondrial-dynamics-muscle-growth-hypertrophy",{"href":"/blog/mitochondrial-dynamics-muscle-growth-hypertrophy","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mitochondrial Dynamics and Muscle Growth: The Cellular Engine of Hypertrophy"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals mitochondria aren't just cellular powerhouses—they're direct regulators of muscle growth. Understanding mitochondrial dynamics could unlock your next breakthrough."}]]}],["$","$Ld","mtor-leucine-threshold-2026",{"href":"/blog/mtor-leucine-threshold-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"mTOR Activation: The Science Behind Your Muscle-Building Switch"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."}]]}],["$","$Ld","stretch-mediated-hypertrophy-lengthened-partials",{"href":"/blog/stretch-mediated-hypertrophy-lengthened-partials","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

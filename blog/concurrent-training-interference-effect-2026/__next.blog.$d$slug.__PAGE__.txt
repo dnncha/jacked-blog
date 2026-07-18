@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tad6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/concurrent-training-interference-effect-2026#webpage","url":"https://jacked.coach/blog/concurrent-training-interference-effect-2026","name":"The Interference Effect: Can You Build Strength and Muscle Simultaneously?","description":"Science reveals how to combine strength and hypertrophy training without sacrificing gains in either direction.","breadcrumb":{"@id":"https://jacked.coach/blog/concurrent-training-interference-effect-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/concurrent-training-interference-effect-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/concurrent-training-interference-effect-2026#webpage"},"headline":"The Interference Effect: Can You Build Strength and Muscle Simultaneously?","description":"Science reveals how to combine strength and hypertrophy training without sacrificing gains in either direction.","isAccessibleForFree":true,"wordCount":827,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/concurrent-training-interference-effect-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Interference Effect: Can You Build Strength and Muscle Simultaneously?","item":"https://jacked.coach/blog/concurrent-training-interference-effect-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Interference Effect: Can You Build Strength and Muscle Simultaneously?"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Science reveals how to combine strength and hypertrophy training without sacrificing gains in either direction."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[4," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Interference%20Effect%3A%20Can%20You%20Build%20Strength%20and%20Muscle%20Simultaneously%3F&url=https://jacked.coach/blog/concurrent-training-interference-effect-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-the-interference-effect",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-the-interference-effect","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is the Interference Effect?"}]}],["$","li","the-2025-2026-research-consensus",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-2025-2026-research-consensus","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The 2025-2026 Research Consensus"}]}],["$","li","the-order-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-order-matters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Order Matters"}]}],["$","li","the-volume-equation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-volume-equation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Volume Equation"}]}],["$","li","does-concurrent-training-work-the-verdict",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#does-concurrent-training-work-the-verdict","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Does Concurrent Training Work? The Verdict"}]}],["$","li","programming-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#programming-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Programming Recommendations"}]}],["$","li","option-1-phul-style-power-hypertrophy-upper-lower",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-1-phul-style-power-hypertrophy-upper-lower","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option 1: PHUL Style (Power Hypertrophy Upper Lower)"}]}],["$","li","option-2-daily-undulating-periodization-dup",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-2-daily-undulating-periodization-dup","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option 2: Daily Undulating Periodization (DUP)"}]}],["$","li","option-3-block-periodization",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-3-block-periodization","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option 3: Block Periodization"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1ade,<p>If you've spent any time in the gym, you've likely heard the debate: Should you focus on strength OR hypertrophy, or can you train for both at once? The concept of the "interference effect" suggests that simultaneously training for strength and size leads to compromised adaptations in both. But recent research tells a more nuanced story—and the implications for your training could be significant.</p>
+<h2 id="what-is-the-interference-effect">What Is the Interference Effect?</h2>
+<p>The interference effect originates from exercise physiology research showing that endurance and strength training, when combined, can blunt each other's adaptations. More recently, scientists have investigated whether strength and hypertrophy training—despite both being anaerobic—might interfere with each other.</p>
+<p>The theory goes like this: Strength training primarily activates neural adaptations (improved motor unit recruitment, rate coding, and coordination), while hypertrophy training focuses on muscle damage, metabolic stress, and mechanical tension. Some researchers hypothesized that training for both could send mixed signals to muscle fibers, potentially reducing gains in either direction.</p>
+<h2 id="the-2025-2026-research-consensus">The 2025-2026 Research Consensus</h2>
+<p>A comprehensive 2025 meta-analysis published in the <em>Journal of Strength and Conditioning Research</em> examined 47 studies on concurrent strength and hypertrophy training. The findings? <strong>The interference effect is real but exaggerated.</strong></p>
+<p>Key findings:</p>
+<ol>
+<li>
+<p><strong>Beginners experience minimal interference</strong> – Trained novices (6-24 months of training) showed almost no conflict between strength and size gains when both were trained in the same session or week.</p>
+</li>
+<li>
+<p><strong>Intermediate trainees see small trade-offs</strong> – For those with 1-3 years of training, combining heavy strength work (3-5RM) with higher-rep hypertrophy work (8-15RM) resulted in ~5-8% less strength gain compared to pure strength training, and ~3-5% less hypertrophy compared to pure hypertrophy training.</p>
+</li>
+<li>
+<p><strong>Advanced lifters face the biggest compromise</strong> – Elite trainees (>3 years consistent training) showed measurable interference, particularly when training both qualities in the same session.</p>
+</li>
+</ol>
+<h2 id="the-order-matters">The Order Matters</h2>
+<p>Perhaps the most practical finding from recent research is that <strong>exercise order significantly impacts outcomes</strong>. A 2026 study in <em>Frontiers in Physiology</em> found:</p>
+<ul>
+<li><strong>Strength first, then hypertrophy</strong>: Best for prioritizing strength while maintaining muscle growth</li>
+<li><strong>Hypertrophy first, then strength</strong>: Slightly better for muscle growth but reduces strength gains</li>
+<li><strong>Same session, alternating days</strong>: Minimal interference if workouts are separated by at least 48 hours</li>
+</ul>
+<p>This aligns with the principle of "Priority Training"—the idea that what you do first in your session or week gets the bulk of your neural energy and recovery resources.</p>
+<h2 id="the-volume-equation">The Volume Equation</h2>
+<p>Research from 2025 suggests the interference effect scales with <strong>weekly training volume</strong>. When total weekly sets exceed 20-25 sets per muscle group, interference effects become more pronounced. This makes sense from a recovery perspective—your body can only handle so much total stress before compromises occur.</p>
+<p>Practical application: If you're training for both strength and hypertrophy, keep weekly volume moderate (15-20 sets per muscle group) rather than pushing to extremes in either direction.</p>
+<h2 id="does-concurrent-training-work-the-verdict">Does Concurrent Training Work? The Verdict</h2>
+<p><strong>Yes, but with caveats.</strong> The latest research supports concurrent training for:</p>
+<ul>
+<li><strong>Beginners and intermediates</strong> (most gym-goers): You can absolutely build strength and muscle simultaneously, especially in your first 1-2 years of serious training.</li>
+<li><strong>Time-constrained trainees</strong>: If you can only train 3-4 days per week, concurrent training is more efficient than choosing one goal.</li>
+<li><strong>General fitness enthusiasts</strong>: Most people aren't competing—they want to be strong AND look good. Concurrent training serves this goal well.</li>
+</ul>
+<p><strong>However, consider specialization if you:</strong></p>
+<ul>
+<li>Have >2 years of training experience</li>
+<li>Have specific competition goals (powerlifting or bodybuilding)</li>
+<li>Are plateaued and need to break through</li>
+<li>Have time for 5-6 training days per week</li>
+</ul>
+<h2 id="programming-recommendations">Programming Recommendations</h2>
+<p>Based on the 2025-2026 research, here's how to optimize concurrent training:</p>
+<h3 id="option-1-phul-style-power-hypertrophy-upper-lower">Option 1: PHUL Style (Power Hypertrophy Upper Lower)</h3>
+<ul>
+<li>2 strength-focused sessions (compound lifts, 3-6RM)</li>
+<li>2 hypertrophy-focused sessions (accessories, 8-15RM)</li>
+<li>48+ hours between sessions</li>
+</ul>
+<h3 id="option-2-daily-undulating-periodization-dup">Option 2: Daily Undulating Periodization (DUP)</h3>
+<ul>
+<li>Rotate intensity daily or weekly</li>
+<li>Monday: Heavy (3-5RM)</li>
+<li>Wednesday: Moderate (6-8RM)</li>
+<li>Friday: Light (10-15RM)</li>
+</ul>
+<h3 id="option-3-block-periodization">Option 3: Block Periodization</h3>
+<ul>
+<li>4-week strength block (focus on neural adaptations)</li>
+<li>4-week hypertrophy block (focus on volume)</li>
+<li>2-week deload</li>
+<li>Switch emphasis based on goals</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The interference effect is real but manageable. For most trainees, the benefits of training for both strength and hypertrophy simultaneously far outweigh the minor trade-offs. The key is intentional programming—managing exercise order, volume, and recovery to minimize interference.</p>
+<p>If you're serious about optimizing both qualities, consider your training age, recovery capacity, and goals. Beginners should feel free to pursue both. Intermediate and advanced lifters may benefit from periodized approaches that alternate priority throughout the year.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ol>
+<li>Schumann, M. et al. (2022). Concurrent training in athletes. <em>Journal of Sports Sciences</em></li>
+<li>Frontiers in Physiology (2026). Network physiology perspective on cardio-neuromuscular trade-off</li>
+<li>J Strength Cond Res (2025). Meta-analysis of concurrent strength and hypertrophy training</li>
+<li>Hevy App Research (2026). PHUL Program effectiveness study</li>
+</ol>
+<hr>
+<p><em>Let Jacked balance your cardio and strength training. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","cluster-sets-hypertrophy-2026",{"href":"/blog/cluster-sets-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."}]]}],["$","$Ld","intermittent-fasting-muscle-building-research-2026",{"href":"/blog/intermittent-fasting-muscle-building-research-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Intermittent Fasting for Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Time-restricted eating combined with resistance training shows surprising results for fat loss and muscle preservation. Here's what the research reveals."}]]}],["$","$Ld","isometric-training-muscle-growth-science",{"href":"/blog/isometric-training-muscle-growth-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Isometric Training: The Science Behind Static Strength and Muscle Growth"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."}]]}],["$","$Ld","lifting-straps-gains-guide",{"href":"/blog/lifting-straps-gains-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Lifting Straps: When They Help and When They Hurt Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The complete science and practical guide to using lifting straps for optimal muscle building without compromising grip strength."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

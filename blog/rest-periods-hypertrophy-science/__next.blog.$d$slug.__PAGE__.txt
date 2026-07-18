@@ -1,0 +1,265 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taff,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/rest-periods-hypertrophy-science#webpage","url":"https://jacked.coach/blog/rest-periods-hypertrophy-science","name":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth","description":"Most lifters guess at rest times. Science tells a different story — your between-set rest period directly impacts muscle growth, strength gains, and training...","breadcrumb":{"@id":"https://jacked.coach/blog/rest-periods-hypertrophy-science#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/rest-periods-hypertrophy-science#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/rest-periods-hypertrophy-science#webpage"},"headline":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth","description":"Most lifters guess at rest times. Science tells a different story — your between-set rest period directly impacts muscle growth, strength gains, and training...","isAccessibleForFree":true,"wordCount":1052,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Rest Time Calculator","url":"https://jacked.coach/tools/rest-time-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/rest-periods-hypertrophy-science#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth","item":"https://jacked.coach/blog/rest-periods-hypertrophy-science"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"The Science of Rest Periods: How Long to Rest Between Sets for Maximum Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Most lifters guess at rest times. Science tells a different story — your between-set rest period directly impacts muscle growth, strength gains, and training volume. Here's what the research actually shows."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20Science%20of%20Rest%20Periods%3A%20How%20Long%20to%20Rest%20Between%20Sets%20for%20Maximum%20Muscle%20Growth&url=https://jacked.coach/blog/rest-periods-hypertrophy-science","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","rest-time-calculator",{"href":"/tools/rest-time-calculator","data-related-tool":"rest-time-calculator","children":"Rest Time Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-three-mechanisms-of-muscle-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-three-mechanisms-of-muscle-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Three Mechanisms of Muscle Growth"}]}],["$","li","short-rest-30-60-seconds-the-metabolic-stress-advantage",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#short-rest-30-60-seconds-the-metabolic-stress-advantage","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Short Rest (30-60 seconds): The Metabolic Stress Advantage"}]}],["$","li","medium-rest-60-90-seconds-the-hypertrophy-sweet-spot",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#medium-rest-60-90-seconds-the-hypertrophy-sweet-spot","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Medium Rest (60-90 seconds): The Hypertrophy Sweet Spot"}]}],["$","li","mechanical-metabolic-maximum-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#mechanical-metabolic-maximum-growth","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Mechanical + Metabolic = Maximum Growth"}]}],["$","li","practical-application",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#practical-application","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Practical Application"}]}],["$","li","long-rest-2-5-minutes-maximum-strength-adaptation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#long-rest-2-5-minutes-maximum-strength-adaptation","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Long Rest (2-5 minutes): Maximum Strength Adaptation"}]}],["$","li","the-hybrid-approach-periodized-rest",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-hybrid-approach-periodized-rest","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Hybrid Approach: Periodized Rest"}]}],["$","li","sample-weekly-structure",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#sample-weekly-structure","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Sample Weekly Structure"}]}],["$","li","what-about-supersets-and-drop-sets",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-about-supersets-and-drop-sets","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What About Supersets and Drop Sets?"}]}],["$","li","the-practical-takeaways",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-practical-takeaways","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Practical Takeaways"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T20ea,<p><strong>TL;DR: For hypertrophy, 60-90 second rest periods generally optimize growth. Longer rests (2-3 minutes) maximize strength. The ideal rest time depends on your goal — and most lifters rest too long.</strong></p>
+<hr>
+<p>If you walked into a commercial gym and timed the average rest between sets, you'd see something strange: guys curling 30-pound dumbbells checking their phones for 4 minutes while自称 "training hard." Meanwhile, the serious lifters supersetting with 45 seconds rest look like they're barely surviving.</p>
+<p>Who's right?</p>
+<p><strong>The answer: both, depending on what they're trying to achieve.</strong> Rest periods aren't arbitrary — they're a training variable you can optimize like weight, reps, or volume.</p>
+<h2 id="the-three-mechanisms-of-muscle-growth">The Three Mechanisms of Muscle Growth</h2>
+<p>Before understanding rest periods, you need to understand what drives hypertrophy. Research (Schoenfeld, 2010) identifies three primary mechanisms:</p>
+<ol>
+<li><strong>Mechanical tension</strong> — the force your muscle generates</li>
+<li><strong>Muscle damage</strong> — the microscopic trauma from training</li>
+<li><strong>Metabolic stress</strong> — the buildup of metabolites like lactate, hydrogen ions, and inorganic phosphate</li>
+</ol>
+<p>Your rest period directly influences which mechanisms dominate. This changes what you're training — and what grows.</p>
+<h2 id="short-rest-30-60-seconds-the-metabolic-stress-advantage">Short Rest (30-60 seconds): The Metabolic Stress Advantage</h2>
+<p>When you rest under 60 seconds, you're still partially recovering — but not fully. Here's what happens:</p>
+<ul>
+<li><strong>ATP replenishment is incomplete.</strong> Your muscles never fully restore energy stores between sets.</li>
+<li><strong>Metabolites accumulate faster.</strong> Lactate, hydrogen ions, and phosphate buildup faster than they clear.</li>
+<li><strong>Growth hormone spikes.</strong> Short rest periods produce significantly higher GH responses compared to long rests (Goto et al., 2004).</li>
+<li><strong>More total volume possible.</strong> You complete more sets in less time.</li>
+</ul>
+<p>This creates what researchers call "metabolic stress" — that burning sensation you feel during high-rep sets. Metabolic stress triggers the muscle cell swelling and hormonal responses that contribute to hypertrophy, particularly through the mTOR pathway and myokine release.</p>
+<p><strong>Best for:</strong> Isolation exercises, accessory work, pump-focused sessions, and when training for muscular endurance.</p>
+<h2 id="medium-rest-60-90-seconds-the-hypertrophy-sweet-spot">Medium Rest (60-90 seconds): The Hypertrophy Sweet Spot</h2>
+<p>Here's where the science gets interesting. <strong>60-90 seconds appears to be the optimal rest window for pure muscle growth</strong> — and here's why:</p>
+<h3 id="mechanical-metabolic-maximum-growth">Mechanical + Metabolic = Maximum Growth</h3>
+<p>At 60-90 seconds, you get the best of both worlds:</p>
+<ul>
+<li><strong>Enough ATP restored</strong> to lift near-maximal loads for the rep range</li>
+<li><strong>Sufficient metabolite accumulation</strong> to trigger metabolic stress mechanisms</li>
+<li><strong>Maintained acute fatigue</strong> that preserves form while still providing challenge</li>
+</ul>
+<p>A 2018 meta-analysis in <em>Sports Medicine</em> found that rest periods between 60-90 seconds optimized muscle hypertrophy when training with moderate loads (60-85% 1RM). This aligns with what most hypertrophy-focused programs prescribe.</p>
+<h3 id="practical-application">Practical Application</h3>
+<p>For compound movements (squats, deadlifts, bench), 60-90 seconds means:</p>
+<ul>
+<li>You're recovered enough to hit your target reps</li>
+<li>You're not so recovered that the set becomes purely neural adaptation</li>
+<li>You're not sitting around wasting time</li>
+</ul>
+<p><strong>Best for:</strong> Most hypertrophy training, moderate rep ranges (8-12), compound movements when not training for pure strength.</p>
+<h2 id="long-rest-2-5-minutes-maximum-strength-adaptation">Long Rest (2-5 minutes): Maximum Strength Adaptation</h2>
+<p>When you rest 3+ minutes between sets, you're prioritizing:</p>
+<ul>
+<li><strong>Full ATP-PCr restoration.</strong> Near-complete energy recovery.</li>
+<li><strong>Maximum force production.</strong> You can lift your heaviest on every set.</li>
+<li><strong>Neural adaptation.</strong> Your CNS becomes more efficient at expressing strength.</li>
+<li><strong>Technical practice.</strong> Form stays crisp when you're not fatigued.</li>
+</ul>
+<p>This is the world of powerlifting and strength-focused training. A 2016 study in the <em>Journal of Strength and Conditioning Research</em> found that 3-minute rests produced significantly greater strength gains than 1-minute rests over an 8-week training period.</p>
+<p><strong>Trade-off:</strong> You're not maximizing metabolic stress, and your total set volume per session decreases due to time constraints.</p>
+<p><strong>Best for:</strong> Low-rep heavy compound lifts (1-5 reps), strength-focused mesocycles, peaking phases.</p>
+<h2 id="the-hybrid-approach-periodized-rest">The Hybrid Approach: Periodized Rest</h2>
+<p>Smart programs don't use one rest period for everything. They periodize:</p>
+<h3 id="sample-weekly-structure">Sample Weekly Structure</h3>
+<p>| Day | Exercise Type | Reps | Rest Period |
+|-----|---------------|------|-------------|
+| Monday | Squat, Deadlift | 3-5 | 3-4 minutes |
+| Tuesday | Upper Body Compounds | 6-10 | 90-120 seconds |
+| Thursday | Accessories | 10-15 | 60 seconds |
+| Friday | Overhead, Rows | 6-12 | 90 seconds |</p>
+<p>This ensures you're training all three hypertrophy mechanisms throughout the week.</p>
+<h2 id="what-about-supersets-and-drop-sets">What About Supersets and Drop Sets?</h2>
+<p>Supersets (back-to-back sets with no rest between different exercises) and drop sets (reducing weight and continuing without rest) are popular — and they work for a specific reason:</p>
+<p><strong>They maximize metabolic stress within a time constraint.</strong></p>
+<p>These techniques are essentially "short rest by design." They're excellent for:</p>
+<ul>
+<li>Increasing training density</li>
+<li>Accumulating metabolic stress</li>
+<li>Working around time limitations</li>
+</ul>
+<p>But they come at a cost: you'll lift less weight and may accumulate more fatigue. Use them strategically, not for every set.</p>
+<h2 id="the-practical-takeaways">The Practical Takeaways</h2>
+<ol>
+<li>
+<p><strong>Stop resting 3-4 minutes for everything.</strong> Unless you're doing 1-3 rep heavy work, you're wasting time and leaving growth on the table.</p>
+</li>
+<li>
+<p><strong>60-90 seconds is your baseline.</strong> For most hypertrophy training, this is the sweet spot.</p>
+</li>
+<li>
+<p><strong>Adjust by exercise.</strong> Legs recover slower than biceps. Compounds need more rest than isolates. Adjust accordingly.</p>
+</li>
+<li>
+<p><strong>Track your rest.</strong> Use a timer. Most lifters overestimate how long they rest.</p>
+</li>
+<li>
+<p><strong>Listen to your body.</strong> If you can't hit your target reps because you're too fatigued, add 15-30 seconds. If you're not feeling the burn, you can cut rest.</p>
+</li>
+</ol>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Your rest periods are a training variable — and a powerful one. Short rest maximizes metabolic stress and training density. Long rest maximizes strength and force output. <strong>For muscle growth, 60-90 seconds gives you the best balance.</strong></p>
+<p>Stop guessing. Start timing. Your muscles will thank you.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Schoenfeld, B.J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. <em>Journal of Strength and Conditioning Research</em>.</li>
+<li>Goto, K., et al. (2004). Acute hormone responses to heavy and light resistance exercise. <em>International Journal of Sport Nutrition and Exercise Metabolism</em>.</li>
+<li>Ratamess, N.A., et al. (2018). The effects of rest interval duration on acute resistance exercise performance. <em>Sports Medicine</em>.</li>
+<li>Haff, G.G., et al. (2008). Rest interval effects on repeated maximal power and strength. <em>Journal of Strength and Conditioning Research</em>.</li>
+</ul>
+<hr>
+<p><em>Track your rest periods with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","rest-intervals-hypertrophy-science",{"href":"/blog/rest-intervals-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Rest Intervals: What the 2025 Research Actually Shows"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New meta-analysis challenges conventional wisdom about how long to rest between sets for maximum muscle growth."}]]}],["$","$Ld","alcohol-muscle-growth-mtor-pathway-science",{"href":"/blog/alcohol-muscle-growth-mtor-pathway-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."}]]}],["$","$Ld","hydration-electrolytes-muscle-building-science",{"href":"/blog/hydration-electrolytes-muscle-building-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hydration and Electrolytes: The Hidden Factor in Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters obsess over protein, training volume, and rest—but overlook the fundamentals of hydration. Science shows proper fluid and electrolyte balance can make or break your gains."}]]}],["$","$Ld","muscle-memory-myonuclei-retention-science",{"href":"/blog/muscle-memory-myonuclei-retention-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows your muscles remember training. New research reveals myonuclear retention means strength returns faster after detraining - here's what that means for your programming."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

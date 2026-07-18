@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taf7,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/rear-delt-training-neglected-muscle#webpage","url":"https://jacked.coach/blog/rear-delt-training-neglected-muscle","name":"Rear Delt Training: The Neglected Muscle That's Holding Back Your Physique","description":"Most lifters overdeveloped chest and front delts but neglect their rear delts, creating postural problems and an unbalanced physique. Here's the science and...","breadcrumb":{"@id":"https://jacked.coach/blog/rear-delt-training-neglected-muscle#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/rear-delt-training-neglected-muscle#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/rear-delt-training-neglected-muscle#webpage"},"headline":"Rear Delt Training: The Neglected Muscle That's Holding Back Your Physique","description":"Most lifters overdeveloped chest and front delts but neglect their rear delts, creating postural problems and an unbalanced physique. Here's the science and...","isAccessibleForFree":true,"wordCount":938,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/rear-delt-training-neglected-muscle#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Rear Delt Training: The Neglected Muscle That's Holding Back Your Physique","item":"https://jacked.coach/blog/rear-delt-training-neglected-muscle"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Rear Delt Training: The Neglected Muscle That's Holding Back Your Physique"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Most lifters overdeveloped chest and front delts but neglect their rear delts, creating postural problems and an unbalanced physique. Here's the science and exact training protocol."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Rear%20Delt%20Training%3A%20The%20Neglected%20Muscle%20That's%20Holding%20Back%20Your%20Physique&url=https://jacked.coach/blog/rear-delt-training-neglected-muscle","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","why-rear-delts-matter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-rear-delts-matter","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Rear Delts Matter"}]}],["$","li","the-functional-problems",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-functional-problems","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Functional Problems"}]}],["$","li","the-aesthetic-problem",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-aesthetic-problem","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Aesthetic Problem"}]}],["$","li","the-science-of-rear-delt-development",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-of-rear-delt-development","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science of Rear Delt Development"}]}],["$","li","muscle-architecture",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#muscle-architecture","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Muscle Architecture"}]}],["$","li","the-stretch-advantage",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-stretch-advantage","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Stretch Advantage"}]}],["$","li","the-exact-training-protocol",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-exact-training-protocol","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Exact Training Protocol"}]}],["$","li","movement-1-face-pulls-foundation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#movement-1-face-pulls-foundation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Movement 1: Face Pulls (Foundation)"}]}],["$","li","movement-2-reverse-flyes-mass-builder",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#movement-2-reverse-flyes-mass-builder","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Movement 2: Reverse Flyes (Mass Builder)"}]}],["$","li","movement-3-cable-rear-delt-pulls-isolation",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#movement-3-cable-rear-delt-pulls-isolation","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Movement 3: Cable Rear Delt Pulls (Isolation)"}]}],["$","li","movement-4-band-pull-aparts-warm-up-and-finisher",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#movement-4-band-pull-aparts-warm-up-and-finisher","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Movement 4:band Pull-Aparts (Warm-Up and Finisher)"}]}],["$","li","common-mistakes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#common-mistakes","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Common Mistakes"}]}],["$","li","programming-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#programming-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Programming Recommendations"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1ce8,<p>If you look at most gym-goers, you'll notice a pattern: big chests, rounded shoulders, and backs that seem to disappear from the side view. The culprit isn't just weak lats—it's underdeveloped rear deltoids. This small muscle group is the key to shoulder health, posture, and that capped, three-dimensional look that separates a good physique from a great one.</p>
+<h2 id="why-rear-delts-matter">Why Rear Delts Matter</h2>
+<p>Your shoulder has three heads of the deltoid: anterior (front), lateral (side), and posterior (rear). Most pressing movements—the bench press, overhead press, push-ups—hammer the anterior and lateral heads. Without dedicated rear delt work, you develop what's commonly called " APT shoulder" or anterior dominance.</p>
+<h3 id="the-functional-problems">The Functional Problems</h3>
+<p>Rear delts do more than look good:</p>
+<ol>
+<li><strong>External rotation</strong> - They rotate your upper arm outward, counteracting the internal rotation from all that pressing</li>
+<li><strong>Shoulder health</strong> - Weak rear delts correlate with shoulder impingement and rotator cuff issues</li>
+<li><strong>Posture</strong> - They pull your shoulders back and down, fighting the forward-rounded position from desk work and chest pressing</li>
+<li><strong>Scapular control</strong> - They stabilize your shoulder blade during pressing and pulling movements</li>
+</ol>
+<h3 id="the-aesthetic-problem">The Aesthetic Problem</h3>
+<p>From the side or behind, underdeveloped rear delts make your shoulders look flat. Well-developed posterior delts create the "capped" appearance visible from any angle—the three-dimensional look that photographers and judges notice immediately.</p>
+<h2 id="the-science-of-rear-delt-development">The Science of Rear Delt Development</h2>
+<p>Research shows rear delts respond similarly to other muscles—they need mechanical tension through a full range of motion. However, they're at a mechanical disadvantage compared to pressing movements, which is why they lag behind.</p>
+<h3 id="muscle-architecture">Muscle Architecture</h3>
+<p>Rear delts have a higher proportion of slow-twitch fibers (Type I) compared to anterior delts, meaning they respond better to:</p>
+<ul>
+<li>Higher rep ranges (12-20)</li>
+<li>Longer time under tension</li>
+<li>Consistent volume over time</li>
+</ul>
+<h3 id="the-stretch-advantage">The Stretch Advantage</h3>
+<p>Here's what most lifters miss: rear delts get their best stretch at the bottom of movements like face pulls and reverse flyes. Research on shoulder biomechanics shows the posterior deltoid elongates significantly when your arm is raised and moved behind your body—the exact position most people avoid because it feels awkward.</p>
+<h2 id="the-exact-training-protocol">The Exact Training Protocol</h2>
+<h3 id="movement-1-face-pulls-foundation">Movement 1: Face Pulls (Foundation)</h3>
+<p><strong>Sets:</strong> 3-4<br>
+<strong>Reps:</strong> 15-25<br>
+<strong>Rest:</strong> 60 seconds</p>
+<p>The face pull is your rear delt foundation. Use a rope attachment set at eye level or slightly above.</p>
+<p><strong>Technique cues:</strong></p>
+<ul>
+<li>Pull toward your forehead, not your chest</li>
+<li>Externally rotate at the end (thumbs up)</li>
+<li>Squeeze at the peak for one second</li>
+<li>Control the negative—don't just let the weight pull you back</li>
+</ul>
+<p><strong>Progression:</strong> Once you hit 25 clean reps, add a 2-second pause at the stretch position (arms extended forward).</p>
+<h3 id="movement-2-reverse-flyes-mass-builder">Movement 2: Reverse Flyes (Mass Builder)</h3>
+<p><strong>Sets:</strong> 3-4<br>
+<strong>Reps:</strong> 12-15<br>
+<strong>Rest:</strong> 60-90 seconds</p>
+<p>Bent-over or chest-supported reverse flyes target rear delts directly.</p>
+<p><strong>Technique cues:</strong></p>
+<ul>
+<li>Lead with your elbows, not your hands</li>
+<li>Think " elbows back" rather than "hands up"</li>
+<li>Squeeze shoulder blades together at the top</li>
+<li>Use a slight forward lean to increase the stretch</li>
+</ul>
+<p><strong>Weight selection:</strong> Go lighter than you think. The rear delt is a small muscle— Ego lifting here just shifts the work to your upper back.</p>
+<h3 id="movement-3-cable-rear-delt-pulls-isolation">Movement 3: Cable Rear Delt Pulls (Isolation)</h3>
+<p><strong>Sets:</strong> 2-3<br>
+<strong>Reps:</strong> 15-20<br>
+<strong>Rest:</strong> 45 seconds</p>
+<p>Single-arm cable pulls provide constant tension and allow for a full stretch.</p>
+<p><strong>Technique cues:</strong></p>
+<ul>
+<li>Set the pulley at waist height</li>
+<li>Pull straight back, keeping your elbow slightly bent</li>
+<li>Focus on moving your pinky finger outward (this optimizes rear delt activation)</li>
+<li>Squeeze at the peak</li>
+</ul>
+<h3 id="movement-4-band-pull-aparts-warm-up-and-finisher">Movement 4:band Pull-Aparts (Warm-Up and Finisher)</h3>
+<p><strong>Sets:</strong> 2-3<br>
+<strong>Reps:</strong> 25-30<br>
+<strong>Rest:</strong> 30 seconds</p>
+<p>Use a light resistance band at the end of your shoulder workout or as part of your warm-up.</p>
+<p><strong>Technique cues:</strong></p>
+<ul>
+<li>Arms straight, thumbs pointing up</li>
+<li>Pull apart until the band touches your chest</li>
+<li>Lead with your elbows, not your hands</li>
+<li>Keep tension constant—don't let the band go slack</li>
+</ul>
+<h2 id="common-mistakes">Common Mistakes</h2>
+<ol>
+<li>
+<p><strong>Going too heavy</strong> - Rear delts are small muscles. Heavy rowing movements already work your upper back—rear delt isolation should be light and controlled.</p>
+</li>
+<li>
+<p><strong>Poor range of motion</strong> - Many people stop halfway through the movement. Get a full stretch at the bottom and full contraction at the top.</p>
+</li>
+<li>
+<p><strong>Neglecting the stretch</strong> - Research shows stretches under load stimulate muscle growth. Let the weight pull your arms forward at the bottom of reverse flyes.</p>
+</li>
+<li>
+<p><strong>Inconsistent training</strong> - Rear delts grow slowly. You need to train them 2-3 times per week with dedicated volume to see results.</p>
+</li>
+</ol>
+<h2 id="programming-recommendations">Programming Recommendations</h2>
+<p><strong>Frequency:</strong> 2-3 times per week<br>
+<strong>Weekly volume:</strong> 10-16 sets total<br>
+<strong>Progression:</strong> Add 1 set per week until you hit 16 sets, then increase weight</p>
+<p>For a complete shoulder program, place rear delt work at the end of your pressing or pulling workout:</p>
+<pre><code>Monday: Chest/Shoulders
+- Main compounds: Bench press, overhead press
+- Isolation: Lateral raises, rear delt work
+
+Wednesday: Back
+- Main compounds: Rows, pull-ups
+- Isolation: Rear delt work, face pulls
+
+Friday: Upper Body
+- Main compounds: Overhead press, incline press
+- Isolation: Rear delt work
+</code></pre>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Rear delt development is the marker of a well-trained, educated lifter. Most people skip it because the gains aren't visible from the front—but they're obvious from the side and behind. With 10-15 minutes of targeted work, 2-3 times per week, you'll see noticeable improvements in shoulder health, posture, and aesthetics within 8-12 weeks.</p>
+<p>The best part? You don't need heavy weights. You need consistent effort and proper technique.</p>
+<hr>
+<p><em>Track your rear delt training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","neck-training-lifters-strength-aesthetics",{"href":"/blog/neck-training-lifters-strength-aesthetics","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Neck Training for Lifters: The Missing Link in Strength and Aesthetics"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters ignore their neck, but weak neck muscles contribute to posture problems, headaches, and reduced performance. Here's the science and practical training guide."}]]}],["$","$Ld","muscle-memory-detraining-science-2026",{"href":"/blog/muscle-memory-detraining-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."}]]}],["$","$Ld","muscle-memory-myonuclei-retention-science",{"href":"/blog/muscle-memory-myonuclei-retention-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Muscle Memory: Why Your Gains Come Back Faster"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Science shows your muscles remember training. New research reveals myonuclear retention means strength returns faster after detraining - here's what that means for your programming."}]]}],["$","$Ld","forearm-hypertrophy-training-science",{"href":"/blog/forearm-hypertrophy-training-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Forearm Hypertrophy: What Actually Works"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Most lifters neglect their forearms, yet they're crucial for pulling strength and overall arm aesthetics. Here's what the research actually says about building bigger, stronger forearms."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

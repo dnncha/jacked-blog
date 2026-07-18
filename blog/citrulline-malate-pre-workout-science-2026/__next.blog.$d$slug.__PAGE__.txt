@@ -1,0 +1,231 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taf9,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026#webpage","url":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026","name":"Citrulline Malate: The Pre-Workout Supplement That Actually Works","description":"Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing.","breadcrumb":{"@id":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026#webpage"},"headline":"Citrulline Malate: The Pre-Workout Supplement That Actually Works","description":"Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing.","isAccessibleForFree":true,"wordCount":932,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Deload Calculator","url":"https://jacked.coach/tools/deload-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Citrulline Malate: The Pre-Workout Supplement That Actually Works","item":"https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Citrulline Malate: The Pre-Workout Supplement That Actually Works"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Citrulline%20Malate%3A%20The%20Pre-Workout%20Supplement%20That%20Actually%20Works&url=https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","deload-calculator",{"href":"/tools/deload-calculator","data-related-tool":"deload-calculator","children":"Deload Calculator"}],["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","what-is-citrulline-malate",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-is-citrulline-malate","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Is Citrulline Malate?"}]}],["$","li","the-science-what-citrulline-actually-does",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-science-what-citrulline-actually-does","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Science: What Citrulline Actually Does"}]}],["$","li","53-more-reps-on-bench-press",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#53-more-reps-on-bench-press","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"53% More Reps on Bench Press"}]}],["$","li","blood-flow-and-the-pump",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#blood-flow-and-the-pump","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Blood Flow and the \"Pump\""}]}],["$","li","ammonia-clearance",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#ammonia-clearance","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Ammonia Clearance"}]}],["$","li","does-it-build-muscle-directly",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#does-it-build-muscle-directly","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Does It Build Muscle Directly?"}]}],["$","li","dosing-and-timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#dosing-and-timing","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Dosing and Timing"}]}],["$","li","timing",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#timing","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Timing"}]}],["$","li","l-citrulline-vs-citrulline-malate",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#l-citrulline-vs-citrulline-malate","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"L-Citrulline vs. Citrulline Malate"}]}],["$","li","who-should-use-it",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-use-it","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Use It?"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1c6d,<p>If you've ever stared at a pre-workout label trying to decipher which ingredient actually does something, you're not alone. Most supplements are hype. Citrulline malate is different.</p>
+<p>Backed by peer-reviewed research and used by athletes and bodybuilders alike, citrulline malate is one of the few supplements with consistent, meaningful evidence supporting its use for resistance training performance. Let's break down the science.</p>
+<h2 id="what-is-citrulline-malate">What Is Citrulline Malate?</h2>
+<p>Citrulline is a non-essential amino acid your body produces naturally and can also get from foods like watermelon (its name comes from <em>Citrullus lanatus</em>, the scientific term for watermelon).</p>
+<p>Citrulline malate is citrulline bonded to malic acid—typically in a 2:1 ratio. The malate (malic acid) component may have its own benefits for energy production through the Krebs cycle, which is why many supplements use this form rather than pure L-citrulline.</p>
+<p><strong>Why not just take arginine?</strong> Oral arginine suffers from heavy "first-pass metabolism"—your liver breaks it down before it reaches your bloodstream. Citrulline bypasses this entirely, getting converted to arginine in the kidneys, resulting in much higher circulating arginine levels.</p>
+<h2 id="the-science-what-citrulline-actually-does">The Science: What Citrulline Actually Does</h2>
+<h3 id="53-more-reps-on-bench-press">53% More Reps on Bench Press</h3>
+<p>A 2010 study published in the <em>Journal of Strength and Conditioning Research</em> found that citrulline malate supplementation increased the number of bench press repetitions by <strong>53%</strong> compared to placebo. That's not a typo—nearly one and a half times more volume on the same workout.</p>
+<p>The same study also found a <strong>40% reduction in muscle soreness</strong> at 24 and 48 hours post-exercise. Better blood flow means faster clearance of metabolic waste products like ammonia and lactate.</p>
+<h3 id="blood-flow-and-the-pump">Blood Flow and the "Pump"</h3>
+<p>Citrulline's primary mechanism is boosting nitric oxide (NO) production. Nitric oxide dilates blood vessels, delivering more oxygen and nutrients to working muscles during exercise. This creates:</p>
+<ul>
+<li><strong>Better endurance</strong> — more oxygen delivery means less early fatigue</li>
+<li><strong>Improved "pump"</strong> — increased blood volume in muscle tissue</li>
+<li><strong>Faster recovery</strong> — improved circulation helps clear metabolic byproducts</li>
+</ul>
+<p>A 2026 study from <em>Frontiers in Physiology</em> confirmed that both 6g and 12g doses significantly increase serum citrulline, arginine, and ornithine levels—all markers favorable to nitric oxide production. However, acute vascular responses (measured by flow-mediated dilation) showed no significant changes in healthy young males, suggesting the benefits may be more apparent during exercise or in populations with impaired endothelial function.</p>
+<h3 id="ammonia-clearance">Ammonia Clearance</h3>
+<p>Citrulline plays a role in the urea cycle, helping your body eliminate ammonia—a toxic byproduct of protein metabolism that contributes to exercise-induced fatigue. By enhancing ammonia clearance, citrulline may help you train harder for longer.</p>
+<h2 id="does-it-build-muscle-directly">Does It Build Muscle Directly?</h2>
+<p>Here's the honest answer: citrulline malate is primarily a <strong>performance enhancer</strong>, not an anabolic agent like creatine. It won't directly increase muscle protein synthesis the way creatine or sufficient protein intake does.</p>
+<p>However, the <strong>indirect benefits are significant</strong>:</p>
+<ul>
+<li>More reps per set → more total volume → more mechanical tension → more growth stimulus</li>
+<li>Reduced soreness → better recovery → more frequent, higher-quality training</li>
+<li>Improved endurance → more sets, more sessions per week</li>
+</ul>
+<p>If you're training harder and recovering faster, you're creating better conditions for muscle growth—even if citrulline itself isn't "building" the muscle.</p>
+<h2 id="dosing-and-timing">Dosing and Timing</h2>
+<p>| Context | Dosage | Notes |
+|---------|--------|-------|
+| Exercise performance | 3-6g L-citrulline | Taken 30-60 min before training |
+| Citrulline malate (2:1) | 6-8g | Contains ~56% citrulline by weight |
+| Blood pressure support | 3-6g daily | Consistent daily use |</p>
+<p><strong>Key point:</strong> If you're using citrulline malate (the most common form in pre-workouts), you need roughly double the dose compared to pure L-citrulline because only about 56% is actually citrulline by weight.</p>
+<h3 id="timing">Timing</h3>
+<p>Take citrulline 30-60 minutes before your workout. This gives it time to be absorbed and converted to arginine, peaking blood levels right when you start training.</p>
+<h3 id="l-citrulline-vs-citrulline-malate">L-Citrulline vs. Citrulline Malate</h3>
+<ul>
+<li><strong>Pure L-citrulline</strong> — Full dose is active ingredient. Best if you want precise dosing.</li>
+<li><strong>Citrulline malate</strong> — Contains malic acid, which may aid energy production. You need more to get equivalent citrulline.</li>
+</ul>
+<p>Most commercial pre-workouts use citrulline malate because it's cheaper and the malic acid adds to the "pump" sensation.</p>
+<h2 id="who-should-use-it">Who Should Use It?</h2>
+<p>Citrulline malate is especially useful for:</p>
+<ul>
+<li><strong>Strength athletes</strong> — the rep increase evidence is compelling</li>
+<li><strong>Anyone chasing better pumps</strong> — improved blood flow is well-documented</li>
+<li><strong>People prone to muscle soreness</strong> — the 40% reduction in soreness is significant</li>
+<li><strong>High-volume trainers</strong> — more endurance means more total work</li>
+</ul>
+<p>It's NOT necessary if:</p>
+<ul>
+<li>You're already crushing your workouts and recovering fine</li>
+<li>You don't care about the "pump" sensation</li>
+<li>You're预算-conscious and want to prioritize protein/creatine first</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Citrulline malate is one of the few supplements where the evidence actually matches the hype. The 53% rep increase study is eye-popping, and the reduced soreness is a genuine quality-of-life improvement for hard trainers.</p>
+<p><strong>Recommended approach:</strong> If you want to try it, go with 6-8g of citrulline malate (or 3-4g pure L-citrulline) 30-60 minutes before training. It works best as part of a solid foundation—creatine, sufficient protein, and proper training come first. But once you've nailed the basics, citrulline is a well-researched upgrade that can help you squeeze out extra performance.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ol>
+<li>Pérez-Guisado, J., &#x26; Jakeman, P. (2010). Citrulline malate enhances athletic anaerobic performance and relieves muscle soreness. <em>Journal of Strength and Conditioning Research</em>.</li>
+<li>Grannes et al. (2026). Acute effect of citrulline malate on flow-mediated dilation and serum pharmacodynamics in healthy young males. <em>Frontiers in Physiology</em>.</li>
+</ol>
+<hr>
+<p><em>Track your pre-workout with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","sodium-bicarbonate-ergogenic-aid-performance",{"href":"/blog/sodium-bicarbonate-ergogenic-aid-performance","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Sodium Bicarbonate: The Cheap Ergogenic Aid That Actually Works"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Baking soda isn't just for baking—it's one of the most researched and effective legal supplements for high-intensity performance. Here's what the science says about dosing, timing, and who benefits most."}]]}],["$","$Ld","anabolic-window-myth-2025",{"href":"/blog/anabolic-window-myth-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Anabolic Window: Myth vs. Science (2025 Research Update)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The 30-minute post-workout window is one of fitness's most persistent myths. Here's what 2025 research actually says about protein timing and muscle protein synthesis."}]]}],["$","$Ld","vitamin-d-muscle-building-strength-science",{"href":"/blog/vitamin-d-muscle-building-strength-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Vitamin D and Muscle Building: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Recent meta-analyses reveal nuanced benefits of vitamin D for strength athletes. Here's what the research says about supplementation, blood levels, and practical optimization."}]]}],["$","$Ld","ashwagandha-strength-training-supplement-science-2026",{"href":"/blog/ashwagandha-strength-training-supplement-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Ashwagandha for Lifters: The Stress-Adaptogen That Builds Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2026 research confirms ashwagandha reduces cortisol, enhances recovery, and increases strength—here's what the science shows about this ancient herb for modern lifters."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

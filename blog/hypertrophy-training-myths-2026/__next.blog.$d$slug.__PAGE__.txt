@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Ta3d,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/hypertrophy-training-myths-2026#webpage","url":"https://jacked.coach/blog/hypertrophy-training-myths-2026","name":"Hypertrophy Training Myths: What Science Actually Says in 2026","description":"We separate fact from fiction with the latest research on muscle building. No bro-science allowed.","breadcrumb":{"@id":"https://jacked.coach/blog/hypertrophy-training-myths-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/hypertrophy-training-myths-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/hypertrophy-training-myths-2026#webpage"},"headline":"Hypertrophy Training Myths: What Science Actually Says in 2026","description":"We separate fact from fiction with the latest research on muscle building. No bro-science allowed.","isAccessibleForFree":true,"wordCount":972,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/hypertrophy-training-myths-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Hypertrophy Training Myths: What Science Actually Says in 2026","item":"https://jacked.coach/blog/hypertrophy-training-myths-2026"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Hypertrophy Training Myths: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"We separate fact from fiction with the latest research on muscle building. No bro-science allowed."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Hypertrophy%20Training%20Myths%3A%20What%20Science%20Actually%20Says%20in%202026&url=https://jacked.coach/blog/hypertrophy-training-myths-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","myth-1-light-weights-can-t-build-serious-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-1-light-weights-can-t-build-serious-muscle","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 1: Light Weights Can't Build Serious Muscle"}]}],["$","li","myth-2-the-anabolic-window-after-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-2-the-anabolic-window-after-training","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 2: The \"Anabolic Window\" After Training"}]}],["$","li","myth-3-more-training-volume-more-growth",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-3-more-training-volume-more-growth","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 3: More Training Volume = More Growth"}]}],["$","li","myth-4-time-under-tension-is-essential",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-4-time-under-tension-is-essential","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 4: \"Time Under Tension\" is Essential"}]}],["$","li","myth-5-you-need-to-train-to-failure-every-set",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-5-you-need-to-train-to-failure-every-set","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 5: You Need to Train to Failure Every Set"}]}],["$","li","myth-6-compound-vs-isolation-the-false-dichotomy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-6-compound-vs-isolation-the-false-dichotomy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 6: Compound vs. Isolation: The False Dichotomy"}]}],["$","li","myth-7-stretch-based-training-is-cheating",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#myth-7-stretch-based-training-is-cheating","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Myth 7: Stretch-Based Training is \"Cheating\""}]}],["$","li","putting-it-all-together-what-actually-matters",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#putting-it-all-together-what-actually-matters","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Putting It All Together: What Actually Matters"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}],["$","li","references",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#references","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"References"}]}]]}]]}]
+e:T1e82,<p>The fitness industry is drowning in myths passed down through generations of lifters. "Train legs for spine health." "High reps for toning." "You need to feel the burn." Sound familiar?</p>
+<p>A landmark 2025 review published in <em>ScienceDirect</em> titled "Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions" systematically dismantles several persistent myths that continue to plague resistance training. Let's dive into what science actually tells us.</p>
+<h2 id="myth-1-light-weights-can-t-build-serious-muscle">Myth 1: Light Weights Can't Build Serious Muscle</h2>
+<p><strong>The Myth:</strong> You need to lift heavy (below 6 reps) to maximize hypertrophy. Light weights just "tone."</p>
+<p><strong>The Reality:</strong> This is perhaps the most damaging myth in resistance training. While mechanical tension is the primary driver of hypertrophy, research now clearly shows that load is NOT the determining factor for muscle growth when training to or near failure.</p>
+<p>A 2025 meta-analysis confirmed that as long as you train to muscular failure (or very close to it), loads between 5-30+ reps produce equivalent hypertrophic responses. The key variable isn't the weight on the bar—it's proximity to failure.</p>
+<p><strong>What This Means:</strong> If you can do 30 reps with perfect form, you're leaving gains on the table. Train to failure or 1-2 reps in reserve, and the weight itself becomes almost irrelevant for hypertrophy.</p>
+<h2 id="myth-2-the-anabolic-window-after-training">Myth 2: The "Anabolic Window" After Training</h2>
+<p><strong>The Myth:</strong> You must consume protein within 30-60 minutes post-workout or miss out on muscle growth.</p>
+<p><strong>The Reality:</strong> The anabolic window is far wider than marketing would have you believe. A 2025 systematic review found that total daily protein intake and distribution matter far more than timing around your workout.</p>
+<p>Your body doesn't "turn off" muscle protein synthesis the moment the clock passes 60 minutes post-training. The practical advice: consume adequate protein throughout the day (1.6-2.2g/kg bodyweight), not in some narrow window around your training session.</p>
+<h2 id="myth-3-more-training-volume-more-growth">Myth 3: More Training Volume = More Growth</h2>
+<p><strong>The Myth:</strong> If 3 sets works, 10 sets must work better. Volume is the primary driver of hypertrophy.</p>
+<p><strong>The Reality:</strong> The dose-response relationship between volume and hypertrophy follows a curve, not a linear line. Beyond a certain point (roughly 10-20 sets per muscle group per week), diminishing returns set in, and excessive volume increases injury risk and interferes with recovery.</p>
+<p>A 2025 study found that the "minimum effective dose" for hypertrophy might be lower than previously thought—possibly as few as 5-10 hard sets per muscle group weekly for trained individuals. More isn't always better.</p>
+<h2 id="myth-4-time-under-tension-is-essential">Myth 4: "Time Under Tension" is Essential</h2>
+<p><strong>The Myth:</strong> Slow, controlled reps with 3-5 second eccentric phases maximize muscle growth by increasing time under tension.</p>
+<p><strong>The Reality:</strong> While time under tension correlates with hypertrophy, it's a correlate, not a cause. The primary driver remains mechanical tension and proximity to failure. Research shows that typical rep durations (1-2 seconds per rep) produce equivalent or superior results to extended tempo protocols.</p>
+<p>Slow tempos might help beginners learn movement patterns, but they offer no special hypertrophic advantage. Save time and train with intent.</p>
+<h2 id="myth-5-you-need-to-train-to-failure-every-set">Myth 5: You Need to Train to Failure Every Set</h2>
+<p><strong>The Myth:</strong> Every set must go to absolute failure to maximize growth.</p>
+<p><strong>The Reality:</strong> Training to failure increases fatigue, injury risk, and requires longer recovery. The 2025 research suggests that while training to failure is effective, training to 1-2 reps in reserve (RIR 1-2) produces nearly identical hypertrophy while preserving performance for subsequent sets and sessions.</p>
+<p>Reserve a few hard sets for the end of your workout—but systematic failure training isn't necessary or advisable for most lifters.</p>
+<h2 id="myth-6-compound-vs-isolation-the-false-dichotomy">Myth 6: Compound vs. Isolation: The False Dichotomy</h2>
+<p><strong>The Myth:</strong> Compound movements are superior; isolation exercises are "bodybuilder vanity."</p>
+<p><strong>The Reality:</strong> Both are valuable. Compound movements build overall muscle mass and strength efficiently, but they don't target individual muscles optimally. Isolation exercises allow you to specifically target lagging muscle groups that compounds under-develop.</p>
+<p>The best programs use both. A 2025 review confirmed that training programs incorporating both movement types produce superior hypertrophic outcomes compared to compounds-only or isolation-only approaches.</p>
+<h2 id="myth-7-stretch-based-training-is-cheating">Myth 7: Stretch-Based Training is "Cheating"</h2>
+<p><strong>The Myth:</strong> Lengthened partials and stretch-mediated hypertrophy are gimmick training.</p>
+<p><strong>The Reality:</strong> This might be the most exciting recent development in hypertrophy science. Research from 2024-2026 has confirmed that the stretch-under-load position produces significant muscle growth through distinct mechanisms (sarcomerogenesis). The eccentric/elongated portion of a lift isn't just a transition—it's an active hypertrophic stimulus.</p>
+<p>Programs emphasizing lengthened partials and deep stretch positions (like cable flyes at the bottom, sissy squats, or RDLs at the bottom) are showing promising results. This isn't bro-science—it's mechanotransduction in action.</p>
+<h2 id="putting-it-all-together-what-actually-matters">Putting It All Together: What Actually Matters</h2>
+<p>Based on the 2025-2026 research, here's what actually drives muscle growth:</p>
+<ol>
+<li><strong>Mechanical Tension:</strong> Lift heavy or light, but challenge your muscles</li>
+<li><strong>Proximity to Failure:</strong> Train hard (RIR 0-2), regardless of load</li>
+<li><strong>Progressive Overload:</strong> Get slightly stronger or do slightly more over time</li>
+<li><strong>Volume (Appropriate):</strong> 10-20 sets per muscle group weekly</li>
+<li><strong>Protein Intake:</strong> 1.6-2.2g/kg bodyweight daily</li>
+<li><strong>Recovery:</strong> Sleep 7-9 hours; manage stress</li>
+</ol>
+<p>Everything else—supplements, perfect form, specific rep ranges, training to failure every set—is secondary optimization at best.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>The fitness industry profits from complexity. Simplicity works. Train consistently, push hard, eat enough protein, and sleep. The myths persist because they sell products, magazines, and training programs. But the science is clear: muscle building is more straightforward than the influencers would have you believe.</p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li>Load-induced human skeletal muscle hypertrophy: Mechanisms, myths, and misconceptions. <em>ScienceDirect</em>, November 2025.</li>
+<li>Grgic J, et al. Effects of load on hypertrophy: A meta-analysis. <em>Sports Medicine</em>, 2025.</li>
+<li>Optimal protein intake for muscle growth: A systematic review. <em>Journal of Nutrition</em>, 2025.</li>
+<li>Time under tension and hypertrophy: A systematic review. <em>International Journal of Sports Physiology</em>, 2025.</li>
+<li>Stretch-mediated hypertrophy: New mechanisms. <em>Journal of Applied Physiology</em>, 2026.</li>
+</ol>
+<hr>
+<p><em>Track your training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","pre-workout-protein-science-2026",{"href":"/blog/pre-workout-protein-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Pre-Workout Protein: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The debate continues—should you eat protein before or after training? We review the latest 2025-2026 research to separate fact from fitness fiction."}]]}],["$","$Ld","sarcoplasmic-vs-myofibrillar-hypertrophy-science-2026",{"href":"/blog/sarcoplasmic-vs-myofibrillar-hypertrophy-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The age-old bodybuilding debate finally answered with 2025 research. Does pump training actually build different muscle than heavy lifting?"}]]}],["$","$Ld","testosterone-muscle-building-science-2026",{"href":"/blog/testosterone-muscle-building-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Testosterone and Muscle Building: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Separating facts from fiction about testosterone's role in muscle growth — and what you can actually do about it."}]]}],["$","$Ld","proximity-to-failure-hypertrophy-2026",{"href":"/blog/proximity-to-failure-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Load Debate Revisited: What 2025-2026 Research Really Says About Building Muscle"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New research reveals that proximity to failure matters more than load for hypertrophy, but there's a catch. Here's what the latest science tells us about optimizing your training."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

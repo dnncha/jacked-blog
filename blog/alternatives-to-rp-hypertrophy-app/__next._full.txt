@@ -1,0 +1,690 @@
+1:"$Sreact.fragment"
+a:I[68027,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+2:T6fd,(function(e,c){if(!c.__SV){var l,h;window.mixpanel=c;c._i=[];c.init=function(q,r,f){function t(d,a){var g=a.split(".");2==g.length&&(d=d[g[0]],a=g[1]);d[a]=function(){d.push([a].concat(Array.prototype.slice.call(arguments,0)))}}var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";b.people=b.people||[];b.toString=function(d){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);d||(a+=" (stub)");return a};b.people.toString=function(){return b.toString(1)+".people (stub)"};l="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders start_session_recording stop_session_recording people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<l.length;h++)t(b,l[h]);var n="set set_once union unset remove delete".split(" ");b.get_group=function(){function d(p){a[p]=function(){b.push([g,[p].concat(Array.prototype.slice.call(arguments,0))])}}for(var a={},g=["get_group"].concat(Array.prototype.slice.call(arguments,0)),m=0;m<n.length;m++)d(n[m]);return a};c._i.push([q,r,f])};c.__SV=1.2;var k=e.createElement("script");k.type="text/javascript";k.async=!0;k.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=e.getElementsByTagName("script")[0];e.parentNode.insertBefore(k,e)}})(document,window.mixpanel||[]);mixpanel.init('32b861825d2e0b1beca8b2a1ae0f52c1',{autocapture:false,record_sessions_percent:0,api_host:'https://api-eu.mixpanel.com'});0:{"P":null,"c":["","blog","alternatives-to-rp-hypertrophy-app"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","alternatives-to-rp-hypertrophy-app","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/13h-0fd.p-1ga.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}],["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Jacked training library RSS feed","href":"/feed.xml"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Jacked - Gym Workout Tracker\",\"alternateName\":\"Jacked\",\"operatingSystem\":\"iOS\",\"applicationCategory\":\"HealthApplication\",\"description\":\"Free iPhone workout tracker with weekly muscle targets, double progression, next-lift guidance, fast set logging, rest timers, and compatible Hevy import.\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\",\"availability\":\"https://schema.org/InStock\"},\"url\":\"https://jacked.coach\",\"downloadUrl\":\"https://apps.apple.com/app/id6757132605\",\"featureList\":[\"Fast workout and set logging\",\"Weekly hard-set targets by muscle\",\"Double progression guidance\",\"Next load and rep-range targets\",\"Compatible Hevy workout history import\",\"Rest timer and active workout resume\",\"Lift and workout history\"]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Jacked\",\"url\":\"https://jacked.coach\",\"logo\":\"https://jacked.coach/og-image.png\",\"sameAs\":[\"https://apps.apple.com/app/id6757132605\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"url\":\"https://jacked.coach/support\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Jacked\",\"url\":\"https://jacked.coach\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jacked.coach/blog?search={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"4oDca2fm6PaWFsjWl2cD8"}
+b:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+c:I[39756,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+d:I[37457,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+11:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+3:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener('click',function(e){const a=e.target.closest('[data-nav-section]');if(a){window.mixpanel?.track?.('nav_click',{section:a.getAttribute('data-nav-section')||'unknown'});}const c=e.target.closest('[data-global-cta]');if(c){window.mixpanel?.track?.('cta_click',{placement:c.getAttribute('data-global-cta')||'unknown',target:'app_store'});}const r=e.target.closest('[data-related-tool]');if(r){const p=new URLSearchParams(window.location.search);window.mixpanel?.track?.('tool_related_tool_clicked',{tool_name:window.location.pathname.split('/').filter(Boolean).pop()||'tools',related_tool:r.getAttribute('data-related-tool')||'unknown',units:'',goal:'',exercise_type:'',source_page:document.referrer||'',utm_source:p.get('utm_source')||'',utm_campaign:p.get('utm_campaign')||''});}});"}}]
+4:["$","body",null,{"style":{"margin":0,"fontFamily":"-apple-system, BlinkMacSystemFont, \"SF Pro Text\", \"Inter\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","lineHeight":1.6,"color":"#e5e5e5","backgroundColor":"#000000"},"children":[["$","header",null,{"style":{"backgroundColor":"#000000","borderBottom":"1px solid rgba(242,238,228,0.1)","color":"white","padding":"0.85rem 1.5rem","position":"sticky","top":0,"zIndex":100},"children":["$","nav",null,{"style":{"maxWidth":"1120px","margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","flexWrap":"wrap","gap":"1rem"},"children":[["$","$Lb",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none","display":"flex","alignItems":"center","gap":"0.5rem"},"children":["$","span",null,{"style":{"fontSize":"1.22rem","fontWeight":"760","letterSpacing":"0.02em","fontStyle":"normal","background":"linear-gradient(135deg, #ead878 0%, #c7aa44 100%)","WebkitBackgroundClip":"text","WebkitTextFillColor":"transparent","backgroundClip":"text"},"children":"JACKED"}]}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1rem","flexWrap":"wrap"},"children":[["$","$Lb",null,{"href":"/tools","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Tools"}],["$","$Lb",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Training Library"}],["$","$Lb",null,{"href":"/about","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"About"}],["$","$Lb",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontWeight":"650","fontSize":"0.88rem"},"children":"Support"}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"color":"#111","textDecoration":"none","fontWeight":"720","background":"#e2c95f","padding":"0.5rem 1rem","borderRadius":"8px","fontSize":"0.84rem","transition":"transform 0.2s, box-shadow 0.2s","display":"inline-block"},"data-global-cta":"header","children":"Get the iPhone App"}]]}]]}]}],["$","main",null,{"style":{"margin":"0 auto","padding":0,"minHeight":"calc(100vh - 200px)","backgroundColor":"#000000"},"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"style":{"backgroundColor":"#0a0a0a","borderTop":"1px solid #222","color":"#8f897c","padding":"2rem","textAlign":"center"},"children":[["$","div",null,{"style":{"display":"flex","justifyContent":"center","gap":"1rem","flexWrap":"wrap","marginBottom":"0.9rem"},"children":[["$","$Lb",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Training Library"}],["$","$Lb",null,{"href":"/blog/alternatives-to-rp-hypertrophy-app","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"RP Hypertrophy alternatives"}],["$","$Lb",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Support"}],["$","$Lb",null,{"href":"/privacy","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Privacy"}],"$Le"]}],"$Lf"]}]]}]
+5:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+6:["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+7:["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+14:[]
+8:"$W14"
+9:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L18"}]}]}],null]}]
+e:["$","$Lb",null,{"href":"/terms","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Terms"}]
+f:["$","p",null,{"style":{"margin":0,"fontSize":"0.9rem"},"children":"© 2026 Jacked. Hypertrophy training for iPhone."}]
+19:T2149,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#webpage","url":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app","name":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters","description":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progre...","breadcrumb":{"@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#webpage"},"headline":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters","description":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progre...","datePublished":"2026-05-27","dateModified":"2026-05-27","isAccessibleForFree":true,"wordCount":4174,"articleSection":"Workout Apps","about":["hypertrophy training","progressive overload","workout tracking","Workout Apps"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"Thing","name":"RP Hypertrophy App"},{"@type":"Thing","name":"Renaissance Periodization"},{"@type":"Thing","name":"Jacked"},{"@type":"Thing","name":"Mesostrength"},{"@type":"Thing","name":"Hevy"},{"@type":"Thing","name":"Strong"},{"@type":"Thing","name":"RepLog"},{"@type":"Thing","name":"Liftosaur"},{"@type":"Thing","name":"Alpha Progression"},{"@type":"Thing","name":"Fitbod"},{"@type":"Thing","name":"Dr. Muscle"},{"@type":"WebApplication","name":"Hevy Import Checker","url":"https://jacked.coach/tools/hevy-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Strong CSV Import Checker","url":"https://jacked.coach/tools/strong-csv-import-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout CSV Validator","url":"https://jacked.coach/tools/workout-csv-validator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters","item":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app"}]},{"@type":"ItemList","@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#ranked-alternatives","name":"Best Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters","itemListOrder":"https://schema.org/ItemListOrderAscending","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"name":"Jacked","description":"Best overall alternative for iPhone lifters who want fast hypertrophy logging, RIR, progression guidance, progress review, and Hevy import. Tradeoff: Not a full RP-style template marketplace"},{"@type":"ListItem","position":2,"name":"Mesostrength","description":"Best for lifters who want the closest RP-style mesocycle alternative. Tradeoff: Web app workflow, less iPhone-native logging focus"},{"@type":"ListItem","position":3,"name":"Hevy","description":"Best for social workout logging and a generous free tracker. Tradeoff: Less hypertrophy-specific programming logic"},{"@type":"ListItem","position":4,"name":"Strong","description":"Best for minimal workout logging. Tradeoff: Limited muscle-volume and progression guidance"},{"@type":"ListItem","position":5,"name":"RepLog","description":"Best for lifters who want a lightweight RP alternative and simple logging. Tradeoff: Less complete progress review and migration context than Jacked"},{"@type":"ListItem","position":6,"name":"Liftosaur","description":"Best for advanced lifters who want programmable routines and free RP-inspired templates. Tradeoff: More setup and self-management"},{"@type":"ListItem","position":7,"name":"Alpha Progression","description":"Best for generated plans and progression suggestions. Tradeoff: Less focused on RP-style mesocycle feedback"},{"@type":"ListItem","position":8,"name":"Fitbod","description":"Best for simple AI-generated workouts. Tradeoff: Less periodized for hypertrophy blocks"},{"@type":"ListItem","position":9,"name":"Dr. Muscle","description":"Best for auto-regulated science-based programming. Tradeoff: Different workflow and presentation than RP"},{"@type":"ListItem","position":10,"name":"Spreadsheets","description":"Best for full control over volume landmarks and progression rules. Tradeoff: High maintenance during real workouts"}]},{"@type":"FAQPage","@id":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app#faq","mainEntity":[{"@type":"Question","name":"What is the best alternative to RP Hypertrophy App?","acceptedAnswer":{"@type":"Answer","text":"For iPhone lifters who want fast hypertrophy logging, RIR support, progression guidance, weekly muscle volume review, and Hevy import, Jacked is the best fit. For lifters who want the closest RP style mesocycle programming system, compare Mesostrength and Dr. Muscle."}},{"@type":"Question","name":"Is there a free alternative to RP Hypertrophy App?","acceptedAnswer":{"@type":"Answer","text":"Yes, but most free alternatives replace only part of RP. Hevy, Strong, and RepLog can work as free or low cost logbooks. Liftosaur and spreadsheets can work for lifters who are comfortable managing program logic themselves."}},{"@type":"Question","name":"What is the best RP Hypertrophy App alternative for iPhone?","acceptedAnswer":{"@type":"Answer","text":"Jacked is the best fit if you want an iPhone first hypertrophy logbook with RIR, progression guidance, rest timing, progress review, and Hevy import. Hevy and Strong are better if you only want a simpler general workout log."}},{"@type":"Question","name":"What is the closest app to RP Hypertrophy?","acceptedAnswer":{"@type":"Answer","text":"The closest programming style alternative is a mesocycle based hypertrophy planner. The closest training log alternative is an app that supports RIR, progression, and muscle level progress review without forcing the whole block structure."}},{"@type":"Question","name":"Is Mesostrength better than RP Hypertrophy App?","acceptedAnswer":{"@type":"Answer","text":"Mesostrength may be better if you want RP style mesocycle programming with a different interface, analytics model, or pricing structure. RP is still the better fit if you specifically want the Renaissance Periodization ecosystem, templates, and brand led coaching style."}},{"@type":"Question","name":"Is RepLog a good RP Hypertrophy App alternative?","acceptedAnswer":{"@type":"Answer","text":"RepLog can be a good alternative if you want a lighter workout log with bodybuilding oriented tracking. Jacked is a stronger fit if you also want iPhone first logging, progress review, body metrics, photos, Hevy import, and a more complete hypertrophy workflow."}},{"@type":"Question","name":"Is Jacked a replacement for RP Hypertrophy App?","acceptedAnswer":{"@type":"Answer","text":"Jacked can replace RP for lifters who already know how they want to train and need a faster hypertrophy focused iPhone workflow. It is not a clone of RP's guided template system."}},{"@type":"Question","name":"Should beginners use RP Hypertrophy App or an alternative?","acceptedAnswer":{"@type":"Answer","text":"Beginners usually need clear structure, good exercise selection, and consistency more than complex volume landmarks. A guided app can help, but a simpler tracker plus a well built beginner program can also work."}}]}]}10:["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]
+23:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      1a:["$","style",null,{"children":"$23"}]
+1b:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Lb",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Lb",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Workout Apps"}]]}]
+1c:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progressive overload."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Workout Apps"}],["$","span",null,{"children":["Published ","May 27, 2026"]}],["$","span",null,{"children":[19," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+1d:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Alternatives%20to%20RP%20Hypertrophy%20App%20(2026)%3A%20Best%20Options%20for%20Serious%20Lifters&url=https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+1e:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Lb","hevy-import-checker",{"href":"/tools/hevy-import-checker","data-related-tool":"hevy-import-checker","children":"Hevy Import Checker"}],["$","$Lb","strong-csv-import-checker",{"href":"/tools/strong-csv-import-checker","data-related-tool":"strong-csv-import-checker","children":"Strong CSV Import Checker"}],["$","$Lb","workout-csv-validator",{"href":"/tools/workout-csv-validator","data-related-tool":"workout-csv-validator","children":"Workout CSV Validator"}],["$","$Lb","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}]]}]]}]
+1f:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","quick-answer",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#quick-answer","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Quick Answer"}]}],["$","li","rp-hypertrophy-app-alternatives-comparison",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#rp-hypertrophy-app-alternatives-comparison","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"RP Hypertrophy App Alternatives Comparison"}]}],["$","li","apps-like-rp-hypertrophy-app",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#apps-like-rp-hypertrophy-app","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Apps Like RP Hypertrophy App"}]}],["$","li","where-each-alternative-beats-rp",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#where-each-alternative-beats-rp","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Where Each Alternative Beats RP"}]}],["$","li","who-should-stay-with-rp-hypertrophy-app",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-stay-with-rp-hypertrophy-app","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Stay With RP Hypertrophy App?"}]}],["$","li","why-people-look-for-rp-hypertrophy-app-alternatives",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-people-look-for-rp-hypertrophy-app-alternatives","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why People Look for RP Hypertrophy App Alternatives"}]}],["$","li","1-jacked",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#1-jacked","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"1. Jacked"}]}],["$","li","2-mesostrength",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#2-mesostrength","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"2. Mesostrength"}]}],["$","li","jacked-vs-mesostrength",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#jacked-vs-mesostrength","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Jacked vs Mesostrength"}]}],["$","li","3-hevy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#3-hevy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"3. Hevy"}]}],["$","li","4-strong",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#4-strong","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"4. Strong"}]}],["$","li","5-replog",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#5-replog","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"5. RepLog"}]}],["$","li","jacked-vs-replog",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#jacked-vs-replog","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Jacked vs RepLog"}]}],["$","li","6-liftosaur",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#6-liftosaur","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"6. Liftosaur"}]}]]}]]}]
+24:T7e2e,<p>RP Hypertrophy App is one of the best-known apps for evidence-based muscle-building programs. If you like Renaissance Periodization, mesocycle structure, RIR, and volume landmarks, the appeal is obvious.</p>
+<p>But it is not the right fit for every lifter.</p>
+<p>Some users want a lower-friction workout log. Some want more flexibility than a fixed mesocycle. Some already have years of training history in Hevy or Strong and do not want to start over. Others want hypertrophy-focused progression without paying for a full coaching-style programming system.</p>
+<h2 id="quick-answer">Quick Answer</h2>
+<p>The best alternatives to RP Hypertrophy App are:</p>
+<p><strong>Best overall:</strong> Jacked, if you want an iPhone-first hypertrophy logbook with RIR, progression guidance, weekly muscle-volume review, progress history, and Hevy import.</p>
+<p><strong>Closest RP-style alternative:</strong> Mesostrength, if you want a mesocycle-led programming system rather than a flexible training log.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Alternative</th>
+      <th>Best for</th>
+      <th>Main tradeoff</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jacked</td>
+      <td>iPhone lifters who want fast logging, RIR, progression guidance, progress review, and Hevy import</td>
+      <td>Not a full RP-style template marketplace</td>
+    </tr>
+    <tr>
+      <td>Mesostrength</td>
+      <td>Lifters who want the closest RP-style mesocycle alternative</td>
+      <td>Web app workflow, less iPhone-native logging focus</td>
+    </tr>
+    <tr>
+      <td>Hevy</td>
+      <td>Social workout logging and a generous free tracker</td>
+      <td>Less hypertrophy-specific programming logic</td>
+    </tr>
+    <tr>
+      <td>Strong</td>
+      <td>Minimal workout logging</td>
+      <td>Limited muscle-volume and progression guidance</td>
+    </tr>
+    <tr>
+      <td>RepLog</td>
+      <td>Lifters who want a lightweight RP alternative and simple logging</td>
+      <td>Less complete progress review and migration context than Jacked</td>
+    </tr>
+    <tr>
+      <td>Liftosaur</td>
+      <td>Advanced lifters who want programmable routines and free RP-inspired templates</td>
+      <td>More setup and self-management</td>
+    </tr>
+    <tr>
+      <td>Alpha Progression</td>
+      <td>Generated plans and progression suggestions</td>
+      <td>Less focused on RP-style mesocycle feedback</td>
+    </tr>
+    <tr>
+      <td>Fitbod</td>
+      <td>Simple AI-generated workouts</td>
+      <td>Less periodized for hypertrophy blocks</td>
+    </tr>
+    <tr>
+      <td>Dr. Muscle</td>
+      <td>Auto-regulated science-based programming</td>
+      <td>Different workflow and presentation than RP</td>
+    </tr>
+    <tr>
+      <td>Spreadsheets</td>
+      <td>Full control over volume landmarks and progression rules</td>
+      <td>High maintenance during real workouts</td>
+    </tr>
+  </tbody>
+</table>
+<p>If you are leaving RP because you want the same exact coaching model, choose another mesocycle-based programming app. If you are leaving because you want faster live training, clearer progress history, and more control over your own program, Jacked is built for that use case.</p>
+<h2 id="rp-hypertrophy-app-alternatives-comparison">RP Hypertrophy App Alternatives Comparison</h2>
+<p>Use this table if you already know what frustrated you about RP and want the fastest shortlist.</p>
+<table>
+  <thead>
+    <tr>
+      <th>App</th>
+      <th>Programming style</th>
+      <th>RIR or effort</th>
+      <th>Muscle-volume view</th>
+      <th>Platform fit</th>
+      <th>Price angle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jacked</td>
+      <td>Flexible hypertrophy logbook with progression guidance</td>
+      <td>Yes</td>
+      <td>Weekly muscle sets in Progress</td>
+      <td>iPhone-first</td>
+      <td>Best when you want a lighter workflow than a full coaching subscription</td>
+    </tr>
+    <tr>
+      <td>Mesostrength</td>
+      <td>Guided mesocycle programming</td>
+      <td>Yes, programming-led</td>
+      <td>Built around muscle-level volume thinking</td>
+      <td>Web/PWA-style workflow</td>
+      <td>Best if you want RP-style structure at a different price point</td>
+    </tr>
+    <tr>
+      <td>Hevy</td>
+      <td>General workout tracking</td>
+      <td>Limited compared with hypertrophy-specific tools</td>
+      <td>Less central</td>
+      <td>iOS, Android, web, watch support</td>
+      <td>Strong free starting point</td>
+    </tr>
+    <tr>
+      <td>Strong</td>
+      <td>Minimal workout logging</td>
+      <td>Manual</td>
+      <td>Limited</td>
+      <td>iOS, Android, web, watch support</td>
+      <td>Good if you want low-friction logging rather than programming</td>
+    </tr>
+    <tr>
+      <td>RepLog</td>
+      <td>Bodybuilding-oriented logging</td>
+      <td>Yes</td>
+      <td>Weekly set tracking focus</td>
+      <td>Lightweight app workflow</td>
+      <td>Good if you want a narrower RP alternative</td>
+    </tr>
+    <tr>
+      <td>Liftosaur</td>
+      <td>Programmable routines and templates</td>
+      <td>Depends on setup</td>
+      <td>Depends on setup</td>
+      <td>Technical, flexible workflow</td>
+      <td>Best for free or low-cost control if you can configure it</td>
+    </tr>
+    <tr>
+      <td>Alpha Progression</td>
+      <td>Generated plans and progression suggestions</td>
+      <td>Yes</td>
+      <td>Training-plan oriented</td>
+      <td>Mobile app workflow</td>
+      <td>Best if you want generated programming without RP's exact model</td>
+    </tr>
+    <tr>
+      <td>Fitbod</td>
+      <td>Daily AI workout generation</td>
+      <td>Not RP-style</td>
+      <td>Recovery/workout-generation oriented</td>
+      <td>Mobile app workflow</td>
+      <td>Best if you want simplicity more than mesocycle control</td>
+    </tr>
+    <tr>
+      <td>Dr. Muscle</td>
+      <td>Automated science-based programming</td>
+      <td>Yes, auto-regulated</td>
+      <td>Programming-oriented</td>
+      <td>Mobile app workflow</td>
+      <td>Best if you want automation and a different science-first style</td>
+    </tr>
+  </tbody>
+</table>
+<h2 id="apps-like-rp-hypertrophy-app">Apps Like RP Hypertrophy App</h2>
+<p>If by "apps like RP Hypertrophy App" you mean apps that run the training block for you, start with Mesostrength, Dr. Muscle, Alpha Progression, Fitbod, Liftosaur, or a well-built spreadsheet.</p>
+<p>If you mean apps that keep the important RP concepts visible while giving you more control, start with Jacked, RepLog, Hevy, or Strong.</p>
+<p>That distinction matters. RP is both a programming system and a training log. Most alternatives are better at one side than the other. A lifter who wants full mesocycle automation should not evaluate apps the same way as a lifter who already has a program and wants faster logging, RIR, weekly muscle-volume review, and history import.</p>
+<h2 id="where-each-alternative-beats-rp">Where Each Alternative Beats RP</h2>
+<p>Every RP alternative has to win on a specific job. Otherwise, you should probably stay with RP.</p>
+<ul>
+<li>Jacked beats RP for iPhone-first workout execution, Hevy import, flexible logging, and keeping progress review close to the live training log.</li>
+<li>Mesostrength beats RP when you want a similar mesocycle-led concept with a different analytics and pricing model.</li>
+<li>Hevy beats RP for social logging, broad platform support, and a generous general-tracker starting point.</li>
+<li>Strong beats RP for minimal logging speed and simplicity.</li>
+<li>RepLog beats RP for a narrower bodybuilding log that emphasizes flexibility over a locked coaching flow.</li>
+<li>Liftosaur beats RP for programmable routines and free or low-cost tinkering.</li>
+<li>Alpha Progression beats RP if you want generated plans with a different progression model.</li>
+<li>Fitbod beats RP if you want daily workout generation and do not care about true mesocycle structure.</li>
+<li>Dr. Muscle beats RP if you want automated programming with a different science-oriented presentation.</li>
+</ul>
+<h2 id="who-should-stay-with-rp-hypertrophy-app">Who Should Stay With RP Hypertrophy App?</h2>
+<p>You should not switch just because an alternative exists.</p>
+<p>Stay with RP if:</p>
+<ul>
+<li>You want the Renaissance Periodization ecosystem specifically.</li>
+<li>You like being guided through a full mesocycle.</li>
+<li>You want the app to make more programming decisions for you.</li>
+<li>You value RP's templates, education, and brand trust more than live logging speed.</li>
+<li>You do not want to rebuild your training decision process in another app.</li>
+</ul>
+<p>Switch only when the alternative fixes a real problem: cost, logging friction, exercise swaps, platform fit, history migration, or needing more control over your own plan.</p>
+<h2 id="why-people-look-for-rp-hypertrophy-app-alternatives">Why People Look for RP Hypertrophy App Alternatives</h2>
+<p>Most searches for "alternatives to RP Hypertrophy App" come from one of these problems:</p>
+<ul>
+<li>The subscription price feels too high for how often you use it.</li>
+<li>The structure feels too rigid for real gym conditions.</li>
+<li>You want to swap exercises without breaking the plan.</li>
+<li>You already know how to program and mainly need a better logbook.</li>
+<li>You want RIR and progression help, but not a full coaching substitute.</li>
+<li>You want old workout history, measurements, and routines to come with you.</li>
+<li>You train on iPhone and care about speed during actual sets.</li>
+</ul>
+<p>Those are different jobs. The right alternative depends on which job matters most.</p>
+<h2 id="1-jacked">1. Jacked</h2>
+<p>Jacked is the best RP Hypertrophy App alternative for iPhone lifters who want a hypertrophy-focused training log rather than a rigid template system.</p>
+<p>The app is organized around the work you do before, during, and after training:</p>
+<ul>
+<li>Plan training days and program structure.</li>
+<li>Start or resume the right workout from Today.</li>
+<li>Log sets quickly in Train.</li>
+<li>Track RIR when effort context matters.</li>
+<li>Use overload suggestions instead of guessing the next target.</li>
+<li>Review PRs, weekly muscle sets, body weight, measurements, photos, and history in Progress.</li>
+<li>Import Hevy workouts, routines, measurements, exercise notes, and past training context.</li>
+</ul>
+<p>The important distinction is control. RP is strongest when you want the app to drive the mesocycle. Jacked is strongest when you want a fast hypertrophy logbook that helps you execute and adjust your own training.</p>
+<p>Choose Jacked if:</p>
+<ul>
+<li>You train primarily on iPhone.</li>
+<li>You want RIR-aware logging without a slow workout flow.</li>
+<li>You care about weekly muscle-volume visibility.</li>
+<li>You want progression guidance but still want control over the program.</li>
+<li>You are moving from Hevy and want to preserve your log history.</li>
+</ul>
+<p>Skip Jacked if you want the app to generate an entire RP-style hypertrophy block for you from scratch.</p>
+<h2 id="2-mesostrength">2. Mesostrength</h2>
+<p>Mesostrength is worth considering if you want the closest conceptual alternative to RP Hypertrophy App.</p>
+<p>Its appeal is similar to RP:</p>
+<ul>
+<li>Mesocycle-style hypertrophy planning</li>
+<li>Muscle-level volume thinking</li>
+<li>Progression across a block</li>
+<li>A more programming-led workflow than a plain tracker</li>
+</ul>
+<p>That makes it a strong option for lifters who like RP's structure but want a different interface, pricing model, or analytics approach.</p>
+<p>The tradeoff is that the job is still closer to "run my hypertrophy block" than "make my phone logbook faster during a real workout." If your frustration with RP is mostly price or presentation, Mesostrength belongs high on your list. If your frustration is that a guided block feels too restrictive, Jacked, Hevy, Strong, or Liftosaur may fit better.</p>
+<p>Choose Mesostrength if you want a direct RP-style programming alternative. Choose Jacked if you want more control over the plan with an iPhone-first training workflow.</p>
+<h3 id="jacked-vs-mesostrength">Jacked vs Mesostrength</h3>
+<p>Jacked and Mesostrength solve different versions of the RP Hypertrophy problem.</p>
+<p>Choose Mesostrength if your main goal is to replace RP's mesocycle structure with another app-led hypertrophy programming system. That is the closest match when you want the app to organize the block, manage the programming logic, and keep you inside a structured progression model.</p>
+<p>Choose Jacked if your main goal is to make your own hypertrophy training easier to execute. Jacked is stronger when you already know the plan, train primarily on iPhone, want faster live logging, and care about RIR, weekly muscle sets, progression history, and imported Hevy data.</p>
+<p>The short version: Mesostrength is closer to RP as a programming product. Jacked is a better RP alternative for lifters who want more control and a sharper workout log.</p>
+<h2 id="3-hevy">3. Hevy</h2>
+<p>Hevy is a strong alternative if your main goal is a polished workout tracker with social features.</p>
+<p>It is especially appealing for lifters who want:</p>
+<ul>
+<li>Fast workout logging</li>
+<li>Routines</li>
+<li>Exercise history</li>
+<li>Social sharing</li>
+<li>A large user base</li>
+<li>A free or lower-cost starting point</li>
+</ul>
+<p>The limitation is that Hevy is more of a general tracker than a dedicated hypertrophy programming system. You can make excellent progress with it if you already understand progression, volume, and fatigue management, but the app is less focused on interpreting hypertrophy training decisions for you.</p>
+<p>Choose Hevy if you want a clean general-purpose logbook. Choose Jacked if your priority is a more hypertrophy-specific workflow with progression, RIR, muscle-volume review, and Hevy import.</p>
+<h2 id="4-strong">4. Strong</h2>
+<p>Strong is a good alternative for lifters who want a simple, familiar workout log.</p>
+<p>It works well if you value:</p>
+<ul>
+<li>Minimal setup</li>
+<li>Straightforward routines</li>
+<li>Quick set entry</li>
+<li>Basic history</li>
+<li>A no-frills training notebook</li>
+</ul>
+<p>The tradeoff is depth. Strong is not trying to be a hypertrophy coach, a muscle-volume dashboard, or a body-composition review system. If you already have a program and only need a simple place to record it, that can be enough.</p>
+<p>Choose Strong if minimal logging is the goal. Look elsewhere if you want the app to help decide whether to add load, reps, sets, or recovery.</p>
+<h2 id="5-replog">5. RepLog</h2>
+<p>RepLog is another RP Hypertrophy App alternative that appears in this search space. It is worth considering if you want something lighter than a coaching-style app and do not need a full RP-style mesocycle system.</p>
+<p>It can make sense if you want:</p>
+<ul>
+<li>A simpler workout log</li>
+<li>A lower-friction alternative to a large programming app</li>
+<li>Basic progression context without a full coaching workflow</li>
+<li>A narrow tool instead of a broad training platform</li>
+</ul>
+<p>The tradeoff is depth. If you are switching because you want a complete hypertrophy workflow with history import, body metrics, progress photos, RIR, weekly muscle-volume review, and live progression context, Jacked is the stronger fit.</p>
+<h3 id="jacked-vs-replog">Jacked vs RepLog</h3>
+<p>Jacked and RepLog both make more sense than RP if you are tired of rigid templates and want a lighter training workflow.</p>
+<p>Choose RepLog if you want a narrow workout log with bodybuilding-oriented fields and you do not need a broader progress system.</p>
+<p>Choose Jacked if you want the switch to cover more of the training loop: planning, live set logging, RIR, rest timing, progressive overload suggestions, weekly muscle-volume review, body measurements, progress photos, and Hevy import.</p>
+<p>RepLog is a lighter RP alternative. Jacked is the better fit if you want a more complete iPhone hypertrophy app.</p>
+<h2 id="6-liftosaur">6. Liftosaur</h2>
+<p>Liftosaur is a strong fit for lifters who want programmable routines, open-ended control, and community-built training logic.</p>
+<p>It is especially relevant because some users look for free or low-cost RP-inspired hypertrophy templates rather than a polished commercial coaching app. That can work if you are comfortable managing the setup and understanding the program rules.</p>
+<p>Liftosaur can make sense if you want:</p>
+<ul>
+<li>Free or low-cost workout tracking</li>
+<li>Custom progression rules</li>
+<li>Program templates you can inspect and modify</li>
+<li>More control than a locked app workflow</li>
+</ul>
+<p>The tradeoff is friction. More control usually means more responsibility. If you want a polished app to make decisions quietly, Liftosaur may feel technical. If you like tinkering with program logic, it can be more flexible than most mainstream trackers.</p>
+<h2 id="7-alpha-progression">7. Alpha Progression</h2>
+<p>Alpha Progression is a closer fit for lifters who want generated training plans and algorithmic progression.</p>
+<p>It can make sense if you want:</p>
+<ul>
+<li>Program generation</li>
+<li>Progression suggestions</li>
+<li>Exercise substitutions</li>
+<li>A more guided experience than a plain logbook</li>
+</ul>
+<p>Compared with RP, the workflow is less tied to Renaissance Periodization's specific volume-landmark model. That can be good or bad depending on why you liked RP in the first place.</p>
+<p>Choose Alpha Progression if you want an app to help build the plan. Choose Jacked if you already know the plan and want the training execution, progression review, and history layer to be sharper.</p>
+<h2 id="8-fitbod">8. Fitbod</h2>
+<p>Fitbod is useful when you want the app to tell you what to train today with minimal planning.</p>
+<p>It is a better match for:</p>
+<ul>
+<li>General strength and fitness users</li>
+<li>People who want daily workout generation</li>
+<li>Lifters who do not want to think about mesocycles</li>
+<li>Travelers or people with changing equipment access</li>
+</ul>
+<p>The tradeoff is that "good workout today" is not the same as a planned hypertrophy block. If you liked RP for structured progression across weeks, Fitbod may feel too general.</p>
+<p>Choose Fitbod if simplicity is the priority. Choose a more hypertrophy-specific app if you care about muscle-level volume, repeated exercise exposure, and planned progression.</p>
+<h2 id="9-dr-muscle">9. Dr. Muscle</h2>
+<p>Dr. Muscle is another science-oriented option. It is worth considering if you want automated training decisions and a research-flavored programming model.</p>
+<p>It fits lifters who want:</p>
+<ul>
+<li>Auto-regulated progression</li>
+<li>Built-in programming support</li>
+<li>A guided plan rather than a blank logbook</li>
+<li>A different science-based approach from RP</li>
+</ul>
+<p>The choice here is mostly workflow. Some lifters want more automation. Others want the app to stay out of the way during the workout and make the log more useful afterward.</p>
+<h2 id="10-spreadsheets">10. Spreadsheets</h2>
+<p>A spreadsheet can be the most flexible RP alternative if you know exactly what you are doing.</p>
+<p>You can track:</p>
+<ul>
+<li>Weekly sets per muscle</li>
+<li>MEV, MAV, and MRV estimates</li>
+<li>RIR targets</li>
+<li>Exercise rotations</li>
+<li>Deload timing</li>
+<li>Load and rep progression</li>
+</ul>
+<p>The problem is execution. Spreadsheets are powerful at a desk and annoying under a barbell. They also do not give you phone-native workout flow, rest timers, active-session recovery, photo context, or easy progress review.</p>
+<p>Use a spreadsheet if you want complete control. Use an app if you want the system to survive real training.</p>
+<h2 id="best-free-alternatives-to-rp-hypertrophy-app">Best Free Alternatives to RP Hypertrophy App</h2>
+<p>If the main issue is price, start by deciding whether you want a free programming system or a free tracker.</p>
+<p>Free or low-cost trackers can store your training, but they usually will not replace RP's guided mesocycle logic. Free or open-ended programming tools can come closer to the RP structure, but they often require more setup.</p>
+<p>Good free or cheaper starting points include:</p>
+<ul>
+<li>Hevy, if you want a generous general workout tracker.</li>
+<li>Strong or RepLog, if you want minimal logging and can live within free-tier limits.</li>
+<li>Liftosaur, if you want programmable routines and are comfortable configuring logic.</li>
+<li>A spreadsheet, if you understand RP-style volume landmarks and can maintain the plan yourself.</li>
+</ul>
+<p>Free is not automatically better if it makes the workout harder to execute. The cheapest useful alternative is the one you will still use accurately four weeks later.</p>
+<h2 id="rp-hypertrophy-app-free-alternative">RP Hypertrophy App Free Alternative</h2>
+<p>If you specifically want a free RP Hypertrophy App alternative, be clear about what "alternative" means.</p>
+<p>For free workout logging, start with Hevy, Strong, Liftosaur, or a spreadsheet. They can track sessions and preserve history, but they will not all give you the same guided mesocycle feedback as RP.</p>
+<p>For free or low-cost RP-inspired programming, Liftosaur and spreadsheets are the most flexible options because you can build or modify progression rules yourself. The cost is setup time and responsibility.</p>
+<p>For a lower-friction iPhone hypertrophy workflow, Jacked is the better fit if you want faster logging, RIR, weekly muscle-volume review, progression guidance, and imported history to stay useful.</p>
+<h2 id="rp-hypertrophy-app-alternative-for-iphone">RP Hypertrophy App Alternative for iPhone</h2>
+<p>The best RP Hypertrophy App alternative for iPhone depends on whether you want programming or execution.</p>
+<p>Choose Jacked if you want an iPhone-first hypertrophy app for live workout logging, RIR-aware targets, rest timing, progress review, body metrics, photos, and Hevy import.</p>
+<p>Choose Hevy or Strong if you want a simpler iPhone logbook and already know how to manage progression yourself.</p>
+<p>Choose a guided programming app if you want the phone to decide the structure of the whole block. That is closer to RP's original job.</p>
+<h2 id="renaissance-periodization-app-alternative">Renaissance Periodization App Alternative</h2>
+<p>Renaissance Periodization is associated with structured hypertrophy training, RIR, volume landmarks, and mesocycle progression. A true Renaissance Periodization app alternative should replace the part of that system you actually use.</p>
+<p>If you use RP for education and block structure, prioritize a mesocycle-based app or a well-built spreadsheet.</p>
+<p>If you use RP mainly because it keeps progression and effort visible, prioritize an app that supports RIR, recent performance, and weekly muscle volume.</p>
+<p>If you use RP but want more freedom to swap exercises and run your own plan, a flexible hypertrophy tracker is usually a better replacement than another rigid template system.</p>
+<h2 id="closest-app-to-rp-hypertrophy">Closest App to RP Hypertrophy</h2>
+<p>The closest app to RP Hypertrophy is the one that preserves the part of RP you actually value.</p>
+<p>If you value guided mesocycles, choose a mesocycle-based programming app such as Mesostrength or another structured hypertrophy planner.</p>
+<p>If you value RIR, progression, and muscle-volume awareness but want more control, choose a hypertrophy-focused tracker such as Jacked.</p>
+<p>If you value a simple logbook and already know how to program, choose Hevy, Strong, or RepLog.</p>
+<p>If you value automation without RP's exact model, compare Alpha Progression, Fitbod, and Dr. Muscle.</p>
+<p>That is why "closest" is not one universal answer. RP combines education, templates, mesocycle logic, and brand trust. Most alternatives replace one or two of those pieces, not all of them.</p>
+<h2 id="how-we-ranked-these-rp-hypertrophy-alternatives">How We Ranked These RP Hypertrophy Alternatives</h2>
+<p>This list is ranked around switching intent rather than generic app popularity.</p>
+<p>The main criteria were:</p>
+<ul>
+<li>How closely the app replaces the reason lifters use RP Hypertrophy App.</li>
+<li>Whether it supports hypertrophy-relevant context such as RIR, volume, progression, or block structure.</li>
+<li>How much friction it removes during a real workout.</li>
+<li>Whether it works well for iPhone lifters.</li>
+<li>Whether it helps preserve existing training history instead of forcing a cold start.</li>
+<li>Whether the tradeoff is clear enough that a serious lifter can choose quickly.</li>
+</ul>
+<p>That is why Jacked ranks first for iPhone lifters who want a flexible hypertrophy workflow, while Mesostrength ranks first for lifters who specifically want the closest RP-style programming alternative.</p>
+<h2 id="rp-hypertrophy-app-vs-jacked">RP Hypertrophy App vs Jacked</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>RP Hypertrophy App</th>
+      <th>Jacked</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Main job</td>
+      <td>Guided hypertrophy programming</td>
+      <td>Hypertrophy-focused workout logging and progression</td>
+    </tr>
+    <tr>
+      <td>Best user</td>
+      <td>Lifter who wants the app to run the mesocycle</td>
+      <td>Lifter who wants control with better execution tools</td>
+    </tr>
+    <tr>
+      <td>RIR support</td>
+      <td>Central to the RP workflow</td>
+      <td>Supported in live logging</td>
+    </tr>
+    <tr>
+      <td>Weekly muscle volume</td>
+      <td>Part of the programming model</td>
+      <td>Visible in progress review</td>
+    </tr>
+    <tr>
+      <td>Exercise swaps</td>
+      <td>Template-dependent</td>
+      <td>Built for flexible training days and logging</td>
+    </tr>
+    <tr>
+      <td>Old history import</td>
+      <td>Not the main selling point</td>
+      <td>Hevy import is a core switching path</td>
+    </tr>
+    <tr>
+      <td>Progress review</td>
+      <td>Program feedback oriented</td>
+      <td>PRs, muscle sets, history, measurements, photos</td>
+    </tr>
+    <tr>
+      <td>Platform fit</td>
+      <td>RP ecosystem</td>
+      <td>iPhone-first training workflow</td>
+    </tr>
+  </tbody>
+</table>
+<p>RP is a better fit if you want a guided Renaissance Periodization experience.</p>
+<p>Jacked is a better fit if you want a faster iPhone hypertrophy app that keeps your plan, live workout, progression targets, and progress history connected.</p>
+<h2 id="rp-hypertrophy-alternatives-by-switching-reason">RP Hypertrophy Alternatives by Switching Reason</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Why you are switching</th>
+      <th>Best shortlist</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>You want lower cost</td>
+      <td>Hevy, Strong, RepLog, Liftosaur, spreadsheet</td>
+    </tr>
+    <tr>
+      <td>You want the closest RP-like programming model</td>
+      <td>Mesostrength, Dr. Muscle</td>
+    </tr>
+    <tr>
+      <td>You want faster workout logging</td>
+      <td>Jacked, Hevy, Strong, RepLog</td>
+    </tr>
+    <tr>
+      <td>You want iPhone-first hypertrophy tracking</td>
+      <td>Jacked</td>
+    </tr>
+    <tr>
+      <td>You want generated workouts</td>
+      <td>Alpha Progression, Fitbod, Dr. Muscle</td>
+    </tr>
+    <tr>
+      <td>You want full control over progression rules</td>
+      <td>Liftosaur, spreadsheet</td>
+    </tr>
+    <tr>
+      <td>You want to keep Hevy history useful</td>
+      <td>Jacked</td>
+    </tr>
+    <tr>
+      <td>You want less rigid exercise swapping</td>
+      <td>Jacked, Hevy, Liftosaur</td>
+    </tr>
+  </tbody>
+</table>
+<h2 id="which-alternative-should-you-choose">Which Alternative Should You Choose?</h2>
+<p>Choose based on the reason you are switching.</p>
+<p>If RP is too expensive: start with a simpler tracker or Jacked if you still want hypertrophy-specific logging and progression.</p>
+<p>If RP feels too rigid: choose Jacked, Hevy, Strong, or RepLog depending on how much guidance you want.</p>
+<p>If you want the app to generate workouts: compare Alpha Progression, Fitbod, and Dr. Muscle.</p>
+<p>If you already have Hevy history: use an app with a real migration path instead of starting from zero.</p>
+<p>If you love RP's exact method: stay with RP or choose a tool that explicitly supports mesocycle-style programming.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="what-is-the-best-alternative-to-rp-hypertrophy-app">What is the best alternative to RP Hypertrophy App?</h3>
+<p>For iPhone lifters who want fast hypertrophy logging, RIR support, progression guidance, weekly muscle-volume review, and Hevy import, Jacked is the best fit. For lifters who want the closest RP-style mesocycle programming system, compare Mesostrength and Dr. Muscle.</p>
+<h3 id="is-there-a-free-alternative-to-rp-hypertrophy-app">Is there a free alternative to RP Hypertrophy App?</h3>
+<p>Yes, but most free alternatives replace only part of RP. Hevy, Strong, and RepLog can work as free or low-cost logbooks. Liftosaur and spreadsheets can work for lifters who are comfortable managing program logic themselves.</p>
+<h3 id="what-is-the-best-rp-hypertrophy-app-alternative-for-iphone">What is the best RP Hypertrophy App alternative for iPhone?</h3>
+<p>Jacked is the best fit if you want an iPhone-first hypertrophy logbook with RIR, progression guidance, rest timing, progress review, and Hevy import. Hevy and Strong are better if you only want a simpler general workout log.</p>
+<h3 id="what-is-the-closest-app-to-rp-hypertrophy">What is the closest app to RP Hypertrophy?</h3>
+<p>The closest programming-style alternative is a mesocycle-based hypertrophy planner. The closest training-log alternative is an app that supports RIR, progression, and muscle-level progress review without forcing the whole block structure.</p>
+<h3 id="is-mesostrength-better-than-rp-hypertrophy-app">Is Mesostrength better than RP Hypertrophy App?</h3>
+<p>Mesostrength may be better if you want RP-style mesocycle programming with a different interface, analytics model, or pricing structure. RP is still the better fit if you specifically want the Renaissance Periodization ecosystem, templates, and brand-led coaching style.</p>
+<h3 id="is-replog-a-good-rp-hypertrophy-app-alternative">Is RepLog a good RP Hypertrophy App alternative?</h3>
+<p>RepLog can be a good alternative if you want a lighter workout log with bodybuilding-oriented tracking. Jacked is a stronger fit if you also want iPhone-first logging, progress review, body metrics, photos, Hevy import, and a more complete hypertrophy workflow.</p>
+<h3 id="is-jacked-a-replacement-for-rp-hypertrophy-app">Is Jacked a replacement for RP Hypertrophy App?</h3>
+<p>Jacked can replace RP for lifters who already know how they want to train and need a faster hypertrophy-focused iPhone workflow. It is not a clone of RP's guided template system.</p>
+<h3 id="should-beginners-use-rp-hypertrophy-app-or-an-alternative">Should beginners use RP Hypertrophy App or an alternative?</h3>
+<p>Beginners usually need clear structure, good exercise selection, and consistency more than complex volume landmarks. A guided app can help, but a simpler tracker plus a well-built beginner program can also work.</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>The best alternative to RP Hypertrophy App is not simply the cheapest app. It is the app that fixes the specific reason RP is not working for you.</p>
+<p>For iPhone lifters who want hypertrophy-focused logging, RIR support, progression guidance, weekly muscle-volume review, body-composition context, and a practical Hevy import path, Jacked is the strongest fit.</p>
+<p>For lifters who want the app to run the whole mesocycle, RP or another guided programming app may still be the better choice.</p>
+<h2 id="related-jacked-guides">Related Jacked Guides</h2>
+<ul>
+<li><a href="/blog/best-hypertrophy-app-ios-review">Best hypertrophy app for iOS</a></li>
+<li><a href="/blog/best-workout-app-hypertrophy-2026">Best workout app for hypertrophy</a></li>
+<li><a href="/blog/hypertrophy-app-vs-generic-tracker">Hypertrophy app vs generic workout tracker</a></li>
+<li><a href="/blog/progressive-overload-app-works">How a progressive overload app should work</a></li>
+<li><a href="/blog/import-hevy-to-jacked">Import Hevy to Jacked</a></li>
+</ul>
+20:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$24"}}]}]
+21:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Lb","best-workout-app-hypertrophy-2026",{"href":"/blog/best-workout-app-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Best Workout App for Hypertrophy: Features That Actually Matter"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The best workout app for hypertrophy should make live logging, progressive overload, weekly muscle volume, effort tracking, and progress review easier."}]]}],["$","$Lb","best-hypertrophy-app-ios-review",{"href":"/blog/best-hypertrophy-app-ios-review","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Best Hypertrophy App for iOS: What Serious Lifters Should Look For"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The best hypertrophy app for iPhone is not just a workout log. It should make progression, volume, effort, history, and body-composition evidence easier to act on."}]]}],["$","$Lb","hevy-import-guide",{"href":"/blog/hevy-import-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hevy Import Guide: How to Move Workout History Into a Better Hypertrophy Tracker"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Switching workout apps should not mean losing years of training context. Here is what matters when importing Hevy workouts, routines, measurements, notes, and set types."}]]}],["$","$Lb","import-hevy-to-jacked",{"href":"/blog/import-hevy-to-jacked","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Import Hevy to Jacked: Move Your Workout History Without Starting Over"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A practical Hevy to Jacked migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training."}]]}]]}]]}]
+22:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:null
+18:[["$","title","0",{"children":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters | Jacked"}],["$","meta","1",{"name":"description","content":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progre..."}],["$","meta","2",{"name":"author","content":"Jacked"}],["$","meta","3",{"name":"keywords","content":"alternatives to RP Hypertrophy App,RP Hypertrophy App alternatives,RP Hypertrophy alternative,best RP Hypertrophy App alternative,free RP Hypertrophy App alternative,hypertrophy app comparison,Renaissance Periodization app alternative"}],["$","meta","4",{"name":"creator","content":"Jacked"}],["$","meta","5",{"name":"publisher","content":"Jacked"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app"}],["$","meta","8",{"property":"og:title","content":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters"}],["$","meta","9",{"property":"og:description","content":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progre..."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/blog/alternatives-to-rp-hypertrophy-app"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters | Jacked"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-05-27"}],["$","meta","17",{"property":"article:modified_time","content":"2026-05-27"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Alternatives to RP Hypertrophy App (2026): Best Options for Serious Lifters"}],["$","meta","20",{"name":"twitter:description","content":"The best alternatives to RP Hypertrophy App depend on why you are switching: price, flexibility, faster logging, Hevy import, RIR tracking, or simpler progre..."}],["$","meta","21",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]

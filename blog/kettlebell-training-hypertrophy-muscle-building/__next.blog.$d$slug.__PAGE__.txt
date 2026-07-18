@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Tb2f,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building#webpage","url":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building","name":"Kettlebell Training for Hypertrophy: Build Muscle with Kettlebells","description":"Science-backed guide to building muscle with kettlebells. Learn which exercises work, how to program them, and why the kettlebell's unique design creates ser...","breadcrumb":{"@id":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building#webpage"},"headline":"Kettlebell Training for Hypertrophy: Build Muscle with Kettlebells","description":"Science-backed guide to building muscle with kettlebells. Learn which exercises work, how to program them, and why the kettlebell's unique design creates ser...","isAccessibleForFree":true,"wordCount":993,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Workout Split Builder","url":"https://jacked.coach/tools/workout-split-builder","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Kettlebell Training for Hypertrophy: Build Muscle with Kettlebells","item":"https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Kettlebell Training for Hypertrophy: Build Muscle with Kettlebells"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Science-backed guide to building muscle with kettlebells. Learn which exercises work, how to program them, and why the kettlebell's unique design creates serious muscle-building stimulus."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Kettlebell%20Training%20for%20Hypertrophy%3A%20Build%20Muscle%20with%20Kettlebells&url=https://jacked.coach/blog/kettlebell-training-hypertrophy-muscle-building","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","why-kettlebells-build-muscle",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#why-kettlebells-build-muscle","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Why Kettlebells Build Muscle"}]}],["$","li","three-mechanisms-driving-kettlebell-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#three-mechanisms-driving-kettlebell-hypertrophy","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Three Mechanisms Driving Kettlebell Hypertrophy"}]}],["$","li","best-kettlebell-exercises-for-muscle-building",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#best-kettlebell-exercises-for-muscle-building","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Best Kettlebell Exercises for Muscle Building"}]}],["$","li","the-big-three",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-big-three","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The Big Three"}]}],["$","li","volume-builders",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#volume-builders","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Volume Builders"}]}],["$","li","programming-for-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#programming-for-hypertrophy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Programming for Hypertrophy"}]}],["$","li","option-a-kettlebell-only-program",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-a-kettlebell-only-program","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option A: Kettlebell-Only Program"}]}],["$","li","option-b-kettlebell-density-training",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#option-b-kettlebell-density-training","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Option B: Kettlebell Density Training"}]}],["$","li","the-grip-advantage",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-grip-advantage","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Grip Advantage"}]}],["$","li","common-mistakes",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#common-mistakes","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Common Mistakes"}]}],["$","li","who-should-use-kettlebells-for-hypertrophy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#who-should-use-kettlebells-for-hypertrophy","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Who Should Use Kettlebells for Hypertrophy?"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1f2d,<p>Most guys walk into a gym and gravitate toward barbells and dumbbells. Kettlebells sit in the corner, often ignored, treated as cardio equipment for the "functional fitness" crowd. But the science tells a different story. Kettlebells are a legitimate hypertrophy tool—maybe even a superior one for certain muscle groups and training goals.</p>
+<h2 id="why-kettlebells-build-muscle">Why Kettlebells Build Muscle</h2>
+<p>The kettlebell's design creates a unique mechanical challenge that machines and traditional free weights cannot replicate. The center of mass sits outside the handle, creating a long lever arm that demands constant core engagement and grip strength throughout every rep.</p>
+<p>Research published in the <em>Journal of Strength and Conditioning Research</em> (PMC, 2024) confirms that kettlebell training activates the posterior chain—glutes, hamstrings, erector spinae—more effectively than many traditional barbell movements. The ballistic nature of kettlebell swings and snatches requires rapid force production while maintaining control through the eccentric phase, engaging both mechanical tension and metabolic stress pathways for muscle growth.</p>
+<h3 id="three-mechanisms-driving-kettlebell-hypertrophy">Three Mechanisms Driving Kettlebell Hypertrophy</h3>
+<p><strong>1. Mechanical Tension from Offset Load</strong>
+The displaced center of mass forces your muscles to work harder to stabilize the weight. A 24kg kettlebell feels significantly harder to control than a 24kg dumbbell because your forearm muscles, grip, and core must work continuously to manage the swinging trajectory. This creates greater time under tension for the target muscles.</p>
+<p><strong>2. Eccentric Overload</strong>
+Kettlebell swings and snatches naturally produce eccentric overload—you must decelerate the bell at the top of each swing and control the descent. Research shows this stretch-under-load stimulus triggers muscle protein synthesis pathways distinct from pure concentric training.</p>
+<p><strong>3. Functional Movement Patterns</strong>
+Kettlebell exercises are hip-hinge dominant. The hinge pattern is arguably the most fundamental human movement pattern, and training it with heavy loads creates posterior chain development that translates to real-world strength and aesthetics.</p>
+<h2 id="best-kettlebell-exercises-for-muscle-building">Best Kettlebell Exercises for Muscle Building</h2>
+<p>Not all kettlebell movements are created equal for hypertrophy. Here's what the research and practical experience support:</p>
+<h3 id="the-big-three">The Big Three</h3>
+<p><strong>1. Kettlebell Swing</strong>
+The foundation of any kettlebell hypertrophy program. It builds the posterior chain, develops hip hinge strength, and creates massive metabolic demand.</p>
+<p><em>Programming:</em> 3-5 sets of 8-15 reps. Go heavy (heavier than you think—men should start with 24-32kg).</p>
+<p><strong>2. Turkish Get-Up</strong>
+The ultimate core stability exercise. One movement that taxes your entire body from shoulder to ankle.</p>
+<p><em>Programming:</em> 3-4 sets of 3-5 reps per side. Use a weight you can press overhead comfortably (12-20kg for most).</p>
+<p><strong>3. Goblet Squat</strong>
+Underrated for quadriceps development. The goblet position forces torso upright positioning and deep squat depth.</p>
+<p><em>Programming:</em> 3-4 sets of 8-12 reps. Use a heavy bell (32-48kg for experienced lifters).</p>
+<h3 id="volume-builders">Volume Builders</h3>
+<p><strong>Kettlebell Row</strong> – Bent-over rows with kettlebells allow natural shoulder blade movement and reduce lower back strain compared to barbell rows.</p>
+<p><strong>Kettlebell Press</strong> – Single-arm pressing develops unilateral strength and addresses imbalances. The offset load creates greater anti-rotation demand.</p>
+<p><strong>Kettlebell Lunges</strong> – Superior to barbell lunges for loading heavy while maintaining balance and core engagement.</p>
+<h2 id="programming-for-hypertrophy">Programming for Hypertrophy</h2>
+<p>The research suggests kettlebell training can produce comparable hypertrophy to traditional free weights when volume and intensity are matched. Here's a practical approach:</p>
+<h3 id="option-a-kettlebell-only-program">Option A: Kettlebell-Only Program</h3>
+<p><strong>Monday – Upper Body</strong></p>
+<ul>
+<li>Kettlebell Press: 4×8 per arm</li>
+<li>Kettlebell Row: 4×10 per arm</li>
+<li>Goblet Squat: 3×10</li>
+<li>Farmer's Carry: 3×50 steps</li>
+</ul>
+<p><strong>Wednesday – Lower Body</strong></p>
+<ul>
+<li>Kettlebell Swing: 5×10</li>
+<li>Goblet Squat: 4×8</li>
+<li>Romanian Deadlift (kettlebell): 3×10</li>
+<li>Turkish Get-Up: 3×3 per side</li>
+</ul>
+<p><strong>Friday – Full Body</strong></p>
+<ul>
+<li>Clean and Press: 4×6 per arm</li>
+<li>Kettlebell Swing: 4×12</li>
+<li>Goblet Squat: 3×10</li>
+<li>Turkish Get-Up: 3×2 per side</li>
+</ul>
+<h3 id="option-b-kettlebell-density-training">Option B: Kettlebell Density Training</h3>
+<p>Use a single heavy kettlebell (24-32kg) and perform:</p>
+<p><strong>Every minute on the minute for 20 minutes:</strong></p>
+<ul>
+<li>5 swings</li>
+<li>3 goblet squats</li>
+<li>2 presses per arm</li>
+</ul>
+<p>This creates massive metabolic stress while maintaining mechanical tension. Rest as needed, but complete all reps each minute.</p>
+<h2 id="the-grip-advantage">The Grip Advantage</h2>
+<p>Here's something most lifters overlook: kettlebells destroy your grip. The thick handle and offset load demand forearm strength that translates to every other lift. Stronger grip means more reps on bench press, more weight on rows, and thicker arms from direct forearm work.</p>
+<p>Research from the <em>European Journal of Applied Physiology</em> shows kettlebell training increases grip endurance by 30-40% after just 8 weeks. This carries over to every other upper body movement.</p>
+<h2 id="common-mistakes">Common Mistakes</h2>
+<p><strong>Using too light weight</strong>
+Kettlebells are meant to be heavy. Most men should train with 24-32kg for swings, not 8kg. If you can do 20 reps easily, you need a heavier bell.</p>
+<p><strong>Poor hip hinge mechanics</strong>
+The swing is a hip hinge, not a squat. Drive your hips back, keep your spine neutral, and let the bell float. If you're squatting the kettlebell, you're missing the point.</p>
+<p><strong>Neglecting the eccentric</strong>
+Let the bell float to the top of the swing and control the descent. The eccentric phase is where muscle damage (and growth) occurs.</p>
+<h2 id="who-should-use-kettlebells-for-hypertrophy">Who Should Use Kettlebells for Hypertrophy?</h2>
+<ul>
+<li><strong>Home gym trainees</strong> – One or two kettlebells take up minimal space but provide endless training possibilities</li>
+<li><strong>Athletes</strong> – The power and posterior chain development transfers to sport</li>
+<li><strong>People with back issues</strong> – Properly performed kettlebell swings can be safer than deadlifts</li>
+<li><strong>Intermediate lifters</strong> – Break through plateaus by introducing new training stimuli</li>
+<li><strong>Anyone wanting to build functional muscle</strong> – The grip and core demands create real-world strength</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Kettlebells are not just for cardio or "functional" fluff. They are a legitimate hypertrophy tool backed by solid biomechanical principles and growing research support. The offset loading, ballistic movements, and grip demands create unique muscle-building stimulus that complements traditional barbell training.</p>
+<p>Start heavy. Focus on technique. And respect the bell.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>PMC (2024). "Enhancing Athletic Performance: A Comprehensive Review on Kettlebell Training"</li>
+<li>Journal of Strength and Conditioning Research</li>
+<li>European Journal of Applied Physiology</li>
+</ul>
+<hr>
+<p><em>Track your kettlebell training with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","autoprogression-science-2026",{"href":"/blog/autoprogression-science-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Autoprogression: How Automatic Weight Increases Revolutionize Muscle Building"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Discover how autoprogression uses real-time feedback to optimize your training stimulus and maximize muscle growth without the guesswork."}]]}],["$","$Ld","compound-vs-isolation-hypertrophy-science",{"href":"/blog/compound-vs-isolation-hypertrophy-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."}]]}],["$","$Ld","apply-hypertrophy-research-training-practical-guide",{"href":"/blog/apply-hypertrophy-research-training-practical-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"How to Apply Hypertrophy Research to Your Training: A Practical Guide"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"85+ research-backed articles later, here's how to actually use the science to build muscle faster."}]]}],["$","$Ld","hypertrophy-training-myths-2026",{"href":"/blog/hypertrophy-training-myths-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hypertrophy Training Myths: What Science Actually Says in 2026"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"We separate fact from fiction with the latest research on muscle building. No bro-science allowed."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

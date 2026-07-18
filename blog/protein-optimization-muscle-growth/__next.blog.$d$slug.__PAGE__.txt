@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+d:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+f:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+2:Taeb,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/protein-optimization-muscle-growth#webpage","url":"https://jacked.coach/blog/protein-optimization-muscle-growth","name":"Protein Optimization: What the 2024-2025 Research Says About Maximizing Muscle Growth","description":"New studies reveal optimal protein intake amounts, meal timing strategies, and the leucine threshold that triggers muscle protein synthesis.","breadcrumb":{"@id":"https://jacked.coach/blog/protein-optimization-muscle-growth#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/protein-optimization-muscle-growth#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/protein-optimization-muscle-growth#webpage"},"headline":"Protein Optimization: What the 2024-2025 Research Says About Maximizing Muscle Growth","description":"New studies reveal optimal protein intake amounts, meal timing strategies, and the leucine threshold that triggers muscle protein synthesis.","isAccessibleForFree":true,"wordCount":939,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Jacked","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Jacked","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/protein-optimization-muscle-growth#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Protein Optimization: What the 2024-2025 Research Says About Maximizing Muscle Growth","item":"https://jacked.coach/blog/protein-optimization-muscle-growth"}]}]}3:Te64,
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.2rem 1.35rem;
+          background: #10100f;
+          border-radius: 12px;
+          border: 1px solid #333;
+        }
+        .diagram h4 {
+          margin: 0 0 0.5rem 0;
+          font-size: 1.05rem;
+          color: #d9c26c;
+          font-weight: 700;
+        }
+        .diagram p {
+          margin: 0;
+          color: #c8c1b6;
+          line-height: 1.65;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #f2eee4;
+          font-weight: 720;
+          margin-top: 2.75rem;
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          line-height: 1.25;
+        }
+        article h3 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2rem;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.82;
+        }
+        article a {
+          color: #d9c26c;
+          text-decoration: underline;
+          text-underline-offset: 3px;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+          margin: 1.1rem 0;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.55rem;
+          line-height: 1.65;
+        }
+        article blockquote {
+          border-left: 3px solid #d9c26c;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+        .article-meta {
+          display: flex;
+          gap: 0.5rem;
+          flex-wrap: wrap;
+          margin-top: 1rem;
+        }
+        .article-meta span {
+          border: 1px solid #333;
+          border-radius: 999px;
+          color: #aaa;
+          padding: 0.28rem 0.65rem;
+          font-size: 0.78rem;
+          font-weight: 650;
+        }
+        .article-tools {
+          margin: 0 0 2rem;
+          padding: 1rem;
+          border: 1px solid #333;
+          border-radius: 12px;
+          background: #10100f;
+        }
+        .article-tools h2 {
+          margin: 0 0 0.35rem;
+          color: #f7f2e8;
+          font-size: 1rem;
+          font-weight: 720;
+        }
+        .article-tools p {
+          margin: 0 0 0.85rem;
+          color: #9f988c;
+          font-size: 0.9rem;
+          line-height: 1.5;
+        }
+        .article-tool-links {
+          display: flex;
+          gap: 0.55rem;
+          flex-wrap: wrap;
+        }
+        .article-tool-links a {
+          color: #111;
+          background: #e2c95f;
+          border-radius: 8px;
+          padding: 0.48rem 0.7rem;
+          font-size: 0.82rem;
+          font-weight: 720;
+          text-decoration: none;
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4oDca2fm6PaWFsjWl2cD8"}
+4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$Ld",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$Ld",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"General"}]]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Protein Optimization: What the 2024-2025 Research Says About Maximizing Muscle Growth"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"New studies reveal optimal protein intake amounts, meal timing strategies, and the leucine threshold that triggers muscle protein synthesis."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"General"}],null,["$","span",null,{"children":[5," min read"]}],["$","span",null,{"children":"Jacked training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Get Jacked for iPhone"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Protein%20Optimization%3A%20What%20the%202024-2025%20Research%20Says%20About%20Maximizing%20Muscle%20Growth&url=https://jacked.coach/blog/protein-optimization-muscle-growth","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Jacked tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$Ld","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$Ld","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$Ld","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$Ld","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-magic-number-how-much-protein-per-day",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-magic-number-how-much-protein-per-day","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Magic Number: How Much Protein Per Day?"}]}],["$","li","protein-during-caloric-restriction",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#protein-during-caloric-restriction","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Protein During Caloric Restriction"}]}],["$","li","the-leucine-threshold-your-muscle-switch",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-leucine-threshold-your-muscle-switch","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Leucine Threshold: Your Muscle Switch"}]}],["$","li","meal-distribution-how-many-meals",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#meal-distribution-how-many-meals","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Meal Distribution: How Many Meals?"}]}],["$","li","does-protein-timing-matter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#does-protein-timing-matter","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Does Protein Timing Matter?"}]}],["$","li","quality-matters-complete-vs-incomplete-proteins",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#quality-matters-complete-vs-incomplete-proteins","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Quality Matters: Complete vs. Incomplete Proteins"}]}],["$","li","the-upper-limit-question",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-upper-limit-question","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Upper Limit Question"}]}],["$","li","practical-recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#practical-recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Practical Recommendations"}]}],["$","li","daily-total",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#daily-total","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Daily Total"}]}],["$","li","per-meal",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#per-meal","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Per Meal"}]}],["$","li","sample-day-80kg-lifter",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#sample-day-80kg-lifter","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Sample Day (80kg Lifter)"}]}],["$","li","the-bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Bottom Line"}]}]]}]]}]
+e:T1ee0,<p>If you're serious about building muscle, protein is non-negotiable. But the details matter: How much? How often? Does timing matter? A wave of 2024-2025 research has refined our understanding — here's what the science actually says.</p>
+<h2 id="the-magic-number-how-much-protein-per-day">The Magic Number: How Much Protein Per Day?</h2>
+<p>The old mantra was 1g per pound of body weight. The updated science is more nuanced.</p>
+<p>According to the most recent meta-analyses, individuals interested in muscle gain should aim for <strong>1.6–2.2 grams of protein per kilogram of body weight daily</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/30683827/">Morton et al., 2018</a>. For a 80kg (176lb) lifter, that's roughly 128-176g per day.</p>
+<p>But here's where it gets interesting: the upper end matters more than you think. A 2022 meta-analysis found that higher protein intakes enhanced muscle gain by about <strong>0.6 kg more</strong> compared to lower intakes over typical study periods <a href="https://pubmed.ncbi.nlm.nih.gov/35689744/">Dao et al., 2022</a>.</p>
+<p>The practical takeaway: if you're training hard and not eating at least 1.6 g/kg, you're leaving gains on the table.</p>
+<h3 id="protein-during-caloric-restriction">Protein During Caloric Restriction</h3>
+<p>If you're cutting (eating in a deficit), protein becomes even more critical. Research suggests aiming for <strong>2.0–2.4 g/kg/day</strong> during fat loss phases to preserve muscle mass while in a caloric deficit <a href="https://examine.com/guides/protein-intake/">Examine.com Protein Guide</a>.</p>
+<p>This higher range helps prevent muscle loss when calories are restricted — your body is more likely to catabolize muscle tissue without adequate protein support.</p>
+<h2 id="the-leucine-threshold-your-muscle-switch">The Leucine Threshold: Your Muscle Switch</h2>
+<p>Here's where 2024 research gets fascinating. A groundbreaking study published in 2024 identified a <strong>leucine-mediated threshold effect</strong> for mTOR signaling <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11448845/">PMC11448845</a>.</p>
+<p>Key finding: There's a critical threshold at approximately <strong>25-30 grams of protein per meal</strong> that maximally activates mTOR (the key pathway for muscle protein synthesis). Below this threshold, muscle protein synthesis is submaximal.</p>
+<p>This explains why the old advice of "20-30g protein per meal" lines up with the mechanistic research. The leucine content in ~25g of quality protein is what flips the muscle-building switch.</p>
+<h2 id="meal-distribution-how-many-meals">Meal Distribution: How Many Meals?</h2>
+<p>The International Society of Sports Nutrition (ISSN) recommends spreading protein across <strong>4-5 meals</strong> to maximize muscle protein synthesis throughout the day <a href="https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8">Jäger et al., 2017</a>.</p>
+<p>The math: If you're aiming for 160g protein daily and eat 4 meals, that's 40g per meal — comfortably above the leucine threshold. Five meals at 32g each also work well.</p>
+<p>However, the 2024 leucine research suggests that <strong>two large protein meals</strong> (exceeding ~25g each) can still maximally stimulate MPS, while smaller, more frequent feedings may provide a more sustained anabolic response.</p>
+<h2 id="does-protein-timing-matter">Does Protein Timing Matter?</h2>
+<p>The "anabolic window" — the belief that you must eat protein within 30-60 minutes post-workout — has been overstated.</p>
+<p>What matters more:</p>
+<ul>
+<li><strong>Total daily protein</strong> far outweighs timing in most contexts</li>
+<li>Consuming protein <strong>before and after</strong> workout is still beneficial, but the window isn't as tight as once believed</li>
+<li>Having protein <strong>before sleep</strong> (casein or cottage cheese) may enhance overnight recovery</li>
+</ul>
+<p>A 2023-2024 review noted that pre-sleep protein ingestion (30-40g) significantly increases morning muscle protein synthesis rates, making it a smart strategy for maximum growth <a href="https://pubmed.ncbi.nlm.nih.gov/31609645/">Res et al., 2019</a>.</p>
+<h2 id="quality-matters-complete-vs-incomplete-proteins">Quality Matters: Complete vs. Incomplete Proteins</h2>
+<p>Not all protein is created equal. Complete proteins contain all nine essential amino acids — these are primarily <strong>animal sources</strong>: meat, fish, eggs, dairy.</p>
+<p>Plant proteins can be combined to form complete profiles (rice + beans, hummus + pita), but generally require larger servings to hit the leucine threshold.</p>
+<p>For the average lifter, prioritizing 80%+ of protein from complete sources ensures you're getting everything your muscles need.</p>
+<h2 id="the-upper-limit-question">The Upper Limit Question</h2>
+<p>A common concern: can you eat <em>too much</em> protein?</p>
+<p>2024-2025 research suggests that for healthy individuals, very high protein diets (up to 2.8-3.0 g/kg) appear safe in the short-to-medium term <a href="https://examine.com/guides/protein-intake/">Examine.com</a>. However, one 2024 study noted potential cardiovascular considerations at extremely high intakes in certain populations <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11448845/">PMC11448845</a>.</p>
+<p>The practical ceiling: 2.2-2.4 g/kg is sufficient for 95% of lifters. Going higher offers diminishing returns.</p>
+<h2 id="practical-recommendations">Practical Recommendations</h2>
+<p>Based on current evidence, here's your protein playbook:</p>
+<h3 id="daily-total">Daily Total</h3>
+<ul>
+<li><strong>Muscle gain</strong>: 1.6–2.2 g/kg</li>
+<li><strong>Fat loss + muscle preservation</strong>: 2.0–2.4 g/kg</li>
+<li><strong>Maintenance</strong>: 1.2–1.6 g/kg</li>
+</ul>
+<h3 id="per-meal">Per Meal</h3>
+<ul>
+<li><strong>Minimum</strong>: 0.4 g/kg per meal (aim for 4+ meals)</li>
+<li><strong>Optimal for MPS</strong>: ~25-40g per meal depending on body size</li>
+<li><strong>Pre-sleep</strong>: 30-40g casein or slow-digesting protein</li>
+</ul>
+<h3 id="sample-day-80kg-lifter">Sample Day (80kg Lifter)</h3>
+<ul>
+<li>Breakfast (7am): 40g eggs + Greek yogurt</li>
+<li>Lunch (12pm): 40g chicken breast</li>
+<li>Pre-workout (4pm): 30g whey</li>
+<li>Post-workout (6pm): 40g lean beef/chicken</li>
+<li>Before bed (10pm): 30g casein</li>
+</ul>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Protein is the foundation of muscle growth. The 2024-2025 research confirms:</p>
+<ol>
+<li><strong>Eat enough</strong>: 1.6-2.2 g/kg daily minimum</li>
+<li><strong>Hit the threshold</strong>: ~25g+ protein per meal to max out MPS</li>
+<li><strong>Space it out</strong>: 4-5 meals beat 1-2 for sustained muscle building</li>
+<li><strong>Don't fear higher intakes</strong>: Up to 2.4 g/kg is safe and beneficial, especially in a deficit</li>
+<li><strong>Prioritize quality</strong>: Lean animal proteins or well-combined plant proteins</li>
+</ol>
+<p>Your muscles need protein to grow. Give them what they need, consistently, and the gains will follow.</p>
+<hr>
+<p><strong>References:</strong></p>
+<ul>
+<li>Morton et al. (2018). A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. <em>Br J Sports Med</em>. PMID: 30683827</li>
+<li>Dao et al. (2022). Protein Dose-Response Relationships in Resistance Training: A Meta-Analysis. <em>Sports Medicine</em>. PMID: 35689744</li>
+<li>Identification of a leucine-mediated threshold effect (2024). <em>PMC11448845</em></li>
+<li>Jäger et al. (2017). International Society of Sports Nutrition position stand: diets and body composition. <em>J Int Soc Sports Nutr</em>. PMID: 28615996</li>
+<li>Examine.com Optimal Protein Intake Guide (2025)</li>
+</ul>
+<hr>
+<p><em>Track your protein optimization with Jacked. Download now.</em></p>
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$Ld","protein-quality-pdcaas-diaas-muscle-growth",{"href":"/blog/protein-quality-pdcaas-diaas-muscle-growth","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Protein Quality: Why Your Body Doesn't Care About the Label"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"New 2025 research reveals that protein quality—measured by PDCAAS and DIAAS scores—may matter more than total intake for muscle growth. Here's what the science says."}]]}],["$","$Ld","foam-rolling-recovery-science-2025",{"href":"/blog/foam-rolling-recovery-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Foam Rolling for Muscle Growth: What the 2024-2025 Research Actually Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The science on foam rolling has matured significantly. We break down what recent research reveals about its effects on recovery, performance, and yes — even muscle growth."}]]}],["$","$Ld","anabolic-window-myth-2025",{"href":"/blog/anabolic-window-myth-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Anabolic Window: Myth vs. Science (2025 Research Update)"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The 30-minute post-workout window is one of fitness's most persistent myths. Here's what 2025 research actually says about protein timing and muscle protein synthesis."}]]}],["$","$Ld","creatine-science-2025",{"href":"/blog/creatine-science-2025","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"The Science of Creatine: What 2025 Research Really Says"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Apply this in your next workout."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Open the App Store listing"}]]}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null
