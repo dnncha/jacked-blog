@@ -94,7 +94,7 @@ export default function SupportPage() {
       <section className="static-note">
         <h2 style={{ marginTop: 0 }}>App Store and policy links</h2>
         <p>
-          Read the <Link href="/privacy">Privacy Policy</Link> and <Link href="/terms">Terms of Service</Link>, or open the current <a href="https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_coach&utm_medium=support_page&utm_campaign=ios_install" target="_blank" rel="noopener noreferrer">App Store listing</a>.
+          Read the <Link href="/privacy">Privacy Policy</Link> and <Link href="/terms">Terms of Service</Link>, or open the current <a href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8" target="_blank" rel="noopener noreferrer">App Store listing</a>.
         </p>
       </section>
     </LegalPage>

@@ -2,10 +2,9 @@
 
 import Link from 'next/link'
 
-const APP_STORE_URL = 'https://apps.apple.com/app/id6757132605'
+const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
 
-const appStoreUrl = (content) =>
-  `${APP_STORE_URL}?utm_source=jacked_coach&utm_medium=homepage&utm_campaign=ios_install&utm_content=${content}`
+const appStoreUrl = () => APP_STORE_URL
 
 const proofPoints = [
   {

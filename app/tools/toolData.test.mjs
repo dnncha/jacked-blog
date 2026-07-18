@@ -1,6 +1,9 @@
 import assert from 'node:assert/strict'
 
-import { exerciseSpecificTools, toolMap, tools } from './toolData.mjs'
+import { APP_STORE_BASE, appStoreUrl, exerciseSpecificTools, toolMap, tools } from './toolData.mjs'
+
+assert.equal(APP_STORE_BASE, 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8')
+assert.equal(appStoreUrl('next_set_calculator', 'result_cta'), APP_STORE_BASE)
 
 const newCoreTools = [
   ['strong-csv-import-checker', 'strong-import'],

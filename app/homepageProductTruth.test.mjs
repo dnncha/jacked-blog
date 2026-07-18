@@ -28,7 +28,7 @@ for (const phrase of [
   'Double progression',
   'Free to download. No account required.',
   "['Today', 'Train', 'Progress', 'Plan', 'Settings']",
-  'https://apps.apple.com/app/id6757132605',
+  'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8',
 ]) {
   assert.ok(publicCopy.includes(phrase), `current public conversion surfaces should contain: ${phrase}`)
 }

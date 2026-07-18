@@ -556,7 +556,7 @@ export default async function BlogPost({ params }) {
           <span>Jacked training guide</span>
         </div>
         <a
-          href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_top_cta&utm_campaign=ios_install&utm_content=${slug}`}
+          href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8"
           target="_blank"
           rel="noopener noreferrer"
           style={{ display: 'inline-block', marginTop: '1rem', padding: '0.65rem 0.95rem', borderRadius: '8px', textDecoration: 'none', fontWeight: '720', background: '#e2c95f', color: '#111' }}
@@ -617,7 +617,7 @@ export default async function BlogPost({ params }) {
       <section style={{ marginTop: '3rem', padding: '1.6rem', background: '#f2eee4', borderRadius: '10px', color: '#111', textAlign: 'center' }}>
         <h2 style={{ marginTop: 0, fontSize: '1.28rem', fontWeight: '760', letterSpacing: 0 }}>Apply this in your next workout.</h2>
         <p style={{ marginBottom: '1.5rem', fontSize: '1rem', color: '#4b473f' }}>Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log.</p>
-        <a href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_cta&utm_campaign=ios_install&utm_content=${slug}`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
+        <a href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8" target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
           Open the App Store listing
         </a>
       </section>
