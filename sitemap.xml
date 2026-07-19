@@ -21,6 +21,11 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://jacked.coach/gym-workout-planner</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://jacked.coach/progressive-overload</loc>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
