@@ -1,9 +1,20 @@
 import assert from 'node:assert/strict'
 
-import { APP_STORE_BASE, appStoreUrl, exerciseSpecificTools, toolMap, tools } from './toolData.mjs'
+import {
+  APP_STORE_BASE,
+  APP_STORE_PROVIDER_TOKEN,
+  appStoreUrl,
+  exerciseSpecificTools,
+  toolMap,
+  tools,
+} from './toolData.mjs'
 
-assert.equal(APP_STORE_BASE, 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8')
-assert.equal(appStoreUrl('next_set_calculator', 'result_cta'), APP_STORE_BASE)
+assert.equal(APP_STORE_BASE, 'https://apps.apple.com/app/apple-store/id6757132605')
+assert.equal(APP_STORE_PROVIDER_TOKEN, '128406689')
+assert.equal(
+  appStoreUrl('next_set_calculator', 'result_cta'),
+  'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=next_set_calculator&mt=8',
+)
 
 const newCoreTools = [
   ['strong-csv-import-checker', 'strong-import'],
@@ -46,5 +57,14 @@ for (const slug of strengthLevelSlugs) {
 const exerciseStrengthTools = exerciseSpecificTools.filter((tool) => tool.type === 'strength-level')
 assert.ok(exerciseStrengthTools.length >= strengthLevelSlugs.length)
 assert.equal(new Set(tools.map((tool) => tool.slug)).size, tools.length)
+
+const toolCampaignUrls = tools.map((tool) => appStoreUrl(tool.campaign))
+assert.equal(new Set(toolCampaignUrls).size, tools.length, 'every tool should have a distinct App Store campaign URL')
+for (const tool of tools) {
+  const campaignUrl = new URL(appStoreUrl(tool.campaign))
+  assert.equal(campaignUrl.searchParams.get('pt'), APP_STORE_PROVIDER_TOKEN)
+  assert.equal(campaignUrl.searchParams.get('ct'), tool.campaign)
+  assert.equal(campaignUrl.searchParams.get('mt'), '8')
+}
 
 console.log('tool data tests passed')

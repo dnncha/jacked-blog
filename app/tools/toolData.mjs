@@ -1,4 +1,5 @@
-export const APP_STORE_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
+export const APP_STORE_BASE = 'https://apps.apple.com/app/apple-store/id6757132605'
+export const APP_STORE_PROVIDER_TOKEN = '128406689'
 
 export const toolGroups = [
   {
@@ -978,6 +979,12 @@ export const tools = [...coreTools, ...exerciseSpecificTools]
 
 export const toolMap = Object.fromEntries(tools.map((tool) => [tool.slug, tool]))
 
-export function appStoreUrl(campaign, content = 'tool_cta') {
-  return APP_STORE_BASE
+export function appStoreUrl(campaign, _content = 'tool_cta') {
+  const params = new URLSearchParams({
+    pt: APP_STORE_PROVIDER_TOKEN,
+    ct: campaign,
+    mt: '8',
+  })
+
+  return `${APP_STORE_BASE}?${params.toString()}`
 }
