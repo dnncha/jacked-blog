@@ -21,7 +21,7 @@ const indexNowKeyFile = await readFile(new URL(`../public/${indexNowKey}.txt`, i
 const indexNowScript = await readFile(new URL('../scripts/submit-indexnow.mjs', import.meta.url), 'utf8')
 
 assert.equal(indexNowKeyFile.trim(), indexNowKey, 'the IndexNow ownership file must contain the configured key')
-assert.ok(indexNowScript.includes('url.hostname !== host'), 'IndexNow submissions must be restricted to jacked.coach')
+assert.ok(indexNowScript.includes('url.origin !== `https://${host}`'), 'IndexNow submissions must be restricted to the canonical HTTPS origin')
 assert.ok(indexNowScript.includes('https://api.indexnow.org/indexnow'), 'IndexNow must use the protocol endpoint')
 
 for (const route of ['/workout-tracker', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative']) {

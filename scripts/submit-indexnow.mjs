@@ -11,7 +11,7 @@ if (requestedUrls.length === 0) {
 
 const urls = [...new Set(requestedUrls)].map(value => {
   const url = new URL(value)
-  if (url.protocol !== 'https:' || url.hostname !== host) {
+  if (url.origin !== `https://${host}`) {
     throw new Error(`IndexNow URL must use https://${host}: ${value}`)
   }
   return url.toString()
