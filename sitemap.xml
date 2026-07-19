@@ -31,6 +31,16 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://jacked.coach/strong-alternative</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://jacked.coach/fitnotes-alternative</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://jacked.coach/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+c:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+d:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+2:T20f9,
+        :root {
+          --acq-gold: #f5b935;
+          --acq-gold-bright: #ffd46a;
+          --acq-text: #fff8ea;
+          --acq-muted: #b8b0a2;
+          --acq-line: rgba(255, 248, 234, 0.14);
+          --acq-panel: #11110f;
+        }
+
+        .acquisition-page,
+        .acquisition-page * { box-sizing: border-box; }
+
+        .acquisition-page {
+          color: var(--acq-text);
+          background: #050505;
+        }
+
+        .acquisition-wrap {
+          width: min(1120px, calc(100% - 32px));
+          margin: 0 auto;
+        }
+
+        .acquisition-hero {
+          min-height: 690px;
+          display: grid;
+          align-items: center;
+          border-bottom: 1px solid var(--acq-line);
+          background:
+            linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(3,3,3,0.82) 44%, rgba(3,3,3,0.28) 78%, rgba(3,3,3,0.18) 100%),
+            linear-gradient(180deg, transparent 52%, #050505 100%),
+            var(--acq-hero-image) 68% center / cover no-repeat;
+        }
+
+        .acquisition-hero.screen {
+          background:
+            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.94) 46%, rgba(3,3,3,0.42) 70%, rgba(3,3,3,0.12) 100%),
+            linear-gradient(180deg, transparent 70%, #050505 100%),
+            var(--acq-hero-image) calc(100% - 8vw) center / auto 82% no-repeat,
+            #050505;
+        }
+
+        .acquisition-hero-copy { max-width: 690px; padding: 76px 0 88px; }
+
+        .acquisition-eyebrow {
+          margin: 0 0 16px;
+          color: var(--acq-gold);
+          font-size: 0.8rem;
+          font-weight: 850;
+          letter-spacing: 0.13em;
+          text-transform: uppercase;
+        }
+
+        .acquisition-hero h1 {
+          max-width: 780px;
+          margin: 0;
+          font-size: clamp(3rem, 7vw, 6rem);
+          line-height: 0.96;
+          letter-spacing: -0.055em;
+          font-weight: 950;
+        }
+
+        .acquisition-hero-copy > p:not(.acquisition-eyebrow) {
+          max-width: 650px;
+          margin: 24px 0 0;
+          color: var(--acq-muted);
+          font-size: clamp(1.05rem, 2vw, 1.22rem);
+          line-height: 1.65;
+        }
+
+        .acquisition-actions { margin-top: 30px; }
+
+        .acquisition-store-link {
+          display: inline-flex;
+          align-items: center;
+          gap: 13px;
+          min-height: 62px;
+          padding: 0 22px;
+          border: 1px solid rgba(255,255,255,0.24);
+          border-radius: 10px;
+          color: #11100c;
+          background: linear-gradient(180deg, var(--acq-gold-bright), var(--acq-gold));
+          box-shadow: 0 16px 38px rgba(245,185,53,0.2);
+          text-decoration: none;
+          font-size: 1.04rem;
+          font-weight: 850;
+        }
+
+        .acquisition-store-link > span:first-child { font-size: 2rem; line-height: 1; }
+        .acquisition-store-link > span:last-child { display: grid; line-height: 1.12; }
+        .acquisition-store-link small { font-size: 0.68rem; font-weight: 730; }
+
+        .acquisition-store-note {
+          margin: 13px 0 0;
+          color: #9d9689;
+          font-size: 0.84rem;
+          font-weight: 650;
+        }
+
+        .acquisition-section { padding: 88px 0; border-bottom: 1px solid var(--acq-line); }
+        .acquisition-section.soft { background: #0a0a09; }
+
+        .acquisition-heading { max-width: 740px; margin-bottom: 38px; }
+        .acquisition-heading h2 {
+          margin: 0;
+          font-size: clamp(2rem, 4vw, 3.4rem);
+          line-height: 1.06;
+          letter-spacing: -0.04em;
+        }
+        .acquisition-heading p { margin: 15px 0 0; color: var(--acq-muted); font-size: 1.04rem; }
+
+        .acquisition-benefits {
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 14px;
+        }
+
+        .acquisition-card {
+          padding: 27px;
+          border: 1px solid var(--acq-line);
+          border-radius: 12px;
+          background: linear-gradient(180deg, rgba(255,255,255,0.055), rgba(255,255,255,0.022));
+        }
+        .acquisition-card span {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          width: 38px;
+          height: 38px;
+          margin-bottom: 18px;
+          border-radius: 8px;
+          color: #111;
+          background: var(--acq-gold);
+          font-weight: 900;
+        }
+        .acquisition-card h3 { margin: 0; font-size: 1.2rem; line-height: 1.25; }
+        .acquisition-card p { margin: 11px 0 0; color: var(--acq-muted); line-height: 1.65; }
+
+        .acquisition-flow { display: grid; grid-template-columns: 0.82fr 1.18fr; gap: 56px; align-items: center; }
+        .acquisition-photo {
+          width: 100%;
+          min-height: 520px;
+          object-fit: cover;
+          border: 1px solid var(--acq-line);
+          border-radius: 14px;
+          filter: saturate(0.8) contrast(1.05);
+        }
+        .acquisition-photo.screen {
+          max-height: 680px;
+          padding: 20px;
+          object-fit: contain;
+          background: #090a0c;
+        }
+        .acquisition-steps { display: grid; gap: 12px; }
+        .acquisition-step { display: grid; grid-template-columns: 46px 1fr; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--acq-line); }
+        .acquisition-step > strong { color: var(--acq-gold); font-size: 1.15rem; }
+        .acquisition-step h3 { margin: 0; font-size: 1.12rem; }
+        .acquisition-step p { margin: 6px 0 0; color: var(--acq-muted); }
+
+        .acquisition-comparison { overflow: hidden; border: 1px solid var(--acq-line); border-radius: 12px; }
+        .acquisition-comparison-row { display: grid; grid-template-columns: 0.72fr 1fr 1fr; }
+        .acquisition-comparison-row + .acquisition-comparison-row { border-top: 1px solid var(--acq-line); }
+        .acquisition-comparison-row > * { padding: 19px 22px; }
+        .acquisition-comparison-row > * + * { border-left: 1px solid var(--acq-line); }
+        .acquisition-comparison-row strong { color: #f7f0df; }
+        .acquisition-comparison-row span { color: var(--acq-muted); }
+        .acquisition-comparison-head { background: #171512; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 850; }
+        .acquisition-comparison-head > *:last-child { color: var(--acq-gold); }
+
+        .acquisition-faq { display: grid; gap: 10px; }
+        .acquisition-faq details { padding: 21px 23px; border: 1px solid var(--acq-line); border-radius: 10px; background: var(--acq-panel); }
+        .acquisition-faq summary { cursor: pointer; font-weight: 800; }
+        .acquisition-faq p { margin: 12px 0 0; color: var(--acq-muted); }
+
+        .acquisition-related { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 28px; }
+        .acquisition-related a { padding: 9px 13px; border: 1px solid var(--acq-line); border-radius: 999px; color: #e8d67b; text-decoration: none; font-size: 0.88rem; font-weight: 720; }
+
+        .acquisition-final { padding: 96px 0; text-align: center; background: radial-gradient(circle at 50% 20%, rgba(245,185,53,0.13), transparent 28rem), #050505; }
+        .acquisition-final h2 { max-width: 760px; margin: 0 auto; font-size: clamp(2.2rem, 5vw, 4.3rem); line-height: 1; letter-spacing: -0.045em; }
+        .acquisition-final p { max-width: 620px; margin: 20px auto 28px; color: var(--acq-muted); font-size: 1.08rem; }
+
+        @media (max-width: 820px) {
+          .acquisition-hero { min-height: 620px; background-position: 61% center; }
+          .acquisition-hero-copy { padding: 70px 0; }
+          .acquisition-benefits { grid-template-columns: 1fr; }
+          .acquisition-flow { grid-template-columns: 1fr; gap: 34px; }
+          .acquisition-photo { min-height: 390px; }
+          .acquisition-comparison-row { grid-template-columns: 1fr; }
+          .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
+          .acquisition-comparison-head > *:first-child { display: none; }
+          .acquisition-hero.screen {
+            min-height: 850px;
+            align-items: start;
+            background:
+              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 44%, rgba(3,3,3,0.2) 72%, #050505 100%),
+              var(--acq-hero-image) center calc(100% - 18px) / auto 52% no-repeat,
+              #050505;
+          }
+          .acquisition-hero.screen .acquisition-hero-copy { padding: 56px 0 430px; }
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rglbV3_YPaaVU9E9PDHoj"}
+b:T52d,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which FitNotes file should I export?","acceptedAnswer":{"@type":"Answer","text":"Choose the completed-workout or workout-data CSV export. Do not select a FitNotes backup database or full-app backup for the Jacked CSV importer."}},{"@type":"Question","name":"Where can I save the FitNotes CSV on iPhone?","acceptedAnswer":{"@type":"Answer","text":"FitNotes can export workout CSV data to iCloud Drive or share it as an attachment. Save the file somewhere available in the iPhone Files picker."}},{"@type":"Question","name":"What FitNotes data can Jacked import?","acceptedAnswer":{"@type":"Answer","text":"Jacked supports workout dates, exercise names, weights in kilograms or pounds, reps, distance, duration, and notes when those columns are present."}},{"@type":"Question","name":"Does Jacked change or delete my FitNotes data?","acceptedAnswer":{"@type":"Answer","text":"No. Jacked reads the CSV copy you select. It does not connect to FitNotes or modify the original app data."}},{"@type":"Question","name":"Can I remove a FitNotes import later?","acceptedAnswer":{"@type":"Answer","text":"Yes. Imported sessions and their derived history can be removed separately while workouts logged manually in Jacked remain untouched."}}]}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}]
+4:["$","section",null,{"className":"acquisition-hero screen","style":{"--acq-hero-image":"url('/marketing/jacked-import-workouts.png')"},"children":["$","div",null,{"className":"acquisition-wrap","children":["$","div",null,{"className":"acquisition-hero-copy","children":[["$","p",null,{"className":"acquisition-eyebrow","children":"A FitNotes alternative for iPhone"}],["$","h1",null,{"children":"Bring the log. Get a clearer next target."}],["$","p",null,{"children":"Export your FitNotes workout CSV, review it in Jacked, then use supported historical lifts for progress views, weekly muscle context, and the next set."}],["$","div",null,{"className":"acquisition-actions","children":["$","a",null,{"className":"acquisition-store-link","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_fitnotes_alternative&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"seo_fitnotes_alternative_hero","children":[["$","span",null,{"aria-hidden":"true","children":""}],["$","span",null,{"children":[["$","small",null,{"children":"Download free on iPhone"}],"View Jacked on the App Store"]}]]}]}],["$","p",null,{"className":"acquisition-store-note","children":"Free to download. No account required. Workout history stays on your iPhone."}]]}]}]}]
+5:["$","section",null,{"className":"acquisition-section","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"Your FitNotes history can move with you."}],["$","p",null,{"children":"Jacked uses the workout CSV you select on your iPhone. The original FitNotes data stays where it is."}]]}],["$","div",null,{"className":"acquisition-benefits","children":[["$","article","Choose the workout CSV",{"className":"acquisition-card","children":[["$","span",null,{"children":1}],["$","h3",null,{"children":"Choose the workout CSV"}],["$","p",null,{"children":"Export completed workout data from FitNotes as CSV. Use the workout export rather than a database or full-app backup."}]]}],["$","article","Inspect the history first",{"className":"acquisition-card","children":[["$","span",null,{"children":2}],["$","h3",null,{"children":"Inspect the history first"}],["$","p",null,{"children":"Jacked checks the file for workout dates and exercise rows, then shows a preview before saving."}]]}],["$","article","Preserve historical lifts",{"className":"acquisition-card","children":[["$","span",null,{"children":3}],["$","h3",null,{"children":"Preserve historical lifts"}],["$","p",null,{"children":"Supported exercise names, weights, reps, distance, duration, and notes become useful context for progress and weekly volume."}]]}]]}]]}]}]
+6:["$","section",null,{"className":"acquisition-section soft","children":["$","div",null,{"className":"acquisition-wrap acquisition-flow","children":[["$","img",null,{"className":"acquisition-photo screen","src":"/marketing/jacked-import-workouts.png","alt":"Jacked import screen with FitNotes selected as a workout CSV source","loading":"lazy","decoding":"async"}],["$","div",null,{"children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"FitNotes CSV to Jacked in three steps."}],["$","p",null,{"children":"Choose the workout export, check the preview, and confirm only after the history looks right."}]]}],["$","div",null,{"className":"acquisition-steps","children":[["$","div","Export completed workouts",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",1]}],["$","div",null,{"children":[["$","h3",null,{"children":"Export completed workouts"}],["$","p",null,{"children":"In FitNotes, choose the workout or spreadsheet CSV export and save or share the file to Files."}]]}]]}],["$","div","Choose FitNotes in Jacked",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",2]}],["$","div",null,{"children":[["$","h3",null,{"children":"Choose FitNotes in Jacked"}],["$","p",null,{"children":"Open Import Workout History, select FitNotes, and choose the workout CSV—not a backup database."}]]}]]}],["$","div","Review and confirm",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",3]}],["$","div",null,{"children":[["$","h3",null,{"children":"Review and confirm"}],["$","p",null,{"children":"Check the imported date range, workout count, and exercise matches before Jacked adds the history."}]]}]]}]]}]]}]]}]}]
+7:["$","section",null,{"className":"acquisition-section","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"Turn an old log into current training context."}],["$","p",null,{"children":"Imported history is useful when it helps you understand the next working set, not only the last one."}]]}],["$","div",null,{"className":"acquisition-comparison","role":"table","aria-label":"Starting over and importing FitNotes workout history comparison","children":[["$","div",null,{"className":"acquisition-comparison-row acquisition-comparison-head","role":"row","children":[["$","span",null,{"role":"columnheader","children":"Training moment"}],["$","span",null,{"role":"columnheader","children":"Basic log"}],["$","span",null,{"role":"columnheader","children":"Jacked"}]]}],[["$","div","Historical logs",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Historical logs"}],["$","span",null,{"role":"cell","children":"Keep opening the old app to check previous sets."}],["$","span",null,{"role":"cell","children":"Import supported FitNotes workout rows into one iPhone training history."}]]}],["$","div","Custom exercises",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Custom exercises"}],["$","span",null,{"role":"cell","children":"Rename every movement before continuing."}],["$","span",null,{"role":"cell","children":"Keep unmatched exercise names as custom movements and map them later."}]]}],["$","div","Weekly context",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Weekly context"}],["$","span",null,{"role":"cell","children":"Begin with no historical volume."}],["$","span",null,{"role":"cell","children":"Use imported working sets to rebuild lift progress and muscle-level context."}]]}]]]}]]}]}]
+8:["$","section",null,{"className":"acquisition-section soft","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":["$","h2",null,{"children":"Questions about moving from FitNotes."}]}],["$","div",null,{"className":"acquisition-faq","children":[["$","details","Which FitNotes file should I export?",{"children":[["$","summary",null,{"children":"Which FitNotes file should I export?"}],["$","p",null,{"children":"Choose the completed-workout or workout-data CSV export. Do not select a FitNotes backup database or full-app backup for the Jacked CSV importer."}]]}],["$","details","Where can I save the FitNotes CSV on iPhone?",{"children":[["$","summary",null,{"children":"Where can I save the FitNotes CSV on iPhone?"}],["$","p",null,{"children":"FitNotes can export workout CSV data to iCloud Drive or share it as an attachment. Save the file somewhere available in the iPhone Files picker."}]]}],["$","details","What FitNotes data can Jacked import?",{"children":[["$","summary",null,{"children":"What FitNotes data can Jacked import?"}],["$","p",null,{"children":"Jacked supports workout dates, exercise names, weights in kilograms or pounds, reps, distance, duration, and notes when those columns are present."}]]}],["$","details","Does Jacked change or delete my FitNotes data?",{"children":[["$","summary",null,{"children":"Does Jacked change or delete my FitNotes data?"}],["$","p",null,{"children":"No. Jacked reads the CSV copy you select. It does not connect to FitNotes or modify the original app data."}]]}],["$","details","Can I remove a FitNotes import later?",{"children":[["$","summary",null,{"children":"Can I remove a FitNotes import later?"}],["$","p",null,{"children":"Yes. Imported sessions and their derived history can be removed separately while workouts logged manually in Jacked remain untouched."}]]}]]}],["$","div",null,{"className":"acquisition-related","aria-label":"Related Jacked guides","children":[["$","$Lc","/hevy-alternative",{"href":"/hevy-alternative","children":"Hevy alternative"}],["$","$Lc","/strong-alternative",{"href":"/strong-alternative","children":"Strong alternative"}],["$","$Lc","/workout-tracker",{"href":"/workout-tracker","children":"Workout tracker for iPhone"}],["$","$Lc","/progressive-overload",{"href":"/progressive-overload","children":"Progressive overload app"}]]}]]}]}]
+9:["$","section",null,{"className":"acquisition-final","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","h2",null,{"children":"Keep the history. Improve the next decision."}],["$","p",null,{"children":"Download Jacked on iPhone, inspect your FitNotes workout CSV, and decide what to bring into your next training block."}],["$","a",null,{"className":"acquisition-store-link","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_fitnotes_alternative&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"seo_fitnotes_alternative_final","children":[["$","span",null,{"aria-hidden":"true","children":""}],["$","span",null,{"children":[["$","small",null,{"children":"Download free on iPhone"}],"View Jacked on the App Store"]}]]}]]}]}]
+a:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
