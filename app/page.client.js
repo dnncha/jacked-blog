@@ -154,6 +154,7 @@ const faqs = [
 
 const acquisitionGuides = [
   ['/workout-tracker', 'Workout tracker for iPhone', 'Fast set logging, recent performance, rest timing, and weekly muscle targets in one focused training flow.'],
+  ['/gym-workout-planner', 'Gym workout planner for iPhone', 'Build your split, set rep ranges and weekly muscle targets, then carry each result into the next workout.'],
   ['/progressive-overload', 'Progressive overload app', 'Use rep ranges, RIR, and recent results to choose when to repeat, add reps, or add load.'],
   ['/hevy-alternative', 'Switch from Hevy', 'Import supported Hevy workout history from CSV, review it before saving, and keep useful training context.'],
   ['/strong-alternative', 'Switch from Strong', 'Use Strong’s standard English CSV export to bring supported workouts, sets, and notes into Jacked.'],

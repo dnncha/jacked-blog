@@ -40,6 +40,7 @@ export async function GET() {
     staticUrl('/blog', 'weekly', '0.9'),
     staticUrl('/tools', 'weekly', '0.9'),
     staticUrl('/workout-tracker', 'weekly', '0.95'),
+    staticUrl('/gym-workout-planner', 'weekly', '0.95'),
     staticUrl('/progressive-overload', 'weekly', '0.95'),
     staticUrl('/hevy-alternative', 'weekly', '0.95'),
     staticUrl('/strong-alternative', 'weekly', '0.95'),
