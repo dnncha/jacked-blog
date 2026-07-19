@@ -6,6 +6,8 @@ const paths = [
   './workout-tracker/page.js',
   './progressive-overload/page.js',
   './hevy-alternative/page.js',
+  './strong-alternative/page.js',
+  './fitnotes-alternative/page.js',
   './sitemap.xml/route.js',
   './page.client.js',
   './layout.js',
@@ -14,13 +16,16 @@ const paths = [
 const sources = Object.fromEntries(await Promise.all(paths.map(async path => [path, await readFile(new URL(path, import.meta.url), 'utf8')])))
 const all = Object.values(sources).join('\n')
 
-for (const route of ['/workout-tracker', '/progressive-overload', '/hevy-alternative']) {
+for (const route of ['/workout-tracker', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative']) {
   assert.ok(sources['./sitemap.xml/route.js'].includes(`staticUrl('${route}', 'weekly', '0.95')`), `${route} must be in the sitemap`)
   assert.ok(sources['./page.client.js'].includes(route), `${route} must be linked from the homepage`)
+}
+
+for (const route of ['/workout-tracker', '/progressive-overload', '/hevy-alternative']) {
   assert.ok(sources['./layout.js'].includes(route), `${route} must be linked sitewide`)
 }
 
-for (const campaign of ['seo_workout_tracker', 'seo_progressive_overload', 'seo_hevy_alternative']) {
+for (const campaign of ['seo_workout_tracker', 'seo_progressive_overload', 'seo_hevy_alternative', 'seo_strong_alternative', 'seo_fitnotes_alternative']) {
   assert.ok(all.includes(`ct=${campaign}&mt=8`), `${campaign} must use an attributed App Store URL`)
 }
 
@@ -32,5 +37,23 @@ assert.ok(all.includes('Workout history is stored locally on your iPhone'), 'pri
 assert.ok(!all.includes('automatically change my program?\', answer: \'Yes'), 'public copy must not imply automatic program control')
 assert.ok(sources['./hevy-alternative/page.js'].includes('Nothing is added until you inspect the file summary and choose to import it.'), 'import page should state the confirmation boundary')
 assert.ok(sources['./hevy-alternative/page.js'].includes('does not request credentials for Hevy, Strong, or FitNotes'), 'import page should state the account-access boundary')
+assert.ok(sources['./strong-alternative/page.js'].includes('Settings and choose Export Strong Data'), 'Strong page should use the documented iPhone export path')
+assert.ok(sources['./strong-alternative/page.js'].includes('supports English Strong exports'), 'Strong page should state the supported export language')
+assert.ok(sources['./fitnotes-alternative/page.js'].includes('workout-data CSV export'), 'FitNotes page should distinguish workout CSV from backups')
+assert.ok(sources['./fitnotes-alternative/page.js'].includes('does not connect to FitNotes'), 'FitNotes page should state the account-access boundary')
+
+const internalPlanningPhrases = [
+  'adoption evidence',
+  'ai slop',
+  'big wins',
+  'evidence-bounded',
+  'next wins',
+  'pilot conversations',
+  'private feedback',
+  'quote-approved',
+]
+for (const phrase of internalPlanningPhrases) {
+  assert.ok(!all.toLowerCase().includes(phrase), `public acquisition copy must not contain internal phrase: ${phrase}`)
+}
 
 console.log('acquisition landing tests passed')

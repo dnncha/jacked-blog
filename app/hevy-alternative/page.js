@@ -71,6 +71,8 @@ export default function HevyAlternativePage() {
     faqTitle="Questions before moving workout history."
     related={[
       ['/blog/import-hevy-to-jacked', 'Import Hevy to Jacked guide'],
+      ['/strong-alternative', 'Strong alternative'],
+      ['/fitnotes-alternative', 'FitNotes alternative'],
       ['/workout-tracker', 'Workout tracker for iPhone'],
       ['/progressive-overload', 'Progressive overload app'],
     ]}
