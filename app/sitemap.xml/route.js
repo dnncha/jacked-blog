@@ -45,6 +45,7 @@ export async function GET() {
     staticUrl('/hevy-alternative', 'weekly', '0.95'),
     staticUrl('/strong-alternative', 'weekly', '0.95'),
     staticUrl('/fitnotes-alternative', 'weekly', '0.95'),
+    staticUrl('/press', 'monthly', '0.7'),
     staticUrl('/about', 'monthly', '0.6'),
     staticUrl('/support', 'monthly', '0.6'),
     staticUrl('/privacy', 'yearly', '0.4'),

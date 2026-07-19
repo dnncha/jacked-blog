@@ -49,6 +49,11 @@ export async function GET() {
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://jacked.coach/press</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://jacked.coach/support</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
