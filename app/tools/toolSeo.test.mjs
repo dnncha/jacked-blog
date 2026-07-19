@@ -1,6 +1,8 @@
 import assert from 'node:assert/strict'
 
+import { tools } from './toolData.mjs'
 import { relatedToolsForArticle, toolQualityNotes } from './toolSeo.mjs'
+import { toolSocialImageUrl, toolSocialTitleSize, toolTypeLabel } from './toolSocial.mjs'
 
 const progressionTools = relatedToolsForArticle({
   title: 'How to Progress in the Gym Without Guessing',
@@ -34,5 +36,14 @@ assert.equal(hevyTools[0].slug, 'hevy-import-checker')
 const notes = toolQualityNotes({ type: 'hevy', name: 'Hevy Import Checker' })
 assert.match(notes.method, /browser/i)
 assert.match(notes.privacy, /Nothing is uploaded/i)
+
+const socialUrls = tools.map((tool) => toolSocialImageUrl(tool.slug))
+assert.equal(new Set(socialUrls).size, tools.length, 'every tool should have a distinct social image')
+for (const [index, tool] of tools.entries()) {
+  assert.equal(socialUrls[index], `https://jacked.coach/tools/${tool.slug}/social.png`)
+  assert.notEqual(toolTypeLabel(tool.type), 'TRAINING TOOL', `missing social label for ${tool.type}`)
+  assert.ok(toolSocialTitleSize(tool.name) >= 52)
+  assert.ok(toolSocialTitleSize(tool.name) <= 76)
+}
 
 console.log('tool SEO tests passed')

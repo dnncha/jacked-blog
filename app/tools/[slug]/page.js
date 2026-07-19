@@ -4,6 +4,7 @@ import ToolCalculator from '../ToolCalculator'
 import ToolStyles from '../ToolStyles'
 import { appStoreUrl, toolMap, tools } from '../toolData.mjs'
 import { toolQualityNotes } from '../toolSeo.mjs'
+import { toolSocialImageUrl } from '../toolSocial.mjs'
 
 export function generateStaticParams() {
   return tools.map((tool) => ({ slug: tool.slug }))
@@ -26,7 +27,7 @@ export async function generateMetadata({ params }) {
       url: `https://jacked.coach/tools/${tool.slug}`,
       images: [
         {
-          url: '/og-image.png',
+          url: toolSocialImageUrl(tool.slug),
           width: 1200,
           height: 630,
           alt: `${tool.name} | Jacked`,
@@ -37,7 +38,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title: tool.title,
       description: tool.metaDescription,
-      images: ['/og-image.png'],
+      images: [toolSocialImageUrl(tool.slug)],
     },
   }
 }
