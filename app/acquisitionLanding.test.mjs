@@ -16,6 +16,14 @@ const paths = [
 const sources = Object.fromEntries(await Promise.all(paths.map(async path => [path, await readFile(new URL(path, import.meta.url), 'utf8')])))
 const all = Object.values(sources).join('\n')
 
+const indexNowKey = '3edea32ea893663fe5c8685d97b9c7fa'
+const indexNowKeyFile = await readFile(new URL(`../public/${indexNowKey}.txt`, import.meta.url), 'utf8')
+const indexNowScript = await readFile(new URL('../scripts/submit-indexnow.mjs', import.meta.url), 'utf8')
+
+assert.equal(indexNowKeyFile.trim(), indexNowKey, 'the IndexNow ownership file must contain the configured key')
+assert.ok(indexNowScript.includes('url.hostname !== host'), 'IndexNow submissions must be restricted to jacked.coach')
+assert.ok(indexNowScript.includes('https://api.indexnow.org/indexnow'), 'IndexNow must use the protocol endpoint')
+
 for (const route of ['/workout-tracker', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative']) {
   assert.ok(sources['./sitemap.xml/route.js'].includes(`staticUrl('${route}', 'weekly', '0.95')`), `${route} must be in the sitemap`)
   assert.ok(sources['./page.client.js'].includes(route), `${route} must be linked from the homepage`)
