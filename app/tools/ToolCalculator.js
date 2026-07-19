@@ -19,6 +19,7 @@ import {
   calculateWorkoutSplit,
 } from './calculators.mjs'
 import { appStoreUrl } from './toolData.mjs'
+import { sharedToolUrl } from './toolShare.mjs'
 
 function track(event, props) {
   if (typeof window !== 'undefined') {
@@ -158,20 +159,9 @@ function resultFor(tool, values) {
   return calculateWarmups(values)
 }
 
-function resultParams(tool, values) {
-  const params = new URLSearchParams()
-  const allowed = tool.type === 'next-set'
-    ? ['weight', 'reps', 'rir', 'units', 'targetRir', 'increment']
-    : Object.keys(values)
-  for (const key of allowed) {
-    if (values[key] !== undefined && values[key] !== '') params.set(key, values[key])
-  }
-  if (tool.type === 'next-set') params.set('range', `${values.minReps}-${values.maxReps}`)
-  return params.toString()
-}
-
 export default function ToolCalculator({ tool }) {
   const [values, updateValue] = useToolState(tool)
+  const [shareStatus, setShareStatus] = useState('')
   const result = useMemo(() => resultFor(tool, values), [tool, values])
   const units = values.units || 'kg'
   const appHref = appStoreUrl(tool.campaign, 'result_cta')
@@ -181,9 +171,27 @@ export default function ToolCalculator({ tool }) {
   }
 
   const share = async () => {
-    const url = `${window.location.origin}/tools/${tool.slug}?${resultParams(tool, values)}`
-    await navigator.clipboard?.writeText(url)
-    track('tool_result_shared', analyticsProps(tool, values))
+    const url = sharedToolUrl(window.location.origin, tool.slug)
+    const shareData = {
+      title: `${tool.name} | Jacked`,
+      text: tool.promise,
+      url,
+    }
+
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData)
+        setShareStatus('Shared')
+      } else if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(url)
+        setShareStatus('Link copied')
+      } else {
+        setShareStatus(`Share this link: ${url}`)
+      }
+      track('tool_shared', analyticsProps(tool, values))
+    } catch (error) {
+      if (error?.name !== 'AbortError') setShareStatus('Sharing is unavailable. Copy the page URL instead.')
+    }
   }
 
   return (
@@ -676,8 +684,9 @@ export default function ToolCalculator({ tool }) {
           >
             Download Jacked for iPhone
           </a>
-          <button className="tool-secondary" type="button" onClick={share}>Share result</button>
+          <button className="tool-secondary" type="button" onClick={share}>Share tool</button>
         </div>
+        <p className="tool-muted" role="status" aria-live="polite">{shareStatus}</p>
       </aside>
     </div>
   )
