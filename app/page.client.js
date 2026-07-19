@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import { useEffect, useRef, useState } from 'react'
 
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
 
@@ -407,6 +408,80 @@ function PhoneMockup() {
   )
 }
 
+function AppPreviewVideo() {
+  const videoRef = useRef(null)
+  const [isPlaying, setIsPlaying] = useState(false)
+
+  useEffect(() => {
+    const video = videoRef.current
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)')
+
+    if (!video) return undefined
+
+    const syncPlaybackState = () => setIsPlaying(!video.paused)
+    const updateForMotionPreference = () => {
+      if (reducedMotion.matches) {
+        video.pause()
+        return
+      }
+
+      video.play().catch(() => setIsPlaying(false))
+    }
+
+    video.addEventListener('play', syncPlaybackState)
+    video.addEventListener('pause', syncPlaybackState)
+    reducedMotion.addEventListener('change', updateForMotionPreference)
+    updateForMotionPreference()
+
+    return () => {
+      video.removeEventListener('play', syncPlaybackState)
+      video.removeEventListener('pause', syncPlaybackState)
+      reducedMotion.removeEventListener('change', updateForMotionPreference)
+    }
+  }, [])
+
+  const togglePlayback = () => {
+    const video = videoRef.current
+    if (!video) return
+
+    if (video.paused) {
+      video.play().catch(() => setIsPlaying(false))
+    } else {
+      video.pause()
+    }
+  }
+
+  return (
+    <figure className="app-preview-figure">
+      <div className="phone-shell app-preview-shell">
+        <video
+          ref={videoRef}
+          className="app-preview-video"
+          muted
+          loop
+          playsInline
+          preload="metadata"
+          poster="/marketing/jacked-app-preview-poster.png"
+          aria-label="Jacked app preview showing next-lift guidance, set logging, progress, and weekly planning"
+        >
+          <source src="/marketing/jacked-app-preview-480.mp4" type="video/mp4" />
+        </video>
+        <button
+          type="button"
+          className="app-preview-toggle"
+          onClick={togglePlayback}
+          aria-pressed={isPlaying}
+          aria-label={isPlaying ? 'Pause app preview' : 'Play app preview'}
+        >
+          <span aria-hidden="true">{isPlaying ? 'Ⅱ' : '▶'}</span>
+          {isPlaying ? 'Pause preview' : 'Play preview'}
+        </button>
+      </div>
+      <figcaption>Real Jacked interface · seeded demo workout</figcaption>
+    </figure>
+  )
+}
+
 function SectionHeader({ title, copy, align = 'center' }) {
   return (
     <div className={`section-header ${align === 'left' ? 'left' : ''}`}>
@@ -761,6 +836,62 @@ export default function HomeClient() {
           background: linear-gradient(145deg, #56524b, #0b0b0b 24%, #292622 74%, #050505);
           border: 1px solid rgba(255,255,255,0.28);
           box-shadow: 0 36px 90px rgba(0,0,0,0.56);
+        }
+
+        .app-preview-figure {
+          width: min(390px, 100%);
+          margin: 0 auto;
+        }
+
+        .app-preview-shell {
+          position: relative;
+          width: 100%;
+          padding: 10px;
+        }
+
+        .app-preview-video {
+          display: block;
+          width: 100%;
+          height: auto;
+          border: 1px solid rgba(255,255,255,0.08);
+          border-radius: 32px;
+          background: #000;
+        }
+
+        .app-preview-toggle {
+          position: absolute;
+          right: 22px;
+          bottom: 22px;
+          z-index: 2;
+          display: inline-flex;
+          min-height: 44px;
+          align-items: center;
+          gap: 8px;
+          border: 1px solid rgba(255,255,255,0.34);
+          border-radius: 999px;
+          padding: 0 14px;
+          color: #fff;
+          background: rgba(5,5,5,0.84);
+          box-shadow: 0 8px 24px rgba(0,0,0,0.42);
+          font: inherit;
+          font-size: 0.78rem;
+          font-weight: 780;
+          cursor: pointer;
+          backdrop-filter: blur(10px);
+        }
+
+        .app-preview-toggle:focus-visible {
+          outline: 3px solid var(--gold);
+          outline-offset: 3px;
+        }
+
+        .app-preview-figure figcaption {
+          margin-top: 12px;
+          color: #a59d90;
+          font-size: 0.8rem;
+          font-weight: 700;
+          letter-spacing: 0.02em;
+          text-align: center;
         }
 
         .phone-screen {
@@ -1685,6 +1816,11 @@ export default function HomeClient() {
             min-height: 570px;
           }
 
+          .trust-line,
+          .trust-chips {
+            display: none;
+          }
+
           .proof-grid,
           .workflow-grid,
           .feature-grid,
@@ -1793,7 +1929,7 @@ export default function HomeClient() {
             </div>
           </div>
 
-          <PhoneMockup />
+          <AppPreviewVideo />
         </div>
       </section>
 

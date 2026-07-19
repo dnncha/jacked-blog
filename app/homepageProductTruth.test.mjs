@@ -29,9 +29,17 @@ for (const phrase of [
   'Free to download. No account required.',
   "['Today', 'Train', 'Progress', 'Plan', 'Settings']",
   'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8',
+  '/marketing/jacked-app-preview-480.mp4',
+  'Real Jacked interface · seeded demo workout',
+  "window.matchMedia('(prefers-reduced-motion: reduce)')",
+  'Pause preview',
+  'Play preview',
 ]) {
   assert.ok(publicCopy.includes(phrase), `current public conversion surfaces should contain: ${phrase}`)
 }
+
+assert.match(publicCopy, /<video[\s\S]*muted[\s\S]*loop[\s\S]*playsInline/, 'homepage should show the real app preview as a muted inline loop')
+assert.match(publicCopy, /<button[\s\S]*app-preview-toggle[\s\S]*togglePlayback/, 'homepage should let visitors pause or resume the app preview')
 
 const internalPlanningLanguage = [
   'adoption evidence',
