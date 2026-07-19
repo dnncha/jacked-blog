@@ -1,4 +1,6 @@
 import { allBlogPosts } from '../../blog/posts'
+
+export const dynamic = 'force-static'
 let cachedPosts = null
 
 function dateValue(value) {

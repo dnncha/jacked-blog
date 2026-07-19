@@ -6,5 +6,6 @@ node_modules
 .open-next
 app/blog/posts.generated.json
 .next
+out
 output
 .env*.local

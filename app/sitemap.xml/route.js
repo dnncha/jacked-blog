@@ -1,6 +1,8 @@
 import { tools } from '../tools/toolData.mjs'
 import { allBlogPosts } from '../blog/posts'
 
+export const dynamic = 'force-static'
+
 function isValidDate(value) {
   return Boolean(value && !Number.isNaN(new Date(value).getTime()))
 }

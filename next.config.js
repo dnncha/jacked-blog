@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
+const isStaticExport = process.env.JACKED_STATIC_EXPORT === '1'
+
 const nextConfig = {
+  ...(isStaticExport ? { output: 'export' } : {}),
   reactStrictMode: true,
   async redirects() {
+    if (isStaticExport) return []
+
     return [
       {
         source: '/:path*',
@@ -47,6 +52,8 @@ const nextConfig = {
     ]
   },
   async headers() {
+    if (isStaticExport) return []
+
     const securityHeaders = [
       {
         key: 'Content-Security-Policy',
