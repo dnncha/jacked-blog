@@ -33,6 +33,15 @@ export default function AcquisitionLanding({
   related,
   finalTitle,
   finalCopy,
+  heroPresentation = 'photo',
+  benefitsTitle = 'Less admin between sets. More useful training context.',
+  benefitsIntro = 'Jacked keeps the details that change your next decision inside the active workout.',
+  flowTitle = 'From your last result to the next working set.',
+  flowIntro = 'The app stays focused on the workout you are running, not a feed or a generic dashboard.',
+  comparisonTitle = 'A training log should help with the next decision.',
+  comparisonIntro = 'History is most useful when it is visible before the set it affects.',
+  comparisonLabel = 'Basic workout log and Jacked comparison',
+  faqTitle = 'Questions lifters ask before switching.',
 }) {
   const faqSchema = {
     '@context': 'https://schema.org',
@@ -78,6 +87,14 @@ export default function AcquisitionLanding({
             linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(3,3,3,0.82) 44%, rgba(3,3,3,0.28) 78%, rgba(3,3,3,0.18) 100%),
             linear-gradient(180deg, transparent 52%, #050505 100%),
             var(--acq-hero-image) 68% center / cover no-repeat;
+        }
+
+        .acquisition-hero.screen {
+          background:
+            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.94) 46%, rgba(3,3,3,0.42) 70%, rgba(3,3,3,0.12) 100%),
+            linear-gradient(180deg, transparent 70%, #050505 100%),
+            var(--acq-hero-image) calc(100% - 8vw) center / auto 82% no-repeat,
+            #050505;
         }
 
         .acquisition-hero-copy { max-width: 690px; padding: 76px 0 88px; }
@@ -185,6 +202,12 @@ export default function AcquisitionLanding({
           border-radius: 14px;
           filter: saturate(0.8) contrast(1.05);
         }
+        .acquisition-photo.screen {
+          max-height: 680px;
+          padding: 20px;
+          object-fit: contain;
+          background: #090a0c;
+        }
         .acquisition-steps { display: grid; gap: 12px; }
         .acquisition-step { display: grid; grid-template-columns: 46px 1fr; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--acq-line); }
         .acquisition-step > strong { color: var(--acq-gold); font-size: 1.15rem; }
@@ -222,12 +245,21 @@ export default function AcquisitionLanding({
           .acquisition-comparison-row { grid-template-columns: 1fr; }
           .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
           .acquisition-comparison-head > *:first-child { display: none; }
+          .acquisition-hero.screen {
+            min-height: 850px;
+            align-items: start;
+            background:
+              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 44%, rgba(3,3,3,0.2) 72%, #050505 100%),
+              var(--acq-hero-image) center calc(100% - 18px) / auto 52% no-repeat,
+              #050505;
+          }
+          .acquisition-hero.screen .acquisition-hero-copy { padding: 56px 0 430px; }
         }
       `}</style>
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <section className="acquisition-hero" style={{ '--acq-hero-image': `url('${heroImage}')` }}>
+      <section className={`acquisition-hero ${heroPresentation}`} style={{ '--acq-hero-image': `url('${heroImage}')` }}>
         <div className="acquisition-wrap">
           <div className="acquisition-hero-copy">
             <p className="acquisition-eyebrow">{eyebrow}</p>
@@ -244,8 +276,8 @@ export default function AcquisitionLanding({
       <section className="acquisition-section">
         <div className="acquisition-wrap">
           <div className="acquisition-heading">
-            <h2>Less admin between sets. More useful training context.</h2>
-            <p>Jacked keeps the details that change your next decision inside the active workout.</p>
+            <h2>{benefitsTitle}</h2>
+            <p>{benefitsIntro}</p>
           </div>
           <div className="acquisition-benefits">
             {benefits.map((benefit, index) => (
@@ -261,11 +293,11 @@ export default function AcquisitionLanding({
 
       <section className="acquisition-section soft">
         <div className="acquisition-wrap acquisition-flow">
-          <img className="acquisition-photo" src={heroImage} alt={heroImageAlt} loading="lazy" decoding="async" />
+          <img className={`acquisition-photo ${heroPresentation}`} src={heroImage} alt={heroImageAlt} loading="lazy" decoding="async" />
           <div>
             <div className="acquisition-heading">
-              <h2>From your last result to the next working set.</h2>
-              <p>The app stays focused on the workout you are running, not a feed or a generic dashboard.</p>
+              <h2>{flowTitle}</h2>
+              <p>{flowIntro}</p>
             </div>
             <div className="acquisition-steps">
               {steps.map((step, index) => (
@@ -282,10 +314,10 @@ export default function AcquisitionLanding({
       <section className="acquisition-section">
         <div className="acquisition-wrap">
           <div className="acquisition-heading">
-            <h2>A training log should help with the next decision.</h2>
-            <p>History is most useful when it is visible before the set it affects.</p>
+            <h2>{comparisonTitle}</h2>
+            <p>{comparisonIntro}</p>
           </div>
-          <div className="acquisition-comparison" role="table" aria-label="Basic workout log and Jacked comparison">
+          <div className="acquisition-comparison" role="table" aria-label={comparisonLabel}>
             <div className="acquisition-comparison-row acquisition-comparison-head" role="row">
               <span role="columnheader">Training moment</span><span role="columnheader">Basic log</span><span role="columnheader">Jacked</span>
             </div>
@@ -300,7 +332,7 @@ export default function AcquisitionLanding({
 
       <section className="acquisition-section soft">
         <div className="acquisition-wrap">
-          <div className="acquisition-heading"><h2>Questions lifters ask before switching.</h2></div>
+          <div className="acquisition-heading"><h2>{faqTitle}</h2></div>
           <div className="acquisition-faq">
             {faqs.map(({ question, answer }) => (
               <details key={question}><summary>{question}</summary><p>{answer}</p></details>

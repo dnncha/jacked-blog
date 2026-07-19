@@ -154,6 +154,7 @@ const faqs = [
 const acquisitionGuides = [
   ['/workout-tracker', 'Workout tracker for iPhone', 'Fast set logging, recent performance, rest timing, and weekly muscle targets in one focused training flow.'],
   ['/progressive-overload', 'Progressive overload app', 'Use rep ranges, RIR, and recent results to choose when to repeat, add reps, or add load.'],
+  ['/hevy-alternative', 'Switch from Hevy, Strong, or FitNotes', 'Import supported workout history from CSV, review it before saving, and continue with your training context intact.'],
   ['/blog/alternatives-to-rp-hypertrophy-app', 'Alternatives to RP Hypertrophy App', 'Compare Jacked, Mesostrength, Hevy, Strong, Liftosaur, and other options by switching reason.'],
   ['/blog/best-hypertrophy-app-ios-review', 'Best hypertrophy app for iOS', 'How to judge a workout tracker when progression, RIR, and volume actually matter.'],
   ['/blog/progressive-overload-app-works', 'Progressive overload apps', 'Why good targets need rep ranges, effort, and performance history.'],
