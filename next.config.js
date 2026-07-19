@@ -2,7 +2,7 @@
 const isStaticExport = process.env.JACKED_STATIC_EXPORT === '1'
 
 const nextConfig = {
-  ...(isStaticExport ? { output: 'export' } : {}),
+  ...(isStaticExport ? { output: 'export', trailingSlash: true } : {}),
   reactStrictMode: true,
   async redirects() {
     if (isStaticExport) return []
