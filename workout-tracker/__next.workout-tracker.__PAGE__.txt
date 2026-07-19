@@ -1,0 +1,191 @@
+1:"$Sreact.fragment"
+b:I[22016,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+c:I[97367,["/_next/static/chunks/13h-0fd.p-1ga.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+2:T1d38,
+        :root {
+          --acq-gold: #f5b935;
+          --acq-gold-bright: #ffd46a;
+          --acq-text: #fff8ea;
+          --acq-muted: #b8b0a2;
+          --acq-line: rgba(255, 248, 234, 0.14);
+          --acq-panel: #11110f;
+        }
+
+        .acquisition-page,
+        .acquisition-page * { box-sizing: border-box; }
+
+        .acquisition-page {
+          color: var(--acq-text);
+          background: #050505;
+        }
+
+        .acquisition-wrap {
+          width: min(1120px, calc(100% - 32px));
+          margin: 0 auto;
+        }
+
+        .acquisition-hero {
+          min-height: 690px;
+          display: grid;
+          align-items: center;
+          border-bottom: 1px solid var(--acq-line);
+          background:
+            linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(3,3,3,0.82) 44%, rgba(3,3,3,0.28) 78%, rgba(3,3,3,0.18) 100%),
+            linear-gradient(180deg, transparent 52%, #050505 100%),
+            var(--acq-hero-image) 68% center / cover no-repeat;
+        }
+
+        .acquisition-hero-copy { max-width: 690px; padding: 76px 0 88px; }
+
+        .acquisition-eyebrow {
+          margin: 0 0 16px;
+          color: var(--acq-gold);
+          font-size: 0.8rem;
+          font-weight: 850;
+          letter-spacing: 0.13em;
+          text-transform: uppercase;
+        }
+
+        .acquisition-hero h1 {
+          max-width: 780px;
+          margin: 0;
+          font-size: clamp(3rem, 7vw, 6rem);
+          line-height: 0.96;
+          letter-spacing: -0.055em;
+          font-weight: 950;
+        }
+
+        .acquisition-hero-copy > p:not(.acquisition-eyebrow) {
+          max-width: 650px;
+          margin: 24px 0 0;
+          color: var(--acq-muted);
+          font-size: clamp(1.05rem, 2vw, 1.22rem);
+          line-height: 1.65;
+        }
+
+        .acquisition-actions { margin-top: 30px; }
+
+        .acquisition-store-link {
+          display: inline-flex;
+          align-items: center;
+          gap: 13px;
+          min-height: 62px;
+          padding: 0 22px;
+          border: 1px solid rgba(255,255,255,0.24);
+          border-radius: 10px;
+          color: #11100c;
+          background: linear-gradient(180deg, var(--acq-gold-bright), var(--acq-gold));
+          box-shadow: 0 16px 38px rgba(245,185,53,0.2);
+          text-decoration: none;
+          font-size: 1.04rem;
+          font-weight: 850;
+        }
+
+        .acquisition-store-link > span:first-child { font-size: 2rem; line-height: 1; }
+        .acquisition-store-link > span:last-child { display: grid; line-height: 1.12; }
+        .acquisition-store-link small { font-size: 0.68rem; font-weight: 730; }
+
+        .acquisition-store-note {
+          margin: 13px 0 0;
+          color: #9d9689;
+          font-size: 0.84rem;
+          font-weight: 650;
+        }
+
+        .acquisition-section { padding: 88px 0; border-bottom: 1px solid var(--acq-line); }
+        .acquisition-section.soft { background: #0a0a09; }
+
+        .acquisition-heading { max-width: 740px; margin-bottom: 38px; }
+        .acquisition-heading h2 {
+          margin: 0;
+          font-size: clamp(2rem, 4vw, 3.4rem);
+          line-height: 1.06;
+          letter-spacing: -0.04em;
+        }
+        .acquisition-heading p { margin: 15px 0 0; color: var(--acq-muted); font-size: 1.04rem; }
+
+        .acquisition-benefits {
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 14px;
+        }
+
+        .acquisition-card {
+          padding: 27px;
+          border: 1px solid var(--acq-line);
+          border-radius: 12px;
+          background: linear-gradient(180deg, rgba(255,255,255,0.055), rgba(255,255,255,0.022));
+        }
+        .acquisition-card span {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          width: 38px;
+          height: 38px;
+          margin-bottom: 18px;
+          border-radius: 8px;
+          color: #111;
+          background: var(--acq-gold);
+          font-weight: 900;
+        }
+        .acquisition-card h3 { margin: 0; font-size: 1.2rem; line-height: 1.25; }
+        .acquisition-card p { margin: 11px 0 0; color: var(--acq-muted); line-height: 1.65; }
+
+        .acquisition-flow { display: grid; grid-template-columns: 0.82fr 1.18fr; gap: 56px; align-items: center; }
+        .acquisition-photo {
+          width: 100%;
+          min-height: 520px;
+          object-fit: cover;
+          border: 1px solid var(--acq-line);
+          border-radius: 14px;
+          filter: saturate(0.8) contrast(1.05);
+        }
+        .acquisition-steps { display: grid; gap: 12px; }
+        .acquisition-step { display: grid; grid-template-columns: 46px 1fr; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--acq-line); }
+        .acquisition-step > strong { color: var(--acq-gold); font-size: 1.15rem; }
+        .acquisition-step h3 { margin: 0; font-size: 1.12rem; }
+        .acquisition-step p { margin: 6px 0 0; color: var(--acq-muted); }
+
+        .acquisition-comparison { overflow: hidden; border: 1px solid var(--acq-line); border-radius: 12px; }
+        .acquisition-comparison-row { display: grid; grid-template-columns: 0.72fr 1fr 1fr; }
+        .acquisition-comparison-row + .acquisition-comparison-row { border-top: 1px solid var(--acq-line); }
+        .acquisition-comparison-row > * { padding: 19px 22px; }
+        .acquisition-comparison-row > * + * { border-left: 1px solid var(--acq-line); }
+        .acquisition-comparison-row strong { color: #f7f0df; }
+        .acquisition-comparison-row span { color: var(--acq-muted); }
+        .acquisition-comparison-head { background: #171512; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 850; }
+        .acquisition-comparison-head > *:last-child { color: var(--acq-gold); }
+
+        .acquisition-faq { display: grid; gap: 10px; }
+        .acquisition-faq details { padding: 21px 23px; border: 1px solid var(--acq-line); border-radius: 10px; background: var(--acq-panel); }
+        .acquisition-faq summary { cursor: pointer; font-weight: 800; }
+        .acquisition-faq p { margin: 12px 0 0; color: var(--acq-muted); }
+
+        .acquisition-related { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 28px; }
+        .acquisition-related a { padding: 9px 13px; border: 1px solid var(--acq-line); border-radius: 999px; color: #e8d67b; text-decoration: none; font-size: 0.88rem; font-weight: 720; }
+
+        .acquisition-final { padding: 96px 0; text-align: center; background: radial-gradient(circle at 50% 20%, rgba(245,185,53,0.13), transparent 28rem), #050505; }
+        .acquisition-final h2 { max-width: 760px; margin: 0 auto; font-size: clamp(2.2rem, 5vw, 4.3rem); line-height: 1; letter-spacing: -0.045em; }
+        .acquisition-final p { max-width: 620px; margin: 20px auto 28px; color: var(--acq-muted); font-size: 1.08rem; }
+
+        @media (max-width: 820px) {
+          .acquisition-hero { min-height: 620px; background-position: 61% center; }
+          .acquisition-hero-copy { padding: 70px 0; }
+          .acquisition-benefits { grid-template-columns: 1fr; }
+          .acquisition-flow { grid-template-columns: 1fr; gap: 34px; }
+          .acquisition-photo { min-height: 390px; }
+          .acquisition-comparison-row { grid-template-columns: 1fr; }
+          .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
+          .acquisition-comparison-head > *:first-child { display: none; }
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KOLR06lOU3SDmtFLGF2cX"}
+3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Jacked a free workout tracker?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Jacked is currently free to download and use on iPhone. The App Store listing is the source for current availability.\"}},{\"@type\":\"Question\",\"name\":\"Can I use my own workout routine?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. You keep control of your routine, exercise selection, set targets, and rep ranges. Jacked helps you run and record the session.\"}},{\"@type\":\"Question\",\"name\":\"Can I import workouts from Hevy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Jacked includes a compatible Hevy import path for workouts, routines, exercise notes, and set history.\"}},{\"@type\":\"Question\",\"name\":\"Where is my workout data stored?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Workout history is stored locally on your iPhone. You do not need to create an account to start training.\"}}]}"}}]
+4:["$","section",null,{"className":"acquisition-hero","style":{"--acq-hero-image":"url('/marketing/generated/jacked-workout-flow.webp')"},"children":["$","div",null,{"className":"acquisition-wrap","children":["$","div",null,{"className":"acquisition-hero-copy","children":[["$","p",null,{"className":"acquisition-eyebrow","children":"Workout tracker for iPhone"}],["$","h1",null,{"children":"Log the set. Know what comes next."}],["$","p",null,{"children":"Jacked is a focused weight-lifting tracker for lifters who want fast logging, visible training history, rest timing, and a clear next target inside the workout."}],["$","div",null,{"className":"acquisition-actions","children":["$","a",null,{"className":"acquisition-store-link","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_workout_tracker&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"seo_workout_tracker_hero","children":[["$","span",null,{"aria-hidden":"true","children":""}],["$","span",null,{"children":[["$","small",null,{"children":"Download free on iPhone"}],"View Jacked on the App Store"]}]]}]}],["$","p",null,{"className":"acquisition-store-note","children":"Free to download. No account required. Workout history stays on your iPhone."}]]}]}]}]
+5:["$","section",null,{"className":"acquisition-section","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"Less admin between sets. More useful training context."}],["$","p",null,{"children":"Jacked keeps the details that change your next decision inside the active workout."}]]}],["$","div",null,{"className":"acquisition-benefits","children":[["$","article","Log weight and reps from one screen",{"className":"acquisition-card","children":[["$","span",null,{"children":1}],["$","h3",null,{"children":"Log weight and reps from one screen"}],["$","p",null,{"children":"Your previous result, current target, and active rest timer stay close to the set you are recording."}]]}],["$","article","See what each muscle still needs",{"className":"acquisition-card","children":[["$","span",null,{"children":2}],["$","h3",null,{"children":"See what each muscle still needs"}],["$","p",null,{"children":"Weekly hard-set totals show completed sets and sets left for each muscle across your training split."}]]}],["$","article","Keep your existing training context",{"className":"acquisition-card","children":[["$","span",null,{"children":3}],["$","h3",null,{"children":"Keep your existing training context"}],["$","p",null,{"children":"Import compatible Hevy workouts, routines, notes, and set history instead of rebuilding your log from zero."}]]}]]}]]}]}]
+6:["$","section",null,{"className":"acquisition-section soft","children":["$","div",null,{"className":"acquisition-wrap acquisition-flow","children":[["$","img",null,{"className":"acquisition-photo","src":"/marketing/generated/jacked-workout-flow.webp","alt":"Lifter reviewing an iPhone beside a barbell in a strength gym","loading":"lazy","decoding":"async"}],["$","div",null,{"children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"From your last result to the next working set."}],["$","p",null,{"children":"The app stays focused on the workout you are running, not a feed or a generic dashboard."}]]}],["$","div",null,{"className":"acquisition-steps","children":[["$","div","Open today’s workout",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",1]}],["$","div",null,{"children":[["$","h3",null,{"children":"Open today’s workout"}],["$","p",null,{"children":"Exercises, rep ranges, previous sets, and targets are ready before the first working set."}]]}]]}],["$","div","Record the work",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",2]}],["$","div",null,{"children":[["$","h3",null,{"children":"Record the work"}],["$","p",null,{"children":"Log weight and reps, time your rest, correct a set quickly, and continue without leaving the session."}]]}]]}],["$","div","Carry the result forward",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",3]}],["$","div",null,{"children":[["$","h3",null,{"children":"Carry the result forward"}],["$","p",null,{"children":"Lift history, PRs, and weekly hard-set totals give the next workout useful context."}]]}]]}]]}]]}]]}]}]
+7:["$","section",null,{"className":"acquisition-section","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"A training log should help with the next decision."}],["$","p",null,{"children":"History is most useful when it is visible before the set it affects."}]]}],["$","div",null,{"className":"acquisition-comparison","role":"table","aria-label":"Basic workout log and Jacked comparison","children":[["$","div",null,{"className":"acquisition-comparison-row acquisition-comparison-head","role":"row","children":[["$","span",null,{"role":"columnheader","children":"Training moment"}],["$","span",null,{"role":"columnheader","children":"Basic log"}],["$","span",null,{"role":"columnheader","children":"Jacked"}]]}],[["$","div","Before the set",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Before the set"}],["$","span",null,{"role":"cell","children":"Search workout history for the last result."}],["$","span",null,{"role":"cell","children":"See the previous result, target load, and rep range together."}]]}],["$","div","Between sets",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Between sets"}],["$","span",null,{"role":"cell","children":"Track rest separately or estimate it."}],["$","span",null,{"role":"cell","children":"Keep the rest timer inside the active workout."}]]}],["$","div","After the workout",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"After the workout"}],["$","span",null,{"role":"cell","children":"Review a list of sets without muscle-level context."}],["$","span",null,{"role":"cell","children":"See lift history, PRs, and weekly hard sets by muscle."}]]}]]]}]]}]}]
+8:["$","section",null,{"className":"acquisition-section soft","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":["$","h2",null,{"children":"Questions lifters ask before switching."}]}],["$","div",null,{"className":"acquisition-faq","children":[["$","details","Is Jacked a free workout tracker?",{"children":[["$","summary",null,{"children":"Is Jacked a free workout tracker?"}],["$","p",null,{"children":"Yes. Jacked is currently free to download and use on iPhone. The App Store listing is the source for current availability."}]]}],["$","details","Can I use my own workout routine?",{"children":[["$","summary",null,{"children":"Can I use my own workout routine?"}],["$","p",null,{"children":"Yes. You keep control of your routine, exercise selection, set targets, and rep ranges. Jacked helps you run and record the session."}]]}],["$","details","Can I import workouts from Hevy?",{"children":[["$","summary",null,{"children":"Can I import workouts from Hevy?"}],["$","p",null,{"children":"Jacked includes a compatible Hevy import path for workouts, routines, exercise notes, and set history."}]]}],["$","details","Where is my workout data stored?",{"children":[["$","summary",null,{"children":"Where is my workout data stored?"}],["$","p",null,{"children":"Workout history is stored locally on your iPhone. You do not need to create an account to start training."}]]}]]}],["$","div",null,{"className":"acquisition-related","aria-label":"Related Jacked guides","children":[["$","$Lb","/progressive-overload",{"href":"/progressive-overload","children":"Progressive overload app"}],["$","$Lb","/tools/next-set-calculator",{"href":"/tools/next-set-calculator","children":"Next-set calculator"}],["$","$Lb","/blog/import-hevy-to-jacked",{"href":"/blog/import-hevy-to-jacked","children":"Import Hevy to Jacked"}]]}]]}]}]
+9:["$","section",null,{"className":"acquisition-final","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","h2",null,{"children":"Make the workout log useful before your next set."}],["$","p",null,{"children":"Download Jacked on iPhone and run your next session with history, targets, rest, and weekly muscle totals in one place."}],["$","a",null,{"className":"acquisition-store-link","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_workout_tracker&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"seo_workout_tracker_final","children":[["$","span",null,{"aria-hidden":"true","children":""}],["$","span",null,{"children":[["$","small",null,{"children":"Download free on iPhone"}],"View Jacked on the App Store"]}]]}]]}]}]
+a:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null
