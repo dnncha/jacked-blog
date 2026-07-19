@@ -13,7 +13,7 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "lint": "npm run test",
     "pretest": "node scripts/generate-blog-content.mjs",
-    "test": "node app/seoPerformance.test.mjs && node app/layoutAnalytics.test.mjs && node app/homepageProductTruth.test.mjs && node app/tools/calculators.test.mjs && node app/tools/toolData.test.mjs && node app/tools/toolSeo.test.mjs"
+    "test": "node app/seoPerformance.test.mjs && node app/layoutAnalytics.test.mjs && node app/homepageProductTruth.test.mjs && node app/acquisitionLanding.test.mjs && node app/tools/calculators.test.mjs && node app/tools/toolData.test.mjs && node app/tools/toolSeo.test.mjs"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.1",
