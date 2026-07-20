@@ -54,6 +54,7 @@ export default function RootLayout({ children }) {
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="alternate" type="application/rss+xml" title="Jacked training library RSS feed" href="/feed.xml" />
+        <meta name="apple-itunes-app" content="app-id=6757132605, affiliate-data=pt=128406689&ct=smart_banner&mt=8" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'SoftwareApplication',
