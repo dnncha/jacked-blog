@@ -4,7 +4,7 @@ import { useMemo, useState } from 'react'
 import Link from 'next/link'
 
 const PAGE_SIZE = 36
-const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
+const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_hub&mt=8'
 
 const seoLinks = [
   ['/blog/alternatives-to-rp-hypertrophy-app', 'Alternatives to RP Hypertrophy App'],

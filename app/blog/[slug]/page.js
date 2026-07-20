@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { remark } from 'remark'
 import remarkHtml from 'remark-html'
 import { relatedToolsForArticle } from '../../tools/toolSeo.mjs'
+import { blogAcquisitionForPost, blogAppStoreUrl } from '../blogAcquisition.mjs'
 import { allBlogPosts, findBlogPost } from '../posts'
 
 function isValidDate(value) {
@@ -287,6 +288,8 @@ export default async function BlogPost({ params }) {
   const wordCount = post.content.split(/\s+/).filter(Boolean).length
   const publishedDate = isValidDate(post.date) ? post.date : undefined
   const articleTools = relatedToolsForArticle(post, 4)
+  const acquisition = blogAcquisitionForPost(post)
+  const appStoreUrl = blogAppStoreUrl(post)
   const faqs = extractFaqs(post.content)
   const rankedAlternatives = post.rankingItems.map((item, index) => ({
     '@type': 'ListItem',
@@ -556,12 +559,13 @@ export default async function BlogPost({ params }) {
           <span>Jacked training guide</span>
         </div>
         <a
-          href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8"
+          href={appStoreUrl}
           target="_blank"
           rel="noopener noreferrer"
+          data-global-cta={`${acquisition.campaign}_header`}
           style={{ display: 'inline-block', marginTop: '1rem', padding: '0.65rem 0.95rem', borderRadius: '8px', textDecoration: 'none', fontWeight: '720', background: '#e2c95f', color: '#111' }}
         >
-          Get Jacked for iPhone
+          {acquisition.label}
         </a>
       </header>
 
@@ -615,9 +619,9 @@ export default async function BlogPost({ params }) {
       )}
 
       <section style={{ marginTop: '3rem', padding: '1.6rem', background: '#f2eee4', borderRadius: '10px', color: '#111', textAlign: 'center' }}>
-        <h2 style={{ marginTop: 0, fontSize: '1.28rem', fontWeight: '760', letterSpacing: 0 }}>Apply this in your next workout.</h2>
-        <p style={{ marginBottom: '1.5rem', fontSize: '1rem', color: '#4b473f' }}>Jacked turns plan targets, rest timing, RIR feedback, Hevy import, and progress history into a faster iPhone workout log.</p>
-        <a href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8" target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
+        <h2 style={{ marginTop: 0, fontSize: '1.28rem', fontWeight: '760', letterSpacing: 0 }}>{acquisition.headline}</h2>
+        <p style={{ marginBottom: '1.5rem', fontSize: '1rem', color: '#4b473f' }}>{acquisition.copy}</p>
+        <a href={appStoreUrl} target="_blank" rel="noopener noreferrer" data-global-cta={`${acquisition.campaign}_final`} style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
           Open the App Store listing
         </a>
       </section>
