@@ -3,6 +3,7 @@ import assert from 'node:assert/strict'
 import {
   calculateDeload,
   calculateExerciseSwaps,
+  calculateFitNotesImportPreview,
   calculateStrongImportPreview,
   calculateWorkoutCsvValidation,
   calculateRestTime,
@@ -219,6 +220,24 @@ assert.equal(strongImport.sets, 3)
 assert.equal(strongImport.exercises, 2)
 assert.match(strongImport.nextAction, /Jacked/i)
 
+const fitNotesImport = calculateFitNotesImportPreview(`Date,Exercise,Category,Weight (kg),Weight (lbs),Reps,Distance,Distance Unit,Time,Notes,Kind
+2026-01-06,Bench Press,Chest,100,,5,,,,Paused reps,wr
+2026-01-06,Bench Press,Chest,90,,8,,,,Backoff,wr
+2026-01-07,Treadmill,Cardio,,,,5,km,30:00,Zone 2,dt
+`)
+assert.equal(fitNotesImport.ready, true)
+assert.equal(fitNotesImport.status, 'FitNotes shape looks ready')
+assert.equal(fitNotesImport.workouts, 2)
+assert.equal(fitNotesImport.sets, 3)
+assert.equal(fitNotesImport.strengthRows, 2)
+assert.equal(fitNotesImport.cardioRows, 1)
+
+const brokenFitNotesImport = calculateFitNotesImportPreview(`Date,Movement,Weight (kg),Reps
+2026-01-06,Bench Press,100,5
+`)
+assert.equal(brokenFitNotesImport.ready, false)
+assert.ok(brokenFitNotesImport.issues.some((issue) => issue.field === 'exercise' && issue.severity === 'blocker'))
+
 const csvValidation = calculateWorkoutCsvValidation(`Date,Workout Name,Exercise Name,Set Order,Weight,Reps
 2026-01-01,Upper,Bench Press,1,80,10
 2026-01-01,Upper,,2,80,8
@@ -297,6 +316,7 @@ function calculateDefaultForTool(tool) {
   if (tool.type === 'split') return calculateWorkoutSplit(values)
   if (tool.type === 'swaps') return calculateExerciseSwaps(values)
   if (tool.type === 'strong-import') return calculateStrongImportPreview(values.csvText)
+  if (tool.type === 'fitnotes-import') return calculateFitNotesImportPreview(values.csvText)
   if (tool.type === 'csv-validator') return calculateWorkoutCsvValidation(values.csvText)
   if (tool.type === 'rest-time') return calculateRestTime(values)
   if (tool.type === 'backoff') return calculateBackoffSets(values)

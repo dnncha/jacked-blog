@@ -70,6 +70,7 @@ export default function FitNotesAlternativePage() {
     faqs={faqs}
     faqTitle="Questions about moving from FitNotes."
     related={[
+      ['/tools/fitnotes-csv-import-checker', 'Check a FitNotes CSV'],
       ['/hevy-alternative', 'Hevy alternative'],
       ['/strong-alternative', 'Strong alternative'],
       ['/workout-tracker', 'Workout tracker for iPhone'],

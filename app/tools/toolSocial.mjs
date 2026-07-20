@@ -3,6 +3,7 @@ const typeLabels = {
   'csv-validator': 'CSV CHECKER',
   deload: 'DELOAD',
   hevy: 'HEVY IMPORT',
+  'fitnotes-import': 'FITNOTES IMPORT',
   'next-set': 'NEXT SET',
   'one-rm': 'ESTIMATED 1RM',
   plates: 'PLATE LOADING',

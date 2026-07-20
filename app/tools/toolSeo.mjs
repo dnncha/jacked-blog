@@ -2,6 +2,11 @@ import { toolMap } from './toolData.mjs'
 
 const keywordRules = [
   {
+    slug: 'fitnotes-csv-import-checker',
+    weight: 12,
+    terms: ['fitnotes', 'import', 'csv', 'export', 'migration', 'switching'],
+  },
+  {
     slug: 'hevy-import-checker',
     weight: 12,
     terms: ['hevy', 'import', 'csv', 'export', 'migration', 'switching'],
@@ -165,6 +170,11 @@ export function toolQualityNotes(tool) {
     'strong-import': {
       method: 'Parses the Strong-style CSV locally in the browser and checks for workout dates, exercise names, set rows, loads, reps, notes, and effort fields.',
       assumptions: 'Strong exports and edited CSV files can vary. Treat this as a preview and keep the original export untouched.',
+      privacy: 'The CSV is parsed in your browser. Nothing is uploaded. No account required. No server storage.',
+    },
+    'fitnotes-import': {
+      method: 'Parses the FitNotes CSV locally in the browser and checks the required Date and Exercise columns plus supported lifting, cardio, and note fields.',
+      assumptions: 'FitNotes exports and edited CSV files can vary. This is a file-shape check; verify dates, exercises, and set details in Jacked after import.',
       privacy: 'The CSV is parsed in your browser. Nothing is uploaded. No account required. No server storage.',
     },
     'csv-validator': {

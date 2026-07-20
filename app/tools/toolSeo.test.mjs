@@ -33,6 +33,15 @@ const hevyTools = relatedToolsForArticle({
 
 assert.equal(hevyTools[0].slug, 'hevy-import-checker')
 
+const fitNotesTools = relatedToolsForArticle({
+  title: 'FitNotes CSV Import Guide',
+  excerpt: 'Export FitNotes workout history before switching apps.',
+  category: 'Apps',
+  slug: 'fitnotes-csv-import-guide',
+})
+
+assert.equal(fitNotesTools[0].slug, 'fitnotes-csv-import-checker')
+
 const notes = toolQualityNotes({ type: 'hevy', name: 'Hevy Import Checker' })
 assert.match(notes.method, /browser/i)
 assert.match(notes.privacy, /Nothing is uploaded/i)

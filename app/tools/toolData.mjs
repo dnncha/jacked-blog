@@ -12,7 +12,7 @@ export const toolGroups = [
   },
   {
     title: 'Most useful for planning',
-    items: ['strength-level-calculator', 'weekly-volume-checker', 'one-rep-max-calculator', 'exercise-swap-finder', 'hevy-import-checker', 'strong-csv-import-checker', 'workout-csv-validator'],
+    items: ['strength-level-calculator', 'weekly-volume-checker', 'one-rep-max-calculator', 'exercise-swap-finder', 'hevy-import-checker', 'strong-csv-import-checker', 'fitnotes-csv-import-checker', 'workout-csv-validator'],
   },
 ]
 
@@ -463,6 +463,39 @@ const coreTools = [
       ['What should I check after import?', 'Open your main lifts, recent workouts, custom exercises, and notes before training from the imported history.'],
     ],
     related: ['workout-csv-validator', 'hevy-import-checker', 'next-set-calculator', 'weekly-volume-checker'],
+  },
+  {
+    slug: 'fitnotes-csv-import-checker',
+    type: 'fitnotes-import',
+    name: 'FitNotes CSV Import Checker',
+    title: 'FitNotes CSV Import Checker: Check Your Workout Export',
+    metaDescription: 'Check a FitNotes workout CSV locally in your browser for required dates, exercises, strength rows, cardio rows, and likely import blockers.',
+    h1: 'FitNotes CSV Import Checker',
+    promise: 'Check a FitNotes workout export before moving your history.',
+    intro: 'Upload or paste a FitNotes workout CSV. The checker runs in your browser and looks for the same required Date and Exercise columns used by Jacked.',
+    primaryKeyword: 'FitNotes CSV import',
+    campaign: 'fitnotes_csv_import_checker',
+    defaults: {
+      csvText: `Date,Exercise,Category,Weight (kg),Weight (lbs),Reps,Distance,Distance Unit,Time,Notes,Kind
+2026-01-06,Bench Press,Chest,100,,5,,,,Paused reps,wr
+2026-01-06,Bench Press,Chest,90,,8,,,,Backoff,wr
+2026-01-07,Treadmill,Cardio,,,,5,km,30:00,Zone 2,dt`,
+    },
+    sections: [
+      ['What this checker looks for', 'Jacked requires Date and Exercise columns. The checker also identifies supported kilogram or pound loads, reps, distance, duration, and notes.'],
+      ['Strength and cardio rows', 'FitNotes exports can contain lifting, bodyweight, timed, and distance rows. Blank weight or rep cells are not automatically errors when a row records cardio or another supported set type.'],
+      ['Privacy implementation', 'The CSV is parsed in your browser. Nothing is uploaded by this web tool. Keep the original export untouched until the in-app import is verified.'],
+      ['Date formats', 'ISO dates are the clearest option. Slash dates need an unambiguous day and month order so the workout lands on the intended date.'],
+    ],
+    examples: [
+      'A lifting row can include Date, Exercise, Weight (kg), and Reps.',
+      'A cardio row can include Date, Exercise, Distance, Distance Unit, and Time without a load or rep value.',
+    ],
+    faqs: [
+      ['Is my FitNotes CSV uploaded?', 'No. This page parses the CSV in your browser and does not send it to a server.'],
+      ['Does a clean check guarantee the import?', 'No. It checks the file shape. Import a copy in Jacked and review dates, main lifts, custom exercises, and cardio rows before relying on the history.'],
+    ],
+    related: ['workout-csv-validator', 'strong-csv-import-checker', 'hevy-import-checker', 'next-set-calculator'],
   },
   {
     slug: 'workout-csv-validator',

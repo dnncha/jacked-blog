@@ -18,6 +18,7 @@ assert.equal(
 
 const newCoreTools = [
   ['strong-csv-import-checker', 'strong-import'],
+  ['fitnotes-csv-import-checker', 'fitnotes-import'],
   ['workout-csv-validator', 'csv-validator'],
   ['rest-time-calculator', 'rest-time'],
   ['backoff-set-calculator', 'backoff'],

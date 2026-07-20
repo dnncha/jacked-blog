@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react'
 import {
   calculateDeload,
   calculateExerciseSwaps,
+  calculateFitNotesImportPreview,
   calculateStrongImportPreview,
   calculateWorkoutCsvValidation,
   calculateRestTime,
@@ -152,6 +153,7 @@ function resultFor(tool, values) {
   if (tool.type === 'split') return calculateWorkoutSplit(values)
   if (tool.type === 'swaps') return calculateExerciseSwaps(values)
   if (tool.type === 'strong-import') return calculateStrongImportPreview(values.csvText)
+  if (tool.type === 'fitnotes-import') return calculateFitNotesImportPreview(values.csvText)
   if (tool.type === 'csv-validator') return calculateWorkoutCsvValidation(values.csvText)
   if (tool.type === 'rest-time') return calculateRestTime(values)
   if (tool.type === 'backoff') return calculateBackoffSets(values)
@@ -198,11 +200,11 @@ export default function ToolCalculator({ tool }) {
     <div className="tool-workspace">
       <form className="tool-card" onSubmit={(event) => { event.preventDefault(); complete() }}>
         <div className="tool-card-head">
-          <h2>Calculator</h2>
+          <h2>{['hevy', 'strong-import', 'fitnotes-import', 'csv-validator'].includes(tool.type) ? 'CSV checker' : 'Calculator'}</h2>
           <span>{tool.primaryKeyword}</span>
         </div>
 
-        {tool.type !== 'plates' && tool.type !== 'volume' && tool.type !== 'deload' && tool.type !== 'split' && tool.type !== 'swaps' && tool.type !== 'hevy' && tool.type !== 'strong-import' && tool.type !== 'csv-validator' && tool.type !== 'rest-time' && tool.type !== 'backoff' && (
+        {tool.type !== 'plates' && tool.type !== 'volume' && tool.type !== 'deload' && tool.type !== 'split' && tool.type !== 'swaps' && tool.type !== 'hevy' && tool.type !== 'strong-import' && tool.type !== 'fitnotes-import' && tool.type !== 'csv-validator' && tool.type !== 'rest-time' && tool.type !== 'backoff' && (
           <label className="tool-field tool-field-wide">
             <span>Exercise</span>
             <input type="text" name="exercise" value={values.exercise || ''} onChange={(event) => updateValue('exercise', event.target.value)} />
@@ -360,10 +362,10 @@ export default function ToolCalculator({ tool }) {
           </>
         )}
 
-        {(tool.type === 'strong-import' || tool.type === 'csv-validator') && (
+        {(tool.type === 'strong-import' || tool.type === 'fitnotes-import' || tool.type === 'csv-validator') && (
           <>
             <label className="tool-field tool-field-wide">
-              <span>Upload workout CSV</span>
+              <span>{tool.type === 'fitnotes-import' ? 'Upload FitNotes workout CSV' : 'Upload workout CSV'}</span>
               <input
                 type="file"
                 accept=".csv,text/csv"
@@ -404,7 +406,9 @@ export default function ToolCalculator({ tool }) {
           </>
         )}
 
-        <button className="tool-primary" type="submit">Calculate</button>
+        <button className="tool-primary" type="submit">
+          {['hevy', 'strong-import', 'fitnotes-import', 'csv-validator'].includes(tool.type) ? 'Check CSV' : 'Calculate'}
+        </button>
       </form>
 
       <aside className="tool-result-card">
@@ -621,6 +625,30 @@ export default function ToolCalculator({ tool }) {
                 ))}
               </div>
             )}
+            <p className="tool-muted">{result.privacy}</p>
+          </>
+        )}
+
+        {tool.type === 'fitnotes-import' && (
+          <>
+            <h2>{result.status}</h2>
+            <div className="mini-grid">
+              <ResultLine label="Workouts">{result.workouts}</ResultLine>
+              <ResultLine label="Set rows">{result.sets}</ResultLine>
+              <ResultLine label="Exercises">{result.exercises}</ResultLine>
+              <ResultLine label="CSV rows">{result.rows}</ResultLine>
+              <ResultLine label="Strength rows">{result.strengthRows}</ResultLine>
+              <ResultLine label="Cardio rows">{result.cardioRows}</ResultLine>
+            </div>
+            <p><strong>Next action:</strong> {result.nextAction}</p>
+            <div className="swap-list">
+              {(result.issues.length ? result.issues : [{ field: 'shape', message: 'Required FitNotes columns and workout rows were found.' }]).slice(0, 6).map((issue) => (
+                <div key={`${issue.field}-${issue.message}`}>
+                  <strong>{issue.field}</strong>
+                  <span>{issue.message}</span>
+                </div>
+              ))}
+            </div>
             <p className="tool-muted">{result.privacy}</p>
           </>
         )}

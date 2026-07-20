@@ -1146,8 +1146,8 @@ function csvImportStats(csvText) {
     const reps = repsIndex >= 0 ? row[repsIndex]?.trim() : ''
     const unit = unitIndex >= 0 ? row[unitIndex]?.trim().toLowerCase() : ''
 
-    if (!date) missingDates++
-    if (!exercise) missingExercises++
+    if (dateIndex >= 0 && !date) missingDates++
+    if (exerciseIndex >= 0 && !exercise) missingExercises++
     if (weightIndex >= 0 && !weight) missingLoads++
     if (repsIndex >= 0 && !reps) missingReps++
     if (unit) units.add(unit)
@@ -1234,6 +1234,78 @@ export function calculateStrongImportPreview(csvText) {
     nextAction: validation.status === 'Fix before import'
       ? validation.nextAction
       : 'Download Jacked, keep the original Strong export, then import and review your main lifts.',
+  }
+}
+
+export function calculateFitNotesImportPreview(csvText) {
+  const { dataRows, headers, indexOf } = csvShape(csvText)
+  const dateIndex = headers.findIndex((header) => header === 'date')
+  const exerciseIndex = headers.findIndex((header) => header === 'exercise')
+  const weightKgIndex = indexOf(['weight (kg)', 'weight_(kg)', 'weight_kg'])
+  const weightLbIndex = indexOf(['weight (lbs)', 'weight_(lbs)', 'weight_lbs'])
+  const repsIndex = indexOf(['reps', 'repetitions'])
+  const distanceIndex = headers.findIndex((header) => header === 'distance')
+  const durationIndex = indexOf(['time', 'duration'])
+  const notesIndex = headers.findIndex((header) => header === 'notes')
+  const workouts = new Set()
+  const exercises = new Set()
+  const issues = []
+  let missingDates = 0
+  let missingExercises = 0
+  let strengthRows = 0
+  let cardioRows = 0
+  let slashDateRows = 0
+
+  for (const row of dataRows) {
+    const date = dateIndex >= 0 ? row[dateIndex]?.trim() : ''
+    const exercise = exerciseIndex >= 0 ? row[exerciseIndex]?.trim() : ''
+    const kg = weightKgIndex >= 0 ? row[weightKgIndex]?.trim() : ''
+    const lb = weightLbIndex >= 0 ? row[weightLbIndex]?.trim() : ''
+    const reps = repsIndex >= 0 ? row[repsIndex]?.trim() : ''
+    const distance = distanceIndex >= 0 ? row[distanceIndex]?.trim() : ''
+    const duration = durationIndex >= 0 ? row[durationIndex]?.trim() : ''
+
+    if (dateIndex >= 0 && !date) missingDates++
+    if (exerciseIndex >= 0 && !exercise) missingExercises++
+    if (date) workouts.add(date)
+    if (exercise) exercises.add(exercise.toLowerCase())
+    if (kg || lb || reps) strengthRows++
+    if (distance || duration) cardioRows++
+    if (/^\d{1,2}\/\d{1,2}\/\d{2,4}(?:\s|$)/.test(date)) slashDateRows++
+  }
+
+  if (dataRows.length === 0) issues.push({ field: 'file', severity: 'blocker', message: 'No FitNotes workout rows found.' })
+  if (dateIndex < 0) issues.push({ field: 'date', severity: 'blocker', message: 'Missing the required Date column.' })
+  if (exerciseIndex < 0) issues.push({ field: 'exercise', severity: 'blocker', message: 'Missing the required Exercise column.' })
+  if (missingDates) issues.push({ field: 'date', severity: 'blocker', message: `${missingDates} rows have no workout date.` })
+  if (missingExercises) issues.push({ field: 'exercise', severity: 'blocker', message: `${missingExercises} rows have no exercise name.` })
+  if (slashDateRows) issues.push({
+    field: 'date',
+    severity: 'review',
+    message: `${slashDateRows} rows use slash dates. Use ISO dates or make day/month order unambiguous before import.`,
+  })
+  if (weightKgIndex < 0 && weightLbIndex < 0 && repsIndex < 0 && distanceIndex < 0 && durationIndex < 0) {
+    issues.push({ field: 'sets', severity: 'warning', message: 'No supported load, reps, distance, or duration columns were found.' })
+  }
+
+  const blockers = issues.filter((issue) => issue.severity === 'blocker').length
+  const status = blockers ? 'Fix before import' : issues.length ? 'Review before import' : 'FitNotes shape looks ready'
+
+  return {
+    status,
+    ready: blockers === 0 && dataRows.length > 0,
+    issues,
+    rows: dataRows.length,
+    workouts: workouts.size,
+    sets: dataRows.filter((row) => (dateIndex < 0 || row[dateIndex]?.trim()) && (exerciseIndex < 0 || row[exerciseIndex]?.trim())).length,
+    exercises: exercises.size,
+    strengthRows,
+    cardioRows,
+    notesFound: notesIndex >= 0,
+    nextAction: blockers
+      ? 'Export a fresh workout CSV from FitNotes and fix the first blocker before importing.'
+      : 'Keep the original export, import a copy into Jacked, then spot-check dates, main lifts, and cardio rows.',
+    privacy: 'The CSV is parsed in your browser. Nothing is uploaded by this web tool.',
   }
 }
 
