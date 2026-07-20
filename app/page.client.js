@@ -1917,7 +1917,9 @@ export default function HomeClient() {
                 See how targets work
               </a>
             </div>
-            <p className="store-note">Free to download. No account required.</p>
+            <p className="store-note">
+              Free to download. No account required. Import from Hevy, Strong, or FitNotes.
+            </p>
             <div className="trust-line">
               <i aria-hidden="true" />
               <span>For iPhone lifters who have outgrown plain workout logs and spreadsheet upkeep.</span>

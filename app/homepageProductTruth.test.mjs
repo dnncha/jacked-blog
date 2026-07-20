@@ -27,6 +27,7 @@ for (const phrase of [
   'Weekly muscle targets',
   'Double progression',
   'Free to download. No account required.',
+  'Import from Hevy, Strong, or FitNotes.',
   "['Today', 'Train', 'Progress', 'Plan', 'Settings']",
   'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8',
   '/marketing/jacked-app-preview-480.mp4',
