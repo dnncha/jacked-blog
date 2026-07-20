@@ -9,6 +9,7 @@ const paths = [
   './hevy-alternative/page.js',
   './strong-alternative/page.js',
   './fitnotes-alternative/page.js',
+  './accessibility/page.js',
   './sitemap.xml/route.js',
   './page.client.js',
   './layout.js',
@@ -29,6 +30,8 @@ for (const route of ['/workout-tracker', '/gym-workout-planner', '/progressive-o
   assert.ok(sources['./sitemap.xml/route.js'].includes(`staticUrl('${route}', 'weekly', '0.95')`), `${route} must be in the sitemap`)
   assert.ok(sources['./page.client.js'].includes(route), `${route} must be linked from the homepage`)
 }
+
+assert.ok(sources['./sitemap.xml/route.js'].includes("staticUrl('/accessibility', 'monthly', '0.6')"), 'accessibility page must be in the sitemap')
 
 for (const route of ['/workout-tracker', '/progressive-overload', '/hevy-alternative']) {
   assert.ok(sources['./layout.js'].includes(route), `${route} must be linked sitewide`)

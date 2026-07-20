@@ -48,6 +48,7 @@ export async function GET() {
     staticUrl('/press', 'monthly', '0.7'),
     staticUrl('/about', 'monthly', '0.6'),
     staticUrl('/support', 'monthly', '0.6'),
+    staticUrl('/accessibility', 'monthly', '0.6'),
     staticUrl('/privacy', 'yearly', '0.4'),
     staticUrl('/terms', 'yearly', '0.4'),
     ...tools.map(tool => ({
