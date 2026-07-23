@@ -9,6 +9,7 @@ const files = await Promise.all([
 ].map(async (path) => [path, await readFile(new URL(path, import.meta.url), 'utf8')]))
 
 const publicCopy = files.map(([, contents]) => contents).join('\n')
+const homepageClientSource = files.find(([path]) => path === './page.client.js')[1]
 const forbiddenClaims = [
   'progress photos',
   'body metrics',
@@ -41,6 +42,21 @@ for (const phrase of [
 
 assert.match(publicCopy, /<video[\s\S]*muted[\s\S]*loop[\s\S]*playsInline/, 'homepage should show the real app preview as a muted inline loop')
 assert.match(publicCopy, /<button[\s\S]*app-preview-toggle[\s\S]*togglePlayback/, 'homepage should let visitors pause or resume the app preview')
+
+for (const [placement, campaign] of [
+  ['hero', 'jacked_coach_home_hero'],
+  ['download', 'jacked_coach_home_download'],
+  ['final_cta', 'jacked_coach_home_final'],
+]) {
+  assert.ok(
+    homepageClientSource.includes(`${placement}: '${campaign}'`),
+    `homepage CTA should have its own attributed App Store campaign: ${campaign}`,
+  )
+}
+assert.ok(
+  homepageClientSource.includes('return `${APP_STORE_URL_BASE}&ct=${campaign}&mt=8`'),
+  'homepage App Store URL builder should send the selected campaign to Apple',
+)
 
 const internalPlanningLanguage = [
   'adoption evidence',

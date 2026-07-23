@@ -3,9 +3,18 @@
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
 
-const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8'
+const APP_STORE_URL_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689'
 
-const appStoreUrl = () => APP_STORE_URL
+const appStoreCampaigns = {
+  hero: 'jacked_coach_home_hero',
+  download: 'jacked_coach_home_download',
+  final_cta: 'jacked_coach_home_final',
+}
+
+const appStoreUrl = (placement) => {
+  const campaign = appStoreCampaigns[placement] ?? 'jacked_coach'
+  return `${APP_STORE_URL_BASE}&ct=${campaign}&mt=8`
+}
 
 const proofPoints = [
   {
