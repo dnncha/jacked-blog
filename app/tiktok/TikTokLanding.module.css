@@ -1,0 +1,560 @@
+:global(body:has(#jacked-tiktok-landing) > header),
+:global(body:has(#jacked-tiktok-landing) > footer),
+:global(body:has(#jacked-tiktok-app-store) > header),
+:global(body:has(#jacked-tiktok-app-store) > footer) {
+  display: none;
+}
+
+:global(body:has(#jacked-tiktok-landing)),
+:global(body:has(#jacked-tiktok-app-store)) {
+  background: #030303;
+}
+
+.page,
+.page * {
+  box-sizing: border-box;
+}
+
+.page {
+  --gold: #f5bf3b;
+  --gold-bright: #ffdc74;
+  --paper: #fff8e9;
+  --muted: #c6bdad;
+  --line: rgba(255, 248, 233, 0.16);
+  min-height: 100vh;
+  overflow: hidden;
+  color: var(--paper);
+  background: #030303;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", sans-serif;
+}
+
+.shell {
+  width: min(1160px, calc(100% - 36px));
+  margin: 0 auto;
+}
+
+.hero {
+  position: relative;
+  min-height: 810px;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+  background:
+    linear-gradient(90deg, rgba(2, 2, 2, 0.98) 0%, rgba(2, 2, 2, 0.78) 44%, rgba(2, 2, 2, 0.3) 75%, rgba(2, 2, 2, 0.55) 100%),
+    url('/marketing/generated/jacked-hero-woman.webp') 68% center / cover no-repeat;
+}
+
+.heroShade {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 62% 26%, rgba(255, 199, 66, 0.2), transparent 24rem),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.72));
+}
+
+.brandRow {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 86px;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  color: var(--gold-bright);
+  font-size: 1.22rem;
+  font-weight: 950;
+  letter-spacing: 0.08em;
+}
+
+.platform,
+.kicker,
+.sectionKicker {
+  font-size: 0.76rem;
+  font-weight: 850;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.platform {
+  border: 1px solid rgba(255, 218, 109, 0.42);
+  border-radius: 999px;
+  padding: 8px 12px;
+  color: #f9df8b;
+  background: rgba(6, 6, 5, 0.64);
+  backdrop-filter: blur(12px);
+}
+
+.heroGrid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 0.72fr);
+  align-items: center;
+  gap: 58px;
+  min-height: 724px;
+  padding: 46px 0 62px;
+}
+
+.heroCopy {
+  max-width: 690px;
+}
+
+.kicker,
+.sectionKicker {
+  margin: 0;
+  color: var(--gold-bright);
+}
+
+.heroCopy h1 {
+  max-width: 680px;
+  margin: 18px 0 0;
+  color: #fff;
+  font-size: clamp(4rem, 8.2vw, 7.4rem);
+  font-weight: 950;
+  letter-spacing: -0.065em;
+  line-height: 0.86;
+  text-wrap: balance;
+}
+
+.lede {
+  max-width: 610px;
+  margin: 28px 0 0;
+  color: var(--muted);
+  font-size: 1.14rem;
+  line-height: 1.62;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-top: 30px;
+}
+
+.storeButton {
+  display: inline-flex;
+  min-height: 62px;
+  min-width: 290px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 12px;
+  padding: 10px 22px;
+  color: #100e08;
+  background: linear-gradient(180deg, var(--gold-bright), var(--gold));
+  box-shadow: 0 18px 50px rgba(245, 191, 59, 0.25);
+  text-decoration: none;
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.storeButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 22px 62px rgba(245, 191, 59, 0.34);
+}
+
+.storeButton:focus-visible,
+.motionLink:focus-visible,
+.motionToggle:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 4px;
+}
+
+.storeEyebrow {
+  font-size: 0.68rem;
+  font-weight: 760;
+  line-height: 1.1;
+}
+
+.storeButton strong {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.motionLink {
+  color: var(--paper);
+  font-size: 0.94rem;
+  font-weight: 780;
+  text-decoration-color: var(--gold);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+.storeNote {
+  margin: 16px 0 0;
+  color: #b5ad9f;
+  font-size: 0.82rem;
+  font-weight: 650;
+}
+
+.motionStage {
+  display: flex;
+  justify-content: center;
+  scroll-margin-top: 24px;
+}
+
+.motionFigure {
+  width: min(350px, 100%);
+  margin: 0;
+}
+
+.phoneFrame {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 44px;
+  padding: 10px;
+  background: linear-gradient(145deg, #5b564c, #080808 23%, #2f2a22 78%, #050505);
+  box-shadow: 0 42px 110px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(245, 191, 59, 0.18);
+}
+
+.motionVideo {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 34px;
+  background: #000;
+}
+
+.motionToggle {
+  position: absolute;
+  right: 22px;
+  bottom: 22px;
+  min-height: 42px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 999px;
+  padding: 0 14px;
+  color: #fff;
+  background: rgba(3, 3, 3, 0.82);
+  font: inherit;
+  font-size: 0.76rem;
+  font-weight: 780;
+  cursor: pointer;
+  backdrop-filter: blur(12px);
+}
+
+.motionFigure figcaption {
+  margin-top: 12px;
+  color: #a99f90;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+.outcomesSection {
+  padding: 92px 0;
+  background:
+    radial-gradient(circle at 50% 0%, rgba(245, 191, 59, 0.12), transparent 32rem),
+    #070706;
+}
+
+.outcomesSection h2,
+.manifesto h2 {
+  max-width: 800px;
+  margin: 16px 0 0;
+  color: #fff;
+  font-size: clamp(2.5rem, 5.2vw, 4.7rem);
+  font-weight: 930;
+  letter-spacing: -0.045em;
+  line-height: 0.98;
+  text-wrap: balance;
+}
+
+.outcomesGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 44px;
+}
+
+.outcomeCard {
+  min-height: 230px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 26px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.015));
+}
+
+.outcomeCard > span {
+  display: block;
+  color: var(--gold);
+  font-size: 0.76rem;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+}
+
+.outcomeCard h3 {
+  margin: 42px 0 0;
+  color: #fff;
+  font-size: 1.35rem;
+  line-height: 1.15;
+}
+
+.outcomeCard p {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.58;
+}
+
+.manifesto {
+  position: relative;
+  min-height: 660px;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid var(--line);
+  background:
+    linear-gradient(90deg, rgba(3, 3, 3, 0.98), rgba(3, 3, 3, 0.79) 48%, rgba(3, 3, 3, 0.28)),
+    linear-gradient(180deg, rgba(3, 3, 3, 0.1), rgba(3, 3, 3, 0.84)),
+    url('/marketing/generated/jacked-workout-flow.webp') center / cover no-repeat;
+}
+
+.manifestoCopy {
+  max-width: 670px;
+  padding: 90px 0;
+}
+
+.manifestoCopy > p:not(.sectionKicker) {
+  max-width: 610px;
+  margin: 24px 0 0;
+  color: var(--muted);
+  font-size: 1.08rem;
+  line-height: 1.65;
+}
+
+.manifesto .storeButton {
+  margin-top: 30px;
+}
+
+.mobileDock {
+  display: none;
+}
+
+.redirectPage {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  gap: 18px;
+  padding: 28px;
+  color: #fff8e9;
+  background:
+    radial-gradient(circle at 50% 25%, rgba(245, 191, 59, 0.17), transparent 30rem),
+    #030303;
+  text-align: center;
+}
+
+.redirectPage p {
+  margin: 0;
+  color: #c6bdad;
+}
+
+.redirectPage a {
+  min-height: 58px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  padding: 0 22px;
+  color: #100e08;
+  background: linear-gradient(180deg, #ffdc74, #f5bf3b);
+  font-weight: 850;
+  text-decoration: none;
+}
+
+@media (max-width: 900px) {
+  .heroGrid {
+    grid-template-columns: minmax(0, 1fr) minmax(280px, 0.62fr);
+    gap: 30px;
+  }
+
+  .heroCopy h1 {
+    font-size: clamp(3.8rem, 10vw, 6rem);
+  }
+}
+
+@media (max-width: 720px) {
+  .page {
+    padding-bottom: 92px;
+  }
+
+  .shell {
+    width: min(100% - 28px, 560px);
+  }
+
+  .hero {
+    min-height: 0;
+    background:
+      linear-gradient(180deg, rgba(2, 2, 2, 0.32) 0%, rgba(2, 2, 2, 0.82) 34%, #030303 68%),
+      url('/marketing/generated/jacked-hero-woman.webp') 67% top / auto 500px no-repeat,
+      #030303;
+  }
+
+  .heroShade {
+    background: radial-gradient(circle at 74% 18%, rgba(255, 199, 66, 0.18), transparent 19rem);
+  }
+
+  .brandRow {
+    min-height: 66px;
+  }
+
+  .brand {
+    font-size: 1.04rem;
+  }
+
+  .platform {
+    padding: 6px 9px;
+    font-size: 0.72rem;
+  }
+
+  .heroGrid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    min-height: 0;
+    padding: 64px 0 52px;
+  }
+
+  .heroCopy {
+    max-width: none;
+  }
+
+  .kicker,
+  .sectionKicker {
+    font-size: 0.78rem;
+    line-height: 1.4;
+  }
+
+  .heroCopy h1 {
+    max-width: 370px;
+    margin-top: 14px;
+    font-size: clamp(3.55rem, 17vw, 5.2rem);
+    line-height: 0.88;
+  }
+
+  .lede {
+    margin-top: 22px;
+    color: #d2c9ba;
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  .actions {
+    display: grid;
+    gap: 16px;
+    margin-top: 24px;
+  }
+
+  .storeButton {
+    width: 100%;
+    min-width: 0;
+    align-items: center;
+    text-align: center;
+  }
+
+  .motionLink {
+    justify-self: start;
+  }
+
+  .storeNote {
+    max-width: 330px;
+    font-size: 0.86rem;
+    line-height: 1.45;
+  }
+
+  .motionFigure {
+    width: min(315px, 88vw);
+  }
+
+  .phoneFrame {
+    border-radius: 39px;
+    padding: 8px;
+  }
+
+  .motionVideo {
+    border-radius: 32px;
+  }
+
+  .outcomesSection {
+    padding: 72px 0;
+  }
+
+  .outcomesSection h2,
+  .manifesto h2 {
+    font-size: clamp(2.45rem, 12vw, 3.6rem);
+    line-height: 0.96;
+  }
+
+  .outcomesGrid {
+    grid-template-columns: 1fr;
+    margin-top: 32px;
+  }
+
+  .outcomeCard {
+    min-height: 0;
+    padding: 22px;
+  }
+
+  .outcomeCard h3 {
+    margin-top: 28px;
+  }
+
+  .manifesto {
+    min-height: 620px;
+    align-items: flex-end;
+    background:
+      linear-gradient(180deg, rgba(3, 3, 3, 0.2), rgba(3, 3, 3, 0.84) 48%, #030303 86%),
+      url('/marketing/generated/jacked-workout-flow.webp') 42% top / auto 620px no-repeat,
+      #030303;
+  }
+
+  .manifestoCopy {
+    padding: 220px 0 58px;
+  }
+
+  .manifestoCopy > p:not(.sectionKicker) {
+    font-size: 1rem;
+  }
+
+  .manifesto .storeButton {
+    display: none;
+  }
+
+  .mobileDock {
+    position: fixed;
+    right: 12px;
+    bottom: max(12px, env(safe-area-inset-bottom));
+    left: 12px;
+    z-index: 1000;
+    display: block;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(calc(100% + 24px));
+    transition: opacity 180ms ease, transform 180ms ease;
+  }
+
+  .mobileDockVisible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+  }
+
+  .mobileDock .storeButton {
+    min-height: 66px;
+    box-shadow: 0 14px 44px rgba(0, 0, 0, 0.58), 0 10px 36px rgba(245, 191, 59, 0.3);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .storeButton,
+  .mobileDock {
+    transition: none;
+  }
+
+  .storeButton:hover {
+    transform: none;
+  }
+}

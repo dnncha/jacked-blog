@@ -92,4 +92,8 @@ for (const phrase of internalPlanningLanguage) {
   assert.ok(!publicFacingCopy.includes(phrase), `public-facing source must not expose internal planning language: ${phrase}`)
 }
 
+for (const phrase of ['iphone only', 'iphone-only', 'never seen before', 'guaranteed results']) {
+  assert.ok(!publicFacingCopy.includes(phrase), `public-facing source must not use unsupported positioning: ${phrase}`)
+}
+
 console.log('homepage product truth tests passed')
