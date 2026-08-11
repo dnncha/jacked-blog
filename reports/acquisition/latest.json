@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-08-08T07:32:01.738Z",
+  "status": "blocked",
+  "sources": {
+    "searchConsole": {
+      "status": "blocked",
+      "queryRows": 0,
+      "pageRows": 0
+    },
+    "webAnalytics": {
+      "status": "missing",
+      "rows": 0
+    },
+    "appStoreConnect": {
+      "status": "missing",
+      "rows": 0
+    },
+    "appAnalytics": {
+      "status": "missing",
+      "rows": 0
+    }
+  },
+  "funnel": {
+    "nonBrandSearchImpressions": null,
+    "searchClicks": null,
+    "webPageViews": null,
+    "toolStarts": null,
+    "toolCompletions": null,
+    "appStoreOutboundClicks": null,
+    "downloads": null,
+    "firstWorkouts": null,
+    "completedWorkouts": null
+  },
+  "notes": [
+    "Missing source data is represented as null, not zero.",
+    "Search Console query/page totals remain unknown when the exporter has no rows.",
+    "App Store and app activation data require authorized exports and are not inferred from web events."
+  ]
+}

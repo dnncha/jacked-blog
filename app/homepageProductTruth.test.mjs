@@ -17,6 +17,8 @@ const forbiddenClaims = [
   'before you subscribe',
   'Where do I see current pricing?',
   "['Today', 'Log', 'Progress', 'Library', 'More']",
+  'Hit your <span className="gold-text">weekly targets.</span> Progress every lift.',
+  'For iPhone lifters who have outgrown plain workout logs and spreadsheet upkeep.',
 ]
 
 for (const phrase of forbiddenClaims) {
@@ -24,12 +26,14 @@ for (const phrase of forbiddenClaims) {
 }
 
 for (const phrase of [
-  'Hit your <span className="gold-text">weekly targets.</span> Progress every lift.',
+  'Get bigger <span className="gold-text">on purpose.</span>',
+  'Know the next lift. Hit the right weekly work. Leave with the next move already decided.',
   'Weekly muscle targets',
   'Double progression',
-  'Free to download. No account required.',
-  'Import from Hevy, Strong, or FitNotes.',
-  "['Today', 'Train', 'Progress', 'Plan', 'Settings']",
+  'No account required. Import from Hevy, Strong, or FitNotes.',
+  'Know the lift',
+  'Hit the weekly work',
+  'Progress the next session',
   'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=jacked_coach&mt=8',
   '/marketing/jacked-app-preview-480.mp4',
   'Real Jacked interface · seeded demo workout',
@@ -42,6 +46,7 @@ for (const phrase of [
 
 assert.match(publicCopy, /<video[\s\S]*muted[\s\S]*loop[\s\S]*playsInline/, 'homepage should show the real app preview as a muted inline loop')
 assert.match(publicCopy, /<button[\s\S]*app-preview-toggle[\s\S]*togglePlayback/, 'homepage should let visitors pause or resume the app preview')
+assert.ok(!homepageClientSource.includes('<path d='), 'homepage icons should come from the shared icon library instead of handcrafted SVG paths')
 
 for (const [placement, campaign] of [
   ['hero', 'jacked_coach_home_hero'],

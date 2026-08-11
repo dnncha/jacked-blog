@@ -28,6 +28,39 @@ function track(event, props) {
   }
 }
 
+const SAFE_ANALYTICS_VALUES = new Set([
+  'kg', 'lb',
+  'hypertrophy', 'strength', 'strength + size', 'maintenance', 'endurance',
+  'same muscle', 'less fatigue', 'similar movement', 'home gym alternative',
+  'barbell', 'dumbbell', 'machine', 'cable', 'bodyweight',
+  'commercial gym', 'home gym', 'dumbbells only', 'barbell only',
+  'squat', 'hinge', 'horizontal press', 'vertical press', 'row / pull', 'isolation',
+])
+
+function safeAnalyticsValue(value) {
+  const normalized = String(value ?? '').trim()
+  return SAFE_ANALYTICS_VALUES.has(normalized) ? normalized : ''
+}
+
+function safeAnalyticsToken(value) {
+  const normalized = String(value ?? '').trim().replace(/\s+/g, '_')
+  if (!normalized || normalized.length > 80 || normalized.includes('@') || /https?:\/\//i.test(normalized)) return ''
+  return /^[A-Za-z0-9][A-Za-z0-9._~:/+-]*$/.test(normalized) ? normalized : ''
+}
+
+function currentSourcePage() {
+  if (typeof window === 'undefined') return '/'
+  try {
+    return new URL(window.location.href).pathname || '/'
+  } catch {
+    return '/'
+  }
+}
+
+function isImportChecker(tool) {
+  return ['hevy', 'strong-import', 'fitnotes-import', 'csv-validator'].includes(tool.type)
+}
+
 function analyticsProps(tool, values = {}) {
   const params = typeof window !== 'undefined'
     ? new URLSearchParams(window.location.search)
@@ -35,12 +68,23 @@ function analyticsProps(tool, values = {}) {
 
   return {
     tool_name: tool.slug,
-    units: values.units || tool.defaults.units || '',
-    goal: values.goal || tool.defaults.goal || '',
-    exercise_type: values.movementType || values.equipment || tool.defaults.movementType || tool.defaults.equipment || '',
-    source_page: typeof document !== 'undefined' ? document.referrer : '',
-    utm_source: params.get('utm_source') || '',
-    utm_campaign: params.get('utm_campaign') || '',
+    tool_type: tool.type,
+    units: safeAnalyticsValue(values.units || tool.defaults.units),
+    goal: safeAnalyticsValue(values.goal || tool.defaults.goal),
+    exercise_type: safeAnalyticsValue(values.movementType || values.equipment || tool.defaults.movementType || tool.defaults.equipment),
+    source_page: currentSourcePage(),
+    utm_source: safeAnalyticsToken(params.get('utm_source')),
+    utm_campaign: safeAnalyticsToken(params.get('utm_campaign')),
+  }
+}
+
+function completionProps(tool, values, result) {
+  return {
+    ...analyticsProps(tool, values),
+    completion_kind: isImportChecker(tool) ? 'import_checker' : 'calculator',
+    result_category: isImportChecker(tool)
+      ? (result?.ready ? 'ready' : 'needs_review')
+      : 'calculated',
   }
 }
 
@@ -169,7 +213,9 @@ export default function ToolCalculator({ tool }) {
   const appHref = appStoreUrl(tool.campaign, 'result_cta')
 
   const complete = () => {
-    track('tool_completed', analyticsProps(tool, values))
+    const props = completionProps(tool, values, result)
+    track('tool_completed', props)
+    if (isImportChecker(tool)) track('import_checker_completed', props)
   }
 
   const share = async () => {

@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import WebAnalytics from './components/WebAnalytics'
 
 export const metadata = {
   metadataBase: new URL('https://jacked.coach'),
@@ -112,7 +113,7 @@ export default function RootLayout({ children }) {
             __html: `(function(e,c){if(!c.__SV){var l,h;window.mixpanel=c;c._i=[];c.init=function(q,r,f){function t(d,a){var g=a.split(".");2==g.length&&(d=d[g[0]],a=g[1]);d[a]=function(){d.push([a].concat(Array.prototype.slice.call(arguments,0)))}}var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";b.people=b.people||[];b.toString=function(d){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);d||(a+=" (stub)");return a};b.people.toString=function(){return b.toString(1)+".people (stub)"};l="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders start_session_recording stop_session_recording people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<l.length;h++)t(b,l[h]);var n="set set_once union unset remove delete".split(" ");b.get_group=function(){function d(p){a[p]=function(){b.push([g,[p].concat(Array.prototype.slice.call(arguments,0))])}}for(var a={},g=["get_group"].concat(Array.prototype.slice.call(arguments,0)),m=0;m<n.length;m++)d(n[m]);return a};c._i.push([q,r,f])};c.__SV=1.2;var k=e.createElement("script");k.type="text/javascript";k.async=!0;k.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=e.getElementsByTagName("script")[0];e.parentNode.insertBefore(k,e)}})(document,window.mixpanel||[]);mixpanel.init('32b861825d2e0b1beca8b2a1ae0f52c1',{autocapture:false,record_sessions_percent:0,api_host:'https://api-eu.mixpanel.com'});`
           }}
         />
-        <script dangerouslySetInnerHTML={{ __html: `document.addEventListener('click',function(e){const a=e.target.closest('[data-nav-section]');if(a){window.mixpanel?.track?.('nav_click',{section:a.getAttribute('data-nav-section')||'unknown'});}const c=e.target.closest('[data-global-cta]');if(c){window.mixpanel?.track?.('cta_click',{placement:c.getAttribute('data-global-cta')||'unknown',target:'app_store'});}const r=e.target.closest('[data-related-tool]');if(r){const p=new URLSearchParams(window.location.search);window.mixpanel?.track?.('tool_related_tool_clicked',{tool_name:window.location.pathname.split('/').filter(Boolean).pop()||'tools',related_tool:r.getAttribute('data-related-tool')||'unknown',units:'',goal:'',exercise_type:'',source_page:document.referrer||'',utm_source:p.get('utm_source')||'',utm_campaign:p.get('utm_campaign')||''});}});` }} />
+        <script dangerouslySetInnerHTML={{ __html: `document.addEventListener('click',function(e){const a=e.target.closest('[data-nav-section]');if(a){window.mixpanel?.track?.('nav_click',{section:a.getAttribute('data-nav-section')||'unknown'});}const c=e.target.closest('[data-global-cta]');if(c){window.mixpanel?.track?.('cta_click',{placement:c.getAttribute('data-global-cta')||'unknown',target:'app_store'});}const r=e.target.closest('[data-related-tool]');if(r){const p=new URLSearchParams(window.location.search);const s=v=>{v=(v||'').trim().replace(/\\s+/g,'_');return /^(?!https?:\\/\\/)(?!.*@)[A-Za-z0-9][A-Za-z0-9._~:/+-]{0,79}$/.test(v)?v:''};window.mixpanel?.track?.('tool_related_tool_clicked',{tool_name:window.location.pathname.split('/').filter(Boolean).pop()||'tools',related_tool:r.getAttribute('data-related-tool')||'unknown',units:'',goal:'',exercise_type:'',source_page:window.location.pathname||'/',utm_source:s(p.get('utm_source')),utm_campaign:s(p.get('utm_campaign'))});}});` }} />
       </head>
       <body style={{
         margin: 0,
@@ -121,6 +122,7 @@ export default function RootLayout({ children }) {
         color: '#e5e5e5',
         backgroundColor: '#000000'
       }}>
+        <WebAnalytics />
         <header style={{
           backgroundColor: '#000000',
           borderBottom: '1px solid rgba(242,238,228,0.1)',
@@ -141,9 +143,9 @@ export default function RootLayout({ children }) {
           }}>
             <Link href="/" style={{ color: '#d9c26c', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
               <span style={{ 
-                fontSize: '1.22rem', 
-                fontWeight: '760', 
-                letterSpacing: '0.02em', 
+                fontSize: '1.22rem',
+                fontWeight: '760',
+                letterSpacing: '0.02em',
                 fontStyle: 'normal',
                 background: 'linear-gradient(135deg, #ead878 0%, #c7aa44 100%)',
                 WebkitBackgroundClip: 'text',

@@ -46,6 +46,8 @@ assert.ok(all.includes('/marketing/jacked-import-workouts.png'), 'the import lan
 assert.ok(all.includes('/marketing/generated/jacked-import-social.png'), 'the import landing page should use its landscape social card')
 assert.ok(all.includes('/marketing/generated/jacked-gym-planner-social.png'), 'the gym planner page should use its dedicated social card')
 assert.ok(sources['./components/AcquisitionLanding.js'].includes("'@type': 'FAQPage'"), 'landing pages should expose page-level FAQ schema')
+assert.ok(sources['./components/AcquisitionLanding.js'].includes('data-app-store-placement={placement}'), 'landing CTAs must expose their placement to analytics')
+assert.ok(sources['./components/AcquisitionLanding.js'].includes('data-app-store-campaign={campaignFromHref(href)}'), 'landing CTAs must expose their resolved App Store campaign')
 assert.ok(all.includes('Workout history is stored locally on your iPhone'), 'privacy copy should state local workout-history storage')
 assert.ok(!all.includes('automatically change my program?\', answer: \'Yes'), 'public copy must not imply automatic program control')
 assert.ok(sources['./hevy-alternative/page.js'].includes('Nothing is added until you inspect the file summary and choose to import it.'), 'import page should state the confirmation boundary')

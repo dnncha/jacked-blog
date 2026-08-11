@@ -2,6 +2,19 @@
 
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
+import {
+  BookOpen,
+  ChartNoAxesCombined,
+  ClipboardList,
+  Download,
+  Dumbbell,
+  Pause,
+  Play,
+  RefreshCw,
+  ShieldCheck,
+  TrendingUp,
+  Zap,
+} from 'lucide-react'
 
 const APP_STORE_URL_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689'
 
@@ -18,24 +31,16 @@ const appStoreUrl = (placement) => {
 
 const proofPoints = [
   {
+    icon: 'dumbbell',
+    title: 'Know the lift',
+  },
+  {
     icon: 'chart',
-    title: 'Know the next lift before you start',
-    copy: 'See the next load, rep range, and previous result before the working set starts.',
+    title: 'Hit the weekly work',
   },
   {
-    icon: 'bolt',
-    title: 'Set logging built for the rack',
-    copy: 'Weight, reps, rest, and quick corrections stay in the active workout flow.',
-  },
-  {
-    icon: 'import',
-    title: 'Weekly targets that stay understandable',
-    copy: 'See hard sets completed and sets left for each muscle without volume jargon.',
-  },
-  {
-    icon: 'import',
-    title: 'Bring your training history with you',
-    copy: 'Import compatible workout history so the next target starts with useful context.',
+    icon: 'trend',
+    title: 'Progress the next session',
   },
 ]
 
@@ -45,18 +50,30 @@ const workflow = [
     icon: 'clipboard',
     title: "Open today's lift",
     copy: 'Your exercises, recent sets, and targets are ready before the first warmup.',
+    image: '/marketing/jacked-app-preview-poster.png',
+    imageAlt: 'Jacked Today screen showing a Push A workout and the next barbell bench press target',
+    caption: 'Ready before you train',
+    presentation: 'screen',
   },
   {
     step: '02',
     icon: 'dumbbell',
     title: 'Log the work',
     copy: 'Capture weight and reps, run the rest timer, and move to the next set without leaving the workout.',
+    image: '/marketing/generated/jacked-workout-flow-woman.webp',
+    imageAlt: 'Woman reviewing her training session on an iPhone between sets in a dark strength gym',
+    caption: 'Fast inside the set',
+    presentation: 'photo',
   },
   {
     step: '03',
     icon: 'trend',
     title: 'Know the next set',
     copy: 'Use the last result to decide whether to add reps, add load, repeat, or back off.',
+    image: '/marketing/generated/jacked-final-session.webp',
+    imageAlt: 'Man holding an iPhone after training beside a squat rack',
+    caption: 'Leave with the next move',
+    presentation: 'photo',
   },
 ]
 
@@ -198,123 +215,20 @@ const gymPanels = [
   },
 ]
 
-const muscleVolume = [
-  ['Chest', 18, '10-20'],
-  ['Back', 16, '10-20'],
-  ['Shoulders', 12, '10-18'],
-  ['Arms', 10, '8-16'],
-  ['Legs', 20, '12-22'],
-]
-
 function Icon({ name, className = '' }) {
-  const common = {
-    width: '24',
-    height: '24',
-    viewBox: '0 0 24 24',
-    fill: 'none',
-    stroke: 'currentColor',
-    strokeWidth: '1.9',
-    strokeLinecap: 'round',
-    strokeLinejoin: 'round',
-    'aria-hidden': 'true',
-    className,
+  const icons = {
+    bolt: Zap,
+    chart: ChartNoAxesCombined,
+    clipboard: ClipboardList,
+    dumbbell: Dumbbell,
+    import: Download,
+    library: BookOpen,
+    shield: ShieldCheck,
+    sync: RefreshCw,
+    trend: TrendingUp,
   }
-
-  const paths = {
-    flask: (
-      <>
-        <path d="M9 3h6" />
-        <path d="M10 3v5l-5.2 8.5A3 3 0 0 0 7.4 21h9.2a3 3 0 0 0 2.6-4.5L14 8V3" />
-        <path d="M8 15h8" />
-      </>
-    ),
-    chart: (
-      <>
-        <path d="M4 19V5" />
-        <path d="M4 19h16" />
-        <path d="m7 15 3-4 3 2 5-7" />
-        <path d="M18 6h2v2" />
-      </>
-    ),
-    import: (
-      <>
-        <path d="M12 3v12" />
-        <path d="m7 10 5 5 5-5" />
-        <path d="M5 21h14" />
-      </>
-    ),
-    library: (
-      <>
-        <path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 1 4 16.5z" />
-        <path d="M4 16.5A2.5 2.5 0 0 1 6.5 14H20" />
-      </>
-    ),
-    clipboard: (
-      <>
-        <path d="M9 4h6l1 2h3v15H5V6h3z" />
-        <path d="M9 4h6v4H9z" />
-        <path d="M9 12h6" />
-        <path d="M9 16h4" />
-      </>
-    ),
-    dumbbell: (
-      <>
-        <path d="M6 8v8" />
-        <path d="M18 8v8" />
-        <path d="M8 10v4" />
-        <path d="M16 10v4" />
-        <path d="M8 12h8" />
-        <path d="M3 10v4" />
-        <path d="M21 10v4" />
-      </>
-    ),
-    trend: (
-      <>
-        <path d="M4 17 9 12l4 4 7-9" />
-        <path d="M15 7h5v5" />
-      </>
-    ),
-    bolt: <path d="M13 2 4 14h7l-1 8 10-13h-7z" />,
-    camera: (
-      <>
-        <path d="M4 8h3l2-3h6l2 3h3v11H4z" />
-        <path d="M9 13.5a3 3 0 1 0 6 0 3 3 0 0 0-6 0" />
-      </>
-    ),
-    shield: (
-      <>
-        <path d="M12 3 5 6v6c0 4.5 3 7.5 7 9 4-1.5 7-4.5 7-9V6z" />
-        <path d="m9 12 2 2 4-5" />
-      </>
-    ),
-    sync: (
-      <>
-        <path d="M20 7h-5a5 5 0 0 0-8.6-2.9L5 5.5" />
-        <path d="M4 17h5a5 5 0 0 0 8.6 2.9l1.4-1.4" />
-        <path d="M20 3v4h-4" />
-        <path d="M4 21v-4h4" />
-      </>
-    ),
-    support: (
-      <>
-        <path d="M4 13v-1a8 8 0 0 1 16 0v1" />
-        <path d="M5 13h3v5H5z" />
-        <path d="M16 13h3v5h-3z" />
-        <path d="M16 18c0 2-1.5 3-4 3" />
-      </>
-    ),
-  }
-
-  return <svg {...common}>{paths[name]}</svg>
-}
-
-function AppleMark() {
-  return (
-    <svg width="27" height="32" viewBox="0 0 27 32" fill="currentColor" aria-hidden="true">
-      <path d="M18.4 0c.1 1.4-.4 2.8-1.4 4-1.1 1.3-2.5 2-3.9 1.9-.2-1.4.5-2.9 1.4-3.9C15.5.8 17.1.1 18.4 0Z" />
-      <path d="M25.7 24.5c-.7 1.7-1.1 2.5-2 4-1.3 2-3.2 4.4-5.5 4.4-2 0-2.6-1.3-5.4-1.3s-3.5 1.3-5.4 1.3c-2.3.1-4.1-2.2-5.5-4.2-3.7-5.5-4.1-12-.2-15.5 1.4-1.3 3.3-2 5.1-2 2 0 3.9 1.3 5.3 1.3 1.3 0 3.7-1.6 6.3-1.4 1.1 0 4.1.4 6.1 3.2-5.4 3-4.5 10.3 1.2 10.2Z" />
-    </svg>
-  )
+  const Glyph = icons[name] ?? Dumbbell
+  return <Glyph aria-hidden="true" className={className} size={24} strokeWidth={1.9} />
 }
 
 function AppStoreButton({ href, children = 'Jacked for iPhone', eyebrow = 'Download', className = '', content }) {
@@ -326,95 +240,12 @@ function AppStoreButton({ href, children = 'Jacked for iPhone', eyebrow = 'Downl
       data-global-cta={content}
       className={`app-store-button ${className}`}
     >
-      <AppleMark />
+      <Download aria-hidden="true" size={23} strokeWidth={2.2} />
       <span>
         <small>{eyebrow}</small>
         {children}
       </span>
     </a>
-  )
-}
-
-function PhoneMockup() {
-  return (
-    <div className="phone-shell" role="img" aria-label="Jacked app preview showing the next lift, rep range, rest timer, and weekly muscle targets">
-      <div className="phone-screen" aria-hidden="true">
-        <div className="phone-status">
-          <span>9:41</span>
-          <span>Upper Push</span>
-        </div>
-        <div className="app-topline">
-          <div>
-            <strong>Today</strong>
-            <span>75 min planned</span>
-          </div>
-          <Icon name="clipboard" />
-        </div>
-
-        <section className="app-panel next-set">
-          <p>Next set</p>
-          <h3>Barbell Bench Press</h3>
-          <div className="set-targets">
-            <div>
-              <span>Last</span>
-              <strong>205</strong>
-              <small>lb x 6</small>
-            </div>
-            <div>
-              <span>Target</span>
-              <strong>225</strong>
-              <small>lb</small>
-            </div>
-            <div>
-              <span>Range</span>
-              <strong>6–10</strong>
-              <small>reps</small>
-            </div>
-          </div>
-          <div className="coach-note">
-            <strong>Double progression</strong>
-            <span>Reach 10 reps, then add load.</span>
-          </div>
-        </section>
-
-        <section className="app-panel rest-row">
-          <div>
-            <p>Rest timer</p>
-            <strong>1:15</strong>
-            <span>of 2:00</span>
-          </div>
-          <span className="mock-button">Skip</span>
-        </section>
-
-        <section className="app-panel">
-          <div className="volume-head">
-            <div>
-              <p>Weekly muscle targets</p>
-              <span>Hard sets this week</span>
-            </div>
-            <strong>More</strong>
-          </div>
-          <div className="volume-bars">
-            {muscleVolume.map(([label, value, range]) => (
-              <div className="volume-row" key={label}>
-                <span>{label}</span>
-                <div className="bar-track">
-                  <i style={{ width: `${Math.min(value * 4, 100)}%` }} />
-                </div>
-                <strong>{value}</strong>
-                <small>{range}</small>
-              </div>
-            ))}
-          </div>
-        </section>
-
-        <nav className="phone-tabs" aria-label="App preview tabs">
-          {['Today', 'Train', 'Progress', 'Plan', 'Settings'].map((tab) => (
-            <span key={tab} className={tab === 'Today' ? 'active' : ''}>{tab}</span>
-          ))}
-        </nav>
-      </div>
-    </div>
   )
 }
 
@@ -483,11 +314,27 @@ function AppPreviewVideo() {
           aria-pressed={isPlaying}
           aria-label={isPlaying ? 'Pause app preview' : 'Play app preview'}
         >
-          <span aria-hidden="true">{isPlaying ? 'Ⅱ' : '▶'}</span>
+          {isPlaying ? (
+            <Pause aria-hidden="true" size={15} fill="currentColor" />
+          ) : (
+            <Play aria-hidden="true" size={15} fill="currentColor" />
+          )}
           {isPlaying ? 'Pause preview' : 'Play preview'}
         </button>
       </div>
       <figcaption>Real Jacked interface · seeded demo workout</figcaption>
+    </figure>
+  )
+}
+
+function StepVisual({ item }) {
+  return (
+    <figure className={`story-visual story-visual-${item.presentation}`}>
+      <img src={item.image} alt={item.imageAlt} loading="lazy" decoding="async" />
+      <figcaption>
+        <span>{item.step}</span>
+        <strong>{item.caption}</strong>
+      </figcaption>
     </figure>
   )
 }
@@ -1903,45 +1750,586 @@ export default function HomeClient() {
             transform: none;
           }
         }
+
+        /* Product-story layer: a quieter hero and a visual target -> log -> progress loop. */
+        .hero {
+          min-height: 790px;
+          background-image:
+            linear-gradient(90deg, rgba(3,3,3,0.99) 0%, rgba(3,3,3,0.9) 38%, rgba(3,3,3,0.48) 72%, rgba(3,3,3,0.3) 100%),
+            radial-gradient(circle at 82% 24%, rgba(245,185,53,0.16), transparent 25rem),
+            url('/marketing/generated/jacked-hero-woman.webp');
+          background-position: 63% center;
+        }
+
+        .hero .wrap {
+          min-height: 790px;
+          grid-template-columns: minmax(0, 0.96fr) minmax(360px, 0.74fr);
+          gap: 76px;
+        }
+
+        .hero-eyebrow,
+        .section-kicker {
+          margin: 0 0 17px;
+          color: var(--gold);
+          font-size: 0.74rem;
+          font-weight: 900;
+          letter-spacing: 0.15em;
+          line-height: 1.2;
+          text-transform: uppercase;
+        }
+
+        .hero-wordmark {
+          font-size: clamp(4.8rem, 9vw, 7.2rem);
+          letter-spacing: -0.075em;
+        }
+
+        .hero-promise {
+          margin-top: 20px;
+          max-width: 680px;
+          font-size: clamp(2.3rem, 4.5vw, 4.35rem);
+          line-height: 1.01;
+          letter-spacing: -0.055em;
+        }
+
+        .hero-preview-wrap {
+          position: relative;
+          padding: 32px 0 34px;
+        }
+
+        .hero-preview-wrap .app-preview-figure {
+          position: relative;
+          z-index: 2;
+        }
+
+        .hero-preview-callout {
+          position: absolute;
+          z-index: 3;
+          display: grid;
+          gap: 5px;
+          min-width: 180px;
+          padding: 14px 16px;
+          border: 1px solid rgba(245,185,53,0.42);
+          border-radius: 12px;
+          background: rgba(12,12,11,0.86);
+          box-shadow: 0 18px 42px rgba(0,0,0,0.45);
+          backdrop-filter: blur(14px);
+        }
+
+        .hero-preview-callout span {
+          color: var(--subtle);
+          font-size: 0.68rem;
+          font-weight: 800;
+          letter-spacing: 0.08em;
+          text-transform: uppercase;
+        }
+
+        .hero-preview-callout strong {
+          color: var(--gold-2);
+          font-size: 0.92rem;
+          line-height: 1.2;
+        }
+
+        .hero-preview-callout-top {
+          top: 84px;
+          right: -38px;
+        }
+
+        .hero-preview-callout-bottom {
+          bottom: 88px;
+          left: -50px;
+        }
+
+        .how-it-works-section {
+          padding-top: 112px;
+          scroll-margin-top: 78px;
+          background:
+            radial-gradient(circle at 18% 0%, rgba(245,185,53,0.1), transparent 30rem),
+            #080807;
+        }
+
+        .story-heading {
+          max-width: 730px;
+          margin: 0 auto 46px;
+          text-align: center;
+        }
+
+        .story-heading h2 {
+          margin: 0;
+          color: #fff;
+          font-size: clamp(2.4rem, 5vw, 4.2rem);
+          line-height: 1.02;
+          letter-spacing: -0.055em;
+        }
+
+        .story-heading p:last-child {
+          max-width: 620px;
+          margin: 17px auto 0;
+          color: var(--muted);
+          font-size: 1.08rem;
+          line-height: 1.65;
+        }
+
+        .story-steps {
+          display: grid;
+          gap: 0;
+        }
+
+        .story-step {
+          display: grid;
+          grid-template-columns: minmax(0, 1fr) minmax(0, 0.78fr);
+          gap: clamp(34px, 6vw, 84px);
+          align-items: center;
+          padding: 54px 0;
+          border-top: 1px solid var(--line);
+        }
+
+        .story-step.copy-first .story-visual { order: 2; }
+        .story-step.copy-first .story-step-copy { order: 1; }
+
+        .story-step-copy {
+          max-width: 480px;
+        }
+
+        .story-step-number {
+          margin-bottom: 24px;
+          color: var(--gold);
+          font-size: 0.78rem;
+          font-weight: 900;
+          letter-spacing: 0.12em;
+        }
+
+        .story-step-copy > svg {
+          width: 34px;
+          height: 34px;
+          margin-bottom: 17px;
+          color: var(--gold);
+        }
+
+        .story-step-copy h3 {
+          margin: 0;
+          color: #fff;
+          font-size: clamp(1.9rem, 3vw, 2.7rem);
+          line-height: 1.04;
+          letter-spacing: -0.04em;
+        }
+
+        .story-step-copy p {
+          max-width: 420px;
+          margin: 15px 0 0;
+          color: var(--muted);
+          font-size: 1.04rem;
+          line-height: 1.65;
+        }
+
+        .story-visual {
+          position: relative;
+          min-height: 490px;
+          overflow: hidden;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          padding: 23px;
+          border: 1px solid var(--line);
+          border-radius: 26px;
+          background:
+            radial-gradient(circle at 80% 12%, rgba(245,185,53,0.16), transparent 17rem),
+            #10100f;
+          box-shadow: 0 26px 70px rgba(0,0,0,0.24);
+        }
+
+        .story-visual-topline {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 15px;
+          color: var(--subtle);
+          font-size: 0.68rem;
+          font-weight: 850;
+          letter-spacing: 0.1em;
+        }
+
+        .story-visual-topline strong {
+          color: #dad3c8;
+          font-size: 0.63rem;
+          font-weight: 850;
+        }
+
+        .story-phone-frame {
+          width: min(286px, 70%);
+          margin: 20px auto 16px;
+          padding: 8px;
+          border: 1px solid rgba(255,255,255,0.24);
+          border-radius: 32px;
+          background: linear-gradient(145deg, #4b4842, #080808 28%, #27241f 78%, #050505);
+          box-shadow: 0 22px 50px rgba(0,0,0,0.54);
+        }
+
+        .story-phone-frame img {
+          display: block;
+          width: 100%;
+          border-radius: 25px;
+        }
+
+        .story-visual-caption {
+          display: block;
+          color: #d0c8bb;
+          font-size: 0.88rem;
+          font-weight: 680;
+          line-height: 1.4;
+        }
+
+        .mini-log-card,
+        .mini-progress-card {
+          width: min(470px, 100%);
+          margin: auto;
+          padding: 24px;
+          border: 1px solid rgba(255,255,255,0.13);
+          border-radius: 16px;
+          background: linear-gradient(180deg, rgba(255,255,255,0.07), rgba(255,255,255,0.025));
+          box-shadow: 0 24px 54px rgba(0,0,0,0.28);
+        }
+
+        .mini-log-meta,
+        .mini-progress-header,
+        .mini-log-footer {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 12px;
+        }
+
+        .mini-log-meta,
+        .mini-progress-header > div > span,
+        .mini-progress-row > span,
+        .mini-progress-row > small {
+          color: var(--subtle);
+          font-size: 0.7rem;
+          font-weight: 800;
+          letter-spacing: 0.08em;
+          text-transform: uppercase;
+        }
+
+        .mini-log-card h3 {
+          margin: 17px 0 21px;
+          color: #fff;
+          font-size: 1.45rem;
+          letter-spacing: -0.03em;
+        }
+
+        .mini-log-fields {
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          border-top: 1px solid var(--line);
+          border-bottom: 1px solid var(--line);
+          padding: 18px 0;
+        }
+
+        .mini-log-fields div {
+          display: grid;
+          gap: 5px;
+          text-align: center;
+        }
+
+        .mini-log-fields div + div { border-left: 1px solid var(--line); }
+
+        .mini-log-fields span,
+        .mini-log-fields small {
+          color: var(--subtle);
+          font-size: 0.68rem;
+          font-weight: 800;
+          text-transform: uppercase;
+        }
+
+        .mini-log-fields strong {
+          color: #fff;
+          font-size: 2.15rem;
+          line-height: 1;
+        }
+
+        .mini-log-footer {
+          margin-top: 17px;
+          color: #a9a193;
+          font-size: 0.82rem;
+        }
+
+        .mini-log-footer strong,
+        .mini-progress-header b {
+          color: var(--green);
+        }
+
+        .mini-progress-header {
+          margin-bottom: 24px;
+        }
+
+        .mini-progress-header > div {
+          display: grid;
+          gap: 5px;
+        }
+
+        .mini-progress-header > div > strong {
+          color: #fff;
+          font-size: 1.16rem;
+        }
+
+        .mini-progress-header b {
+          font-size: 0.82rem;
+        }
+
+        .mini-progress-row {
+          display: grid;
+          grid-template-columns: 80px 1fr 28px 48px;
+          align-items: center;
+          gap: 10px;
+          padding: 12px 0;
+          border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .mini-progress-row > span {
+          color: #d5cdc0;
+          letter-spacing: 0;
+          text-transform: none;
+        }
+
+        .mini-progress-row > strong {
+          color: #fff;
+          font-size: 0.82rem;
+        }
+
+        .mini-progress-row > small {
+          letter-spacing: 0;
+          text-align: right;
+          text-transform: none;
+        }
+
+        .mini-progress-row > i {
+          display: block;
+          height: 9px;
+          overflow: hidden;
+          border-radius: 999px;
+          background: rgba(255,255,255,0.12);
+        }
+
+        .mini-progress-row > i > em {
+          display: block;
+          height: 100%;
+          border-radius: inherit;
+          background: linear-gradient(90deg, var(--green), var(--gold));
+        }
+
+        .mini-progress-callout {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 10px;
+          margin-top: 18px;
+          padding: 13px 14px;
+          border: 1px solid rgba(245,185,53,0.28);
+          border-radius: 10px;
+          color: #c6bdaf;
+          font-size: 0.8rem;
+        }
+
+        .mini-progress-callout strong { color: var(--gold-2); }
+
+        /* The first screen should feel like a campaign, not a feature inventory. */
+        .hero-copy {
+          max-width: 610px;
+        }
+
+        .hero-copy > p:not(.hero-eyebrow):not(.store-note) {
+          max-width: 545px;
+          margin-top: 24px;
+          color: #d3cbbf;
+          font-size: 1.16rem;
+          line-height: 1.55;
+        }
+
+        .store-note {
+          margin-top: 16px;
+          color: #948c80;
+          font-size: 0.8rem;
+          letter-spacing: 0.01em;
+        }
+
+        .app-store-button > svg {
+          flex: 0 0 auto;
+        }
+
+        .proof-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+
+        .proof-card {
+          min-height: 96px;
+          display: flex;
+          align-items: center;
+          gap: 14px;
+          padding: 22px 26px;
+        }
+
+        .proof-card svg {
+          width: 25px;
+          height: 25px;
+          margin: 0;
+          flex: 0 0 auto;
+        }
+
+        .proof-card h3 {
+          font-size: 1.02rem;
+          line-height: 1.25;
+        }
+
+        .story-visual {
+          display: block;
+          min-height: 510px;
+          padding: 0;
+          background: #0b0b0a;
+        }
+
+        .story-visual > img {
+          display: block;
+          width: 100%;
+          height: 510px;
+          object-fit: cover;
+        }
+
+        .story-visual-screen > img {
+          object-fit: contain;
+          padding: 24px 24px 0;
+          background:
+            radial-gradient(circle at 50% 18%, rgba(245,185,53,0.15), transparent 24rem),
+            #090908;
+        }
+
+        .story-visual figcaption {
+          position: absolute;
+          right: 18px;
+          bottom: 18px;
+          left: 18px;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 18px;
+          padding: 15px 17px;
+          border: 1px solid rgba(255,255,255,0.14);
+          border-radius: 12px;
+          background: rgba(7,7,7,0.84);
+          box-shadow: 0 14px 38px rgba(0,0,0,0.35);
+          backdrop-filter: blur(14px);
+        }
+
+        .story-visual figcaption span {
+          color: var(--gold);
+          font-size: 0.72rem;
+          font-weight: 900;
+          letter-spacing: 0.1em;
+        }
+
+        .story-visual figcaption strong {
+          color: #fff;
+          font-size: 0.9rem;
+        }
+
+        @media (max-width: 1080px) {
+          .hero,
+          .hero .wrap { min-height: auto; }
+
+          .hero .wrap {
+            grid-template-columns: 1fr;
+            gap: 44px;
+          }
+
+          .hero-preview-wrap {
+            width: min(430px, 100%);
+            padding-top: 12px;
+            justify-self: center;
+          }
+
+          .hero-preview-callout-top { right: 0; }
+          .hero-preview-callout-bottom { left: 0; }
+        }
+
+        @media (max-width: 760px) {
+          .hero {
+            background-image:
+              linear-gradient(180deg, rgba(3,3,3,0.76) 0%, rgba(3,3,3,0.92) 48%, rgba(3,3,3,0.99) 100%),
+              url('/marketing/generated/jacked-hero-woman.webp');
+            background-position: 61% top;
+          }
+
+          .hero-eyebrow { font-size: 0.66rem; }
+          .hero-wordmark { font-size: 4.2rem; }
+          .hero-promise { font-size: 2rem; }
+          .hero-preview-wrap { padding: 5px 0 18px; }
+          .hero-preview-callout {
+            position: static;
+            width: fit-content;
+            min-width: 0;
+            margin: 0 auto 12px;
+          }
+          .hero-preview-callout-bottom { margin: 12px auto 0; }
+
+          .how-it-works-section { padding-top: 78px; scroll-margin-top: 158px; }
+          .story-heading { margin-bottom: 22px; text-align: left; }
+          .story-heading h2 { font-size: 2.35rem; }
+          .story-heading p:last-child { font-size: 1rem; }
+          .story-step,
+          .story-step.copy-first { grid-template-columns: 1fr; gap: 28px; padding: 38px 0; }
+          .story-step.copy-first .story-visual,
+          .story-step.copy-first .story-step-copy { order: initial; }
+          .story-step-copy { max-width: none; }
+          .story-step-copy h3 { font-size: 2rem; }
+          .story-visual { min-height: 430px; padding: 0; border-radius: 20px; }
+          .story-visual > img { height: 430px; }
+          .story-visual-screen > img { padding: 16px 16px 0; }
+          .story-visual figcaption { right: 12px; bottom: 12px; left: 12px; }
+          .story-phone-frame { width: min(260px, 72%); }
+          .mini-log-card,
+          .mini-progress-card { padding: 17px; }
+          .mini-progress-row { grid-template-columns: 63px 1fr 22px 42px; gap: 6px; }
+          .mini-log-card h3 { font-size: 1.2rem; }
+          .mini-log-fields strong { font-size: 1.7rem; }
+          .mini-log-footer { font-size: 0.73rem; }
+        }
       `}</style>
 
       <section className="hero">
         <div className="wrap">
           <div className="hero-copy">
+            <p className="hero-eyebrow">Hypertrophy coaching for iPhone</p>
             <h1>
               <span className="hero-wordmark">JACKED</span>
               <span className="hero-promise">
-                Hit your <span className="gold-text">weekly targets.</span> Progress every lift.
+                Get bigger <span className="gold-text">on purpose.</span>
               </span>
             </h1>
             <p>
-              Jacked turns recent performance into your next load and rep target, shows the hard
-              sets left for each muscle, and keeps workout logging fast. Free on iPhone.
+              Know the next lift. Hit the right weekly work. Leave with the next move already decided.
             </p>
             <div className="hero-actions">
-              <AppStoreButton href={appStoreUrl('hero')} content="homepage_hero" eyebrow="View on the">
-                App Store
+              <AppStoreButton href={appStoreUrl('hero')} content="homepage_hero" eyebrow="Free on the App Store">
+                Get Jacked
               </AppStoreButton>
-              <a href="#progression" className="secondary-button" data-nav-section="progression">
-                See how targets work
+              <a href="#hiw" className="secondary-button" data-nav-section="how_it_works">
+                Watch Jacked work
               </a>
             </div>
             <p className="store-note">
-              Free to download. No account required. Import from Hevy, Strong, or FitNotes.
+              No account required. Import from Hevy, Strong, or FitNotes.
             </p>
-            <div className="trust-line">
-              <i aria-hidden="true" />
-              <span>For iPhone lifters who have outgrown plain workout logs and spreadsheet upkeep.</span>
-            </div>
-            <div className="trust-chips" aria-label="Jacked core capabilities">
-              <span>Next lift decided</span>
-              <span>Weekly hard-set targets</span>
-              <span>Double progression</span>
-              <span>Fast workout logging</span>
-            </div>
           </div>
 
-          <AppPreviewVideo />
+          <div className="hero-preview-wrap">
+            <div className="hero-preview-callout hero-preview-callout-top">
+              <span>Next set</span>
+              <strong>90kg · 6–10 reps</strong>
+            </div>
+            <AppPreviewVideo />
+            <div className="hero-preview-callout hero-preview-callout-bottom">
+              <span>Weekly target</span>
+              <strong>Chest · 4 sets left</strong>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -1951,25 +2339,24 @@ export default function HomeClient() {
             <article key={point.title} className="proof-card">
               <Icon name={point.icon} />
               <h3>{point.title}</h3>
-              <p>{point.copy}</p>
             </article>
           ))}
         </div>
       </section>
 
-      <ProgressionSection />
-
-      <section className="section">
+      <section id="hiw" className="section how-it-works-section">
         <div className="wrap">
-          <SectionHeader
-            title="Walk into the gym knowing what to do next."
-            copy="Jacked shows the target load, rep range, and last result before you start logging."
-          />
-          <div className="workflow-grid">
-            {workflow.map((item) => (
-              <article key={item.title} className="workflow-card">
-                <div className="workflow-number">{item.step}</div>
-                <div>
+          <div className="story-heading">
+            <p className="section-kicker">HOW JACKED WORKS</p>
+            <h2>Walk into the gym knowing what to do next.</h2>
+            <p>Jacked turns your recent training into a simple loop: see the target, record the work, and carry the result into the next session.</p>
+          </div>
+          <div className="story-steps">
+            {workflow.map((item, index) => (
+              <article key={item.title} className={`story-step story-step-${index % 2 === 0 ? 'image-first' : 'copy-first'}`}>
+                <StepVisual item={item} />
+                <div className="story-step-copy">
+                  <div className="story-step-number">{item.step}</div>
                   <Icon name={item.icon} />
                   <h3>{item.title}</h3>
                   <p>{item.copy}</p>

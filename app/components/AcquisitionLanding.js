@@ -1,5 +1,13 @@
 import Link from 'next/link'
 
+function campaignFromHref(href) {
+  try {
+    return new URL(href).searchParams.get('ct') || ''
+  } catch {
+    return ''
+  }
+}
+
 function AppStoreLink({ href, placement, children = 'View Jacked on the App Store' }) {
   return (
     <a
@@ -8,6 +16,8 @@ function AppStoreLink({ href, placement, children = 'View Jacked on the App Stor
       target="_blank"
       rel="noopener noreferrer"
       data-global-cta={placement}
+      data-app-store-placement={placement}
+      data-app-store-campaign={campaignFromHref(href)}
     >
       <span aria-hidden="true"></span>
       <span>

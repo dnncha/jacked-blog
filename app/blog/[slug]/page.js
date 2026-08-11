@@ -245,6 +245,7 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `https://jacked.coach/blog/${slug}`,
     },
+    ...(post.category ? { other: { 'article:section': post.category } } : {}),
     openGraph: {
       title: post.title,
       description,
