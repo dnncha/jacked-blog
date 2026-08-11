@@ -298,6 +298,7 @@ function AppPreviewVideo() {
         <video
           ref={videoRef}
           className="app-preview-video"
+          data-analytics-video="app_preview"
           muted
           loop
           playsInline

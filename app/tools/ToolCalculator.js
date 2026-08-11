@@ -227,18 +227,35 @@ export default function ToolCalculator({ tool }) {
     }
 
     try {
+      let shareMethod = ''
       if (navigator.share) {
         await navigator.share(shareData)
         setShareStatus('Shared')
+        shareMethod = 'native'
       } else if (navigator.clipboard?.writeText) {
         await navigator.clipboard.writeText(url)
         setShareStatus('Link copied')
+        shareMethod = 'clipboard'
       } else {
         setShareStatus(`Share this link: ${url}`)
+        track('tool_share_fallback_shown', {
+          ...analyticsProps(tool, values),
+          share_method: 'manual',
+        })
+        return
       }
-      track('tool_shared', analyticsProps(tool, values))
+      track('tool_shared', {
+        ...analyticsProps(tool, values),
+        share_method: shareMethod,
+      })
     } catch (error) {
-      if (error?.name !== 'AbortError') setShareStatus('Sharing is unavailable. Copy the page URL instead.')
+      if (error?.name !== 'AbortError') {
+        setShareStatus('Sharing is unavailable. Copy the page URL instead.')
+        track('tool_share_failed', {
+          ...analyticsProps(tool, values),
+          error_category: 'unavailable',
+        })
+      }
     }
   }
 

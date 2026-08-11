@@ -13,6 +13,11 @@ The first attribution-bearing visit is stored under `jacked:attribution:first-to
 
 The page-view event reports both first-touch and last-touch UTM source, medium, and campaign fields. `utm_content`, `utm_term`, and `app_store_campaign` use the current value when present and otherwise the retained last-touch value. App Store campaign values are also exposed as `first_touch_app_store_campaign` and `last_touch_app_store_campaign` for reporting that needs the full handoff.
 
+Each browser session emits one `web_session_started` event. The event is
+deduplicated with session storage and labels the session `new` or `returning`
+using a boolean local-storage marker; it never creates an account or stores a
+browser fingerprint.
+
 ## Page-view identity
 
 `web_page_view` is keyed by pathname plus meaningful search parameters. Attribution and click-identification parameters (`utm_*`, `ct`, `pt`, `mt`, and common ad-click IDs) are excluded from the identity key. Tool parameters such as `range` remain meaningful. A pathname/search key is emitted once per browser session of the loaded analytics component, including React Strict Mode effect replay.
@@ -20,6 +25,16 @@ The page-view event reports both first-touch and last-touch UTM source, medium, 
 ## App Store handoff
 
 App Store URLs retain the Apple provider token `128406689`, `mt=8`, and the existing `ct` campaign tokens. The canonical outbound event adds the page pathname and CTA placement so shared campaign tokens remain distinguishable in web reporting. CTA placement is read from the existing `data-global-cta` marker, a tool marker, or the destination campaign token as a final fallback.
+
+`web_cta_viewed` is emitted when a marked App Store CTA is at least half visible
+in the viewport. `app_store_outbound_clicked` remains the click event. Their
+shared `source_page`, `cta_placement`, and campaign fields make the web funnel
+`web_cta_viewed → app_store_outbound_clicked` measurable without claiming an
+App Store install that Mixpanel cannot observe.
+
+The site also records 25/50/75/90% scroll-depth buckets and starts/completions
+for explicitly marked product videos. These events are page-scoped and
+deduplicated; they do not contain raw coordinates, media URLs, or user input.
 
 ## Region and independent counter
 

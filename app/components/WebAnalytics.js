@@ -6,6 +6,9 @@ export const CANONICAL_ORIGIN = 'https://jacked.coach'
 export const FIRST_TOUCH_STORAGE_KEY = 'jacked:attribution:first-touch'
 export const LAST_TOUCH_STORAGE_KEY = 'jacked:attribution:last-touch'
 export const LANDING_PAGE_STORAGE_KEY = 'jacked:attribution:landing-page'
+export const SESSION_STARTED_STORAGE_KEY = 'jacked:analytics:session-started'
+export const VISITOR_SEEN_STORAGE_KEY = 'jacked:analytics:visitor-seen'
+export const WEB_ANALYTICS_SCHEMA_VERSION = '2'
 
 const ATTRIBUTION_FIELDS = [
   'utm_source',
@@ -87,6 +90,14 @@ function setStorageValue(storage, key, value) {
 function browserStorage() {
   try {
     return window.localStorage
+  } catch {
+    return null
+  }
+}
+
+function sessionStorage() {
+  try {
+    return window.sessionStorage
   } catch {
     return null
   }
@@ -254,6 +265,51 @@ export function trackSafely(eventName, properties = {}, mixpanel) {
   }
 }
 
+export function registerWebAnalyticsContext(mixpanel, properties = {}) {
+  try {
+    if (!mixpanel || typeof mixpanel.register !== 'function') return false
+
+    const currentContext = {
+      analytics_schema_version: WEB_ANALYTICS_SCHEMA_VERSION,
+      platform: 'web',
+      landing_page: normalizePathname(properties.landing_page || '/'),
+      viewport_class: sanitizeAnalyticsValue(properties.viewport_class) || 'unknown',
+      last_touch_utm_source: sanitizeAnalyticsValue(properties.last_touch_utm_source),
+      last_touch_utm_medium: sanitizeAnalyticsValue(properties.last_touch_utm_medium),
+      last_touch_utm_campaign: sanitizeAnalyticsValue(properties.last_touch_utm_campaign),
+      last_touch_app_store_campaign: sanitizeAnalyticsValue(properties.last_touch_app_store_campaign),
+    }
+    mixpanel.register(currentContext)
+
+    if (typeof mixpanel.register_once === 'function') {
+      const firstTouch = {}
+      for (const field of [
+        'first_touch_utm_source',
+        'first_touch_utm_medium',
+        'first_touch_utm_campaign',
+        'first_touch_app_store_campaign',
+      ]) {
+        const value = sanitizeAnalyticsValue(properties[field])
+        if (value) firstTouch[field] = value
+      }
+      if (Object.keys(firstTouch).length) mixpanel.register_once(firstTouch)
+    }
+    return true
+  } catch {
+    return false
+  }
+}
+
+function sessionType(storage, visitorStorage) {
+  const isReturning = Boolean(storageValue(visitorStorage, VISITOR_SEEN_STORAGE_KEY))
+  return isReturning ? 'returning' : 'new'
+}
+
+function markSessionStarted(storage, visitorStorage) {
+  setStorageValue(storage, SESSION_STARTED_STORAGE_KEY, '1')
+  setStorageValue(visitorStorage, VISITOR_SEEN_STORAGE_KEY, '1')
+}
+
 export function createPageViewTracker(track) {
   const seenKeys = new Set()
 
@@ -336,6 +392,9 @@ function currentPageSnapshot() {
 
 export default function WebAnalytics() {
   const trackerRef = useRef(null)
+  const seenCtaKeysRef = useRef(new Set())
+  const seenScrollKeysRef = useRef(new Set())
+  const seenVideoKeysRef = useRef(new Set())
 
   useEffect(() => {
     if (typeof window === 'undefined' || typeof document === 'undefined') return undefined
@@ -347,13 +406,129 @@ export default function WebAnalytics() {
     }
 
     let active = true
+    let scrollFrame = 0
+    let ctaObserver = null
+    let mutationObserver = null
+    const observedCtaElements = new WeakSet()
+    const scrollThresholds = [25, 50, 75, 90]
+
+    const trackSessionStarted = (current) => {
+      const session = sessionStorage()
+      if (storageValue(session, SESSION_STARTED_STORAGE_KEY)) return
+
+      const visitor = browserStorage()
+      const delivered = trackSafely('web_session_started', {
+        ...current.properties,
+        entry_page: current.pathname,
+        session_type: sessionType(session, visitor),
+      }, window.mixpanel)
+      if (delivered) markSessionStarted(session, visitor)
+    }
+
+    const trackCtaViewed = (anchor) => {
+      if (!anchor || !isAppStoreLink(anchor.href)) return
+      const current = currentPageSnapshot()
+      const url = new URL(anchor.href)
+      const placement = ctaPlacement(anchor, url)
+      const key = `${pageViewKey(current.pathname, current.search)}:${placement}`
+      if (seenCtaKeysRef.current.has(key)) return
+
+      const appStore = appStoreAttribution(anchor.href)
+      const delivered = trackSafely('web_cta_viewed', {
+        ...current.properties,
+        source_page: current.pathname,
+        cta_placement: placement,
+        app_store_campaign: appStore.app_store_campaign || current.properties.app_store_campaign,
+        apple_provider_token: appStore.provider_token,
+        target: 'app_store',
+      }, window.mixpanel)
+      if (delivered) seenCtaKeysRef.current.add(key)
+    }
+
+    const observeCtas = () => {
+      const anchors = [...document.querySelectorAll('a[href]')]
+        .filter((anchor) => isAppStoreLink(anchor.href))
+
+      for (const anchor of anchors) {
+        if (observedCtaElements.has(anchor)) continue
+        observedCtaElements.add(anchor)
+
+        if (ctaObserver) {
+          ctaObserver.observe(anchor)
+        } else {
+          const rect = anchor.getBoundingClientRect()
+          if (rect.top < window.innerHeight && rect.bottom > 0) trackCtaViewed(anchor)
+        }
+      }
+    }
+
+    const trackScrollDepth = () => {
+      if (!active) return
+      const current = currentPageSnapshot()
+      const pageKey = pageViewKey(current.pathname, current.search)
+      const documentHeight = Math.max(
+        document.documentElement?.scrollHeight || 0,
+        document.body?.scrollHeight || 0
+      )
+      const visibleBottom = window.scrollY + window.innerHeight
+      const percent = documentHeight <= window.innerHeight
+        ? 100
+        : Math.min(100, Math.round((visibleBottom / documentHeight) * 100))
+
+      for (const threshold of scrollThresholds) {
+        if (percent < threshold) continue
+        const key = `${pageKey}:${threshold}`
+        if (seenScrollKeysRef.current.has(key)) continue
+        const delivered = trackSafely('web_scroll_depth', {
+          ...current.properties,
+          source_page: current.pathname,
+          depth_bucket: String(threshold),
+        }, window.mixpanel)
+        if (delivered) seenScrollKeysRef.current.add(key)
+      }
+    }
+
+    const scheduleScrollDepth = () => {
+      if (scrollFrame) return
+      scrollFrame = window.requestAnimationFrame(() => {
+        scrollFrame = 0
+        trackScrollDepth()
+      })
+    }
+
+    const trackVideoEvent = (video, eventName) => {
+      const videoName = sanitizeAnalyticsValue(video.getAttribute('data-analytics-video'))
+      if (!videoName) return
+      const current = currentPageSnapshot()
+      const key = `${pageViewKey(current.pathname, current.search)}:${videoName}:${eventName}`
+      if (seenVideoKeysRef.current.has(key)) return
+      const delivered = trackSafely(eventName, {
+        ...current.properties,
+        source_page: current.pathname,
+        video_name: videoName,
+      }, window.mixpanel)
+      if (delivered) seenVideoKeysRef.current.add(key)
+    }
+
     const trackCurrentPage = () => {
       if (!active) return
       const current = currentPageSnapshot()
+      registerWebAnalyticsContext(window.mixpanel, current.properties)
       trackerRef.current.track(current)
+      trackSessionStarted(current)
+      observeCtas()
+      trackScrollDepth()
     }
     const schedulePageView = () => {
       Promise.resolve().then(trackCurrentPage)
+    }
+
+    if ('IntersectionObserver' in window) {
+      ctaObserver = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) trackCtaViewed(entry.target)
+        }
+      }, { threshold: 0.5 })
     }
 
     trackCurrentPage()
@@ -375,6 +550,7 @@ export default function WebAnalytics() {
     window.history.pushState = wrappedPushState
     window.history.replaceState = wrappedReplaceState
     window.addEventListener('popstate', schedulePageView)
+    window.addEventListener('scroll', scheduleScrollDepth, { passive: true })
 
     const handleClick = (event) => {
       const element = event.target instanceof Element ? event.target : null
@@ -394,6 +570,7 @@ export default function WebAnalytics() {
 
       if (!anchor || !isAppStoreLink(anchor.href)) return
 
+      trackCtaViewed(anchor)
       const url = new URL(anchor.href)
       const appStore = appStoreAttribution(anchor.href)
       trackSafely('app_store_outbound_clicked', {
@@ -406,6 +583,13 @@ export default function WebAnalytics() {
       }, window.mixpanel)
     }
 
+    const handleVideoPlay = (event) => {
+      if (event.target instanceof HTMLVideoElement) trackVideoEvent(event.target, 'web_video_played')
+    }
+    const handleVideoEnded = (event) => {
+      if (event.target instanceof HTMLVideoElement) trackVideoEvent(event.target, 'web_video_completed')
+    }
+
     const handleErrorVisible = (event) => {
       const current = currentPageSnapshot()
       trackSafely('web_error_visible', {
@@ -414,15 +598,28 @@ export default function WebAnalytics() {
       }, window.mixpanel)
     }
 
+    if ('MutationObserver' in window && document.body) {
+      mutationObserver = new MutationObserver(() => observeCtas())
+      mutationObserver.observe(document.body, { childList: true, subtree: true })
+    }
+
     document.addEventListener('click', handleClick, true)
+    document.addEventListener('play', handleVideoPlay, true)
+    document.addEventListener('ended', handleVideoEnded, true)
     window.addEventListener('jacked:web-error-visible', handleErrorVisible)
 
     return () => {
       active = false
       window.clearTimeout(retryTimer)
+      if (scrollFrame) window.cancelAnimationFrame(scrollFrame)
+      ctaObserver?.disconnect()
+      mutationObserver?.disconnect()
       window.removeEventListener('popstate', schedulePageView)
+      window.removeEventListener('scroll', scheduleScrollDepth)
       window.removeEventListener('jacked:web-error-visible', handleErrorVisible)
       document.removeEventListener('click', handleClick, true)
+      document.removeEventListener('play', handleVideoPlay, true)
+      document.removeEventListener('ended', handleVideoEnded, true)
       if (window.history.pushState === wrappedPushState) window.history.pushState = originalPushState
       if (window.history.replaceState === wrappedReplaceState) window.history.replaceState = originalReplaceState
     }

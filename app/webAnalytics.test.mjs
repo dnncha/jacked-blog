@@ -2,11 +2,12 @@ import assert from 'node:assert/strict'
 import { execFileSync } from 'node:child_process'
 import { readFile } from 'node:fs/promises'
 
-const [webSource, layoutSource, calculatorSource, toolDataSource] = await Promise.all([
+const [webSource, layoutSource, calculatorSource, toolDataSource, pageSource] = await Promise.all([
   readFile(new URL('./components/WebAnalytics.js', import.meta.url), 'utf8'),
   readFile(new URL('./layout.js', import.meta.url), 'utf8'),
   readFile(new URL('./tools/ToolCalculator.js', import.meta.url), 'utf8'),
   readFile(new URL('./tools/toolData.mjs', import.meta.url), 'utf8'),
+  readFile(new URL('./page.client.js', import.meta.url), 'utf8'),
 ])
 
 assert.match(webSource, /'use client'/, 'web analytics must be a client component')
@@ -17,6 +18,11 @@ for (const eventName of [
   'tool_completed',
   'import_checker_completed',
   'app_store_outbound_clicked',
+  'web_session_started',
+  'web_cta_viewed',
+  'web_scroll_depth',
+  'web_video_played',
+  'web_video_completed',
   'web_error_visible',
 ]) {
   assert.ok(webSource.includes(eventName) || calculatorSource.includes(eventName), `${eventName} should be defined`)
@@ -32,6 +38,12 @@ assert.match(webSource, /source_page: current\.pathname/, 'App Store events shou
 assert.match(webSource, /cta_placement/, 'App Store events should identify CTA placement')
 assert.match(webSource, /apple_provider_token/, 'App Store events should retain the Apple provider token')
 assert.match(webSource, /trackSafely/, 'analytics calls should fail harmlessly')
+assert.match(webSource, /registerWebAnalyticsContext/, 'Mixpanel should receive stable context properties')
+assert.match(webSource, /register_once/, 'first-touch attribution should be registered once')
+assert.match(webSource, /IntersectionObserver/, 'CTA impressions should use viewport visibility')
+assert.match(webSource, /SESSION_STARTED_STORAGE_KEY/, 'sessions should be deduplicated without an account')
+assert.match(webSource, /depth_bucket/, 'scroll depth should be bucketed')
+assert.match(webSource, /data-analytics-video/, 'video events should use explicit markers')
 
 assert.match(layoutSource, /mixpanel\.init/, 'Mixpanel initialization should remain present')
 assert.match(layoutSource, /api_host:'https:\/\/api-eu\.mixpanel\.com'/, 'the EU Mixpanel host must remain configured')
@@ -53,6 +65,8 @@ for (const rawField of ['csvText', 'exercise', 'weight', 'reps', 'bodyweight', '
 assert.match(calculatorSource, /track\('tool_completed', props\)/, 'completed calculators should send the sanitized payload')
 assert.match(calculatorSource, /track\('import_checker_completed', props\)/, 'CSV checkers should have a canonical completion event')
 assert.doesNotMatch(calculatorSource, /track\('tool_completed', analyticsProps\(tool, values\)\)/, 'completion must not send raw form values')
+assert.match(calculatorSource, /share_method/, 'tool sharing should identify the successful method')
+assert.match(pageSource, /data-analytics-video="app_preview"/, 'the app preview should be measurable')
 
 const utilityProbe = `
   import assert from 'node:assert/strict'
@@ -61,6 +75,7 @@ const utilityProbe = `
     buildPageViewProperties,
     captureAttribution,
     createPageViewTracker,
+    registerWebAnalyticsContext,
     trackSafely,
   } from './app/components/WebAnalytics.js'
 
@@ -119,6 +134,22 @@ const utilityProbe = `
     app_store_campaign: 'homepage_hero',
   })
   assert.equal(trackSafely('web_page_view', {}, undefined), false)
+
+  const registrations = []
+  const mixpanel = {
+    register(properties) { registrations.push(['register', properties]) },
+    register_once(properties) { registrations.push(['register_once', properties]) },
+  }
+  assert.equal(registerWebAnalyticsContext(mixpanel, {
+    landing_page: '/workout-tracker',
+    viewport_class: 'mobile',
+    first_touch_utm_source: 'google',
+    last_touch_utm_campaign: 'followup',
+  }), true)
+  assert.equal(registrations[0][1].analytics_schema_version, '2')
+  assert.equal(registrations[0][1].platform, 'web')
+  assert.equal(registrations[0][1].landing_page, '/workout-tracker')
+  assert.equal(registrations[1][1].first_touch_utm_source, 'google')
 `
 
 execFileSync(process.execPath, [

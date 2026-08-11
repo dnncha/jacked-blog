@@ -20,6 +20,8 @@ const forbidden = [
   'quote-approved',
   'turning private evaluation into public adoption evidence',
   'without turning private feedback into public evidence',
+  'dogfooding',
+  'internal feedback loop',
 ]
 
 async function filesAt(target) {
