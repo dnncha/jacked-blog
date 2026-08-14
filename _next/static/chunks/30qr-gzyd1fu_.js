@@ -1812,7 +1812,7 @@
         .hero .wrap {
           width: min(1240px, calc(100% - 36px));
           min-height: 710px;
-          padding: clamp(54px, 7vw, 92px) clamp(24px, 5vw, 72px) clamp(42px, 5vw, 68px);
+          padding: clamp(38px, 5vw, 62px) clamp(24px, 5vw, 72px) clamp(42px, 5vw, 68px);
           border: 1px solid rgba(255,248,234,0.14);
           border-radius: 32px;
           background:
