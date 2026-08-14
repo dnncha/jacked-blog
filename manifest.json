@@ -1,20 +1,20 @@
 {
-  "name": "Surpass - Gym Workout Logger & Hypertrophy Coach",
+  "name": "Surpass - Strength Training",
   "short_name": "Surpass",
-  "description": "Gym workout logger and hypertrophy coach for iPhone with fast set logging, next-set targets, RIR-aware progression, rest timers, and workout import.",
+  "description": "Strength training for a visible outcome, with focused blocks, clear sessions, workout receipts, and weekly muscle coverage.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#050505",
   "icons": [
     {
-      "src": "/favicon-96x96.png",
-      "sizes": "96x96",
+      "src": "/surpass-icon.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/surpass-icon.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     }
   ]
