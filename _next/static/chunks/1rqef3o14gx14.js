@@ -1823,7 +1823,7 @@
         }
 
         .hero-copy {
-          align-self: center;
+          align-self: start;
           max-width: 660px;
           position: relative;
           z-index: 2;
