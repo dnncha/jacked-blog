@@ -5,7 +5,7 @@
     <link>https://jacked.coach</link>
     <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Surpass.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:52:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:01:26 GMT</lastBuildDate>
     <atom:link href="https://jacked.coach/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -18,16 +18,16 @@
     </item>
     <item>
       <title><![CDATA[Import Hevy to Surpass: Move Your Workout History Without Starting Over]]></title>
-      <link>https://jacked.coach/blog/import-hevy-to-jacked</link>
-      <guid>https://jacked.coach/blog/import-hevy-to-jacked</guid>
+      <link>https://jacked.coach/blog/import-hevy-to-surpass</link>
+      <guid>https://jacked.coach/blog/import-hevy-to-surpass</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[A practical Hevy to Surpass migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training.]]></description>
       <category>Workout Apps</category>
     </item>
     <item>
       <title><![CDATA[Strong to Surpass Import Guide: Check Your CSV Before Switching Apps]]></title>
-      <link>https://jacked.coach/blog/strong-to-jacked-import-guide</link>
-      <guid>https://jacked.coach/blog/strong-to-jacked-import-guide</guid>
+      <link>https://jacked.coach/blog/strong-to-surpass-import-guide</link>
+      <guid>https://jacked.coach/blog/strong-to-surpass-import-guide</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Move Strong workout history into Surpass without losing the context that drives progression: dates, exercises, sets, reps, weights, notes, and effort.]]></description>
       <category>Workout Apps</category>
