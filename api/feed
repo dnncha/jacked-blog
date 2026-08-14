@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacked | Hypertrophy Training Library</title>
+    <title>Surpass | Hypertrophy Training Library</title>
     <link>https://jacked.coach</link>
-    <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Jacked.</description>
+    <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Surpass.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:31:39 GMT</lastBuildDate>
     <atom:link href="https://jacked.coach/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -17,19 +17,19 @@
       <category>Workout Apps</category>
     </item>
     <item>
-      <title><![CDATA[Import Hevy to Jacked: Move Your Workout History Without Starting Over]]></title>
-      <link>https://jacked.coach/blog/import-hevy-to-jacked</link>
-      <guid>https://jacked.coach/blog/import-hevy-to-jacked</guid>
+      <title><![CDATA[Import Hevy to Surpass: Move Your Workout History Without Starting Over]]></title>
+      <link>https://jacked.coach/blog/import-hevy-to-surpass</link>
+      <guid>https://jacked.coach/blog/import-hevy-to-surpass</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[A practical Hevy to Jacked migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training.]]></description>
+      <description><![CDATA[A practical Hevy to Surpass migration checklist: export your CSV, check workouts, preserve exercise history, and verify your first session before training.]]></description>
       <category>Workout Apps</category>
     </item>
     <item>
-      <title><![CDATA[Strong to Jacked Import Guide: Check Your CSV Before Switching Apps]]></title>
-      <link>https://jacked.coach/blog/strong-to-jacked-import-guide</link>
-      <guid>https://jacked.coach/blog/strong-to-jacked-import-guide</guid>
+      <title><![CDATA[Strong to Surpass Import Guide: Check Your CSV Before Switching Apps]]></title>
+      <link>https://jacked.coach/blog/strong-to-surpass-import-guide</link>
+      <guid>https://jacked.coach/blog/strong-to-surpass-import-guide</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Move Strong workout history into Jacked without losing the context that drives progression: dates, exercises, sets, reps, weights, notes, and effort.]]></description>
+      <description><![CDATA[Move Strong workout history into Surpass without losing the context that drives progression: dates, exercises, sets, reps, weights, notes, and effort.]]></description>
       <category>Workout Apps</category>
     </item>
     <item>
@@ -89,11 +89,11 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Auto-Progression: The Feature That Changes Everything for Muscle Growth]]></title>
+      <title><![CDATA[Auto-Progression: Turn Workout History Into a Next-Set Plan]]></title>
       <link>https://jacked.coach/blog/auto-progression-feature-muscle-growth</link>
       <guid>https://jacked.coach/blog/auto-progression-feature-muscle-growth</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[What if your workout app automatically increased your weights? That's auto-progression — and it's the biggest innovation in hypertrophy training.]]></description>
+      <description><![CDATA[Auto-progression turns recent workout performance into a practical next-set plan, helping you train with less guesswork and a clearer progression path.]]></description>
       <category>General</category>
     </item>
     <item>
@@ -153,7 +153,7 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Beta-Ecdysterone for Muscle Growth: The Complete Guide]]></title>
+      <title><![CDATA[Beta-Ecdysterone for Muscle Growth: Research Review]]></title>
       <link>https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research</link>
       <guid>https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
@@ -217,7 +217,7 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Creatine Loading Phase: Necessary or Not?]]></title>
+      <title><![CDATA[Creatine Loading Phase: What the Research Says]]></title>
       <link>https://jacked.coach/blog/creatine-loading-phase-necessary-research</link>
       <guid>https://jacked.coach/blog/creatine-loading-phase-necessary-research</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -393,7 +393,7 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[The Gut-Muscle Axis: How Your Microbiome Affects Muscle Building]]></title>
+      <title><![CDATA[Gut Microbiome and Muscle Building: What Lifters Need to Know]]></title>
       <link>https://jacked.coach/blog/gut-microbiome-muscle-building-probiotics-2026</link>
       <guid>https://jacked.coach/blog/gut-microbiome-muscle-building-probiotics-2026</guid>
       

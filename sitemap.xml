@@ -337,13 +337,13 @@
     <priority>0.95</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/blog/import-hevy-to-jacked</loc>
+    <loc>https://jacked.coach/blog/import-hevy-to-surpass</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/blog/strong-to-jacked-import-guide</loc>
+    <loc>https://jacked.coach/blog/strong-to-surpass-import-guide</loc>
     <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -638,11 +638,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/blog/jacked-competitor-analysis-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://jacked.coach/blog/jeff-nippard-muscle-lab-fitness-research-facility-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -754,6 +749,11 @@
   </url>
   <url>
     <loc>https://jacked.coach/blog/supersets-hypertrophy-science-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jacked.coach/blog/surpass-competitor-analysis-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
