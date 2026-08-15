@@ -5,7 +5,7 @@
     <link>https://jacked.coach</link>
     <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Surpass.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:39:44 GMT</lastBuildDate>
     <atom:link href="https://jacked.coach/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -73,20 +73,20 @@
       <category>Workout Apps</category>
     </item>
     <item>
-      <title><![CDATA[Alpha Lipoic Acid for Lifters: The Complete Guide to Insulin Sensitivity and Recovery]]></title>
+      <title><![CDATA[Alpha-Lipoic Acid for Lifters: What the Evidence Shows]]></title>
       <link>https://jacked.coach/blog/alpha-lipoic-acid-lifters-insulin</link>
       <guid>https://jacked.coach/blog/alpha-lipoic-acid-lifters-insulin</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Alpha Lipoic Acid improves insulin sensitivity and recovery for lifters. Here's what the science says about ALA supplementation.]]></description>
-      <category>General</category>
+      <description><![CDATA[Alpha-lipoic acid can affect glucose-related outcomes, but evidence for better strength, muscle growth, or recovery in healthy lifters is limited.]]></description>
+      <category>Supplements</category>
     </item>
     <item>
-      <title><![CDATA[CoQ10 for Strength Athletes: The Mitochondrial Advantage]]></title>
+      <title><![CDATA[CoQ10 for Strength Athletes: What the Evidence Shows]]></title>
       <link>https://jacked.coach/blog/coq10-strength-athletes-mitochondria</link>
       <guid>https://jacked.coach/blog/coq10-strength-athletes-mitochondria</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[CoQ10 supplementation shows 4.5% peak power improvements in trained athletes. Here's what the research says and who benefits most.]]></description>
-      <category>General</category>
+      <description><![CDATA[CoQ10 has a role in mitochondrial biology, but current trials show limited and inconsistent exercise-performance effects, especially for strength.]]></description>
+      <category>Supplements</category>
     </item>
     <item>
       <title><![CDATA[Auto-Progression: Turn Workout History Into a Next-Set Plan]]></title>
@@ -97,23 +97,23 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[NAC (N-Acetyl Cysteine) for Exercise Performance: What the Science Says]]></title>
+      <title><![CDATA[NAC for Exercise Performance: What the Evidence Shows]]></title>
       <link>https://jacked.coach/blog/nac-supplementation-exercise-performance</link>
       <guid>https://jacked.coach/blog/nac-supplementation-exercise-performance</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Does NAC actually improve workout performance? We dug into the research to separate hype from what actually works for lifters.]]></description>
-      <category>General</category>
+      <description><![CDATA[N-acetylcysteine can affect glutathione and oxidative-stress biology, but evidence for better lifting performance is inconsistent and routine use is not established.]]></description>
+      <category>Supplements</category>
     </item>
     <item>
       <title><![CDATA[Plateaus: Why You Stopped Growing (And How to Break Through)]]></title>
       <link>https://jacked.coach/blog/plateaus-break-through-muscle</link>
       <guid>https://jacked.coach/blog/plateaus-break-through-muscle</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[You've been training hard but nothing changes. Here's the science of plateaus and the exact strategy to break through.]]></description>
+      <description><![CDATA[Why progress stalls, how to separate fatigue from a programming problem, and a practical sequence for making the next training block useful.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Progressive Overload: The Only Muscle Building Principle That Matters]]></title>
+      <title><![CDATA[Progressive Overload: How to Progress Without Guessing]]></title>
       <link>https://jacked.coach/blog/progressive-overload-muscle-building</link>
       <guid>https://jacked.coach/blog/progressive-overload-muscle-building</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
@@ -125,15 +125,15 @@
       <link>https://jacked.coach/blog/why-workout-apps-dont-work</link>
       <guid>https://jacked.coach/blog/why-workout-apps-dont-work</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Most workout apps give you a static plan and hope for the best. Here's why adaptive programming crushes generic apps — and what to look for.]]></description>
+      <description><![CDATA[Why a workout app can become a passive log, which progression and review features matter, and how to compare an app with a simple spreadsheet.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Why Your Workout App Isn't Building Muscle: The Progressive Overload Problem]]></title>
+      <title><![CDATA[Why Your Workout App May Not Be Helping You Progress]]></title>
       <link>https://jacked.coach/blog/workout-app-not-building-muscle</link>
       <guid>https://jacked.coach/blog/workout-app-not-building-muscle</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Your workout app tracks your sets and reps. But is it actually building muscle? Here's why most apps fail at progressive overload — and what to do instead.]]></description>
+      <description><![CDATA[A workout log can store sets and reps without helping you make the next decision. Here is how to evaluate progression, fatigue, and volume features in a training app.]]></description>
       <category>General</category>
     </item>
     <item>
@@ -145,268 +145,268 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Magnesium Supplementation for Strength Athletes: What the Science Says]]></title>
+      <title><![CDATA[Magnesium for Strength Athletes: What the Evidence Shows]]></title>
       <link>https://jacked.coach/blog/magnesium-supplementation-strength-athletes</link>
       <guid>https://jacked.coach/blog/magnesium-supplementation-strength-athletes</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The research on magnesium for strength athletes—does it actually improve performance or is it just another supplement hype?]]></description>
-      <category>General</category>
+      <description><![CDATA[Magnesium is essential for normal physiology, but supplementation rarely improves muscle fitness when intake and status are already adequate.]]></description>
+      <category>Supplements</category>
     </item>
     <item>
       <title><![CDATA[Beta-Ecdysterone for Muscle Growth: Research Review]]></title>
       <link>https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research</link>
       <guid>https://jacked.coach/blog/beta-ecdysterone-muscle-anabolic-research</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The plant compound that out-performed anabolic steroids in research — and WADA considered banning it. Here's what the science actually shows.]]></description>
+      <description><![CDATA[Beta-ecdysterone has one notable resistance-training trial and a larger preclinical literature. Here is what that evidence can—and cannot—show.]]></description>
       <category>Supplements</category>
     </item>
     <item>
-      <title><![CDATA[Citrulline Supplementation for Strength Training: The Pump Amino Science]]></title>
+      <title><![CDATA[Citrulline for Strength Training: What the Pump Evidence Shows]]></title>
       <link>https://jacked.coach/blog/citrulline-supplementation-strength-training</link>
       <guid>https://jacked.coach/blog/citrulline-supplementation-strength-training</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[L-citrulline delivers better pumps and more reps — but it's not about strength. Here's what the research actually shows for hypertrophy-focused lifters.]]></description>
+      <description><![CDATA[Citrulline may help selected high-volume exercise outcomes, but pumps and acute rep changes are not proof of larger muscles or stronger 1RMs.]]></description>
       <category>Supplements</category>
     </item>
     <item>
-      <title><![CDATA[Vitamin D Supplementation for Strength Athletes: What the Science Actually Says]]></title>
+      <title><![CDATA[HMB for Strength Athletes: What the Evidence Shows]]></title>
+      <link>https://jacked.coach/blog/hmb-supplementation-strength-athletes</link>
+      <guid>https://jacked.coach/blog/hmb-supplementation-strength-athletes</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[HMB may be useful in some high-stress or low-training contexts, but meta-analyses do not support routine strength or muscle gains in trained lifters.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[L-Carnitine for Strength Athletes: What the Research Shows]]></title>
+      <link>https://jacked.coach/blog/l-carnitine-supplementation-strength-hypertrophy</link>
+      <guid>https://jacked.coach/blog/l-carnitine-supplementation-strength-hypertrophy</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[L-carnitine has a role in fatty-acid transport, but evidence for strength and hypertrophy in healthy lifters is limited and context-dependent.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Vitamin D for Strength Athletes: Test First, Supplement Carefully]]></title>
       <link>https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes</link>
       <guid>https://jacked.coach/blog/vitamin-d-supplementation-strength-athletes</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The sunshine vitamin does far more than bone health — it directly impacts muscle function, type II fibers, and recovery. But who's it actually helping?]]></description>
+      <description><![CDATA[Vitamin D can matter for bone and muscle health when status is low, but there is no universal athlete target or guaranteed strength benefit from extra supplementation.]]></description>
       <category>Supplements</category>
     </item>
     <item>
-      <title><![CDATA[HMB for Strength Athletes: Does It Actually Work?]]></title>
-      <link>https://jacked.coach/blog/hmb-supplementation-strength-athletes</link>
-      <guid>https://jacked.coach/blog/hmb-supplementation-strength-athletes</guid>
+      <title><![CDATA[Betaine Supplementation: What the Strength Evidence Shows]]></title>
+      <link>https://jacked.coach/blog/betaine-supplementation-strength-power-science</link>
+      <guid>https://jacked.coach/blog/betaine-supplementation-strength-power-science</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[HMB has been marketed as a muscle-preserving powerhouse for decades. But does the science actually support the hype? Here's what the research says.]]></description>
-      <category>General</category>
+      <description><![CDATA[Betaine is biologically plausible, but most strength and power outcomes are inconsistent. Here is how to judge the supplement without overselling it.]]></description>
+      <category>Supplements</category>
     </item>
     <item>
-      <title><![CDATA[Sleep, Hormones, and Muscle Growth]]></title>
-      <link>https://jacked.coach/blog/sleep-hormones-muscle-growth</link>
-      <guid>https://jacked.coach/blog/sleep-hormones-muscle-growth</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[How sleep affects testosterone, growth hormone, and muscle protein synthesis.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Vitamin K2 for Strength Athletes: The Forgotten Nutrient for Bone Strength and Recovery]]></title>
+      <title><![CDATA[Vitamin K2, Bone Health, and Strength Training]]></title>
       <link>https://jacked.coach/blog/vitamin-k2-strength-athletes-bone-health</link>
       <guid>https://jacked.coach/blog/vitamin-k2-strength-athletes-bone-health</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Vitamin K2 is the silent workhorse for lifters — activating bone-building proteins, protecting joints, and pairing with vitamin D3 for maximum calcium absorption.]]></description>
-      <category>General</category>
+      <description><![CDATA[What vitamin K does in bone biology, what K2 trials can tell lifters, and why D3 does not automatically require a K2 supplement.]]></description>
+      <category>Supplements</category>
     </item>
     <item>
       <title><![CDATA[Creatine Loading Phase: What the Research Says]]></title>
       <link>https://jacked.coach/blog/creatine-loading-phase-necessary-research</link>
       <guid>https://jacked.coach/blog/creatine-loading-phase-necessary-research</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The truth about the most debated creatine protocol—and what actually matters for your gains.]]></description>
+      <description><![CDATA[Creatine loading can raise muscle creatine stores faster, but it is optional. Compare a divided loading protocol with a smaller daily dose, side effects, and the evidence limits.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[AI in Fitness Programming: How Smart Algorithms Are Replacing Static Workout Plans]]></title>
+      <title><![CDATA[Vitamin D and Muscle Building: What Trials Actually Show]]></title>
+      <link>https://jacked.coach/blog/vitamin-d-muscle-building-strength-science</link>
+      <guid>https://jacked.coach/blog/vitamin-d-muscle-building-strength-science</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Vitamin D supports bone and muscle biology, but supplementation appears most useful when status is low and does not reliably add strength to already-replete athletes.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Astaxanthin for Athletes: What Exercise Research Shows]]></title>
+      <link>https://jacked.coach/blog/astaxanthin-supplementation-athletes</link>
+      <guid>https://jacked.coach/blog/astaxanthin-supplementation-athletes</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Astaxanthin changes some post-exercise biomarkers in studies, but current evidence does not establish better strength, muscle growth, or endurance performance.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Best Supplements for Strength Athletes: Evidence-Based Priorities]]></title>
+      <link>https://jacked.coach/blog/best-supplements-strength-athletes</link>
+      <guid>https://jacked.coach/blog/best-supplements-strength-athletes</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A practical ranking of strength supplements by evidence, use case, cost, and limitations—without treating any product as a substitute for training.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Caffeine and Pre-Workout: What the Evidence Supports]]></title>
+      <link>https://jacked.coach/blog/caffeine-pre-workout-science-2026</link>
+      <guid>https://jacked.coach/blog/caffeine-pre-workout-science-2026</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Caffeine can improve some resistance-exercise outcomes, but dose, tolerance, anxiety, and sleep determine whether it helps your training overall.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Creatine and Caffeine: Do They Cancel Each Other Out?]]></title>
+      <link>https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science</link>
+      <guid>https://jacked.coach/blog/creatine-caffeine-interaction-muscle-science</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Creatine and caffeine can be used together, but studies are mixed on their interaction. Here is what matters more than perfect timing.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[BPC-157 for Injury Recovery: What the Evidence Shows]]></title>
+      <link>https://jacked.coach/blog/bpc-157-peptide-science-recovery-evidence</link>
+      <guid>https://jacked.coach/blog/bpc-157-peptide-science-recovery-evidence</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[BPC-157 has extensive preclinical interest but sparse human evidence. Here is what that means for injury claims, safety, regulation, and training decisions.]]></description>
+      <category>Health</category>
+    </item>
+    <item>
+      <title><![CDATA[Citrulline Malate: What the Pre-Workout Evidence Shows]]></title>
+      <link>https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026</link>
+      <guid>https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Citrulline malate may help some exercise-performance outcomes, but the evidence is mixed and does not justify fixed promises about reps, soreness, or muscle growth.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Dileucine and Muscle Protein Synthesis: What One Trial Shows]]></title>
+      <link>https://jacked.coach/blog/dileucine-supplement-muscle-protein-synthesis-research</link>
+      <guid>https://jacked.coach/blog/dileucine-supplement-muscle-protein-synthesis-research</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A small human trial found dileucine increased muscle protein turnover versus leucine, but that does not yet prove more strength or muscle in training.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[PQQ for Muscle Health: What Human Evidence Shows]]></title>
+      <link>https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health</link>
+      <guid>https://jacked.coach/blog/pqq-supplementation-mitochondrial-muscle-health</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[PQQ changes some mitochondrial-related biomarkers in human studies, but evidence for strength, hypertrophy, or recovery in trained lifters is lacking.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Spermidine for Muscle Health: What Human Evidence Shows]]></title>
+      <link>https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy</link>
+      <guid>https://jacked.coach/blog/spermidine-supplementation-muscle-autophagy</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Spermidine is linked to autophagy in laboratory research, but direct evidence for better muscle or strength in trained humans remains limited.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Supplement Stacking: What Works Together and What Is Uncertain]]></title>
+      <link>https://jacked.coach/blog/supplement-stacking-science</link>
+      <guid>https://jacked.coach/blog/supplement-stacking-science</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[How to combine creatine, protein, caffeine, and other supplements without inventing synergies, ignoring interactions, or turning a simple routine into a guessing game.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Supplement Timing: Creatine, Protein, and Caffeine]]></title>
+      <link>https://jacked.coach/blog/supplement-timing-science-muscle-building</link>
+      <guid>https://jacked.coach/blog/supplement-timing-science-muscle-building</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Which supplements depend mostly on daily consistency, which may affect an acute workout, and how to avoid turning timing into needless complexity.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Urolithin A for Muscle Health: What Human Trials Show]]></title>
+      <link>https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health</link>
+      <guid>https://jacked.coach/blog/urolithin-a-mitophagy-muscle-health</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Urolithin A has human trials in middle-aged and older adults, but mitophagy claims should not be converted into a guaranteed muscle-building effect.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[Natural HGH Boosters: What Lifters Should Know]]></title>
+      <link>https://jacked.coach/blog/hgh-boosters-natural-compounds-lifters</link>
+      <guid>https://jacked.coach/blog/hgh-boosters-natural-compounds-lifters</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Sleep and training influence growth-hormone pulses, but supplement claims about raising HGH rarely translate into more strength or muscle.]]></description>
+      <category>Supplements</category>
+    </item>
+    <item>
+      <title><![CDATA[AI Fitness Programming: Recommendations, Data, and Limits]]></title>
       <link>https://jacked.coach/blog/ai-fitness-programming-algorithms-2026</link>
       <guid>https://jacked.coach/blog/ai-fitness-programming-algorithms-2026</guid>
       
-      <description><![CDATA[Discover how artificial intelligence is revolutionizing workout programming through personalized, adaptive algorithms that optimize progressive overload in real-time.]]></description>
+      <description><![CDATA[AI workout systems can turn training history into recommendations, but useful programming still depends on data quality, transparent rules, and human judgement.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Anabolic Resistance: Why Your Muscles Stop Responding to Protein (And What To Do About It)]]></title>
+      <title><![CDATA[Anabolic Resistance: Protein and Muscle in Older Adults]]></title>
       <link>https://jacked.coach/blog/anabolic-resistance-older-adults-2026</link>
       <guid>https://jacked.coach/blog/anabolic-resistance-older-adults-2026</guid>
       
-      <description><![CDATA[As we age, our muscles become less responsive to protein—a phenomenon called anabolic resistance. Here's the 2025-2026 science on fighting back and maintaining muscle mass.]]></description>
+      <description><![CDATA[Age can reduce the acute muscle-protein-synthesis response to feeding or exercise, but older adults can still gain muscle. Here is what protein and training evidence supports.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Ashwagandha for Lifters: The Stress-Adaptogen That Builds Muscle]]></title>
+      <title><![CDATA[Ashwagandha for Lifters: What the Exercise Evidence Shows]]></title>
       <link>https://jacked.coach/blog/ashwagandha-strength-training-supplement-science-2026</link>
       <guid>https://jacked.coach/blog/ashwagandha-strength-training-supplement-science-2026</guid>
       
-      <description><![CDATA[New 2026 research confirms ashwagandha reduces cortisol, enhances recovery, and increases strength—here's what the science shows about this ancient herb for modern lifters.]]></description>
+      <description><![CDATA[A cautious review of ashwagandha trials in resistance training, including what may help, what remains uncertain, and the safety questions to check first.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[The Science of Autoprogression: How Automatic Weight Increases Revolutionize Muscle Building]]></title>
+      <title><![CDATA[Autoprogression: How to Choose the Next Training Load]]></title>
       <link>https://jacked.coach/blog/autoprogression-science-2026</link>
       <guid>https://jacked.coach/blog/autoprogression-science-2026</guid>
       
-      <description><![CDATA[Discover how autoprogression uses real-time feedback to optimize your training stimulus and maximize muscle growth without the guesswork.]]></description>
+      <description><![CDATA[A practical guide to using reps, RIR, RPE, and performance trends to adjust the next load—without claiming that an app can predict the perfect session.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Beta-Alanine for Strength Training: Does It Actually Work?]]></title>
+      <title><![CDATA[Beta-Alanine for Strength Training: Where It Fits]]></title>
       <link>https://jacked.coach/blog/beta-alanine-strength-training-science-2026</link>
       <guid>https://jacked.coach/blog/beta-alanine-strength-training-science-2026</guid>
       
-      <description><![CDATA[The science behind beta-alanine supplementation for strength and hypertrophy athletes—separating hype from evidence.]]></description>
+      <description><![CDATA[Beta-alanine raises muscle carnosine, but its clearest performance evidence is for hard efforts lasting roughly one to ten minutes—not automatic strength or hypertrophy.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Blood Biomarkers Every Lifter Should Track]]></title>
+      <title><![CDATA[Blood Tests for Lifters: What They Can and Cannot Tell You]]></title>
       <link>https://jacked.coach/blog/blood-biomarkers-lifters-guide-2026</link>
       <guid>https://jacked.coach/blog/blood-biomarkers-lifters-guide-2026</guid>
       
-      <description><![CDATA[Unlock your training potential by understanding the key blood markers that reveal your hormonal status, recovery capacity, and muscle-building readiness.]]></description>
+      <description><![CDATA[A clinician-led guide to testosterone, cortisol, CK, CRP, and other blood tests—what they measure, what they do not prove, and when testing is worth discussing.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Body Types in 2026: Science or Just a Convenient Excuse?]]></title>
+      <title><![CDATA[Body Types and Training: What Somatotypes Can—and Cannot—Predict]]></title>
       <link>https://jacked.coach/blog/body-types-science-fitness-2026</link>
       <guid>https://jacked.coach/blog/body-types-science-fitness-2026</guid>
       
-      <description><![CDATA[Ectomorph, mesomorph, endomorph — the trio that's dominated fitness discussion for decades. But does the science actually support tailoring your training to your body type?]]></description>
+      <description><![CDATA[Ectomorph, mesomorph, and endomorph labels describe appearance, but they do not prescribe your calories, exercises, or genetic ceiling.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Caffeine and Pre-Workout: What Science Actually Says in 2026]]></title>
-      <link>https://jacked.coach/blog/caffeine-pre-workout-science-2026</link>
-      <guid>https://jacked.coach/blog/caffeine-pre-workout-science-2026</guid>
-      
-      <description><![CDATA[We analyzed the latest 2025-2026 research to give you evidence-based recommendations on caffeine dosing, timing, and how to maximize your pre-workout boost without ruining your sleep.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Citrulline Malate: The Pre-Workout Supplement That Actually Works]]></title>
-      <link>https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026</link>
-      <guid>https://jacked.coach/blog/citrulline-malate-pre-workout-science-2026</guid>
-      
-      <description><![CDATA[Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth]]></title>
+      <title><![CDATA[Cluster Sets: A Way to Redistribute Rest, Not a Guaranteed Growth Upgrade]]></title>
       <link>https://jacked.coach/blog/cluster-sets-hypertrophy-2026</link>
       <guid>https://jacked.coach/blog/cluster-sets-hypertrophy-2026</guid>
       
-      <description><![CDATA[New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh.]]></description>
+      <description><![CDATA[Cluster sets can preserve rep quality and reduce fatigue, but current trials do not show that they build more muscle than well-matched straight sets.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains]]></title>
+      <title><![CDATA[Cold-Water Immersion and Muscle Growth: Separate Soreness from Adaptation]]></title>
       <link>https://jacked.coach/blog/cold-water-immersion-muscle-growth-science-2026</link>
       <guid>https://jacked.coach/blog/cold-water-immersion-muscle-growth-science-2026</guid>
       
-      <description><![CDATA[New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy.]]></description>
+      <description><![CDATA[Cold water can change soreness and perceived recovery, but repeated post-lifting immersion may not be neutral for adaptation; use it for a specific need, not as a default ritual.]]></description>
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[The Complete Guide to Muscle Building in 2026]]></title>
+      <title><![CDATA[How to Build Muscle: A Practical Starting Plan]]></title>
       <link>https://jacked.coach/blog/complete-guide-muscle-building-2026</link>
       <guid>https://jacked.coach/blog/complete-guide-muscle-building-2026</guid>
       
-      <description><![CDATA[Everything you need to know about building muscle: training, nutrition, recovery, and supplementation — backed by the latest science.]]></description>
+      <description><![CDATA[A clear starting plan for muscle gain: choose productive training, eat enough protein and energy, manage fatigue, and adjust from your own record.]]></description>
       <category>Foundation</category>
-    </item>
-    <item>
-      <title><![CDATA[The Interference Effect: Can You Build Strength and Muscle Simultaneously?]]></title>
-      <link>https://jacked.coach/blog/concurrent-training-interference-effect-2026</link>
-      <guid>https://jacked.coach/blog/concurrent-training-interference-effect-2026</guid>
-      
-      <description><![CDATA[Science reveals how to combine strength and hypertrophy training without sacrificing gains in either direction.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Creatine Monohydrate: The Science Behind the Most Researched Supplement]]></title>
-      <link>https://jacked.coach/blog/creatine-monohydrate-science-2026</link>
-      <guid>https://jacked.coach/blog/creatine-monohydrate-science-2026</guid>
-      
-      <description><![CDATA[A deep dive into creatine monohydrate - what the latest 2024-2026 research says about strength gains, muscle building, dosage, and common myths.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Why Your Daily Step Count Matters for Muscle Growth]]></title>
-      <link>https://jacked.coach/blog/daily-steps-muscle-growth-science-2026</link>
-      <guid>https://jacked.coach/blog/daily-steps-muscle-growth-science-2026</guid>
-      
-      <description><![CDATA[Beyond the gym: how non-exercise activity affects your hypertrophy gains and what the 2025-2026 research reveals.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Eccentric Overload Training: Does It Actually Build More Muscle?]]></title>
-      <link>https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026</link>
-      <guid>https://jacked.coach/blog/eccentric-overload-training-muscle-growth-2026</guid>
-      
-      <description><![CDATA[The theory sounds perfect — overload the lowering phase to maximize muscle growth. But what does the research actually show? We review the 2025-2026 science.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Exercise Snacking: The Science Behind Short Workouts That Build Muscle]]></title>
-      <link>https://jacked.coach/blog/exercise-snacking-muscle-science-2026</link>
-      <guid>https://jacked.coach/blog/exercise-snacking-muscle-science-2026</guid>
-      
-      <description><![CDATA[Can 5-minute workout bursts build muscle? The emerging science of exercise snacking suggests yes - here is what the research says.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Exerkines: The Secret Signaling Molecules That Make Your Muscles Talk to Your Whole Body]]></title>
-      <link>https://jacked.coach/blog/exerkines-muscle-signaling-molecules-2026</link>
-      <guid>https://jacked.coach/blog/exerkines-muscle-signaling-molecules-2026</guid>
-      
-      <description><![CDATA[When you lift weights, your muscles don't just get stronger—they become endocrine organs that release hundreds of signaling molecules affecting everything from brain function to bone density. Here's what science says about exerkines and how to maximize them.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Fasted vs Fed Training: What the Science Actually Says About Muscle Growth]]></title>
-      <link>https://jacked.coach/blog/fasted-vs-fed-training-muscle-growth-2026</link>
-      <guid>https://jacked.coach/blog/fasted-vs-fed-training-muscle-growth-2026</guid>
-      
-      <description><![CDATA[Does training fasted burn more fat or muscle? A 2025 meta-analysis reveals the surprising truth about fasted versus fed training for hypertrophy and performance.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[GLP-1 Weight Loss Drugs and Muscle Preservation: The Science Behind Keeping Your Gains]]></title>
-      <link>https://jacked.coach/blog/glp-1-muscle-preservation-science-2026</link>
-      <guid>https://jacked.coach/blog/glp-1-muscle-preservation-science-2026</guid>
-      
-      <description><![CDATA[With 12% of US adults now using GLP-1 agonists for weight loss, the biggest concern isn't fat loss—it's muscle loss. Here's what the research says about preserving lean tissue during pharmacological weight loss.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Grip Strength: The Simple Metric That Predicts Longevity and Muscle Building Success]]></title>
-      <link>https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026</link>
-      <guid>https://jacked.coach/blog/grip-strength-longevity-muscle-building-2026</guid>
-      
-      <description><![CDATA[New research confirms what serious lifters have long suspected—grip strength is far more than just a party trick. It's a powerful predictor of muscle growth potential, overall strength, and even lifespan.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Heat Shock Proteins: The New Frontier in Muscle Growth Science]]></title>
-      <link>https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026</link>
-      <guid>https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026</guid>
-      
-      <description><![CDATA[How heat exposure triggers cellular protection mechanisms that may revolutionize muscle building protocols.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Heat Training for Muscle Growth: The Science of Heat Acclimation and Hypertrophy]]></title>
-      <link>https://jacked.coach/blog/heat-training-muscle-growth-science-2026</link>
-      <guid>https://jacked.coach/blog/heat-training-muscle-growth-science-2026</guid>
-      
-      <description><![CDATA[New research reveals that strategic heat exposure before or during training can enhance muscle growth, improve performance, and accelerate adaptations. Here's how to use heat training safely.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[HMB Supplementation: Does Beta-Hydroxy Beta-Methylbutyrate Actually Work for Muscle Building?]]></title>
-      <link>https://jacked.coach/blog/hmb-supplementation-muscle-building-2026</link>
-      <guid>https://jacked.coach/blog/hmb-supplementation-muscle-building-2026</guid>
-      
-      <description><![CDATA[HMB has been marketed as a powerful muscle-building supplement for decades. But what does the latest 2025-2026 research actually say about its effectiveness for lifters?]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Heart Rate Variability: The Science of Training by Your Nervous System]]></title>
-      <link>https://jacked.coach/blog/hrv-training-optimization-science-2026</link>
-      <guid>https://jacked.coach/blog/hrv-training-optimization-science-2026</guid>
-      
-      <description><![CDATA[HRV is emerging as the most objective way to gauge recovery and readiness. Recent research shows HRV-guided training improves performance while reducing overtraining risk.]]></description>
-      <category>General</category>
     </item>
   </channel>
 </rss>

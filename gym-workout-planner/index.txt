@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-d:I[68027,["/_next/static/chunks/1okxf_g39y8o-.js"],"default",1]
+d:I[68027,["/_next/static/chunks/2bo9v-qm17zlu.js"],"default",1]
 2:T128e,
           .site-header {
             position: sticky;
@@ -134,14 +134,15 @@ d:I[68027,["/_next/static/chunks/1okxf_g39y8o-.js"],"default",1]
             .site-header-menu-toggle { min-height: 38px; }
           }
         b:X
-0:{"P":null,"c":["","gym-workout-planner",""],"q":"","i":false,"f":[[["",{"children":["gym-workout-planner",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/1okxf_g39y8o-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/surpass-icon.png","type":"image/png","sizes":"1024x1024"}],["$","link",null,{"rel":"shortcut icon","href":"/surpass-icon.png","type":"image/png","sizes":"1024x1024"}],["$","link",null,{"rel":"apple-touch-icon","href":"/surpass-icon.png"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Surpass training library RSS feed","href":"/feed.xml"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6757132605, affiliate-data=pt=128406689&ct=smart_banner&mt=8"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5","$L6","$L7"]}],"$L8"]}]]}],{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"4vugFI5qunkzWeu4jMUfY"}
-f:I[30101,["/_next/static/chunks/1okxf_g39y8o-.js"],"default"]
-10:I[22016,["/_next/static/chunks/1okxf_g39y8o-.js"],""]
-11:I[39756,["/_next/static/chunks/1okxf_g39y8o-.js"],"default"]
-12:I[37457,["/_next/static/chunks/1okxf_g39y8o-.js"],"default"]
-20:I[97367,["/_next/static/chunks/1okxf_g39y8o-.js"],"ViewportBoundary"]
-22:I[97367,["/_next/static/chunks/1okxf_g39y8o-.js"],"MetadataBoundary"]
-23:"$Sreact.suspense"
+0:{"P":null,"c":["","gym-workout-planner",""],"q":"","i":false,"f":[[["",{"children":["gym-workout-planner",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/2bo9v-qm17zlu.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/surpass-icon.png","type":"image/png","sizes":"1024x1024"}],["$","link",null,{"rel":"shortcut icon","href":"/surpass-icon.png","type":"image/png","sizes":"1024x1024"}],["$","link",null,{"rel":"apple-touch-icon","href":"/surpass-icon.png"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Surpass training library RSS feed","href":"/feed.xml"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6757132605, affiliate-data=pt=128406689&ct=smart_banner&mt=8"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5","$L6","$L7"]}],"$L8"]}]]}],{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CRdcANKXZeMhyDgRHxEYK"}
+f:I[30101,["/_next/static/chunks/2bo9v-qm17zlu.js"],"default"]
+10:I[22016,["/_next/static/chunks/2bo9v-qm17zlu.js"],""]
+11:I[39756,["/_next/static/chunks/2bo9v-qm17zlu.js"],"default"]
+12:I[37457,["/_next/static/chunks/2bo9v-qm17zlu.js"],"default"]
+14:I[827,["/_next/static/chunks/2bo9v-qm17zlu.js","/_next/static/chunks/3kgmnt-ht47zb.js"],"default"]
+17:I[97367,["/_next/static/chunks/2bo9v-qm17zlu.js"],"ViewportBoundary"]
+19:I[97367,["/_next/static/chunks/2bo9v-qm17zlu.js"],"MetadataBoundary"]
+1a:"$Sreact.suspense"
 3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Surpass - Strength Training\",\"alternateName\":\"Surpass\",\"operatingSystem\":\"iOS\",\"applicationCategory\":\"HealthApplication\",\"description\":\"Turn your last result into today's load, reps, rest, and weekly target with Surpass.\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\",\"availability\":\"https://schema.org/InStock\"},\"url\":\"https://jacked.coach\",\"downloadUrl\":\"https://apps.apple.com/app/id6757132605\",\"featureList\":[\"Visible-priority training blocks\",\"Focused workout and set logging\",\"Workout receipts that explain what moved\",\"Weekly hard-set targets by muscle\",\"Double progression guidance\",\"Next load and rep-range targets\",\"Compatible Hevy workout history import\",\"Rest timer and active workout resume\",\"Lift and workout history\"]}"}}]
 4:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Surpass\",\"url\":\"https://jacked.coach\",\"logo\":\"https://jacked.coach/og-image.png\",\"sameAs\":[\"https://apps.apple.com/app/id6757132605\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer support\",\"url\":\"https://jacked.coach/support\"}}"}}]
 5:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Surpass\",\"url\":\"https://jacked.coach\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jacked.coach/blog?search={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}]
@@ -149,223 +150,13 @@ e:T6fd,(function(e,c){if(!c.__SV){var l,h;window.mixpanel=c;c._i=[];c.init=funct
 7:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener('click',function(e){const a=e.target.closest('[data-nav-section]');if(a){window.mixpanel?.track?.('nav_click',{section:a.getAttribute('data-nav-section')||'unknown'});}const c=e.target.closest('[data-global-cta]');if(c){window.mixpanel?.track?.('cta_click',{placement:c.getAttribute('data-global-cta')||'unknown',target:'app_store'});}const r=e.target.closest('[data-related-tool]');if(r){const p=new URLSearchParams(window.location.search);const s=v=>{v=(v||'').trim().replace(/\\s+/g,'_');return /^(?!https?:\\/\\/)(?!.*@)[A-Za-z0-9][A-Za-z0-9._~:/+-]{0,79}$/.test(v)?v:''};window.mixpanel?.track?.('tool_related_tool_clicked',{tool_name:window.location.pathname.split('/').filter(Boolean).pop()||'tools',related_tool:r.getAttribute('data-related-tool')||'unknown',units:'',goal:'',exercise_type:'',source_page:window.location.pathname||'/',utm_source:s(p.get('utm_source')),utm_campaign:s(p.get('utm_campaign'))});}});"}}]
 8:["$","body",null,{"style":{"margin":0,"fontFamily":"-apple-system, BlinkMacSystemFont, \"SF Pro Text\", \"Inter\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","lineHeight":1.6,"color":"#e5e5e5","backgroundColor":"#000000"},"children":[["$","$Lf",null,{}],["$","header",null,{"className":"site-header","children":["$","nav",null,{"className":"site-header-nav","aria-label":"Primary navigation","children":[["$","$L10",null,{"href":"/","className":"site-header-logo","children":"SURPASS"}],["$","div",null,{"className":"site-header-links site-header-desktop-links","children":[["$","$L10",null,{"href":"/#hiw","className":"site-header-link","data-nav-section":"how_it_works","children":"How it works"}],["$","$L10",null,{"href":"/tools","className":"site-header-link","data-nav-section":"tools","children":"Tools"}],["$","$L10",null,{"href":"/blog","className":"site-header-link","data-nav-section":"training_library","children":"Training Library"}],["$","$L10",null,{"href":"/about","className":"site-header-link site-header-optional","data-nav-section":"about","children":"About"}],["$","$L10",null,{"href":"/support","className":"site-header-link site-header-optional","data-nav-section":"support","children":"Support"}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=surpass_coach&mt=8","target":"_blank","rel":"noopener noreferrer","className":"site-header-cta site-header-cta-desktop","data-global-cta":"header","data-app-store-placement":"header","children":"Start with Surpass"}]]}],["$","div",null,{"className":"site-header-mobile-actions","children":[["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=surpass_coach_mobile&mt=8","target":"_blank","rel":"noopener noreferrer","className":"site-header-cta site-header-cta-mobile","data-global-cta":"header_mobile","data-app-store-placement":"header_mobile","children":"Start free"}],["$","details",null,{"className":"site-header-menu","children":[["$","summary",null,{"className":"site-header-menu-toggle","aria-label":"Open navigation","children":"Menu"}],["$","div",null,{"className":"site-header-menu-panel","children":[["$","$L10",null,{"href":"/#hiw","className":"site-header-link","data-nav-section":"how_it_works","children":"How it works"}],["$","$L10",null,{"href":"/tools","className":"site-header-link","data-nav-section":"tools","children":"Tools"}],["$","$L10",null,{"href":"/blog","className":"site-header-link","data-nav-section":"training_library","children":"Training Library"}],["$","$L10",null,{"href":"/about","className":"site-header-link","data-nav-section":"about","children":"About"}],["$","$L10",null,{"href":"/support","className":"site-header-link","data-nav-section":"support","children":"Support"}]]}]]}]]}]]}]}],["$","main",null,{"style":{"margin":"0 auto","padding":0,"minHeight":"calc(100vh - 200px)","backgroundColor":"#000000"},"children":["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"style":{"width":"min(920px, calc(100% - 32px))","minHeight":"62vh","margin":"0 auto","padding":"clamp(72px, 13vw, 150px) 0 90px","color":"#f5f1e8"},"children":[["$","p",null,{"style":{"margin":0,"color":"#e2c95f","fontSize":"0.75rem","fontWeight":850,"letterSpacing":"0.16em"},"children":"SURPASS / 404"}],["$","h1",null,{"style":{"maxWidth":"700px","margin":"18px 0 18px","fontSize":"clamp(3rem, 8vw, 6.8rem)","lineHeight":0.92,"letterSpacing":"-0.055em"},"children":"That page missed the set."}],["$","p",null,{"style":{"maxWidth":"600px","margin":0,"color":"#bcb6a8","fontSize":"1.16rem","lineHeight":1.7},"children":"The link may be old or incomplete. Start at the workout tracker, use a training tool, or open Surpass on iPhone."}],["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":12,"marginTop":30},"children":[["$","$L10",null,{"href":"/","style":{"display":"inline-flex","alignItems":"center","minHeight":50,"padding":"0 18px","borderRadius":10,"background":"#e2c95f","color":"#17150f","fontWeight":850,"textDecoration":"none"},"children":"Back to Surpass"}],["$","$L10",null,{"href":"/tools","style":{"display":"inline-flex","alignItems":"center","minHeight":50,"padding":"0 18px","border":"1px solid rgba(245,241,232,0.2)","borderRadius":10,"color":"#f5f1e8","fontWeight":750,"textDecoration":"none"},"children":"Browse training tools"}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=surpass_404&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"404_store","data-app-store-placement":"not_found","style":{"display":"inline-flex","alignItems":"center","minHeight":50,"padding":"0 18px","border":"1px solid rgba(226,201,95,0.48)","borderRadius":10,"color":"#e2c95f","fontWeight":800,"textDecoration":"none"},"children":"Get the iPhone app"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L13"]}]
 9:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-14:T2110,
-        :root {
-          --acq-gold: #f5b935;
-          --acq-gold-bright: #ffd46a;
-          --acq-text: #fff8ea;
-          --acq-muted: #b8b0a2;
-          --acq-line: rgba(255, 248, 234, 0.14);
-          --acq-panel: #11110f;
-        }
-
-        .acquisition-page,
-        .acquisition-page * { box-sizing: border-box; }
-
-        .acquisition-page {
-          color: var(--acq-text);
-          background: #050505;
-        }
-
-        .acquisition-wrap {
-          width: min(1120px, calc(100% - 32px));
-          margin: 0 auto;
-        }
-
-        .acquisition-hero {
-          min-height: 690px;
-          display: grid;
-          align-items: center;
-          border-bottom: 1px solid var(--acq-line);
-          background:
-            linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(3,3,3,0.82) 44%, rgba(3,3,3,0.28) 78%, rgba(3,3,3,0.18) 100%),
-            linear-gradient(180deg, transparent 52%, #050505 100%),
-            var(--acq-hero-image) 68% center / cover no-repeat;
-        }
-
-        .acquisition-hero.screen {
-          background:
-            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.9) 46%, rgba(3,3,3,0.22) 72%, rgba(3,3,3,0.04) 100%),
-            linear-gradient(180deg, transparent 64%, #050505 100%),
-            var(--acq-hero-image) calc(100% - 8vw) center / auto 82% no-repeat,
-            #050505;
-        }
-
-        .acquisition-hero-copy { max-width: 690px; padding: 76px 0 88px; }
-
-        .acquisition-eyebrow {
-          margin: 0 0 16px;
-          color: var(--acq-gold);
-          font-size: 0.8rem;
-          font-weight: 850;
-          letter-spacing: 0.13em;
-          text-transform: uppercase;
-        }
-
-        .acquisition-hero h1 {
-          max-width: 780px;
-          margin: 0;
-          font-size: clamp(3rem, 7vw, 6rem);
-          line-height: 0.96;
-          letter-spacing: -0.055em;
-          font-weight: 950;
-        }
-
-        .acquisition-hero-copy > p:not(.acquisition-eyebrow) {
-          max-width: 650px;
-          margin: 24px 0 0;
-          color: var(--acq-muted);
-          font-size: clamp(1.05rem, 2vw, 1.22rem);
-          line-height: 1.65;
-        }
-
-        .acquisition-actions { margin-top: 30px; }
-
-        .acquisition-store-link {
-          display: inline-flex;
-          align-items: center;
-          gap: 13px;
-          min-height: 62px;
-          padding: 0 22px;
-          border: 1px solid rgba(255,255,255,0.24);
-          border-radius: 10px;
-          color: #11100c;
-          background: linear-gradient(180deg, var(--acq-gold-bright), var(--acq-gold));
-          box-shadow: 0 16px 38px rgba(245,185,53,0.2);
-          text-decoration: none;
-          font-size: 1.04rem;
-          font-weight: 850;
-        }
-
-        .acquisition-store-link > span:first-child { font-size: 2rem; line-height: 1; }
-        .acquisition-store-link > span:last-child { display: grid; line-height: 1.12; }
-        .acquisition-store-link small { font-size: 0.68rem; font-weight: 730; }
-
-        .acquisition-store-note {
-          margin: 13px 0 0;
-          color: #9d9689;
-          font-size: 0.84rem;
-          font-weight: 650;
-        }
-
-        .acquisition-section { padding: 88px 0; border-bottom: 1px solid var(--acq-line); }
-        .acquisition-section.soft { background: #0a0a09; }
-
-        .acquisition-heading { max-width: 740px; margin-bottom: 38px; }
-        .acquisition-heading h2 {
-          margin: 0;
-          font-size: clamp(2rem, 4vw, 3.4rem);
-          line-height: 1.06;
-          letter-spacing: -0.04em;
-        }
-        .acquisition-heading p { margin: 15px 0 0; color: var(--acq-muted); font-size: 1.04rem; }
-
-        .acquisition-benefits {
-          display: grid;
-          grid-template-columns: repeat(3, minmax(0, 1fr));
-          gap: 14px;
-        }
-
-        .acquisition-card {
-          padding: 27px;
-          border: 1px solid var(--acq-line);
-          border-radius: 12px;
-          background: linear-gradient(180deg, rgba(255,255,255,0.055), rgba(255,255,255,0.022));
-        }
-        .acquisition-card span {
-          display: inline-flex;
-          align-items: center;
-          justify-content: center;
-          width: 38px;
-          height: 38px;
-          margin-bottom: 18px;
-          border-radius: 8px;
-          color: #111;
-          background: var(--acq-gold);
-          font-weight: 900;
-        }
-        .acquisition-card h3 { margin: 0; font-size: 1.2rem; line-height: 1.25; }
-        .acquisition-card p { margin: 11px 0 0; color: var(--acq-muted); line-height: 1.65; }
-
-        .acquisition-flow { display: grid; grid-template-columns: 0.82fr 1.18fr; gap: 56px; align-items: center; }
-        .acquisition-photo {
-          width: 100%;
-          min-height: 520px;
-          object-fit: cover;
-          border: 1px solid var(--acq-line);
-          border-radius: 14px;
-          filter: saturate(0.8) contrast(1.05);
-        }
-        .acquisition-photo.screen {
-          max-height: 680px;
-          padding: 20px;
-          object-fit: contain;
-          background: #090a0c;
-        }
-        .acquisition-steps { display: grid; gap: 12px; }
-        .acquisition-step { display: grid; grid-template-columns: 46px 1fr; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--acq-line); }
-        .acquisition-step > strong { color: var(--acq-gold); font-size: 1.15rem; }
-        .acquisition-step h3 { margin: 0; font-size: 1.12rem; }
-        .acquisition-step p { margin: 6px 0 0; color: var(--acq-muted); }
-
-        .acquisition-comparison { overflow: hidden; border: 1px solid var(--acq-line); border-radius: 12px; }
-        .acquisition-comparison-row { display: grid; grid-template-columns: 0.72fr 1fr 1fr; }
-        .acquisition-comparison-row + .acquisition-comparison-row { border-top: 1px solid var(--acq-line); }
-        .acquisition-comparison-row > * { padding: 19px 22px; }
-        .acquisition-comparison-row > * + * { border-left: 1px solid var(--acq-line); }
-        .acquisition-comparison-row strong { color: #f7f0df; }
-        .acquisition-comparison-row span { color: var(--acq-muted); }
-        .acquisition-comparison-head { background: #171512; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 850; }
-        .acquisition-comparison-head > *:last-child { color: var(--acq-gold); }
-
-        .acquisition-faq { display: grid; gap: 10px; }
-        .acquisition-faq details { padding: 21px 23px; border: 1px solid var(--acq-line); border-radius: 10px; background: var(--acq-panel); }
-        .acquisition-faq summary { cursor: pointer; font-weight: 800; }
-        .acquisition-faq p { margin: 12px 0 0; color: var(--acq-muted); }
-
-        .acquisition-related { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 28px; }
-        .acquisition-related a { padding: 9px 13px; border: 1px solid var(--acq-line); border-radius: 999px; color: #e8d67b; text-decoration: none; font-size: 0.88rem; font-weight: 720; }
-
-        .acquisition-final { padding: 96px 0; text-align: center; background: radial-gradient(circle at 50% 20%, rgba(245,185,53,0.13), transparent 28rem), #050505; }
-        .acquisition-final h2 { max-width: 760px; margin: 0 auto; font-size: clamp(2.2rem, 5vw, 4.3rem); line-height: 1; letter-spacing: -0.045em; }
-        .acquisition-final p { max-width: 620px; margin: 20px auto 28px; color: var(--acq-muted); font-size: 1.08rem; }
-
-        @media (max-width: 820px) {
-          .acquisition-hero { min-height: 620px; background-position: 61% center; }
-          .acquisition-hero-copy { padding: 70px 0; }
-          .acquisition-benefits { grid-template-columns: 1fr; }
-          .acquisition-flow { grid-template-columns: 1fr; gap: 34px; }
-          .acquisition-photo { min-height: 390px; }
-          .acquisition-comparison-row { grid-template-columns: 1fr; }
-          .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
-          .acquisition-comparison-head > *:first-child { display: none; }
-          .acquisition-hero.screen {
-            min-height: 1040px;
-            align-items: start;
-            background:
-              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 42%, rgba(3,3,3,0.18) 60%, rgba(3,3,3,0.04) 82%, #050505 100%),
-              var(--acq-hero-image) center calc(100% - 18px) / auto 42% no-repeat,
-              #050505;
-          }
-          .acquisition-hero.screen .acquisition-hero-copy { padding: 56px 0 430px; }
-        }
-      a:["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$14"}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}],null,"$L1f"]}]
-c:["$","$1","h",{"children":[null,["$","$L20",null,{"children":"$L21"}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":"$L24"}]}]}],null]}]
-26:I[97367,["/_next/static/chunks/1okxf_g39y8o-.js"],"OutletBoundary"]
-:HL["/marketing/surpass-home.png","image",{"fetchPriority":"high"}]
+a:["$","$1","c",{"children":[["$","$L14",null,{"eyebrow":"Gym workout planner for iPhone","title":"Plan the workout. Know the next set.","intro":"Surpass connects your training split, weekly muscle targets, rep ranges, and recent lift history to the workout you are about to run.","campaignUrl":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_gym_workout_planner&mt=8","campaignKey":"seo_gym_workout_planner","canonicalPath":"/gym-workout-planner","heroImage":"/marketing/surpass-home.png","heroImageAlt":"Surpass showing a planned Push A workout with target load, rep range, RIR, and previous result","heroPresentation":"screen","benefits":[{"title":"Build the routine you actually run","copy":"Organize training days, exercises, working sets, rep ranges, rest targets, and RIR without giving up control of your program."},{"title":"Plan volume by muscle, not just by day","copy":"Weekly hard-set targets show how the workouts in your split add up across chest, back, shoulders, arms, and legs."},{"title":"Connect the plan to recent performance","copy":"The active workout keeps the previous result beside the next load and rep target instead of leaving the plan as a static checklist."}],"steps":[{"title":"Shape the training week","copy":"Choose your days, exercises, working sets, rep ranges, rest targets, and effort targets."},{"title":"Run the planned workout","copy":"Open the next session, log weight and reps quickly, and keep the rest timer inside the workout."},{"title":"Adjust from real results","copy":"Use lift history and weekly hard-set totals to repeat, add reps, add load, or revise the next session."}],"comparison":[["Before the week","List exercises under each training day.","See the split together with weekly hard-set targets by muscle."],["Before the set","Read the planned weight and rep range.","See the plan, previous result, and next target in one view."],["After the workout","Mark the session complete and reuse the same numbers.","Carry the logged result into lift history and the next progression decision."]],"faqs":[{"question":"Can I create my own gym routine?","answer":"Yes. You control the training days, exercises, working sets, rep ranges, rest targets, and effort targets in your plan."},{"question":"Can I start a workout without building a full plan?","answer":"Yes. Surpass supports starting a freestyle workout, so you can log the session first and organize a repeatable plan when it is useful."},{"question":"Does the planner track weekly sets by muscle?","answer":"Yes. Surpass shows completed hard sets and sets left against weekly muscle targets, using the workouts recorded in the app."},{"question":"Does Surpass automatically replace my program?","answer":"No. You remain in control of the routine and every exercise. Surpass keeps recent results and target context visible so you can make a clearer progression decision."}],"related":[["/workout-tracker","Workout tracker for iPhone"],["/progressive-overload","Progressive overload app"],["/tools/workout-split-builder","Workout split builder"],["/tools/weekly-volume-checker","Weekly volume checker"]],"benefitsTitle":"A plan that stays connected to the work.","benefitsIntro":"Surpass keeps program structure, weekly muscle targets, and recent performance close enough to guide the next session.","flowTitle":"Plan, train, and adjust in one loop.","flowIntro":"The routine becomes more useful when the result of each workout is available before the next one starts.","comparisonTitle":"Move beyond a static exercise checklist.","comparisonIntro":"A useful gym planner should connect the week you intended to the sets you actually completed.","comparisonLabel":"Static gym planner and Surpass comparison","faqTitle":"Questions about planning workouts in Surpass.","finalTitle":"Build the week. Run the next set.","finalCopy":"Start free on iPhone to plan training days, log working sets, track weekly muscle targets, and use recent performance in the next workout."}],["$L15"],"$L16"]}]
+c:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],null]}]
+1c:I[97367,["/_next/static/chunks/2bo9v-qm17zlu.js"],"OutletBoundary"]
 b:C
-13:["$","footer",null,{"style":{"backgroundColor":"#0a0a0a","borderTop":"1px solid #222","color":"#8f897c","padding":"2rem","textAlign":"center"},"children":[["$","div",null,{"style":{"display":"flex","justifyContent":"center","gap":"1rem","flexWrap":"wrap","marginBottom":"0.9rem"},"children":[["$","$L10",null,{"href":"/workout-tracker","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Workout tracker"}],["$","$L10",null,{"href":"/progressive-overload","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Progressive overload"}],["$","$L10",null,{"href":"/hevy-alternative","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Import workout history"}],["$","$L10",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Training Library"}],["$","$L10",null,{"href":"/blog/alternatives-to-rp-hypertrophy-app","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"RP Hypertrophy alternatives"}],["$","$L10",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Support"}],["$","$L10",null,{"href":"/privacy","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Privacy"}],["$","$L10",null,{"href":"/terms","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Terms"}]]}],["$","p",null,{"style":{"margin":0,"fontSize":"0.9rem"},"children":"© 2026 Surpass. Make your next set obvious."}]]}]
-15:["$","link",null,{"rel":"preload","as":"image","href":"/marketing/surpass-home.png","fetchPriority":"high","precedence":"default"}]
-16:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Plan the workout. Know the next set.\",\"description\":\"Surpass connects your training split, weekly muscle targets, rep ranges, and recent lift history to the workout you are about to run.\",\"url\":\"https://jacked.coach/gym-workout-planner\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"Surpass\",\"url\":\"https://jacked.coach\"},\"about\":{\"@type\":\"SoftwareApplication\",\"name\":\"Surpass\",\"operatingSystem\":\"iOS\",\"applicationCategory\":\"HealthApplication\"}}"}}]
-17:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Surpass\",\"item\":\"https://jacked.coach/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Plan the workout. Know the next set.\",\"item\":\"https://jacked.coach/gym-workout-planner\"}]}"}}]
-25:T440,{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I create my own gym routine?","acceptedAnswer":{"@type":"Answer","text":"Yes. You control the training days, exercises, working sets, rep ranges, rest targets, and effort targets in your plan."}},{"@type":"Question","name":"Can I start a workout without building a full plan?","acceptedAnswer":{"@type":"Answer","text":"Yes. Surpass supports starting a freestyle workout, so you can log the session first and organize a repeatable plan when it is useful."}},{"@type":"Question","name":"Does the planner track weekly sets by muscle?","acceptedAnswer":{"@type":"Answer","text":"Yes. Surpass shows completed hard sets and sets left against weekly muscle targets, using the workouts recorded in the app."}},{"@type":"Question","name":"Does Surpass automatically replace my program?","acceptedAnswer":{"@type":"Answer","text":"No. You remain in control of the routine and every exercise. Surpass keeps recent results and target context visible so you can make a clearer progression decision."}}]}18:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$25"}}]
-19:["$","section",null,{"className":"acquisition-hero screen","style":{"--acq-hero-image":"url('/marketing/surpass-home.png')"},"children":["$","div",null,{"className":"acquisition-wrap","children":["$","div",null,{"className":"acquisition-hero-copy","children":[["$","p",null,{"className":"acquisition-eyebrow","children":"Gym workout planner for iPhone"}],["$","h1",null,{"children":"Plan the workout. Know the next set."}],["$","p",null,{"children":"Surpass connects your training split, weekly muscle targets, rep ranges, and recent lift history to the workout you are about to run."}],["$","div",null,{"className":"acquisition-actions","children":["$","a",null,{"className":"acquisition-store-link","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_gym_workout_planner&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"seo_gym_workout_planner_hero","data-app-store-placement":"seo_gym_workout_planner_hero","data-app-store-campaign":"seo_gym_workout_planner","data-experiment":"acquisition_hero_cta","data-experiment-variant":"outcome_v1","data-hero-presentation":"screen","children":[["$","span",null,{"aria-hidden":"true","children":""}],["$","span",null,{"children":[["$","small",null,{"children":"Free on the App Store"}],"Start free on iPhone"]}]]}]}],["$","p",null,{"className":"acquisition-store-note","children":"Free to download. No account required. Workout history stays on your iPhone."}]]}]}]}]
-1a:["$","section",null,{"className":"acquisition-section","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"A plan that stays connected to the work."}],["$","p",null,{"children":"Surpass keeps program structure, weekly muscle targets, and recent performance close enough to guide the next session."}]]}],["$","div",null,{"className":"acquisition-benefits","children":[["$","article","Build the routine you actually run",{"className":"acquisition-card","children":[["$","span",null,{"children":1}],["$","h3",null,{"children":"Build the routine you actually run"}],["$","p",null,{"children":"Organize training days, exercises, working sets, rep ranges, rest targets, and RIR without giving up control of your program."}]]}],["$","article","Plan volume by muscle, not just by day",{"className":"acquisition-card","children":[["$","span",null,{"children":2}],["$","h3",null,{"children":"Plan volume by muscle, not just by day"}],["$","p",null,{"children":"Weekly hard-set targets show how the workouts in your split add up across chest, back, shoulders, arms, and legs."}]]}],["$","article","Connect the plan to recent performance",{"className":"acquisition-card","children":[["$","span",null,{"children":3}],["$","h3",null,{"children":"Connect the plan to recent performance"}],["$","p",null,{"children":"The active workout keeps the previous result beside the next load and rep target instead of leaving the plan as a static checklist."}]]}]]}]]}]}]
-1b:["$","section",null,{"className":"acquisition-section soft","children":["$","div",null,{"className":"acquisition-wrap acquisition-flow","children":[["$","img",null,{"className":"acquisition-photo screen","src":"/marketing/surpass-home.png","alt":"Surpass showing a planned Push A workout with target load, rep range, RIR, and previous result","loading":"lazy","decoding":"async"}],["$","div",null,{"children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"Plan, train, and adjust in one loop."}],["$","p",null,{"children":"The routine becomes more useful when the result of each workout is available before the next one starts."}]]}],["$","div",null,{"className":"acquisition-steps","children":[["$","div","Shape the training week",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",1]}],["$","div",null,{"children":[["$","h3",null,{"children":"Shape the training week"}],["$","p",null,{"children":"Choose your days, exercises, working sets, rep ranges, rest targets, and effort targets."}]]}]]}],["$","div","Run the planned workout",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",2]}],["$","div",null,{"children":[["$","h3",null,{"children":"Run the planned workout"}],["$","p",null,{"children":"Open the next session, log weight and reps quickly, and keep the rest timer inside the workout."}]]}]]}],["$","div","Adjust from real results",{"className":"acquisition-step","children":[["$","strong",null,{"children":["0",3]}],["$","div",null,{"children":[["$","h3",null,{"children":"Adjust from real results"}],["$","p",null,{"children":"Use lift history and weekly hard-set totals to repeat, add reps, add load, or revise the next session."}]]}]]}]]}]]}]]}]}]
-1c:["$","section",null,{"className":"acquisition-section","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":[["$","h2",null,{"children":"Move beyond a static exercise checklist."}],["$","p",null,{"children":"A useful gym planner should connect the week you intended to the sets you actually completed."}]]}],["$","div",null,{"className":"acquisition-comparison","role":"table","aria-label":"Static gym planner and Surpass comparison","children":[["$","div",null,{"className":"acquisition-comparison-row acquisition-comparison-head","role":"row","children":[["$","span",null,{"role":"columnheader","children":"Training moment"}],["$","span",null,{"role":"columnheader","children":"Basic log"}],["$","span",null,{"role":"columnheader","children":"Surpass"}]]}],[["$","div","Before the week",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Before the week"}],["$","span",null,{"role":"cell","children":"List exercises under each training day."}],["$","span",null,{"role":"cell","children":"See the split together with weekly hard-set targets by muscle."}]]}],["$","div","Before the set",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"Before the set"}],["$","span",null,{"role":"cell","children":"Read the planned weight and rep range."}],["$","span",null,{"role":"cell","children":"See the plan, previous result, and next target in one view."}]]}],["$","div","After the workout",{"className":"acquisition-comparison-row","role":"row","children":[["$","strong",null,{"role":"cell","children":"After the workout"}],["$","span",null,{"role":"cell","children":"Mark the session complete and reuse the same numbers."}],["$","span",null,{"role":"cell","children":"Carry the logged result into lift history and the next progression decision."}]]}]]]}]]}]}]
-1d:["$","section",null,{"className":"acquisition-section soft","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","div",null,{"className":"acquisition-heading","children":["$","h2",null,{"children":"Questions about planning workouts in Surpass."}]}],["$","div",null,{"className":"acquisition-faq","children":[["$","details","Can I create my own gym routine?",{"children":[["$","summary",null,{"children":"Can I create my own gym routine?"}],["$","p",null,{"children":"Yes. You control the training days, exercises, working sets, rep ranges, rest targets, and effort targets in your plan."}]]}],["$","details","Can I start a workout without building a full plan?",{"children":[["$","summary",null,{"children":"Can I start a workout without building a full plan?"}],["$","p",null,{"children":"Yes. Surpass supports starting a freestyle workout, so you can log the session first and organize a repeatable plan when it is useful."}]]}],["$","details","Does the planner track weekly sets by muscle?",{"children":[["$","summary",null,{"children":"Does the planner track weekly sets by muscle?"}],["$","p",null,{"children":"Yes. Surpass shows completed hard sets and sets left against weekly muscle targets, using the workouts recorded in the app."}]]}],["$","details","Does Surpass automatically replace my program?",{"children":[["$","summary",null,{"children":"Does Surpass automatically replace my program?"}],["$","p",null,{"children":"No. You remain in control of the routine and every exercise. Surpass keeps recent results and target context visible so you can make a clearer progression decision."}]]}]]}],["$","div",null,{"className":"acquisition-related","aria-label":"Related Surpass guides","children":[["$","$L10","/workout-tracker",{"href":"/workout-tracker","children":"Workout tracker for iPhone"}],["$","$L10","/progressive-overload",{"href":"/progressive-overload","children":"Progressive overload app"}],["$","$L10","/tools/workout-split-builder",{"href":"/tools/workout-split-builder","children":"Workout split builder"}],["$","$L10","/tools/weekly-volume-checker",{"href":"/tools/weekly-volume-checker","children":"Weekly volume checker"}]]}]]}]}]
-1e:["$","section",null,{"className":"acquisition-final","children":["$","div",null,{"className":"acquisition-wrap","children":[["$","h2",null,{"children":"Build the week. Run the next set."}],["$","p",null,{"children":"Download Surpass on iPhone to plan training days, log working sets, track weekly muscle targets, and use recent performance in the next workout."}],["$","a",null,{"className":"acquisition-store-link","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_gym_workout_planner&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"seo_gym_workout_planner_final","data-app-store-placement":"seo_gym_workout_planner_final","data-app-store-campaign":"seo_gym_workout_planner","data-experiment":"$undefined","data-experiment-variant":"$undefined","data-hero-presentation":"$undefined","children":[["$","span",null,{"aria-hidden":"true","children":""}],["$","span",null,{"children":[["$","small",null,{"children":"Free on the App Store"}],"Start free on iPhone"]}]]}]]}]}]
-1f:["$","$L26",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
-21:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-24:[["$","title","0",{"children":"Gym Workout Planner for iPhone with Next-Set Targets | Surpass"}],["$","meta","1",{"name":"description","content":"Plan your training split, set rep ranges and weekly muscle targets, log each workout, and use recent performance to guide the next set with Surpass for iPhone."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"gym workout planner,workout planner iPhone,weight lifting planner,gym routine planner,strength training planner"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/gym-workout-planner/"}],["$","meta","8",{"property":"og:title","content":"Gym Workout Planner for iPhone with Next-Set Targets"}],["$","meta","9",{"property":"og:description","content":"Plan the workout, log the result, and carry recent performance into the next load and rep target."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/gym-workout-planner/"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Surpass gym workout planner for iPhone"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Gym Workout Planner for iPhone with Next-Set Targets"}],["$","meta","17",{"name":"twitter:description","content":"Plan the workout, log the result, and carry recent performance into the next load and rep target."}],["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]
-27:null
+13:["$","footer",null,{"style":{"backgroundColor":"#0a0a0a","borderTop":"1px solid #222","color":"#8f897c","padding":"2rem","textAlign":"center"},"children":[["$","div",null,{"style":{"display":"flex","justifyContent":"center","gap":"1rem","flexWrap":"wrap","marginBottom":"0.9rem"},"children":[["$","$L10",null,{"href":"/workout-tracker","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Workout tracker"}],["$","$L10",null,{"href":"/progressive-overload","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Progressive overload"}],["$","$L10",null,{"href":"/hevy-alternative","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Import workout history"}],["$","$L10",null,{"href":"/methodology","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Training methodology"}],["$","$L10",null,{"href":"/blog","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Training Library"}],["$","$L10",null,{"href":"/blog/alternatives-to-rp-hypertrophy-app","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"RP Hypertrophy alternatives"}],["$","$L10",null,{"href":"/support","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Support"}],["$","$L10",null,{"href":"/privacy","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Privacy"}],["$","$L10",null,{"href":"/terms","style":{"color":"#b7b0a3","textDecoration":"none","fontSize":"0.86rem","fontWeight":650},"children":"Terms"}]]}],["$","p",null,{"style":{"margin":0,"fontSize":"0.9rem"},"children":"© 2026 Surpass. Make your next set obvious."}]]}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/3kgmnt-ht47zb.js","async":true,"nonce":"$undefined"}]
+16:["$","$L1c",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:[["$","title","0",{"children":"Gym Workout Planner for iPhone with Next-Set Targets | Surpass"}],["$","meta","1",{"name":"description","content":"Plan your training split, set rep ranges and weekly muscle targets, log each workout, and use recent performance to guide the next set with Surpass for iPhone."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"gym workout planner,workout planner iPhone,weight lifting planner,gym routine planner,strength training planner"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/gym-workout-planner/"}],["$","meta","8",{"property":"og:title","content":"Gym Workout Planner for iPhone with Next-Set Targets"}],["$","meta","9",{"property":"og:description","content":"Plan the workout, log the result, and carry recent performance into the next load and rep target."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/gym-workout-planner/"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Surpass gym workout planner for iPhone"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Gym Workout Planner for iPhone with Next-Set Targets"}],["$","meta","17",{"name":"twitter:description","content":"Plan the workout, log the result, and carry recent performance into the next load and rep target."}],["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]
+1d:null
