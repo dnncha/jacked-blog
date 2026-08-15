@@ -46,6 +46,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jacked.coach/import-workout-history</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://jacked.coach/hypertrophy-app</loc>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
