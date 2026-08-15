@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:T20f9,
+2:T2110,
         :root {
           --acq-gold: #f5b935;
           --acq-gold-bright: #ffd46a;
@@ -35,8 +35,8 @@
 
         .acquisition-hero.screen {
           background:
-            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.94) 46%, rgba(3,3,3,0.42) 70%, rgba(3,3,3,0.12) 100%),
-            linear-gradient(180deg, transparent 70%, #050505 100%),
+            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.9) 46%, rgba(3,3,3,0.22) 72%, rgba(3,3,3,0.04) 100%),
+            linear-gradient(180deg, transparent 64%, #050505 100%),
             var(--acq-hero-image) calc(100% - 8vw) center / auto 82% no-repeat,
             #050505;
         }
@@ -190,11 +190,11 @@
           .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
           .acquisition-comparison-head > *:first-child { display: none; }
           .acquisition-hero.screen {
-            min-height: 850px;
+            min-height: 1040px;
             align-items: start;
             background:
-              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 44%, rgba(3,3,3,0.2) 72%, #050505 100%),
-              var(--acq-hero-image) center calc(100% - 18px) / auto 52% no-repeat,
+              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 42%, rgba(3,3,3,0.18) 60%, rgba(3,3,3,0.04) 82%, #050505 100%),
+              var(--acq-hero-image) center calc(100% - 18px) / auto 42% no-repeat,
               #050505;
           }
           .acquisition-hero.screen .acquisition-hero-copy { padding: 56px 0 430px; }
@@ -202,7 +202,7 @@
       c:X
 11:X
 11:C
-0:{"buildId":"okKIAkd-ygKKRCtKct0sI","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],null,"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+0:{"buildId":"2Z9jmfYVHcuarN_qL8ysK","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],null,"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
 14:I[22016,["/_next/static/chunks/2wqju1kuyvcpv.js"],""]
 15:I[97367,["/_next/static/chunks/2wqju1kuyvcpv.js"],"OutletBoundary"]
 16:"$Sreact.suspense"
