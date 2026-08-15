@@ -5,7 +5,7 @@
     <link>https://jacked.coach</link>
     <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Surpass.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 23:49:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:22:48 GMT</lastBuildDate>
     <atom:link href="https://jacked.coach/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -193,22 +193,6 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Beta-Ecdysterone for Muscle Growth: The Complete Guide]]></title>
-      <link>https://jacked.coach/blog/beta-ecdysterone-muscle-growth</link>
-      <guid>https://jacked.coach/blog/beta-ecdysterone-muscle-growth</guid>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Does ecdysterone actually work? The science behind this controversial supplement.]]></description>
-      <category>General</category>
-    </item>
-    <item>
-      <title><![CDATA[Creatine Loading Phase: Necessary or Not?]]></title>
-      <link>https://jacked.coach/blog/creatine-loading-phase-necessary</link>
-      <guid>https://jacked.coach/blog/creatine-loading-phase-necessary</guid>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The science behind creatine loading - is it actually necessary?]]></description>
-      <category>General</category>
-    </item>
-    <item>
       <title><![CDATA[Vitamin K2 for Strength Athletes: The Forgotten Nutrient for Bone Strength and Recovery]]></title>
       <link>https://jacked.coach/blog/vitamin-k2-strength-athletes-bone-health</link>
       <guid>https://jacked.coach/blog/vitamin-k2-strength-athletes-bone-health</guid>
@@ -393,19 +377,35 @@
       <category>General</category>
     </item>
     <item>
-      <title><![CDATA[Gut Microbiome and Muscle Building: What Lifters Need to Know]]></title>
-      <link>https://jacked.coach/blog/gut-microbiome-muscle-building-probiotics-2026</link>
-      <guid>https://jacked.coach/blog/gut-microbiome-muscle-building-probiotics-2026</guid>
-      
-      <description><![CDATA[New research reveals the powerful connection between your gut microbiome and muscle protein synthesis. Could probiotics be the next supplement in your stack?]]></description>
-      <category>General</category>
-    </item>
-    <item>
       <title><![CDATA[Heat Shock Proteins: The New Frontier in Muscle Growth Science]]></title>
       <link>https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026</link>
       <guid>https://jacked.coach/blog/heat-shock-proteins-muscle-growth-2026</guid>
       
       <description><![CDATA[How heat exposure triggers cellular protection mechanisms that may revolutionize muscle building protocols.]]></description>
+      <category>General</category>
+    </item>
+    <item>
+      <title><![CDATA[Heat Training for Muscle Growth: The Science of Heat Acclimation and Hypertrophy]]></title>
+      <link>https://jacked.coach/blog/heat-training-muscle-growth-science-2026</link>
+      <guid>https://jacked.coach/blog/heat-training-muscle-growth-science-2026</guid>
+      
+      <description><![CDATA[New research reveals that strategic heat exposure before or during training can enhance muscle growth, improve performance, and accelerate adaptations. Here's how to use heat training safely.]]></description>
+      <category>General</category>
+    </item>
+    <item>
+      <title><![CDATA[HMB Supplementation: Does Beta-Hydroxy Beta-Methylbutyrate Actually Work for Muscle Building?]]></title>
+      <link>https://jacked.coach/blog/hmb-supplementation-muscle-building-2026</link>
+      <guid>https://jacked.coach/blog/hmb-supplementation-muscle-building-2026</guid>
+      
+      <description><![CDATA[HMB has been marketed as a powerful muscle-building supplement for decades. But what does the latest 2025-2026 research actually say about its effectiveness for lifters?]]></description>
+      <category>General</category>
+    </item>
+    <item>
+      <title><![CDATA[Heart Rate Variability: The Science of Training by Your Nervous System]]></title>
+      <link>https://jacked.coach/blog/hrv-training-optimization-science-2026</link>
+      <guid>https://jacked.coach/blog/hrv-training-optimization-science-2026</guid>
+      
+      <description><![CDATA[HRV is emerging as the most objective way to gauge recovery and readiness. Recent research shows HRV-guided training improves performance while reducing overtraining risk.]]></description>
       <category>General</category>
     </item>
   </channel>
