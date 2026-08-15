@@ -202,14 +202,14 @@
       f:X
 14:X
 14:C
-0:{"buildId":"ghqp7_FpH8lgSG8sIXKqN","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],null,"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
-18:I[22016,["/_next/static/chunks/2wqju1kuyvcpv.js"],""]
-19:I[97367,["/_next/static/chunks/2wqju1kuyvcpv.js"],"OutletBoundary"]
+0:{"buildId":"4vugFI5qunkzWeu4jMUfY","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"acquisition-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],null,"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+18:I[22016,["/_next/static/chunks/1okxf_g39y8o-.js"],""]
+19:I[97367,["/_next/static/chunks/1okxf_g39y8o-.js"],"OutletBoundary"]
 1a:"$Sreact.suspense"
-1c:I[97367,["/_next/static/chunks/2wqju1kuyvcpv.js"],"ViewportBoundary"]
-1d:I[97367,["/_next/static/chunks/2wqju1kuyvcpv.js"],"MetadataBoundary"]
-1e:I[39756,["/_next/static/chunks/2wqju1kuyvcpv.js"],"default"]
-1f:I[37457,["/_next/static/chunks/2wqju1kuyvcpv.js"],"default"]
+1c:I[97367,["/_next/static/chunks/1okxf_g39y8o-.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/1okxf_g39y8o-.js"],"MetadataBoundary"]
+1e:I[39756,["/_next/static/chunks/1okxf_g39y8o-.js"],"default"]
+1f:I[37457,["/_next/static/chunks/1okxf_g39y8o-.js"],"default"]
 :HL["/marketing/surpass-home.png","image",{"fetchPriority":"high"}]
 3:["$","link",null,{"rel":"preload","as":"image","href":"/marketing/surpass-home.png","fetchPriority":"high","precedence":"default"}]
 4:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Leave Strong without leaving your history behind.\",\"description\":\"Export Strong Data, review the supported CSV in Surpass, then continue training with your workout history available for lift progress and next-set targets.\",\"url\":\"https://jacked.coach/strong-alternative\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"Surpass\",\"url\":\"https://jacked.coach\"},\"about\":{\"@type\":\"SoftwareApplication\",\"name\":\"Surpass\",\"operatingSystem\":\"iOS\",\"applicationCategory\":\"HealthApplication\"}}"}}]
