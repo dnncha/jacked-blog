@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:Tb04,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#webpage","url":"https://jacked.coach/blog/auto-progression-feature-muscle-growth","name":"Auto-Progression: Turn Workout History Into a Next-Set Plan","description":"Auto-progression turns recent workout performance into a practical next-set plan, helping you train with less guesswork and a clearer progression path.","breadcrumb":{"@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#webpage"},"headline":"Auto-Progression: Turn Workout History Into a Next-Set Plan","description":"Auto-progression turns recent workout performance into a practical next-set plan, helping you train with less guesswork and a clearer progression path.","datePublished":"2026-03-04","dateModified":"2026-03-04","isAccessibleForFree":true,"wordCount":285,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Surpass","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Surpass","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout CSV Validator","url":"https://jacked.coach/tools/workout-csv-validator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Auto-Progression: Turn Workout History Into a Next-Set Plan","item":"https://jacked.coach/blog/auto-progression-feature-muscle-growth"}]}]}3:Te64,
+2:Tb04,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#webpage","url":"https://jacked.coach/blog/auto-progression-feature-muscle-growth","name":"Auto-Progression: Turn Workout History Into a Next-Set Plan","description":"Auto-progression turns recent workout performance into a practical next-set plan, helping you train with less guesswork and a clearer progression path.","breadcrumb":{"@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#webpage"},"headline":"Auto-Progression: Turn Workout History Into a Next-Set Plan","description":"Auto-progression turns recent workout performance into a practical next-set plan, helping you train with less guesswork and a clearer progression path.","datePublished":"2026-03-04","dateModified":"2026-03-04","isAccessibleForFree":true,"wordCount":285,"articleSection":"General","about":["hypertrophy training","progressive overload","workout tracking","General"],"author":{"@type":"Organization","name":"Surpass","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Surpass","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Workout CSV Validator","url":"https://jacked.coach/tools/workout-csv-validator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/auto-progression-feature-muscle-growth#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Auto-Progression: Turn Workout History Into a Next-Set Plan","item":"https://jacked.coach/blog/auto-progression-feature-muscle-growth"}]}]}3:T1346,
         body { background: #000000 !important; }
         .diagram {
           margin: 2rem 0;
@@ -146,10 +146,48 @@
           font-weight: 720;
           text-decoration: none;
         }
+        .article-inline-cta {
+          margin: 2.25rem 0;
+          padding: 1.35rem 1.45rem 1.5rem;
+          border: 1px solid rgba(226, 201, 95, 0.42);
+          border-radius: 14px;
+          background: linear-gradient(135deg, rgba(226, 201, 95, 0.14), rgba(16, 16, 15, 0.96) 58%);
+        }
+        .article-inline-cta-eyebrow {
+          margin: 0 0 0.45rem !important;
+          color: #d9c26c !important;
+          font-size: 0.72rem;
+          font-weight: 800;
+          letter-spacing: 0.13em;
+        }
+        article .article-inline-cta h2 {
+          margin: 0 0 0.55rem;
+          padding-left: 0;
+          border-left: 0;
+          color: #f7f2e8;
+          font-size: clamp(1.25rem, 3vw, 1.65rem);
+        }
+        .article-inline-cta p:not(.article-inline-cta-eyebrow) {
+          max-width: 39rem;
+          margin: 0 0 1rem !important;
+          color: #c8c1b6 !important;
+          line-height: 1.6;
+        }
+        .article-inline-cta a {
+          display: inline-flex;
+          align-items: center;
+          min-height: 44px;
+          padding: 0.65rem 0.95rem;
+          border-radius: 9px;
+          background: #e2c95f;
+          color: #111;
+          font-weight: 800;
+          text-decoration: none;
+        }
       e:X
 13:X
 13:C
-0:{"buildId":"4ChbkomGC2KNczPshbnvt","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[null,["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+0:{"buildId":"6jCBitZ1hGNa_O3xzUWTV","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[null,["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
 18:I[22016,["/_next/static/chunks/3dftt5yvbod3r.js"],""]
 1a:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"OutletBoundary"]
 1b:"$Sreact.suspense"
