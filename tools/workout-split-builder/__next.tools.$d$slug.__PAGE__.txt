@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:T315f,
+2:T335a,
       .tools-page {
         background: #050505;
         color: #f2eee4;
@@ -193,6 +193,25 @@
         top: 88px;
         padding: 20px;
       }
+      .tool-result-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 10px;
+      }
+      .tool-result-cta {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 0 14px;
+        font-size: 0.84rem;
+        grid-column: auto;
+      }
+      .tool-result-handoff {
+        margin: 0 0 12px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
       .tool-result-card h2 {
         margin: 8px 0 12px;
         color: #e2c95f;
@@ -222,11 +241,6 @@
       .tool-result-line strong {
         color: #f7f2e8;
         text-align: right;
-      }
-      .tool-app-copy {
-        margin-top: 18px;
-        color: #f7f2e8 !important;
-        font-weight: 700;
       }
       .tool-result-actions {
         display: flex;
@@ -495,6 +509,13 @@
         .tool-result-card {
           position: static;
         }
+        .tool-result-head {
+          align-items: stretch;
+          flex-direction: column;
+        }
+        .tool-result-cta {
+          width: 100%;
+        }
         .split-exercise-row {
           grid-template-columns: minmax(0, 1fr) auto;
         }
@@ -511,23 +532,23 @@
     d:X
 12:X
 12:C
-0:{"buildId":"pZ79a8u3Ocnk3bKApFIX5","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
-17:I[24954,["/_next/static/chunks/1n5usjw8qhinf.js","/_next/static/chunks/2czjn_8f7y79u.js"],"default"]
-18:I[22016,["/_next/static/chunks/1n5usjw8qhinf.js","/_next/static/chunks/2czjn_8f7y79u.js"],""]
-19:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"OutletBoundary"]
+0:{"buildId":"Hdso36IPEnqlv0LGu93ny","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[24954,["/_next/static/chunks/3dftt5yvbod3r.js","/_next/static/chunks/2_lw7cy7hmi8p.js"],"default"]
+18:I[22016,["/_next/static/chunks/3dftt5yvbod3r.js","/_next/static/chunks/2_lw7cy7hmi8p.js"],""]
+19:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"OutletBoundary"]
 1a:"$Sreact.suspense"
-1c:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"ViewportBoundary"]
-1d:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"MetadataBoundary"]
-1e:I[39756,["/_next/static/chunks/1n5usjw8qhinf.js"],"default"]
-1f:I[37457,["/_next/static/chunks/1n5usjw8qhinf.js"],"default"]
+1c:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"MetadataBoundary"]
+1e:I[39756,["/_next/static/chunks/3dftt5yvbod3r.js"],"default"]
+1f:I[37457,["/_next/static/chunks/3dftt5yvbod3r.js"],"default"]
 3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"name\":\"Workout Split Builder for Strength and Hypertrophy\",\"description\":\"Build a practical workout split from your training days, goal, equipment, and session length.\",\"url\":\"https://jacked.coach/tools/workout-split-builder\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://jacked.coach/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://jacked.coach/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Workout Split Builder\",\"item\":\"https://jacked.coach/tools/workout-split-builder\"}]}},{\"@type\":\"WebApplication\",\"name\":\"Workout Split Builder\",\"description\":\"Build a practical workout split from your training days, goal, equipment, and session length.\",\"applicationCategory\":\"HealthApplication\",\"operatingSystem\":\"Web\",\"url\":\"https://jacked.coach/tools/workout-split-builder\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}]}"}}]
 4:["$","section",null,{"className":"tools-wrap tools-hero","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Workout Split Builder"}],["$","p",null,{"children":[["$","strong",null,{"children":"Build a practical split from your constraints."}]," ","Pick days, goal, equipment, session length, experience, and muscle focus. Get a split you can run inside Surpass."]}]]}],["$","div",null,{"className":"tools-signal","children":"Log the set in Surpass and the next target stays with the workout."}]]}]
 5:["$","section",null,{"className":"tools-wrap","children":["$","$L17",null,{"tool":{"slug":"workout-split-builder","type":"split","name":"Workout Split Builder","title":"Workout Split Builder for Strength and Hypertrophy","metaDescription":"Build a practical workout split from your training days, goal, equipment, and session length.","h1":"Workout Split Builder","promise":"Build a practical split from your constraints.","intro":"Pick days, goal, equipment, session length, experience, and muscle focus. Get a split you can run inside Surpass.","primaryKeyword":"workout split builder","campaign":"workout_split_builder","defaults":{"days":4,"goal":"hypertrophy","sessionLength":"60","equipment":"commercial gym","experience":"intermediate","focus":"chest"},"sections":[["How the split builder works","The builder chooses a split that fits your number of training days, then builds each training day with exercises, sets, reps, rest targets, weekly volume, equipment, and focus muscle adjustments."],["Why session length matters","A 45-minute session needs fewer exercises and cleaner priorities than a 75-minute session, so the builder trims accessories before it cuts the main work."],["Best split by training days","Two to three days usually favors full body. Four days usually fits upper/lower. Five to six days can support hybrid or push/pull/legs splits."],["Common mistakes","Do not pick a split because it looks advanced. Pick the split you can recover from and repeat."]],"examples":["4 days, hypertrophy, commercial gym: Upper / Lower with each major muscle trained twice weekly.","3 days, 45 minutes: Full body beats a cramped body-part split for most lifters."],"faqs":[["What is the best workout split?","The best split is the one that fits your schedule, recovery, equipment, and target muscles."],["Can I build a PPL split?","Yes. Six training days defaults toward push/pull/legs."]],"related":["weekly-volume-checker","exercise-swap-finder","smart-warm-up-calculator"]}}]}]
 6:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"className":"copy-list","children":[["$","article",null,{"children":[["$","h2",null,{"children":"How to read the result"}],["$","p",null,{"children":["Build a practical split from your constraints."," The notes below show the assumptions behind that recommendation."]}]]}],[["$","article","How the split builder works",{"children":[["$","h2",null,{"children":"How the split builder works"}],["$","p",null,{"children":"The builder chooses a split that fits your number of training days, then builds each training day with exercises, sets, reps, rest targets, weekly volume, equipment, and focus muscle adjustments."}]]}],["$","article","Why session length matters",{"children":[["$","h2",null,{"children":"Why session length matters"}],["$","p",null,{"children":"A 45-minute session needs fewer exercises and cleaner priorities than a 75-minute session, so the builder trims accessories before it cuts the main work."}]]}],["$","article","Best split by training days",{"children":[["$","h2",null,{"children":"Best split by training days"}],["$","p",null,{"children":"Two to three days usually favors full body. Four days usually fits upper/lower. Five to six days can support hybrid or push/pull/legs splits."}]]}],["$","article","Common mistakes",{"children":[["$","h2",null,{"children":"Common mistakes"}],["$","p",null,{"children":"Do not pick a split because it looks advanced. Pick the split you can recover from and repeat."}]]}]]]}],["$","aside",null,{"children":[["$","h2",null,{"children":"Examples"}],["$","ul",null,{"children":[["$","li","4 days, hypertrophy, commercial gym: Upper / Lower with each major muscle trained twice weekly.",{"children":"4 days, hypertrophy, commercial gym: Upper / Lower with each major muscle trained twice weekly."}],["$","li","3 days, 45 minutes: Full body beats a cramped body-part split for most lifters.",{"children":"3 days, 45 minutes: Full body beats a cramped body-part split for most lifters."}]]}],["$","h2",null,{"style":{"marginTop":"28px"},"children":"Related tools"}],["$","div",null,{"className":"related-tools","children":[["$","$L18","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$L18","exercise-swap-finder",{"href":"/tools/exercise-swap-finder","data-related-tool":"exercise-swap-finder","children":"Exercise Swap Finder"}],["$","$L18","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]]}]}]
 7:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Short answers"}],[["$","article","What is the best workout split?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"What is the best workout split?"}],["$","p",null,{"children":"The best split is the one that fits your schedule, recovery, equipment, and target muscles."}]]}],["$","article","Can I build a PPL split?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Can I build a PPL split?"}],["$","p",null,{"children":"Yes. Six training days defaults toward push/pull/legs."}]]}]]]}],["$","div",null,{"className":"tools-signal","children":"Surpass turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback."}]]}]}]
 8:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Method, assumptions, and privacy"}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Method"}],["$","p",null,{"children":"Chooses a split from days per week first, then adjusts for goal, session length, equipment, experience, and muscle focus."}]]}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Assumptions"}],["$","p",null,{"children":"The best split is the one you can repeat and recover from; advanced-looking splits are not automatically better."}]]}],["$","article",null,{"children":[["$","h3",null,{"children":"Privacy"}],["$","p",null,{"children":"Inputs are handled in the browser for the web tool experience. Surpass should only store lifting data when a user chooses to log it in the app."}]]}]]}],["$","div",null,{"className":"tools-signal","children":"Check the method before you trust the number. Bad inputs still produce tidy-looking outputs."}]]}]}]
-9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=workout_split_builder&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_workout-split-builder","children":"Download Surpass for iPhone"}]]}]}]
-a:["$","script","script-0",{"src":"/_next/static/chunks/2czjn_8f7y79u.js","async":true}]
+9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=workout_split_builder&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_workout_split_builder_final","data-app-store-placement":"tools_workout_split_builder_final","children":"Start free on iPhone"}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/2_lw7cy7hmi8p.js","async":true}]
 b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
 e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Workout Split Builder for Strength and Hypertrophy | Surpass"}],["$","meta","1",{"name":"description","content":"Build a practical workout split from your training days, goal, equipment, and session length."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"strength training app,hypertrophy tracker,workout planner,progressive overload app,visible muscle,workout receipts,weekly muscle targets,Hevy import"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/tools/workout-split-builder/"}],["$","meta","8",{"property":"og:title","content":"Workout Split Builder for Strength and Hypertrophy"}],["$","meta","9",{"property":"og:description","content":"Build a practical workout split from your training days, goal, equipment, and session length."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/tools/workout-split-builder/"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/tools/workout-split-builder/social.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Workout Split Builder | Surpass"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Workout Split Builder for Strength and Hypertrophy"}],["$","meta","17",{"name":"twitter:description","content":"Build a practical workout split from your training days, goal, equipment, and session length."}],["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/tools/workout-split-builder/social.png"}]]}]}]}],null]}]
 10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]

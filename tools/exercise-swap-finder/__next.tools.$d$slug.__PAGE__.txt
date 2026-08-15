@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:T315f,
+2:T335a,
       .tools-page {
         background: #050505;
         color: #f2eee4;
@@ -193,6 +193,25 @@
         top: 88px;
         padding: 20px;
       }
+      .tool-result-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 10px;
+      }
+      .tool-result-cta {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 0 14px;
+        font-size: 0.84rem;
+        grid-column: auto;
+      }
+      .tool-result-handoff {
+        margin: 0 0 12px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
       .tool-result-card h2 {
         margin: 8px 0 12px;
         color: #e2c95f;
@@ -222,11 +241,6 @@
       .tool-result-line strong {
         color: #f7f2e8;
         text-align: right;
-      }
-      .tool-app-copy {
-        margin-top: 18px;
-        color: #f7f2e8 !important;
-        font-weight: 700;
       }
       .tool-result-actions {
         display: flex;
@@ -495,6 +509,13 @@
         .tool-result-card {
           position: static;
         }
+        .tool-result-head {
+          align-items: stretch;
+          flex-direction: column;
+        }
+        .tool-result-cta {
+          width: 100%;
+        }
         .split-exercise-row {
           grid-template-columns: minmax(0, 1fr) auto;
         }
@@ -511,23 +532,23 @@
     d:X
 12:X
 12:C
-0:{"buildId":"pZ79a8u3Ocnk3bKApFIX5","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
-17:I[24954,["/_next/static/chunks/1n5usjw8qhinf.js","/_next/static/chunks/2czjn_8f7y79u.js"],"default"]
-18:I[22016,["/_next/static/chunks/1n5usjw8qhinf.js","/_next/static/chunks/2czjn_8f7y79u.js"],""]
-19:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"OutletBoundary"]
+0:{"buildId":"Hdso36IPEnqlv0LGu93ny","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[24954,["/_next/static/chunks/3dftt5yvbod3r.js","/_next/static/chunks/2_lw7cy7hmi8p.js"],"default"]
+18:I[22016,["/_next/static/chunks/3dftt5yvbod3r.js","/_next/static/chunks/2_lw7cy7hmi8p.js"],""]
+19:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"OutletBoundary"]
 1a:"$Sreact.suspense"
-1c:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"ViewportBoundary"]
-1d:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"MetadataBoundary"]
-1e:I[39756,["/_next/static/chunks/1n5usjw8qhinf.js"],"default"]
-1f:I[37457,["/_next/static/chunks/1n5usjw8qhinf.js"],"default"]
+1c:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"MetadataBoundary"]
+1e:I[39756,["/_next/static/chunks/3dftt5yvbod3r.js"],"default"]
+1f:I[37457,["/_next/static/chunks/3dftt5yvbod3r.js"],"default"]
 3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"name\":\"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus\",\"description\":\"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.\",\"url\":\"https://jacked.coach/tools/exercise-swap-finder\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://jacked.coach/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://jacked.coach/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Exercise Swap Finder\",\"item\":\"https://jacked.coach/tools/exercise-swap-finder\"}]}},{\"@type\":\"WebApplication\",\"name\":\"Exercise Swap Finder\",\"description\":\"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.\",\"applicationCategory\":\"HealthApplication\",\"operatingSystem\":\"Web\",\"url\":\"https://jacked.coach/tools/exercise-swap-finder\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}]}"}}]
 4:["$","section",null,{"className":"tools-wrap tools-hero","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Exercise Swap Finder"}],["$","p",null,{"children":[["$","strong",null,{"children":"Replace an exercise without losing the training intent."}]," ","Most alternative lists are static. Surpass ranks swaps by why you need the swap: equipment, joint comfort, fatigue, or preference."]}]]}],["$","div",null,{"className":"tools-signal","children":"Log the set in Surpass and the next target stays with the workout."}]]}]
 5:["$","section",null,{"className":"tools-wrap","children":["$","$L17",null,{"tool":{"slug":"exercise-swap-finder","type":"swaps","name":"Exercise Swap Finder","title":"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus","metaDescription":"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.","h1":"Exercise Swap Finder","promise":"Replace an exercise without losing the training intent.","intro":"Most alternative lists are static. Surpass ranks swaps by why you need the swap: equipment, joint comfort, fatigue, or preference.","primaryKeyword":"exercise alternatives","campaign":"exercise_swap_finder","defaults":{"exercise":"barbell back squat","reason":"too much fatigue","equipment":"commercial gym","goal":"less fatigue"},"sections":[["How the swap finder works","The tool starts with the original exercise, then ranks alternatives by target muscle, movement pattern, fatigue cost, equipment, and reason for swapping."],["Swap the exercise, not the goal","A good swap keeps the target muscle and effort close unless pain, equipment, or fatigue forces a bigger change."],["When to use a lower-fatigue swap","Use lower-fatigue options when the target muscle needs work but the original lift is creating too much systemic or joint cost."],["Common mistakes","Do not replace a hard compound with a random easy movement and expect the same stimulus. Match the intent."]],"examples":["Replace barbell back squat with leg press when you want similar quad stimulus and less axial fatigue.","Replace bench press with dumbbell bench press when shoulder comfort is the reason for the swap."],"faqs":[["What is a good squat alternative?","Leg press, hack squat, front squat, and heel-elevated goblet squat can all work depending on equipment and reason."],["Should I swap exercises often?","Swap when there is a clear reason. Too much random variation makes progression harder to read."]],"related":["workout-split-builder","weekly-volume-checker","next-set-calculator"]}}]}]
 6:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"className":"copy-list","children":[["$","article",null,{"children":[["$","h2",null,{"children":"How to read the result"}],["$","p",null,{"children":["Replace an exercise without losing the training intent."," The notes below show the assumptions behind that recommendation."]}]]}],[["$","article","How the swap finder works",{"children":[["$","h2",null,{"children":"How the swap finder works"}],["$","p",null,{"children":"The tool starts with the original exercise, then ranks alternatives by target muscle, movement pattern, fatigue cost, equipment, and reason for swapping."}]]}],["$","article","Swap the exercise, not the goal",{"children":[["$","h2",null,{"children":"Swap the exercise, not the goal"}],["$","p",null,{"children":"A good swap keeps the target muscle and effort close unless pain, equipment, or fatigue forces a bigger change."}]]}],["$","article","When to use a lower-fatigue swap",{"children":[["$","h2",null,{"children":"When to use a lower-fatigue swap"}],["$","p",null,{"children":"Use lower-fatigue options when the target muscle needs work but the original lift is creating too much systemic or joint cost."}]]}],["$","article","Common mistakes",{"children":[["$","h2",null,{"children":"Common mistakes"}],["$","p",null,{"children":"Do not replace a hard compound with a random easy movement and expect the same stimulus. Match the intent."}]]}]]]}],["$","aside",null,{"children":[["$","h2",null,{"children":"Examples"}],["$","ul",null,{"children":[["$","li","Replace barbell back squat with leg press when you want similar quad stimulus and less axial fatigue.",{"children":"Replace barbell back squat with leg press when you want similar quad stimulus and less axial fatigue."}],["$","li","Replace bench press with dumbbell bench press when shoulder comfort is the reason for the swap.",{"children":"Replace bench press with dumbbell bench press when shoulder comfort is the reason for the swap."}]]}],["$","h2",null,{"style":{"marginTop":"28px"},"children":"Related tools"}],["$","div",null,{"className":"related-tools","children":[["$","$L18","workout-split-builder",{"href":"/tools/workout-split-builder","data-related-tool":"workout-split-builder","children":"Workout Split Builder"}],["$","$L18","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$L18","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}]]}]]}]]}]}]
 7:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Short answers"}],[["$","article","What is a good squat alternative?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"What is a good squat alternative?"}],["$","p",null,{"children":"Leg press, hack squat, front squat, and heel-elevated goblet squat can all work depending on equipment and reason."}]]}],["$","article","Should I swap exercises often?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Should I swap exercises often?"}],["$","p",null,{"children":"Swap when there is a clear reason. Too much random variation makes progression harder to read."}]]}]]]}],["$","div",null,{"className":"tools-signal","children":"Surpass turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback."}]]}]}]
 8:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Method, assumptions, and privacy"}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Method"}],["$","p",null,{"children":"Ranks alternatives by target muscle, equipment, fatigue cost, movement similarity, and the reason for replacing the exercise."}]]}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Assumptions"}],["$","p",null,{"children":"A good swap preserves the training intent unless pain or equipment forces a larger change."}]]}],["$","article",null,{"children":[["$","h3",null,{"children":"Privacy"}],["$","p",null,{"children":"Inputs are handled in the browser for the web tool experience. Surpass should only store lifting data when a user chooses to log it in the app."}]]}]]}],["$","div",null,{"className":"tools-signal","children":"Check the method before you trust the number. Bad inputs still produce tidy-looking outputs."}]]}]}]
-9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=exercise_swap_finder&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_exercise-swap-finder","children":"Download Surpass for iPhone"}]]}]}]
-a:["$","script","script-0",{"src":"/_next/static/chunks/2czjn_8f7y79u.js","async":true}]
+9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=exercise_swap_finder&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_exercise_swap_finder_final","data-app-store-placement":"tools_exercise_swap_finder_final","children":"Start free on iPhone"}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/2_lw7cy7hmi8p.js","async":true}]
 b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
 e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus | Surpass"}],["$","meta","1",{"name":"description","content":"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"strength training app,hypertrophy tracker,workout planner,progressive overload app,visible muscle,workout receipts,weekly muscle targets,Hevy import"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/tools/exercise-swap-finder/"}],["$","meta","8",{"property":"og:title","content":"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus"}],["$","meta","9",{"property":"og:description","content":"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/tools/exercise-swap-finder/"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/tools/exercise-swap-finder/social.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Exercise Swap Finder | Surpass"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Exercise Swap Finder: Replace an Exercise Without Losing the Stimulus"}],["$","meta","17",{"name":"twitter:description","content":"Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal."}],["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/tools/exercise-swap-finder/social.png"}]]}]}]}],null]}]
 10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]

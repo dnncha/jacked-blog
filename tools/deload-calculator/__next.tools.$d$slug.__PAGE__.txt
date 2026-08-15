@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:T315f,
+2:T335a,
       .tools-page {
         background: #050505;
         color: #f2eee4;
@@ -193,6 +193,25 @@
         top: 88px;
         padding: 20px;
       }
+      .tool-result-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 10px;
+      }
+      .tool-result-cta {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 0 14px;
+        font-size: 0.84rem;
+        grid-column: auto;
+      }
+      .tool-result-handoff {
+        margin: 0 0 12px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
       .tool-result-card h2 {
         margin: 8px 0 12px;
         color: #e2c95f;
@@ -222,11 +241,6 @@
       .tool-result-line strong {
         color: #f7f2e8;
         text-align: right;
-      }
-      .tool-app-copy {
-        margin-top: 18px;
-        color: #f7f2e8 !important;
-        font-weight: 700;
       }
       .tool-result-actions {
         display: flex;
@@ -495,6 +509,13 @@
         .tool-result-card {
           position: static;
         }
+        .tool-result-head {
+          align-items: stretch;
+          flex-direction: column;
+        }
+        .tool-result-cta {
+          width: 100%;
+        }
         .split-exercise-row {
           grid-template-columns: minmax(0, 1fr) auto;
         }
@@ -511,23 +532,23 @@
     d:X
 12:X
 12:C
-0:{"buildId":"pZ79a8u3Ocnk3bKApFIX5","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
-17:I[24954,["/_next/static/chunks/1n5usjw8qhinf.js","/_next/static/chunks/2czjn_8f7y79u.js"],"default"]
-18:I[22016,["/_next/static/chunks/1n5usjw8qhinf.js","/_next/static/chunks/2czjn_8f7y79u.js"],""]
-19:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"OutletBoundary"]
+0:{"buildId":"Hdso36IPEnqlv0LGu93ny","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[24954,["/_next/static/chunks/3dftt5yvbod3r.js","/_next/static/chunks/2_lw7cy7hmi8p.js"],"default"]
+18:I[22016,["/_next/static/chunks/3dftt5yvbod3r.js","/_next/static/chunks/2_lw7cy7hmi8p.js"],""]
+19:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"OutletBoundary"]
 1a:"$Sreact.suspense"
-1c:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"ViewportBoundary"]
-1d:I[97367,["/_next/static/chunks/1n5usjw8qhinf.js"],"MetadataBoundary"]
-1e:I[39756,["/_next/static/chunks/1n5usjw8qhinf.js"],"default"]
-1f:I[37457,["/_next/static/chunks/1n5usjw8qhinf.js"],"default"]
+1c:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/3dftt5yvbod3r.js"],"MetadataBoundary"]
+1e:I[39756,["/_next/static/chunks/3dftt5yvbod3r.js"],"default"]
+1f:I[37457,["/_next/static/chunks/3dftt5yvbod3r.js"],"default"]
 3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"name\":\"Deload Calculator: Should You Train, Reduce Volume, or Deload?\",\"description\":\"Answer a few training questions and get a practical recommendation: train normally, reduce volume, or deload.\",\"url\":\"https://jacked.coach/tools/deload-calculator\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://jacked.coach/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tools\",\"item\":\"https://jacked.coach/tools\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Deload Calculator\",\"item\":\"https://jacked.coach/tools/deload-calculator\"}]}},{\"@type\":\"WebApplication\",\"name\":\"Deload Calculator\",\"description\":\"Answer a few training questions and get a practical recommendation: train normally, reduce volume, or deload.\",\"applicationCategory\":\"HealthApplication\",\"operatingSystem\":\"Web\",\"url\":\"https://jacked.coach/tools/deload-calculator\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}]}"}}]
 4:["$","section",null,{"className":"tools-wrap tools-hero","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Deload Calculator"}],["$","p",null,{"children":[["$","strong",null,{"children":"Decide whether to train, reduce volume, or deload."}]," ","Use recent performance, missed targets, soreness, joint discomfort, sleep, motivation, and stress to get a practical training decision."]}]]}],["$","div",null,{"className":"tools-signal","children":"Log the set in Surpass and the next target stays with the workout."}]]}]
 5:["$","section",null,{"className":"tools-wrap","children":["$","$L17",null,{"tool":{"slug":"deload-calculator","type":"deload","name":"Deload Calculator","title":"Deload Calculator: Should You Train, Reduce Volume, or Deload?","metaDescription":"Answer a few training questions and get a practical recommendation: train normally, reduce volume, or deload.","h1":"Deload Calculator","promise":"Decide whether to train, reduce volume, or deload.","intro":"Use recent performance, missed targets, soreness, joint discomfort, sleep, motivation, and stress to get a practical training decision.","primaryKeyword":"do I need a deload","campaign":"deload_calculator","defaults":{"weeksSinceDeload":6,"performance":"flat","missedTargets":"2+ workouts","soreness":"high","jointDiscomfort":"none","sleep":"normal","motivation":"normal","stress":"normal"},"sections":[["How the deload calculator works","The tool scores recent fatigue signals. Stronger performance drops, repeated missed targets, poor sleep, high stress, and joint discomfort push the recommendation toward reducing work."],["When to train normally","If performance is improving and soreness, sleep, and stress are normal, keep training and avoid changing too many variables."],["When to reduce volume","Reduce volume when performance is flat or down and fatigue signals are stacking up, but you are not dealing with significant pain or injury."],["When to deload","Deload when multiple signals are red at once or joint discomfort is significant. Keep movement patterns and cut fatigue."]],"examples":["Performance flat, soreness high, missed targets in two sessions: reduce volume this week.","Performance down, poor sleep, high stress, and 9 weeks since deload: deload this week."],"faqs":[["How often should I deload?","Many lifters do better with reactive deloads based on performance and fatigue rather than a fixed calendar."],["What if I have pain?","Pain, injury, or persistent symptoms should be handled with a qualified professional."]],"related":["weekly-volume-checker","smart-warm-up-calculator","next-set-calculator"]}}]}]
 6:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"className":"copy-list","children":[["$","article",null,{"children":[["$","h2",null,{"children":"How to read the result"}],["$","p",null,{"children":["Decide whether to train, reduce volume, or deload."," The notes below show the assumptions behind that recommendation."]}]]}],[["$","article","How the deload calculator works",{"children":[["$","h2",null,{"children":"How the deload calculator works"}],["$","p",null,{"children":"The tool scores recent fatigue signals. Stronger performance drops, repeated missed targets, poor sleep, high stress, and joint discomfort push the recommendation toward reducing work."}]]}],["$","article","When to train normally",{"children":[["$","h2",null,{"children":"When to train normally"}],["$","p",null,{"children":"If performance is improving and soreness, sleep, and stress are normal, keep training and avoid changing too many variables."}]]}],["$","article","When to reduce volume",{"children":[["$","h2",null,{"children":"When to reduce volume"}],["$","p",null,{"children":"Reduce volume when performance is flat or down and fatigue signals are stacking up, but you are not dealing with significant pain or injury."}]]}],["$","article","When to deload",{"children":[["$","h2",null,{"children":"When to deload"}],["$","p",null,{"children":"Deload when multiple signals are red at once or joint discomfort is significant. Keep movement patterns and cut fatigue."}]]}]]]}],["$","aside",null,{"children":[["$","h2",null,{"children":"Examples"}],["$","ul",null,{"children":[["$","li","Performance flat, soreness high, missed targets in two sessions: reduce volume this week.",{"children":"Performance flat, soreness high, missed targets in two sessions: reduce volume this week."}],["$","li","Performance down, poor sleep, high stress, and 9 weeks since deload: deload this week.",{"children":"Performance down, poor sleep, high stress, and 9 weeks since deload: deload this week."}]]}],["$","h2",null,{"style":{"marginTop":"28px"},"children":"Related tools"}],["$","div",null,{"className":"related-tools","children":[["$","$L18","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$L18","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}],["$","$L18","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}]]}]]}]]}]}]
 7:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Short answers"}],[["$","article","How often should I deload?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"How often should I deload?"}],["$","p",null,{"children":"Many lifters do better with reactive deloads based on performance and fatigue rather than a fixed calendar."}]]}],["$","article","What if I have pain?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"What if I have pain?"}],["$","p",null,{"children":"Pain, injury, or persistent symptoms should be handled with a qualified professional."}]]}]]]}],["$","div",null,{"className":"tools-signal","children":"Surpass turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback."}]]}]}]
 8:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Method, assumptions, and privacy"}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Method"}],["$","p",null,{"children":"Scores fatigue signals from performance, missed targets, soreness, joints, sleep, motivation, stress, and time since deload."}]]}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Assumptions"}],["$","p",null,{"children":"Training discomfort and injury are different problems. Pain or persistent symptoms belong with a qualified professional."}]]}],["$","article",null,{"children":[["$","h3",null,{"children":"Privacy"}],["$","p",null,{"children":"Inputs are handled in the browser for the web tool experience. Surpass should only store lifting data when a user chooses to log it in the app."}]]}]]}],["$","div",null,{"className":"tools-signal","children":"Check the method before you trust the number. Bad inputs still produce tidy-looking outputs."}]]}]}]
-9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=deload_calculator&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_deload-calculator","children":"Download Surpass for iPhone"}]]}]}]
-a:["$","script","script-0",{"src":"/_next/static/chunks/2czjn_8f7y79u.js","async":true}]
+9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=deload_calculator&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_deload_calculator_final","data-app-store-placement":"tools_deload_calculator_final","children":"Start free on iPhone"}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/2_lw7cy7hmi8p.js","async":true}]
 b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
 e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Deload Calculator: Should You Train, Reduce Volume, or Deload? | Surpass"}],["$","meta","1",{"name":"description","content":"Answer a few training questions and get a practical recommendation: train normally, reduce volume, or deload."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"strength training app,hypertrophy tracker,workout planner,progressive overload app,visible muscle,workout receipts,weekly muscle targets,Hevy import"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/tools/deload-calculator/"}],["$","meta","8",{"property":"og:title","content":"Deload Calculator: Should You Train, Reduce Volume, or Deload?"}],["$","meta","9",{"property":"og:description","content":"Answer a few training questions and get a practical recommendation: train normally, reduce volume, or deload."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/tools/deload-calculator/"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/tools/deload-calculator/social.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Deload Calculator | Surpass"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Deload Calculator: Should You Train, Reduce Volume, or Deload?"}],["$","meta","17",{"name":"twitter:description","content":"Answer a few training questions and get a practical recommendation: train normally, reduce volume, or deload."}],["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/tools/deload-calculator/social.png"}]]}]}]}],null]}]
 10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
