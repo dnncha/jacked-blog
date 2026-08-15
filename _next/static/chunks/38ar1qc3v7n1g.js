@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,86623,e=>{"use strict";var r=e.i(43476),t=e.i(71645),a=e.i(22016);let o="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_hub&mt=8",i=[["/blog/alternatives-to-rp-hypertrophy-app","Alternatives to RP Hypertrophy App"],["/blog/best-hypertrophy-app-ios-review","Best hypertrophy app for iOS"],["/blog/best-workout-app-hypertrophy-2026","Best workout app for hypertrophy"],["/blog/progressive-overload-app-works","Progressive overload apps"],["/blog/import-hevy-to-surpass","Import Hevy to Surpass"],["/blog/rpe-vs-rir-autoregulation-2025","RPE vs RIR"]];function l(){return new URLSearchParams(window.location.search).get("search")||""}function n(e){return!e||Number.isNaN(new Date(e).getTime())?"":new Intl.DateTimeFormat("en",{month:"short",day:"numeric",year:"numeric"}).format(new Date(e))}e.s(["default",0,function({allPosts:e,categories:s}){let[c,p]=(0,t.useState)(l),[d,h]=(0,t.useState)(""),[g,x]=(0,t.useState)("newest"),[m,f]=(0,t.useState)(36),b=(0,t.useMemo)(()=>i.map(([r])=>e.find(e=>r.endsWith(e.slug))).filter(Boolean).slice(0,3),[e]),u=(0,t.useMemo)(()=>{let r=e;if(d&&(r=r.filter(e=>e.category===d)),c){let e=c.toLowerCase().trim();r=r.filter(r=>r.title.toLowerCase().includes(e)||r.excerpt.toLowerCase().includes(e))}let t=[...r];return"oldest"===g?t.sort((e,r)=>new Date(e.date)-new Date(r.date)):"title"===g?t.sort((e,r)=>e.title.localeCompare(r.title)):t.sort((e,r)=>new Date(r.date)-new Date(e.date)),t},[e,c,d,g]),w=u.slice(0,m),y=m<u.length;return(0,r.jsxs)("div",{className:"blog-page",children:[(0,r.jsx)("style",{children:`
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,86623,e=>{"use strict";var r=e.i(43476),t=e.i(71645),a=e.i(22016);let i="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_hub&mt=8",o=[["/blog/alternatives-to-rp-hypertrophy-app","Alternatives to RP Hypertrophy App"],["/blog/best-hypertrophy-app-ios-review","Best hypertrophy app for iOS"],["/blog/best-workout-app-hypertrophy-2026","Best workout app for hypertrophy"],["/blog/progressive-overload-app-works","Progressive overload apps"],["/blog/import-hevy-to-surpass","Import Hevy to Surpass"],["/blog/rpe-vs-rir-autoregulation-2025","RPE vs RIR"]];function l(){return new URLSearchParams(window.location.search).get("search")||""}function n(e){return!e||Number.isNaN(new Date(e).getTime())?"":new Intl.DateTimeFormat("en",{month:"short",day:"numeric",year:"numeric"}).format(new Date(e))}e.s(["default",0,function({allPosts:e,categories:s}){let[c,p]=(0,t.useState)(l),[d,h]=(0,t.useState)(""),[g,m]=(0,t.useState)("newest"),[x,f]=(0,t.useState)(36),b=(0,t.useMemo)(()=>o.map(([r])=>e.find(e=>r.endsWith(e.slug))).filter(Boolean).slice(0,3),[e]),u=(0,t.useMemo)(()=>{let r=e;if(d&&(r=r.filter(e=>e.category===d)),c){let e=c.toLowerCase().trim();r=r.filter(r=>r.title.toLowerCase().includes(e)||r.excerpt.toLowerCase().includes(e))}let t=[...r];return"oldest"===g?t.sort((e,r)=>new Date(e.date)-new Date(r.date)):"title"===g?t.sort((e,r)=>e.title.localeCompare(r.title)):t.sort((e,r)=>new Date(r.date)-new Date(e.date)),t},[e,c,d,g]),y=u.slice(0,x),w=x<u.length;return(0,r.jsxs)("div",{className:"blog-page",children:[(0,r.jsx)("style",{children:`
         .blog-page {
           min-height: 100vh;
           background: #050505;
@@ -330,6 +330,81 @@
           font-weight: 850;
         }
 
+        .library-map {
+          margin-top: 34px;
+          border-top: 1px solid #cfc5b3;
+          border-bottom: 1px solid #cfc5b3;
+        }
+
+        .library-map summary {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 18px;
+          min-height: 58px;
+          color: #11100c;
+          cursor: pointer;
+          font-weight: 850;
+          list-style: none;
+        }
+
+        .library-map summary::-webkit-details-marker {
+          display: none;
+        }
+
+        .library-map summary::after {
+          content: '+';
+          color: #756d60;
+          font-size: 1.4rem;
+          line-height: 1;
+        }
+
+        .library-map[open] summary::after {
+          content: '−';
+        }
+
+        .library-map summary span:last-child {
+          color: #756d60;
+          font-size: 0.82rem;
+          font-weight: 750;
+        }
+
+        .library-map nav {
+          padding: 4px 0 24px;
+        }
+
+        .library-map-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+          gap: 8px 18px;
+        }
+
+        .library-map-grid a {
+          display: block;
+          padding: 8px 0;
+          color: #302c25;
+          font-size: 0.9rem;
+          line-height: 1.35;
+          text-decoration: underline;
+          text-decoration-color: #c2b598;
+          text-underline-offset: 3px;
+        }
+
+        .library-map-grid a:hover {
+          color: #11100c;
+          text-decoration-color: #11100c;
+        }
+
+        .library-map-grid small {
+          display: block;
+          margin-bottom: 2px;
+          color: #756d60;
+          font-size: 0.7rem;
+          font-weight: 850;
+          letter-spacing: 0.04em;
+          text-transform: uppercase;
+        }
+
         .empty-state {
           padding: 38px;
           text-align: center;
@@ -366,4 +441,4 @@
             transform: none;
           }
         }
-      `}),(0,r.jsx)("section",{className:"blog-hero",children:(0,r.jsxs)("div",{className:"blog-wrap",children:[(0,r.jsx)("h1",{children:"Training library for smarter hypertrophy."}),(0,r.jsx)("p",{children:"Practical articles on progressive overload, RIR, deloads, exercise selection, recovery, supplements, workout imports, and the app decisions that matter inside a real training block."}),(0,r.jsxs)("div",{className:"blog-metrics",children:[(0,r.jsxs)("span",{children:[e.length," articles"]}),(0,r.jsxs)("span",{children:[s.length," topics"]}),(0,r.jsx)("span",{children:"Built for Surpass lifters"})]}),(0,r.jsxs)("div",{className:"blog-hero-actions",children:[(0,r.jsx)("a",{href:o,target:"_blank",rel:"noopener noreferrer","data-global-cta":"blog_hero",children:"Get the iPhone app"}),(0,r.jsx)(a.default,{href:"#library",children:"Browse articles"})]})]})}),(0,r.jsx)("section",{className:"blog-library",id:"library",children:(0,r.jsxs)("div",{className:"blog-wrap",children:[(0,r.jsxs)("div",{className:"library-top",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Find the reason behind the next set."}),(0,r.jsx)("p",{children:"Search the Surpass library when you want the training logic behind the app: how to progress, when to hold back, what to track, and how to make imported history useful."})]}),(0,r.jsxs)("span",{children:[u.length," matching articles"]})]}),(0,r.jsxs)("div",{className:"library-controls",children:[(0,r.jsx)("input",{type:"text","aria-label":"Search training articles",placeholder:"Search hypertrophy, RIR, creatine, deload...",value:c,onChange:e=>{p(e.target.value),f(36)}}),(0,r.jsxs)("select",{"aria-label":"Sort training articles",value:g,onChange:e=>{x(e.target.value),f(36)},children:[(0,r.jsx)("option",{value:"newest",children:"Newest"}),(0,r.jsx)("option",{value:"oldest",children:"Oldest"}),(0,r.jsx)("option",{value:"title",children:"A-Z"})]})]}),(0,r.jsxs)("div",{className:"category-row","aria-label":"Filter training articles by category",children:[(0,r.jsx)("button",{type:"button",onClick:()=>{h(""),f(36)},className:""===d?"selected":"",children:"All"}),s.map(e=>(0,r.jsx)("button",{type:"button",onClick:()=>{h(e),f(36)},className:d===e?"selected":"",children:e},e))]}),(0,r.jsx)("div",{className:"seo-links",children:i.map(([e,t])=>(0,r.jsx)(a.default,{href:e,children:t},e))}),b.length>0&&(0,r.jsx)("div",{className:"featured-row","aria-label":"Start here",children:b.map(e=>(0,r.jsxs)(a.default,{href:`/blog/${e.slug}`,className:"featured-card",children:[(0,r.jsx)("span",{children:"Start here"}),(0,r.jsx)("h3",{children:e.title}),e.excerpt&&(0,r.jsx)("p",{children:e.excerpt})]},e.slug))}),(0,r.jsx)("div",{className:"article-grid",children:w.map(e=>(0,r.jsx)(a.default,{href:`/blog/${e.slug}`,className:"article-card",children:(0,r.jsxs)("article",{children:[(0,r.jsx)("span",{children:e.category}),(0,r.jsx)("h3",{children:e.title}),e.excerpt&&(0,r.jsx)("p",{children:e.excerpt}),n(e.date)&&(0,r.jsx)("time",{dateTime:e.date,children:n(e.date)})]})},e.slug))}),w.length>11&&(0,r.jsxs)("section",{className:"blog-cta",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Use the research while you train."}),(0,r.jsx)("p",{children:"Surpass turns RIR, volume, rest timing, imports, and progress history into a faster iPhone workout log."})]}),(0,r.jsx)("a",{href:o,target:"_blank",rel:"noopener noreferrer","data-global-cta":"blog_mid_cta",children:"Open App Store"})]}),y&&(0,r.jsx)("div",{className:"load-more-row",children:(0,r.jsx)("button",{type:"button",onClick:()=>f(e=>e+36),children:"Load more articles"})}),0===u.length&&(0,r.jsx)("p",{className:"empty-state",children:"No articles found."})]})})]})}])}]);
+      `}),(0,r.jsx)("section",{className:"blog-hero",children:(0,r.jsxs)("div",{className:"blog-wrap",children:[(0,r.jsx)("h1",{children:"Training library for smarter hypertrophy."}),(0,r.jsx)("p",{children:"Practical articles on progressive overload, RIR, deloads, exercise selection, recovery, supplements, workout imports, and the app decisions that matter inside a real training block."}),(0,r.jsxs)("div",{className:"blog-metrics",children:[(0,r.jsxs)("span",{children:[e.length," articles"]}),(0,r.jsxs)("span",{children:[s.length," topics"]}),(0,r.jsx)("span",{children:"Built for Surpass lifters"})]}),(0,r.jsxs)("div",{className:"blog-hero-actions",children:[(0,r.jsx)("a",{href:i,target:"_blank",rel:"noopener noreferrer","data-global-cta":"blog_hero",children:"Get the iPhone app"}),(0,r.jsx)(a.default,{href:"#library",children:"Browse articles"})]})]})}),(0,r.jsx)("section",{className:"blog-library",id:"library",children:(0,r.jsxs)("div",{className:"blog-wrap",children:[(0,r.jsxs)("div",{className:"library-top",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Find the reason behind the next set."}),(0,r.jsx)("p",{children:"Search the Surpass library when you want the training logic behind the app: how to progress, when to hold back, what to track, and how to make imported history useful."})]}),(0,r.jsxs)("span",{children:[u.length," matching articles"]})]}),(0,r.jsxs)("div",{className:"library-controls",children:[(0,r.jsx)("input",{type:"text","aria-label":"Search training articles",placeholder:"Search hypertrophy, RIR, creatine, deload...",value:c,onChange:e=>{p(e.target.value),f(36)}}),(0,r.jsxs)("select",{"aria-label":"Sort training articles",value:g,onChange:e=>{m(e.target.value),f(36)},children:[(0,r.jsx)("option",{value:"newest",children:"Newest"}),(0,r.jsx)("option",{value:"oldest",children:"Oldest"}),(0,r.jsx)("option",{value:"title",children:"A-Z"})]})]}),(0,r.jsxs)("div",{className:"category-row","aria-label":"Filter training articles by category",children:[(0,r.jsx)("button",{type:"button",onClick:()=>{h(""),f(36)},className:""===d?"selected":"",children:"All"}),s.map(e=>(0,r.jsx)("button",{type:"button",onClick:()=>{h(e),f(36)},className:d===e?"selected":"",children:e},e))]}),(0,r.jsx)("div",{className:"seo-links",children:o.map(([e,t])=>(0,r.jsx)(a.default,{href:e,children:t},e))}),b.length>0&&(0,r.jsx)("div",{className:"featured-row","aria-label":"Start here",children:b.map(e=>(0,r.jsxs)(a.default,{href:`/blog/${e.slug}`,className:"featured-card",children:[(0,r.jsx)("span",{children:"Start here"}),(0,r.jsx)("h3",{children:e.title}),e.excerpt&&(0,r.jsx)("p",{children:e.excerpt})]},e.slug))}),(0,r.jsx)("div",{className:"article-grid",children:y.map(e=>(0,r.jsx)(a.default,{href:`/blog/${e.slug}`,className:"article-card",children:(0,r.jsxs)("article",{children:[(0,r.jsx)("span",{children:e.category}),(0,r.jsx)("h3",{children:e.title}),e.excerpt&&(0,r.jsx)("p",{children:e.excerpt}),n(e.date)&&(0,r.jsx)("time",{dateTime:e.date,children:n(e.date)})]})},e.slug))}),y.length>11&&(0,r.jsxs)("section",{className:"blog-cta",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h2",{children:"Use the research while you train."}),(0,r.jsx)("p",{children:"Surpass turns RIR, volume, rest timing, imports, and progress history into a faster iPhone workout log."})]}),(0,r.jsx)("a",{href:i,target:"_blank",rel:"noopener noreferrer","data-global-cta":"blog_mid_cta",children:"Open App Store"})]}),w&&(0,r.jsx)("div",{className:"load-more-row",children:(0,r.jsx)("button",{type:"button",onClick:()=>f(e=>e+36),children:"Load more articles"})}),(0,r.jsxs)("details",{className:"library-map",children:[(0,r.jsxs)("summary",{children:[(0,r.jsx)("span",{children:"Browse the complete training library"}),(0,r.jsxs)("span",{children:[e.length," canonical guides"]})]}),(0,r.jsx)("nav",{"aria-label":"Complete training library",children:(0,r.jsx)("div",{className:"library-map-grid",children:e.map(e=>(0,r.jsxs)(a.default,{href:`/blog/${e.slug}`,children:[(0,r.jsx)("small",{children:e.category}),e.title]},`library-map-${e.slug}`))})})]}),0===u.length&&(0,r.jsx)("p",{className:"empty-state",children:"No articles found."})]})})]})}])}]);
