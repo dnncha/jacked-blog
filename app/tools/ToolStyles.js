@@ -194,6 +194,25 @@ export default function ToolStyles() {
         top: 88px;
         padding: 20px;
       }
+      .tool-result-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 10px;
+      }
+      .tool-result-cta {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 0 14px;
+        font-size: 0.84rem;
+        grid-column: auto;
+      }
+      .tool-result-handoff {
+        margin: 0 0 12px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
       .tool-result-card h2 {
         margin: 8px 0 12px;
         color: #e2c95f;
@@ -223,11 +242,6 @@ export default function ToolStyles() {
       .tool-result-line strong {
         color: #f7f2e8;
         text-align: right;
-      }
-      .tool-app-copy {
-        margin-top: 18px;
-        color: #f7f2e8 !important;
-        font-weight: 700;
       }
       .tool-result-actions {
         display: flex;
@@ -495,6 +509,13 @@ export default function ToolStyles() {
         }
         .tool-result-card {
           position: static;
+        }
+        .tool-result-head {
+          align-items: stretch;
+          flex-direction: column;
+        }
+        .tool-result-cta {
+          width: 100%;
         }
         .split-exercise-row {
           grid-template-columns: minmax(0, 1fr) auto;

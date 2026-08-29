@@ -1,5 +1,5 @@
 import { tools } from '../tools/toolData.mjs'
-import { allBlogPosts } from '../blog/posts'
+import { canonicalBlogPosts } from '../blog/posts'
 
 export const dynamic = 'force-static'
 
@@ -13,11 +13,12 @@ function fallbackDateForSlug(slug) {
 }
 
 function getPosts() {
-  return allBlogPosts
+  return canonicalBlogPosts
     .map(post => {
       return {
         slug: post.slug,
         date: isValidDate(post.date) ? post.date : '',
+        updatedAt: isValidDate(post.updatedAt) ? post.updatedAt : '',
         sortDate: isValidDate(post.date) ? post.date : fallbackDateForSlug(post.slug),
       }
     })
@@ -39,12 +40,16 @@ export async function GET() {
     staticUrl('/', 'daily', '1.0'),
     staticUrl('/blog', 'weekly', '0.9'),
     staticUrl('/tools', 'weekly', '0.9'),
+    staticUrl('/methodology', 'monthly', '0.8'),
     staticUrl('/workout-tracker', 'weekly', '0.95'),
     staticUrl('/gym-workout-planner', 'weekly', '0.95'),
     staticUrl('/progressive-overload', 'weekly', '0.95'),
+    staticUrl('/hypertrophy-app', 'weekly', '0.95'),
+    staticUrl('/alpha-progression-alternative', 'weekly', '0.95'),
     staticUrl('/hevy-alternative', 'weekly', '0.95'),
     staticUrl('/strong-alternative', 'weekly', '0.95'),
     staticUrl('/fitnotes-alternative', 'weekly', '0.95'),
+    staticUrl('/import-workout-history', 'weekly', '0.95'),
     staticUrl('/press', 'monthly', '0.7'),
     staticUrl('/about', 'monthly', '0.6'),
     staticUrl('/support', 'monthly', '0.6'),
@@ -58,7 +63,7 @@ export async function GET() {
     })),
     ...posts.map(post => ({
       loc: `https://jacked.coach/blog/${post.slug}`,
-      lastmod: post.date,
+      lastmod: post.updatedAt || post.date,
       changefreq: post.slug === 'alternatives-to-rp-hypertrophy-app' ? 'weekly' : 'monthly',
       priority: post.slug === 'alternatives-to-rp-hypertrophy-app' ? '0.95' : '0.8',
     })),

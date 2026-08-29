@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "The Science of Creatine: What 2025 Research Really Says"
 excerpt: "Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."
 ---
-
 Creatine monohydrate isn't just popular—it's arguably the most thoroughly researched sports supplement on the planet. With over 500 peer-reviewed studies spanning decades, you'd think we'd know everything by now. But 2024-2025 research continues to refine our understanding. Here's what the science actually says.
 
 ## How Creatine Works
@@ -88,4 +88,19 @@ If you're not taking creatine and you're training hard, you're leaving gains on 
 
 ---
 
-*Track your creatine and training with Jacked. Download now.*
+## Related reading
+
+- [Creatine Monohydrate: The Science Behind the Most Researched Supplement](/blog/creatine-monohydrate-science-2026)
+- [Omega-3 Fatty Acids and Muscle Growth: What the Science Says](/blog/omega-3-fatty-acids-muscle-growth-2026)
+
+## Limits of the evidence
+
+Supplement findings depend on the ingredient, dose, product quality, population, and outcome measured. A change in a short-term marker is not the same as a meaningful change in muscle, strength, health, or performance.
+
+
+### Sources
+
+- [International Society of Sports Nutrition position stand: creatine supplementation](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z). Broad creatine efficacy and safety context.
+- [Common questions and misconceptions about creatine supplementation](https://pubmed.ncbi.nlm.nih.gov/33557850/). Evidence review of loading, timing, safety, and common claims.
+
+{{surpass-inline-cta}}

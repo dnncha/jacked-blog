@@ -21,10 +21,17 @@ const posts = fs.readdirSync(postsDir)
       title: data.title || 'Untitled article',
       excerpt: data.excerpt || '',
       date,
+      updatedAt: data.updatedAt || '',
       category: data.category || 'General',
       keywords: data.keywords || '',
       entities: data.entities || '',
       rankingItems: data.rankingItems || '',
+      author: data.author || null,
+      reviewer: data.reviewer || null,
+      sources: data.sources || null,
+      methodology: data.methodology || '',
+      disclosure: data.disclosure || '',
+      editorialStatus: data.editorialStatus || '',
       content,
     }
   })

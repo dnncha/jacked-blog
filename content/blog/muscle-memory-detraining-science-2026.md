@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"
 excerpt: "New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."
 ---
-
 # Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)
 
 You've probably heard it before: "muscle has memory." But what if I told you that's not just a motivational saying—it's actual biology? Recent research from 2025 has shed remarkable new light on how our muscles retain "memory" of previous training, making comebacks faster than starting from scratch.
@@ -85,4 +85,19 @@ So next time life forces you to take a break? Don't stress. Your muscles are wai
 
 ---
 
-*Track your muscle memory with Jacked. Download now.*
+## Related reading
+
+- [Muscle Memory: The Science Behind Why Your Gains Stick](/blog/muscle-memory-science-gains)
+- [Muscle Memory and Myonuclei: What Training Retains](/blog/muscle-memory-myonuclei-retention-science)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Muscle memory after detraining and retraining](https://pubmed.ncbi.nlm.nih.gov/41346689/). Recent human evidence; exact response depends on prior training and detraining.
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). General adaptation context.
+
+{{surpass-inline-cta}}

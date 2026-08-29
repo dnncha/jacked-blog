@@ -1,8 +1,8 @@
 import TikTokLandingClient from './TikTokLandingClient'
 
 export const metadata = {
-  title: 'Jacked for iPhone | Know Your Next Lift',
-  description: 'Build the body you came for with a clear target for every lift and fast workout logging. Jacked is free to download on iPhone.',
+  title: 'Surpass for iPhone | Get Bigger On Purpose',
+  description: 'Build the body people notice with a focused iPhone training system for clear sessions, honest progress evidence, and no account required.',
   alternates: {
     canonical: 'https://jacked.coach/tiktok',
   },
@@ -11,16 +11,16 @@ export const metadata = {
     follow: true,
   },
   openGraph: {
-    title: 'Jacked for iPhone | Know Your Next Lift',
-    description: 'Stop guessing between sets. Turn your last workout into today\'s load and rep target.',
+    title: 'Surpass for iPhone | Get Bigger On Purpose',
+    description: 'Choose what you want to change. Surpass turns it into today\'s clear session, then keeps the work and the evidence close together.',
     url: 'https://jacked.coach/tiktok',
-    images: ['/marketing/generated/jacked-acquisition-social.jpg'],
+    images: ['/og-image.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Jacked for iPhone | Know Your Next Lift',
-    description: 'Stop guessing between sets. Turn your last workout into today\'s load and rep target.',
-    images: ['/marketing/generated/jacked-acquisition-social.jpg'],
+    title: 'Surpass for iPhone | Get Bigger On Purpose',
+    description: 'Choose what you want to change. Surpass turns it into today\'s clear session, then keeps the work and the evidence close together.',
+    images: ['/og-image.png'],
   },
 }
 

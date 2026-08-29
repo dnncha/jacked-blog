@@ -1,100 +1,59 @@
 ---
-title: "Velocity-Based Training: The Science Behind Training Smarter, Not Just Harder"
-excerpt: "Discover how measuring movement speed can revolutionize your progressive overload, optimize fatigue management, and maximize muscle growth without relying on outdated 1RM percentages."
+updatedAt: "2026-08-15"
+title: "Velocity-Based Training: What the Measurement Can Add"
+excerpt: "Bar speed can help manage load and fatigue for some exercises, but velocity zones are device- and movement-specific and do not replace good programming or judgment."
 ---
 
-If you've ever stuck to the same weight for weeks because you weren't sure if you could add more, or conversely, added weight too soon and sacrificed form—you're not alone. Traditional percentage-based programming assumes your strength is static between workouts, ignoring the daily fluctuations in fatigue, recovery, and readiness.
+Velocity-based training (VBT) uses the speed of a repetition—usually the concentric phase—to inform load selection, set termination, or readiness. It can make an important part of training more observable, but it is not a direct window into the nervous system and it does not remove the need for technique, effort, or recovery.
 
-**Velocity-based training (VBT)** flips this on its head. Instead of chasing a number on the bar, you chase a speed. The science is compelling: your movement velocity during resistance training correlates powerfully with your strength, fatigue state, and neuromuscular readiness. By tracking how fast you're moving, you can adjust load in real-time, automate progressive overload, and train more intelligently.
+## What velocity can measure
 
-## The Neuroscience: Why Speed Tells You Everything
+For a given lifter and exercise, velocity often changes as the load and fatigue change. A repeated measurement can therefore help identify whether a warm-up or work set is moving more slowly than usual. The useful comparison is usually within the same exercise, setup, device, and range of motion.
 
-When you perform a repetition, the speed of the concentric (lifting) phase isn't random—it's a direct window into how many motor units your nervous system is recruiting and how forcefully they're firing.
+Absolute velocity values do not transfer cleanly between a squat, bench press, deadlift, machine, or different measurement devices. There is no universal table in which 0.60 m/s always means 80% of 1RM. A velocity profile has to be established for the actual exercise and equipment, and even then it is an estimate.
 
-**Key mechanisms:**
+## Velocity loss and set termination
 
-- **Motor unit recruitment**: Faster contractions require more motor units to fire simultaneously (Henneman's size principle in action)
-- **Firing frequency**: Higher velocity means higher firing rates from active motor neurons
-- **Intermuscular coordination**: Smooth, fast movements reflect better coordination between muscle groups
+Velocity loss describes how much rep speed falls within a set. It can be used to stop a set before technique or power deteriorates, or to standardize fatigue across sessions. A systematic review of proximity-to-failure research found no clear hypertrophy advantage for momentary failure over non-failure training and no consistent advantage for higher versus moderate velocity-loss thresholds ([review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36334240/)).
 
-A 2025 study in *Frontiers in Physiology* found that VBT induces neuromuscular adaptations distinct from traditional loading—specifically faster motor unit recruitment, higher firing frequency, and improved intermuscular coordination ([Frontiers, September 2025](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1701045/full)).
+That means a 10%, 20%, or 30% threshold is a programming choice, not a universal biological optimum. Lower loss may suit power or skill work; larger loss may be acceptable for hypertrophy when the exercise is safe and the accumulated fatigue is intentional. The right threshold depends on the goal and the quality of the measurement.
 
-In plain English: training for velocity doesn't just build strength—it makes your nervous system more efficient at telling your muscles what to do.
+## Where VBT can help
 
-## Mean Velocity: Your Real-Time Strength Indicator
+- **Strength and power:** preserve speed and stop before repeated slow grinders.
+- **Daily adjustment:** compare warm-up velocity with the lifter’s own baseline.
+- **Research or coaching:** make set-endpoint decisions more reproducible.
+- **Load progression:** add or reduce load when a stable velocity target is repeatedly met or missed.
 
-The most practical metric in VBT is **mean concentric velocity (MV)**—the average speed at which the weight moves during the lifting phase.
+For many lifters, RPE/RIR and a careful training log are cheaper and sufficiently informative. A device is not automatically better if the exercise setup changes, the sensor is inconsistent, or the user does not act on the measurement.
 
-Here's the breakthrough: mean velocity correlates strongly with percentage of your one-rep max (1RM). Multiple studies have established velocity benchmarks:
+## A practical implementation
 
-| % of 1RM | Expected Mean Velocity (m/s) |
-|----------|------------------------------|
-| 100%     | ~0.30                        |
-| 90%      | ~0.45                        |
-| 80%      | ~0.60                        |
-| 70%      | ~0.80                        |
-| 60%      | ~1.00                        |
-| 50%      | ~1.20                        |
+1. Use one exercise and one validated measurement setup.
+2. Record the load, repetitions, mean or peak velocity, range of motion, and effort.
+3. Establish an individual baseline across several sessions rather than trusting a generic chart.
+4. Use a conservative stop rule for power or technical work, then review whether it preserves performance.
+5. For hypertrophy, compare total useful work and recovery—not only the fastest rep.
 
-This means you don't need to test your 1RM repeatedly. You do a few warm-up sets, check your velocity, and if you're moving at 0.60 m/s today, you know you're lifting ~80% of your true max—no math required.
+VBT can complement an app that records loads, repetitions, and effort. Unless the app is connected to a validated velocity sensor, it should not claim to measure bar speed or infer readiness from it.
 
-## Velocity Loss: The Fatigue Threshold
+## Bottom line
 
-One of VBT's most practical applications is **velocity loss**—how much your speed drops within a set.
+Velocity is a useful signal when it is measured consistently and tied to a clear decision. It can help manage fatigue and practice high-quality repetitions, but it is exercise-specific, device-dependent, and not a guaranteed route to more muscle. Use it alongside—not instead of—sound progression and judgment.
 
-Research increasingly shows that stopping a set when velocity declines by a certain amount optimizes the training stimulus:
+### Sources
 
-- **10-20% velocity loss**: Optimal for strength/power (recent 2025 research on adolescent sprinters found 10% velocity loss threshold yielded better sprint and jump improvements than 30% loss despite lower total volume)
-- **30-40% velocity loss**: Acceptable for hypertrophy, but beyond this you're mostly accumulating fatigue without added muscle stimulus
+- [Velocity loss, failure, and hypertrophy: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36334240/)
+- [Resistance-training prescription for strength and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/37414459/)
+- [Autoregulation and proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/)
 
-A December 2025 study in *Frontiers in Physiology* compared velocity loss thresholds in youth athletes and found that conservative thresholds (10%) produced superior performance gains despite lower training volume—challenging the "more is better" mindset ([Frontiers, December 2025](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1746516/full)).
+## Related reading
 
-## VBT vs. Traditional Percentage-Based Training
+- [Cluster Sets and Rep Quality](/blog/cluster-sets-hypertrophy-2026)
+- [Autoregulation: RPE, RIR, and Training Decisions](/blog/rpe-vs-rir-autoregulation-2025)
 
-The evidence is accumulating. A 2025-2026 systematic review and meta-analysis in *BMC Sports Science, Medicine and Rehabilitation* compared VBT to percentage-based training and found:
+## Limits of the evidence
 
-- **Comparable or superior** improvements in maximal strength
-- **Better maintenance** of movement quality as fatigue accumulates
-- **More efficient** training loads (fewer failed reps)
-- Superior outcomes in explosive power for trained individuals
+Velocity research varies in device, exercise, metric, threshold, and participant experience. A result from one movement or athlete group cannot establish a universal velocity zone or app-based readiness rule.
 
-A January 2026 preprint on *bioRxiv* directly compared VBT to percentage-based training and found VBT produced similar or better improvements in muscle mass, bone mineral density, and neuromuscular performance while requiring less subjective effort from the athlete.
-
-## Practical Application: How to Implement VBT
-
-### 1. Choose Your Tools
-- **Linear position transducers** (gold standard: GymAware, T-Force)
-- **Accelerometer-based devices** (more affordable: Vmax, Push Band)
-- **Phone apps** (free/cheap: MySprint, just use a slow-mo camera)
-
-### 2. Establish Your Velocity Zones
-For the squat, bench, or deadlift, perform testing at progressive loads to map your velocity profile. Most apps will do this automatically.
-
-### 3. Use Velocity-Based Auto-Regulation
-Instead of "3x10 @ 70%", program: "3 sets, stop each when velocity drops below X m/s."
-
-### 4. Track Fatigue and Readiness
-Monitor your velocity during warm-ups. If your velocity is 15% lower than normal at a given load, your nervous system isn't ready—deload or train with reduced load that day.
-
-## The Jacked App Connection
-
-Here's where VBT becomes powerful for your training: **it enables true autoprogression**.
-
-Rather than guessing when to add weight, the app can automatically increase load when your velocity stays above your target threshold across multiple sets. Conversely, it can auto-reduce load when velocity drops—protecting you from overtraining without requiring manual adjustments.
-
-This transforms progressive overload from a weekly decision into a continuous, data-driven process. You're no longer "trying" to get stronger. You're measuring, adjusting, and improving in real-time.
-
-## The Bottom Line
-
-Velocity-based training isn't a gimmick—it's a paradigm shift. It replaces guesswork with objective data, adapts to your daily readiness, and optimizes the training stimulus regardless of your strength level.
-
-Whether you're a beginner who doesn't know their 1RM or an advanced lifter tired of plateauing, velocity gives you a direct line to your neuromuscular system. Train fast, get strong.
-
----
-
-**References:**
-- Frontiers in Physiology (2025). "Velocity-based resistance training on lower-limb strength performance." September 2025.
-- Frontiers in Physiology (2025). "VBT with different velocity loss thresholds in adolescent sprinters." December 2025.
-- BMC Sports Science, Medicine and Rehabilitation (2026). "VBT vs. percentage-based training: systematic review and meta-analysis." January 2026.
-- bioRxiv (2026). "VBT vs. PBT on body composition and neuromuscular performance." January 2026.
-- Science for Sport (2025). "Velocity-Based Training." March 2025.
+{{surpass-inline-cta}}

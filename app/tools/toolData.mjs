@@ -27,7 +27,7 @@ const coreTools = [
     metaDescription: 'Calculate your next set target from your last weight, reps, and RIR. Get a clear weight, rep target, and reason for your next workout.',
     h1: 'Next Set Calculator',
     promise: 'Enter your last set. Get your next target.',
-    intro: 'Jacked uses your weight, reps, RIR, goal, and rep range to suggest what to lift next with a clear reason.',
+    intro: 'Surpass uses your weight, reps, RIR, goal, and rep range to suggest what to lift next with a clear reason.',
     primaryKeyword: 'what weight should I lift next',
     campaign: 'next_set_calculator',
     defaults: {
@@ -44,7 +44,7 @@ const coreTools = [
       equipment: 'barbell',
     },
     sections: [
-      ['How Jacked chooses your next set', 'The calculator turns your completed reps plus RIR into effective reps to failure, estimates strength, then applies simple progression rules for your target rep range.'],
+      ['How Surpass chooses your next set', 'The calculator turns your completed reps plus RIR into effective reps to failure, estimates strength, then applies simple progression rules for your target rep range.'],
       ['When to add weight', 'Add load when you reach the top of the rep range without overshooting effort. If the target is 8-10 reps at 2 RIR and you hit 10 at 2 RIR, the next move is usually a small load increase.'],
       ['When to add reps instead', 'If you are inside the rep range and close to the target RIR, keep the same load and try to add one rep before increasing weight.'],
       ['When to hold the same weight', 'Hold load when the set was harder than planned, when RIR is unclear, or when the set is below the top of the range.'],
@@ -107,7 +107,7 @@ const coreTools = [
     metaDescription: 'Estimate your one-rep max from weight, reps, and optional RIR. Includes percentage chart, rep maxes, and training targets.',
     h1: '1RM Calculator',
     promise: 'Estimate your max, then get a useful training target.',
-    intro: 'Most 1RM calculators stop at the max estimate. Jacked also gives a practical next target for training.',
+    intro: 'Most 1RM calculators stop at the max estimate. Surpass also gives a practical next target for training.',
     primaryKeyword: '1RM calculator',
     campaign: 'one_rep_max_calculator',
     defaults: {
@@ -116,12 +116,12 @@ const coreTools = [
       weight: 100,
       reps: 5,
       rir: 1,
-      formula: 'jacked',
+      formula: 'surpass',
       increment: 2.5,
     },
     sections: [
       ['What is e1RM?', 'Estimated one-rep max is a ballpark strength estimate from a submaximal set. It is useful for trends and targets, not a perfect prediction.'],
-      ['1RM vs PR', 'A 1RM is a max estimate or test. A PR is what you have actually achieved. Jacked treats estimates as training context.'],
+      ['1RM vs PR', 'A 1RM is a max estimate or test. A PR is what you have actually achieved. Surpass treats estimates as training context.'],
       ['Why RIR improves the estimate', 'A set of five with three reps left is not the same as a set of five at failure. RIR lets the formula account for effort.'],
       ['Best rep ranges for estimating 1RM', 'Sets around 3-10 reps with clear effort usually produce better estimates than very high-rep sets.'],
       ['How to use e1RM for hypertrophy', 'Use e1RM to pick sensible rep-range loads, then let performance and RIR decide the next jump.'],
@@ -131,7 +131,7 @@ const coreTools = [
       '80 kg x 10 @ 2 RIR estimates around 114 kg e1RM, but the next useful target may still be a small rep-range progression.',
     ],
     faqs: [
-      ['Which 1RM formula should I use?', 'The Jacked average uses Epley and Brzycki when valid. You can also view Epley, Brzycki, or Lander directly.'],
+      ['Which 1RM formula should I use?', 'The Surpass average uses Epley and Brzycki when valid. You can also view Epley, Brzycki, or Lander directly.'],
       ['Can I use this for bench, squat, and deadlift?', 'Yes. Exercise-specific pages can add better examples, but the calculator works for any lift.'],
     ],
     related: ['next-set-calculator', 'rir-calculator', 'plate-calculator'],
@@ -159,7 +159,7 @@ const coreTools = [
       increment: 2.5,
     },
     sections: [
-      ['How the strength level is calculated', 'The tool estimates 1RM from your set, divides it by bodyweight, then compares that ratio with transparent Jacked standards for the selected lift and sex.'],
+      ['How the strength level is calculated', 'The tool estimates 1RM from your set, divides it by bodyweight, then compares that ratio with transparent Surpass standards for the selected lift and sex.'],
       ['Why this is not a leaderboard', 'These tiers are practical training references. They are not federation records, medical categories, or copied user-population tables.'],
       ['How to use the next benchmark', 'Use the gap to decide whether the next block should chase load, reps, technique consistency, or a closer variation.'],
       ['When the result is lower confidence', 'High-rep sets, unclear RIR, shortened range of motion, and unusual equipment setups make strength comparisons noisier.'],
@@ -170,8 +170,8 @@ const coreTools = [
       'Squat: a small gap to the next tier is a reason to run a focused block. A large gap is a reason to build reps and technique first.',
     ],
     faqs: [
-      ['Is this like Strength Level?', 'It answers the same kind of question: how strong is this lift relative to bodyweight. Jacked adds RIR, confidence, and a next training action.'],
-      ['Are these official strength standards?', 'No. They are practical Jacked standards for training decisions, not official competitive rankings.'],
+      ['Is this like Strength Level?', 'It answers the same kind of question: how strong is this lift relative to bodyweight. Surpass adds RIR, confidence, and a next training action.'],
+      ['Are these official strength standards?', 'No. They are practical Surpass standards for training decisions, not official competitive rankings.'],
       ['Should I chase the next level every workout?', 'No. Use the next level as a block-level target, then progress with normal sets, RIR, and recovery.'],
     ],
     related: ['one-rep-max-calculator', 'next-set-calculator', 'rir-calculator', 'plate-calculator'],
@@ -184,7 +184,7 @@ const coreTools = [
     metaDescription: 'Enter your target weight, bar weight, and available plates. Get exactly what to load on each side.',
     h1: 'Plate Calculator',
     promise: 'Enter a target weight and load the bar fast.',
-    intro: 'Use this between sets: target load in, plates per side out. Jacked shows this beside target loads inside the workout.',
+    intro: 'Use this between sets: target load in, plates per side out. Surpass shows this beside target loads inside the workout.',
     primaryKeyword: 'plate calculator',
     campaign: 'plate_calculator',
     defaults: {
@@ -256,7 +256,7 @@ const coreTools = [
     metaDescription: 'Check your weekly hard sets by muscle group and see whether your training volume looks low, productive, or hard to recover from.',
     h1: 'Weekly Training Volume Checker',
     promise: 'Check hard sets by muscle and get one next action.',
-    intro: 'Most volume advice is static. Jacked turns your weekly set counts into a practical coach readout.',
+    intro: 'Most volume advice is static. Surpass turns your weekly set counts into a practical coach readout.',
     primaryKeyword: 'weekly set volume calculator',
     campaign: 'weekly_volume_checker',
     defaults: {
@@ -338,7 +338,7 @@ const coreTools = [
     metaDescription: 'Build a practical workout split from your training days, goal, equipment, and session length.',
     h1: 'Workout Split Builder',
     promise: 'Build a practical split from your constraints.',
-    intro: 'Pick days, goal, equipment, session length, experience, and muscle focus. Get a split you can run inside Jacked.',
+    intro: 'Pick days, goal, equipment, session length, experience, and muscle focus. Get a split you can run inside Surpass.',
     primaryKeyword: 'workout split builder',
     campaign: 'workout_split_builder',
     defaults: {
@@ -373,7 +373,7 @@ const coreTools = [
     metaDescription: 'Find smart exercise alternatives based on target muscle, equipment, fatigue, and training goal.',
     h1: 'Exercise Swap Finder',
     promise: 'Replace an exercise without losing the training intent.',
-    intro: 'Most alternative lists are static. Jacked ranks swaps by why you need the swap: equipment, joint comfort, fatigue, or preference.',
+    intro: 'Most alternative lists are static. Surpass ranks swaps by why you need the swap: equipment, joint comfort, fatigue, or preference.',
     primaryKeyword: 'exercise alternatives',
     campaign: 'exercise_swap_finder',
     defaults: {
@@ -403,7 +403,7 @@ const coreTools = [
     type: 'hevy',
     name: 'Hevy Import Checker',
     title: 'Hevy Import Checker: Preview Your Workout History Before Importing',
-    metaDescription: 'Preview your Hevy workout export locally in your browser and see how many workouts, sets, exercises, and measurements can be imported into Jacked.',
+    metaDescription: 'Preview your Hevy workout export locally in your browser and see how many workouts, sets, exercises, and measurements can be imported into Surpass.',
     h1: 'Hevy Import Checker',
     promise: 'Preview your Hevy export locally before switching.',
     intro: 'Upload or paste a Hevy CSV. The file is parsed in your browser. Nothing is uploaded, no account required, no server storage.',
@@ -423,11 +423,11 @@ const coreTools = [
     ],
     examples: [
       'A Hevy export with 214 workouts, 1,842 sets, and 86 exercises is a strong migration signal.',
-      'If the checker sees exercise names and dated set rows, Jacked can make the import promise tangible before install.',
+      'If the checker sees exercise names and dated set rows, Surpass can make the import promise tangible before install.',
     ],
     faqs: [
       ['Is my Hevy CSV uploaded?', 'No. This page parses the CSV in your browser and does not upload it.'],
-      ['What should I do after checking it?', 'Download Jacked and use the in-app import flow to bring over your history.'],
+      ['What should I do after checking it?', 'Download Surpass and use the in-app import flow to bring over your history.'],
     ],
     related: ['next-set-calculator', 'weekly-volume-checker', 'workout-split-builder'],
   },
@@ -436,10 +436,10 @@ const coreTools = [
     type: 'strong-import',
     name: 'Strong CSV Import Checker',
     title: 'Strong CSV Import Checker: Preview Your Workout History Before Importing',
-    metaDescription: 'Check a Strong workout CSV locally in your browser before moving your training history into Jacked.',
+    metaDescription: 'Check a Strong workout CSV locally in your browser before moving your training history into Surpass.',
     h1: 'Strong CSV Import Checker',
     promise: 'Preview a Strong export before you switch apps.',
-    intro: 'Paste or upload a Strong CSV and see whether the file has the workout, exercise, set, load, rep, note, and effort fields Jacked can use.',
+    intro: 'Paste or upload a Strong CSV and see whether the file has the workout, exercise, set, load, rep, note, and effort fields Surpass can use.',
     primaryKeyword: 'Strong CSV import',
     campaign: 'strong_csv_import_checker',
     defaults: {
@@ -472,7 +472,7 @@ const coreTools = [
     metaDescription: 'Check a FitNotes workout CSV locally in your browser for required dates, exercises, strength rows, cardio rows, and likely import blockers.',
     h1: 'FitNotes CSV Import Checker',
     promise: 'Check a FitNotes workout export before moving your history.',
-    intro: 'Upload or paste a FitNotes workout CSV. The checker runs in your browser and looks for the same required Date and Exercise columns used by Jacked.',
+    intro: 'Upload or paste a FitNotes workout CSV. The checker runs in your browser and looks for the same required Date and Exercise columns used by Surpass.',
     primaryKeyword: 'FitNotes CSV import',
     campaign: 'fitnotes_csv_import_checker',
     defaults: {
@@ -482,7 +482,7 @@ const coreTools = [
 2026-01-07,Treadmill,Cardio,,,,5,km,30:00,Zone 2,dt`,
     },
     sections: [
-      ['What this checker looks for', 'Jacked requires Date and Exercise columns. The checker also identifies supported kilogram or pound loads, reps, distance, duration, and notes.'],
+      ['What this checker looks for', 'Surpass requires Date and Exercise columns. The checker also identifies supported kilogram or pound loads, reps, distance, duration, and notes.'],
       ['Strength and cardio rows', 'FitNotes exports can contain lifting, bodyweight, timed, and distance rows. Blank weight or rep cells are not automatically errors when a row records cardio or another supported set type.'],
       ['Privacy implementation', 'The CSV is parsed in your browser. Nothing is uploaded by this web tool. Keep the original export untouched until the in-app import is verified.'],
       ['Date formats', 'ISO dates are the clearest option. Slash dates need an unambiguous day and month order so the workout lands on the intended date.'],
@@ -493,7 +493,7 @@ const coreTools = [
     ],
     faqs: [
       ['Is my FitNotes CSV uploaded?', 'No. This page parses the CSV in your browser and does not send it to a server.'],
-      ['Does a clean check guarantee the import?', 'No. It checks the file shape. Import a copy in Jacked and review dates, main lifts, custom exercises, and cardio rows before relying on the history.'],
+      ['Does a clean check guarantee the import?', 'No. It checks the file shape. Import a copy in Surpass and review dates, main lifts, custom exercises, and cardio rows before relying on the history.'],
     ],
     related: ['workout-csv-validator', 'strong-csv-import-checker', 'hevy-import-checker', 'next-set-calculator'],
   },
@@ -808,7 +808,7 @@ function exerciseTool(seed, kind) {
       metaDescription: `Enter your last ${seed.name.toLowerCase()} set and get a practical next target based on reps, RIR, and your target rep range.`,
       h1: `${seed.name} Next Set Calculator`,
       promise: `Enter your last ${seed.name.toLowerCase()} set and get your next target.`,
-      intro: `${seed.progression} Jacked turns the set into a clear next move.`,
+      intro: `${seed.progression} Surpass turns the set into a clear next move.`,
       primaryKeyword: `${seed.name.toLowerCase()} next set calculator`,
       campaign: `${seed.slug.replaceAll('-', '_')}_next_set_calculator`,
       exerciseSpecific: true,
@@ -821,7 +821,7 @@ function exerciseTool(seed, kind) {
         equipment: seed.equipment,
       },
       sections: [
-        [`How Jacked chooses your next ${seed.name.toLowerCase()} set`, `The calculator reads load, reps, and RIR, then applies ${seed.name.toLowerCase()}-specific progression context. ${seed.progression}`],
+        [`How Surpass chooses your next ${seed.name.toLowerCase()} set`, `The calculator reads load, reps, and RIR, then applies ${seed.name.toLowerCase()}-specific progression context. ${seed.progression}`],
         ['When to add weight', `Add load when you hit the top of the target range at the planned RIR without changing the ${seed.name.toLowerCase()} standard.`],
         ['When to add reps instead', `If the load jump is large or reps are still inside range, keep the same ${seed.name.toLowerCase()} weight and add reps first.`],
         ['Common mistake', seed.mistake],
@@ -895,7 +895,7 @@ function exerciseTool(seed, kind) {
       exerciseSpecific: true,
       defaults: {
         ...baseDefaults,
-        formula: 'jacked',
+        formula: 'surpass',
       },
       sections: [
         [`What ${seed.name.toLowerCase()} e1RM means`, `This is a ballpark estimate from a submaximal ${seed.name.toLowerCase()} set, not a guaranteed max attempt.`],
@@ -940,7 +940,7 @@ function exerciseTool(seed, kind) {
         increment: seed.units === 'kg' ? 2.5 : 5,
       },
       sections: [
-        [`How the ${seed.name.toLowerCase()} strength level is calculated`, `The calculator estimates ${seed.name.toLowerCase()} e1RM from weight, reps, and RIR, divides it by bodyweight, then compares that ratio with transparent Jacked standards.`],
+        [`How the ${seed.name.toLowerCase()} strength level is calculated`, `The calculator estimates ${seed.name.toLowerCase()} e1RM from weight, reps, and RIR, divides it by bodyweight, then compares that ratio with transparent Surpass standards.`],
         ['Why bodyweight matters', 'A lift means something different at different bodyweights. Ratio-based standards make the comparison more useful than the raw number alone.'],
         ['How to use the next benchmark', `Use the next ${seed.name.toLowerCase()} tier as a block-level target, then let normal progression, RIR, and execution decide each workout.`],
         ['Common mistake', seed.mistake],
@@ -951,7 +951,7 @@ function exerciseTool(seed, kind) {
       ],
       faqs: [
         [`What is a good ${seed.name.toLowerCase()} strength level?`, 'A good level depends on sex, bodyweight, training age, technique standard, and whether the lift is a main goal.'],
-        ['Are these official standards?', 'No. They are practical Jacked standards for training decisions, not federation records or copied user-population rankings.'],
+        ['Are these official standards?', 'No. They are practical Surpass standards for training decisions, not federation records or copied user-population rankings.'],
       ],
       related: ['strength-level-calculator', `${seed.slug}-next-set-calculator`, `${seed.slug}-1rm-calculator`],
     }

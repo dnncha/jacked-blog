@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Gym Gloves vs Bare Hands: What the Science Says About Grip and Forearm Growth"
 excerpt: "Do lifting gloves help or hinder your forearm development? The science reveals surprising answers about grip strength, muscle activation, and what actually works."
 ---
-
 # Gym Gloves vs Bare Hands: What the Science Says About Grip and Forearm Growth
 
 Every gym has its purists. Walk onto any weight floor and you'll see both camps—the gloves crowd with their padded palm protection, and the bare-hand veterans who view gloves as a sign of weakness. But what does the actual science say? Does wearing gloves hurt your grip strength and forearm development? Or do they provide a genuine advantage? Let's dig into the research.
@@ -114,4 +114,20 @@ The biggest "grip" on your gains isn't whether you wear gloves—it's whether yo
 
 ---
 
-*Track your forearm training with Jacked. Download now.*
+## Related reading
+
+- [Foam Rolling for Muscle Growth: What the 2024-2025 Research Actually Says](/blog/foam-rolling-recovery-science-2025)
+- [Lifting Straps: When They Help and When They Hurt Your Gains](/blog/lifting-straps-gains-guide)
+
+## Limits of the evidence
+
+The evidence may combine mechanistic work, observational studies, trials, and expert interpretation. Those sources can inform a decision, but they do not establish an exact outcome for every reader.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

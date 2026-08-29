@@ -1,14 +1,18 @@
 surface,path,placement,apple_provider_token,apple_campaign,primary_event,notes
-homepage,/,hero,128406689,jacked_coach_home_hero,app_store_outbound_clicked,Existing homepage campaign
-homepage,/,download,128406689,jacked_coach_home_download,app_store_outbound_clicked,Existing homepage campaign
-homepage,/,final_cta,128406689,jacked_coach_home_final,app_store_outbound_clicked,Existing homepage campaign
-site_header,sitewide,header,128406689,jacked_coach,app_store_outbound_clicked,Existing shared header campaign
+homepage,/,hero,128406689,surpass_coach_home_hero_control,app_store_outbound_clicked,Current homepage control campaign
+homepage,/,download,128406689,surpass_coach_home_download,app_store_outbound_clicked,Current homepage campaign
+homepage,/,final_cta,128406689,surpass_coach_home_final,app_store_outbound_clicked,Current homepage campaign
+site_header,sitewide,header,128406689,surpass_coach,app_store_outbound_clicked,Current shared header campaign
+site_header_mobile,sitewide,header_mobile,128406689,surpass_coach_mobile,app_store_outbound_clicked,Compact mobile header campaign
 landing,/workout-tracker,hero_or_final,128406689,seo_workout_tracker,app_store_outbound_clicked,Existing acquisition page campaign
 landing,/gym-workout-planner,hero_or_final,128406689,seo_gym_workout_planner,app_store_outbound_clicked,Existing acquisition page campaign
 landing,/progressive-overload,hero_or_final,128406689,seo_progressive_overload,app_store_outbound_clicked,Existing acquisition page campaign
+landing,/hypertrophy-app,hero_or_final,128406689,seo_hypertrophy_app,app_store_outbound_clicked,Hypertrophy-intent acquisition page campaign
+landing,/alpha-progression-alternative,hero_or_final,128406689,seo_alpha_progression_alternative,app_store_outbound_clicked,Balanced competitor-comparison acquisition page; baseline required
 landing,/hevy-alternative,hero_or_final,128406689,seo_hevy_alternative,app_store_outbound_clicked,Existing acquisition page campaign
 landing,/strong-alternative,hero_or_final,128406689,seo_strong_alternative,app_store_outbound_clicked,Existing acquisition page campaign
 landing,/fitnotes-alternative,hero_or_final,128406689,seo_fitnotes_alternative,app_store_outbound_clicked,Existing acquisition page campaign
+landing,/import-workout-history,hero_or_final,128406689,seo_import_workout_history,app_store_outbound_clicked,Central evidence-backed migration guide
 tool,/tools/next-set-calculator,result_cta,128406689,next_set_calculator,app_store_outbound_clicked,Core tool campaign
 tool,/tools/rir-calculator,result_cta,128406689,rir_calculator,app_store_outbound_clicked,Core tool campaign
 tool,/tools/weekly-volume-checker,result_cta,128406689,weekly_volume_checker,app_store_outbound_clicked,Core tool campaign

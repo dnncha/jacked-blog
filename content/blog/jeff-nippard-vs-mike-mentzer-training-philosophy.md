@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Jeff Nippard vs Mike Mentzer: The Training Philosophy Battle Explained"
 excerpt: "Two radically different approaches to building muscle — science-based high volume versus high-intensity minimalism. We break down which actually works."
 ---
-
 The fitness internet is divided. On one side, Jeff Nippard and Dr. Mike Israetel advocates pushing 10-20 sets per muscle group per week. On the other, Mike Mentzer's Heavy Duty preaches one set to failure — and nothing more. Both claim science backs them. Both have passionate followers. Who's right?
 
 The answer: both are — under different circumstances. Let's unpack what each approach actually teaches, what the research says in 2025-2026, and how to pick the right one for your situation.
@@ -25,7 +25,7 @@ The 2021 Journal of Applied Physiology meta-analysis that Mike Mentzer supporter
 
 ## The High-Intensity Approach: Mike Mentzer's Heavy Duty
 
-Mike Mentzer revolutionized training in the 1980s with his "Heavy Duty" philosophy — one set per exercise, taken to absolute failure, with longer rest periods (2-3 minutes) and lower frequency (2-3 workouts per week).
+Mike Mentzer change training in the 1980s with his "Heavy Duty" philosophy — one set per exercise, taken to absolute failure, with longer rest periods (2-3 minutes) and lower frequency (2-3 workouts per week).
 
 **Key principles of Heavy Duty:**
 
@@ -105,4 +105,20 @@ The best program is the one you'll actually do.
 
 ---
 
-*Track your training with Jacked. Download now.*
+## Related reading
+
+- [Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says](/blog/compound-vs-isolation-hypertrophy-science)
+- [The Science of Training Splits: Which One Actually Works Best for Muscle Growth?](/blog/training-split-science-hypertrophy)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

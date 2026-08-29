@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "How to Know If You're Training Hard Enough Without Tracking Everything"
 excerpt: "Forget complex spreadsheets. Here's how to listen to your body and know if your training is actually driving muscle growth."
 ---
-
 Every year, thousands of lifters drown in data. They track every set, every rep, every heartbeat, every hour of sleep. And yet many of them aren't gaining muscle.
 
 Here's the uncomfortable truth: **You don't need to measure everything to know if your training is working.** Your body sends signals. The challenge is learning to read them.
@@ -38,7 +38,7 @@ This doesn't mean adding weight every week. Progress shows up in many ways:
 - More volume (sets × reps × weight) over weeks
 - Shorter rest times between sets
 
-**What to look for:** Every 2-4 weeks, you should notice *something* getting easier or heavier. If three months pass and nothing has changed, your training isn't challenging enough—no matter how hard it feels.
+**What to look for:** Over a meaningful block, you should see some combination of load, repetitions, technique, or tolerance improve. If progress is absent for several weeks, investigate exercise execution, effort, volume, recovery, nutrition, pain, and measurement noise before concluding that the programme simply needs more intensity.
 
 ### 3. Systemic Fatigue: "Am I recovered?"
 
@@ -113,4 +113,24 @@ Trust the process. Trust the signals. And remember: **Your body has been adaptin
 
 ---
 
-*Track your training intensity with Jacked. Download now.*
+## Related reading
+
+- [The Muscle Pump Myth: What Science Actually Says](/blog/muscle-pump-myth-2026)
+- [How to Progress in the Gym: A Science-Based Framework](/blog/how-to-progress-gym-framework)
+
+## Applying this article
+
+Apply the idea to one training block rather than changing the whole program at once. Keep the exercise setup and effort reasonably consistent, record the work, and review the trend before adding volume, load, or complexity.
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

@@ -1,9 +1,9 @@
 ---
+updatedAt: "2026-08-15"
 title: "Epicatechin: The Cocoa Flavanol for Muscle Growth"
 date: "2026-03-03"
 excerpt: "Found in cocoa and dark chocolate, epicatechin shows promise for inhibiting myostatin and supporting muscle growth. Here's what the science says."
 ---
-
 # Epicatechin: The Cocoa Flavanol for Muscle Growth
 
 ## Introduction
@@ -37,7 +37,7 @@ Here's why that matters:
 
 - Myostatin is produced by muscle cells and circulates in the blood
 - It signals muscle fibers to stop growing or even shrink
-- Animals with natural myostatin mutations develop dramatically larger muscles (think Belgian Blue cattle)
+- Animals with natural myostatin mutations develop meaningfully larger muscles (think Belgian Blue cattle)
 - Blocking myostatin in mice leads to muscle hypertrophy without adverse effects in most studies
 
 This makes myostatin inhibition one of the most sought-after mechanisms for muscle growth in sports science.
@@ -82,7 +82,7 @@ It's worth noting the context:
 - **Natural compounds** like epicatechin are weaker but more accessible and have a better safety profile
 - **Creatine and caffeine** have far more robust evidence for muscle building, though they work through different mechanisms
 
-Think of epicatechin as a potential дополнение (supplement) to your stack rather than a replacement for proven compounds.
+Think of epicatechin as a potential addition to your stack rather than a replacement for better-established compounds.
 
 ## Dosage and Practical Considerations
 
@@ -157,7 +157,7 @@ Don't expect dramatic results. Based on current evidence:
 
 ### Final Verdict for Strength Athletes
 
-Epicatechin is an interesting compound with a plausible mechanism and some promising early research. It's not a game-changer, but it might provide a small edge when stacked with proven strategies.
+Epicatechin is an interesting compound with a plausible mechanism and some promising early research. It's not a potentially useful finding, but it might provide a small edge when stacked with proven strategies.
 
 If you're optimizing every variable and have the budget for quality supplements, epicatechin is worth a trial. Just keep your expectations realistic—this isn't a replacement for the fundamentals.
 
@@ -167,4 +167,16 @@ If you're optimizing every variable and have the budget for quality supplements,
 
 ---
 
-*Track your epicatechin supplementation with Jacked. Download now.*
+## Related reading
+
+- [Cortisol and Muscle Growth: The Hidden Killer of Your Gains](/blog/cortisol-muscle-growth-stress-hormone)
+- [Pre-Sleep Protein: The Overnight Muscle Building Secret](/blog/pre-sleep-protein-casein-muscle-growth-2026)
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

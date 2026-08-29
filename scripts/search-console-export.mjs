@@ -25,7 +25,17 @@ const supportedDimensions = new Set([
   'hour',
 ])
 
-const brandTerms = ['jacked', 'jacked coach', 'jacked workout app', 'jacked workout log']
+const brandTerms = [
+  'surpass',
+  'surpass app',
+  'surpass strength',
+  'surpass workout',
+  'surpass coach',
+  'jacked',
+  'jacked coach',
+  'jacked workout app',
+  'jacked workout log',
+]
 const commercialTerms = [
   'workout tracker',
   'hypertrophy app',

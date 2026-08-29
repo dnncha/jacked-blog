@@ -1,10 +1,10 @@
 ---
+updatedAt: "2026-08-15"
 title: "Progressive Overload App: Why Most Apps Fail and What Works"
 date: "2026-05-15"
 category: "Workout Apps"
 excerpt: "A real progressive overload app does more than record sets. It helps choose the next load, reps, or volume change from your actual performance."
 ---
-
 # Progressive Overload App: Why Most Apps Fail and What Works
 
 Progressive overload is simple in theory: do more useful work over time.
@@ -92,9 +92,9 @@ The better target may be to repeat 30kg, improve reps, or reduce load slightly d
 
 This is the distinction: progressive overload is not a blind rule. It is a decision system.
 
-## How Jacked Handles This
+## How Surpass Handles This
 
-Jacked is built around the live workout. The Train view can surface overload guidance before the set using recent performance, targets, and effort context. The goal is to make the next attempt obvious while keeping set logging fast.
+Surpass is built around the live workout. The Train view can surface overload guidance before the set using recent performance, targets, and effort context. The goal is to make the next attempt obvious while keeping set logging fast.
 
 The broader workflow matters too:
 
@@ -122,8 +122,23 @@ The best progressive overload app is not the one with the most charts. It is the
 
 If an app cannot turn your history into a better next set, it is not really doing progressive overload. It is just storing numbers.
 
-## References
+## Editorial methodology
 
-- American College of Sports Medicine. Progression models in resistance training for healthy adults.
-- Schoenfeld BJ et al. Resistance training volume enhances muscle hypertrophy but has practical recovery limits.
-- Helms ER et al. RPE and repetitions-in-reserve approaches for resistance training autoregulation.
+This article evaluates what a progressive-overload app should do; it is not an independent trial of app users and it does not promise that automation produces gains. The criteria are transparent: preserve the history, show the next target, record effort and technique context, expose muscle-level workload, and make the decision reversible when the data are weak.
+
+Surpass-specific workflow statements are based on the current first-party [progressive-overload page](/progressive-overload), [workout tracker](/workout-tracker), [planner](/gym-workout-planner), and [Hevy import guide](/blog/import-hevy-to-surpass). Feature availability can change between releases.
+
+## Evidence
+
+### Sources
+
+- [Progression models in resistance training](https://pubmed.ncbi.nlm.nih.gov/19204579/) — context for progressive resistance training in healthy adults.
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — why overload should be interpreted alongside total training dose.
+- [Autoregulation versus fixed loading](https://pubmed.ncbi.nlm.nih.gov/33776802/) — context for using current performance to adjust training.
+- [Proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/) — context for recording effort instead of treating completed repetitions as sufficient information.
+
+## Limits of the evidence
+
+An app can organize information and make a decision easier; it cannot determine an individual's optimal load, diagnose fatigue, or guarantee hypertrophy. Training studies differ in exercise, load, effort, duration, and participants, while product features change over time.
+
+{{surpass-inline-cta}}

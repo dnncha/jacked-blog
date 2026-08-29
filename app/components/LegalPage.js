@@ -69,7 +69,7 @@ export default function LegalPage({ title, intro, updated, children, links = tru
       `}</style>
       <section className="static-page" style={{ width: 'min(860px, calc(100% - 32px))', margin: '0 auto', padding: '68px 0 82px' }}>
         <Link href="/" style={{ display: 'inline-flex', marginBottom: '28px', color: '#bcb6a8', fontSize: '0.92rem' }}>
-          Back to Jacked
+          Back to Surpass
         </Link>
         <h1 style={{ margin: 0, color: '#fffaf0', fontSize: 'clamp(2.65rem, 7vw, 5rem)', lineHeight: 0.95, fontWeight: 950, letterSpacing: 0 }}>
           {title}

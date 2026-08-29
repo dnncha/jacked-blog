@@ -1,4 +1,8 @@
+'use client'
+
+import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
+import { Download } from 'lucide-react'
 
 function campaignFromHref(href) {
   try {
@@ -8,20 +12,35 @@ function campaignFromHref(href) {
   }
 }
 
-function AppStoreLink({ href, placement, children = 'View Jacked on the App Store' }) {
+function AppStoreLink({
+  href,
+  placement,
+  children = 'Start free on iPhone',
+  experimentName = '',
+  experimentVariant = '',
+  heroPresentation = '',
+  copyVersion = '',
+  className = '',
+  ariaLabel = '',
+}) {
   return (
     <a
-      className="acquisition-store-link"
+      className={`acquisition-store-link${className ? ` ${className}` : ''}`}
       href={href}
       target="_blank"
       rel="noopener noreferrer"
+      aria-label={ariaLabel || undefined}
       data-global-cta={placement}
       data-app-store-placement={placement}
       data-app-store-campaign={campaignFromHref(href)}
+      data-experiment={experimentName || undefined}
+      data-experiment-variant={experimentVariant || undefined}
+      data-hero-presentation={heroPresentation || undefined}
+      data-copy-version={copyVersion || undefined}
     >
-      <span aria-hidden="true"></span>
+      <Download aria-hidden="true" size={23} strokeWidth={2.2} />
       <span>
-        <small>Download free on iPhone</small>
+        <small>Free on the App Store</small>
         {children}
       </span>
     </a>
@@ -43,16 +62,37 @@ export default function AcquisitionLanding({
   related,
   finalTitle,
   finalCopy,
+  canonicalPath = '/',
   heroPresentation = 'photo',
   benefitsTitle = 'Less admin between sets. More useful training context.',
-  benefitsIntro = 'Jacked keeps the details that change your next decision inside the active workout.',
+  benefitsIntro = 'Surpass keeps the details that change your next decision inside the active workout.',
   flowTitle = 'From your last result to the next working set.',
   flowIntro = 'The app stays focused on the workout you are running, not a feed or a generic dashboard.',
   comparisonTitle = 'A training log should help with the next decision.',
   comparisonIntro = 'History is most useful when it is visible before the set it affects.',
-  comparisonLabel = 'Basic workout log and Jacked comparison',
+  comparisonLabel = 'Basic workout log and Surpass comparison',
+  comparisonLeftLabel = 'Basic log',
   faqTitle = 'Questions lifters ask before switching.',
 }) {
+  const copyVersion = 'acquisition_promise_v2'
+  const heroActionsRef = useRef(null)
+  const [showMobileDock, setShowMobileDock] = useState(false)
+
+  useEffect(() => {
+    const heroActions = heroActionsRef.current
+    if (!heroActions) return undefined
+    if (!('IntersectionObserver' in window)) {
+      setShowMobileDock(true)
+      return undefined
+    }
+
+    const observer = new IntersectionObserver(([entry]) => {
+      setShowMobileDock(!entry.isIntersecting)
+    }, { threshold: 0.15 })
+    observer.observe(heroActions)
+    return () => observer.disconnect()
+  }, [])
+
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -61,6 +101,28 @@ export default function AcquisitionLanding({
       name: question,
       acceptedAnswer: { '@type': 'Answer', text: answer },
     })),
+  }
+  const pageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: title,
+    description: intro,
+    url: `https://jacked.coach${canonicalPath}`,
+    isPartOf: { '@type': 'WebSite', name: 'Surpass', url: 'https://jacked.coach' },
+    about: {
+      '@type': 'SoftwareApplication',
+      name: 'Surpass',
+      operatingSystem: 'iOS',
+      applicationCategory: 'HealthApplication',
+    },
+  }
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Surpass', item: 'https://jacked.coach/' },
+      { '@type': 'ListItem', position: 2, name: title, item: `https://jacked.coach${canonicalPath}` },
+    ],
   }
 
   return (
@@ -101,8 +163,8 @@ export default function AcquisitionLanding({
 
         .acquisition-hero.screen {
           background:
-            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.94) 46%, rgba(3,3,3,0.42) 70%, rgba(3,3,3,0.12) 100%),
-            linear-gradient(180deg, transparent 70%, #050505 100%),
+            linear-gradient(90deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.9) 46%, rgba(3,3,3,0.22) 72%, rgba(3,3,3,0.04) 100%),
+            linear-gradient(180deg, transparent 64%, #050505 100%),
             var(--acq-hero-image) calc(100% - 8vw) center / auto 82% no-repeat,
             #050505;
         }
@@ -153,7 +215,7 @@ export default function AcquisitionLanding({
           font-weight: 850;
         }
 
-        .acquisition-store-link > span:first-child { font-size: 2rem; line-height: 1; }
+        .acquisition-store-link > svg { flex: 0 0 auto; }
         .acquisition-store-link > span:last-child { display: grid; line-height: 1.12; }
         .acquisition-store-link small { font-size: 0.68rem; font-weight: 730; }
 
@@ -246,7 +308,19 @@ export default function AcquisitionLanding({
         .acquisition-final h2 { max-width: 760px; margin: 0 auto; font-size: clamp(2.2rem, 5vw, 4.3rem); line-height: 1; letter-spacing: -0.045em; }
         .acquisition-final p { max-width: 620px; margin: 20px auto 28px; color: var(--acq-muted); font-size: 1.08rem; }
 
+        .acquisition-mobile-dock {
+          display: none;
+          opacity: 0;
+          visibility: hidden;
+          pointer-events: none;
+          transform: translateY(calc(100% + 20px));
+          transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease;
+        }
+
+        .acquisition-mobile-dock[aria-hidden="true"] { display: none; }
+
         @media (max-width: 820px) {
+          .acquisition-page { padding-bottom: 78px; }
           .acquisition-hero { min-height: 620px; background-position: 61% center; }
           .acquisition-hero-copy { padding: 70px 0; }
           .acquisition-benefits { grid-template-columns: 1fr; }
@@ -256,17 +330,69 @@ export default function AcquisitionLanding({
           .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
           .acquisition-comparison-head > *:first-child { display: none; }
           .acquisition-hero.screen {
-            min-height: 850px;
+            min-height: 1040px;
             align-items: start;
             background:
-              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 44%, rgba(3,3,3,0.2) 72%, #050505 100%),
-              var(--acq-hero-image) center calc(100% - 18px) / auto 52% no-repeat,
+              linear-gradient(180deg, rgba(3,3,3,1) 0%, rgba(3,3,3,0.96) 42%, rgba(3,3,3,0.18) 60%, rgba(3,3,3,0.04) 82%, #050505 100%),
+              var(--acq-hero-image) center calc(100% - 18px) / auto 35% no-repeat,
               #050505;
           }
           .acquisition-hero.screen .acquisition-hero-copy { padding: 56px 0 430px; }
+          .acquisition-mobile-dock {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 90;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 10px 14px calc(10px + env(safe-area-inset-bottom));
+            border-top: 1px solid rgba(255, 248, 234, 0.16);
+            background: rgba(5, 5, 5, 0.95);
+            box-shadow: 0 -12px 32px rgba(0, 0, 0, 0.34);
+            backdrop-filter: blur(18px) saturate(130%);
+            -webkit-backdrop-filter: blur(18px) saturate(130%);
+          }
+          .acquisition-mobile-dock.acquisition-mobile-dock-visible {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+            transform: translateY(0);
+          }
+          @media (prefers-reduced-motion: reduce) {
+            .acquisition-mobile-dock { transition: none; }
+          }
+          .acquisition-mobile-dock-copy {
+            min-width: 0;
+            flex: 1 1 auto;
+          }
+          .acquisition-mobile-dock-copy strong,
+          .acquisition-mobile-dock-copy span {
+            display: block;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+          }
+          .acquisition-mobile-dock-copy strong { color: #fff8ea; font-size: 0.84rem; }
+          .acquisition-mobile-dock-copy span { margin-top: 2px; color: #aaa294; font-size: 0.72rem; }
+          .acquisition-mobile-dock-link {
+            flex: 0 0 auto;
+            min-height: 48px;
+            padding: 0 13px;
+            border-radius: 9px;
+            box-shadow: 0 8px 22px rgba(245,185,53,0.18);
+            font-size: 0.88rem;
+          }
+          .acquisition-mobile-dock-link > span:first-child { display: none; }
+          .acquisition-mobile-dock-link small { display: none; }
+          .acquisition-mobile-dock-link > span:last-child { display: block; color: #11100c; }
         }
       `}</style>
 
+      <link rel="preload" as="image" href={heroImage} fetchPriority="high" precedence="default" />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <section className={`acquisition-hero ${heroPresentation}`} style={{ '--acq-hero-image': `url('${heroImage}')` }}>
@@ -275,8 +401,15 @@ export default function AcquisitionLanding({
             <p className="acquisition-eyebrow">{eyebrow}</p>
             <h1>{title}</h1>
             <p>{intro}</p>
-            <div className="acquisition-actions">
-              <AppStoreLink href={campaignUrl} placement={`${campaignKey}_hero`} />
+            <div ref={heroActionsRef} className="acquisition-actions">
+              <AppStoreLink
+                href={campaignUrl}
+                placement={`${campaignKey}_hero`}
+                experimentName="acquisition_hero_cta"
+                experimentVariant="outcome_v1"
+                heroPresentation={heroPresentation}
+                copyVersion={copyVersion}
+              />
             </div>
             <p className="acquisition-store-note">Free to download. No account required. Workout history stays on your iPhone.</p>
           </div>
@@ -329,11 +462,11 @@ export default function AcquisitionLanding({
           </div>
           <div className="acquisition-comparison" role="table" aria-label={comparisonLabel}>
             <div className="acquisition-comparison-row acquisition-comparison-head" role="row">
-              <span role="columnheader">Training moment</span><span role="columnheader">Basic log</span><span role="columnheader">Jacked</span>
+              <span role="columnheader">Training moment</span><span role="columnheader">{comparisonLeftLabel}</span><span role="columnheader">Surpass</span>
             </div>
-            {comparison.map(([moment, basic, jacked]) => (
+            {comparison.map(([moment, comparisonCopy, surpassCopy]) => (
               <div className="acquisition-comparison-row" role="row" key={moment}>
-                <strong role="cell">{moment}</strong><span role="cell">{basic}</span><span role="cell">{jacked}</span>
+                <strong role="cell">{moment}</strong><span role="cell">{comparisonCopy}</span><span role="cell">{surpassCopy}</span>
               </div>
             ))}
           </div>
@@ -348,7 +481,7 @@ export default function AcquisitionLanding({
               <details key={question}><summary>{question}</summary><p>{answer}</p></details>
             ))}
           </div>
-          <div className="acquisition-related" aria-label="Related Jacked guides">
+          <div className="acquisition-related" aria-label="Related Surpass guides">
             {related.map(([href, label]) => <Link href={href} key={href}>{label}</Link>)}
           </div>
         </div>
@@ -358,9 +491,32 @@ export default function AcquisitionLanding({
         <div className="acquisition-wrap">
           <h2>{finalTitle}</h2>
           <p>{finalCopy}</p>
-          <AppStoreLink href={campaignUrl} placement={`${campaignKey}_final`} />
+          <AppStoreLink href={campaignUrl} placement={`${campaignKey}_final`} copyVersion={copyVersion} />
         </div>
       </section>
+
+      <div
+        className={`acquisition-mobile-dock${showMobileDock ? ' acquisition-mobile-dock-visible' : ''}`}
+        aria-hidden={!showMobileDock}
+        aria-label="Start Surpass on iPhone"
+      >
+        <div className="acquisition-mobile-dock-copy">
+          <strong>Keep your next set clear.</strong>
+          <span>Free on the App Store · no account required</span>
+        </div>
+        <AppStoreLink
+          href={campaignUrl}
+          placement={`${campaignKey}_mobile_dock`}
+          experimentName="acquisition_mobile_cta"
+          experimentVariant="sticky_outcome_v1"
+          className="acquisition-mobile-dock-link"
+          ariaLabel="Start free with Surpass on iPhone"
+          heroPresentation={heroPresentation}
+          copyVersion={copyVersion}
+        >
+          Start free
+        </AppStoreLink>
+      </div>
     </div>
   )
 }

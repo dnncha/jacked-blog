@@ -30,6 +30,24 @@ const concurrency = Math.max(1, Math.min(12, Number(options.concurrency || 6)))
 const timeoutMs = Math.max(1000, Number(options.timeoutMs || 12000))
 const userAgent = 'JackedTechnicalAudit/1.0 (+https://jacked.coach/support)'
 
+export function summarizeAuditStatuses(records) {
+  const counts = {
+    audited: 0,
+    assets: 0,
+    notAudited: 0,
+    blocked: 0,
+    other: 0,
+  }
+  for (const record of records) {
+    if (record.audit_status === 'audited') counts.audited += 1
+    else if (record.audit_status === 'asset') counts.assets += 1
+    else if (record.audit_status === 'not_audited') counts.notAudited += 1
+    else if (record.audit_status === 'blocked') counts.blocked += 1
+    else counts.other += 1
+  }
+  return counts
+}
+
 const knownPaths = [
   '/',
   '/blog',
@@ -51,6 +69,9 @@ function absoluteUrl(value) {
   try {
     const url = new URL(value, baseUrl)
     if (!['http:', 'https:'].includes(url.protocol) || url.hostname !== baseUrl.hostname) return null
+    // Cloudflare rewrites mailto links to this edge path in production. It is
+    // not an application URL and should not become a false broken-link finding.
+    if (url.pathname.startsWith('/cdn-cgi/')) return null
     url.hash = ''
     return url
   } catch {
@@ -142,7 +163,7 @@ function pageType(url) {
   if (pathname.startsWith('/blog/')) return 'article'
   if (pathname === '/tools') return 'tools_hub'
   if (pathname.startsWith('/tools/')) return 'tool'
-  if (['/workout-tracker', '/gym-workout-planner', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative'].includes(pathname)) return 'acquisition_landing'
+  if (['/workout-tracker', '/gym-workout-planner', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative', '/import-workout-history'].includes(pathname)) return 'acquisition_landing'
   return 'site_page'
 }
 
@@ -190,6 +211,43 @@ function analysePage(result, sitemapSet) {
   const html = result.html
   const parsedUrl = new URL(result.requested)
   const finalUrl = new URL(result.finalUrl)
+  const contentType = (result.headers.get('content-type') || '').toLowerCase()
+  const isHtml = contentType.includes('html') || contentType.includes('xml') || finalUrl.pathname.endsWith('.xml')
+
+  if (result.status !== 0 && !isHtml) {
+    return {
+      url: result.requested,
+      source: '',
+      http_status: result.status,
+      redirect_destination: result.finalUrl !== result.requested ? result.finalUrl : '',
+      redirect_chain: result.chain.map(item => `${item.status}:${item.location}`).join(' | '),
+      canonical: '',
+      robots_meta: '',
+      x_robots_tag: result.headers.get('x-robots-tag') || '',
+      sitemap_inclusion: sitemapSet.has(result.requested) ? 'yes' : 'no',
+      title: '',
+      meta_description: '',
+      h1_count: '',
+      h1_text: '',
+      word_count: '',
+      page_type: 'asset',
+      structured_data_types: '',
+      structured_data_valid: 'not_applicable',
+      inbound_internal_links: 0,
+      outbound_internal_links: 0,
+      image_count: '',
+      missing_alt_count: '',
+      indexability_verdict: 'not_applicable',
+      content_action: result.status >= 400 ? 'Remove' : 'Keep',
+      query_parameters: parsedUrl.search ? parsedUrl.search.slice(1) : '',
+      audit_status: 'asset',
+      notes: `non-html content-type=${contentType || 'unknown'}`,
+      duration_ms: result.durationMs,
+      content_hash: '',
+      links: [],
+    }
+  }
+
   const canonicalRaw = canonicalFrom(html)
   const canonicalUrl = canonicalRaw ? absoluteUrl(new URL(canonicalRaw, result.finalUrl)) : null
   const robots = metaContent(html, 'robots')
@@ -218,18 +276,20 @@ function analysePage(result, sitemapSet) {
   }
   const noindex = /(?:^|[,\s])noindex(?:$|[,\s])/i.test(`${robots},${xRobots}`)
   const canonicalSelf = canonicalUrl ? keyFor(canonicalUrl) === keyFor(parsedUrl) : false
-  const indexable = result.status === 200 && !noindex && canonicalSelf && !soft404
+  const hasRedirect = result.chain.length > 0
+  const indexable = result.status === 200 && !hasRedirect && !noindex && canonicalSelf && !soft404
   const auditStatus = result.status === 0 ? 'blocked' : 'audited'
   let action = 'Improve'
   if (auditStatus === 'blocked') action = 'Review'
-  else if (result.status >= 300 && result.status < 400) action = 'Redirect'
+  else if (hasRedirect || (result.status >= 300 && result.status < 400)) action = 'Redirect'
   else if (result.status >= 400 || soft404) action = 'Remove'
   else if (noindex) action = 'Noindex'
   else if (canonicalUrl && !canonicalSelf) action = 'Merge'
-  else if (['/', '/blog', '/tools', '/workout-tracker', '/gym-workout-planner', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative'].includes(parsedUrl.pathname) || parsedUrl.pathname.startsWith('/tools/')) action = 'Keep'
+  else if (['/', '/blog', '/tools', '/workout-tracker', '/gym-workout-planner', '/progressive-overload', '/hevy-alternative', '/strong-alternative', '/fitnotes-alternative', '/import-workout-history'].includes(parsedUrl.pathname) || parsedUrl.pathname.startsWith('/tools/')) action = 'Keep'
 
   const notes = []
   if (result.error) notes.push(result.error)
+  if (hasRedirect) notes.push('permanent redirect chain resolved before final page')
   if (result.status === 200 && !canonicalRaw) notes.push('missing canonical')
   if (canonicalUrl && !canonicalSelf) notes.push('canonical differs from requested URL')
   if (noindex && sitemapSet.has(keyFor(parsedUrl))) notes.push('noindex URL appears in sitemap')
@@ -259,7 +319,7 @@ function analysePage(result, sitemapSet) {
     outbound_internal_links: internalLinks.length,
     image_count: imageTags.length,
     missing_alt_count: missingAlt,
-    indexability_verdict: auditStatus === 'blocked' ? 'blocked' : indexable ? 'indexable' : noindex ? 'noindex' : 'needs_review',
+    indexability_verdict: auditStatus === 'blocked' ? 'blocked' : hasRedirect ? 'redirected' : indexable ? 'indexable' : noindex ? 'noindex' : 'needs_review',
     content_action: action,
     query_parameters: parsedUrl.search ? parsedUrl.search.slice(1) : '',
     audit_status: auditStatus,
@@ -378,8 +438,9 @@ async function main() {
     }
   }
 
+  const liveIndexableRecords = allRecords.filter(record => record.indexability_verdict === 'indexable' && !record.redirect_destination)
   const hashGroups = new Map()
-  for (const record of allRecords) {
+  for (const record of liveIndexableRecords) {
     if (!record.content_hash) continue
     if (!hashGroups.has(record.content_hash)) hashGroups.set(record.content_hash, [])
     hashGroups.get(record.content_hash).push(record.url)
@@ -394,7 +455,7 @@ async function main() {
 
   const titles = new Map()
   const descriptions = new Map()
-  for (const record of allRecords) {
+  for (const record of liveIndexableRecords) {
     if (record.title) {
       if (!titles.has(record.title)) titles.set(record.title, [])
       titles.get(record.title).push(record.url)
@@ -411,9 +472,7 @@ async function main() {
   const queryUrls = allRecords.filter(record => record.query_parameters).map(record => record.url)
   const stagingUrls = allRecords.filter(record => /(?:^|\/)(?:staging|preview)(?:[./?]|$)|(?:localhost|vercel\.app|pages\.dev)/i.test(record.url)).map(record => record.url)
   const responseTimes = allRecords.filter(record => record.audit_status === 'audited' && Number(record.http_status) === 200 && Number.isFinite(Number(record.duration_ms))).map(record => Number(record.duration_ms))
-  const sitemapAuditCount = allRecords.filter(record => record.sitemap_inclusion === 'yes').length
-  const notAudited = allRecords.filter(record => record.audit_status === 'not_audited').length
-  const blocked = allRecords.filter(record => record.audit_status === 'blocked').length
+  const { audited, assets, notAudited, blocked } = summarizeAuditStatuses(allRecords)
   const columns = [
     'url', 'source', 'http_status', 'redirect_destination', 'redirect_chain', 'canonical', 'robots_meta', 'x_robots_tag', 'sitemap_inclusion',
     'title', 'meta_description', 'h1_count', 'h1_text', 'word_count', 'page_type', 'structured_data_types', 'structured_data_valid',
@@ -445,7 +504,8 @@ Base URL: \`${baseUrl.origin}\`
 - Sitemap fetch: ${sitemapResult.status || 'blocked'}${sitemapResult.error ? ` (${sitemapResult.error})` : ''}
 - URLs listed in sitemap: ${sitemapSet.size}
 - URLs discovered from sitemap, known routes, and internal links: ${queue.length}
-- URLs audited: ${allRecords.filter(record => record.audit_status === 'audited').length}
+- HTML/XML URLs audited: ${audited}
+- Non-HTML assets fetched: ${assets}
 - URLs not audited because of the bound: ${notAudited}
 - Fetch-blocked URLs: ${blocked}
 - Audit bound: ${maxPages} pages, ${concurrency} concurrent requests, ${timeoutMs}ms timeout
@@ -476,7 +536,7 @@ ${markdownList(stagingUrls)}
 ## Findings requiring review
 
 - A sitemap URL should be 200, indexable, canonical to itself, and useful before it is retained in the sitemap.
-- A missing or non-self canonical is recorded as \`needs_review\` or \`Merge\`; no redirect is applied by this audit.
+- A missing or non-self canonical is recorded as \`needs_review\` or \`Merge\`; observed redirect chains are recorded as \`Redirect\` and are not created by this audit.
 - Duplicate metadata and exact-content duplicate groups are recorded for content review. The script does not infer backlinks, Search Console demand, or a safe redirect destination.
 - JavaScript-disabled rendering, mobile layout, structured-data visibility after hydration, and browser interaction are not proven by this HTTP crawl.
 
@@ -492,7 +552,7 @@ Run: ${runDate}
 
 ## Measurement boundary
 
-This run used dependency-free HTTP fetches against \`${baseUrl.origin}\`. It did not run Lighthouse, a browser, JavaScript interaction, a throttled mobile trace, CrUX, or PageSpeed Insights. LCP, INP, and CLS are therefore **not measured** and no Core Web Vitals pass/fail claim is made.
+This run used dependency-free HTTP fetches against \`${baseUrl.origin}\`. It did not run Lighthouse, a browser, JavaScript interaction, a throttled mobile trace, CrUX, or PageSpeed Insights. LCP, INP, and CLS are therefore **not measured by this crawl** and no Core Web Vitals pass/fail claim is made. The site now emits privacy-safe, rounded web_vital_measured events when a page is hidden or navigated away; live field readback is still unavailable in this lane.
 
 ## Available HTTP timing signal
 
@@ -506,7 +566,7 @@ These durations include network and response-body transfer from this machine. Th
 
 ## Required next measurement
 
-Run representative home, acquisition, tool, and article templates in a browser on a throttled mobile profile with JavaScript enabled and disabled where relevant. Record field or lab evidence for LCP, INP, CLS, total blocking time, transferred bytes, image dimensions, video loading, hydration cost, font shifts, and third-party script cost. Compare the homepage hero, app-preview video, Mermaid requests, Mixpanel initialization, and the largest tool/article templates before changing implementation.
+Run representative home, acquisition, tool, and article templates in a browser on a throttled mobile profile with JavaScript enabled and disabled where relevant. Record field or lab evidence for LCP, INP, CLS, total blocking time, transferred bytes, image dimensions, video loading, hydration cost, font shifts, and third-party script cost. Compare the homepage hero, app-preview video, Mermaid requests, Mixpanel initialization, and the largest tool/article templates before changing implementation; then compare the field web_vital_measured sample by template, viewport class, and date range.
 `
   await fs.writeFile(path.join(performanceDir, 'core-web-vitals.md'), performanceMarkdown)
 
@@ -514,7 +574,8 @@ Run representative home, acquisition, tool, and article templates in a browser o
     baseUrl: baseUrl.origin,
     sitemapUrls: sitemapSet.size,
     discoveredUrls: queue.length,
-    auditedUrls: allRecords.length - notAudited,
+    auditedUrls: audited,
+    assetUrls: assets,
     notAudited,
     blocked,
     brokenInternalLinks: brokenInternal.length,
@@ -522,7 +583,9 @@ Run representative home, acquisition, tool, and article templates in a browser o
   }, null, 2))
 }
 
-main().catch(error => {
-  console.error(error?.stack || error)
-  process.exitCode = 1
-})
+if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
+  main().catch(error => {
+    console.error(error?.stack || error)
+    process.exitCode = 1
+  })
+}

@@ -1,67 +1,55 @@
 ---
-title: "Dileucine: The Amino Acid Combo That Outperforms Leucine?"
-excerpt: "New research suggests dileucine—a bonded leucine pair—may trigger 60% greater muscle protein synthesis than leucine alone. Here's what the science says."
+title: "Dileucine and Muscle Protein Synthesis: What One Trial Shows"
+date: "2026-02-25"
+updatedAt: "2026-08-15"
+category: "Supplements"
+excerpt: "A small human trial found dileucine increased muscle protein turnover versus leucine, but that does not yet prove more strength or muscle in training."
 ---
 
-Leucine has long been hailed as the "anabolic switch" for muscle protein synthesis. It's the critical amino acid that flips the mTOR pathway on, telling your muscles to start building. But what if there was something better?
+Dileucine is a dipeptide made from two leucine molecules. It has attracted attention because a randomized crossover trial in healthy young men found that 2 g of dileucine stimulated muscle protein turnover more than an isomolar amount of free leucine.
 
-Enter **dileucine**—a dipeptide consisting of two leucine molecules bonded together. Emerging research suggests this bonded pair may deliver superior muscle-building effects compared to equivalent doses of free leucine.
+That is an interesting acute finding. It is not evidence that dileucine builds more muscle than protein, improves strength, or deserves a standard place in every supplement stack.
 
-## What Is Dileucine?
+## The difference between MPS and hypertrophy
 
-Dileucine (Leu-Leu) is a dipeptide—a chain of two amino acids linked by a peptide bond. When you consume protein, your body breaks it down into individual amino acids and small peptides. Dileucine exists naturally as an intermediate in this breakdown process.
+Muscle protein synthesis is a short-term laboratory outcome. It can change after a meal or supplement without producing a measurable difference in muscle size over weeks. The body also balances synthesis with breakdown, and training adaptation depends on energy intake, total protein, exercise, sleep, and time.
 
-The key advantage: dileucine is transported into muscle cells via a separate mechanism from free amino acids. It uses peptide transporters (PEPT1/PEPT2) rather than competing with other amino acids for absorption. This means more leucine gets into your muscle cells, potentially triggering greater muscle protein synthesis (MPS).
+The dileucine trial was small, short, and performed in young healthy men. It compared acute responses to leucine; it did not compare months of resistance training with a whole-protein control. That limits what the result can tell a lifter.
 
-## The Research
+## What should not be claimed
 
-### The Landmark Study
+There is no sound basis for saying dileucine “outperforms leucine” as a complete training supplement, produces 60% more muscle, or delivers a predictable strength gain. A percentage difference in a tracer-derived MPS measure is not a percentage difference in hypertrophy.
 
-A 2021 study published in the *Journal of Applied Physiology* put dileucine to the test. Ten healthy young men consumed either 2g of leucine or 2g of dileucine in a randomized crossover design. The results?
+Whole protein also supplies essential amino acids and energy in a food context. Replacing a protein-rich meal with a single dipeptide would answer a different nutritional question from the one studied.
 
-**Dileucine stimulated significantly greater muscle protein synthesis** compared to isomolar leucine. The research demonstrated that dileucine is more effective at promoting muscle protein turnover in young males.
+## Practical decision
 
-### 2025 Research Updates
+Dileucine is a research-stage option. If you are not consistently meeting daily protein needs, fixing that is a higher-value intervention. If you are already using protein, creatine, and a sound program, a dileucine experiment should be considered optional and difficult to interpret.
 
-More recent research has strengthened these findings. A 2025 study in *Journal of the International Society of Sports Nutrition* found that dileucine-supplemented essential amino acids (EAAs) and branched-chain amino acids (BCAAs) supported greater whole-body anabolism after resistance exercise compared to control groups.
+There is no established long-term sports dose. Do not copy a 2 g acute research dose and assume it is a prescription. Product identity, purity, cost, and tested-sport status matter, particularly for proprietary formulations.
 
-Perhaps most compelling: research from NNB Nutrition's DL185 compound (a proprietary dileucine formulation) showed **60% greater muscle protein synthesis activation** versus equivalent leucine doses, along with significant strength gains.
+## Bottom line
 
-### Lower Body Strength Benefits
+Dileucine has one notable human acute study showing greater muscle protein turnover than leucine in young men. That is enough to justify more research, not enough to promise more muscle or strength. Treat it as an uncertain supplement and keep total protein and training fundamentals ahead of it.
 
-A 2025 study in *NutraIngredients* specifically examined lower body strength and muscular endurance. The results showed dileucine may "significantly increase muscle protein synthesis compared to isomolar amounts of leucine," with researchers noting the muscle boost "translates into meaningful performance benefits."
+For the evidence-based protein baseline, read [Protein and Muscle Growth](/blog/protein-muscle-growth-guide). For a supplement with long-term training evidence, see [Creatine Monohydrate](/blog/creatine-monohydrate-science-2026).
 
-## Why Dileucine Works Better
+## Related reading
 
-The science comes down to transport kinetics:
+- [Protein and Muscle Growth: A Practical Guide](/blog/protein-muscle-growth-guide)
+- [Creatine Monohydrate: The Science Behind the Most Researched Supplement](/blog/creatine-monohydrate-science-2026)
 
-1. **Separate transporter**: Dileucine uses peptide transporters, avoiding competition with free amino acids
-2. **More efficient uptake**: Muscle cells may preferentially absorb the dipeptide form
-3. **Sustained release**: The bonded structure may provide a more prolonged anabolic signal
+## Applying this article
 
-Think of it like this: leucine is a single key that unlocks the muscle-building door. Dileucine is essentially two keys fused together—sometimes two is better than one.
+Do not use an acute MPS result to set a long-term expectation. Track daily protein, training performance, and body measurements before spending money on a novel amino-acid product.
 
-## Practical Implications
+## Limits of the evidence
 
-While the research is promising, here's the realistic picture:
+The main study was small, short, and acute. It does not establish a long-term effect on muscle size, strength, recovery, or safety.
 
-- **Most studies use 2g doses** — equivalent to about 2.6g of leucine
-- **Timing**: Similar to leucine, it appears effective when taken around workouts or with protein
-- **Form**: Dileucine is now available as a standalone supplement (often marketed as DL185 or similar)
-- **Stacking**: It may enhance other amino acid supplements (EAAs, BCAAs, or whey)
+### Sources
 
-## The Bottom Line
+- [Dileucine ingestion and muscle protein turnover in young males: randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/34323596/). Acute MPS and turnover outcome; not a hypertrophy trial.
+- [Protein supplementation and resistance training: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/). Context for whole-protein outcomes.
 
-Dileucine isn't a miracle compound, but the evidence suggests it's genuinely more effective than leucine alone for stimulating muscle protein synthesis. If you're already taking amino acid supplements, dileucine-enhanced products may offer a meaningful upgrade.
-
-The effect size (around 60% greater MPS activation in some studies) is significant in the supplement world. It's not as dramatic as the difference between protein and no protein, but it's meaningful for optimization-focused lifters.
-
-As always, the basics come first: eat sufficient protein (1.6-2.2g/kg bodyweight), train with intensity, and prioritize sleep. Dileucine is an optimization layer on top of that foundation—not a replacement for the fundamentals.
-
----
-
-*More research is needed on optimal dosing, long-term effects, and comparisons with whole protein sources. But for science-backed supplementStackers, dileucine is one to watch.*
-
----
-
-*Track your supplements with Jacked. Download now.*
+{{surpass-inline-cta}}

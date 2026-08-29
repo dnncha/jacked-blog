@@ -1,86 +1,53 @@
 ---
-title: "CoQ10 for Strength Athletes: The Mitochondrial Advantage"
+title: "CoQ10 for Strength Athletes: What the Evidence Shows"
 date: "2026-03-05"
-excerpt: "CoQ10 supplementation shows 4.5% peak power improvements in trained athletes. Here's what the research says and who benefits most."
+updatedAt: "2026-08-15"
+category: "Supplements"
+excerpt: "CoQ10 has a role in mitochondrial biology, but current trials show limited and inconsistent exercise-performance effects, especially for strength."
 ---
 
-**Coenzyme Q10 (CoQ10)** has been quietly powering cellular energy production since before you were born. It's in every cell of your body, primarily hanging out in the mitochondria—the little power plants that turn food into ATP, the currency your muscles use to lift heavy things. For strength athletes, this molecule deserves more attention than it typically gets.
+Coenzyme Q10 (CoQ10) participates in mitochondrial energy production and has antioxidant properties. That makes it a reasonable research candidate for exercise, especially in people with particular clinical needs. It does not make CoQ10 a proven “mitochondrial advantage” for every lifter.
 
-## What Is CoQ10 and Why Should Lifters Care?
+## What the biology can tell us
 
-CoQ10 is a fat-soluble compound that acts as an electron carrier in the mitochondrial electron transport chain. Think of it as the spark plug in your cellular engine. Without adequate CoQ10, your mitochondria can't efficiently produce ATP, and that means your muscles have less energy available for high-intensity efforts.
+CoQ10 is involved in electron transport and exists in oxidised and reduced forms. Supplementation can raise circulating CoQ10. The important next question is whether that biochemical change improves a meaningful training outcome.
 
-Here's what makes it interesting for lifters:
+The answer is not consistently yes. A 2025 systematic review and meta-analysis found that CoQ10 reliably increased blood CoQ10 but produced limited and unstable effects on exercise performance. Strength and anaerobic outcomes changed little, and the certainty of evidence was low to very low.
 
-**Two forms matter:** Ubiquinone is the oxidized form that your body converts to ubiquinol—the active, reduced form. For supplementation, ubiquinol is generally considered superior because it's more bioavailable, especially as you age. Your body has to work harder to convert ubiquinone, and that conversion efficiency declines over time.
+## Biomarkers are not performance
 
-**You make less as you age:** Like testosterone and growth hormone, CoQ10 production peaks in your twenties and gradually declines. By your forties, you might be producing significantly less than you did in your prime. Combine that with the increased mitochondrial demand from heavy training, and you've got a potential mismatch between supply and demand.
+Some reviews report changes in oxidative-stress or muscle-damage markers. Those findings can help identify biological effects, but they do not prove more power, hypertrophy, or faster recovery. Likewise, one study reporting a 4.5% peak-power change should not become a universal promise; study design, sample size, training status, and measurement reliability matter.
 
-**Training increases demand:** Intense resistance training creates metabolic stress and increases mitochondrial activity. Your muscles literally need more CoQ10 to function optimally during and after heavy sessions. Some research suggests that intense training can deplete CoQ10 levels, creating a case for supplementation in serious lifters.
+There is no good basis for saying that CoQ10 deficiency is common in healthy lifters over 30, that heavy training depletes it in a way that requires supplementation, or that ubiquinol is automatically superior for performance. Formulation and absorption can differ, but “more bioavailable” is not the same as “better training result.”
 
-## The Science: What CoQ10 Actually Does for Performance
+## Who should discuss it?
 
-Let's look at what the research says, because this is where things get interesting.
+CoQ10 may be relevant to a clinician-managed condition or to people taking medicines that affect CoQ10 status. For a healthy lifter seeking strength, it is a low-priority experiment behind creatine, protein, sufficient energy, sleep, and programming.
 
-### Power Output Improvements
+If you choose to try it, follow the product label and evaluate one outcome over several weeks. Do not infer success from a general feeling of energy, and do not change medication without a clinician. Gastrointestinal symptoms and interactions are possible.
 
-A landmark study published in the Journal of the International Society of Sports Nutrition gave 100 trained athletes either 300mg of ubiquinol or a placebo for six weeks. The results? The ubiquinol group showed a **4.5% improvement in peak power production** compared to placebo. That's meaningful for athletes where power matters—think olympic lifts, explosive movements, or anyone pushing against serious resistance.
+## Bottom line
 
-The researchers noted that improvements were most apparent in peak power output during high-intensity efforts. This isn't about endurance—it's about that split-second burst where you're either moving the weight or you're not.
+CoQ10 has legitimate mitochondrial biology and can raise blood CoQ10, but current exercise evidence does not establish a reliable strength, power, or hypertrophy advantage. Treat it as optional and context-dependent rather than an essential supplement for older or high-volume lifters.
 
-### Oxidative Stress and Recovery
+For a supplement with a stronger resistance-training evidence base, read [Creatine Monohydrate](/blog/creatine-monohydrate-science-2026). For mixed evidence on another recovery supplement, see [Astaxanthin for Athletes](/blog/astaxanthin-supplementation-athletes).
 
-Another systematic review found that CoQ10 supplementation reduced oxidative stress markers in athletes while simultaneously increasing antioxidant capacity. This matters because resistance training, while excellent for building muscle, creates oxidative stress. Too much of it without adequate recovery impairs muscle protein synthesis and delays adaptation.
+## Related reading
 
-The review also found improvements in fatigue markers and anaerobic performance. Athletes reported feeling less fatigued during repeated efforts, and neuromuscular variables showed improvements in mean power output across various protocols.
+- [Creatine Monohydrate: The Science Behind the Most Researched Supplement](/blog/creatine-monohydrate-science-2026)
+- [Astaxanthin for Athletes: What Exercise Research Shows](/blog/astaxanthin-supplementation-athletes)
 
-### The Mitochondrial Mechanism
+## Applying this article
 
-CoQ10 works through several pathways relevant to strength athletes:
+Define a measurable reason to test CoQ10, keep training and nutrition stable, and review the result against cost, side effects, and sleep—not against a marketing promise.
 
-1. **ATP production:** CoQ10 is essential for the electron transport chain's function. More efficient ATP production means more available energy for muscle contractions.
+## Limits of the evidence
 
-2. **Antioxidant protection:** CoQ10 is itself an antioxidant that helps protect mitochondrial membranes from oxidative damage. This creates a protective effect during intense training.
+CoQ10 trials use different forms, doses, durations, populations, and exercise outcomes. Biomarker changes and isolated positive studies do not establish a predictable benefit for a healthy strength athlete.
 
-3. **PGC-1α activation:** Some research suggests CoQ10 influences PGC-1α expression, the master regulator of mitochondrial biogenesis. More mitochondria = greater aerobic capacity and potentially better recovery between sets.
+### Sources
 
-## Optimal Dosing: What Works
+- [CoQ10 and exercise performance: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/41457257/). Performance effects were limited and inconsistent; certainty was low.
+- [CoQ10, muscle-damage biomarkers, and oxidative stress in athletes](https://pubmed.ncbi.nlm.nih.gov/40367843/). Biomarker evidence; not a direct muscle-growth outcome.
 
-Based on the research, here's what you need to know:
-
-**Form:** Ubiquinol (the reduced form) is superior to ubiquinone, particularly for anyone over 30. Your absorption also improves when taken with dietary fat, so take it with your biggest meal of the day.
-
-**Dosage:** Studies showing performance benefits used 200-300mg daily. Lower doses (like 100mg) may provide general health benefits but likely won't move the needle on performance.
-
-**Timing:** Because CoQ10 has a long half-life, timing matters less than consistency. Take it at the same time each day—preferably with a fat-containing meal.
-
-**Duration:** Benefits accumulate over time. The positive studies used 4-6 week supplementation periods. You're not going to feel different after one week.
-
-## Who Benefits Most
-
-Not everyone needs CoQ10. Here's where it makes the most sense:
-
-**Older lifters (30+):** Your natural CoQ10 production is declining. Supplementation directly addresses this deficit.
-
-**High-volume trainers:** If you're doing 15+ weekly sets per muscle group, your mitochondrial demand is elevated. CoQ10 supports recovery between sessions.
-
-**Anyone experiencing unexplained fatigue:** If your recovery is on point but you're still dragging, CoQ10 deficiency could be a factor.
-
-**Those training for power:** The research specifically shows benefits for peak power output. If you're chasing big jumps on your clean or clap pull-up, this matters.
-
-**Vegetarians and vegans:** CoQ10 is found primarily in organ meats and fatty fish. Plant-based diets tend to be lower in CoQ10, making supplementation more relevant.
-
-## The Bottom Line
-
-CoQ10 isn't a magic compound that will add 50 pounds to your bench press. But the research supports its use for specific goals:
-
-- Improved peak power production (4.5% in trained athletes)
-- Reduced oxidative stress and faster recovery
-- Better fatigue resistance during repeated efforts
-- Greater mitochondrial efficiency
-
-For a strength athlete, these translate to better training quality, faster adaptation, and the ability to produce more force when it counts. It's not essential like protein or creatine, but it's a well-researched supplement that delivers measurable benefits for the right user.
-
-**Recommendation:** If you're over 30, training seriously, and looking for every edge, a 6-12 week cycle of 200-300mg ubiquinol daily is worth trying. Take it with fat, be patient (4+ weeks to see effects), and assess your recovery and power output.
-
-For younger lifters with no performance issues, it's probably not necessary. But for everyone else? The evidence stacks up.
+{{surpass-inline-cta}}

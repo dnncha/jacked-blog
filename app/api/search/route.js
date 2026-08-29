@@ -1,4 +1,4 @@
-import { allBlogPosts } from '../../blog/posts'
+import { canonicalBlogPosts } from '../../blog/posts'
 
 export const dynamic = 'force-static'
 let cachedPosts = null
@@ -10,7 +10,7 @@ function dateValue(value) {
 function getSearchPosts() {
   if (cachedPosts) return cachedPosts
 
-  cachedPosts = allBlogPosts
+  cachedPosts = canonicalBlogPosts
     .map(post => {
       // Extract first 200 chars of content for search preview
       const plainContent = post.content

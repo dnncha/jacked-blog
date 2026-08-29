@@ -1,8 +1,8 @@
 ---
-title: "Muscle Memory: Why Your Gains Come Back Faster"
+updatedAt: "2026-08-15"
+title: "Muscle Memory After Detraining: What the Science Shows"
 excerpt: "Science reveals previously trained muscles regrow faster. Here's the epigenetic and myonuclear mechanisms behind this phenomenon."
 ---
-
 If you've ever taken time off lifting—due to injury, travel, or life—and noticed your strength and size came back surprisingly fast, you weren't imagining it. There's a biological reason for it: **muscle memory**.
 
 This isn't the learning component (your CNS remembering movement patterns). This is something far more profound—your muscle cells actually retain a "memory" of previous training at the cellular and epigenetic level, making regaining muscle significantly faster than gaining it the first time.
@@ -89,4 +89,19 @@ The old saying "muscles have memory" isn't just motivational speak. It's cellula
 
 ---
 
-*Track your muscle memory with Jacked. Download now.*
+## Related reading
+
+- [Muscle Memory and Myonuclei: What Training Retains](/blog/muscle-memory-myonuclei-retention-science)
+- [Muscle Memory: The Science Behind Why Your Gains Stick](/blog/muscle-memory-science-gains)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Muscle memory after detraining and retraining](https://pubmed.ncbi.nlm.nih.gov/41346689/). Recent human evidence; exact response depends on prior training and detraining.
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). General adaptation context.
+
+{{surpass-inline-cta}}

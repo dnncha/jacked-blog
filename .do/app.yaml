@@ -14,6 +14,110 @@ alerts:
   - rule: DOMAIN_FAILED
 ingress:
   rules:
+    - match:
+        path:
+          prefix: /blog/beta-ecdysterone-muscle-growth
+      redirect:
+        uri: /blog/beta-ecdysterone-muscle-anabolic-research/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/creatine-loading-phase-necessary
+      redirect:
+        uri: /blog/creatine-loading-phase-necessary-research/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/gut-microbiome-muscle-building-probiotics-2026
+      redirect:
+        uri: /blog/gut-muscle-axis-microbiome-muscle-building/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/gut-microbiome-muscle-growth-science
+      redirect:
+        uri: /blog/gut-muscle-axis-microbiome-muscle-building/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/muscle-memory-hypertrophy-detraining-science
+      redirect:
+        uri: /blog/muscle-memory-myonuclei-retention-science/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/muscle-memory-science-gains-faster
+      redirect:
+        uri: /blog/muscle-memory-myonuclei-retention-science/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/strong-to-jacked-import-guide
+      redirect:
+        uri: /blog/strong-to-surpass-import-guide/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/import-hevy-to-jacked
+      redirect:
+        uri: /blog/import-hevy-to-surpass/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/jacked-competitor-analysis-2026
+      redirect:
+        uri: /blog/surpass-competitor-analysis-2026/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/exercise-selection-architecture-hypertrophy
+      redirect:
+        uri: /blog/muscle-architecture-hypertrophy-science/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/concurrent-training-interference-effect-muscle-growth
+      redirect:
+        uri: /blog/concurrent-training-interference-effect-2026/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /blog/recovery-technologies-muscle-growth-2026
+      redirect:
+        uri: /blog/recovery-technologies-muscle-building-science/
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /api/feed
+      redirect:
+        uri: /feed.xml
+        authority: jacked.coach
+        scheme: https
+        redirect_code: 301
     - component:
         name: site
       match:

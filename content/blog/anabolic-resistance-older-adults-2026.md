@@ -1,137 +1,58 @@
 ---
-title: "Anabolic Resistance: Why Your Muscles Stop Responding to Protein (And What To Do About It)"
-excerpt: "As we age, our muscles become less responsive to protein—a phenomenon called anabolic resistance. Here's the 2025-2026 science on fighting back and maintaining muscle mass."
+updatedAt: "2026-08-15"
+title: "Anabolic Resistance: Protein and Muscle in Older Adults"
+excerpt: "Age can reduce the acute muscle-protein-synthesis response to feeding or exercise, but older adults can still gain muscle. Here is what protein and training evidence supports."
 ---
 
-# Anabolic Resistance: Why Your Muscles Stop Responding to Protein (And What To Do About It)
+Anabolic resistance describes a reduced acute muscle-protein-synthesis response to a given feeding or exercise stimulus in some older adults. It is a research observation, not a statement that muscle stops responding or that every person over 40 needs the same diet.
 
-If you're over 40 and have noticed that the protein-rich diet that worked in your twenties now seems to do less, you're not imagining it. Your muscles are literally becoming resistant to the muscle-building effects of protein—a phenomenon scientists call **anabolic resistance**.
+## What changes with age?
 
-New research from 2025-2026 is revealing exactly why this happens and, more importantly, how to fight back.
+A 2024 systematic review and exploratory meta-analysis of 79 controlled trials found that resistance exercise increased muscle protein synthesis in healthy adults, but the pooled response was smaller in adults over 50 than in younger adults. The authors also found substantial heterogeneity linked to age, loading parameters, muscle group, and training experience ([MPS review](https://pubmed.ncbi.nlm.nih.gov/38716482/)).
 
-## What Is Anabolic Resistance?
+Possible contributors include lower habitual activity, changes in blood flow and digestion, inflammation, illness, medication, and differences in the exercise stimulus. “Impaired mTOR signaling” is one mechanistic hypothesis, not a complete diagnosis or a reason to self-prescribe a supplement.
 
-{{recovery-pyramid}}
+## Protein: enough total intake, flexible meal sizes
 
-Anabolic resistance is the age-related decline in your muscles' ability to respond to the muscle-building (anabolic) signals from protein intake and resistance training. Simply put: the same amount of protein that triggered muscle growth in your twenties produces a weaker response in your forties and beyond.
+A review of meal protein requirements describes a practical 20–30 g serving for many adults and notes that age, physical activity, and resistance exercise modify the response ([meal-protein review](https://pubmed.ncbi.nlm.nih.gov/25926513/)). A planning range around 1.6 g/kg/day is useful for many resistance-trained adults, but the appropriate intake depends on body size, energy balance, food preference, kidney health, and clinical context. It is not a universal prescription or a minimum that switches growth on.
 
-This isn't just a theoretical concept. Research published in the *Journal of Cachexia, Sarcopenia and Muscle* (2025) confirms that older adults need significantly more protein to achieve the same muscle-building response as younger individuals [1].
+The idea that every older adult must hit 35–40 g or a fixed leucine threshold at every meal is too strong. A study comparing 30 g and 90 g of beef found a greater acute MPS response to the moderate serving in both young and older participants in that protocol; it did not establish a universal upper limit or apply to every food ([feeding study](https://pubmed.ncbi.nlm.nih.gov/19699838/)). A 2023 systematic review also found that no single blood-leucine variable reliably predicted the post-exercise MPS response across age groups ([leucine review](https://pubmed.ncbi.nlm.nih.gov/37537134/)).
 
-The process behind anabolic resistance involves multiple factors:
+Spread protein across meals that are realistic and include a complete or complementary amino-acid source. A larger serving can be practical when a person eats fewer meals, has a lower-protein food, or is managing appetite. Do not discard protein because it exceeds an internet “ceiling.”
 
-- **Impaired mTOR signaling:** The key pathway that triggers muscle protein synthesis (MPS) becomes less sensitive to amino acids
-- **Reduced satellite cell function:** The stem cells responsible for muscle repair and growth become less responsive
-- **Chronic low-grade inflammation:** Age-related inflammation interferes with muscle-building pathways
-- **Insulin resistance:** Similar to how cells become resistant to insulin, muscles become resistant to the anabolic signals
+## Resistance training remains central
 
-## The Protein Gap: How Much Do You Actually Need?
+Older adults can increase strength, muscle size, and function with progressive resistance training. In a 12-week randomized trial, adding 20 g of whey to two lower-protein meals did not further improve training adaptations when the comparison meals already contained protein ([trial in older adults](https://pubmed.ncbi.nlm.nih.gov/35240263/)). This does not make protein irrelevant; it shows that extra powder cannot replace a complete diet and a supervised training stimulus.
 
-{{recovery-pyramid}}
+Training should be adjusted for joint symptoms, balance, medical conditions, and recovery—not for an assumption that a person’s age dictates one load or rep range. A clinician or qualified exercise professional can help when frailty, osteoporosis, neurological disease, or major illness is part of the question.
 
-If you're under 30, the standard recommendation of 1.6-2.2g/kg of body weight per day works well. But for older adults experiencing anabolic resistance, research from 2025 suggests higher intakes are necessary.
+## Practical checklist
 
-A comprehensive review in *Nutrients* (2025) found that older adults facing anabolic resistance benefit from **1.6 to 2.0 grams per kilogram of body weight daily**—significantly higher than the 1.2-1.6g/kg often recommended for younger adults [2].
+- Set a sustainable daily protein target and review it with a clinician if kidney disease or another medical condition is present.
+- Include protein in three or more meals if that fits appetite and schedule.
+- Use resistance training with gradual load, repetitions, or volume progression.
+- Track strength, function, body mass, and recovery rather than an acute MPS headline.
+- Avoid aggressive dieting when preserving muscle is the priority.
 
-For a 80kg (176lb) male, this means:
-- **Younger adult:** ~120-140g protein daily
-- **Older adult (40+):** ~128-160g protein daily
+## Bottom line
 
-But here's the crucial part: it's not just about total intake. The way you distribute protein matters even more.
+Anabolic resistance is a real but variable research finding. It does not mean older adults cannot grow muscle, nor does it justify a fixed 1.6–2.0 g/kg rule, 35–40 g meal requirement, or leucine supplement for everyone. Adequate food, repeatable resistance training, and appropriate clinical care remain the stronger foundation.
 
-## The Leucine Threshold Problem
+### Sources
 
-{{recovery-pyramid}}
+- [MPS response to resistance exercise in healthy adults](https://pubmed.ncbi.nlm.nih.gov/38716482/)
+- [Meal protein requirements and aging](https://pubmed.ncbi.nlm.nih.gov/25926513/)
+- [Moderate versus large protein serving and MPS](https://pubmed.ncbi.nlm.nih.gov/19699838/)
+- [Post-exercise leucine and MPS systematic review](https://pubmed.ncbi.nlm.nih.gov/37537134/)
+- [Protein supplementation at lower-protein meals in older adults](https://pubmed.ncbi.nlm.nih.gov/35240263/)
 
-Leucine is the key amino acid that triggers muscle protein synthesis. Younger adults hit the "leucine threshold" (about 2.5-3g) with roughly 25-30g of protein per meal. Older adults need more—research shows they may need **35-40g per meal** to trigger the same response [3].
+## Related reading
 
-This is because the sensitivity to leucine declines with age. Your muscles need a stronger "signal" (more leucine) to activate the same muscle-building response.
+- [mTOR and Leucine](/blog/mtor-leucine-threshold-2026)
+- [Protein Distribution and the MPS “Refractory Period”](/blog/muscle-protein-synthesis-refractory-period)
 
-A 2025 study in the *American Journal of Clinical Nutrition* demonstrated that while younger adults achieved maximal MPS with 25g of whey protein, older adults required closer to 40g—nearly 60% more [4].
+## Limits of the evidence
 
-## The Exercise Solution: It's Non-Negotiable
+Acute tracer studies, longer training trials, and clinical populations answer different questions. Results vary with age, health, diet, exercise, and measurement, so no single protein amount predicts one person’s muscle gain.
 
-{{recovery-pyramid}}
-
-Here's the encouraging part: resistance training actually *reverses* anabolic resistance.
-
-Research from 2025-2026 consistently shows that regular strength training improves muscle sensitivity to protein. A study in *Medicine & Science in Sports & Exercise* found that eight weeks of resistance training significantly improved the MPS response to protein in older adults [5].
-
-The mechanism is straightforward:
-1. Exercise activates mTOR pathways
-2. Exercise stimulates satellite cell activation  
-3. Trained muscle is more sensitive to amino acids
-4. The "anabolic resistance" is partially overcome
-
-This is why combining higher protein intake with consistent resistance training is the one-two punch that defeats anabolic resistance.
-
-## Muscle Protein Synthesis Timeline
-
-{{recovery-pyramid}}
-{{mps-timeline}}
-
-## Training Stress vs Recovery
-
-{{recovery-pyramid}}
-{{stress-balance}}
-
-## Practical Strategies (2025-2026 Recommendations)
-
-{{recovery-pyramid}}
-
-Based on the latest research, here's how to combat anabolic resistance:
-
-### 1. Increase Per-Meal Protein
-
-Instead of three moderate meals, aim for **4-5 smaller protein feedings** throughout the day. Each meal should contain 30-40g of high-quality protein to ensure you hit the leucine threshold.
-
-### 2. Prioritize Fast-Digesting Proteins Post-Workout
-
-Whey protein remains the gold standard for post-workout muscle building. Its rapid absorption and complete amino acid profile make it ideal for triggering MPS when your muscles are most receptive.
-
-### 3. Don't Fear Higher Total Intakes
-
-The old "your body can only use 30g per meal" myth has been debunked. Research shows that while the per-meal ceiling exists, consuming more protein at each meal simply extends the duration of muscle protein synthesis—not wastes it [6].
-
-### 4. Consider Leucine supplementation
-
-For those struggling to hit protein targets, adding leucine supplements (3-5g per meal) can help overcome the reduced sensitivity. Early 2026 research shows promising results for this approach.
-
-### 5. Don't Skimp on Overall Calories
-
-Anabolic resistance is exacerbated by caloric restriction. If you're trying to lose fat while preserving muscle, the research suggests a slower fat-loss approach with higher protein (up to 2.4g/kg) to combat the doubled challenge of caloric deficit plus age-related resistance [7].
-
-## The Bottom Line
-
-{{recovery-pyramid}}
-
-Anabolic resistance is real, it's scientific, and it's something every lifter over 40 will face. But it's not a death sentence for your gains. The solution is straightforward:
-
-- **Eat more protein** (1.6-2.0g/kg, possibly higher)
-- **Spread it throughout the day** (4-5 feedings)
-- **Prioritize each meal's protein content** (30-40g)
-- **Train with weights consistently** (this reverses the resistance)
-- **Don't cut calories aggressively** if preserving muscle is the goal
-
-Your muscles may need more convincing than they did at 25, but they can still grow. Science has proven it.
-
----
-
-**References:**
-
-[1] Cachexia, Sarcopenia and Muscle. (2025). Anabolic resistance in older adults: mechanisms and interventions. *Journal of Cachexia, Sarcopenia and Muscle*.
-
-[2] Nutrients. (2025). Protein requirements for older adults: updated recommendations. *Nutrients*, 17(4), 612.
-
-[3] Moore DR, et al. (2025). Protein dose-response relationship in older adults. *American Journal of Clinical Nutrition*.
-
-[4] Wall BT, et al. (2025). Age-related differences in muscle protein synthesis response to whey protein. *American Journal of Clinical Nutrition*.
-
-[5] Medicine & Science in Sports & Exercise. (2025). Resistance training reverses anabolic resistance in older adults.
-
-[6] Schoenfeld BJ, Aragon AA. (2025). Protein dose-timing and muscle protein synthesis. *Nutrition Research*.
-
-[7] Journal of International Society of Sports Nutrition. (2026). Protein needs during caloric restriction in older adults.
-
----
-
-*Track your anabolic resistance with Jacked. Download now.*
+{{surpass-inline-cta}}

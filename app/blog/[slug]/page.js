@@ -4,7 +4,9 @@ import { remark } from 'remark'
 import remarkHtml from 'remark-html'
 import { relatedToolsForArticle } from '../../tools/toolSeo.mjs'
 import { blogAcquisitionForPost, blogAppStoreUrl } from '../blogAcquisition.mjs'
-import { allBlogPosts, findBlogPost } from '../posts'
+import { allBlogPosts, canonicalBlogPosts, canonicalBlogSlug, findBlogPost, legacyBlogSlugs } from '../posts'
+
+const ARTICLE_COPY_VERSION = 'article_intent_promise_v1'
 
 function isValidDate(value) {
   return Boolean(value && !Number.isNaN(new Date(value).getTime()))
@@ -17,7 +19,26 @@ function fallbackDateForSlug(slug) {
 
 function metaDescription(value) {
   const text = String(value || '').replace(/\s+/g, ' ').trim()
-  return text.length > 160 ? `${text.slice(0, 157).trim()}...` : text
+  if (text.length <= 160) return text
+  const candidate = text.slice(0, 155).trim()
+  const sentenceEnd = candidate.lastIndexOf('. ')
+  if (sentenceEnd >= 100) return candidate.slice(0, sentenceEnd + 1)
+  return `${candidate.slice(0, candidate.lastIndexOf(' ')).trim()}…`
+}
+
+function seoTitle(value) {
+  const text = String(value || '').replace(/\s+/g, ' ').trim()
+  if (text.length <= 70) return text
+  const shortened = text
+    .replace(/^The definitive guide to\s+/i, 'Guide to ')
+    .replace(/^The complete guide to\s+/i, 'Guide to ')
+    .replace(/^Everything you need to know about\s+/i, '')
+    .replace(/\s+in 20\d{2}$/i, '')
+    .replace(/:\s+the complete guide$/i, '')
+  if (shortened.length <= 70) return shortened
+  const colon = shortened.indexOf(': ')
+  if (colon >= 35 && colon <= 70) return shortened.slice(0, colon)
+  return shortened.slice(0, 67).replace(/\s+\S*$/, '').trim()
 }
 
 function metaKeywords(value) {
@@ -141,21 +162,22 @@ function diagramBlock(title, body) {
 `
 }
 
-function normalizeMarkdown(content) {
+function normalizeMarkdown(content, { inlineCta = '' } = {}) {
   return content
     .replace(/^\s*# .+\n\n?/, '')
     .replace(/\{\{hormone-cascade\}\}/g, diagramBlock('Hormonal response cascade', 'Training stress, recovery, nutrition, and sleep interact over time. Treat hormones as context, not a single switch for muscle growth.'))
     .replace(/\{\{recovery-pyramid\}\}/g, diagramBlock('Recovery priority pyramid', 'Sleep, calories, protein, and sensible training load usually matter more than recovery gadgets or supplement tweaks.'))
     .replace(/\{\{mps-timeline\}\}/g, diagramBlock('Muscle protein synthesis timeline', 'Resistance training raises the signal for muscle repair and growth, but the practical goal is still repeatable high-quality training plus enough protein.'))
     .replace(/\{\{stress-balance\}\}/g, diagramBlock('Stress and adaptation balance', 'A useful program applies enough stress to adapt, then manages fatigue so performance can recover and progress can continue.'))
+    .replace(/\{\{surpass-inline-cta\}\}/g, inlineCta)
     .replace(/\{\{[^}]+\}\}/g, '')
 }
 
-async function parseContent(content) {
+async function parseContent(content, inlineCta = '') {
   const mermaidBlocks = []
   let mermaidIndex = 0
 
-  const contentWithMarkers = normalizeMarkdown(content).replace(/```mermaid\n([\s\S]*?)```/g, (match, code) => {
+  const contentWithMarkers = normalizeMarkdown(content, { inlineCta }).replace(/```mermaid\n([\s\S]*?)```/g, (match, code) => {
     const index = mermaidIndex++
     const encoded = Buffer.from(code.trim()).toString('base64').replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '')
     mermaidBlocks.push(encoded)
@@ -176,9 +198,11 @@ function getPost(slug) {
 
   return {
     slug,
+    canonicalSlug: canonicalBlogSlug(slug),
     title: source.title,
     excerpt: source.excerpt,
     date: isValidDate(source.date) ? source.date : '',
+    updatedAt: isValidDate(source.updatedAt) ? source.updatedAt : '',
     category: source.category,
     keywords: metaKeywords(source.keywords),
     entities: entityList(source.entities),
@@ -188,7 +212,7 @@ function getPost(slug) {
 }
 
 function getPosts() {
-  return allBlogPosts
+  return canonicalBlogPosts
     .map(source => {
       const { slug } = source
       const post = getPost(slug)
@@ -226,7 +250,6 @@ function relatedPosts(posts, currentSlug, currentTitle, currentExcerpt, currentC
       const categoryBoost = p.category === currentCategory ? 4 : 0
       return { ...p, _score: overlap + categoryBoost }
     })
-    .filter(p => p._score > 0)
     .sort((a, b) => b._score - a._score || a.title.localeCompare(b.title))
     .slice(0, 4)
 }
@@ -235,36 +258,37 @@ export async function generateMetadata({ params }) {
   const { slug } = await params
   const post = getPost(slug)
   if (!post) notFound()
+  const canonicalSlug = post.canonicalSlug
   const publishedTime = isValidDate(post.date) ? post.date : undefined
   const description = metaDescription(post.excerpt)
 
   return {
-    title: post.title,
+    title: seoTitle(post.title),
     description,
     ...(post.keywords.length ? { keywords: post.keywords } : {}),
     alternates: {
-      canonical: `https://jacked.coach/blog/${slug}`,
+      canonical: `https://jacked.coach/blog/${canonicalSlug}`,
     },
     ...(post.category ? { other: { 'article:section': post.category } } : {}),
     openGraph: {
-      title: post.title,
+      title: seoTitle(post.title),
       description,
       type: 'article',
-      url: `https://jacked.coach/blog/${slug}`,
+      url: `https://jacked.coach/blog/${canonicalSlug}`,
       publishedTime,
-      modifiedTime: publishedTime,
+      ...(isValidDate(post.updatedAt) ? { modifiedTime: post.updatedAt } : {}),
       images: [
         {
           url: '/og-image.png',
           width: 1200,
           height: 630,
-          alt: `${post.title} | Jacked`,
+          alt: `${post.title} | Surpass`,
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: post.title,
+      title: seoTitle(post.title),
       description,
       images: ['/og-image.png'],
     },
@@ -272,25 +296,39 @@ export async function generateMetadata({ params }) {
 }
 
 export async function generateStaticParams() {
-  return allBlogPosts.map(post => ({ slug: post.slug }))
+  return [
+    ...allBlogPosts.map(post => ({ slug: post.slug })),
+    ...Object.keys(legacyBlogSlugs).map(slug => ({ slug })),
+  ]
 }
 
 export default async function BlogPost({ params }) {
   const { slug } = await params
   const post = getPost(slug)
   if (!post) notFound()
-  const content = await parseContent(post.content)
+  const canonicalSlug = post.canonicalSlug
   const headings = extractHeadings(post.content)
-  const allPosts = relatedPosts(getPosts(), slug, post.title, post.excerpt, post.category)
-  const shareUrl = `https://jacked.coach/blog/${slug}`
+  const allPosts = relatedPosts(getPosts(), canonicalSlug, post.title, post.excerpt, post.category)
+  const shareUrl = `https://jacked.coach/blog/${canonicalSlug}`
   const shareText = encodeURIComponent(post.title)
   const displayDate = formatDate(post.date)
+  const displayUpdatedDate = formatDate(post.updatedAt)
   const minutesToRead = readingTime(post.content)
   const wordCount = post.content.split(/\s+/).filter(Boolean).length
   const publishedDate = isValidDate(post.date) ? post.date : undefined
+  const modifiedDate = isValidDate(post.updatedAt) ? post.updatedAt : undefined
   const articleTools = relatedToolsForArticle(post, 4)
   const acquisition = blogAcquisitionForPost(post)
   const appStoreUrl = blogAppStoreUrl(post)
+  const inlineCta = `
+<div class="article-inline-cta">
+  <p class="article-inline-cta-eyebrow">${acquisition.label}</p>
+  <h2>${acquisition.headline}</h2>
+  <p>${acquisition.copy}</p>
+  <a href="${appStoreUrl}" target="_blank" rel="noopener noreferrer" data-global-cta="${acquisition.campaign}_inline" data-app-store-placement="${acquisition.campaign}_inline" data-experiment="article_inline_cta" data-experiment-variant="outcome_v1" data-copy-version="${ARTICLE_COPY_VERSION}">Start free on iPhone</a>
+</div>
+`
+  const content = await parseContent(post.content, inlineCta)
   const faqs = extractFaqs(post.content)
   const rankedAlternatives = post.rankingItems.map((item, index) => ({
     '@type': 'ListItem',
@@ -311,7 +349,7 @@ export default async function BlogPost({ params }) {
         '@type': 'WebPage',
         '@id': `${shareUrl}#webpage`,
         url: shareUrl,
-        name: post.title,
+        name: seoTitle(post.title),
         description: metaDescription(post.excerpt),
         breadcrumb: { '@id': `${shareUrl}#breadcrumb` },
       },
@@ -319,22 +357,22 @@ export default async function BlogPost({ params }) {
         '@type': 'BlogPosting',
         '@id': `${shareUrl}#article`,
         mainEntityOfPage: { '@id': `${shareUrl}#webpage` },
-        headline: post.title,
+        headline: seoTitle(post.title),
         description: metaDescription(post.excerpt),
         datePublished: publishedDate,
-        dateModified: publishedDate,
+        ...(modifiedDate ? { dateModified: modifiedDate } : {}),
         isAccessibleForFree: true,
         wordCount,
         articleSection: post.category,
         about: ['hypertrophy training', 'progressive overload', 'workout tracking', post.category].filter(Boolean),
         author: {
           '@type': 'Organization',
-          name: 'Jacked',
+          name: 'Surpass',
           url: 'https://jacked.coach/about',
         },
         publisher: {
           '@type': 'Organization',
-          name: 'Jacked',
+          name: 'Surpass',
           logo: {
             '@type': 'ImageObject',
             url: 'https://jacked.coach/og-image.png',
@@ -385,6 +423,14 @@ export default async function BlogPost({ params }) {
 
   return (
     <div style={{ maxWidth: '760px', margin: '0 auto', padding: '2rem 1rem', background: '#000000', minHeight: '100vh', color: '#e5e5e5' }}>
+      {slug !== canonicalSlug ? (
+        <>
+          <meta httpEquiv="refresh" content={`0;url=/blog/${canonicalSlug}/`} />
+          <p style={{ margin: '0 0 1.5rem', padding: '0.85rem 1rem', border: '1px solid #665a2b', borderRadius: '10px', color: '#f0d875', background: '#15130b' }}>
+            This article has moved to its current Surpass address. <a href={`/blog/${canonicalSlug}/`}>Continue to the updated guide</a>.
+          </p>
+        </>
+      ) : null}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -536,6 +582,44 @@ export default async function BlogPost({ params }) {
           font-weight: 720;
           text-decoration: none;
         }
+        .article-inline-cta {
+          margin: 2.25rem 0;
+          padding: 1.35rem 1.45rem 1.5rem;
+          border: 1px solid rgba(226, 201, 95, 0.42);
+          border-radius: 14px;
+          background: linear-gradient(135deg, rgba(226, 201, 95, 0.14), rgba(16, 16, 15, 0.96) 58%);
+        }
+        .article-inline-cta-eyebrow {
+          margin: 0 0 0.45rem !important;
+          color: #d9c26c !important;
+          font-size: 0.72rem;
+          font-weight: 800;
+          letter-spacing: 0.13em;
+        }
+        article .article-inline-cta h2 {
+          margin: 0 0 0.55rem;
+          padding-left: 0;
+          border-left: 0;
+          color: #f7f2e8;
+          font-size: clamp(1.25rem, 3vw, 1.65rem);
+        }
+        .article-inline-cta p:not(.article-inline-cta-eyebrow) {
+          max-width: 39rem;
+          margin: 0 0 1rem !important;
+          color: #c8c1b6 !important;
+          line-height: 1.6;
+        }
+        .article-inline-cta a {
+          display: inline-flex;
+          align-items: center;
+          min-height: 44px;
+          padding: 0.65rem 0.95rem;
+          border-radius: 9px;
+          background: #e2c95f;
+          color: #111;
+          font-weight: 800;
+          text-decoration: none;
+        }
       `}</style>
 
       <nav aria-label="Breadcrumb" style={{ display: 'flex', gap: '0.45rem', flexWrap: 'wrap', color: '#8f897c', fontSize: '0.86rem', fontWeight: 650 }}>
@@ -556,14 +640,16 @@ export default async function BlogPost({ params }) {
         <div className="article-meta">
           <span>{post.category}</span>
           {displayDate && <span>Published {displayDate}</span>}
+          {displayUpdatedDate && <span>Updated {displayUpdatedDate}</span>}
           <span>{minutesToRead} min read</span>
-          <span>Jacked training guide</span>
+          <span>Surpass training guide</span>
         </div>
         <a
           href={appStoreUrl}
           target="_blank"
           rel="noopener noreferrer"
           data-global-cta={`${acquisition.campaign}_header`}
+          data-copy-version={ARTICLE_COPY_VERSION}
           style={{ display: 'inline-block', marginTop: '1rem', padding: '0.65rem 0.95rem', borderRadius: '8px', textDecoration: 'none', fontWeight: '720', background: '#e2c95f', color: '#111' }}
         >
           {acquisition.label}
@@ -576,7 +662,7 @@ export default async function BlogPost({ params }) {
 
       {articleTools.length > 0 && (
         <section className="article-tools">
-          <h2>Use the matching Jacked tool</h2>
+          <h2>Use the matching Surpass tool</h2>
           <p>Run the numbers from this topic, then use the result in your next session.</p>
           <div className="article-tool-links">
             {articleTools.map(tool => (
@@ -622,8 +708,8 @@ export default async function BlogPost({ params }) {
       <section style={{ marginTop: '3rem', padding: '1.6rem', background: '#f2eee4', borderRadius: '10px', color: '#111', textAlign: 'center' }}>
         <h2 style={{ marginTop: 0, fontSize: '1.28rem', fontWeight: '760', letterSpacing: 0 }}>{acquisition.headline}</h2>
         <p style={{ marginBottom: '1.5rem', fontSize: '1rem', color: '#4b473f' }}>{acquisition.copy}</p>
-        <a href={appStoreUrl} target="_blank" rel="noopener noreferrer" data-global-cta={`${acquisition.campaign}_final`} style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
-          Open the App Store listing
+        <a href={appStoreUrl} target="_blank" rel="noopener noreferrer" data-global-cta={`${acquisition.campaign}_final`} data-app-store-placement={`${acquisition.campaign}_final`} data-copy-version={ARTICLE_COPY_VERSION} style={{ display: 'inline-block', padding: '0.8rem 1.25rem', background: '#111', color: '#f7f2e8', borderRadius: '8px', textDecoration: 'none', fontWeight: '720' }}>
+          Start free on iPhone
         </a>
       </section>
     </div>

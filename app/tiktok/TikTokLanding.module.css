@@ -40,7 +40,7 @@
   border-bottom: 1px solid var(--line);
   background:
     linear-gradient(90deg, rgba(2, 2, 2, 0.98) 0%, rgba(2, 2, 2, 0.78) 44%, rgba(2, 2, 2, 0.3) 75%, rgba(2, 2, 2, 0.55) 100%),
-    url('/marketing/generated/jacked-hero-woman.webp') 68% center / cover no-repeat;
+    url('/marketing/generated/surpass-hero-woman.webp') 68% center / cover no-repeat;
 }
 
 .heroShade {
@@ -311,7 +311,7 @@
   background:
     linear-gradient(90deg, rgba(3, 3, 3, 0.98), rgba(3, 3, 3, 0.79) 48%, rgba(3, 3, 3, 0.28)),
     linear-gradient(180deg, rgba(3, 3, 3, 0.1), rgba(3, 3, 3, 0.84)),
-    url('/marketing/generated/jacked-workout-flow.webp') center / cover no-repeat;
+    url('/marketing/generated/surpass-workout-flow.webp') center / cover no-repeat;
 }
 
 .manifestoCopy {
@@ -390,7 +390,7 @@
     min-height: 0;
     background:
       linear-gradient(180deg, rgba(2, 2, 2, 0.32) 0%, rgba(2, 2, 2, 0.82) 34%, #030303 68%),
-      url('/marketing/generated/jacked-hero-woman.webp') 67% top / auto 500px no-repeat,
+      url('/marketing/generated/surpass-hero-woman.webp') 67% top / auto 500px no-repeat,
       #030303;
   }
 
@@ -507,7 +507,7 @@
     align-items: flex-end;
     background:
       linear-gradient(180deg, rgba(3, 3, 3, 0.2), rgba(3, 3, 3, 0.84) 48%, #030303 86%),
-      url('/marketing/generated/jacked-workout-flow.webp') 42% top / auto 620px no-repeat,
+      url('/marketing/generated/surpass-workout-flow.webp') 42% top / auto 620px no-repeat,
       #030303;
   }
 

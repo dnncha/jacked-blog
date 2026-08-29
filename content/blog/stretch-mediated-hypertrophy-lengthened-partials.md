@@ -1,96 +1,57 @@
 ---
-title: "The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"
-excerpt: "New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."
+updatedAt: "2026-08-15"
+title: "Lengthened Partials and Stretch-Mediated Hypertrophy: What We Know"
+excerpt: "Training at longer muscle lengths may be useful for some exercises, but current studies do not show that lengthened partials universally beat full range of motion."
 ---
+# Lengthened Partials and Stretch-Mediated Hypertrophy: What We Know
 
-If you've been paying attention to the latest hypertrophy research, you've probably heard about "lengthened partials" or "stretch-mediated hypertrophy." But what if I told you that *where* you train within your range of motion might matter just as much as how much weight you're lifting?
+Training at a longer muscle length is an active research question. The idea is plausible: exercise mechanics can change the tension a muscle experiences across a range of motion, and some studies have found useful adaptations when work is biased toward the lengthened position. The evidence does not support turning that idea into “the stretch is where all growth happens.”
 
-Recent research from 2025 has thrown a wrench into the conventional wisdom that "any full-range rep is equally effective for muscle growth." The science now shows that training in the **lengthened position**—the point where your muscle is under the most stretch—can significantly enhance hypertrophy compared to mid-range or shortened positions.
+## What are lengthened partials?
 
-## What Is the Lengthened Position?
+Lengthened partials use only part of a movement's range, selected so the target muscle remains relatively long. They are different from a full-range repetition, which trains through both longer and shorter positions. The result depends on the exercise, the joint angle, the muscle being measured, the load, and whether the partial is performed with control.
 
-Every exercise has a range of motion. When you're doing a bicep curl, the lengthened position is at the bottom (elbow fully extended), with the bicep stretched. The shortened position is at the top (elbow fully flexed). The mid-range is somewhere in between.
+## What recent human studies found
 
-Research now suggests that **the lengthened portion of any exercise may be where the magic happens** for muscle growth.
+A within-participant study in 30 resistance-trained adults compared eight weeks of upper-body lengthened-partial and full-range training. Muscle-thickness and lat-pulldown strength-endurance improvements were similar between conditions. That does not prove the two methods are identical for every muscle, but it directly contradicts the claim that lengthened partials automatically produce superior growth.
 
-> "Muscles are strongest in the mid-range and weakest in the lengthened position—but growth appears to be greatest when trained in that lengthened position." — Brad Schoenfeld
+A broader systematic review and meta-analysis of muscle-length research found mixed results across exercises and outcomes. The strongest practical interpretation is that training at longer muscle lengths may be worth including, while full range of motion remains a sound default when it is comfortable and technically controlled.
 
-This seems counterintuitive: we're told to train through a full range of motion, but now it seems the *specific portion* where your muscle is stretched might be the most important.
+## How to use the idea without overreading it
 
-## The 2025 Research Breakthrough
+- Use a comfortable full range of motion for primary lifts unless the exercise, mobility, or medical advice gives you a reason to modify it.
+- On stable isolation or machine exercises, experiment with a controlled lengthened-partial set after your main work if the target muscle remains loaded and joints feel good.
+- Do not force depth, a heavy stretch, or a pause through pain. Longer muscle length is a mechanical description, not a safety guarantee.
+- Keep the exercise, load, effort, and volume stable long enough to evaluate the change. Switching several variables at once makes the result uninterpretable.
+- Record whether the partial actually improves the target muscle's work, progression, comfort, or time efficiency—not just whether it produces soreness.
 
-A significant study from Schoenfeld's lab in 2025 confirmed what coaches like John Meadows had observed anecdotally for years: training in the lengthened position produces superior hypertrophy gains.
+The same cue will not transfer cleanly across curls, leg extensions, squats, presses, and calf work. Exercise anatomy and resistance profile matter.
 
-The mechanism behind this is called **stretch-mediated hypertrophy**. When a muscle is placed under tension while lengthened, it appears to activate different growth pathways than training in neutral or shortened positions.
+## What the evidence does not show
 
-### Key Findings:
+It does not show that full range of motion is obsolete, that stretch-induced damage is the mechanism to chase, or that a fixed two- or three-second stretched hold is required. It also does not establish that a lengthened-partial protocol is safer or more efficient for every trainee.
 
-1. **Full ROM isn't always optimal** — Deep stretching at the bottom of movements may contribute disproportionately to muscle growth
-2. **Lengthened partials can match or exceed full-range training** — When the bottom portion of a lift is emphasized, you may get equal or better results with less total range of motion
-3. **The stretch is where damage occurs** — Muscle damage (a driver of hypertrophy) appears to be greatest in the lengthened position
+## Bottom line
 
-## Practical Applications
+Long-muscle-length training is a promising programming option, not a settled hypertrophy law. Keep full range of motion as the dependable baseline, use lengthened partials selectively where the exercise and the person tolerate them, and judge the method by repeatable progression rather than by a dramatic stretch sensation.
 
-So how do you apply this to your training? Here are some evidence-based strategies:
+## Evidence
 
-### 1. Emphasize the Bottom of Your Reps
+### Sources
 
-Don't just go through the motions—*own the stretch*. When doing bicep curls, let the weight pull you down fully. In bench press, touch your chest (with control). In squats, go deep.
+- [Wolf et al., lengthened partials versus full range of motion](https://pubmed.ncbi.nlm.nih.gov/39959841/) — eight-week within-participant study in 30 resistance-trained adults.
+- [Varović et al., muscle length and regional hypertrophy systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40570881/) — broader evidence with exercise- and outcome-dependent findings.
+- [Kassiano et al., lengthened partials in calf training](https://pubmed.ncbi.nlm.nih.gov/37015016/) — example of why results may differ by muscle and exercise.
+- [Resistance-training technique narrative review](https://pubmed.ncbi.nlm.nih.gov/38249086/) — context for range of motion, technique, and exercise selection.
 
-### 2. Use Lengthened Partial Reps Strategically
+## Related reading
 
-For exercises like lat pulldowns or leg extensions, you can deliberately emphasize the stretched portion:
+- [Load and tempo equivalence](/blog/load-tempo-equivalence-2025-research)
+- [Exercise biomechanics, grip, and leverage](/blog/exercise-biomechanics-grip-stance-leverage)
+- [Isometric training and muscle growth](/blog/isometric-training-muscle-growth-science)
 
-- **Lat pulldowns**: Focus on the stretch at the bottom before pulling
-- **Leg extensions**: Control the descent fully rather than stopping mid-range
-- **Curls**: Let the weight stretch you fully at the bottom of each rep
+## Limits of the evidence
 
-### 3. Add "Stretched Holds"
+Studies differ in muscle, exercise, range-of-motion definition, training status, duration, and measurement site. A result from one lengthened-partial protocol should not be generalized to every movement or used as a promise of greater hypertrophy.
 
-At the bottom of your main compound lifts, hold for 2-3 seconds in the stretched position. This increases time under tension in the lengthened state.
-
-### 4. Consider Equipment Choices
-
-Some equipment naturally emphasizes the lengthened position:
-
-- **Decline bench** for chest
-- **Romanian deadlifts** for hamstrings
-- **Low-pulley rows** for lats
-- **Hack squats** for quads
-
-## The Caveats
-
-Before you completely restructure your training, consider these nuances:
-
-- **Heavy compounds still matter**: For overall strength and body composition, traditional full-range lifts remain essential
-- **Safety first**: Don't sacrifice form to chase the stretch—controlled eccentrics in the lengthened position are key
-- **Individual variation**: Not everyone responds identically; some may need more volume in mid-range
-- **Joint health**: Aggressive stretching under load can stress joints—progress gradually
-
-## Putting It All Together
-
-The lengthened position isn't a magic bullet, but it's a powerful tool in your hypertrophy toolkit. Here's how to integrate it:
-
-1. **Primary compounds**: Use full range of motion with controlled eccentrics—own the stretch at the bottom
-2. **Isolation exercises**: Consider lengthened partials or paused reps in the stretched position
-3. **Time under tension**: Add 2-3 second pauses in the stretched position for key exercises
-4. **Exercise selection**: Prioritize movements that naturally allow deep stretches (decline press, RDLs, low-pulley rows)
-
-## The Bottom Line
-
-The conventional advice to "use full range of motion" isn't wrong—but it's incomplete. The science now shows that *where* you train within that range matters. By emphasizing the lengthened position, you may be able to stimulate more muscle growth with the same or even less total range of motion.
-
-The "stretched position revolution" doesn't mean abandoning everything you know about training. It means being more intentional about the portion of each rep where your muscle is under the most mechanical stress. That's where the growth happens.
-
----
-
-### References
-
-1. Schoenfeld, B.J. et al. (2025). "Effects of Range of Motion on Muscle Hypertrophy: New Perspectives." *Journal of Strength and Conditioning Research*.
-2. Hirono, T. et al. (2025). "Mechanisms of Stretch-Mediated Hypertrophy." *Sports Medicine Open*.
-3. Vigotsky, A.D., et al. (2017). "Role of Muscle Architecture in Hypertrophy." *Frontiers in Physiology*.
-4. Bello, et al. (2025). "Light vs. Heavy Loads for Muscle Thickness." *British Journal of Sports Medicine*.
-
----
-
-*Track your stretch-mediated hypertrophy with Jacked. Download now.*
+{{surpass-inline-cta}}

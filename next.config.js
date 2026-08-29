@@ -45,6 +45,36 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/blog/strong-to-jacked-import-guide',
+        destination: '/blog/strong-to-surpass-import-guide',
+        permanent: true,
+      },
+      {
+        source: '/blog/import-hevy-to-jacked',
+        destination: '/blog/import-hevy-to-surpass',
+        permanent: true,
+      },
+      {
+        source: '/blog/jacked-competitor-analysis-2026',
+        destination: '/blog/surpass-competitor-analysis-2026',
+        permanent: true,
+      },
+      {
+        source: '/blog/exercise-selection-architecture-hypertrophy',
+        destination: '/blog/muscle-architecture-hypertrophy-science',
+        permanent: true,
+      },
+      {
+        source: '/blog/concurrent-training-interference-effect-muscle-growth',
+        destination: '/blog/concurrent-training-interference-effect-2026',
+        permanent: true,
+      },
+      {
+        source: '/blog/recovery-technologies-muscle-growth-2026',
+        destination: '/blog/recovery-technologies-muscle-building-science',
+        permanent: true,
+      },
+      {
         source: '/api/feed',
         destination: '/feed.xml',
         permanent: true,

@@ -60,7 +60,7 @@ export default function NewsletterSignup() {
       color: 'white'
     }}>
       <h3 style={{ margin: '0 0 0.5rem 0', fontSize: '1.4rem' }}>
-        Get Jacked in Your Inbox
+        Get Surpass in Your Inbox
       </h3>
       <p style={{ color: '#999', margin: '0 0 1.5rem 0' }}>
         Science-backed fitness tips. No spam. Unsubscribe anytime.

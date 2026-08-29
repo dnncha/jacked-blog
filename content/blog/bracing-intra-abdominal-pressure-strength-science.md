@@ -1,105 +1,92 @@
 ---
-title: "The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts"
-excerpt: "Master the art of breathing and bracing to lift heavier, protect your spine, and maximize performance. Science breaks down the mechanics of intra-abdominal pressure."
+updatedAt: "2026-08-15"
+title: "Bracing and Intra-Abdominal Pressure for Strength Training"
+excerpt: "Learn what bracing and intra-abdominal pressure can contribute to lifting technique, how they differ from hollowing, and why they are not guarantees against injury."
 ---
+# Bracing and Intra-Abdominal Pressure for Strength Training
 
-Every serious lifter knows the feeling: you set up for a heavy squat, take a deep breath, brace your core, and feel suddenly invincible. That split-second of preparation isn't just mental—it's one of the most powerful physiological mechanisms your body can activate for strength.
+A strong brace gives you a more repeatable trunk position when a lift is demanding. It is useful technique, not armour: bracing does not make a poor load choice safe, guarantee a personal record, or prevent every back injury.
 
-That mechanism is called **intra-abdominal pressure (IAP)**, and understanding how to harness it can mean the difference between a PR and a painful injury.
+## What bracing does
 
-## What Exactly Is Intra-Abdominal Pressure?
+Bracing is a coordinated contraction of the abdominal wall, back, diaphragm, and other trunk muscles around a chosen posture. Intra-abdominal pressure (IAP) is one part of that response. The goal is to make the trunk sufficiently stiff for the movement while still allowing the amount of breathing and movement the set requires.
 
-Intra-abdominal pressure is the pressure built up within your abdominal cavity when you create tension by filling your torso with air while simultaneously contracting your core muscles. Think of it like inflating a balloon inside a box—the pressure pushes out in all directions, creating stiffness and stability.
+In a small laboratory study of seven young men, abdominal bracing produced a much larger change in measured IAP than abdominal hollowing ([Tayashiki et al.](https://pubmed.ncbi.nlm.nih.gov/26509386/)). That result supports a difference between the two manoeuvres. It does not establish a universal pressure target or prove that one cue is best for every exercise, person, or rehabilitation goal.
 
-Research published in the *Journal of Strength and Conditioning Research* has consistently shown that proper bracing can increase trunk stability by 20-40% compared to untrained breathing patterns (Hakonen et al., 2015).
+Separate biomechanical work found that increased IAP and a belt can increase measured trunk stiffness in specific test positions ([Cholewicki et al.](https://pubmed.ncbi.nlm.nih.gov/10552322/)). The laboratory outcome is trunk stiffness, not a guarantee of spinal protection in a real gym.
 
-The key players in IAP generation are:
+## Bracing versus hollowing
 
-- **The diaphragm** (the roof of your core)
-- **The pelvic floor** (the floor of your core)  
-- **The abdominals** (your front wall)
-- **The erector spinae** (your back wall)
+Hollowing means drawing the abdominal wall inward, often with an emphasis on the deep abdominal muscles. Bracing means creating broader co-contraction around the trunk. Both can be useful in different contexts:
 
-When all four contract simultaneously, they create what's called the "abdominal brace"—a rigid cylinder of pressure that protects your spine and transmits force efficiently from your upper body to your lower body.
+- a rehabilitation professional may choose hollowing for a particular motor-control task;
+- a heavy squat or deadlift often benefits from a broader brace that matches the load and posture;
+- neither cue should create pain, numbness, breathlessness, or a loss of control.
 
-## Bracing vs. Hollowing: What's the Difference?
+Do not turn the distinction into a contest. Choose the strategy that lets you maintain position and complete the task safely.
 
-You might have heard coaches talk about "drawing in" your belly button or "bracing like you're about to get punched." These are two different strategies:
+## A practical brace
 
-**Abdominal hollowing** (also called abdominal drawing-in) involves pulling your navel toward your spine and primarily activating the transversus abdominis. This creates moderate stability but can actually reduce IAP compared to bracing.
+For a controlled heavy repetition:
 
-**Abdominal bracing** involves expanding your stomach 360° against your belt or waistband while maintaining normal breathing. This maximizes IAP and provides superior trunk stability for heavy lifting.
+1. Set your feet, grip, and torso position first.
+2. Take a breath that expands the lower ribs and abdomen in three dimensions.
+3. Tighten the trunk as if you were preparing for contact, without crushing the ribs down or forcing the neck.
+4. Keep the brace while you move through the demanding range.
+5. Release and re-breathe when the repetition or sticking point is complete.
 
-A 2015 study published in the *Journal of Sports Science and Medicine* found that bracing produced significantly higher IAP readings than hollowing (平均 120 mmHg vs. 85 mmHg), making it the superior choice for maximal strength efforts.
+Use a smaller brace and more continuous breathing for light, high-repetition, or isolation work. A coach can help if your brace changes the bar path or makes you rush the rep.
 
-## The Valsalva Maneuver: Your Secret Weapon
+## The Valsalva maneuver
 
-The Valsalva maneuver is a specific breathing technique where you close your glottis (throat) and bear down forcefully, creating maximum intra-abdominal pressure. It's what powerlifters do automatically when they're about to lift something heavy.
+The Valsalva maneuver is forceful straining against a closed glottis. It can accompany a brief brace during a heavy effort, but it also changes blood pressure and cardiovascular load.
 
-### The Benefits
+An older controlled study in novice lifters found higher blood-pressure responses during Valsalva breathing than during the other tested breathing conditions ([Sawai et al.](https://pubmed.ncbi.nlm.nih.gov/1623367/)). A 2026 study in healthy resistance-untrained adults found a larger acute mean arterial-pressure increase when Valsalva was combined with resistance exercise than with paced breathing ([Perry et al.](https://pubmed.ncbi.nlm.nih.gov/42213131/)). These are acute physiological findings, not proof that Valsalva is harmful for every healthy lifter or safe for every person.
 
-1. **Spinal protection**: A 2012 review in the *British Journal of Sports Medicine* concluded that the Valsalva maneuver "increases spinal stability" and reduces risk of vertebral injury during heavy lifts.
+Ask a clinician before deliberately using maximal straining if you have uncontrolled hypertension, cardiovascular or cerebrovascular disease, glaucoma, a history of fainting, are pregnant, or are recovering from surgery. Stop if you feel faint, have chest pain, develop visual changes, or lose coordination.
 
-2. **Force transmission**: With a stable core, more of your lower body force transfers through your torso to the barbell. Research shows peak force production increases by 10-15% with proper bracing.
+## What bracing cannot promise
 
-3. **Enhanced rigidity**: Your trunk becomes a rigid lever system rather than a flexible one that absorbs energy.
+Bracing may help you express force by giving the trunk a stable platform. It does not:
 
-### The Risks (And How to Manage Them)
+- guarantee more strength on every lift;
+- prove that the spine is “protected” from injury;
+- justify ignoring pain or technique breakdown;
+- replace progressive loading, sensible exercise selection, or a spotter where one is needed;
+- require a maximal breath hold on every rep.
 
-The main concern with the Valsalva is elevated blood pressure. During the maneuver, intrathoracic pressure increases, which can temporarily spike blood pressure. However, for healthy individuals, this is generally safe and occurs within normal physiological limits.
+In one small eight-week trial, a specific abdominal-bracing programme improved selected trunk and hip-extension strength measures in young men ([Tayashiki et al.](https://pubmed.ncbi.nlm.nih.gov/27377782/)). That is interesting training evidence, but it was not a study of injury prevention or a substitute for resistance training.
 
-A 2021 study in the *International Journal of Exercise Science* found no adverse cardiovascular effects in healthy adults performing the Valsalva during resistance training up to 85% of 1RM.
+## Use the minimum effective brace
 
-**Contraindications**: If you have uncontrolled hypertension, heart conditions, or are recovering from hernia surgery, consult a doctor before using maximal Valsalva with heavy loads.
+Start with a load that allows you to keep your ribs, pelvis, and bar path controlled. Practise the brace on warm-up sets. Increase the load only when the brace remains repeatable and you can reset between repetitions. If you need to hold your breath for an entire high-rep set, the load or technique may not match the goal.
 
-## How to Brace Properly: A Step-by-Step Guide
+For pain, recent injury, hernia concerns, or uncertainty about breathing under load, get individual guidance from a qualified clinician or coach rather than copying a powerlifting cue from a video.
 
-### For Squats and Deadlifts
+## The bottom line
 
-1. **Set your stance** and grip on the bar
-2. **Take a deep breath** into your belly (not your chest)—imagine filling your stomach with air
-3. **Expand 360°**—push your belly out against your belt, expand your ribs laterally
-4. **Squeeze** your core, pelvic floor, and lats simultaneously
-5. **Hold** the breath through the sticking point
-6. **Exhale** only after completing the rep
+Bracing raises trunk muscle activity and can increase IAP in laboratory tasks. That makes it a useful technique for demanding lifts, not a shield against injury. Learn to create a controlled brace, match breath timing to the set, and keep the load and symptoms within your ability to manage.
 
-### For Bench Press
+## Related reading
 
-1. Retract your scapulae and plant your feet
-2. Take a big breath and brace as described above
-3. Maintain the brace throughout the entire rep
-4. For multiple reps, breathe in at the top and re-brace for each rep
+- [Breathing Techniques for Heavy Lifts](/blog/breathing-techniques-strength-training-science)
+- [CO2 Tolerance and Strength Training](/blog/co2-tolerance-training-strength-lifts)
+- [Training Around Injuries](/blog/training-around-injuries-keep-gains-banged-up)
 
-## Breath Timing: When to Inhale and Exhale
+## Applying this article
 
-**For single-rep maxes**: Take a breath, brace fully, and hold through the entire lift. This provides maximum stability but limits you to one rep before needing another breath.
+Practise the brace on warm-up sets at a load you can control. Record whether it improves repeatability without causing dizziness, pain, or technique breakdown. Keep the cue that helps the movement and drop the one that turns into unnecessary straining.
 
-**For higher reps**: Breathe at the top of the movement (rack position) and re-brace for each rep. This maintains core stability while allowing sustained training.
+## Limits of the evidence
 
-**Tempo training**: For controlled negatives, exhale during the lowering phase and inhale during the ascent.
+Bracing and IAP studies often use small samples and laboratory positions. They measure pressure, muscle activity, stiffness, or selected strength outcomes; they do not prove that a pressure number prevents injury or predicts long-term hypertrophy.
 
-## Common Bracing Mistakes
+### Sources
 
-1. **Breathing into chest only**: This creates a "floppy" core with minimal IAP
-2. **Holding breath incorrectly**: Don't just hold air in your throat—fill your belly
-3. **Over-bracing**: Excessive tension wastes energy and can impair movement
-4. **Inconsistent bracing**: Bracing must be deliberate and repeatable
+- [Intra-abdominal pressure during bracing and hollowing](https://pubmed.ncbi.nlm.nih.gov/26509386/). Small laboratory study comparing the two manoeuvres.
+- [Lumbar spine stability, abdominal belt, and increased IAP](https://pubmed.ncbi.nlm.nih.gov/10552322/). Biomechanical trunk-stiffness study; not an injury-prevention trial.
+- [Abdominal bracing training and strength](https://pubmed.ncbi.nlm.nih.gov/27377782/). Small randomized training study in young men.
+- [Breathing techniques and blood pressure during resistance exercise](https://pubmed.ncbi.nlm.nih.gov/1623367/). Controlled study of acute blood-pressure responses.
+- [Resistance exercise with combined Valsalva manoeuvre](https://pubmed.ncbi.nlm.nih.gov/42213131/). Recent acute cardiovascular-response study.
 
-## The Bottom Line
-
-Your breath and brace are not just preparation—they're the foundation of every heavy lift. Master intra-abdominal pressure and you'll lift more safely, more powerfully, and more consistently.
-
-Next time you approach a heavy set, remember: before you lift, you must first create the pressure that makes lifting possible.
-
----
-
-## References
-
-- Hakonen, M., et al. (2015). "The effect of abdominal bracing on trunk stability." *Journal of Strength and Conditioning Research*
-- Granacher, U., et al. (2015). "Effects of abdominal bracing training on strength and power." *Journal of Sports Science and Medicine*
-- Hackett, D., et al. (2012). "The Valsalva maneuver and resistance exercise." *British Journal of Sports Medicine*
-- Kim, J., et al. (2021). "Cardiovascular responses to Valsalva during resistance training." *International Journal of Exercise Science*
-
----
-
-*Let Jacked track your bracing and lifting form. Download now.*
+{{surpass-inline-cta}}

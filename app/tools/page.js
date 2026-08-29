@@ -10,21 +10,21 @@ export const metadata = {
   },
   openGraph: {
     title: 'Free Strength and Hypertrophy Training Tools',
-    description: 'Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, load plates, and run the session inside Jacked.',
+    description: 'Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, load plates, and run the session inside Surpass.',
     url: 'https://jacked.coach/tools',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Jacked free strength and hypertrophy tools',
+        alt: 'Surpass free strength and hypertrophy tools',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Free Strength and Hypertrophy Training Tools',
-    description: 'Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, load plates, and run the session inside Jacked.',
+    description: 'Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, load plates, and run the session inside Surpass.',
     images: ['/og-image.png'],
   },
 }
@@ -68,7 +68,7 @@ export default function ToolsHub() {
       },
       {
         '@type': 'ItemList',
-        name: 'Jacked training tools',
+        name: 'Surpass training tools',
         itemListElement: tools.map((tool, index) => ({
           '@type': 'ListItem',
           position: index + 1,
@@ -88,11 +88,19 @@ export default function ToolsHub() {
         <div>
           <h1>Free Strength and Hypertrophy Tools</h1>
           <p>
-            Free lifting tools for serious training. Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, check plates, and make better workout decisions. Then run the whole session inside Jacked for iPhone.
+            Free lifting tools for serious training. Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, check plates, and make better workout decisions. Then run the whole session inside Surpass for iPhone.
           </p>
         </div>
         <div className="tools-signal">
           Quick inputs, visible assumptions, and a result you can use before the next set.
+        </div>
+      </section>
+
+      <section className="tools-wrap tool-section">
+        <div className="tools-signal" style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }}>
+          <span>
+            Want to see how the decisions are made? Read the <Link href="/methodology" style={{ color: '#f4cb65' }}>Surpass training methodology</Link>—including formulas, assumptions, and the privacy boundary.
+          </span>
         </div>
       </section>
 
@@ -167,10 +175,17 @@ export default function ToolsHub() {
         <div className="tools-wrap">
           <h2>Want this inside the workout?</h2>
           <p>
-            Jacked turns these tools into a live training runtime: next-set targets, RIR tracking, rest timing, PRs, warm-ups, and adaptive explanations. Open the app. Know your next set. Log the work.
+            Surpass turns these tools into a live training runtime: next-set targets, RIR tracking, rest timing, PRs, warm-ups, and adaptive explanations. Open the app. Know your next set. Log the work.
           </p>
-          <a className="tool-primary" href={appStoreUrl('tools_hub', 'final_cta')} target="_blank" rel="noopener noreferrer">
-            Download Jacked for iPhone
+          <a
+            className="tool-primary"
+            href={appStoreUrl('tools_hub', 'final_cta')}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-global-cta="tools_hub_final"
+            data-app-store-placement="tools_hub_final"
+          >
+            Start free on iPhone
           </a>
         </div>
       </section>

@@ -30,7 +30,7 @@ export async function generateMetadata({ params }) {
           url: toolSocialImageUrl(tool.slug),
           width: 1200,
           height: 630,
-          alt: `${tool.name} | Jacked`,
+          alt: `${tool.name} | Surpass`,
         },
       ],
     },
@@ -90,7 +90,7 @@ export default async function ToolPage({ params }) {
           <p><strong>{tool.promise}</strong> {tool.intro}</p>
         </div>
         <div className="tools-signal">
-          Log the set in Jacked and the next target stays with the workout.
+          Log the set in Surpass and the next target stays with the workout.
         </div>
       </section>
 
@@ -148,7 +148,7 @@ export default async function ToolPage({ params }) {
             ))}
           </div>
           <div className="tools-signal">
-            Jacked turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback.
+            Surpass turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback.
           </div>
         </div>
       </section>
@@ -180,10 +180,17 @@ export default async function ToolPage({ params }) {
         <div className="tools-wrap">
           <h2>This is one set.</h2>
           <p>
-            Jacked does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback.
+            Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback.
           </p>
-          <a className="tool-primary" href={appStoreUrl(tool.campaign, 'final_cta')} target="_blank" rel="noopener noreferrer" data-global-cta={`tools_${tool.slug}`}>
-            Download Jacked for iPhone
+          <a
+            className="tool-primary"
+            href={appStoreUrl(tool.campaign, 'final_cta')}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-global-cta={`tools_${tool.campaign}_final`}
+            data-app-store-placement={`tools_${tool.campaign}_final`}
+          >
+            Start free on iPhone
           </a>
         </div>
       </section>

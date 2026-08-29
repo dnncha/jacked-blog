@@ -5,13 +5,14 @@ import Link from 'next/link'
 
 const PAGE_SIZE = 36
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_hub&mt=8'
+const BLOG_HUB_COPY_VERSION = 'blog_hub_promise_v2'
 
 const seoLinks = [
   ['/blog/alternatives-to-rp-hypertrophy-app', 'Alternatives to RP Hypertrophy App'],
   ['/blog/best-hypertrophy-app-ios-review', 'Best hypertrophy app for iOS'],
   ['/blog/best-workout-app-hypertrophy-2026', 'Best workout app for hypertrophy'],
   ['/blog/progressive-overload-app-works', 'Progressive overload apps'],
-  ['/blog/import-hevy-to-jacked', 'Import Hevy to Jacked'],
+  ['/blog/import-hevy-to-surpass', 'Import Hevy to Surpass'],
   ['/blog/rpe-vs-rir-autoregulation-2025', 'RPE vs RIR'],
 ]
 
@@ -391,6 +392,81 @@ export default function BlogIndexClient({ allPosts, categories }) {
           font-weight: 850;
         }
 
+        .library-map {
+          margin-top: 34px;
+          border-top: 1px solid #cfc5b3;
+          border-bottom: 1px solid #cfc5b3;
+        }
+
+        .library-map summary {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 18px;
+          min-height: 58px;
+          color: #11100c;
+          cursor: pointer;
+          font-weight: 850;
+          list-style: none;
+        }
+
+        .library-map summary::-webkit-details-marker {
+          display: none;
+        }
+
+        .library-map summary::after {
+          content: '+';
+          color: #756d60;
+          font-size: 1.4rem;
+          line-height: 1;
+        }
+
+        .library-map[open] summary::after {
+          content: '−';
+        }
+
+        .library-map summary span:last-child {
+          color: #756d60;
+          font-size: 0.82rem;
+          font-weight: 750;
+        }
+
+        .library-map nav {
+          padding: 4px 0 24px;
+        }
+
+        .library-map-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+          gap: 8px 18px;
+        }
+
+        .library-map-grid a {
+          display: block;
+          padding: 8px 0;
+          color: #302c25;
+          font-size: 0.9rem;
+          line-height: 1.35;
+          text-decoration: underline;
+          text-decoration-color: #c2b598;
+          text-underline-offset: 3px;
+        }
+
+        .library-map-grid a:hover {
+          color: #11100c;
+          text-decoration-color: #11100c;
+        }
+
+        .library-map-grid small {
+          display: block;
+          margin-bottom: 2px;
+          color: #756d60;
+          font-size: 0.7rem;
+          font-weight: 850;
+          letter-spacing: 0.04em;
+          text-transform: uppercase;
+        }
+
         .empty-state {
           padding: 38px;
           text-align: center;
@@ -438,10 +514,22 @@ export default function BlogIndexClient({ allPosts, categories }) {
           <div className="blog-metrics">
             <span>{allPosts.length} articles</span>
             <span>{categories.length} topics</span>
-            <span>Built for Jacked lifters</span>
+            <span>Built for Surpass lifters</span>
           </div>
           <div className="blog-hero-actions">
-            <a href={APP_STORE_URL} target="_blank" rel="noopener noreferrer" data-global-cta="blog_hero">Get the iPhone app</a>
+            <a
+              href={APP_STORE_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              data-global-cta="blog_hub_hero"
+              data-app-store-placement="blog_hub_hero"
+              data-app-store-campaign="blog_hub"
+              data-experiment="blog_hub_cta"
+              data-experiment-variant="outcome_v1"
+              data-copy-version={BLOG_HUB_COPY_VERSION}
+            >
+              Start free on iPhone
+            </a>
             <Link href="#library">Browse articles</Link>
           </div>
         </div>
@@ -453,7 +541,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
             <div>
               <h2>Find the reason behind the next set.</h2>
               <p>
-                Search the Jacked library when you want the training logic behind the app: how to progress, when to hold back, what to track, and how to make imported history useful.
+                Search the Surpass library when you want the training logic behind the app: how to progress, when to hold back, what to track, and how to make imported history useful.
               </p>
             </div>
             <span>{filtered.length} matching articles</span>
@@ -545,9 +633,21 @@ export default function BlogIndexClient({ allPosts, categories }) {
             <section className="blog-cta">
               <div>
                 <h2>Use the research while you train.</h2>
-                <p>Jacked turns RIR, volume, rest timing, imports, and progress history into a faster iPhone workout log.</p>
+                <p>Surpass turns RIR, volume, rest timing, imports, and progress history into a faster iPhone workout log.</p>
               </div>
-              <a href={APP_STORE_URL} target="_blank" rel="noopener noreferrer" data-global-cta="blog_mid_cta">Open App Store</a>
+              <a
+                href={APP_STORE_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                data-global-cta="blog_hub_mid"
+                data-app-store-placement="blog_hub_mid"
+                data-app-store-campaign="blog_hub"
+                data-experiment="blog_hub_cta"
+                data-experiment-variant="outcome_v1"
+                data-copy-version={BLOG_HUB_COPY_VERSION}
+              >
+                Start free on iPhone
+              </a>
             </section>
           )}
 
@@ -558,6 +658,23 @@ export default function BlogIndexClient({ allPosts, categories }) {
               </button>
             </div>
           )}
+
+          <details className="library-map">
+            <summary>
+              <span>Browse the complete training library</span>
+              <span>{allPosts.length} canonical guides</span>
+            </summary>
+            <nav aria-label="Complete training library">
+              <div className="library-map-grid">
+                {allPosts.map((post) => (
+                  <Link key={`library-map-${post.slug}`} href={`/blog/${post.slug}`}>
+                    <small>{post.category}</small>
+                    {post.title}
+                  </Link>
+                ))}
+              </div>
+            </nav>
+          </details>
 
           {filtered.length === 0 && <p className="empty-state">No articles found.</p>}
         </div>

@@ -1,105 +1,62 @@
 ---
-title: "Collagen Peptides and Muscle-Tendon Stiffness: The 2025 Science"
-excerpt: "New research reveals how collagen supplementation improves explosive strength through enhanced muscle and tendon stiffness—a game-changer for athletes needing rapid force production."
+updatedAt: "2026-08-15"
+title: "Collagen Peptides for Tendons: What the Evidence Shows"
+excerpt: "Collagen peptides may affect some connective-tissue outcomes, but evidence is mixed and a supplement cannot replace progressive loading or clinical rehabilitation."
 ---
+# Collagen Peptides for Tendons: What the Evidence Shows
 
-If you've been paying attention to sports nutrition research, you've probably seen collagen supplements touted for joint health. But a groundbreaking 2025 study published in *Medicine & Science in Sports & Exercise* suggests collagen might do much more—it could literally change how your muscles and tendons behave under load [1].
+Collagen peptides are marketed for tendons, joints, skin, and athletic performance. The most useful question is not whether collagen is “good for connective tissue,” but which outcome changed, in whom, after what protocol, and whether the result matters to training or rehabilitation.
 
-## The Study: What They Found
+## What the 2025 trial measured
 
-Japanese researchers at Ritsumeikan University conducted a 16-week double-blind, randomized controlled trial with 50 healthy young sedentary males. Participants were divided into two groups:
+A double-blind randomized trial assigned 50 healthy young sedentary men to 10 g of collagen peptides or placebo daily for 16 weeks. Researchers measured medial-gastrocnemius and Achilles-tendon stiffness, tissue cross-sectional area, maximal isometric plantar-flexion torque, and rate of torque development ([Miyamoto et al.](https://pubmed.ncbi.nlm.nih.gov/40623147/)).
 
-- **Collagen peptide (CP) group**: 10g of collagen peptides daily
-- **Placebo group**: Identical-looking beverage without collagen
+The collagen group increased muscle and tendon stiffness and normalized rate of torque development. The trial did not find significant changes in gastrocnemius or Achilles cross-sectional area, and maximal voluntary isometric torque did not improve significantly in either group. That means the result is about selected mechanical and explosive-force measures—not proof that collagen builds muscle or repairs an injured tendon.
 
-Before and after the intervention, researchers measured:
-- Muscle and tendon stiffness using ultrasound shear wave elastography
-- Cross-sectional area of the medial gastrocnemius and Achilles tendon via MRI
-- Maximal voluntary isometric contraction torque
-- Rate of torque development (RTD)—a measure of explosive strength
+The sample was small, young, sedentary, and male. The authors were affiliated with a collagen-product company, which does not invalidate the work but is relevant context when interpreting a single positive trial. It also means that a trained female lifter, an older adult, or somebody with tendinopathy is not represented by the study.
 
-## The Results Were Clear
+## What broader evidence says
 
-**Muscle stiffness increased significantly** in the collagen group (Cohen's d = 0.594), while the placebo group showed no change.
+A 2024 systematic review and meta-analysis of 19 studies and 768 participants found statistically favourable results for several outcomes, including fat-free mass, tendon morphology, muscle architecture, maximal strength, and reactive-strength recovery. The authors rated certainty as moderate for body composition, very low for tendon morphology and mechanical properties, and low for several other outcomes ([Bischof et al.](https://pubmed.ncbi.nlm.nih.gov/39060741/)).
 
-**Tendon stiffness increased significantly** in the collagen group (Cohen's d = 0.378).
+That combination—positive pooled estimates with low or very low certainty for some connective-tissue outcomes—supports interest, not a guaranteed prescription. A separate 2024 study found that collagen peptide supplementation during one week of strenuous resistance exercise did not further increase connective-tissue protein-synthesis rates ([Jäger et al.](https://pubmed.ncbi.nlm.nih.gov/39086044/)). Different measurements can therefore point in different directions.
 
-**Rate of torque development improved significantly** in the collagen group (Cohen's d = 0.525), but not in the placebo group.
+## What collagen is not
 
-Notably, there were **no significant changes in muscle or tendon cross-sectional area**—meaning the benefits weren't from muscle growth, but from changes in tissue quality.
+Collagen is an incomplete muscle-building protein because it is relatively low in essential amino acids and leucine. It should not displace complete dietary protein when the goal is supporting muscle protein accretion. Nor does a change in stiffness demonstrate that a tendon is “bulletproof,” that injury risk has fallen, or that a painful tendon has been treated.
 
-Here's the kicker: Researchers found a **positive correlation between muscle stiffness and explosive strength**. The stiffer the muscle, the more explosive the contraction [1].
+Tendinopathy management generally depends on a graded loading plan, symptom monitoring, and sometimes clinical assessment. A collagen powder may be considered as an adjunct, but it cannot replace progressive rehabilitation or a diagnosis when pain, weakness, swelling, or loss of function persists.
 
-## Why This Matters for Lifters
+## How to interpret a product trial
 
-### Explosive Strength vs. Maximal Strength
+The 2025 study used 10 g daily for 16 weeks, but that is a study protocol, not a universal dose. Commercial products vary in source, hydrolysis, serving size, testing, and added ingredients. There is not enough evidence to claim that 20 g, a particular collagen type, or a 30–60-minute pre-training window is the optimal routine for every lifter.
 
-Traditional strength training focuses on maximal force—you want to lift heavier weights. But many athletic movements require **rapid force production**: jumping, throwing, sprinting, or even the lockout on a deadlift.
+If you try it:
 
-Rate of torque development (RTD) measures how quickly you can generate force. Think of it as "power output" for your muscles. The 2025 study showed collagen specifically improved RTD without changing maximal strength [1].
+1. keep progressive training and adequate complete protein in place;
+2. choose a product that states the actual collagen-peptide amount;
+3. decide in advance which outcome you will track, such as pain/function under a clinician's plan or a repeatable explosive test;
+4. change one variable at a time and stop if it causes intolerance or unnecessary expense.
 
-This means collagen supplementation could benefit:
-- Powerlifters needing faster lockouts
-- Athletes in explosive sports (basketball, volleyball, track)
-- Anyone wanting more "pop" in their movements
+## Bottom line
 
-### The Stiffness Connection
+Collagen peptides may influence selected connective-tissue, stiffness, recovery, or strength outcomes, but the certainty is mixed and the best direct 2025 trial did not show muscle or tendon enlargement. Treat collagen as an optional adjunct—not a muscle-building replacement, injury guarantee, or stand-alone tendon treatment.
 
-Here's the physiology: When your muscle-tendon unit is stiffer, less energy is "lost" during the stretch-shortening cycle. Your muscle can transmit force more efficiently to the bone, resulting in more explosive contractions [2].
+## Related reading
 
-Research from the Journal of Applied Physiology shows that muscle performance during maximal isometric and dynamic contractions is influenced by the stiffness of the tendinous structures [2]. Collagen appears to enhance this stiffness—without adding bulk.
+- [Tendon training and the weak-link problem](/blog/tendon-training-science-weak-link-gains)
+- [Training around injuries](/blog/training-around-injuries-keep-gains-banged-up)
+- [Protein and muscle growth](/blog/protein-muscle-growth-guide)
 
-## Practical Implications
+## Limits of the evidence
 
-### Dosage
+Collagen studies differ in peptide product, dose, vitamin C co-ingestion, exercise, participant health, measurement method, and follow-up. Most do not establish return-to-sport, re-injury, or long-term clinical outcomes. Pain or loss of function deserves appropriate medical or physiotherapy assessment.
 
-The study used **10g of collagen peptides daily** [1]. This aligns with previous research showing benefits at 15-30g daily, with 20g being a common recommendation for athletes [3].
+### Sources
 
-### Timing
+- [Collagen peptide supplementation and muscle-tendon stiffness](https://pubmed.ncbi.nlm.nih.gov/40623147/). 16-week randomized trial in 50 young sedentary men.
+- [Collagen peptides with long-term physical training](https://pubmed.ncbi.nlm.nih.gov/39060741/). 2024 systematic review and meta-analysis; certainty varied by outcome.
+- [Collagen peptide supplementation during training and connective-tissue protein synthesis](https://pubmed.ncbi.nlm.nih.gov/39086044/). 2024 controlled training study.
+- [The JUMPFOOD collagen and vitamin C tendinopathy protocol](https://pubmed.ncbi.nlm.nih.gov/38017500/). Trial protocol; not evidence of clinical efficacy.
 
-While the study didn't specify optimal timing, previous research suggests taking collagen **30-60 minutes before training** may enhance absorption when muscle protein synthesis is already elevated [3].
-
-### Type Matters
-
-The research specifically used **collagen peptides**—hydrolyzed collagen that's been broken down into smaller, more absorbable peptides. Regular collagen powder won't dissolve as well and may not provide the same benefits.
-
-Look for:
-- Hydrolyzed collagen peptides
-- Type I and III collagen (most abundant in skin and tendons)
-- Third-party tested products
-
-### It's Not a Replacement
-
-Let's be clear: Collagen supplementation **won't build muscle mass** the way creatine or sufficient protein will. It's an *additive* strategy—a way to optimize tissue quality rather than build tissue [1].
-
-Think of it as another tool in your optimization toolkit:
-- Protein: Builds muscle
-- Creatine: Enhances performance and growth
-- Collagen: Improves tissue stiffness and explosive capacity
-
-## The Bottom Line
-
-The 2025 research is compelling: **Daily collagen peptide supplementation increases both muscle and tendon stiffness**, and this enhanced stiffness contributes to improved explosive strength [1].
-
-For lifters and athletes whose performance depends on rapid force production—not just maximal strength—this could be a worthwhile addition to their supplement stack.
-
-The key numbers:
-- **10g daily** for 16 weeks showed significant benefits
-- **~20% improvement** in rate of torque development
-- **No changes in muscle size**—pure tissue quality optimization
-
-If you're already hitting your protein goals and want that extra edge for explosive movements, collagen peptides deserve consideration.
-
----
-
-## References
-
-1. Miyamoto N, et al. Collagen Peptide Supplementation Enhances Muscle-Tendon Stiffness and Explosive Strength: A 16-wk Randomized Controlled Trial. *Med Sci Sports Exerc.* 2025;57(12):2877-2886. PMID: 40623147.
-
-2. Bojsen-Møller J, Magnusson SP, Rasmussen LR, Kjaer M, Aagaard P. Muscle performance during maximal isometric and dynamic contractions is influenced by the stiffness of the tendinous structures. *J Appl Physiol (1985).* 2005;99(3):986-94.
-
-3. Kirmse M, et al. Impact of Collagen Peptide Supplementation in Combination with Long-Term Physical Training on Strength, Musculotendinous Remodeling, Functional Recovery, and Body Composition in Healthy Adults: A Systematic Review with Meta-analysis. *Sports Med.* 2024.
-
----
-
-*Track your tendon health with Jacked. Download now.*
+{{surpass-inline-cta}}

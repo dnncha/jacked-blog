@@ -1,13 +1,13 @@
 ---
+updatedAt: "2026-08-15"
 title: "The Muscle Pump Myth: What Science Actually Says"
 excerpt: "That satisfying pump you feel after a workout might feel like growth, but 2025 research says it's not driving hypertrophy. Here's what the science actually shows."
 ---
-
 You've felt it—that swollen, full sensation after a hard set where your muscles look bigger, feel tighter, and you swear you added a centimeter to your arms. Bodybuilders have chased "the pump" for decades. Instagram is flooded with posts about chasing that feeling. Supplements are marketed specifically to enhance it.
 
 But what if I told you that satisfying pump—the cell swelling, the metabolic metabolite accumulation—might not actually be driving your muscle growth at all?
 
-A landmark 2025 review published in the Journal of Sport and Health Science specifically calls out the pump as a myth. Let's dig into what the science actually shows.
+A 2025 review in the *Journal of Sport and Health Science* examined popular claims about the pump. The review is useful context, but a pump is neither a guaranteed growth signal nor proof that it has no relevance to the work performed.
 
 ## The Mechanic: What Causes Muscle Growth?
 
@@ -92,4 +92,20 @@ Chase mechanical tension. Eat enough protein. Sleep well. The pump will come as 
 
 ---
 
-*Track your pump with Jacked. Download now.*
+## Related reading
+
+- [Supersets for Hypertrophy: What the Science Actually Says in 2026](/blog/supersets-hypertrophy-science-2026)
+- [Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says](/blog/sarcoplasmic-vs-myofibrillar-hypertrophy-science-2026)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

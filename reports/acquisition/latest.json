@@ -1,39 +1,143 @@
 {
-  "generatedAt": "2026-08-08T07:32:01.738Z",
+  "generatedAt": "2026-08-17T08:50:08.128Z",
   "status": "blocked",
   "sources": {
     "searchConsole": {
       "status": "blocked",
+      "quality": "no Search Console query rows",
+      "range": null,
+      "availableRanges": [],
       "queryRows": 0,
-      "pageRows": 0
+      "pageRows": 0,
+      "coverage": {
+        "available": false,
+        "quality": "no rows",
+        "source_rows": 0,
+        "covered_rows": 0,
+        "missing_rows": 0,
+        "invalid_rows": 0,
+        "distinct_ranges": 0,
+        "start_date": null,
+        "end_date": null
+      }
     },
     "webAnalytics": {
       "status": "missing",
-      "rows": 0
+      "quality": "missing",
+      "rows": 0,
+      "coverage": null
     },
     "appStoreConnect": {
       "status": "missing",
-      "rows": 0
+      "quality": "missing",
+      "rows": 0,
+      "coverage": null
     },
     "appAnalytics": {
       "status": "missing",
-      "rows": 0
+      "quality": "missing",
+      "rows": 0,
+      "coverage": null
     }
   },
   "funnel": {
     "nonBrandSearchImpressions": null,
     "searchClicks": null,
+    "searchWindow": null,
     "webPageViews": null,
+    "webSessions": null,
     "toolStarts": null,
     "toolCompletions": null,
     "appStoreOutboundClicks": null,
+    "appStoreOutboundEventRows": null,
+    "appStoreOutboundSessions": null,
+    "ctaViewedSessions": null,
+    "qualifiedStoreIntentSessions": null,
+    "outboundSessionsWithoutCtaView": null,
+    "qualifiedStoreIntentRate": null,
+    "ctaViewRate": null,
+    "appStoreProductPageViews": null,
+    "appStoreProductPageToDownloadRate": null,
     "downloads": null,
     "firstWorkouts": null,
-    "completedWorkouts": null
+    "completedWorkouts": null,
+    "activationEntryInstallations": null,
+    "firstSetActivatedInstallations": null,
+    "firstSetActivationRate": null,
+    "timeToFirstSet": null,
+    "secondWorkoutWithin7dInstallations": null,
+    "sevenDayReturnRate": null,
+    "secondWorkoutWithin1dInstallations": null,
+    "oneDayReturnRate": null,
+    "secondWorkoutWithin30dInstallations": null,
+    "thirtyDayReturnRate": null,
+    "returnToTraining": {}
+  },
+  "measurement": {
+    "search_console": {
+      "available": false,
+      "quality": "no Search Console query rows",
+      "source": null,
+      "range": null,
+      "available_ranges": [],
+      "source_rows": 0,
+      "selected_rows": 0,
+      "non_brand_rows": null,
+      "impressions": null,
+      "clicks": null,
+      "coverage": {
+        "available": false,
+        "quality": "no rows",
+        "source_rows": 0,
+        "covered_rows": 0,
+        "missing_rows": 0,
+        "invalid_rows": 0,
+        "distinct_ranges": 0,
+        "start_date": null,
+        "end_date": null
+      }
+    },
+    "web": null,
+    "app": null,
+    "app_store_connect": null,
+    "app_store_campaign_continuity": {
+      "available": false,
+      "quality": "web analytics source missing",
+      "web_outbound_event_rows": 0,
+      "missing_web_campaign_event_rows": 0,
+      "missing_web_identity_event_rows": 0,
+      "web_campaign_count": 0,
+      "app_store_campaign_count": 0,
+      "campaigns": []
+    }
+  },
+  "breakdowns": {
+    "webCtaSegments": [],
+    "webExperimentComparisons": [],
+    "appActivationPaths": [],
+    "appActivationReleases": [],
+    "appNextSessionPreview": null,
+    "appWeeklyReviewRecovery": null,
+    "appStoreCampaigns": null,
+    "appStoreCampaignContinuity": {
+      "available": false,
+      "quality": "web analytics source missing",
+      "web_outbound_event_rows": 0,
+      "missing_web_campaign_event_rows": 0,
+      "missing_web_identity_event_rows": 0,
+      "web_campaign_count": 0,
+      "app_store_campaign_count": 0,
+      "campaigns": []
+    }
   },
   "notes": [
     "Missing source data is represented as null, not zero.",
     "Search Console query/page totals remain unknown when the exporter has no rows.",
-    "App Store and app activation data require authorized exports and are not inferred from web events."
+    "Non-brand Search Console totals use one preferred query-level window and never sum overlapping ranges or substitute page-level rows.",
+    "App Store and app activation data require authorized exports and are not inferred from web events.",
+    "App Store product-page-to-download rate remains unknown unless complete product_page_views and downloads fields are present.",
+    "Web-to-App Store campaign continuity is a handoff diagnostic; matching tokens do not equate browser clicks with product-page views or downloads.",
+    "Qualified store-intent rate uses the intersection of CTA-viewed and outbound session identities; clicks without a recorded CTA view remain a separate diagnostic.",
+    "Every reportable source must retain a complete observed date window; incomplete or contradictory coverage leaves that source invalid and its funnel values null."
   ]
 }

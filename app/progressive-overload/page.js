@@ -4,20 +4,20 @@ const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=12
 
 export const metadata = {
   title: 'Progressive Overload App for iPhone',
-  description: 'Use double progression, rep ranges, recent set history, RIR context, and weekly muscle targets to guide your next workout with Jacked for iPhone.',
+  description: 'Use double progression, rep ranges, recent set history, RIR context, and weekly muscle targets to guide your next workout with Surpass for iPhone.',
   keywords: ['progressive overload app', 'double progression app', 'hypertrophy tracker', 'RIR workout tracker', 'strength progression app'],
   alternates: { canonical: 'https://jacked.coach/progressive-overload' },
   openGraph: {
     title: 'Progressive Overload App for iPhone',
     description: 'Turn rep ranges and recent performance into a clearer repeat, add-reps, or add-load decision.',
     url: 'https://jacked.coach/progressive-overload',
-    images: [{ url: '/marketing/generated/jacked-acquisition-social.jpg', width: 1200, height: 630, alt: 'Lifter using Jacked between sets in a strength gym' }],
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass strength training for iPhone' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Progressive Overload App for iPhone',
     description: 'Turn rep ranges and recent performance into a clearer repeat, add-reps, or add-load decision.',
-    images: ['/marketing/generated/jacked-acquisition-social.jpg'],
+    images: ['/og-image.png'],
   },
 }
 
@@ -41,8 +41,8 @@ const comparison = [
 
 const faqs = [
   { question: 'What is double progression?', answer: 'Double progression increases reps within a target range before increasing load. For example, you may build from 6 to 10 reps at one weight, then add load and return to the lower end of the range.' },
-  { question: 'Does Jacked automatically change my program?', answer: 'No. You control the routine, exercises, rep ranges, and targets. Jacked keeps the recent results and progression context visible so you can make the next decision.' },
-  { question: 'Can I track RIR?', answer: 'Yes. Jacked supports RIR context alongside weight, reps, rep ranges, and recent performance.' },
+  { question: 'Does Surpass automatically change my program?', answer: 'No. You control the routine, exercises, rep ranges, and targets. Surpass keeps the recent results and progression context visible so you can make the next decision.' },
+  { question: 'Can I track RIR?', answer: 'Yes. Surpass supports RIR context alongside weight, reps, rep ranges, and recent performance.' },
   { question: 'Is progressive overload only about adding weight?', answer: 'No. Adding reps, improving execution within the same target, and managing weekly training volume can all be part of a progression plan.' },
 ]
 
@@ -50,11 +50,13 @@ export default function ProgressiveOverloadPage() {
   return <AcquisitionLanding
     eyebrow="Progressive overload app for iPhone"
     title="Progress every lift without guessing."
-    intro="Jacked keeps your rep range, recent result, effort, and weekly hard-set targets close to the workout so the next progression move is easier to judge."
+    intro="Surpass keeps your rep range, recent result, effort, and weekly hard-set targets close to the workout so the next progression move is easier to judge."
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_progressive_overload"
-    heroImage="/marketing/generated/jacked-hero-lifter.webp"
-    heroImageAlt="Lifter checking an iPhone between sets in a strength gym"
+    canonicalPath="/progressive-overload"
+    heroImage="/marketing/surpass-progress.png"
+    heroImageAlt="Surpass progress screen comparing recent lift performance with weekly muscle coverage"
+    heroPresentation="screen"
     benefits={benefits}
     steps={steps}
     comparison={comparison}
@@ -65,6 +67,6 @@ export default function ProgressiveOverloadPage() {
       ['/blog/progressive-overload-app-works', 'How progressive overload apps work'],
     ]}
     finalTitle="Turn the last set into a clearer next target."
-    finalCopy="Download Jacked on iPhone for double progression, RIR context, lift history, rest timing, and weekly muscle targets."
+    finalCopy="Start free on iPhone for double progression, RIR context, lift history, rest timing, and weekly muscle targets."
   />
 }

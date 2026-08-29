@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Muscle Memory: Why Your Gains Come Back Faster"
 excerpt: "The science of muscle memory reveals why previously trained muscles regrow faster — and how to leverage this biological advantage for permanent gains."
 ---
-
 If you have ever taken time off from lifting — whether due to injury, travel, or life — and noticed that your strength and size came back suspiciously quickly, you have experienced muscle memory. What feels like a lucky break is actually a well-documented biological phenomenon with fascinating implications for your training strategy.
 
 ## What Is Muscle Memory?
@@ -78,4 +78,19 @@ Muscle memory is one of the most powerful allies in your muscle-building journey
 
 ---
 
-*Track your muscle memory with Jacked. Download now.*
+## Related reading
+
+- [Muscle Memory After Detraining: What the Science Shows](/blog/muscle-memory-hypertrophy-detraining-science)
+- [Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)](/blog/muscle-memory-detraining-science-2026)
+
+## Limits of the evidence
+
+The evidence may combine mechanistic work, observational studies, trials, and expert interpretation. Those sources can inform a decision, but they do not establish an exact outcome for every reader.
+
+
+### Sources
+
+- [Muscle memory after detraining and retraining](https://pubmed.ncbi.nlm.nih.gov/41346689/). Recent human evidence; exact response depends on prior training and detraining.
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). General adaptation context.
+
+{{surpass-inline-cta}}

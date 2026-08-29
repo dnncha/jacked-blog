@@ -1,9 +1,9 @@
 ---
+updatedAt: "2026-08-15"
 title: "Sauna Use for Lifters: Heat Therapy for Muscle Growth and Recovery"
 excerpt: "Can regular sauna sessions actually improve your muscle building results? The science behind heat therapy for lifters."
 ---
-
-If you have access to a sauna, you're sitting on a recovery and performance tool that most lifters completely ignore. While everyone obsessively tracks protein, sleep, and training volume, the humble sauna might be the secret weapon hiding in plain sight.
+If you have access to a sauna, you're sitting on a recovery and performance tool that most lifters completely ignore. While everyone obsessively tracks protein, sleep, and training volume, the humble sauna might be the optional tool hiding in plain sight.
 
 But does sitting in a hot room actually help you build muscle? Let's look at what the research says.
 
@@ -76,4 +76,20 @@ The best recovery protocol in the world matters less than showing up to train.
 
 ---
 
-*Track your recovery with Jacked. Download now.*
+## Related reading
+
+- [Photobiomodulation: Does Low-Level Laser Therapy Actually Work for Muscle Building?](/blog/photobiomodulation-low-level-laser-therapy-muscle-science)
+- [Red Light Therapy for Muscle Growth: What Science Actually Says](/blog/red-light-therapy-muscle-growth-science)
+
+## Limits of the evidence
+
+The evidence may combine mechanistic work, observational studies, trials, and expert interpretation. Those sources can inform a decision, but they do not establish an exact outcome for every reader.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

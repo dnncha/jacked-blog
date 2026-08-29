@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "The Science of Training Partners: How Spotters Unlock Greater Strength Gains"
 excerpt: "Research shows having a spotter doesn't just provide safety — it literally makes you stronger through social facilitation and psychological mechanisms."
 ---
-
 If you think training partners are just for safety, think again. The research is clear: the mere presence of a spotter can significantly boost your strength performance, and this isn't just about having someone there to catch the weight if you fail.
 
 ## The Research: Spotters Make You Stronger
@@ -61,4 +61,20 @@ So next time you're tempted to skip the gym because your partner can't make it, 
 
 ---
 
-*Track your training with Jacked. Download now.*
+## Related reading
+
+- [Unilateral Training: The Single-Limb Strategy for Faster Gains](/blog/unilateral-training-single-limb-gains)
+- [Beetroot Juice Nitrates: The Science Behind Muscle Performance](/blog/beetroot-juice-nitrates-muscle-performance)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

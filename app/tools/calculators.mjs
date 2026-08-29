@@ -59,7 +59,7 @@ function confidenceFor(repsToFailure) {
   }
 }
 
-export function estimateE1RM({ weight, reps, rir = 0, formula = 'jacked', increment = 1 }) {
+export function estimateE1RM({ weight, reps, rir = 0, formula = 'surpass', increment = 1 }) {
   const load = Math.max(numeric(weight), 0)
   const completedReps = Math.max(numeric(reps), 1)
   const repsInReserve = Math.max(numeric(rir), 0)
@@ -68,9 +68,12 @@ export function estimateE1RM({ weight, reps, rir = 0, formula = 'jacked', increm
     epley: [epley(load, repsToFailure)],
     brzycki: [brzycki(load, repsToFailure)],
     lander: [lander(load, repsToFailure)],
-    jacked: [epley(load, repsToFailure), brzycki(load, repsToFailure)].filter(Boolean),
+    surpass: [epley(load, repsToFailure), brzycki(load, repsToFailure)].filter(Boolean),
   }
-  const values = (formulas[formula] || formulas.jacked).filter(Boolean)
+  // `jacked` remains an input alias so existing shared links keep calculating
+  // correctly, but it is never exposed as a product label or default.
+  const selectedFormula = formula === 'jacked' ? 'surpass' : formula
+  const values = (formulas[selectedFormula] || formulas.surpass).filter(Boolean)
   const raw = values.reduce((sum, value) => sum + value, 0) / Math.max(values.length, 1)
 
   return {
@@ -199,7 +202,7 @@ export function calculateOneRepMax({
   weight,
   reps,
   rir = 0,
-  formula = 'jacked',
+  formula = 'surpass',
   increment = DEFAULT_INCREMENT,
 }) {
   const e1rm = estimateE1RM({ weight, reps, rir, formula, increment })
@@ -343,7 +346,7 @@ export function calculateStrengthLevel({
     confidence: e1rm.confidence,
     nextAction: actionTarget,
     why: `${liftName} e1RM is ${roundDisplay(e1rm.rounded)} ${units}, which is ${Number(ratio.toFixed(2))}x bodyweight for a ${sexKey} lifter at ${roundDisplay(bodyMass)} ${units}.`,
-    caveat: `These are transparent Jacked practical standards, not federation records or copied user-population data. ${ageContext(age)}`,
+    caveat: `These are transparent Surpass practical standards, not federation records or copied user-population data. ${ageContext(age)}`,
   }
 }
 
@@ -1199,8 +1202,8 @@ export function calculateWorkoutCsvValidation(csvText) {
   const nextAction = blockers
     ? `Fix ${issues.find((issue) => issue.severity === 'blocker')?.field || 'the CSV'} before importing.`
     : issues.length
-      ? 'Spot-check the warnings, then import a copy into Jacked.'
-      : 'Keep the original export, then import into Jacked and check your main lifts first.'
+      ? 'Spot-check the warnings, then import a copy into Surpass.'
+      : 'Keep the original export, then import into Surpass and check your main lifts first.'
 
   return {
     status,
@@ -1233,7 +1236,7 @@ export function calculateStrongImportPreview(csvText) {
     ready: validation.status !== 'Fix before import' && validation.sets > 0,
     nextAction: validation.status === 'Fix before import'
       ? validation.nextAction
-      : 'Download Jacked, keep the original Strong export, then import and review your main lifts.',
+      : 'Download Surpass, keep the original Strong export, then import and review your main lifts.',
   }
 }
 
@@ -1304,7 +1307,7 @@ export function calculateFitNotesImportPreview(csvText) {
     notesFound: notesIndex >= 0,
     nextAction: blockers
       ? 'Export a fresh workout CSV from FitNotes and fix the first blocker before importing.'
-      : 'Keep the original export, import a copy into Jacked, then spot-check dates, main lifts, and cardio rows.',
+      : 'Keep the original export, import a copy into Surpass, then spot-check dates, main lifts, and cardio rows.',
     privacy: 'The CSV is parsed in your browser. Nothing is uploaded by this web tool.',
   }
 }

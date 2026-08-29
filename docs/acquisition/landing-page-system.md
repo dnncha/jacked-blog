@@ -1,6 +1,6 @@
 # Acquisition landing-page system
 
-Jacked acquisition pages should solve one concrete search problem, show how the answer was obtained, and offer one attributable next step into the shipping iPhone app.
+Surpass acquisition pages should solve one concrete search problem, show how the answer was obtained, and offer one attributable next step into the shipping iPhone app.
 
 ## Page contract
 
@@ -24,7 +24,8 @@ The page must remain useful when a visitor does not install the app. A CTA is a 
 | Hevy migration | `/hevy-alternative` | Explain compatible export and local inspection | Show the supported import boundary and first useful workout context | `seo_hevy_alternative` |
 | Strong migration | `/strong-alternative` | Explain the supported Strong export path | Show what history is retained and what is not | `seo_strong_alternative` |
 | FitNotes migration | `/fitnotes-alternative` | Explain the workout CSV boundary | Show how compatible history informs the next target | `seo_fitnotes_alternative` |
-| Next set | `/tools/next-set-calculator` | Calculate add-reps, add-load, repeat, or back-off guidance | Show how Jacked keeps that decision with the active workout | `next_set_calculator` |
+| Import history guide | `/import-workout-history` | Compare the supported Hevy, Strong, and FitNotes file boundaries | Give switchers one reviewable path into Surpass without account access | `seo_import_workout_history` |
+| Next set | `/tools/next-set-calculator` | Calculate add-reps, add-load, repeat, or back-off guidance | Show how Surpass keeps that decision with the active workout | `next_set_calculator` |
 | Weekly volume | `/tools/weekly-volume-checker` | Explain the weekly set total and its assumptions | Show sets completed and remaining in the app | `weekly_volume_checker` |
 | Progressive overload | `/progressive-overload` | Explain the decision system with a worked example | Show the same decision inside the workout flow | `seo_progressive_overload` |
 

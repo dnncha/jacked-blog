@@ -1,20 +1,20 @@
 {
-  "name": "Jacked - Gym Workout Logger & Hypertrophy Coach",
-  "short_name": "Jacked",
-  "description": "Gym workout logger and hypertrophy coach for iPhone with fast set logging, next-set targets, RIR-aware progression, rest timers, and workout import.",
+  "name": "Surpass - Strength Training",
+  "short_name": "Surpass",
+  "description": "Build the body people notice with focused blocks, clear training targets, and honest progress evidence.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#050505",
   "icons": [
     {
-      "src": "/favicon-96x96.png",
-      "sizes": "96x96",
+      "src": "/surpass-icon.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/surpass-icon.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     }
   ]

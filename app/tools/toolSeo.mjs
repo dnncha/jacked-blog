@@ -118,7 +118,7 @@ export function toolQualityNotes(tool) {
   const shared = {
     method: 'The calculator is server-rendered for crawlability, then hydrated so the result updates instantly in the browser.',
     assumptions: 'Results depend on consistent exercise execution, honest effort ratings, and recent training context.',
-    privacy: 'Inputs are handled in the browser for the web tool experience. Jacked should only store lifting data when a user chooses to log it in the app.',
+    privacy: 'Inputs are handled in the browser for the web tool experience. Surpass should only store lifting data when a user chooses to log it in the app.',
   }
 
   const byType = {
@@ -135,7 +135,7 @@ export function toolQualityNotes(tool) {
       assumptions: 'High-rep and sloppy sets are lower-confidence. Treat e1RM as a trend and targeting tool, not a guaranteed max.',
     },
     'strength-level': {
-      method: 'Estimates 1RM from weight, reps, and RIR, divides it by bodyweight, then compares the ratio with transparent Jacked practical standards for the lift and sex.',
+      method: 'Estimates 1RM from weight, reps, and RIR, divides it by bodyweight, then compares the ratio with transparent Surpass practical standards for the lift and sex.',
       assumptions: 'Use consistent range, equipment setup, and exercise execution. The tiers are practical benchmarks, not official rankings or copied population tables.',
     },
     plates: {
@@ -174,7 +174,7 @@ export function toolQualityNotes(tool) {
     },
     'fitnotes-import': {
       method: 'Parses the FitNotes CSV locally in the browser and checks the required Date and Exercise columns plus supported lifting, cardio, and note fields.',
-      assumptions: 'FitNotes exports and edited CSV files can vary. This is a file-shape check; verify dates, exercises, and set details in Jacked after import.',
+      assumptions: 'FitNotes exports and edited CSV files can vary. This is a file-shape check; verify dates, exercises, and set details in Surpass after import.',
       privacy: 'The CSV is parsed in your browser. Nothing is uploaded. No account required. No server storage.',
     },
     'csv-validator': {

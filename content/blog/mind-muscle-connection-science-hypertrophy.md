@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Mind-Muscle Connection: Science or Snake Oil?"
 excerpt: "The research on internal focus cues and muscle activation—what works, what doesn't, and how to use it for maximum hypertrophy."
 ---
-
 The idea is seductive: think about your biceps during curls, and they'll grow bigger. Elite bodybuilders swear by it. But does the science actually support the "mind-muscle connection," or is it justbro-science passed down in gym folklore?
 
 The answer is nuanced—and more interesting than a simple yes or no.
@@ -107,4 +107,20 @@ Now go flex—but do it consciously.
 
 ---
 
-*Track your mind-muscle connection with Jacked. Download now.*
+## Related reading
+
+- [Mind-Muscle Connection: The Science Behind Thinking Your Way to Bigger Gains](/blog/mind-muscle-connection-science-gains)
+- [Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says](/blog/compound-vs-isolation-hypertrophy-science)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

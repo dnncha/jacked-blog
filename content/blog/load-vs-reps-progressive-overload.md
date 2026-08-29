@@ -1,73 +1,62 @@
 ---
-title: "Load vs Reps: What the 2024-2025 Research Says About Progressive Overload"
-excerpt: "New studies compare adding weight versus adding reps for muscle and strength gains — and the results might surprise you."
+updatedAt: "2026-08-15"
+title: "Load vs Reps: How to Progress Resistance Training"
+excerpt: "Adding weight is not the only form of progressive overload. Here is what controlled studies and autoregulation research can support without promising one universal method."
 ---
 
-Building muscle and strength isn't complicated, but programming progression is where most lifters get stuck. Should you chase heavier weights or more repetitions? A wave of recent research from 2024-2025 has new answers — and they're more nuanced than the old "just add weight" dogma.
+Progressive overload means gradually asking a muscle or movement to do more useful work. That can involve load, repetitions, sets, range of motion, technique, or a reduction in effort for the same work. The best choice depends on the exercise, goal, training age, and how reliably the change can be measured.
 
-## The Traditional Wisdom (and Its Flaws)
+## Load and repetitions are not competing dogmas
 
-For decades, progressive overload has been drilled into every lifter's brain: add weight when you can. The problem? This assumes your body adapts linearly, ignoring daily fluctuations in sleep, stress, recovery, and fatigue.
+A 2024 trial compared different overload-progression approaches during 10 weeks of unilateral leg-extension training in untrained adults. Both approaches improved strength and muscle size, with no clear evidence that one progression method was superior ([trial](https://pubmed.ncbi.nlm.nih.gov/38286426/)). The study is useful, but its narrow exercise, short duration, and untrained sample mean it should not be treated as proof that load and repetitions are identical in every program.
 
-A 2024 randomized controlled trial put this to the test in a clever way. Researchers had 39 untrained adults (20 men, 19 women) train one leg by adding weight each week, while the other leg added repetitions — holding total volume constant. After 10 weeks of leg extension training, both groups saw nearly identical gains:
+The broader resistance-training literature also supports a range of loads for hypertrophy when sets are hard enough and volume is appropriate. Heavier loads usually remain more specific to maximal strength, while moderate or lighter loads can build muscle but may be more uncomfortable or time-consuming ([load and hypertrophy meta-analysis](https://pubmed.ncbi.nlm.nih.gov/33776802/)).
 
-- **Load progression group**: 1RM went from 52.9 kg to 69.1 kg; muscle cross-sectional area increased from 21.3 cm² to 23.5 cm²
-- **Rep progression group**: 1RM went from 51.7 kg to 66.8 kg; muscle cross-sectional area increased from 21.1 cm² to 23.4 cm²
+## Where autoregulation fits
 
-The difference? Statistically insignificant. Both approaches worked equally well for early-stage lifters [Scarpelli et al., 2024](https://pubmed.ncbi.nlm.nih.gov/38286426/).
+The same prescribed percentage of 1RM can feel different from one day to the next. RPE or RIR can help a lifter adjust a planned load to the actual session. Velocity measures can provide another signal, especially when the goal is to limit fatigue or preserve power.
 
-This challenges the idea that heavier is always better. But before you ditch the barbell, there's more nuance.
+Autoregulation is not magic and it is not a guarantee of superiority. Evidence comparing autoregulated and fixed programs is mixed, with meaningful differences in the protocol, participants, and outcome. Use it when the signal is reliable enough to improve decision-making, not because a ranking or a probability of being “best” promises a particular result ([autoregulation and proximity-to-failure review](https://pubmed.ncbi.nlm.nih.gov/40791980/)).
 
-## The Real Key: Autoregulation
+## Practical progression options
 
-Where things get interesting is in the 2025 research on autoregulated training methods. A network meta-analysis published in 2025 compared four approaches for maximal strength:
+### Double progression
 
-1. **Percentage-Based Resistance Training (PBRT)** — Traditional % of 1RM
-2. **RPE-Based Training** — Rating of Perceived Exertion / Reps in Reserve
-3. **Velocity-Based Training (VBRT)** — Tracking bar speed
-4. **Autoregulating Progressive Resistance Exercise (APRE)** — Self-adjusting protocols
+Choose a sensible rep range, keep the exercise and technique stable, and add repetitions until the top of the range is reached. Increase load by a small step, return to the lower end, and repeat. This is easy to apply to machines, dumbbells, and many accessories.
 
-The results? For back squat, APRE ranked highest (93% probability of being best), followed by RPE (67%), VBRT (27%), and traditional %-based training (13%). Similar patterns held for bench press [PMC, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12336695/).
+### Load-led progression
 
-The common thread: methods that account for daily readiness outperformed rigid percentage-based programming.
+Add a small amount of weight when the planned repetitions can be completed with the intended technique and effort. This is useful for strength-focused lifts, but the increase does not need to happen every session.
 
-## Why Autoregulation Wins
+### Effort or volume progression
 
-Traditional %1RM programming has a fatal flaw — it assumes you're equally ready to train every day. You're not. Sleep debt, life stress, accumulated fatigue, and minor injuries all fluctuate. What felt like 80% last week might be 85% today.
+Keep load and repetitions stable while improving range of motion, reducing unnecessary rest, adding a set, or moving the same work with a lower RPE. These changes should be used carefully: more volume is not automatically better, and shorter rest can reduce performance on later sets.
 
-**RPE and RIR (Reps In Reserve)** solve this elegantly. Instead of "3 sets of 5 at 80%," you do "3 sets of 5 at RPE 7-8" (meaning 2-3 reps left in the tank). On good days, you might get 6-7 reps. On bad days, you might hit 4-5. You're still training hard — just appropriately scaled to your capacity that day.
+## A simple decision rule
 
-**Velocity-based training** takes a different approach: lighter loads moved faster generally produce similar strength gains to heavier loads moved slower, but with less fatigue accumulation. If your bar speed drops below a certain threshold, you stop — preventing the "grinding" that leads to injury.
+Pick the progression variable that is easiest to measure without degrading technique. For a beginner, adding repetitions within a range may be less intimidating than adding weight. For a strength-focused lifter, load and movement specificity matter more. For a fatigued or experienced lifter, RPE/RIR can help scale the session while preserving the intended work.
 
-## Practical Takeaways
+Track the exercise, load, repetitions, range of motion, effort, and relevant symptoms. If a number changes but the movement or target-muscle stimulus changes too, interpret the result cautiously. A new exercise should be treated as a new baseline, not compared as if its load were interchangeable with the old one.
 
-Based on the current science, here's what actually works:
+Do not use autoregulation to justify repeatedly training through pain, nor use a plateau in one metric as proof that the whole program has failed. First check sleep, food, recovery, exercise setup, and whether the target outcome is being measured consistently.
 
-### For Beginners (First 6-12 Months)
-Either load or rep progression will get you results. Pick whichever feels more sustainable. The 2024 study shows both work nearly identically.
+## Bottom line
 
-### For Intermediate-Advanced Lifters
-Autoregulation matters more as you advance. Your linear progression days are numbered. Consider:
-- **RPE-based programming**: "3x5 @ RPE 7-8" or "5x5 @ RPE 8"
-- **Double progression**: Work within a rep range (e.g., 8-12), add reps until you hit the top end, then increase weight
+Adding weight is one useful form of overload, not the only one. Load-led progression, double progression, and carefully applied autoregulation can all fit a strong program. Choose the method that preserves good repetitions, matches the goal, and produces a record you can interpret over time.
 
-### For Everyone
-- **Don't grind to failure every session** — it accumulates fatigue faster than gains
-- **Track something**: reps, RPE, or velocity. Data beats intuition.
-- **Listen to your body**: If 80% feels like 90% today, it probably is
+### Sources
 
-## The Bottom Line
+- [Overload-progression trial in resistance training](https://pubmed.ncbi.nlm.nih.gov/38286426/)
+- [Load and hypertrophy: systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/33776802/)
+- [Autoregulation and proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/)
 
-The "just add weight" approach isn't wrong — it's just incomplete. The 2024-2025 research confirms that progressive overload can happen through weight OR reps, but the real competitive advantage is autoregulation: matching your training demand to your daily capacity.
+## Related reading
 
-Stop chasing arbitrary numbers. Start training smarter.
+- [Progressive Overload Beyond Adding Weight](/blog/progressive-overload-beyond-adding-weight)
+- [RPE vs RIR Autoregulation](/blog/rpe-vs-rir-autoregulation-2025)
 
----
+## Limits of the evidence
 
-**References:**
-- Scarpelli et al. (2024). Effects of Resistance Training Overload Progression Protocols on Strength and Muscle Mass. *International Journal of Sports Medicine*. PMID: 38286426
-- Network Meta-Analysis (2025). Autoregulated resistance training for maximal strength enhancement. *ScienceDirect*. PMC: PMC12336695
+Studies differ in exercise selection, training status, progression rules, volume, and measurement. A result in a short leg-extension study or a controlled research program does not determine the best progression method for every person.
 
----
-
-*Track your progressive overload with Jacked. Download now.*
+{{surpass-inline-cta}}

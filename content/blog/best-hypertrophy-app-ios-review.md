@@ -1,10 +1,10 @@
 ---
+updatedAt: "2026-08-15"
 title: "Best Hypertrophy App for iOS: What Serious Lifters Should Look For"
 date: "2026-05-15"
 category: "Workout Apps"
 excerpt: "The best hypertrophy app for iPhone is not just a workout log. It should make progression, volume, effort, history, and body-composition evidence easier to act on."
 ---
-
 # Best Hypertrophy App for iOS: What Serious Lifters Should Look For
 
 Most iPhone workout apps can store exercises, sets, reps, and weights. That is useful, but it is not enough if the goal is hypertrophy.
@@ -28,9 +28,9 @@ The best hypertrophy app for iOS should include:
 - Body weight, measurements, and progress-photo context
 - A migration path from old workout logs such as Hevy
 
-Jacked is built around that workflow: plan the session, log the set quickly, apply progression guidance, and review the result in Progress.
+Surpass is built around that workflow: plan the session, log the set quickly, apply progression guidance, and review the result in Progress.
 
-If you are specifically comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app), the main question is whether you want the app to run a full mesocycle or help you execute your own hypertrophy training with less friction. The dedicated RP alternatives guide compares Jacked, Mesostrength, Hevy, Strong, RepLog, Liftosaur, Alpha Progression, Fitbod, Dr. Muscle, and spreadsheets by switching reason.
+If you are specifically comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app), the main question is whether you want the app to run a full mesocycle or help you execute your own hypertrophy training with less friction. The dedicated RP alternatives guide compares Surpass, Mesostrength, Hevy, Strong, RepLog, Liftosaur, Alpha Progression, Fitbod, Dr. Muscle, and spreadsheets by switching reason.
 
 ## What Makes a Hypertrophy App Different?
 
@@ -68,7 +68,7 @@ Progressive overload is not just "add weight every week." A useful app should ac
 - Whether the lift repeated enough times to trust the trend
 - Whether a smaller load jump or rep target is more appropriate
 
-Jacked uses the live workout context to surface practical next-load guidance rather than making the user open a spreadsheet.
+Surpass uses the live workout context to surface practical next-load guidance rather than making the user open a spreadsheet.
 
 If you want the underlying progression logic, read how a [progressive overload app](/blog/progressive-overload-app-works) should translate recent performance into the next set.
 
@@ -90,9 +90,12 @@ For hypertrophy, effort context helps distinguish easy volume from hard sets. An
 
 If you are switching from Hevy or another tracker, your old logbook should not become dead data. Imported workouts, routines, measurements, exercise notes, and set-type context help the new app understand where you are starting from.
 
-## Where Jacked Fits
+## Where Surpass Fits
 
-Jacked is not trying to be a general fitness app for every possible goal. It is focused on hypertrophy training on iPhone.
+Surpass is not trying to be a general fitness app for every possible goal. It is focused on hypertrophy training on iPhone.
+
+For a direct product walkthrough rather than a feature checklist, see the
+[Surpass hypertrophy app for iPhone](/hypertrophy-app) page.
 
 Current product strengths include:
 
@@ -123,8 +126,22 @@ The best hypertrophy app for iOS is the one that makes good training behavior re
 
 If you care about hypertrophy more than general habit tracking, choose the app that is built around the live workout and the training history behind it.
 
-## References
+## Editorial methodology
 
-- Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass.
-- Grgic J et al. Effects of resistance training performed to repetition failure or non-failure on muscular strength and hypertrophy.
-- Helms ER et al. Application of the repetitions in reserve-based rating of perceived exertion scale for resistance training.
+This is a workflow and feature evaluation, not an independent laboratory test, a paid ranking, or a claim that one app produces more muscle. The criteria are whether a product makes live logging, progression decisions, effort context, muscle-level volume, migration, and progress review easier to use. Features and pricing change; verify the current product before switching.
+
+Surpass-specific statements are based on the current first-party product workflow described in [Progressive Overload](/progressive-overload), [Workout Tracker](/workout-tracker), [Gym Workout Planner](/gym-workout-planner), and [Hevy import](/blog/import-hevy-to-surpass). Competitor descriptions should be checked against their current apps and terms.
+
+## Evidence
+
+### Sources
+
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — why a useful app should make training dose visible without presenting a universal set target.
+- [Proximity to failure and adaptations](https://pubmed.ncbi.nlm.nih.gov/40791980/) — why effort context is more informative than repetitions alone.
+- [Surface-EMG interpretation](https://pubmed.ncbi.nlm.nih.gov/29354060/) — why an app should not turn one activation metric into a growth promise.
+
+## Limits of the evidence
+
+This article evaluates product workflows and decision support, not the causal effect of an app on hypertrophy. Training studies differ in exercises, loads, effort, duration, and participants, while app features can change between releases. Individual response, pain, recovery, and the quality of the comparison still matter.
+
+{{surpass-inline-cta}}

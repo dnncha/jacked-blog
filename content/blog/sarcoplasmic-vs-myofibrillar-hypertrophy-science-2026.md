@@ -1,75 +1,61 @@
 ---
-title: "Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says"
-excerpt: "The age-old bodybuilding debate finally answered with 2025 research. Does pump training actually build different muscle than heavy lifting?"
+updatedAt: "2026-08-15"
+title: "Sarcoplasmic vs Myofibrillar Hypertrophy: What the Evidence Shows"
+excerpt: "Muscle growth includes changes to contractile and non-contractile components, but current research does not support a simple heavy-for-myofibrils, light-for-sarcoplasm training split."
 ---
+Muscle growth is often divided into “myofibrillar” hypertrophy—the contractile machinery—and “sarcoplasmic” hypertrophy—the surrounding fluid, proteins, glycogen, and organelles. The distinction can help describe what researchers measure, but it is frequently presented as a false choice: heavy training supposedly creates dense, strong muscle while high-repetition pump training creates size without function.
 
-You've probably heard it in every gym: *"Bodybuilders are bigger but weaker because they train for sarcoplasmic hypertrophy, bro."* It's one of fitness's most persistent myths—but what does the science actually say?
+Human muscle adaptation is more integrated than that story.
 
-## The Two Types of Muscle Growth (Theory)
+## What the terms mean
 
-**Myofibrillar hypertrophy** is the growth of the contractile apparatus—the actual muscle fibers (myofibrils) that generate force. Think of these as the motors inside your muscle cells.
+Muscle fibres contain myofibrils that generate force and a sarcoplasm containing many other structures and proteins. When a fibre grows, its composition can change. The relative contribution of each component may vary with training history, programme, muscle, nutrition, measurement method, and the time point studied.
 
-**Sarcoplasmic hypertrophy** theoretically refers to growth of the sarcoplasm (the fluid and non-contractile components surrounding the myofibrils)—glycogen stores, mitochondria, enzymes, and sarcoplasmic proteins.
+That does not mean a lifter can reliably choose a “type” of hypertrophy with a rep range. A biopsy or protein measurement is a snapshot, not a direct forecast of how a muscle will look or perform months later.
 
-The claim: High-rep "pump" training increases sarcoplasm (making muscles bigger but not stronger), while heavy lifting builds myofibrils (making muscles stronger but not as big).
+## What recent studies add
 
-## What 2025 Research Actually Shows
+A 2025 study compared a higher-load protocol described as myofibrillar-focused with a higher-repetition protocol described as sarcoplasmic-focused. Both groups increased measured muscle and strength outcomes, but the study's particular design does not establish a universal ratio or prove that lifters can selectively build one compartment.
 
-A November 2025 study published in *Sport Sciences for Health* directly compared heavy load (myofibrillar) vs. high repetition (sarcoplasmic) training protocols. The results? Both produced significant hypertrophy, but with nuanced differences in where the growth occurred.
+Earlier work in trained men found that six weeks of high-volume training produced substantial changes in sarcoplasmic proteins and other fibre components. A newer review of load-induced hypertrophy also treats myofibrillar and sarcoplasmic changes as part of a broader adaptation rather than as two mutually exclusive products.
 
-The prevailing scientific consensus has shifted:
+The appropriate conclusion is that body composition inside a fibre can change and that the proportion may depend on the stimulus. The evidence does not support dramatic “non-functional muscle” claims or a fixed 10–15% split that applies to every programme.
 
-1. **Sarcoplasmic hypertrophy DOES happen** — but probably not in the way the "bro scientists" describe it
-2. **It's not just glycogen storage** — research shows the sarcoplasm expands through increased sarcoplasmic **protein content**, not just fluid
-3. **It may be a consequence, not a choice** — you likely can't "target" sarcoplasmic hypertrophy specifically
+## Why strength and size can diverge
 
-## The Real Picture
+Strength is influenced by muscle size, neural drive, technique, leverage, coordination, and the specificity of the test. Someone who trains primarily for hypertrophy may be less skilled at a one-repetition maximum than someone who practises heavy singles, even if their muscle size is similar.
 
-From PMC research (2020-2025):
+That difference is not proof that one person built only sarcoplasm. It is a reminder that strength is task-specific.
 
-> *"If an individual exhibits a 20% increase in mean fiber cross-sectional area, and assuming myofibrils constitute ~85% of intracellular space, a 17% addition of myofibrillar protein and a 3% increase in sarcoplasm volume would accompany fiber growth."*
+## Practical programming
 
-Translation: When muscles grow, **both** compartments expand. The sarcoplasm grows too—but at a slower rate than the myofibrils.
+Choose loading based on the goal and the constraints:
 
-However, some evidence suggests that training history influences the ratio:
+- practise heavier loads when maximal strength or a high-force skill matters;
+- use moderate and higher repetitions when they allow stable, progressive, and tolerable work;
+- stop close enough to failure for the intended stimulus without making every set maximal; and
+- use measurements of load, repetitions, performance, and muscle size to judge progress.
 
-- **High-rep training** may favor relatively more sarcoplasmic expansion
-- **Heavy training** may favor relatively more myofibrillar growth
-- The difference is small (~10-15% of total growth), not a complete transformation
+You do not need to chase a pump, a particular fibre fraction, or a “dense” look through a special programme. Add variety when it improves progression, skill, comfort, or adherence—not because a cellular ratio is guaranteed to change.
 
-## Why Bodybuilders Look Different
+## The bottom line
 
-The strength difference between bodybuilders and powerlifters isn't because bodybuilders have "non-functional" sarcoplasmic hypertrophy. It's because:
+Sarcoplasmic and myofibrillar changes are real ways to describe parts of muscle adaptation, but they are not separate switches that lifters can precisely select. Heavy and lighter training can both build muscle; choose the loading that matches the task and that you can progress and recover from.
 
-1. **Neural adaptation** — Heavy lifters practice specific movements
-2. **Skill specificity** — Strength is pattern-specific
-3. **Muscle architecture** — Bodybuilders may develop longer muscle bellies
+## Related reading
 
-When bodybuilders switch to powerlifting, their strength skyrockets quickly—Stan Efferding squatted 900+ months after transitioning from bodybuilding. The muscle was always capable; it just needed neural adaptation.
+- [Rep Ranges and Hypertrophy: What Failure Studies Actually Show](/blog/rep-range-myth-muscle-growth-failure)
+- [Mitochondria, Resistance Training, and Muscle Growth: What We Know](/blog/mitochondrial-dynamics-muscle-growth-hypertrophy)
 
-## Practical Takeaways
+## Limits of the evidence
 
-1. **Don't chase "sarcoplasmic hypertrophy" specifically** — Just train for muscle growth; your body will figure out the optimal ratio
+Studies measure different fibre components, muscles, training protocols, and time points. Biopsy and molecular findings are not interchangeable with whole-muscle size, strength, or long-term performance.
 
-2. **Both heavy and light training build muscle** — The key driver is **proximity to failure**, not load
+### Sources
 
-3. **The pump feels real** — Sarcoplasmic expansion does occur, just not in the dramatic "non-functional" way claimed
+- [The effect of myofibril and sarcoplasmic hypertrophy training on muscle hypertrophy and strength](https://doi.org/10.1007/s11332-025-01565-w). 2025 comparative study; protocol-specific and not a selective-hypertrophy prescription.
+- [Muscle fiber hypertrophy after high-volume resistance training](https://pubmed.ncbi.nlm.nih.gov/31166954/). Trained-men study of sarcoplasmic and contractile components.
+- [Load-induced human skeletal muscle hypertrophy: mechanisms, myths, and misconceptions](https://pubmed.ncbi.nlm.nih.gov/41276164/). Recent review of the evidence and terminology.
+- [Strength and hypertrophy adaptations between low- and high-load training](https://pubmed.ncbi.nlm.nih.gov/28834797/). Broader load-comparison meta-analysis.
 
-4. **Periodize both** — Use heavy loads for strength, moderate loads for hypertrophy, and occasionally high-rep pump work for variety and metabolic stress
-
-## The Verdict
-
-Sarcoplasmic hypertrophy is real—it just isn't the magical "bigger but weaker" phenomenon described in gym mythology. When your muscles grow, **both** the contractile machinery and the surrounding fluid/protein matrix expand. The ratio may be slightly influenced by training style, but you can't selectively train one type over the other.
-
-Stop worrying about which "type" you're building. Focus on progressive overload, eating in a surplus, training close to failure, and letting your muscles adapt naturally.
-
----
-
-**References:**
-- Trappe et al. (2020). Sarcoplasmic Hypertrophy in Skeletal Muscle. *PMC*
-- Sport Sciences for Health (2025). Myofibril vs Sarcoplasmic Training Effects. *Springer Nature*
-- Stronger By Science (2020). Sarcoplasmic Hypertrophy: The Bros Were Probably Right
-
----
-
-*Track your hypertrophy with Jacked. Download now.*
+{{surpass-inline-cta}}

@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "The Sleep-Muscle Connection: 2025 Research on How Sleep Builds Muscle"
 excerpt: "New Cell paper reveals the neural circuit linking deep sleep to growth hormone release—and why your gains depend on sleep quality, not just duration."
 ---
-
 Every serious lifter knows sleep is crucial for muscle growth. But the *why* behind it has remained surprisingly mysterious—until now. A groundbreaking 2025 study published in **Cell** from researchers at UC Berkeley has mapped the exact neural circuit that controls growth hormone (GH) release during sleep, revealing a feedback mechanism that ties sleep quality directly to your ability to build muscle, burn fat, and think clearly.
 
 ## The Growth Hormone-Sleep Link
@@ -75,4 +75,19 @@ For maximum hypertrophy, treat sleep with the same seriousness as your training.
 
 ---
 
-*Track your sleep with Jacked. Download now.*
+## Related reading
+
+- [Sleep, Growth Hormone, and Muscle: What the Research Shows](/blog/sleep-growth-hormone-circuit-muscle-building-2025)
+- [The Science of Napping for Muscle Recovery: What the Research Says](/blog/napping-muscle-recovery-growth-hormone-science)
+
+## Limits of the evidence
+
+Health and exercise studies often use selected groups, short follow-up periods, and outcomes that do not map perfectly to symptoms or clinical decisions. Do not change medication, treatment, or rehabilitation based on this article alone.
+
+
+### Sources
+
+- [Impact of growth-hormone administration on athletic performance in healthy young adults](https://pubmed.ncbi.nlm.nih.gov/28514721/). GH changed body composition but did not improve strength or VO2 max over weeks to months.
+- [Systematic review of growth hormone and athletic performance](https://pubmed.ncbi.nlm.nih.gov/18347346/). Risks, adverse events, and uncertain performance effects.
+
+{{surpass-inline-cta}}

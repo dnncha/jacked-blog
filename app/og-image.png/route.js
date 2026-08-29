@@ -18,19 +18,19 @@ export function GET() {
         }}
       >
         <div style={{ color: '#e2c95f', fontSize: 40, fontWeight: 850, letterSpacing: 2 }}>
-          JACKED
+          SURPASS
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>
           <div style={{ fontSize: 84, lineHeight: 0.96, fontWeight: 850, letterSpacing: -3 }}>
-            Know your next set.
+            Get bigger on purpose.
           </div>
           <div style={{ maxWidth: 880, color: '#b7b0a3', fontSize: 32, lineHeight: 1.32 }}>
-            Fast workout logging, RIR-aware progression, rest timing, tools, and Hevy import for iPhone.
+            Build the body people notice with focused blocks, clear training targets, and honest progress evidence.
           </div>
         </div>
         <div style={{ display: 'flex', gap: 18, color: '#111', fontSize: 28, fontWeight: 800 }}>
           <div style={{ background: '#e2c95f', borderRadius: 10, padding: '16px 24px' }}>Next-set targets</div>
-          <div style={{ background: '#f7f2e8', borderRadius: 10, padding: '16px 24px' }}>Training tools</div>
+          <div style={{ background: '#f7f2e8', borderRadius: 10, padding: '16px 24px' }}>Weekly coverage</div>
         </div>
       </div>
     ),

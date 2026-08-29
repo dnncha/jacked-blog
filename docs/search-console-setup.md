@@ -152,7 +152,7 @@ The fixed output views use these dimensions:
 
 `search-console-queries.csv` and `query-page-cannibalization.csv` contain `brand_class` and `intent_view` columns. These are local, documented filters over the returned query text:
 
-- `brand_class=branded` when the normalized query contains `jacked`, `jacked coach`, `jacked workout app`, or `jacked workout log`.
+- `brand_class=branded` when the normalized query contains `surpass`, `surpass app`, `surpass strength`, `surpass workout`, `surpass coach`, `jacked`, `jacked coach`, `jacked workout app`, or `jacked workout log`.
 - `brand_class=non-branded` for every non-empty query not matching those terms.
 - `intent_view=commercial` when the query contains `workout tracker`, `hypertrophy app`, `progressive overload app`, `Hevy alternative`, `Strong alternative`, `FitNotes alternative`, or `gym workout planner`.
 - `intent_view=utility` when the query contains `next set calculator`, `RIR calculator`, `weekly volume calculator/checker`, `warm-up calculator`, `plate calculator`, `1RM/one rep max calculator`, or `workout CSV validator`.

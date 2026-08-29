@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "The Gut-Muscle Axis: How Your Microbiome Affects Muscle Growth"
-excerpt: "What happens in your gut doesn't stay in your gut — it directly influences your ability to build muscle. Emerging research reveals a powerful gut-muscle connection that could revolutionize how you train and eat."
+excerpt: "What emerging gut–muscle research suggests about digestion, exercise, and nutrition—and why mechanistic findings are not yet training prescriptions."
 ---
-
 # The Gut-Muscle Axis: How Your Microbiome Affects Muscle Growth
 
 If you're serious about building muscle, you probably track your protein intake, sleep quality, and training volume with precision. But there's one factor that most lifters ignore entirely: their gut microbiome.
@@ -123,4 +123,19 @@ The science is still evolving, but the gut-muscle connection is one of the most 
 
 ---
 
-*Track your gut health with Jacked. Download now.*
+## Related reading
+
+- [Why Your Daily Step Count Matters for Muscle Growth](/blog/daily-steps-muscle-growth-science-2026)
+- [Blood Glucose Monitoring for Lifters: A Science-Based Guide](/blog/blood-glucose-monitoring-lifters-cgm-muscle-building)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Probiotic supplementation and sport performance in athletes: systematic review](https://pubmed.ncbi.nlm.nih.gov/38148685/). Small heterogeneous trial base with substantial risk-of-bias concerns.
+- [Probiotics and muscle mass, strength, and lean mass: meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36414567/). Direct muscle outcomes; strain and population differences matter.
+
+{{surpass-inline-cta}}

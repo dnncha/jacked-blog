@@ -1,10 +1,10 @@
 ---
+updatedAt: "2026-08-15"
 title: "Hypertrophy App vs Generic Workout Tracker: What Actually Matters"
 date: "2026-05-15"
 category: "Workout Apps"
 excerpt: "Generic workout trackers store what happened. A hypertrophy app should help decide what to do next, while keeping volume, effort, and progress visible."
 ---
-
 # Hypertrophy App vs Generic Workout Tracker: What Actually Matters
 
 A generic workout tracker is a digital notebook. That can be enough for some lifters.
@@ -82,9 +82,9 @@ The most important time to use a workout app is during training. That means the 
 
 If the live workout state is fragile, the data will be fragile too.
 
-## Where Jacked Is Different
+## Where Surpass Is Different
 
-Jacked is designed around a Now Training workflow:
+Surpass is designed around a Now Training workflow:
 
 - Today: start or resume the right session
 - Train: log sets, RIR, rest, and next-target guidance
@@ -102,8 +102,22 @@ Use a hypertrophy app if you want the logbook to help with progression, effort, 
 
 For serious muscle-building training, that distinction matters more than the visual design of the app.
 
-## References
+## Editorial methodology
 
-- Schoenfeld BJ et al. Training volume and hypertrophy dose-response research.
-- Helms ER et al. Repetitions in reserve and autoregulation in resistance training.
-- Grgic J et al. Proximity to failure and resistance training outcomes.
+The comparison is about workflow, not branding or a claim that one app builds more muscle. It asks whether the product records the training inputs a lifter actually uses—sets, reps, load, effort, exercise context, weekly dose, and history—and whether those records lead to a clearer next decision. It is an editorial framework, not an independent benchmark of every app or a substitute for checking current features.
+
+Surpass-specific workflow statements are linked to its current first-party [workout tracker](/workout-tracker), [progressive-overload page](/progressive-overload), [planner](/gym-workout-planner), and [Hevy import guide](/blog/import-hevy-to-surpass). Competitor descriptions should be verified in the current products.
+
+## Evidence
+
+### Sources
+
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — why muscle-level training dose is useful context.
+- [Autoregulation versus fixed loading](https://pubmed.ncbi.nlm.nih.gov/33776802/) — why performance and effort can inform decisions.
+- [Proximity-to-failure meta-regression](https://pubmed.ncbi.nlm.nih.gov/40791980/) — why repetitions alone do not fully describe a set.
+
+## Limits of the evidence
+
+This article evaluates information architecture and training workflow, not causal product performance. Features change, users differ in program knowledge and logging habits, and the underlying training literature does not produce one universal hypertrophy prescription.
+
+{{surpass-inline-cta}}

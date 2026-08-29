@@ -4,20 +4,20 @@ const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=12
 
 export const metadata = {
   title: 'Gym Workout Planner for iPhone with Next-Set Targets',
-  description: 'Plan your training split, set rep ranges and weekly muscle targets, log each workout, and use recent performance to guide the next set with Jacked for iPhone.',
+  description: 'Plan your training split, set rep ranges and weekly muscle targets, log each workout, and use recent performance to guide the next set with Surpass for iPhone.',
   keywords: ['gym workout planner', 'workout planner iPhone', 'weight lifting planner', 'gym routine planner', 'strength training planner'],
   alternates: { canonical: 'https://jacked.coach/gym-workout-planner' },
   openGraph: {
     title: 'Gym Workout Planner for iPhone with Next-Set Targets',
     description: 'Plan the workout, log the result, and carry recent performance into the next load and rep target.',
     url: 'https://jacked.coach/gym-workout-planner',
-    images: [{ url: '/marketing/generated/jacked-gym-planner-social.png', width: 1200, height: 630, alt: 'Jacked gym workout planner showing the next workout, target load, rep range, and previous result' }],
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass gym workout planner for iPhone' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Gym Workout Planner for iPhone with Next-Set Targets',
     description: 'Plan the workout, log the result, and carry recent performance into the next load and rep target.',
-    images: ['/marketing/generated/jacked-gym-planner-social.png'],
+    images: ['/og-image.png'],
   },
 }
 
@@ -41,20 +41,21 @@ const comparison = [
 
 const faqs = [
   { question: 'Can I create my own gym routine?', answer: 'Yes. You control the training days, exercises, working sets, rep ranges, rest targets, and effort targets in your plan.' },
-  { question: 'Can I start a workout without building a full plan?', answer: 'Yes. Jacked supports starting a freestyle workout, so you can log the session first and organize a repeatable plan when it is useful.' },
-  { question: 'Does the planner track weekly sets by muscle?', answer: 'Yes. Jacked shows completed hard sets and sets left against weekly muscle targets, using the workouts recorded in the app.' },
-  { question: 'Does Jacked automatically replace my program?', answer: 'No. You remain in control of the routine and every exercise. Jacked keeps recent results and target context visible so you can make a clearer progression decision.' },
+  { question: 'Can I start a workout without building a full plan?', answer: 'Yes. Surpass supports starting a freestyle workout, so you can log the session first and organize a repeatable plan when it is useful.' },
+  { question: 'Does the planner track weekly sets by muscle?', answer: 'Yes. Surpass shows completed hard sets and sets left against weekly muscle targets, using the workouts recorded in the app.' },
+  { question: 'Does Surpass automatically replace my program?', answer: 'No. You remain in control of the routine and every exercise. Surpass keeps recent results and target context visible so you can make a clearer progression decision.' },
 ]
 
 export default function GymWorkoutPlannerPage() {
   return <AcquisitionLanding
     eyebrow="Gym workout planner for iPhone"
     title="Plan the workout. Know the next set."
-    intro="Jacked connects your training split, weekly muscle targets, rep ranges, and recent lift history to the workout you are about to run."
+    intro="Surpass connects your training split, weekly muscle targets, rep ranges, and recent lift history to the workout you are about to run."
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_gym_workout_planner"
-    heroImage="/marketing/jacked-app-preview-poster.png"
-    heroImageAlt="Jacked showing a planned Push A workout with target load, rep range, RIR, and previous result"
+    canonicalPath="/gym-workout-planner"
+    heroImage="/marketing/surpass-home.png"
+    heroImageAlt="Surpass showing a planned Push A workout with target load, rep range, RIR, and previous result"
     heroPresentation="screen"
     benefits={benefits}
     steps={steps}
@@ -67,14 +68,14 @@ export default function GymWorkoutPlannerPage() {
       ['/tools/weekly-volume-checker', 'Weekly volume checker'],
     ]}
     benefitsTitle="A plan that stays connected to the work."
-    benefitsIntro="Jacked keeps program structure, weekly muscle targets, and recent performance close enough to guide the next session."
+    benefitsIntro="Surpass keeps program structure, weekly muscle targets, and recent performance close enough to guide the next session."
     flowTitle="Plan, train, and adjust in one loop."
     flowIntro="The routine becomes more useful when the result of each workout is available before the next one starts."
     comparisonTitle="Move beyond a static exercise checklist."
     comparisonIntro="A useful gym planner should connect the week you intended to the sets you actually completed."
-    comparisonLabel="Static gym planner and Jacked comparison"
-    faqTitle="Questions about planning workouts in Jacked."
+    comparisonLabel="Static gym planner and Surpass comparison"
+    faqTitle="Questions about planning workouts in Surpass."
     finalTitle="Build the week. Run the next set."
-    finalCopy="Download Jacked on iPhone to plan training days, log working sets, track weekly muscle targets, and use recent performance in the next workout."
+    finalCopy="Start free on iPhone to plan training days, log working sets, track weekly muscle targets, and use recent performance in the next workout."
   />
 }

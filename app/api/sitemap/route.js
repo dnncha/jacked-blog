@@ -1,5 +1,5 @@
 import { tools } from '../../tools/toolData.mjs'
-import { allBlogPosts } from '../../blog/posts'
+import { canonicalBlogPosts } from '../../blog/posts'
 
 export const dynamic = 'force-static'
 
@@ -13,11 +13,12 @@ function fallbackDateForSlug(slug) {
 }
 
 function getPosts() {
-  return allBlogPosts
+  return canonicalBlogPosts
     .map(post => {
       return {
         slug: post.slug,
         date: isValidDate(post.date) ? post.date : '',
+        updatedAt: isValidDate(post.updatedAt) ? post.updatedAt : '',
         sortDate: isValidDate(post.date) ? post.date : fallbackDateForSlug(post.slug)
       }
     })
@@ -73,6 +74,21 @@ export async function GET() {
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://jacked.coach/methodology</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jacked.coach/import-workout-history</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://jacked.coach/hypertrophy-app</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
   ${tools.map(tool => `
   <url>
     <loc>https://jacked.coach/tools/${tool.slug}</loc>
@@ -82,7 +98,7 @@ export async function GET() {
   ${posts.map(post => `
   <url>
     <loc>https://jacked.coach/blog/${post.slug}</loc>
-    ${post.date ? `<lastmod>${post.date}</lastmod>` : ''}
+    ${post.updatedAt || post.date ? `<lastmod>${post.updatedAt || post.date}</lastmod>` : ''}
     <changefreq>${post.slug === 'alternatives-to-rp-hypertrophy-app' ? 'weekly' : 'monthly'}</changefreq>
     <priority>${post.slug === 'alternatives-to-rp-hypertrophy-app' ? '0.95' : '0.8'}</priority>
   </url>`).join('')}

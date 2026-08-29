@@ -13,20 +13,18 @@ assert.match(page, /canonical: 'https:\/\/jacked\.coach\/press'/)
 assert.match(page, /ct=press_kit/)
 assert.match(page, /No account required/)
 assert.match(page, /stored locally on the iPhone/)
-assert.match(page, /seeded demo data/)
+assert.match(page, /prepared demo data/)
 assert.match(page, /does not provide form coaching from video or guarantee strength or muscle gain/)
+assert.match(page, /Start free on iPhone/)
+assert.match(page, /data-app-store-placement="press_kit_hero"/)
+assert.match(page, /data-copy-version="press_promise_v1"/)
 assert.match(sitemap, /staticUrl\('\/press'/)
 assert.match(apiSitemap, /<loc>https:\/\/jacked\.coach\/press<\/loc>/)
 
 const requiredAssets = [
-  'marketing/jacked-app-preview-480.mp4',
-  'marketing/jacked-app-preview-poster.png',
-  'press/creator-next-lift.mp4',
-  'press/creator-next-lift-thumbnail.png',
-  'press/creator-log-fast.mp4',
-  'press/creator-log-fast-thumbnail.png',
-  'press/creator-weekly-targets.mp4',
-  'press/creator-weekly-targets-thumbnail.png',
+  'marketing/surpass-build-home.png',
+  'marketing/surpass-visible-priority.png',
+  'marketing/surpass-progress.png',
 ]
 
 for (const asset of requiredAssets) {

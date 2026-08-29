@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Lean vs Fatty Meat: The Surprising 2025 Research That Changes Everything"
 excerpt: "New research reveals that lean pork may outperform fatty cuts for post-workout muscle growth—challenging what we thought we knew about dietary fat and hypertrophy."
 ---
-
 # Lean vs Fatty Meat: The Surprising 2025 Research That Changes Everything
 
 For years, the fitness industry has championed whole-food protein sources over processed alternatives. The reasoning seemed sound: whole eggs beat egg whites, salmon outperforms processed fish blends. But a groundbreaking 2025 study just threw a wrench in that narrative—and it's got serious implications for your post-workout nutrition strategy.
@@ -71,4 +71,20 @@ Your gains come from training hard first. Use nutrition to squeeze out the remai
 
 ---
 
-*Track your meat protein with Jacked. Download now.*
+## Related reading
+
+- [The Lean Pork Discovery: How Meat Type Affects Post-Workout Muscle Growth](/blog/lean-pork-muscle-protein-synthesis-2025)
+- [mTOR Activation: The Science Behind Your Muscle-Building Switch](/blog/mtor-leucine-threshold-2026)
+
+## Limits of the evidence
+
+Nutrition studies vary in diet quality, energy intake, training status, and adherence. Group averages are useful for planning, but they cannot predict the exact response of one person or replace advice for a medical condition.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

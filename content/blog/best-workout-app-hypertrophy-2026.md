@@ -1,10 +1,10 @@
 ---
+updatedAt: "2026-08-15"
 title: "Best Workout App for Hypertrophy: Features That Actually Matter"
 date: "2026-05-15"
 category: "Workout Apps"
 excerpt: "The best workout app for hypertrophy should make live logging, progressive overload, weekly muscle volume, effort tracking, and progress review easier."
 ---
-
 # Best Workout App for Hypertrophy: Features That Actually Matter
 
 The best workout app for hypertrophy is not the app with the longest feature list. It is the app that helps you repeat the boring things that build muscle:
@@ -73,11 +73,11 @@ The next action should be clear: push, maintain, add work, reduce work, or keep 
 
 Many lifters already have years of workout history in another app. If a new app cannot import old routines, workouts, measurements, and notes, it may look clean but start blind.
 
-Jacked includes a Hevy import path so old training data can remain useful after switching.
+Surpass includes a Hevy import path so old training data can remain useful after switching.
 
-## The Jacked Workflow
+## The Surpass Workflow
 
-Jacked is organized around the current workout and the progress behind it:
+Surpass is organized around the current workout and the progress behind it:
 
 1. Plan the training week.
 2. Start or resume the right workout from Today.
@@ -87,14 +87,32 @@ Jacked is organized around the current workout and the progress behind it:
 
 That is the loop a hypertrophy app should serve.
 
+See the product version of that workflow in [Surpass: a hypertrophy app for
+iPhone](/hypertrophy-app), including how the first workout, live logging, and
+next-set context connect.
+
 ## Bottom Line
 
 The best workout app for hypertrophy should not make you think about the app more. It should make the next set and next session clearer.
 
 Prioritize live logging speed, progression guidance, RIR support, weekly muscle volume, reliable session state, and meaningful progress review.
 
-## References
+## Editorial methodology
 
-- Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between resistance training volume and muscle mass.
-- Baz-Valle E et al. Training volume, frequency, and hypertrophy practical considerations.
-- Helms ER et al. RIR-based resistance training autoregulation.
+This is a feature and workflow evaluation, not an independent lab benchmark or a promise of muscle gain. The checklist prioritizes the jobs a lifter must repeat: start the correct workout, log a set quickly, preserve effort and history, make a progression decision, and review the training trend. Features and pricing change, so confirm the current release before choosing an app.
+
+Surpass-specific statements are grounded in its current first-party [workout tracker](/workout-tracker), [progressive-overload workflow](/progressive-overload), [planner](/gym-workout-planner), and [Hevy import guide](/blog/import-hevy-to-surpass). Competitor feature claims are editorial observations, not a controlled head-to-head test.
+
+## Evidence
+
+### Sources
+
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — context for weekly training-dose review.
+- [Autoregulated resistance training](https://pubmed.ncbi.nlm.nih.gov/33776802/) — context for using effort and performance to guide load.
+- [Proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/) — context for why a rep count without effort is incomplete.
+
+## Limits of the evidence
+
+The article evaluates product workflows, not whether an app causes hypertrophy. Training evidence is heterogeneous, app interfaces change, and the best fit depends on the user's program, experience, device, budget, and willingness to log.
+
+{{surpass-inline-cta}}

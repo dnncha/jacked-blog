@@ -1,84 +1,66 @@
 ---
-title: "Women and Muscle Building: What the 2025 Science Actually Says"
-excerpt: "A new meta-analysis settles the debate: women build muscle just as effectively as men when you look at relative gains. Here's what the research means for your training."
+updatedAt: "2026-08-15"
+title: "Women and Muscle Building: What the Research Actually Shows"
+excerpt: "Women and men can both build substantial muscle with progressive resistance training; relative hypertrophy is similar in current evidence, while absolute outcomes and strength tests vary."
 ---
+# Women and Muscle Building: What the Research Actually Shows
 
-# Women and Muscle Building: What the 2025 Science Actually Says
+Women do not need a separate category of “toning” training, and men do not own the muscle-building playbook. Resistance training can increase muscle size and strength in both sexes. The useful question is how the evidence describes average differences without turning them into limits on an individual.
 
-If you've spent any time in fitness spaces, you've likely heard claims that men and women build muscle differently. Marketing tells us women need "toning" programs while men need "building" programs. Gym culture often suggests women should use lighter weights and higher reps.
+## What the 2025 meta-analysis found
 
-But what does the actual science say?
+Refalo and colleagues analysed 29 studies comparing healthy adult males and females who completed the same resistance-training intervention. Absolute muscle-size increases slightly favoured males, while relative changes from baseline were similar. The analysis also found that upper-body absolute hypertrophy favoured males, whereas lower-body absolute hypertrophy and Type II fibre hypertrophy were not clearly different in the same way. The authors caution that more work is needed in highly trained participants. [Read the open-access paper.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11869894/)
 
-A groundbreaking 2025 meta-analysis by Refalo and colleagues has finally provided some definitive answers—and the results might surprise you.
+“Similar relative growth” does not mean identical bodies, starting points, absolute muscle gain, strength, or response to every exercise. It means that the current pooled training evidence does not justify telling women that they have a fundamentally lower hypertrophy potential.
 
-## The Big Finding: Relative Gains Are Nearly Identical
+## What should not change by sex alone
 
-The 2025 meta-analysis, published in *PeerJ*, examined nearly 30 studies where men and women performed identical training programs. The key insight: **when you control for starting muscle mass, men and women gain muscle at virtually the same rate**.
+For most healthy adults, the same programming principles apply:
 
-Here's what that means in practice:
+- choose exercises that train the target muscles and fit the joints;
+- use a load and repetition range that permit challenging, controlled work;
+- progress load, repetitions, sets, or execution when performance and recovery support it;
+- eat enough energy and protein for the goal;
+- adjust for schedule, pain, pregnancy, menopause, medical conditions, and sport demands.
 
-- **Men** typically start with more muscle mass
-- **Men** typically gain more absolute muscle (total pounds/kilos)
-- **But the percentage increase?** Nearly identical
+“Women should lift only light weights” is not an evidence-based muscle-building rule. Heavy work can be useful, but the right load is the one that matches the exercise, skill, goal, and current capacity—not a gender stereotype.
 
-A woman starting with 20 lbs of muscle who gains 10% has added 2 lbs of muscle. A man starting with 30 lbs of muscle who gains 10% has added 3 lbs. The man gained more total mass, but the *response to training* was identical.
+## Strength is not the same as muscle size
 
-This finding held across different assessment methods (ultrasound, DXA, MRI) and across all experience levels—from beginners to advanced lifters.
+Strength outcomes include technique, leverage, body size, neural learning, and the specific test. A larger relative strength gain in one group does not prove a larger hypertrophy response. Compare progress with the person’s own baseline and use the outcome that matters.
 
-## What About Strength?
+## Menstrual cycle and individual variation
 
-When it comes to strength gains, the data gets even more interesting. A 2020 meta-analysis by Roberts et al. found that:
+Menstrual-cycle symptoms, energy availability, sleep, contraception, pregnancy, postpartum changes, and menopause can affect comfort and performance. The evidence does not support a universal cycle-based programme for every woman. Use symptoms and performance to adjust load or volume, and get clinical advice for unusual bleeding, severe pain, or persistent fatigue.
 
-- **Women** showed greater relative increases in upper-body strength than men
-- **Women** showed comparable relative increases in lower-body strength
+Individual differences within each sex are large. Training history, exercise selection, adherence, nutrition, health, and measurement noise often matter more to a person’s next decision than a group average.
 
-This challenges the old narrative that men are "universally more responsive" to training. Women often start further from their genetic ceiling, so early adaptations can actually appear more dramatic on a percentage basis.
+## A useful way to apply the evidence
 
-For older adults, a 2021 meta-analysis found that while men gained more absolute size and strength, women once again matched or exceeded them on a relative basis—particularly in lower-body strength. This is especially relevant for the Jacked app's focus on functional fitness and longevity.
+Start with a repeatable programme rather than sex-specific marketing. Track exercises, repetitions, load, effort, recovery, and the muscle or strength outcome you care about. If the programme is progressing, keep it. If it is not, investigate training, food, sleep, pain, and life constraints before assuming biology has set a fixed ceiling.
 
-## The Fiber Type Story
+## Bottom line
 
-One nuanced finding from the 2025 research: men experienced slightly greater increases in Type I (slow-twitch) fiber cross-sectional area, while Type II (fast-twitch) fiber hypertrophy was roughly equal between sexes.
+Women and men both respond to progressive resistance training. Current evidence suggests similar relative muscle-size changes on average, with some differences in absolute size and selected outcomes. That is a reason to individualise training—not to prescribe lighter weights, special “toning” ranges, or a fixed expectation for any one person.
 
-This matters because:
-- Type I fibers are endurance-oriented
-- Type II fibers are power and strength-oriented
+## Related reading
 
-The implication? Both sexes can expect similar gains in the "power" side of things, which is what most people care about for muscle building.
+- [Menstrual Cycle and Training: What to Individualise](/blog/menstrual-cycle-training-muscle-growth)
+- [Training Fundamentals for Muscle Growth](/blog/training-fundamentals-muscle-growth)
+- [Protein and Muscle Growth: A Practical Evidence Guide](/blog/protein-muscle-growth-guide)
 
-## What This Means For Your Training
+## Applying this article
 
-Here's the practical takeaway: **there's no evidence that women need fundamentally different programs than men** for muscle building. The same principles apply:
+Use the same evidence-based training principles, then individualise exercise, effort, recovery, and nutrition. Track your own trend and seek qualified advice for pregnancy, postpartum training, menopause, pain, or medical conditions.
 
-1. **Progressive overload** — Continually challenge your muscles
-2. **Train close to failure** — Get within 1-3 reps of failure for optimal growth
-3. **Eat enough protein** — Aim for 0.7-1g per pound of body weight
-4. **Recover adequately** — Sleep, stress management, and rest between sessions
+## Limits of the evidence
 
-The "women should use light weights for toning" myth? Debunked. Women can—and should—lift heavy to maximize muscle growth, just like men.
+The 2025 meta-analysis included healthy adults aged 18–45 and relatively few highly trained participants. Sex, gender, age, health, hormones, training status, and measurement method are not interchangeable variables, and group averages do not predict an individual response.
 
-## The Real Differences (That Don't Matter Much)
+### Sources
 
-Yes, some biological differences exist:
-- Men typically have more total testosterone (though women's testosterone still supports muscle growth)
-- Men typically have more muscle mass to start with (largely due to puberty)
-- Hormonal fluctuations across the menstrual cycle can cause small performance variations
+- [Sex differences in absolute and relative muscle-size changes after resistance training](https://pubmed.ncbi.nlm.nih.gov/40028215/). 2025 systematic review with Bayesian meta-analysis; open full text is linked above.
+- [Sex differences in resistance training](https://pubmed.ncbi.nlm.nih.gov/32064392/). Earlier systematic review and meta-analysis of strength and hypertrophy outcomes.
+- [ACSM resistance-training prescription overview](https://pubmed.ncbi.nlm.nih.gov/41843416/). General resistance-training evidence for healthy adults.
 
-But these differences don't require separate programming strategies for most women. Instead, program design should be based on:
-- Individual goals
-- Training experience
-- Recovery capacity
-- Personal preferences
-
-## Conclusion
-
-The narrative that women have a smaller response to resistance training doesn't hold up to scientific scrutiny. The 2025 meta-analysis confirms what many in the field suspected: when you look at relative gains, men and women build muscle at remarkably similar rates.
-
-So whether you're a woman following the Jacked app's autoprogression program or a man doing the same workouts—the science says you're both on equal footing when it comes to building muscle. Lift heavy, eat right, and trust the process.
-
----
-
-**References:**
-- Refalo et al. (2025). Sex differences in absolute and relative changes in muscle size following resistance training. *PeerJ*
-- Roberts et al. (2020). Sex differences in resistance training. *Journal of Strength and Conditioning Research*
-- 2021 meta-analysis on older adults. *Sports Medicine*
+{{surpass-inline-cta}}

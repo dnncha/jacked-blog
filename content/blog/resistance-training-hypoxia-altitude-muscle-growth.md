@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Resistance Training in Hypoxia: Does Training at Altitude Build More Muscle?"
 excerpt: "New meta-analyses reveal whether training in oxygen-deprived conditions actually accelerates muscle growth—and whether it's worth the hassle."
 ---
-
 Training at altitude has been used by athletes for decades to boost endurance performance. But what about muscle building? Can intentionally depriving your muscles of oxygen during resistance training actually accelerate hypertrophy?
 
 The science is more nuanced than you'd think—and more promising than you might expect.
@@ -60,5 +60,20 @@ For everyone else? Focus on the fundamentals: adequate protein, progressive over
 
 ---
 
-*Track your hypoxia training with Jacked. Download now.*
+## Related reading
 
+- [The Science of Training Volume: How Many Sets Do You Really Need?](/blog/training-volume-sets-muscle-growth-2026)
+- [Eccentric Overload Training: Does It Actually Build More Muscle?](/blog/eccentric-overload-training-muscle-growth-2026)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

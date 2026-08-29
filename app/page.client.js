@@ -1,15 +1,14 @@
 'use client'
 
-import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
+import Link from 'next/link'
 import {
   BookOpen,
   ChartNoAxesCombined,
+  Check,
   ClipboardList,
   Download,
   Dumbbell,
-  Pause,
-  Play,
   RefreshCw,
   ShieldCheck,
   TrendingUp,
@@ -19,28 +18,93 @@ import {
 const APP_STORE_URL_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689'
 
 const appStoreCampaigns = {
-  hero: 'jacked_coach_home_hero',
-  download: 'jacked_coach_home_download',
-  final_cta: 'jacked_coach_home_final',
+  hero: 'surpass_coach_home_hero_control',
+  download: 'surpass_coach_home_download',
+  final_cta: 'surpass_coach_home_final',
 }
 
-const appStoreUrl = (placement) => {
-  const campaign = appStoreCampaigns[placement] ?? 'jacked_coach'
+const HOMEPAGE_HERO_EXPERIMENT = Object.freeze({
+  name: 'homepage_hero_cta',
+  storageKey: 'surpass:experiment:homepage-hero-cta:v1',
+})
+
+const HOMEPAGE_COPY_VERSION = 'home_promise_v2'
+
+const homepageHeroVariants = Object.freeze({
+  control: Object.freeze({
+    variant: 'control',
+    campaign: appStoreCampaigns.hero,
+    label: 'Start free on iPhone',
+  }),
+  outcome_v1: Object.freeze({
+    variant: 'outcome_v1',
+    campaign: 'surpass_coach_home_hero_outcome_v1',
+    label: 'See your next set on iPhone',
+  }),
+})
+
+let fallbackHomepageHeroVariant = ''
+
+function validHomepageHeroVariant(value) {
+  return value === 'control' || value === 'outcome_v1'
+}
+
+function randomHomepageHeroVariant() {
+  try {
+    const randomValues = new Uint32Array(1)
+    const getRandomValues = globalThis.crypto?.getRandomValues
+    if (typeof getRandomValues === 'function') {
+      getRandomValues.call(globalThis.crypto, randomValues)
+      return randomValues[0] % 2 === 0 ? 'control' : 'outcome_v1'
+    }
+  } catch {
+    // Use the local fallback below when the browser crypto API is unavailable.
+  }
+
+  return Math.random() < 0.5 ? 'control' : 'outcome_v1'
+}
+
+function readHomepageHeroVariant() {
+  if (typeof window === 'undefined') return 'control'
+
+  try {
+    const stored = window.localStorage?.getItem(HOMEPAGE_HERO_EXPERIMENT.storageKey)
+    if (validHomepageHeroVariant(stored)) return stored
+
+    const assigned = randomHomepageHeroVariant()
+    window.localStorage?.setItem(HOMEPAGE_HERO_EXPERIMENT.storageKey, assigned)
+    return assigned
+  } catch {
+    if (!validHomepageHeroVariant(fallbackHomepageHeroVariant)) {
+      fallbackHomepageHeroVariant = randomHomepageHeroVariant()
+    }
+    return fallbackHomepageHeroVariant
+  }
+}
+
+const appStoreUrl = (placement, campaignOverride = '') => {
+  const campaign = campaignOverride || appStoreCampaigns[placement] || 'surpass_coach'
   return `${APP_STORE_URL_BASE}&ct=${campaign}&mt=8`
 }
 
 const proofPoints = [
   {
     icon: 'dumbbell',
-    title: 'Know the lift',
+    eyebrow: '01 · PICK',
+    title: 'Choose the change',
+    copy: 'Start with the outcome you want the block to make visible.',
   },
   {
     icon: 'chart',
-    title: 'Hit the weekly work',
+    eyebrow: '02 · TRAIN',
+    title: 'Train the exact session',
+    copy: 'Targets, last result, and rest stay beside the work.',
   },
   {
     icon: 'trend',
-    title: 'Progress the next session',
+    eyebrow: '03 · READ',
+    title: 'See what moved',
+    copy: 'Finish with a clear next move—not another spreadsheet.',
   },
 ]
 
@@ -50,8 +114,8 @@ const workflow = [
     icon: 'clipboard',
     title: "Open today's lift",
     copy: 'Your exercises, recent sets, and targets are ready before the first warmup.',
-    image: '/marketing/jacked-app-preview-poster.png',
-    imageAlt: 'Jacked Today screen showing a Push A workout and the next barbell bench press target',
+    image: '/marketing/surpass-home.png',
+    imageAlt: 'Surpass Today screen showing a Push A workout and the next barbell bench press target',
     caption: 'Ready before you train',
     presentation: 'screen',
   },
@@ -60,7 +124,7 @@ const workflow = [
     icon: 'dumbbell',
     title: 'Log the work',
     copy: 'Capture weight and reps, run the rest timer, and move to the next set without leaving the workout.',
-    image: '/marketing/generated/jacked-workout-flow-woman.webp',
+    image: '/marketing/generated/surpass-workout-flow-woman.webp',
     imageAlt: 'Woman reviewing her training session on an iPhone between sets in a dark strength gym',
     caption: 'Fast inside the set',
     presentation: 'photo',
@@ -68,9 +132,9 @@ const workflow = [
   {
     step: '03',
     icon: 'trend',
-    title: 'Know the next set',
+    title: 'Carry the build forward',
     copy: 'Use the last result to decide whether to add reps, add load, repeat, or back off.',
-    image: '/marketing/generated/jacked-final-session.webp',
+    image: '/marketing/generated/surpass-final-session.webp',
     imageAlt: 'Man holding an iPhone after training beside a squat rack',
     caption: 'Leave with the next move',
     presentation: 'photo',
@@ -87,7 +151,7 @@ const featureCards = [
   {
     icon: 'chart',
     title: 'Double progression made obvious',
-    copy: 'Jacked uses your rep range and recent result to show when to add reps, add load, or repeat.',
+    copy: 'Surpass uses your rep range and recent result to show when to add reps, add load, or repeat.',
     bullets: ['Exercise-level rep ranges', 'Load and rep history', 'Clear repeat, add-reps, or add-load decisions'],
   },
   {
@@ -149,66 +213,79 @@ const switchReasons = [
 
 const faqs = [
   {
-    question: 'Is Jacked only for bodybuilding?',
-    answer: 'Jacked is built for hypertrophy-first training, but it works well for lifters who care about strength progress as part of building muscle.',
+    question: 'Is Surpass only for bodybuilding?',
+    answer: 'Surpass is built for hypertrophy-first training, but it works well for lifters who care about strength progress as part of building muscle.',
   },
   {
-    question: 'How is Jacked different from a basic workout tracker?',
-    answer: 'Most workout trackers store what you did. Jacked turns that history into a next load and rep target, then shows how the workout moves each muscle toward its weekly target.',
+    question: 'How is Surpass different from a basic workout tracker?',
+    answer: 'Most workout trackers store what you did. Surpass turns that history into a next load and rep target, then shows how the workout moves each muscle toward its weekly target.',
   },
   {
     question: 'Can I import from Hevy?',
-    answer: 'Yes. Jacked includes a Hevy import path for workouts, routines, exercise notes, and set context so your existing log can keep working on day one.',
+    answer: 'Yes. Surpass includes a Hevy import path for workouts, routines, exercise notes, and set context so your existing log can keep working on day one.',
   },
   {
-    question: 'Does Jacked replace a coach?',
-    answer: 'No. Jacked will not coach your form. It helps you run the workout: targets, rest, progression, and training history while you are in the gym.',
+    question: 'Does Surpass replace a coach?',
+    answer: 'No. Surpass will not coach your form. It helps you run the workout: targets, rest, progression, and training history while you are in the gym.',
   },
   {
     question: 'Does it work for advanced trainees?',
-    answer: 'Yes. Advanced lifters keep control of exercise selection and programming while using Jacked for faster logging, weekly targets, and performance-driven progression.',
+    answer: 'Yes. Advanced lifters keep control of exercise selection and programming while using Surpass for faster logging, weekly targets, and performance-driven progression.',
   },
   {
-    question: 'Is Jacked free?',
-    answer: 'Yes. Jacked is currently free to download and use on iPhone. The App Store listing is the source for current availability.',
+    question: 'Is Surpass free?',
+    answer: 'Yes. Surpass is currently free to download and use on iPhone. The App Store listing is the source for current availability.',
   },
   {
     question: 'Where is my workout data stored?',
-    answer: 'Workout history is stored locally on your iPhone. Jacked does not require a user account to start training. See the privacy policy for the full data-handling summary.',
+    answer: 'Workout history is stored locally on your iPhone. Surpass does not require a user account to start training. See the privacy policy for the full data-handling summary.',
   },
 ]
+
+const homepageFaqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map(({ question, answer }) => ({
+    '@type': 'Question',
+    name: question,
+    acceptedAnswer: { '@type': 'Answer', text: answer },
+  })),
+}
 
 const acquisitionGuides = [
   ['/workout-tracker', 'Workout tracker for iPhone', 'Fast set logging, recent performance, rest timing, and weekly muscle targets in one focused training flow.'],
   ['/gym-workout-planner', 'Gym workout planner for iPhone', 'Build your split, set rep ranges and weekly muscle targets, then carry each result into the next workout.'],
   ['/progressive-overload', 'Progressive overload app', 'Use rep ranges, RIR, and recent results to choose when to repeat, add reps, or add load.'],
+  ['/hypertrophy-app', 'Hypertrophy app for iPhone', 'Track hard sets by muscle, keep effort and recent performance in view, and make a clearer next-set decision.'],
+  ['/alpha-progression-alternative', 'Alpha Progression alternative', 'Compare a focused priority-block workflow with Alpha Progression before choosing your iPhone training app.'],
   ['/hevy-alternative', 'Switch from Hevy', 'Import supported Hevy workout history from CSV, review it before saving, and keep useful training context.'],
-  ['/strong-alternative', 'Switch from Strong', 'Use Strong’s standard English CSV export to bring supported workouts, sets, and notes into Jacked.'],
+  ['/strong-alternative', 'Switch from Strong', 'Use Strong’s standard English CSV export to bring supported workouts, sets, and notes into Surpass.'],
   ['/fitnotes-alternative', 'Switch from FitNotes', 'Bring supported FitNotes workout history to iPhone without rebuilding every historical lift.'],
-  ['/blog/alternatives-to-rp-hypertrophy-app', 'Alternatives to RP Hypertrophy App', 'Compare Jacked, Mesostrength, Hevy, Strong, Liftosaur, and other options by switching reason.'],
+  ['/import-workout-history', 'Import workout history', 'Compare the supported Hevy, Strong, and FitNotes CSV paths before moving your training record.'],
+  ['/blog/alternatives-to-rp-hypertrophy-app', 'Alternatives to RP Hypertrophy App', 'Compare Surpass, Mesostrength, Hevy, Strong, Liftosaur, and other options by switching reason.'],
   ['/blog/best-hypertrophy-app-ios-review', 'Best hypertrophy app for iOS', 'How to judge a workout tracker when progression, RIR, and volume actually matter.'],
   ['/blog/progressive-overload-app-works', 'Progressive overload apps', 'Why good targets need rep ranges, effort, and performance history.'],
   ['/blog/hypertrophy-app-vs-generic-tracker', 'Hypertrophy app vs tracker', 'The difference between storing workouts and making the next set easier to choose.'],
-  ['/blog/import-hevy-to-jacked', 'Import Hevy to Jacked', 'Move workouts, routines, notes, and set history into a more progression-focused workflow.'],
+  ['/blog/import-hevy-to-surpass', 'Import Hevy to Surpass', 'Move workouts, routines, notes, and set history into a more progression-focused workflow.'],
   ['/tools/next-set-calculator', 'Next set calculator', 'See the repeat, add-reps, add-load, or back-off decision in isolation.'],
   ['/tools/weekly-volume-checker', 'Weekly volume checker', 'Check whether muscle-level set volume matches the work you are trying to recover from.'],
 ]
 
 const gymPanels = [
   {
-    image: '/marketing/generated/jacked-workout-flow.webp',
+    image: '/marketing/generated/surpass-workout-flow.webp',
     alt: 'Man athlete seated beside a barbell reviewing an iPhone in a dark strength gym',
     title: 'Your last set stays where you need it',
     copy: 'Load, reps, rest, and recent performance stay beside the set they affect.',
   },
   {
-    image: '/marketing/generated/jacked-final-woman.webp',
+    image: '/marketing/generated/surpass-final-woman.webp',
     alt: 'Woman athlete holding an iPhone after training in a dark strength gym',
     title: 'Carry the session forward',
     copy: 'End the workout with the next target, not another note to interpret later.',
   },
   {
-    image: '/marketing/generated/jacked-final-session.webp',
+    image: '/marketing/generated/surpass-final-session.webp',
     alt: 'Man athlete holding an iPhone after training beside a squat rack',
     title: 'No second system',
     copy: 'Plan, logging, rest, and progression stay in one iPhone workflow.',
@@ -231,13 +308,19 @@ function Icon({ name, className = '' }) {
   return <Glyph aria-hidden="true" className={className} size={24} strokeWidth={1.9} />
 }
 
-function AppStoreButton({ href, children = 'Jacked for iPhone', eyebrow = 'Download', className = '', content }) {
+function AppStoreButton({ href, children = 'Surpass for iPhone', eyebrow = 'Download', className = '', content, experiment = '', variant = '', heroPresentation = '', copyVersion = '', experimentReady = true, ariaLabel = '' }) {
   return (
     <a
       href={href}
       target="_blank"
       rel="noopener noreferrer"
+      aria-label={ariaLabel || undefined}
       data-global-cta={content}
+      data-experiment={experiment || undefined}
+      data-experiment-variant={variant || undefined}
+      data-hero-presentation={heroPresentation || undefined}
+      data-copy-version={copyVersion || undefined}
+      data-experiment-ready={experiment ? String(experimentReady) : undefined}
       className={`app-store-button ${className}`}
     >
       <Download aria-hidden="true" size={23} strokeWidth={2.2} />
@@ -249,81 +332,18 @@ function AppStoreButton({ href, children = 'Jacked for iPhone', eyebrow = 'Downl
   )
 }
 
-function AppPreviewVideo() {
-  const videoRef = useRef(null)
-  const [isPlaying, setIsPlaying] = useState(false)
-
-  useEffect(() => {
-    const video = videoRef.current
-    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)')
-
-    if (!video) return undefined
-
-    const syncPlaybackState = () => setIsPlaying(!video.paused)
-    const updateForMotionPreference = () => {
-      if (reducedMotion.matches) {
-        video.pause()
-        return
-      }
-
-      video.play().catch(() => setIsPlaying(false))
-    }
-
-    video.addEventListener('play', syncPlaybackState)
-    video.addEventListener('pause', syncPlaybackState)
-    reducedMotion.addEventListener('change', updateForMotionPreference)
-    updateForMotionPreference()
-
-    return () => {
-      video.removeEventListener('play', syncPlaybackState)
-      video.removeEventListener('pause', syncPlaybackState)
-      reducedMotion.removeEventListener('change', updateForMotionPreference)
-    }
-  }, [])
-
-  const togglePlayback = () => {
-    const video = videoRef.current
-    if (!video) return
-
-    if (video.paused) {
-      video.play().catch(() => setIsPlaying(false))
-    } else {
-      video.pause()
-    }
-  }
-
+function AppPreviewImage() {
   return (
-    <figure className="app-preview-figure">
+    <figure className="app-preview-figure" data-analytics-media="app_preview">
       <div className="phone-shell app-preview-shell">
-        <video
-          ref={videoRef}
-          className="app-preview-video"
-          data-analytics-video="app_preview"
-          muted
-          loop
-          playsInline
-          preload="metadata"
-          poster="/marketing/jacked-app-preview-poster.png"
-          aria-label="Jacked app preview showing next-lift guidance, set logging, progress, and weekly planning"
-        >
-          <source src="/marketing/jacked-app-preview-480.mp4" type="video/mp4" />
-        </video>
-        <button
-          type="button"
-          className="app-preview-toggle"
-          onClick={togglePlayback}
-          aria-pressed={isPlaying}
-          aria-label={isPlaying ? 'Pause app preview' : 'Play app preview'}
-        >
-          {isPlaying ? (
-            <Pause aria-hidden="true" size={15} fill="currentColor" />
-          ) : (
-            <Play aria-hidden="true" size={15} fill="currentColor" />
-          )}
-          {isPlaying ? 'Pause preview' : 'Play preview'}
-        </button>
+        <img
+          className="app-preview-image"
+          src="/marketing/surpass-home.png"
+          aria-label="Surpass app preview showing build guidance, set logging, progress, and weekly planning"
+          alt="Surpass app preview showing the next session, load target, weekly coverage, and workout receipt"
+        />
       </div>
-      <figcaption>Real Jacked interface · seeded demo workout</figcaption>
+      <figcaption>Real Surpass interface · prepared session preview</figcaption>
     </figure>
   )
 }
@@ -363,7 +383,7 @@ function AcquisitionGuides() {
             Browse training guides
           </Link>
         </div>
-        <div className="guide-grid" aria-label="Jacked guides and tools">
+        <div className="guide-grid" aria-label="Surpass guides and tools">
           {acquisitionGuides.map(([href, title, copy]) => (
             <Link key={href} href={href} className="guide-card">
               <strong>{title}</strong>
@@ -413,7 +433,7 @@ function ProgressionSection() {
           <SectionHeader
             align="left"
             title="Double progression without mid-workout math."
-            copy="Jacked keeps the useful details in view: target range, last result, logged reps, load, rest, and recent performance."
+            copy="Surpass keeps the useful details in view: target range, last result, logged reps, load, rest, and recent performance."
           />
           <div className="coach-list">
             {[
@@ -435,7 +455,7 @@ function ProgressionSection() {
         <div className="coach-visual">
           <img
             className="coach-photo"
-            src="/marketing/generated/jacked-hero-lifter.webp"
+            src="/marketing/generated/surpass-hero-lifter.webp"
             alt=""
             loading="lazy"
             decoding="async"
@@ -443,10 +463,10 @@ function ProgressionSection() {
           <h3>What changes inside the workout</h3>
           <div className="decision-table">
             {[
-              ['Old flow', 'Your last set is buried when you need it most.', 'Jacked', 'Target load, rep range, and last result are visible before the set.'],
-              ['Old flow', 'Rest timing lives in a separate mental checklist.', 'Jacked', 'Rest stays attached to the active workout.'],
-              ['Old flow', 'Weekly volume is difficult to judge across a split.', 'Jacked', 'Hard sets and sets left stay visible by muscle.'],
-              ['Old flow', 'Switching tools means rebuilding context.', 'Jacked', 'Hevy import keeps prior training data available.'],
+              ['Old flow', 'Your last set is buried when you need it most.', 'Surpass', 'Target load, rep range, and last result are visible before the set.'],
+              ['Old flow', 'Rest timing lives in a separate mental checklist.', 'Surpass', 'Rest stays attached to the active workout.'],
+              ['Old flow', 'Weekly volume is difficult to judge across a split.', 'Surpass', 'Hard sets and sets left stay visible by muscle.'],
+              ['Old flow', 'Switching tools means rebuilding context.', 'Surpass', 'Hevy import keeps prior training data available.'],
             ].map(([oldLabel, oldCopy, newLabel, newCopy]) => (
               <div key={newCopy} className="decision-row">
                 <div>
@@ -467,8 +487,38 @@ function ProgressionSection() {
 }
 
 export default function HomeClient() {
+  const heroActionsRef = useRef(null)
+  const [showConversionDock, setShowConversionDock] = useState(false)
+  const [homepageHeroVariant, setHomepageHeroVariant] = useState('control')
+  const [homepageHeroExperimentReady, setHomepageHeroExperimentReady] = useState(false)
+
+  const heroVariant = homepageHeroVariants[homepageHeroVariant] ?? homepageHeroVariants.control
+
+  useEffect(() => {
+    setHomepageHeroVariant(readHomepageHeroVariant())
+    setHomepageHeroExperimentReady(true)
+  }, [])
+
+  useEffect(() => {
+    const heroActions = heroActionsRef.current
+    if (!heroActions) return undefined
+    if (!('IntersectionObserver' in window)) {
+      setShowConversionDock(true)
+      return undefined
+    }
+
+    const observer = new IntersectionObserver(([entry]) => {
+      setShowConversionDock(!entry.isIntersecting)
+    }, { threshold: 0.15 })
+    observer.observe(heroActions)
+    return () => observer.disconnect()
+  }, [])
+
   return (
-    <div className="home-page">
+    <>
+      <link rel="preload" as="image" href="/marketing/generated/surpass-hero-woman.webp" fetchPriority="high" precedence="default" />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(homepageFaqSchema) }} />
+      <div className="home-page">
       <style>{`
         :root {
           --bg: #050505;
@@ -513,7 +563,7 @@ export default function HomeClient() {
           background-image:
             linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(3,3,3,0.76) 38%, rgba(3,3,3,0.24) 74%, rgba(3,3,3,0.2) 100%),
             linear-gradient(180deg, rgba(3,3,3,0.05) 0%, rgba(3,3,3,0.78) 100%),
-            url('/marketing/generated/jacked-hero-woman.webp');
+            url('/marketing/generated/surpass-hero-woman.webp');
           background-position: 63% center;
           background-size: cover;
         }
@@ -707,40 +757,13 @@ export default function HomeClient() {
           padding: 10px;
         }
 
-        .app-preview-video {
+        .app-preview-image {
           display: block;
           width: 100%;
           height: auto;
           border: 1px solid rgba(255,255,255,0.08);
           border-radius: 32px;
           background: #000;
-        }
-
-        .app-preview-toggle {
-          position: absolute;
-          right: 22px;
-          bottom: 22px;
-          z-index: 2;
-          display: inline-flex;
-          min-height: 44px;
-          align-items: center;
-          gap: 8px;
-          border: 1px solid rgba(255,255,255,0.34);
-          border-radius: 999px;
-          padding: 0 14px;
-          color: #fff;
-          background: rgba(5,5,5,0.84);
-          box-shadow: 0 8px 24px rgba(0,0,0,0.42);
-          font: inherit;
-          font-size: 0.78rem;
-          font-weight: 780;
-          cursor: pointer;
-          backdrop-filter: blur(10px);
-        }
-
-        .app-preview-toggle:focus-visible {
-          outline: 3px solid var(--gold);
-          outline-offset: 3px;
         }
 
         .app-preview-figure figcaption {
@@ -1575,7 +1598,7 @@ export default function HomeClient() {
           background:
             linear-gradient(90deg, rgba(8,8,7,0.94), rgba(8,8,7,0.78) 45%, rgba(8,8,7,0.18) 100%),
             linear-gradient(135deg, rgba(245,185,53,0.14), rgba(255,255,255,0.015)),
-            url('/marketing/generated/jacked-final-woman.webp');
+            url('/marketing/generated/surpass-final-woman.webp');
           background-size: cover;
           background-position: 63% center;
         }
@@ -1628,7 +1651,7 @@ export default function HomeClient() {
             min-height: auto;
             background-image:
               linear-gradient(180deg, rgba(3,3,3,0.72) 0%, rgba(3,3,3,0.88) 46%, rgba(3,3,3,0.97) 100%),
-              url('/marketing/generated/jacked-hero-woman.webp');
+              url('/marketing/generated/surpass-hero-woman.webp');
             background-position: 61% top;
           }
 
@@ -1758,7 +1781,7 @@ export default function HomeClient() {
           background-image:
             linear-gradient(90deg, rgba(3,3,3,0.99) 0%, rgba(3,3,3,0.9) 38%, rgba(3,3,3,0.48) 72%, rgba(3,3,3,0.3) 100%),
             radial-gradient(circle at 82% 24%, rgba(245,185,53,0.16), transparent 25rem),
-            url('/marketing/generated/jacked-hero-woman.webp');
+            url('/marketing/generated/surpass-hero-woman.webp');
           background-position: 63% center;
         }
 
@@ -2254,7 +2277,7 @@ export default function HomeClient() {
           .hero {
             background-image:
               linear-gradient(180deg, rgba(3,3,3,0.76) 0%, rgba(3,3,3,0.92) 48%, rgba(3,3,3,0.99) 100%),
-              url('/marketing/generated/jacked-hero-woman.webp');
+              url('/marketing/generated/surpass-hero-woman.webp');
             background-position: 61% top;
           }
 
@@ -2292,31 +2315,494 @@ export default function HomeClient() {
           .mini-log-fields strong { font-size: 1.7rem; }
           .mini-log-footer { font-size: 0.73rem; }
         }
+
+        /* Conversion refresh: a sharper editorial hierarchy, clearer proof, and a persistent mobile path to install. */
+        .home-page {
+          background: #050505;
+          overflow: clip;
+        }
+
+        .hero {
+          padding: 18px 0 0;
+          border-bottom: 0;
+          background:
+            radial-gradient(circle at 74% 18%, rgba(245,185,53,0.13), transparent 28rem),
+            #050505;
+        }
+
+        .hero .wrap {
+          width: min(1240px, calc(100% - 36px));
+          min-height: 710px;
+          padding: clamp(38px, 5vw, 62px) clamp(24px, 5vw, 72px) clamp(42px, 5vw, 68px);
+          border: 1px solid rgba(255,248,234,0.14);
+          border-radius: 32px;
+          background:
+            linear-gradient(90deg, rgba(5,5,5,0.98) 0%, rgba(5,5,5,0.88) 46%, rgba(5,5,5,0.25) 100%),
+            linear-gradient(180deg, rgba(5,5,5,0.05) 0%, rgba(5,5,5,0.92) 100%),
+            url('/marketing/generated/surpass-hero-woman.webp') 68% center / cover no-repeat;
+          box-shadow: 0 30px 100px rgba(0,0,0,0.34);
+        }
+
+        .hero-copy {
+          align-self: start;
+          max-width: 660px;
+          position: relative;
+          z-index: 2;
+        }
+
+        .hero-eyebrow {
+          display: inline-flex;
+          align-items: center;
+          min-height: 30px;
+          margin-bottom: 24px;
+          padding: 0 11px;
+          border: 1px solid rgba(245,185,53,0.34);
+          border-radius: 999px;
+          color: #f4cb65;
+          background: rgba(245,185,53,0.08);
+          font-size: 0.7rem;
+          font-weight: 850;
+          letter-spacing: 0.14em;
+        }
+
+        .hero-wordmark {
+          display: block;
+          font-size: clamp(4.8rem, 10vw, 8.6rem);
+          line-height: 0.82;
+          letter-spacing: -0.09em;
+        }
+
+        .hero-promise {
+          display: block;
+          max-width: 630px;
+          margin-top: 22px;
+          font-size: clamp(2.35rem, 5vw, 4.7rem);
+          line-height: 0.96;
+          letter-spacing: -0.06em;
+        }
+
+        .hero-copy > p:not(.hero-eyebrow):not(.store-note) {
+          max-width: 570px;
+          margin-top: 30px;
+          color: #d7cfc1;
+          font-size: clamp(1.03rem, 1.9vw, 1.22rem);
+          line-height: 1.58;
+        }
+
+        .hero-benefits {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 9px;
+          margin-top: 22px;
+        }
+
+        .hero-benefits span {
+          display: inline-flex;
+          align-items: center;
+          gap: 7px;
+          padding: 8px 10px;
+          border: 1px solid rgba(255,248,234,0.14);
+          border-radius: 999px;
+          color: #d6cdbd;
+          background: rgba(7,7,7,0.48);
+          font-size: 0.76rem;
+          font-weight: 720;
+        }
+
+        .hero-benefits svg { color: var(--gold-2); }
+
+        .hero-actions {
+          gap: 12px;
+          margin-top: 28px;
+        }
+
+        .hero-actions .app-store-button {
+          min-height: 58px;
+          padding: 0 20px;
+          border-radius: 14px;
+          box-shadow: 0 14px 34px rgba(245,185,53,0.2);
+        }
+
+        .hero-actions .secondary-button {
+          min-height: 58px;
+          border-radius: 14px;
+          border-color: rgba(255,248,234,0.24);
+          background: rgba(7,7,7,0.44);
+        }
+
+        .store-note {
+          margin-top: 17px;
+          color: #a69d8e;
+          font-size: 0.82rem;
+        }
+
+        .hero-preview-wrap {
+          align-self: center;
+          width: min(470px, 100%);
+          margin-right: clamp(-8px, -1vw, -2px);
+          padding: 16px 0 22px;
+          filter: drop-shadow(0 30px 55px rgba(0,0,0,0.48));
+        }
+
+        .app-preview-shell {
+          overflow: hidden;
+          border: 1px solid rgba(255,248,234,0.22);
+          border-radius: 34px;
+          background: #090908;
+          box-shadow: 0 26px 80px rgba(0,0,0,0.45), 0 0 0 8px rgba(255,248,234,0.025);
+          transform: rotate(1.2deg);
+        }
+
+        .app-preview-image {
+          display: block;
+          width: 100%;
+          height: auto;
+        }
+
+        .app-preview-figure figcaption {
+          margin-top: 16px;
+          color: #b2a99b;
+          font-size: 0.76rem;
+          letter-spacing: 0.02em;
+          text-align: center;
+        }
+
+        .hero-preview-callout {
+          z-index: 2;
+          min-width: 164px;
+          padding: 12px 14px;
+          border: 1px solid rgba(245,185,53,0.36);
+          border-radius: 14px;
+          background: rgba(12,12,10,0.82);
+          box-shadow: 0 16px 34px rgba(0,0,0,0.3);
+          backdrop-filter: blur(16px);
+        }
+
+        .hero-preview-callout span {
+          color: #a69c89;
+          font-size: 0.65rem;
+          letter-spacing: 0.13em;
+        }
+
+        .hero-preview-callout strong { font-size: 0.9rem; }
+
+        .signal-rail {
+          border-top: 1px solid rgba(255,248,234,0.1);
+          border-bottom: 1px solid rgba(255,248,234,0.1);
+          background: #090908;
+        }
+
+        .signal-rail-grid {
+          display: grid;
+          grid-template-columns: minmax(230px, 0.72fr) minmax(0, 1.65fr);
+          gap: clamp(28px, 6vw, 84px);
+          align-items: center;
+          padding-top: 40px;
+          padding-bottom: 40px;
+        }
+
+        .signal-rail-intro h2 {
+          max-width: 270px;
+          margin: 12px 0 0;
+          color: #fff8ea;
+          font-size: clamp(1.65rem, 3vw, 2.35rem);
+          line-height: 1;
+          letter-spacing: -0.05em;
+        }
+
+        .signal-rail .proof-grid {
+          display: grid;
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 10px;
+        }
+
+        .signal-rail .proof-card {
+          min-height: 190px;
+          display: block;
+          padding: 20px;
+          border: 1px solid rgba(255,248,234,0.12);
+          border-radius: 18px;
+          background: linear-gradient(150deg, rgba(255,248,234,0.06), rgba(255,248,234,0.015));
+        }
+
+        .proof-card-icon {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 38px;
+          height: 38px;
+          margin-bottom: 24px;
+          border: 1px solid rgba(245,185,53,0.35);
+          border-radius: 12px;
+          color: var(--gold-2);
+          background: rgba(245,185,53,0.1);
+        }
+
+        .proof-card-icon svg { width: 19px; height: 19px; margin: 0; }
+
+        .proof-card-eyebrow {
+          color: #a99f8f;
+          font-size: 0.65rem;
+          font-weight: 850;
+          letter-spacing: 0.13em;
+        }
+
+        .signal-rail .proof-card h3 {
+          margin: 7px 0 9px;
+          font-size: 1rem;
+          line-height: 1.15;
+        }
+
+        .signal-rail .proof-card p {
+          margin: 0;
+          color: #aba294;
+          font-size: 0.82rem;
+          line-height: 1.48;
+        }
+
+        .section {
+          padding-top: clamp(92px, 10vw, 150px);
+          padding-bottom: clamp(92px, 10vw, 150px);
+        }
+
+        .how-it-works-section {
+          background:
+            radial-gradient(circle at 14% 20%, rgba(245,185,53,0.08), transparent 25rem),
+            #0a0a09;
+        }
+
+        .story-heading,
+        .section-header {
+          max-width: 760px;
+          margin-bottom: 58px;
+        }
+
+        .story-heading h2,
+        .section-header h2 {
+          font-size: clamp(2.4rem, 5vw, 4.6rem);
+          line-height: 0.98;
+          letter-spacing: -0.065em;
+        }
+
+        .story-heading p:last-child,
+        .section-header p {
+          max-width: 620px;
+          margin-top: 20px;
+          color: #aaa294;
+          font-size: 1.05rem;
+          line-height: 1.65;
+        }
+
+        .story-steps { gap: 84px; }
+
+        .story-step {
+          padding-top: 54px;
+          border-top: 1px solid rgba(255,248,234,0.14);
+        }
+
+        .story-visual {
+          overflow: hidden;
+          border: 1px solid rgba(255,248,234,0.13);
+          border-radius: 24px;
+          box-shadow: 0 22px 62px rgba(0,0,0,0.28);
+        }
+
+        .story-step-copy h3 { letter-spacing: -0.045em; }
+
+        .features-section {
+          background: #050505;
+        }
+
+        .feature-grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 14px;
+        }
+
+        .feature-card {
+          min-height: 330px;
+          padding: 28px;
+          border: 1px solid rgba(255,248,234,0.12);
+          border-radius: 22px;
+          background: linear-gradient(155deg, rgba(255,248,234,0.065), rgba(255,248,234,0.014));
+        }
+
+        .feature-card svg { color: var(--gold-2); }
+
+        .feature-card h3 {
+          max-width: 250px;
+          margin-top: 34px;
+          font-size: 1.32rem;
+          letter-spacing: -0.035em;
+        }
+
+        .feature-card p { color: #b5ac9e; line-height: 1.62; }
+
+        .feature-card li { color: #d2c9b9; }
+
+        .confidence-section {
+          background: #0a0a09;
+          border-top: 1px solid rgba(255,248,234,0.08);
+          border-bottom: 1px solid rgba(255,248,234,0.08);
+        }
+
+        .download-panel {
+          border: 1px solid rgba(245,185,53,0.33);
+          border-radius: 24px;
+          background:
+            radial-gradient(circle at 100% 0%, rgba(245,185,53,0.2), transparent 18rem),
+            #14130f;
+          box-shadow: 0 24px 60px rgba(0,0,0,0.28);
+        }
+
+        .download-panel h3 { font-size: clamp(1.7rem, 3vw, 2.45rem); letter-spacing: -0.05em; }
+
+        .final-cta {
+          padding-top: 28px;
+          padding-bottom: 88px;
+        }
+
+        .final-cta-inner {
+          overflow: hidden;
+          border: 1px solid rgba(245,185,53,0.38);
+          border-radius: 30px;
+          background:
+            linear-gradient(90deg, rgba(5,5,5,0.9), rgba(5,5,5,0.52)),
+            url('/marketing/generated/surpass-final-woman.webp') center / cover no-repeat;
+          box-shadow: 0 30px 90px rgba(0,0,0,0.4);
+        }
+
+        .final-cta h2 { font-size: clamp(2.5rem, 5vw, 5rem); letter-spacing: -0.07em; }
+
+        .conversion-dock { display: none; }
+
+        @media (max-width: 1080px) {
+          .hero .wrap { grid-template-columns: 1fr; gap: 50px; }
+          .hero-copy { max-width: 720px; }
+          .hero-preview-wrap { width: min(470px, 86%); margin: 0 auto; }
+          .signal-rail-grid { grid-template-columns: 1fr; }
+          .signal-rail-intro h2 { max-width: 500px; }
+        }
+
+        @media (max-width: 760px) {
+          .home-page { padding-bottom: 94px; }
+          .hero { padding: 10px 0 0; }
+          .hero .wrap {
+            width: calc(100% - 20px);
+            min-height: 0;
+            gap: 42px;
+            padding: 48px 18px 26px;
+            border-radius: 24px;
+            background:
+              linear-gradient(180deg, rgba(5,5,5,0.18), rgba(5,5,5,0.96) 55%),
+              url('/marketing/generated/surpass-hero-woman.webp') 64% top / cover no-repeat;
+          }
+          .hero-eyebrow { margin-bottom: 20px; font-size: 0.61rem; letter-spacing: 0.1em; }
+          .hero-wordmark { font-size: clamp(4.25rem, 19vw, 6.2rem); }
+          .hero-promise { margin-top: 18px; font-size: clamp(2.35rem, 11vw, 3.7rem); }
+          .hero-copy > p:not(.hero-eyebrow):not(.store-note) { margin-top: 24px; font-size: 1rem; }
+          .hero-benefits { gap: 7px; }
+          .hero-benefits span { font-size: 0.7rem; }
+          .hero-actions { display: grid; grid-template-columns: 1fr; }
+          .hero-actions > * { width: 100%; justify-content: center; }
+          .hero-preview-wrap { width: min(100%, 360px); padding-top: 0; }
+          .app-preview-shell { transform: none; border-radius: 26px; }
+          .hero-preview-callout { position: static; width: fit-content; min-width: 0; margin: 0 auto 10px; }
+          .hero-preview-callout-bottom { margin: 12px auto 0; }
+          .signal-rail-grid { gap: 28px; padding-top: 48px; padding-bottom: 48px; }
+          .signal-rail-intro h2 { font-size: 2.25rem; }
+          .signal-rail .proof-grid { grid-template-columns: 1fr; }
+          .signal-rail .proof-card { min-height: 0; display: grid; grid-template-columns: auto 1fr; gap: 14px; }
+          .proof-card-icon { margin: 0; }
+          .story-heading, .section-header { margin-bottom: 38px; }
+          .story-heading h2, .section-header h2 { font-size: 2.7rem; }
+          .story-steps { gap: 42px; }
+          .story-step { padding-top: 38px; }
+          .feature-grid { grid-template-columns: 1fr; }
+          .feature-card { min-height: 0; padding: 24px; }
+          .confidence-layout { grid-template-columns: 1fr; }
+          .final-cta { padding-top: 10px; padding-bottom: 42px; }
+          .final-cta-inner { border-radius: 24px; }
+          .conversion-dock {
+            position: fixed;
+            right: 10px;
+            bottom: 10px;
+            left: 10px;
+            z-index: 120;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            padding: 10px 10px 10px 15px;
+            border: 1px solid rgba(245,185,53,0.42);
+            border-radius: 17px;
+            background: rgba(16,15,12,0.92);
+            box-shadow: 0 18px 50px rgba(0,0,0,0.52);
+            backdrop-filter: blur(18px);
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+            transform: translateY(calc(100% + 20px));
+            transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease;
+          }
+          .conversion-dock.conversion-dock-visible {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+            transform: translateY(0);
+          }
+          .conversion-dock[aria-hidden="true"] { display: none; }
+          @media (prefers-reduced-motion: reduce) {
+            .conversion-dock { transition: none; }
+          }
+          .conversion-dock-copy { flex: 1 1 auto; min-width: 0; }
+          .conversion-dock-copy strong,
+          .conversion-dock-copy span { display: block; }
+          .conversion-dock-copy strong { overflow: hidden; color: #fff8ea; font-size: 0.78rem; text-overflow: ellipsis; white-space: nowrap; }
+          .conversion-dock-copy span { margin-top: 2px; color: #aaa294; font-size: 0.68rem; }
+          .conversion-dock .app-store-button { min-width: 0; width: auto; min-height: 46px; flex: 0 0 auto; gap: 0; padding: 0 13px; border-radius: 11px; font-size: 0.78rem; }
+          .conversion-dock .app-store-button > svg { display: none; }
+          .conversion-dock .app-store-button > span { display: block; color: #11100c; font-size: 0.78rem; text-align: center; }
+          .conversion-dock .app-store-button small { display: none; }
+        }
       `}</style>
 
       <section className="hero">
         <div className="wrap">
           <div className="hero-copy">
-            <p className="hero-eyebrow">Hypertrophy coaching for iPhone</p>
+            <p className="hero-eyebrow">BUILD THE BODY PEOPLE NOTICE</p>
             <h1>
-              <span className="hero-wordmark">JACKED</span>
+              <span className="hero-wordmark">SURPASS</span>
               <span className="hero-promise">
-                Get bigger <span className="gold-text">on purpose.</span>
+                Get bigger on <span className="gold-text">purpose.</span>
               </span>
             </h1>
             <p>
-              Know the next lift. Hit the right weekly work. Leave with the next move already decided.
+              Choose what you want to change, train the block, and use the evidence to decide what comes next.
             </p>
-            <div className="hero-actions">
-              <AppStoreButton href={appStoreUrl('hero')} content="homepage_hero" eyebrow="Free on the App Store">
-                Get Jacked
+            <div className="hero-benefits" aria-label="Surpass product benefits">
+              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Visible-priority blocks</span>
+              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Next-set targets</span>
+              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> No account required</span>
+            </div>
+            <div ref={heroActionsRef} className="hero-actions">
+              <AppStoreButton
+                href={appStoreUrl('hero', heroVariant.campaign)}
+                content="homepage_hero"
+                eyebrow="Free on the App Store"
+                experiment={HOMEPAGE_HERO_EXPERIMENT.name}
+                variant={heroVariant.variant}
+                heroPresentation="photo"
+                copyVersion={HOMEPAGE_COPY_VERSION}
+                experimentReady={homepageHeroExperimentReady}
+              >
+                {heroVariant.label}
               </AppStoreButton>
               <a href="#hiw" className="secondary-button" data-nav-section="how_it_works">
-                Watch Jacked work
+                See the system
               </a>
             </div>
             <p className="store-note">
-              No account required. Import from Hevy, Strong, or FitNotes.
+              Your workout history stays on your iPhone. Import it when you&apos;re ready.
             </p>
           </div>
 
@@ -2325,7 +2811,7 @@ export default function HomeClient() {
               <span>Next set</span>
               <strong>90kg · 6–10 reps</strong>
             </div>
-            <AppPreviewVideo />
+          <AppPreviewImage />
             <div className="hero-preview-callout hero-preview-callout-bottom">
               <span>Weekly target</span>
               <strong>Chest · 4 sets left</strong>
@@ -2334,23 +2820,33 @@ export default function HomeClient() {
         </div>
       </section>
 
-      <section className="proof-strip" aria-label="Jacked proof points">
-        <div className="wrap proof-grid">
-          {proofPoints.map((point) => (
-            <article key={point.title} className="proof-card">
-              <Icon name={point.icon} />
-              <h3>{point.title}</h3>
-            </article>
-          ))}
+      <section className="proof-strip signal-rail" aria-label="Surpass proof points">
+        <div className="wrap signal-rail-grid">
+          <div className="signal-rail-intro">
+            <p className="section-kicker">THE DIFFERENCE IS IN THE BUILD</p>
+            <h2>A body-building system, not a dashboard.</h2>
+          </div>
+          <div className="proof-grid">
+            {proofPoints.map((point) => (
+              <article key={point.title} className="proof-card">
+                <div className="proof-card-icon"><Icon name={point.icon} /></div>
+                <div>
+                  <span className="proof-card-eyebrow">{point.eyebrow}</span>
+                  <h3>{point.title}</h3>
+                  <p>{point.copy}</p>
+                </div>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
 
       <section id="hiw" className="section how-it-works-section">
         <div className="wrap">
           <div className="story-heading">
-            <p className="section-kicker">HOW JACKED WORKS</p>
-            <h2>Walk into the gym knowing what to do next.</h2>
-            <p>Jacked turns your recent training into a simple loop: see the target, record the work, and carry the result into the next session.</p>
+            <p className="section-kicker">HOW SURPASS WORKS</p>
+            <h2>Choose the outcome. Train the block. See what moved.</h2>
+            <p>Surpass turns a vague goal into a clear loop: pick the priority, run the session, and carry the result forward.</p>
           </div>
           <div className="story-steps">
             {workflow.map((item, index) => (
@@ -2371,8 +2867,8 @@ export default function HomeClient() {
       <section id="features" className="section features-section">
         <div className="wrap">
           <SectionHeader
-            title="A workout log that tells you what comes next."
-            copy="Log weight, reps, rest, and notes without losing sight of what you did last time or what should happen next."
+            title="Everything needed for the next decision."
+            copy="A focused toolkit for the moment between your last set and your next one."
           />
           <div className="feature-grid">
             {featureCards.map((feature) => (
@@ -2396,8 +2892,8 @@ export default function HomeClient() {
       <section id="download" className="section confidence-section">
         <div className="wrap">
           <SectionHeader
-            title="Try it on your next workout."
-            copy="Download Jacked for free, no account required, and run one session with targets, rest timing, and history in one place."
+            title="Your next block should have a point."
+            copy="Start with a visible priority, train with clear targets, and leave with an honest read on what moved."
           />
           <div className="confidence-layout">
             <div className="confidence-grid">
@@ -2410,10 +2906,10 @@ export default function HomeClient() {
               ))}
             </div>
             <aside className="download-panel">
-              <h3>Pick the next session now.</h3>
-              <p>Use it for your next upper, lower, push, pull, or full-body session. Import history if you have it, or start with a quick template.</p>
-              <AppStoreButton href={appStoreUrl('download')} content="homepage_download" eyebrow="View on the">
-                App Store
+              <h3>Start with the first useful session.</h3>
+              <p>Choose the change you care about, import history if you have it, or start with a focused template and make the next session count.</p>
+              <AppStoreButton href={appStoreUrl('download')} content="homepage_download" eyebrow="Free on the App Store" experiment="homepage_lower_cta" variant="outcome_v1" copyVersion={HOMEPAGE_COPY_VERSION}>
+                Start free on iPhone
               </AppStoreButton>
             </aside>
           </div>
@@ -2423,8 +2919,8 @@ export default function HomeClient() {
       <section className="section">
         <div className="wrap">
           <SectionHeader
-            title="Turn your log into today's targets."
-            copy="Hevy, spreadsheets, and basic trackers can hold your history. Jacked turns that history into the next load, rep range, and weekly muscle target."
+            title="Bring your history. Keep the context."
+            copy="Import compatible training history or start clean. Surpass keeps the useful context attached to the work you are about to do."
           />
           <div className="reasons-grid">
             {switchReasons.map((reason) => (
@@ -2439,7 +2935,7 @@ export default function HomeClient() {
 
       <section id="faq" className="section">
         <div className="wrap">
-          <SectionHeader title="FAQ" copy="Answers for lifters who want to know exactly how Jacked fits their training." />
+          <SectionHeader title="FAQ" copy="A clear answer to the questions that matter before your next training block." />
           <div className="faq-grid">
             {faqs.map((faq) => (
               <details key={faq.question} className="faq-item">
@@ -2456,17 +2952,31 @@ export default function HomeClient() {
       <section className="final-cta">
         <div className="wrap">
           <div className="final-cta-inner">
-            <h2>See if Jacked fits your next workout.</h2>
+            <h2>Build the body people notice.</h2>
             <p>
-              Free on iPhone. Start with a balanced plan or import compatible history for context
-              from day one.
+              Start with a focused block, train with clear targets, and leave with an honest read on what moved. Free on iPhone with no account required.
             </p>
-            <AppStoreButton href={appStoreUrl('final_cta')} content="homepage_final" eyebrow="View on the">
-              App Store
+            <AppStoreButton href={appStoreUrl('final_cta')} content="homepage_final" eyebrow="Free on the App Store" experiment="homepage_lower_cta" variant="outcome_v1" copyVersion={HOMEPAGE_COPY_VERSION}>
+              Start free on iPhone
             </AppStoreButton>
           </div>
         </div>
       </section>
-    </div>
+
+      <div
+        className={`conversion-dock${showConversionDock ? ' conversion-dock-visible' : ''}`}
+        aria-hidden={!showConversionDock}
+        aria-label="Download Surpass"
+      >
+        <div className="conversion-dock-copy">
+          <strong>Keep your build moving.</strong>
+          <span>Free on iPhone · no account required</span>
+        </div>
+        <AppStoreButton href={appStoreUrl('final_cta')} content="homepage_mobile_dock" eyebrow="Free on iPhone" experiment="homepage_lower_cta" variant="outcome_v1" copyVersion={HOMEPAGE_COPY_VERSION} ariaLabel="Start free with Surpass on iPhone">
+          Start free
+        </AppStoreButton>
+      </div>
+      </div>
+    </>
   )
 }

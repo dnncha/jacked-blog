@@ -2,7 +2,7 @@ import LegalPage from '../components/LegalPage'
 
 export const metadata = {
   title: 'Privacy Policy',
-  description: 'Privacy policy for Jacked, the iPhone hypertrophy workout logger and training coach.',
+  description: 'Privacy policy for Surpass, the iPhone hypertrophy workout logger and training coach.',
   alternates: {
     canonical: 'https://jacked.coach/privacy',
   },
@@ -12,11 +12,11 @@ export default function PrivacyPage() {
   return (
     <LegalPage
       title="Privacy Policy"
-      updated="Last updated: May 21, 2026"
-      intro='Jacked is a strength training app designed to help you track workouts and progress. This policy explains what the iPhone app stores, how app data is handled, and how to contact support.'
+      updated="Last updated: August 15, 2026"
+      intro='Surpass is a strength training app designed to help you track workouts and progress. This policy explains what the iPhone app stores, how app data is handled, and how to contact support.'
     >
       <h2>Data the app stores</h2>
-      <p>Jacked stores training data locally on your device, including:</p>
+      <p>Surpass stores training data locally on your device, including:</p>
       <ul>
         <li><strong>Workout data</strong>: exercises, sets, reps, weight, RIR, notes, rest timing, and timestamps.</li>
         <li><strong>Training preferences</strong>: your plan, experience level, preferred units, equipment choices, and training schedule.</li>
@@ -31,17 +31,17 @@ export default function PrivacyPage() {
 
       <h2>HealthKit</h2>
       <p>
-        Jacked may request access to Apple HealthKit to read or write workout-related data. HealthKit access requires your explicit permission and can be changed in iOS Settings.
+        Surpass may request access to Apple HealthKit to read or write workout-related data. HealthKit access requires your explicit permission and can be changed in iOS Settings.
       </p>
 
       <h2>Payments</h2>
       <p>
-        If Jacked offers paid features, payment processing is handled by Apple. Jacked does not receive your full payment card details.
+        If Surpass offers paid features, payment processing is handled by Apple. Surpass does not receive your full payment card details.
       </p>
 
       <h2>Website analytics</h2>
       <p>
-        Jacked.coach may use privacy-conscious product analytics to understand aggregate page performance and navigation. The app support and policy pages should still be usable without creating an account.
+        The Surpass website uses limited, EU-hosted product analytics to understand aggregate page performance, campaign handoffs, and navigation. Automatic pageview tracking and click capture are disabled; analytics cookies, persistent browser identity, client-IP enrichment, and raw current-page or referrer URLs are disabled. The site uses a random session-only identifier and sanitized campaign markers, and does not require an account. The app support and policy pages remain usable without creating one.
       </p>
 
       <h2>Your control</h2>

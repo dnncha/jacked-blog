@@ -3,12 +3,33 @@
 import { useEffect, useRef } from 'react'
 
 export const CANONICAL_ORIGIN = 'https://jacked.coach'
-export const FIRST_TOUCH_STORAGE_KEY = 'jacked:attribution:first-touch'
-export const LAST_TOUCH_STORAGE_KEY = 'jacked:attribution:last-touch'
-export const LANDING_PAGE_STORAGE_KEY = 'jacked:attribution:landing-page'
-export const SESSION_STARTED_STORAGE_KEY = 'jacked:analytics:session-started'
-export const VISITOR_SEEN_STORAGE_KEY = 'jacked:analytics:visitor-seen'
+export const FIRST_TOUCH_STORAGE_KEY = 'surpass:attribution:first-touch'
+export const LAST_TOUCH_STORAGE_KEY = 'surpass:attribution:last-touch'
+export const LANDING_PAGE_STORAGE_KEY = 'surpass:attribution:landing-page'
+export const SESSION_STARTED_STORAGE_KEY = 'surpass:analytics:session-started'
+export const SESSION_ID_STORAGE_KEY = 'surpass:analytics:session-id'
+export const SESSION_LAST_ACTIVITY_STORAGE_KEY = 'surpass:analytics:session-last-activity'
+export const VISITOR_SEEN_STORAGE_KEY = 'surpass:analytics:visitor-seen'
+export const WEB_ERROR_VISIBLE_EVENT = 'surpass:web-error-visible'
+export const LEGACY_WEB_ERROR_VISIBLE_EVENT = 'jacked:web-error-visible'
 export const WEB_ANALYTICS_SCHEMA_VERSION = '2'
+export const SESSION_TIMEOUT_MS = 30 * 60 * 1000
+
+const LEGACY_STORAGE_KEY_ALIASES = Object.freeze({
+  [FIRST_TOUCH_STORAGE_KEY]: 'jacked:attribution:first-touch',
+  [LAST_TOUCH_STORAGE_KEY]: 'jacked:attribution:last-touch',
+  [LANDING_PAGE_STORAGE_KEY]: 'jacked:attribution:landing-page',
+  [SESSION_STARTED_STORAGE_KEY]: 'jacked:analytics:session-started',
+  [SESSION_ID_STORAGE_KEY]: 'jacked:analytics:session-id',
+  [SESSION_LAST_ACTIVITY_STORAGE_KEY]: 'jacked:analytics:session-last-activity',
+  [VISITOR_SEEN_STORAGE_KEY]: 'jacked:analytics:visitor-seen',
+})
+
+export const WEB_VITAL_THRESHOLDS = Object.freeze({
+  LCP: Object.freeze({ good: 2500, needsImprovement: 4000, unit: 'ms' }),
+  CLS: Object.freeze({ good: 0.1, needsImprovement: 0.25, unit: 'score' }),
+  INP: Object.freeze({ good: 200, needsImprovement: 500, unit: 'ms' }),
+})
 
 const ATTRIBUTION_FIELDS = [
   'utm_source',
@@ -38,12 +59,37 @@ const EMPTY_ATTRIBUTION = Object.freeze({
   app_store_campaign: '',
 })
 
+let fallbackSessionId = ''
+
 export function sanitizeAnalyticsValue(value) {
   const normalized = String(value ?? '').trim().replace(/\s+/g, '_')
   if (!normalized || normalized.length > 80) return ''
   if (normalized.includes('@') || /https?:\/\//i.test(normalized)) return ''
   if (/[\u0000-\u001f\u007f]/.test(normalized)) return ''
   return /^[A-Za-z0-9][A-Za-z0-9._~:/+-]*$/.test(normalized) ? normalized : ''
+}
+
+export function webVitalProperties(metricName, value) {
+  const name = String(metricName || '').toUpperCase()
+  const threshold = WEB_VITAL_THRESHOLDS[name]
+  const numericValue = Number(value)
+  if (!threshold || !Number.isFinite(numericValue) || numericValue < 0) return null
+
+  const normalizedValue = name === 'CLS'
+    ? Math.round(numericValue * 1000) / 1000
+    : Math.round(numericValue)
+  const rating = normalizedValue <= threshold.good
+    ? 'good'
+    : normalizedValue <= threshold.needsImprovement
+      ? 'needs_improvement'
+      : 'poor'
+
+  return {
+    metric_name: name,
+    metric_value: normalizedValue,
+    metric_rating: rating,
+    metric_unit: threshold.unit,
+  }
 }
 
 export function normalizePathname(pathname = '/') {
@@ -73,7 +119,21 @@ export function pageViewKey(pathname = '/', search = '') {
 
 function storageValue(storage, key) {
   try {
-    return storage?.getItem?.(key) || ''
+    const canonicalValue = storage?.getItem?.(key)
+    if (canonicalValue) return canonicalValue
+
+    const legacyKey = LEGACY_STORAGE_KEY_ALIASES[key]
+    if (!legacyKey) return canonicalValue || ''
+
+    const legacyValue = storage?.getItem?.(legacyKey)
+    if (!legacyValue) return canonicalValue || ''
+
+    // Preserve existing anonymous attribution/session state across the
+    // public rebrand, then blank the legacy key so an expired canonical
+    // session cannot be resurrected from the old namespace.
+    storage?.setItem?.(key, legacyValue)
+    storage?.setItem?.(legacyKey, '')
+    return legacyValue
   } catch {
     return ''
   }
@@ -101,6 +161,58 @@ function sessionStorage() {
   } catch {
     return null
   }
+}
+
+function newSessionId() {
+  try {
+    if (typeof globalThis.crypto?.randomUUID === 'function') {
+      return globalThis.crypto.randomUUID()
+    }
+  } catch {
+    // Fall through to a local-only fallback when crypto APIs are unavailable.
+  }
+
+  return `s_${Date.now().toString(36)}_${Math.random().toString(36).slice(2, 14)}`
+}
+
+export function sessionIdentifier(storage) {
+  const existing = sanitizeAnalyticsValue(storageValue(storage, SESSION_ID_STORAGE_KEY))
+  if (existing) return existing
+
+  if (!storage) {
+    if (!fallbackSessionId) fallbackSessionId = sanitizeAnalyticsValue(newSessionId())
+    return fallbackSessionId
+  }
+
+  const created = sanitizeAnalyticsValue(newSessionId())
+  if (created) setStorageValue(storage, SESSION_ID_STORAGE_KEY, created)
+  return created
+}
+
+export function currentSessionIdentifier() {
+  const storage = sessionStorage()
+  return prepareSession(storage) || sessionIdentifier(storage)
+}
+
+export function prepareSession(storage, now = Date.now()) {
+  if (!storage) return ''
+
+  const lastActivity = Number(storageValue(storage, SESSION_LAST_ACTIVITY_STORAGE_KEY))
+  const sessionExpired = !Number.isFinite(lastActivity)
+    || lastActivity <= 0
+    || now < lastActivity
+    || now - lastActivity >= SESSION_TIMEOUT_MS
+
+  if (sessionExpired) {
+    // Attribution remains first/last-touch state in localStorage. Only the
+    // ephemeral session identity and its started marker rotate here.
+    setStorageValue(storage, SESSION_ID_STORAGE_KEY, '')
+    setStorageValue(storage, SESSION_STARTED_STORAGE_KEY, '')
+  }
+
+  const sessionId = sessionIdentifier(storage)
+  setStorageValue(storage, SESSION_LAST_ACTIVITY_STORAGE_KEY, String(now))
+  return sessionId
 }
 
 function readJson(storage, key) {
@@ -221,6 +333,7 @@ export function buildPageViewProperties({
   viewportWidth,
   attribution,
   articleCategory = '',
+  sessionId = '',
 } = {}) {
   const path = normalizePathname(pathname)
   const attributionState = attribution || {
@@ -237,6 +350,7 @@ export function buildPageViewProperties({
   return {
     pathname: path,
     canonical_url: canonicalUrlForPath(path),
+    ...(sanitizeAnalyticsValue(sessionId) ? { session_id: sanitizeAnalyticsValue(sessionId) } : {}),
     ...page,
     ...referrerProperties(referrer),
     landing_page: normalizePathname(attributionState.landing_page || path),
@@ -340,6 +454,31 @@ export function appStoreAttribution(href = '') {
   }
 }
 
+export function outboundClickKey({ pathname = '/', search = '', placement = '', appStoreCampaign = '' } = {}) {
+  return [
+    pageViewKey(pathname, search),
+    sanitizeAnalyticsValue(placement) || 'unknown',
+    sanitizeAnalyticsValue(appStoreCampaign),
+  ].join(':')
+}
+
+export function ctaViewKey({
+  pathname = '/',
+  search = '',
+  placement = '',
+  experimentName = '',
+  experimentVariant = '',
+  appStoreCampaign = '',
+} = {}) {
+  return [
+    pageViewKey(pathname, search),
+    sanitizeAnalyticsValue(placement) || 'unknown',
+    sanitizeAnalyticsValue(experimentName),
+    sanitizeAnalyticsValue(experimentVariant),
+    sanitizeAnalyticsValue(appStoreCampaign),
+  ].join(':')
+}
+
 function isAppStoreLink(href) {
   try {
     const hostname = new URL(href).hostname
@@ -368,9 +507,34 @@ function ctaPlacement(anchor, url) {
   return sanitizeAnalyticsValue(url.searchParams.get('ct')) || 'unknown'
 }
 
+export function experimentProperties(anchor) {
+  const experimentName = sanitizeAnalyticsValue(anchor?.getAttribute?.('data-experiment'))
+  const experimentVariant = sanitizeAnalyticsValue(anchor?.getAttribute?.('data-experiment-variant'))
+  const heroPresentation = sanitizeAnalyticsValue(anchor?.getAttribute?.('data-hero-presentation'))
+  const copyVersion = sanitizeAnalyticsValue(anchor?.getAttribute?.('data-copy-version'))
+  return {
+    ...(experimentName && experimentVariant ? {
+      experiment_name: experimentName,
+      experiment_variant: experimentVariant,
+    } : {}),
+    ...(heroPresentation ? { hero_presentation: heroPresentation } : {}),
+    ...(copyVersion ? { copy_version: copyVersion } : {}),
+  }
+}
+
+export function experimentReady(anchor) {
+  return anchor?.getAttribute?.('data-experiment-ready') !== 'false'
+}
+
+export function toolCompletionProperties(anchor) {
+  const state = sanitizeAnalyticsValue(anchor?.getAttribute?.('data-tool-completion-state'))
+  return state ? { tool_completion_state: state } : {}
+}
+
 function currentPageSnapshot() {
   const pathname = normalizePathname(window.location.pathname)
   const search = window.location.search || ''
+  const sessionId = currentSessionIdentifier()
   const attribution = captureAttribution({ pathname, search }, browserStorage())
   const articleCategory = document.querySelector('meta[name="article:section"]')?.getAttribute('content')
     || document.querySelector('[data-article-category]')?.getAttribute('data-article-category')
@@ -386,6 +550,7 @@ function currentPageSnapshot() {
       viewportWidth: window.innerWidth,
       attribution,
       articleCategory,
+      sessionId,
     }),
   }
 }
@@ -393,8 +558,11 @@ function currentPageSnapshot() {
 export default function WebAnalytics() {
   const trackerRef = useRef(null)
   const seenCtaKeysRef = useRef(new Set())
+  const seenOutboundClickKeysRef = useRef(new Set())
   const seenScrollKeysRef = useRef(new Set())
   const seenVideoKeysRef = useRef(new Set())
+  const seenMediaKeysRef = useRef(new Set())
+  const seenWebVitalKeysRef = useRef(new Set())
 
   useEffect(() => {
     if (typeof window === 'undefined' || typeof document === 'undefined') return undefined
@@ -408,13 +576,19 @@ export default function WebAnalytics() {
     let active = true
     let scrollFrame = 0
     let ctaObserver = null
+    let mediaObserver = null
     let mutationObserver = null
+    let webVitalsCleanup = () => {}
+    let webVitalsPageKey = ''
+    let fallbackSessionStarted = false
     const observedCtaElements = new WeakSet()
+    const observedMediaElements = new WeakSet()
     const scrollThresholds = [25, 50, 75, 90]
 
     const trackSessionStarted = (current) => {
       const session = sessionStorage()
       if (storageValue(session, SESSION_STARTED_STORAGE_KEY)) return
+      if (!session && fallbackSessionStarted) return
 
       const visitor = browserStorage()
       const delivered = trackSafely('web_session_started', {
@@ -422,22 +596,44 @@ export default function WebAnalytics() {
         entry_page: current.pathname,
         session_type: sessionType(session, visitor),
       }, window.mixpanel)
-      if (delivered) markSessionStarted(session, visitor)
+      if (delivered) {
+        markSessionStarted(session, visitor)
+        fallbackSessionStarted = true
+      }
+    }
+
+    const currentPageWithSession = () => {
+      const current = currentPageSnapshot()
+      // This also covers a visitor who leaves a tab open past the inactivity
+      // boundary and then returns directly to a CTA or another interaction.
+      trackSessionStarted(current)
+      return current
     }
 
     const trackCtaViewed = (anchor) => {
       if (!anchor || !isAppStoreLink(anchor.href)) return
-      const current = currentPageSnapshot()
+      if (!experimentReady(anchor)) return
+      const current = currentPageWithSession()
       const url = new URL(anchor.href)
       const placement = ctaPlacement(anchor, url)
-      const key = `${pageViewKey(current.pathname, current.search)}:${placement}`
+      const appStore = appStoreAttribution(anchor.href)
+      const experiment = experimentProperties(anchor)
+      const key = ctaViewKey({
+        pathname: current.pathname,
+        search: current.search,
+        placement,
+        experimentName: experiment.experiment_name,
+        experimentVariant: experiment.experiment_variant,
+        appStoreCampaign: appStore.app_store_campaign,
+      })
       if (seenCtaKeysRef.current.has(key)) return
 
-      const appStore = appStoreAttribution(anchor.href)
       const delivered = trackSafely('web_cta_viewed', {
         ...current.properties,
         source_page: current.pathname,
         cta_placement: placement,
+        ...experimentProperties(anchor),
+        ...toolCompletionProperties(anchor),
         app_store_campaign: appStore.app_store_campaign || current.properties.app_store_campaign,
         apple_provider_token: appStore.provider_token,
         target: 'app_store',
@@ -445,13 +641,19 @@ export default function WebAnalytics() {
       if (delivered) seenCtaKeysRef.current.add(key)
     }
 
-    const observeCtas = () => {
-      const anchors = [...document.querySelectorAll('a[href]')]
-        .filter((anchor) => isAppStoreLink(anchor.href))
+      const observeCtas = () => {
+        const anchors = [...document.querySelectorAll('a[href]')]
+          .filter((anchor) => isAppStoreLink(anchor.href))
 
-      for (const anchor of anchors) {
-        if (observedCtaElements.has(anchor)) continue
-        observedCtaElements.add(anchor)
+        for (const anchor of anchors) {
+          // A server-rendered experiment control is intentionally navigable,
+          // but it is not a valid exposure until the client has assigned the
+          // arm. Do not mark it observed while it is still waiting; hydration
+          // will flip the attribute and the mutation observer below will give
+          // it a fresh viewport check.
+          if (!experimentReady(anchor)) continue
+          if (observedCtaElements.has(anchor)) continue
+          observedCtaElements.add(anchor)
 
         if (ctaObserver) {
           ctaObserver.observe(anchor)
@@ -462,9 +664,39 @@ export default function WebAnalytics() {
       }
     }
 
+    const trackMediaViewed = (media) => {
+      const mediaName = sanitizeAnalyticsValue(media.getAttribute('data-analytics-media'))
+      if (!mediaName) return
+      const current = currentPageWithSession()
+      const key = `${pageViewKey(current.pathname, current.search)}:${mediaName}`
+      if (seenMediaKeysRef.current.has(key)) return
+      const delivered = trackSafely('web_media_viewed', {
+        ...current.properties,
+        source_page: current.pathname,
+        media_name: mediaName,
+      }, window.mixpanel)
+      if (delivered) seenMediaKeysRef.current.add(key)
+    }
+
+    const observeMedia = () => {
+      const mediaElements = [...document.querySelectorAll('[data-analytics-media]')]
+
+      for (const media of mediaElements) {
+        if (observedMediaElements.has(media)) continue
+        observedMediaElements.add(media)
+
+        if (mediaObserver) {
+          mediaObserver.observe(media)
+        } else {
+          const rect = media.getBoundingClientRect()
+          if (rect.top < window.innerHeight && rect.bottom > 0) trackMediaViewed(media)
+        }
+      }
+    }
+
     const trackScrollDepth = () => {
       if (!active) return
-      const current = currentPageSnapshot()
+      const current = currentPageWithSession()
       const pageKey = pageViewKey(current.pathname, current.search)
       const documentHeight = Math.max(
         document.documentElement?.scrollHeight || 0,
@@ -499,7 +731,7 @@ export default function WebAnalytics() {
     const trackVideoEvent = (video, eventName) => {
       const videoName = sanitizeAnalyticsValue(video.getAttribute('data-analytics-video'))
       if (!videoName) return
-      const current = currentPageSnapshot()
+      const current = currentPageWithSession()
       const key = `${pageViewKey(current.pathname, current.search)}:${videoName}:${eventName}`
       if (seenVideoKeysRef.current.has(key)) return
       const delivered = trackSafely(eventName, {
@@ -510,14 +742,114 @@ export default function WebAnalytics() {
       if (delivered) seenVideoKeysRef.current.add(key)
     }
 
+    const observeWebVitals = (current) => {
+      if (!('PerformanceObserver' in window)) return () => {}
+
+      const pageKey = pageViewKey(current.pathname, current.search)
+      const reported = new Set()
+      const observers = []
+      let finished = false
+      let lcpValue = 0
+      let clsValue = 0
+      let inpValue = 0
+      let lcpSeen = false
+      let clsSeen = false
+      let inpSeen = false
+
+      const observe = (entryType, callback) => {
+        try {
+          const observer = new PerformanceObserver((list) => callback(list.getEntries()))
+          observer.observe({ type: entryType, buffered: true })
+          observers.push(observer)
+          return true
+        } catch {
+          try {
+            const observer = new PerformanceObserver((list) => callback(list.getEntries()))
+            observer.observe({ entryTypes: [entryType] })
+            observers.push(observer)
+            return true
+          } catch {
+            return false
+          }
+        }
+      }
+
+      observe('largest-contentful-paint', (entries) => {
+        const entry = entries.at(-1)
+        if (!entry) return
+        const value = Number(entry.startTime)
+        if (!Number.isFinite(value) || value < 0) return
+        lcpValue = Math.max(lcpValue, value)
+        lcpSeen = true
+      })
+      observe('layout-shift', (entries) => {
+        for (const entry of entries) {
+          if (entry.hadRecentInput) continue
+          const value = Number(entry.value)
+          if (!Number.isFinite(value) || value < 0) continue
+          clsValue += value
+          clsSeen = true
+        }
+      })
+      observe('event', (entries) => {
+        for (const entry of entries) {
+          if (!entry.interactionId) continue
+          const value = Number(entry.duration)
+          if (!Number.isFinite(value) || value < 0) continue
+          inpValue = Math.max(inpValue, value)
+          inpSeen = true
+        }
+      })
+
+      const trackVital = (metricName, value) => {
+        const key = `${pageKey}:${metricName}`
+        if (reported.has(key) || seenWebVitalKeysRef.current.has(key)) return
+        const properties = webVitalProperties(metricName, value)
+        if (!properties) return
+        const delivered = trackSafely('web_vital_measured', {
+          ...current.properties,
+          source_page: current.pathname,
+          ...properties,
+        }, window.mixpanel)
+        if (delivered) {
+          reported.add(key)
+          seenWebVitalKeysRef.current.add(key)
+        }
+      }
+
+      const finish = () => {
+        if (finished) return
+        finished = true
+        if (lcpSeen) trackVital('LCP', lcpValue)
+        if (clsSeen) trackVital('CLS', clsValue)
+        if (inpSeen) trackVital('INP', inpValue)
+        for (const observer of observers) observer.disconnect()
+        document.removeEventListener('visibilitychange', handleVisibilityChange)
+        window.removeEventListener('pagehide', finish)
+      }
+      const handleVisibilityChange = () => {
+        if (document.visibilityState === 'hidden') finish()
+      }
+
+      document.addEventListener('visibilitychange', handleVisibilityChange)
+      window.addEventListener('pagehide', finish)
+      return finish
+    }
+
     const trackCurrentPage = () => {
       if (!active) return
-      const current = currentPageSnapshot()
+      const current = currentPageWithSession()
       registerWebAnalyticsContext(window.mixpanel, current.properties)
       trackerRef.current.track(current)
-      trackSessionStarted(current)
       observeCtas()
+      observeMedia()
       trackScrollDepth()
+      const currentPageKey = pageViewKey(current.pathname, current.search)
+      if (currentPageKey !== webVitalsPageKey) {
+        webVitalsCleanup()
+        webVitalsPageKey = currentPageKey
+        webVitalsCleanup = observeWebVitals(current)
+      }
     }
     const schedulePageView = () => {
       Promise.resolve().then(trackCurrentPage)
@@ -527,6 +859,11 @@ export default function WebAnalytics() {
       ctaObserver = new IntersectionObserver((entries) => {
         for (const entry of entries) {
           if (entry.isIntersecting) trackCtaViewed(entry.target)
+        }
+      }, { threshold: 0.5 })
+      mediaObserver = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) trackMediaViewed(entry.target)
         }
       }, { threshold: 0.5 })
     }
@@ -556,7 +893,7 @@ export default function WebAnalytics() {
       const element = event.target instanceof Element ? event.target : null
       const anchor = element?.closest('a')
       const navigation = element?.closest('[data-nav-section], [data-related-tool]')
-      const current = currentPageSnapshot()
+      const current = currentPageWithSession()
 
       if (navigation) {
         trackSafely('web_navigation_clicked', {
@@ -569,18 +906,34 @@ export default function WebAnalytics() {
       }
 
       if (!anchor || !isAppStoreLink(anchor.href)) return
+      // Do not attribute a pre-hydration click to the server-rendered control
+      // arm. The link remains navigable, but the outbound event waits for a
+      // real assignment so experiment denominators stay trustworthy.
+      if (!experimentReady(anchor)) return
 
       trackCtaViewed(anchor)
       const url = new URL(anchor.href)
       const appStore = appStoreAttribution(anchor.href)
-      trackSafely('app_store_outbound_clicked', {
+      const placement = ctaPlacement(anchor, url)
+      const clickKey = outboundClickKey({
+        pathname: current.pathname,
+        search: current.search,
+        placement,
+        appStoreCampaign: appStore.app_store_campaign,
+      })
+      if (seenOutboundClickKeysRef.current.has(clickKey)) return
+
+      const delivered = trackSafely('app_store_outbound_clicked', {
         ...current.properties,
         source_page: current.pathname,
-        cta_placement: ctaPlacement(anchor, url),
+        cta_placement: placement,
+        ...experimentProperties(anchor),
+        ...toolCompletionProperties(anchor),
         app_store_campaign: appStore.app_store_campaign || current.properties.app_store_campaign,
         apple_provider_token: appStore.provider_token,
         target: 'app_store',
       }, window.mixpanel)
+      if (delivered) seenOutboundClickKeysRef.current.add(clickKey)
     }
 
     const handleVideoPlay = (event) => {
@@ -591,7 +944,7 @@ export default function WebAnalytics() {
     }
 
     const handleErrorVisible = (event) => {
-      const current = currentPageSnapshot()
+      const current = currentPageWithSession()
       trackSafely('web_error_visible', {
         ...current.properties,
         error_category: sanitizeAnalyticsValue(event.detail?.category) || 'unknown',
@@ -599,24 +952,36 @@ export default function WebAnalytics() {
     }
 
     if ('MutationObserver' in window && document.body) {
-      mutationObserver = new MutationObserver(() => observeCtas())
-      mutationObserver.observe(document.body, { childList: true, subtree: true })
+      mutationObserver = new MutationObserver(() => {
+        observeCtas()
+        observeMedia()
+      })
+      mutationObserver.observe(document.body, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ['data-experiment-ready'],
+      })
     }
 
     document.addEventListener('click', handleClick, true)
     document.addEventListener('play', handleVideoPlay, true)
     document.addEventListener('ended', handleVideoEnded, true)
-    window.addEventListener('jacked:web-error-visible', handleErrorVisible)
+    window.addEventListener(WEB_ERROR_VISIBLE_EVENT, handleErrorVisible)
+    window.addEventListener(LEGACY_WEB_ERROR_VISIBLE_EVENT, handleErrorVisible)
 
     return () => {
       active = false
       window.clearTimeout(retryTimer)
       if (scrollFrame) window.cancelAnimationFrame(scrollFrame)
       ctaObserver?.disconnect()
+      mediaObserver?.disconnect()
       mutationObserver?.disconnect()
+      webVitalsCleanup()
       window.removeEventListener('popstate', schedulePageView)
       window.removeEventListener('scroll', scheduleScrollDepth)
-      window.removeEventListener('jacked:web-error-visible', handleErrorVisible)
+      window.removeEventListener(WEB_ERROR_VISIBLE_EVENT, handleErrorVisible)
+      window.removeEventListener(LEGACY_WEB_ERROR_VISIBLE_EVENT, handleErrorVisible)
       document.removeEventListener('click', handleClick, true)
       document.removeEventListener('play', handleVideoPlay, true)
       document.removeEventListener('ended', handleVideoEnded, true)

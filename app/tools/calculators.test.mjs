@@ -69,12 +69,21 @@ const max = calculateOneRepMax({
   weight: 100,
   reps: 5,
   rir: 1,
-  formula: 'jacked',
+  formula: 'surpass',
   increment: 2.5,
 })
 assert.equal(max.estimated1RM, 117.5)
 assert.equal(max.repMaxes.find((item) => item.reps === 5).weight, 102.5)
 assert.equal(max.usefulTarget.weight, 87.5)
+
+const legacyMax = calculateOneRepMax({
+  weight: 100,
+  reps: 5,
+  rir: 1,
+  formula: 'jacked',
+  increment: 2.5,
+})
+assert.deepEqual(legacyMax, max, 'legacy calculator links should retain the Surpass average calculation')
 
 const plates = calculatePlateLoad({
   targetWeight: 82.5,
@@ -218,7 +227,7 @@ assert.equal(strongImport.ready, true)
 assert.equal(strongImport.workouts, 2)
 assert.equal(strongImport.sets, 3)
 assert.equal(strongImport.exercises, 2)
-assert.match(strongImport.nextAction, /Jacked/i)
+assert.match(strongImport.nextAction, /Surpass/i)
 
 const fitNotesImport = calculateFitNotesImportPreview(`Date,Exercise,Category,Weight (kg),Weight (lbs),Reps,Distance,Distance Unit,Time,Notes,Kind
 2026-01-06,Bench Press,Chest,100,,5,,,,Paused reps,wr

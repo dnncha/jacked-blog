@@ -4,20 +4,20 @@ const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=12
 
 export const metadata = {
   title: 'Workout Tracker for iPhone That Guides Your Next Set',
-  description: 'Log sets fast, see your previous result and next target, run rest timers, track weekly hard sets, and import compatible Hevy history with Jacked for iPhone.',
+  description: 'Log sets fast, see your previous result and next target, run rest timers, track weekly hard sets, and import compatible Hevy history with Surpass for iPhone.',
   keywords: ['workout tracker iPhone', 'weight lifting tracker', 'gym workout log', 'workout log app', 'strength training tracker'],
   alternates: { canonical: 'https://jacked.coach/workout-tracker' },
   openGraph: {
     title: 'Workout Tracker for iPhone That Guides Your Next Set',
     description: 'Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import.',
     url: 'https://jacked.coach/workout-tracker',
-    images: [{ url: '/marketing/generated/jacked-acquisition-social.jpg', width: 1200, height: 630, alt: 'Lifter using Jacked between sets in a strength gym' }],
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass strength training for iPhone' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Workout Tracker for iPhone That Guides Your Next Set',
     description: 'Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import.',
-    images: ['/marketing/generated/jacked-acquisition-social.jpg'],
+    images: ['/og-image.png'],
   },
 }
 
@@ -40,9 +40,9 @@ const comparison = [
 ]
 
 const faqs = [
-  { question: 'Is Jacked a free workout tracker?', answer: 'Yes. Jacked is currently free to download and use on iPhone. The App Store listing is the source for current availability.' },
-  { question: 'Can I use my own workout routine?', answer: 'Yes. You keep control of your routine, exercise selection, set targets, and rep ranges. Jacked helps you run and record the session.' },
-  { question: 'Can I import workouts from Hevy?', answer: 'Jacked includes a compatible Hevy import path for workouts, routines, exercise notes, and set history.' },
+  { question: 'Is Surpass a free workout tracker?', answer: 'Yes. Surpass is currently free to download and use on iPhone. The App Store listing is the source for current availability.' },
+  { question: 'Can I use my own workout routine?', answer: 'Yes. You keep control of your routine, exercise selection, set targets, and rep ranges. Surpass helps you run and record the session.' },
+  { question: 'Can I import workouts from Hevy?', answer: 'Surpass includes a compatible Hevy import path for workouts, routines, exercise notes, and set history.' },
   { question: 'Where is my workout data stored?', answer: 'Workout history is stored locally on your iPhone. You do not need to create an account to start training.' },
 ]
 
@@ -50,11 +50,13 @@ export default function WorkoutTrackerPage() {
   return <AcquisitionLanding
     eyebrow="Workout tracker for iPhone"
     title="Log the set. Know what comes next."
-    intro="Jacked is a focused weight-lifting tracker for lifters who want fast logging, visible training history, rest timing, and a clear next target inside the workout."
+    intro="Surpass is a focused weight-lifting tracker for lifters who want fast logging, visible training history, rest timing, and a clear next target inside the workout."
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_workout_tracker"
-    heroImage="/marketing/generated/jacked-workout-flow.webp"
-    heroImageAlt="Lifter reviewing an iPhone beside a barbell in a strength gym"
+    canonicalPath="/workout-tracker"
+    heroImage="/marketing/surpass-build-home.png"
+    heroImageAlt="Surpass workout screen showing weekly muscle targets, a next-session target, and a start-session control"
+    heroPresentation="screen"
     benefits={benefits}
     steps={steps}
     comparison={comparison}
@@ -62,9 +64,9 @@ export default function WorkoutTrackerPage() {
     related={[
       ['/progressive-overload', 'Progressive overload app'],
       ['/tools/next-set-calculator', 'Next-set calculator'],
-      ['/blog/import-hevy-to-jacked', 'Import Hevy to Jacked'],
+      ['/blog/import-hevy-to-surpass', 'Import Hevy to Surpass'],
     ]}
     finalTitle="Make the workout log useful before your next set."
-    finalCopy="Download Jacked on iPhone and run your next session with history, targets, rest, and weekly muscle totals in one place."
+    finalCopy="Start free on iPhone and run your next session with history, targets, rest, and weekly muscle totals in one place."
   />
 }

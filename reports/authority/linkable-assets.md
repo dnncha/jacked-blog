@@ -4,8 +4,8 @@ This is a source-backed asset backlog for Jacked's organic distribution. It is a
 
 | Asset | Reader problem | Evidence required before publication | Product connection | Status |
 | --- | --- | --- | --- | --- |
-| Calculator methodology | How next-set, RIR, volume, and 1RM results are derived | Formula, rounding rules, assumptions, worked examples, limitations, version history | Shows the decision logic that Jacked applies during training | Define and verify |
-| Import compatibility guide | Whether Hevy, Strong, or FitNotes history can be imported | Current app test, supported columns, anonymised fixtures, failure cases, privacy boundary | Helps a prospective switcher assess the migration risk | Define and verify |
+| Calculator methodology | How next-set, RIR, volume, and 1RM results are derived | Formula, rounding rules, assumptions, worked examples, limitations, version history | Shows the decision logic that Surpass applies during training | Implemented locally at `/methodology`; verify public delivery before outreach |
+| Import compatibility guide | Whether Hevy, Strong, or FitNotes history can be imported | Current parser contract, supported columns, anonymised fixtures, failure cases, privacy boundary | Helps a prospective switcher assess the migration risk | Published at `/import-workout-history`; source tests and public crawl passed; Search Console and web analytics baseline required |
 | Product comparison method | How workout apps are compared fairly | Dated product versions, test protocol, observable criteria, developer disclosure | Connects comparison claims to the actual shipping app | Define and verify |
 | Creator/reviewer kit | How a reviewer can test Jacked without guesswork | Factual brief, real screenshots, supported feature list, test data, contact route | Makes independent evaluation reproducible | Prepare after product facts are checked |
 

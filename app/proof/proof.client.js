@@ -6,7 +6,7 @@ import { useSearchParams } from 'next/navigation'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=proof_public&mt=8'
 const PROOF_KINDS = new Set(['workout', 'build', 'strength'])
 const VERIFICATION_LABELS = {
-  app_recorded: 'Recorded in Jacked',
+  app_recorded: 'Recorded in Surpass',
   imported: 'Imported history',
   manual: 'Manual entry',
 }
@@ -106,7 +106,7 @@ export default function ProofClient() {
     return (
       <main className="proof-shell" aria-busy="true">
         <section className="proof-card proof-state-card">
-          <p className="proof-kicker">JACKED PROOF</p>
+          <p className="proof-kicker">SURPASS PROOF</p>
           <h1>Opening receipt…</h1>
         </section>
         <ProofStyles />
@@ -118,11 +118,11 @@ export default function ProofClient() {
     return (
       <main className="proof-shell">
         <section className="proof-card proof-state-card">
-          <p className="proof-kicker">JACKED PROOF</p>
+          <p className="proof-kicker">SURPASS PROOF</p>
           <h1>This receipt cannot be verified.</h1>
-          <p>The link may be incomplete, damaged, or from an unsupported version of Jacked.</p>
-          <a className="proof-button proof-button-primary" href={APP_STORE_URL} data-global-cta="invalid_proof_store" data-app-store-placement="invalid_proof" data-app-store-campaign="proof_public">
-            View Jacked on the App Store
+          <p>The link may be incomplete, damaged, or from an unsupported version of Surpass.</p>
+          <a className="proof-button proof-button-primary" href={APP_STORE_URL} data-global-cta="invalid_proof_store" data-app-store-placement="invalid_proof" data-app-store-campaign="proof_public" data-copy-version="proof_promise_v1" aria-label="Start free with Surpass on iPhone">
+            Start free on iPhone
           </a>
         </section>
         <ProofStyles />
@@ -134,13 +134,13 @@ export default function ProofClient() {
 
   return (
     <main className="proof-shell">
-      <section className="proof-card" aria-label="Shared Jacked proof receipt">
+      <section className="proof-card" aria-label="Shared Surpass proof receipt">
         <header className="proof-header">
           <div>
             <p className="proof-kicker">{kindLabel(proof.kind)}</p>
             <p className="proof-date">{proof.createdAt.toLocaleDateString(undefined, { dateStyle: 'medium' })}</p>
           </div>
-          <img className="proof-mark" src="/apple-touch-icon.png" alt="Jacked" width="48" height="48" />
+          <img className="proof-mark" src="/apple-touch-icon.png" alt="Surpass" width="48" height="48" />
         </header>
 
         <div className="proof-hero">
@@ -170,15 +170,15 @@ export default function ProofClient() {
             href={appURL}
             onClick={() => track('proof_deep_link_opened', { proof_type: proof.kind, source: 'public_web' })}
           >
-            Open in Jacked
+            Open in Surpass
           </a>
-          <a className="proof-button proof-button-secondary" href={APP_STORE_URL} data-global-cta="proof_store" data-app-store-placement="proof_public" data-app-store-campaign="proof_public">
-            Get Jacked
+          <a className="proof-button proof-button-secondary" href={APP_STORE_URL} data-global-cta="proof_store" data-app-store-placement="proof_public" data-app-store-campaign="proof_public" data-copy-version="proof_promise_v1" aria-label="Start free with Surpass on iPhone">
+            Start free on iPhone
           </a>
         </div>
 
         <footer className="proof-footer">
-          <strong>JACKED</strong>
+          <strong>SURPASS</strong>
           <span>Get bigger on purpose.</span>
         </footer>
       </section>

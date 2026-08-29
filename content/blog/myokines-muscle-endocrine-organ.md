@@ -1,141 +1,65 @@
 ---
-title: "Myokines: The Secret Language of Your Muscles"
-excerpt: "Your muscles aren't just contractsile tissue—they're a communication hub, releasing proteins that talk to your brain, fat, liver, and even fight cancer. Here's what science says about the endocrine organ you never knew you had."
+updatedAt: "2026-08-15"
+title: "Myokines and Exerkines: What Muscle-Signalling Research Actually Shows"
+excerpt: "Skeletal muscle releases signals that may communicate with other tissues, but biomarker changes are not the same as proven muscle-building, fat-loss, or disease-prevention effects."
 ---
+# Myokines and Exerkines: What Muscle-Signalling Research Actually Shows
 
-Your muscles are talking to you. Actually, they're talking to *everything*—your brain, your fat cells, your liver, your bones, even distant organs you didn't know were listening. And they're doing it through a sophisticated chemical language that scientists are only now beginning to decode.
+Skeletal muscle is more than a contractile tissue. It can release proteins, metabolites, and extracellular vesicles that participate in local and whole-body signalling. Those molecules are often described as **myokines** when they are produced by muscle, and **exerkines** when they are associated with exercise more broadly.
 
-Welcome to the world of **myokines** and **exerkines**—the molecular messengers that turn your skeletal muscle into the body's largest endocrine organ.
+That is a productive area of research. It is also an area where a measured molecule can quickly become an exaggerated promise. A signal in blood is not automatically proof of where it came from, what it does in a person, or whether increasing it improves health.
 
-## Your Muscles Are glands?!
+## What the terms mean
 
-For decades, we thought of muscle as simple: contract, relax, repeat. But research in the last 15 years has fundamentally rewritten that story. Skeletal muscle is now recognized as a **dynamic endocrine organ** that secretes hundreds of bioactive molecules—peptides, proteins, metabolites, and extracellular vesicles—collectively called myokines.
+The categories overlap. A myokine may be a muscle-derived protein with local or distant effects; an exerkine is a broader exercise-responsive signal that may include proteins, metabolites, lipids, and extracellular-vesicle cargo. Modern reviews describe skeletal muscle as an endocrine and paracrine organ, while also emphasizing the need for better assays, tissue attribution, and causal experiments.
 
-When you lift weights, your muscles don't just get shorter. They **secrete** these signaling molecules into your bloodstream, where they travel to tissues throughout your body, influencing metabolism, inflammation, brain function, and even cancer cell growth.
+Exercise mode, intensity, duration, training status, nutrition, sleep, and sampling time can all change the signal measured. A post-exercise blood sample therefore describes a response to one context, not a universal “muscle message.”
 
-A landmark 2026 paper published in *Cells* described this as the "endocrine code" of skeletal muscle—a complex communication network that mediates virtually every beneficial effect of resistance training.
+## What researchers are studying
 
-## Key Myokines You Should Know
+### Interleukin-6
 
-### Irisin: The Fat-Burning Messenger
+Exercise can transiently increase interleukin-6 from working muscle. Its role depends on timing, concentration, tissue, and the surrounding physiological state. It is not accurate to label every exercise-related IL-6 response either “inflammation” or a guaranteed anti-inflammatory benefit.
 
-Perhaps the most famous myokine, **irisin** is released from muscle tissue during exercise, particularly aerobic and resistance training. It was discovered in 2012 and named after the Greek goddess Iris, the messenger.
+### Irisin and FNDC5
 
-Irisin's primary function: it signals to fat cells to **brown**—converting white adipose tissue (the stuff you want to lose) into beige/brite fat that burns calories for heat. Research shows irisin can increase energy expenditure by 15-20% in some studies.
+Irisin is often presented as a switch that turns white fat into calorie-burning brown fat. Human measurement and biological interpretation remain difficult, and the existence of a signal does not establish a predictable fat-loss effect from a particular lifting session. It should not be used to justify an “irisin-maximizing” workout.
 
-But irisin does far more. A 2020 review in *Endocrine Reviews* found that irisin also:
+### Myostatin
 
-- Increases BDNF (brain-derived neurotrophic factor) in the brain
-- Improves cognitive function
-- Enhances bone density
-- Supports insulin sensitivity
+Myostatin is part of a growth-regulatory family that can restrain muscle development. Rare genetic conditions and drug-development research show that the pathway matters biologically. They do not provide a safe supplement or training lever for bypassing normal limits.
 
-The takeaway: that post-workout "glow" might literally be your muscles signaling fat to burn.
+### Lactate, FGF21, and extracellular vesicles
 
-### Interleukin-6 (IL-6): The Inflammation Regulator
+These are examples of signals studied in exercise physiology, but their source, kinetics, and downstream effects vary. A change in lactate or a circulating protein is not the same as a change in muscle size, insulin sensitivity, cognition, or cancer risk.
 
-IL-6 gained notoriety during COVID-19 as a marker of inflammation, but in the exercise context, it's actually **anti-inflammatory**. During muscle contractions, IL-6 is released and acts in a hormone-like fashion to:
+## What this means for training
 
-- Increase glucose uptake in muscles
-- Regulate glycogen breakdown for energy
-- Modulate immune response
-- Promote muscle repair
+The most defensible practical conclusion is ordinary: resistance and aerobic exercise can improve established outcomes such as strength, fitness, and function when programmed and performed consistently. Those outcomes do not require tracking a myokine panel or chasing a particular acute biomarker spike.
 
-Interestingly, the IL-6 released during exercise is structurally different from the IL-6 associated with chronic inflammation. Acute exercise-induced IL-6 is transient and beneficial.
+Use signalling research to understand mechanisms, not to replace outcome evidence. If a claim says that one exercise, supplement, sauna protocol, or timing strategy “maximizes” a molecule and therefore prevents disease or builds more muscle, ask whether the study measured a meaningful human outcome. Often it measured only a short-term concentration or cell-culture response.
 
-### Myostatin: The Growth Brakes
+## Bottom line
 
-**Myostatin** is a myokine that limits muscle growth. It's literally a "stop growing" signal. Mutations in the myostatin gene cause massive muscle hypertrophy in mice, cattle, and yes—even humans.
+Muscle-to-organ communication is real and scientifically important. The current evidence supports a complex, context-dependent signalling network—not a secret language with a simple translation into fat loss, anti-aging, cancer protection, or guaranteed hypertrophy. Train for measurable outcomes and treat circulating myokine claims as an active research area.
 
-A child born with myostatin mutations (documented in a few rare cases) has dramatically increased muscle mass from birth. Pharmaceutical companies have been racing to develop myostatin inhibitors, with some showing promise for conditions like muscular dystrophy.
+## Evidence
 
-For natural lifters, the implication: your body has built-in limits on muscle growth, and myostatin is one of them. Training volume, sleep, and certain nutrients may help regulate myostatin expression.
+### Sources
 
-### Brain-Derived Neurotrophic Factor (BDNF): The Cognitive Connector
+- [Hah et al., “Decoding the Endocrine Code of Skeletal Muscle”](https://pubmed.ncbi.nlm.nih.gov/41744761/) — 2026 review of myokines, exerkines, extracellular vesicles, and the limits of causal interpretation.
+- [Chow et al., “Exerkines in health, resilience and disease”](https://pubmed.ncbi.nlm.nih.gov/38597350/) — review of exercise-responsive signals and translational uncertainty.
+- [Exercise-mediated muscle-organ crosstalk review](https://pubmed.ncbi.nlm.nih.gov/38604409/) — context for interpreting proposed endocrine effects.
+- [Exercise-induced myokine research](https://pubmed.ncbi.nlm.nih.gov/41301508/) — an example of why timing, tissue source, and outcome selection matter.
 
-Your muscles produce BDNF, which crosses the blood-brain barrier and supports:
+## Related reading
 
-- Neuroplasticity (learning and memory)
-- Neurogenesis (creation of new neurons)
-- Mood regulation
-- Protection against cognitive decline
+- [Muscle architecture and hypertrophy](/blog/muscle-architecture-hypertrophy-science)
+- [Heat-shock proteins and muscle growth](/blog/heat-shock-proteins-muscle-growth-2026)
+- [Sleep and recovery](/blog/sleep-recovery-muscle-growth)
 
-This is the biological basis for the "runner's high" and why exercise improves mood and cognition. Your muscles are literally feeding your brain.
+## Limits of the evidence
 
-### FGF21: The Metabolic Regulator
+Much of the field is mechanistic, acute, observational, or based on cell and animal models. Human circulating biomarkers can be difficult to attribute to one tissue and do not by themselves establish a clinically meaningful benefit.
 
-Fibroblast growth factor 21 (FGF21) is a stress-induced myokine that acts on the liver and fat tissue to:
-
-- Enhance insulin sensitivity
-- Promote fat oxidation
-- Improve glucose metabolism
-
-FGF21 increases during endurance exercise and may be one reason why cardio improves metabolic health.
-
-## Exerkines: The Exercise "Secretome"
-
-Beyond myokines (which are always present), exercise triggers the release of **exerkines**—a broader category of molecules released in response to exercise stress. These include:
-
-- **Extracellular vesicles** (tiny packages containing microRNAs that regulate gene expression)
-- **Lactate** (yes, lactate is a signaling molecule, not just a waste product)
-- **β-aminoisobutyric acid (BAIBA)** (promotes fat browning and reduces insulin resistance)
-
-## What This Means for Your Training
-
-Understanding myokines explains why resistance training benefits **everything**—not just muscles. The systemic effects include:
-
-1. **Metabolic health**: Improved insulin sensitivity, glucose regulation
-2. **Brain health**: Better cognition, mood, neuroprotection
-3. **Fat loss**: Direct signaling to burn fat through browning
-4. **Bone strength**: Mechanical loading + myokine signaling
-5. **Anti-aging**: Reduced inflammation, improved mitochondrial function
-6. **Cancer protection**: A 2025 study found a single exercise session increased myokine levels that reduced cancer cell proliferation by 20-30%
-
-## Optimizing Your Myokine Response
-
-How do you maximize this endocrine response? Research suggests:
-
-**Volume matters**: Higher volume training (more sets, more total work) tends to produce greater myokine release than low-volume approaches.
-
-**Mechanical tension is key**: The muscle contraction itself drives secretion. Eccentric training may be particularly effective.
-
-**Train large muscle groups**: More muscle mass = more myokine production. Compound movements recruit more tissue.
-
-**Consistency**: Regular training leads to chronic elevation of beneficial myokines, not just acute spikes.
-
-**Combine modalities**: Both resistance and aerobic training produce distinct myokine profiles. Variety maximizes benefits.
-
-**Sleep**: Growth hormone and other hormones that interact with myokine pathways peak during deep sleep.
-
-## The Future: Myokine-Targeted Therapies
-
-Pharmaceutical companies are actively developing myokine-based treatments. Companies are exploring:
-
-- Recombinant irisin for metabolic disorders
-- Myostatin inhibitors for muscle-wasting diseases
-- Exercise mimetic drugs that trigger myokine release
-
-One day, you might be able to pop a pill that mimics the endocrine benefits of a workout. But until then, your muscles are already doing the work—all you need to do is train them.
-
-## Bottom Line
-
-Your skeletal muscle isn't just a piece of meat hanging on your bones. It's a sophisticated communication hub, releasing molecular messages that influence virtually every system in your body. Every rep you do sends ripples through your endocrine system, improving not just your physique, but your brain, your metabolism, and your long-term health.
-
-The next time you lift, remember: you're not just moving weight. You're running a chemical conversation that stretches from your muscles to your brain, your liver, your fat, and every cell in between.
-
-That's not just a pump. That's a symphony.
-
----
-
-## References
-
-1. Zarovni et al. (2026). "Decoding the Endocrine Code of Skeletal Muscle: Myokines, Exerkines, and Inter-Organ Crosstalk." *Cells*, 15(4), 318.
-2. Pedersen & Febbraio. (2012). "Muscles, exercise and obesity: skeletal muscle as a secretory organ." *Nature Reviews Endocrinology*, 8, 457-465.
-3. Bostrom et al. (2012). "A PGC1-α-dependent myokine that drives brown-fat-like development of white fat and thermogenesis." *Nature*, 481, 463-468.
-4. Wrann et al. (2013). "Exercise induces hippocampal BDNF through a PGC-1α/FNDC5 pathway." *Cell Metabolism*, 18(5), 649-659.
-5. Bettariga et al. (2025). "Exercise-induced myokines and cancer cell proliferation." *ScienceDaily*.
-6. Lee et al. (2020). "Muscle–Organ Crosstalk: The Emerging Roles of Myokines." *Endocrine Reviews*, 41(4), 594-608.
-
----
-
-*Track your myokines with Jacked. Download now.*
+{{surpass-inline-cta}}

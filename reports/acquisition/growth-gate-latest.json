@@ -1,0 +1,452 @@
+{
+  "generated_at": "2026-08-17T08:50:09.519Z",
+  "base_url": "https://jacked.coach",
+  "timeout_ms": 120000,
+  "crawl_skipped": false,
+  "status": "blocked",
+  "release_status": "pass",
+  "measurement_status": "blocked",
+  "release_blockers": [],
+  "measurement_blockers": [
+    {
+      "name": "acquisition_report",
+      "status": "blocked",
+      "failures": [],
+      "source_status": "blocked",
+      "error": null
+    }
+  ],
+  "checks": [
+    {
+      "name": "public_brand",
+      "layer": "release",
+      "script": "public-brand-check.mjs",
+      "status": "pass",
+      "exit_code": 0,
+      "signal": null,
+      "duration_ms": 209,
+      "result": {
+        "checked_at": "2026-08-17T08:50:08.291Z",
+        "base_url": "https://jacked.coach",
+        "status": "ready",
+        "pages": [
+          {
+            "url": "https://jacked.coach/",
+            "http_status": 200,
+            "title": "Surpass — Get Bigger On Purpose",
+            "h1": [
+              "SURPASS Get bigger on purpose."
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support BUILD THE BODY PEOPLE NOTICE SURPASS Get bigger on purpose. Choose what you want to change, train the blo",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/workout-tracker",
+            "http_status": 200,
+            "title": "Workout Tracker for iPhone That Guides Your Next Set | Surpass",
+            "h1": [
+              "Log the set. Know what comes next."
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support Workout tracker for iPhone Log the set. Know what comes next. Surpass is a focused weight-lifting tracker",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/gym-workout-planner",
+            "http_status": 200,
+            "title": "Gym Workout Planner for iPhone with Next-Set Targets | Surpass",
+            "h1": [
+              "Plan the workout. Know the next set."
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support Gym workout planner for iPhone Plan the workout. Know the next set. Surpass connects your training split,",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/progressive-overload",
+            "http_status": 200,
+            "title": "Progressive Overload App for iPhone | Surpass",
+            "h1": [
+              "Progress every lift without guessing."
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support Progressive overload app for iPhone Progress every lift without guessing. Surpass keeps your rep range, r",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/hevy-alternative",
+            "http_status": 200,
+            "title": "Hevy Alternative for iPhone | Import Workout History | Surpass",
+            "h1": [
+              "Bring your training history with you."
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support Switch workout trackers without starting over Bring your training history with you. Surpass imports suppo",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/import-workout-history",
+            "http_status": 200,
+            "title": "Import Workout History to Surpass | Hevy, Strong & FitNotes | Surpass",
+            "h1": [
+              "Bring the log. Keep the next decision."
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support A reviewable workout-history migration Bring the log. Keep the next decision. Move supported Hevy, Strong",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/support",
+            "http_status": 200,
+            "title": "Support | Surpass",
+            "h1": [
+              "Support"
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support Back to Surpass Support Help for Surpass on iPhone: training setup, live workout logging, weekly muscle t",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "url": "https://jacked.coach/privacy",
+            "http_status": 200,
+            "title": "Privacy Policy | Surpass",
+            "h1": [
+              "Privacy Policy"
+            ],
+            "visible_text_sample": "SURPASS How it works Tools Training Library About Support Start free Start free Menu How it works Tools Training Library About Support Back to Surpass Privacy Policy Last updated: August 15, 2026 Surpass is a strength training app designed ",
+            "expected_brand_visible": true,
+            "stale_brand_visible": false,
+            "status": "pass",
+            "failures": []
+          }
+        ],
+        "failure_count": 0
+      }
+    },
+    {
+      "name": "public_conversion",
+      "layer": "release",
+      "script": "public-conversion-check.mjs",
+      "status": "pass",
+      "exit_code": 0,
+      "signal": null,
+      "duration_ms": 262,
+      "result": {
+        "checked_at": "2026-08-17T08:50:08.351Z",
+        "checked_url": "https://jacked.coach/",
+        "http_status": 200,
+        "hero_cta_present": true,
+        "hero_experiment_ready_present": true,
+        "mobile_dock_present": true,
+        "mobile_dock_hidden_before_hydration": true,
+        "mobile_dock_experiment_present": true,
+        "status": "pass",
+        "failures": [],
+        "acquisition_pages": [
+          {
+            "checked_url": "https://jacked.coach/workout-tracker",
+            "http_status": 200,
+            "hero_cta_present": true,
+            "final_cta_present": true,
+            "mobile_dock_present": true,
+            "mobile_dock_hidden_before_hydration": true,
+            "mobile_dock_experiment_present": true,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "checked_url": "https://jacked.coach/gym-workout-planner",
+            "http_status": 200,
+            "hero_cta_present": true,
+            "final_cta_present": true,
+            "mobile_dock_present": true,
+            "mobile_dock_hidden_before_hydration": true,
+            "mobile_dock_experiment_present": true,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "checked_url": "https://jacked.coach/progressive-overload",
+            "http_status": 200,
+            "hero_cta_present": true,
+            "final_cta_present": true,
+            "mobile_dock_present": true,
+            "mobile_dock_hidden_before_hydration": true,
+            "mobile_dock_experiment_present": true,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "checked_url": "https://jacked.coach/hypertrophy-app",
+            "http_status": 200,
+            "hero_cta_present": true,
+            "final_cta_present": true,
+            "mobile_dock_present": true,
+            "mobile_dock_hidden_before_hydration": true,
+            "mobile_dock_experiment_present": true,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "checked_url": "https://jacked.coach/hevy-alternative",
+            "http_status": 200,
+            "hero_cta_present": true,
+            "final_cta_present": true,
+            "mobile_dock_present": true,
+            "mobile_dock_hidden_before_hydration": true,
+            "mobile_dock_experiment_present": true,
+            "status": "pass",
+            "failures": []
+          },
+          {
+            "checked_url": "https://jacked.coach/import-workout-history",
+            "http_status": 200,
+            "hero_cta_present": true,
+            "final_cta_present": true,
+            "mobile_dock_present": true,
+            "mobile_dock_hidden_before_hydration": true,
+            "mobile_dock_experiment_present": true,
+            "status": "pass",
+            "failures": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "public_app_store",
+      "layer": "release",
+      "script": "public-app-store-check.mjs",
+      "status": "pass",
+      "exit_code": 0,
+      "signal": null,
+      "duration_ms": 133,
+      "result": {
+        "checked_at": "2026-08-17T08:50:08.220Z",
+        "checked_url": "https://apps.apple.com/us/app/surpass-strength-training/id6757132605",
+        "http_status": 200,
+        "title": "‎Surpass: Strength Training App - App Store",
+        "canonical": "https://apps.apple.com/us/app/surpass-strength-training/id6757132605",
+        "app_name": "Surpass: Strength Training",
+        "subtitle": "Strength Workout Tracker",
+        "current_version": "4.0.3",
+        "current_version_note": "Start your first workout with clear guidance. Surpass keeps the workout list steady when you log sets and returns cleanly after empty or duplicate Quick Add selections.",
+        "current_note_has_stale_brand": false,
+        "description_opening": "Make every working set count.",
+        "description_repeats_subtitle": false,
+        "description_has_retired_onboarding_promise": false,
+        "status": "pass",
+        "failures": []
+      }
+    },
+    {
+      "name": "public_brand_crawl",
+      "layer": "release",
+      "script": "public-brand-crawl.mjs",
+      "status": "pass",
+      "exit_code": 0,
+      "signal": null,
+      "duration_ms": 812,
+      "result": {
+        "checked_at": "2026-08-17T08:50:08.899Z",
+        "base_url": "https://jacked.coach",
+        "sitemap_url": "https://jacked.coach/sitemap.xml",
+        "query": "",
+        "status": "ready",
+        "sitemap_http_status": 200,
+        "url_count": 317,
+        "checked": 317,
+        "failure_count": 0,
+        "stale_visible_count": 0,
+        "non200_count": 0,
+        "failures": []
+      }
+    },
+    {
+      "name": "seo_audit",
+      "layer": "release",
+      "script": "seo-audit.mjs",
+      "status": "pass",
+      "exit_code": 0,
+      "signal": null,
+      "duration_ms": 1424,
+      "result": {
+        "baseUrl": "https://jacked.coach",
+        "sitemapUrls": 317,
+        "discoveredUrls": 329,
+        "auditedUrls": 326,
+        "assetUrls": 3,
+        "notAudited": 0,
+        "blocked": 0,
+        "brokenInternalLinks": 0,
+        "noindexInSitemap": 0
+      }
+    },
+    {
+      "name": "acquisition_report",
+      "layer": "measurement",
+      "script": "acquisition-report.mjs",
+      "status": "blocked",
+      "exit_code": 0,
+      "signal": null,
+      "duration_ms": 48,
+      "result": {
+        "generatedAt": "2026-08-17T08:50:08.128Z",
+        "status": "blocked",
+        "sources": {
+          "searchConsole": {
+            "status": "blocked",
+            "quality": "no Search Console query rows",
+            "range": null,
+            "availableRanges": [],
+            "queryRows": 0,
+            "pageRows": 0,
+            "coverage": {
+              "available": false,
+              "quality": "no rows",
+              "source_rows": 0,
+              "covered_rows": 0,
+              "missing_rows": 0,
+              "invalid_rows": 0,
+              "distinct_ranges": 0,
+              "start_date": null,
+              "end_date": null
+            }
+          },
+          "webAnalytics": {
+            "status": "missing",
+            "quality": "missing",
+            "rows": 0,
+            "coverage": null
+          },
+          "appStoreConnect": {
+            "status": "missing",
+            "quality": "missing",
+            "rows": 0,
+            "coverage": null
+          },
+          "appAnalytics": {
+            "status": "missing",
+            "quality": "missing",
+            "rows": 0,
+            "coverage": null
+          }
+        },
+        "funnel": {
+          "nonBrandSearchImpressions": null,
+          "searchClicks": null,
+          "searchWindow": null,
+          "webPageViews": null,
+          "webSessions": null,
+          "toolStarts": null,
+          "toolCompletions": null,
+          "appStoreOutboundClicks": null,
+          "appStoreOutboundEventRows": null,
+          "appStoreOutboundSessions": null,
+          "ctaViewedSessions": null,
+          "qualifiedStoreIntentSessions": null,
+          "outboundSessionsWithoutCtaView": null,
+          "qualifiedStoreIntentRate": null,
+          "ctaViewRate": null,
+          "appStoreProductPageViews": null,
+          "appStoreProductPageToDownloadRate": null,
+          "downloads": null,
+          "firstWorkouts": null,
+          "completedWorkouts": null,
+          "activationEntryInstallations": null,
+          "firstSetActivatedInstallations": null,
+          "firstSetActivationRate": null,
+          "timeToFirstSet": null,
+          "secondWorkoutWithin7dInstallations": null,
+          "sevenDayReturnRate": null,
+          "secondWorkoutWithin1dInstallations": null,
+          "oneDayReturnRate": null,
+          "secondWorkoutWithin30dInstallations": null,
+          "thirtyDayReturnRate": null,
+          "returnToTraining": {}
+        },
+        "measurement": {
+          "search_console": {
+            "available": false,
+            "quality": "no Search Console query rows",
+            "source": null,
+            "range": null,
+            "available_ranges": [],
+            "source_rows": 0,
+            "selected_rows": 0,
+            "non_brand_rows": null,
+            "impressions": null,
+            "clicks": null,
+            "coverage": {
+              "available": false,
+              "quality": "no rows",
+              "source_rows": 0,
+              "covered_rows": 0,
+              "missing_rows": 0,
+              "invalid_rows": 0,
+              "distinct_ranges": 0,
+              "start_date": null,
+              "end_date": null
+            }
+          },
+          "web": null,
+          "app": null,
+          "app_store_connect": null,
+          "app_store_campaign_continuity": {
+            "available": false,
+            "quality": "web analytics source missing",
+            "web_outbound_event_rows": 0,
+            "missing_web_campaign_event_rows": 0,
+            "missing_web_identity_event_rows": 0,
+            "web_campaign_count": 0,
+            "app_store_campaign_count": 0,
+            "campaigns": []
+          }
+        },
+        "breakdowns": {
+          "webCtaSegments": [],
+          "webExperimentComparisons": [],
+          "appActivationPaths": [],
+          "appActivationReleases": [],
+          "appNextSessionPreview": null,
+          "appWeeklyReviewRecovery": null,
+          "appStoreCampaigns": null,
+          "appStoreCampaignContinuity": {
+            "available": false,
+            "quality": "web analytics source missing",
+            "web_outbound_event_rows": 0,
+            "missing_web_campaign_event_rows": 0,
+            "missing_web_identity_event_rows": 0,
+            "web_campaign_count": 0,
+            "app_store_campaign_count": 0,
+            "campaigns": []
+          }
+        },
+        "notes": [
+          "Missing source data is represented as null, not zero.",
+          "Search Console query/page totals remain unknown when the exporter has no rows.",
+          "Non-brand Search Console totals use one preferred query-level window and never sum overlapping ranges or substitute page-level rows.",
+          "App Store and app activation data require authorized exports and are not inferred from web events.",
+          "App Store product-page-to-download rate remains unknown unless complete product_page_views and downloads fields are present.",
+          "Web-to-App Store campaign continuity is a handoff diagnostic; matching tokens do not equate browser clicks with product-page views or downloads.",
+          "Qualified store-intent rate uses the intersection of CTA-viewed and outbound session identities; clicks without a recorded CTA view remain a separate diagnostic.",
+          "Every reportable source must retain a complete observed date window; incomplete or contradictory coverage leaves that source invalid and its funnel values null."
+        ]
+      }
+    }
+  ]
+}

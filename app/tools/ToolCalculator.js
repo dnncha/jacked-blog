@@ -61,6 +61,15 @@ function isImportChecker(tool) {
   return ['hevy', 'strong-import', 'fitnotes-import', 'csv-validator'].includes(tool.type)
 }
 
+function resultHandoffCopy(tool) {
+  if (isImportChecker(tool)) return 'Bring this checked history into your next Surpass workout.'
+  if (tool.type === 'next-set') return 'Keep the next target beside your set log, history, and rest timer.'
+  if (tool.type === 'rir') return 'Keep the target load and effort together while you train.'
+  if (tool.type === 'one-rm' || tool.type === 'strength-level') return 'Turn this estimate into a repeatable training target.'
+  if (tool.type === 'split' || tool.type === 'volume' || tool.type === 'deload') return 'Use this decision to shape the next training block.'
+  return 'Keep this decision beside the set where you use it.'
+}
+
 function analyticsProps(tool, values = {}) {
   const params = typeof window !== 'undefined'
     ? new URLSearchParams(window.location.search)
@@ -109,9 +118,10 @@ function SelectField({ label, name, value, onChange, options }) {
     <label className="tool-field">
       <span>{label}</span>
       <select name={name} value={value} onChange={(event) => onChange(name, event.target.value)}>
-        {options.map((option) => (
-          <option key={option} value={option}>{option}</option>
-        ))}
+        {options.map((option) => {
+          const item = typeof option === 'string' ? { value: option, label: option } : option
+          return <option key={item.value} value={item.value}>{item.label}</option>
+        })}
       </select>
     </label>
   )
@@ -158,6 +168,9 @@ function useToolState(tool) {
     for (const key of Object.keys(next)) {
       if (params.has(key)) next[key] = params.get(key)
     }
+    // Keep old shared calculator URLs working while presenting the Surpass
+    // label to visitors after the rebrand.
+    if (next.formula === 'jacked') next.formula = 'surpass'
     if (params.has('range')) {
       const [minReps, maxReps] = params.get('range').split('-')
       next.minReps = minReps || next.minReps
@@ -208,20 +221,23 @@ function resultFor(tool, values) {
 export default function ToolCalculator({ tool }) {
   const [values, updateValue] = useToolState(tool)
   const [shareStatus, setShareStatus] = useState('')
+  const [completed, setCompleted] = useState(false)
   const result = useMemo(() => resultFor(tool, values), [tool, values])
   const units = values.units || 'kg'
   const appHref = appStoreUrl(tool.campaign, 'result_cta')
+  const resultPlacement = `${tool.campaign}_result`
 
   const complete = () => {
     const props = completionProps(tool, values, result)
     track('tool_completed', props)
     if (isImportChecker(tool)) track('import_checker_completed', props)
+    setCompleted(true)
   }
 
   const share = async () => {
     const url = sharedToolUrl(window.location.origin, tool.slug)
     const shareData = {
-      title: `${tool.name} | Jacked`,
+      title: `${tool.name} | Surpass`,
       text: tool.promise,
       url,
     }
@@ -307,7 +323,18 @@ export default function ToolCalculator({ tool }) {
             <NumberField label="Weight" name="weight" value={values.weight} onChange={updateValue} min="0" />
             <NumberField label="Reps" name="reps" value={values.reps} onChange={updateValue} min="1" />
             <NumberField label="RIR" name="rir" value={values.rir} onChange={updateValue} min="0" />
-            <SelectField label="Formula" name="formula" value={values.formula} onChange={updateValue} options={['jacked', 'epley', 'brzycki', 'lander']} />
+            <SelectField
+              label="Formula"
+              name="formula"
+              value={values.formula}
+              onChange={updateValue}
+              options={[
+                { value: 'surpass', label: 'Surpass average' },
+                { value: 'epley', label: 'Epley' },
+                { value: 'brzycki', label: 'Brzycki' },
+                { value: 'lander', label: 'Lander' },
+              ]}
+            />
             <NumberField label="Minimum increment" name="increment" value={values.increment} onChange={updateValue} min="0.01" />
           </>
         )}
@@ -475,7 +502,30 @@ export default function ToolCalculator({ tool }) {
       </form>
 
       <aside className="tool-result-card">
-        <span className="tool-kicker">Result</span>
+        <div className="tool-result-head">
+          <span className="tool-kicker">Result</span>
+          <a
+            className="tool-primary tool-result-cta"
+            href={appHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-global-cta={resultPlacement}
+            data-app-store-placement={resultPlacement}
+            data-tool-app-store={tool.slug}
+            data-tool-result-cta="outcome_v1"
+            data-tool-completion-state={completed ? 'completed' : 'preview'}
+            data-experiment="tool_result_handoff"
+            data-experiment-variant="outcome_v1"
+            onClick={() => track('tool_app_store_clicked', {
+              ...analyticsProps(tool, values),
+              cta_placement: resultPlacement,
+              tool_completion_state: completed ? 'completed' : 'preview',
+            })}
+          >
+            Start free on iPhone
+          </a>
+        </div>
+        <p className="tool-result-handoff">{resultHandoffCopy(tool)}</p>
         {tool.type === 'next-set' && (
           <>
             <h2>{formatLoad(result.targetWeight, units)} x {result.targetRepText} @ {result.targetRir} RIR</h2>
@@ -654,7 +704,7 @@ export default function ToolCalculator({ tool }) {
 
         {tool.type === 'hevy' && (
           <>
-            <h2>{result.ready ? 'Ready for Jacked' : 'Paste or upload a CSV'}</h2>
+            <h2>{result.ready ? 'Ready for Surpass' : 'Paste or upload a CSV'}</h2>
             <div className="mini-grid">
               <ResultLine label="Workouts">{result.workouts}</ResultLine>
               <ResultLine label="Sets">{result.sets}</ResultLine>
@@ -662,14 +712,14 @@ export default function ToolCalculator({ tool }) {
               <ResultLine label="Measurements">{result.measurements}</ResultLine>
             </div>
             <ResultLine label="Likely match confidence">{result.matchConfidence}%</ResultLine>
-            <p><strong>Why:</strong> This preview found dated set rows and exercise names that Jacked can use to make imported history useful.</p>
+            <p><strong>Why:</strong> This preview found dated set rows and exercise names that Surpass can use to make imported history useful.</p>
             <p className="tool-muted">{result.privacy}</p>
           </>
         )}
 
         {tool.type === 'strong-import' && (
           <>
-            <h2>{result.ready ? 'Ready to preview in Jacked' : result.status}</h2>
+            <h2>{result.ready ? 'Ready to preview in Surpass' : result.status}</h2>
             <div className="mini-grid">
               <ResultLine label="Workouts">{result.workouts}</ResultLine>
               <ResultLine label="Sets">{result.sets}</ResultLine>
@@ -763,18 +813,7 @@ export default function ToolCalculator({ tool }) {
           </>
         )}
 
-        <p className="tool-app-copy">Jacked does this automatically while you train.</p>
         <div className="tool-result-actions">
-          <a
-            className="tool-primary"
-            href={appHref}
-            target="_blank"
-            rel="noopener noreferrer"
-            data-tool-app-store={tool.slug}
-            onClick={() => track('tool_app_store_clicked', analyticsProps(tool, values))}
-          >
-            Download Jacked for iPhone
-          </a>
           <button className="tool-secondary" type="button" onClick={share}>Share tool</button>
         </div>
         <p className="tool-muted" role="status" aria-live="polite">{shareStatus}</p>

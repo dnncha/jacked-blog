@@ -1,152 +1,58 @@
 ---
-title: "2025 Muscle Building Research: The Smart Training Revolution"
-excerpt: "New research challenges everything you thought about training volume, intensity, and supplements. The future of hypertrophy is working smarter, not longer."
+updatedAt: "2026-08-15"
+title: "Resistance-Training Evidence Roundup: What Recent Studies Actually Say"
+excerpt: "Recent resistance-training research refines how we think about volume, load, failure, periodization, and supplements. It does not replace individual programming with one new optimal number."
 ---
 
-The fitness industry loves dogma. More sets. More weight. More supplements. More everything. But 2025 research is turning that mindset on its head. Multiple landmark studies published this year reveal a surprising truth: when it comes to building muscle, less might actually be more.
+Research rarely overturns a whole training system with one headline. More often, a new study narrows a question, changes the confidence in a claim, or shows that two workable approaches are closer than their marketing suggests. The recent resistance-training literature is useful for that reason: it supports flexible programming, not a new set of commandments.
 
-## The Schoenfeld Finding: Intensity Isn't Everything
+## Volume: more can help, with diminishing returns
 
-Professor Brad Schoenfeld's research published in the *Journal of Applied Physiology* (January 2025) delivered a bombshell conclusion: **muscle growth can be achieved without continually increasing training intensity** [56].
+A 2026 meta-regression of 67 studies and 2,058 participants modelled weekly volume and frequency while distinguishing direct from indirect sets. The probability that volume was positively related to strength and hypertrophy was high, but the fitted relationships also showed diminishing returns. Frequency was compatible with a negligible hypertrophy effect in the model, while strength showed a positive relationship with increasing frequency ([dose-response meta-regression](https://pubmed.ncbi.nlm.nih.gov/41343037/)).
 
-For decades, progressive overload has been presented as non-negotiable—you must add weight, reps, or volume every week or stall. But Schoenfeld's findings suggest this pressure may be unnecessary. When lifters train to volitional fatigue, muscle growth occurs even when intensity plateaus.
+This does not identify an optimal 8–12 or 10–20 set range for every lifter. Set counting depends on the exercise, muscle, effort, and whether an indirect contribution is counted. Start with work you can recover from, then add or redistribute it when performance and recovery support the change.
 
-### What This Means for You
+## Load and failure: several routes can work
 
-- **Periodization gains scientific support**: Alternating between higher and lower intensity phases isn't just for powerlifters anymore—it's optimal for hypertrophy
-- **Deload weeks work**: Intentional reduction in training stress helps maintain long-term muscle-building capacity
-- **Sustainable progress**: Constant intensity progression burns out lifters both physically and mentally
+A systematic review and network meta-analysis of resistance-training prescriptions found that higher loads were more specific to strength, while a range of prescriptions produced hypertrophy when compared with no exercise ([prescription meta-analysis](https://pubmed.ncbi.nlm.nih.gov/37414459/)). A separate analysis of proximity to failure found that closer-to-failure training may have a modest relationship with hypertrophy, but the modelling was exploratory and did not establish a universal RIR target ([proximity-to-failure meta-regression](https://pubmed.ncbi.nlm.nih.gov/38970765/)).
 
-The key insight isn't to stop progressing—it's that progression can come in many forms: proximity to failure, time under tension, exercise variation, or simply training consistency over time.
+The practical conclusion is not “take every set to failure.” Use loads and effort that let you produce repeatable, technically sound work. Heavier loading can be useful for strength and skill; moderate or lighter loading can be useful for hypertrophy when fatigue and exercise safety are managed.
 
-## Florida Atlantic University: The Volume Truth
+## Periodization: more useful for strength than a hypertrophy guarantee
 
-A comprehensive meta-regression analysis from Florida Atlantic University, also published in early 2025, examined how training volume per session influences muscle growth and strength gains [63]. The findings challenge the "more is better" mentality that dominates gym culture.
+A 2022 systematic review found a strength advantage for periodized over non-periodized training when volume was equated, but no clear hypertrophy difference. Undulating periodization also showed a strength advantage over linear periodization without a clear muscle-size advantage ([periodization meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35044672/)). Periodization can still help organize fatigue, exercise variation, and goals, but it is not proof that a lifter must change intensity every few weeks.
 
-### Direct vs. Indirect Sets
+## Supplements: measure the outcome, not the mechanism
 
-The researchers introduced an important distinction:
+Protein supplementation can modestly augment resistance-training gains when total intake is not already sufficient, with diminishing returns as intake rises ([protein meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/)). That finding does not turn a supplement into a substitute for training, calories, sleep, or adherence. Creatine, caffeine, and other products each need their own evidence review; a new headline cannot be generalized across the category.
 
-- **Direct sets**: Exercises that directly target a muscle group (e.g., bench press for chest)
-- **Indirect sets**: Exercises that work a muscle secondarily (e.g., triceps extensions for chest development)
+## A sensible way to apply research
 
-This nuance matters because previous volume recommendations may have counted indirect work twice, inflating perceived volume requirements.
+1. Identify the outcome: muscle size, maximal strength, performance, recovery, or adherence.
+2. Match the study population and protocol to your own situation.
+3. Keep the comparison fair by changing one major variable at a time.
+4. Track load, repetitions, effort, range of motion, symptoms, and body-composition measures over a useful block.
+5. Treat a group average as a starting hypothesis, not a personal guarantee.
 
-### The Diminishing Returns Reality
+## Bottom line
 
-The study found that **benefits plateau much faster than previously believed** [63]:
+Recent research supports a flexible model: volume usually helps but eventually gives smaller returns, frequency can distribute work without being a hypertrophy switch, loads and proximity to failure can be varied, and periodization is especially useful for strength planning. The “smart” approach is the one that produces repeatable, recoverable progress—not the one attached to the newest headline.
 
-| Goal | Optimal Weekly Sets | Beyond This Point |
-|------|---------------------|-------------------|
-| Strength | 4-8 sets per muscle group | Minimal additional benefit |
-| Muscle Growth | 8-12 sets per muscle group | Rapidly diminishing returns |
+### Sources
 
-For natural lifters, pushing beyond 12-15 sets per muscle group per week likely produces negligible additional growth while increasing injury risk and recovery demands.
+- [Resistance-training dose response: volume and frequency meta-regressions](https://pubmed.ncbi.nlm.nih.gov/41343037/)
+- [Resistance-training prescription for strength and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/37414459/)
+- [Proximity to failure and strength or hypertrophy](https://pubmed.ncbi.nlm.nih.gov/38970765/)
+- [Periodization meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35044672/)
+- [Protein supplementation meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/)
 
-### Recovery Strategy
-{{recovery-pyramid}}
+## Related reading
 
-## Training vs Recovery
-{{stress-balance}}
+- [Training Volume Per Session](/blog/optimal-set-volume-2025-research)
+- [Load vs Reps for Progressive Overload](/blog/load-vs-reps-progressive-overload)
 
-## Muscle Protein Synthesis Timeline
-{{mps-timeline}}
+## Limits of the evidence
 
-## Practical Applications
+Meta-analyses combine heterogeneous exercises, loads, participants, and outcome measures. The findings support ranges and decision rules, not a universal program or a guaranteed response.
 
-- **Quality over quantity**: Effective muscular stimulation matters more than total set count
-- **Train smarter**: Shorter, more focused sessions can match or exceed longer, sprawling workouts
-- **Individual variation exists**: Some lifters thrive on higher volume, but general principles hold for most
-
-## Proximity to Failure: Different Rules for Different Goals
-
-Florida Atlantic University's 2024 research (published in early 2025 discussions) provided crucial clarity on how close you should train to failure [58]:
-
-### The Key Findings
-
-- **For hypertrophy**: Training closer to failure (0-3 reps in reserve) produces superior muscle growth
-- **For strength**: How close you push to failure matters less—stopping 3-5 reps short still drives strength gains effectively
-
-This separation is practical: you can manage fatigue differently depending on your primary goal. Strength training allows greater recovery with submaximal efforts, while hypertrophy training demands more from the muscle but can use lower loads when taken to true failure.
-
-### The Load Paradox
-
-Research confirms an important nuance: **as long as resistance training is performed to volitional fatigue, load might not significantly affect muscle growth** [61]. However:
-
-- Low-load protocols require approximately 3× more training volume to match high-load results
-- If not training to failure, loads above 60% of 1RM appear necessary for maximizing hypertrophy
-- High-load training produces roughly twice the muscle thickness per set compared to low-load
-
-### Training Recommendations by Goal
-
-| Goal | Proximity to Failure | Load | Weekly Volume |
-|------|---------------------|------|---------------|
-| Muscle | 0-3 RIR | 60-85% 1RM | 8-12 sets |
-| Strength | 3-5 RIR | 70-95% 1RM | 4-8 sets |
-
-## The Creatine Conundrum: UNSW Study Challenges Conventional Wisdom
-
-Perhaps the most controversial finding comes from a rigorously designed UNSW study published in *Nutrients* (March 2025) [60].
-
-### Study Design
-
-- 54 participants completed a 12-week resistance training program
-- Randomized control trial with placebo group
-- 5 grams daily creatine (standard dose)
-- One-week "wash-in" period before measurements—addressing a methodological flaw in previous research
-- Three supervised resistance training sessions per week
-
-### The Surprising Results
-
-**Both groups gained an average of 2 kg of lean body mass—with no significant difference between them** [60].
-
-The creatine group did experience temporary weight gain, likely from water retention, but this didn't translate to more muscle. Previous studies may have overstated creatine's benefits due to methodological issues, particularly the lack of a wash-in period.
-
-### Expert Interpretation
-
-Dr. Mandy Hagstrom, lead researcher, stated: "Taking five grams of creatine supplement per day does not make any difference to the amount of lean muscle mass people put on while resistance training" [60].
-
-Dr. Imtiaz Desai added: "For your average person taking creatine to boost their gains in the gym, this will hopefully change their perception about what it can help them achieve" [60].
-
-### Recovery Strategy
-{{recovery-pyramid}}
-
-## Training vs Recovery
-{{stress-balance}}
-
-## Muscle Protein Synthesis Timeline
-{{mps-timeline}}
-
-## Practical Implications
-
-- **For casual lifters**: Creatine won't dramatically enhance muscle gains beyond what training provides
-- **For strength athletes**: The strength benefits may be more relevant than hypertrophy effects
-- **Cost-benefit analysis**: Question whether supplement spending delivers proportional returns
-- **Focus on fundamentals**: Training and nutrition quality matters far more than supplementation
-
-## The 2025 Synthesis: Training Smarter
-
-These studies converge on a unified message: **the era of extremes is ending**. Optimal muscle building in 2025 and beyond looks like:
-
-1. **Moderate volume**: 8-12 challenging sets per muscle group weekly
-2. **Train to failure for hypertrophy**: 0-3 reps in reserve on most working sets
-3. **Strategic intensity**: Progress through periodization, not constant increases
-4. **Smart supplementation**: Don't expect supplements to compensate for training gaps
-5. **Sustainable approach**: Long-term consistency beats short-term intensity
-
-The new paradigm isn't about doing less—it's about doing what's effective and ditching the rest. Your muscles don't care about your ego. They respond to stimulus, recovery, and consistency.
-
-Train smart.
-
----
-
-**References**
-
-- Schoenfeld et al. Journal of Applied Physiology, January 2025
-- Florida Atlantic University Meta-Regression Analysis, 2025
-- Florida Atlantic University Proximity to Failure Study, 2024/2025
-- UNSW Creatine Clinical Trial, Nutrients, March 2025
-
----
-
-*Track your research with Jacked. Download now.*
+{{surpass-inline-cta}}

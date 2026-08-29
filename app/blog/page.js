@@ -1,35 +1,35 @@
 import BlogIndexClient from './page.client'
-import { allBlogPosts } from './posts'
+import { canonicalBlogPosts } from './posts'
 
 export const metadata = {
   title: 'Training Library',
-  description: 'Search the Jacked training library for hypertrophy, progressive overload, RIR, deloads, exercise selection, recovery, supplements, and workout app guidance.',
+  description: 'Search the Surpass training library for hypertrophy, progressive overload, RIR, deloads, exercise selection, recovery, supplements, and workout app guidance.',
   alternates: {
     canonical: 'https://jacked.coach/blog',
   },
   openGraph: {
-    title: 'Training Library | Jacked',
-    description: 'Practical hypertrophy articles and workout app guides from Jacked.',
+    title: 'Training Library | Surpass',
+    description: 'Practical hypertrophy articles and workout app guides from Surpass.',
     url: 'https://jacked.coach/blog',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Jacked training library',
+        alt: 'Surpass training library',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Training Library | Jacked',
-    description: 'Practical hypertrophy articles and workout app guides from Jacked.',
+    title: 'Training Library | Surpass',
+    description: 'Practical hypertrophy articles and workout app guides from Surpass.',
     images: ['/og-image.png'],
   },
 }
 
 function getPosts() {
-  return allBlogPosts
+  return canonicalBlogPosts
     .map(post => {
       return {
         slug: post.slug,
@@ -52,7 +52,7 @@ export default function BlogIndex() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Jacked Training Library',
+    name: 'Surpass Training Library',
     description: metadata.description,
     url: 'https://jacked.coach/blog',
     mainEntity: {

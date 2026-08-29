@@ -1,4 +1,4 @@
-import { allBlogPosts } from '../../blog/posts'
+import { canonicalBlogPosts } from '../../blog/posts'
 
 export const dynamic = 'force-static'
 
@@ -25,7 +25,7 @@ function cdata(value) {
 }
 
 function getPosts() {
-  return allBlogPosts
+  return canonicalBlogPosts
     .map(post => {
       return {
         slug: post.slug,
@@ -46,9 +46,9 @@ export async function GET() {
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacked | Hypertrophy Training Library</title>
+    <title>Surpass | Hypertrophy Training Library</title>
     <link>https://jacked.coach</link>
-    <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Jacked.</description>
+    <description>Hypertrophy, progressive overload, workout tracking, recovery, and supplement articles from Surpass.</description>
     <language>en</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="https://jacked.coach/feed.xml" rel="self" type="application/rss+xml"/>

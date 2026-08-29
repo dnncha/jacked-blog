@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Training for Strength vs Size: Can You Actually Do Both?"
 excerpt: "The age-old debate gets settled by science: heavy weights vs moderate reps, neural adaptations vs muscle growth, and how to program for both."
 ---
-
 The fitness industry loves its false dichotomies. Heavy lifting versus high reps. Strength versus size. Neural adaptations versus metabolic stress. Pick a side, commit to a philosophy, and heaven forbid you dare mix the two.
 
 Here's the truth: it's not a binary choice. The science of hypertrophy and strength training tells a more nuanced story—one where both goals can coexist in your program if you understand what's actually happening in your body.
@@ -48,7 +48,7 @@ The interference effect—where aerobic training blunts strength gains—doesn't
 
 ## When Each Approach Shines
 
-**Heavy lifting is optimal for:**
+**Heavier loading is especially useful for:**
 
 - Athletes needing maximal force expression (sprinters, throwers, combat sports)
 - Bone health and connective tissue strength
@@ -105,4 +105,20 @@ Whether you're chasing a bigger bench press, bigger biceps, or both—the scienc
 
 ---
 
-*Track your training with Jacked. Download now.*
+## Related reading
+
+- [Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says](/blog/compound-vs-isolation-hypertrophy-science)
+- [Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says](/blog/sarcoplasmic-vs-myofibrillar-hypertrophy-science-2026)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

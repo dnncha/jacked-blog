@@ -1,8 +1,8 @@
 ---
+updatedAt: "2026-08-15"
 title: "Muscle Memory: The Science Behind Why Your Gains Stick"
 excerpt: "New research reveals your muscles literally remember training. Here's what the science says about myonuclear domains, epigenetic changes, and how to leverage muscle memory for faster gains."
 ---
-
 If you've ever taken time off from lifting — whether due to injury, travel, or life — and then gotten back to the gym only to find that your strength came back faster than it took to build originally, you've experienced muscle memory in action.
 
 But what's actually happening at the cellular level? And more importantly, can you leverage this science to maximize your gains?
@@ -79,4 +79,19 @@ So the next time life forces you to take a week or two — or even a month — o
 
 ---
 
-*Track your gains with Jacked. Download now.*
+## Related reading
+
+- [Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)](/blog/muscle-memory-detraining-science-2026)
+- [Muscle Memory After Detraining: What the Science Shows](/blog/muscle-memory-hypertrophy-detraining-science)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+
+### Sources
+
+- [Muscle memory after detraining and retraining](https://pubmed.ncbi.nlm.nih.gov/41346689/). Recent human evidence; exact response depends on prior training and detraining.
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). General adaptation context.
+
+{{surpass-inline-cta}}

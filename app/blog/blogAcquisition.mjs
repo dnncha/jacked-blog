@@ -6,8 +6,8 @@ const intents = [
     key: 'workout_apps',
     pattern: /\b(apps?|tracker|tracking|workout log|logging|hevy|fitnotes|strong app|boostcamp|rp hypertrophy|import|alternative)\b/i,
     headline: 'Bring your workout history with you.',
-    copy: 'Jacked imports compatible Hevy, Strong, and FitNotes history, then keeps the previous result and next target inside the workout.',
-    label: 'Import and train with Jacked',
+    copy: 'Surpass imports compatible Hevy, Strong, and FitNotes history, then keeps the previous result and next target inside the workout.',
+    label: 'Import and train with Surpass',
   },
   {
     key: 'nutrition',
@@ -20,7 +20,7 @@ const intents = [
     key: 'recovery',
     pattern: /\b(recovery|sleep|fatigue|deload|soreness|stress|overtraining|rest day|injury|pain)\b/i,
     headline: 'Keep fatigue and training context together.',
-    copy: 'Jacked keeps recent performance, RIR, rest timing, and weekly hard-set totals visible when you plan the next session.',
+    copy: 'Surpass keeps recent performance, RIR, rest timing, and weekly hard-set totals visible when you plan the next session.',
     label: 'Track training context',
   },
   {
@@ -28,20 +28,20 @@ const intents = [
     pattern: /\b(exercise|bench|squat|deadlift|curl|press|row|pulldown|pull-up|lunge|fly|raise|extension|machine|free weight|barbell|dumbbell|cable)\b/i,
     headline: 'Keep exercise changes inside the workout.',
     copy: 'Log the set, compare your previous result, and swap to a close alternative without rebuilding the whole session.',
-    label: 'Run your workout in Jacked',
+    label: 'Run your workout in Surpass',
   },
   {
     key: 'progression',
     pattern: /\b(progressive|progression|double progression|rir|rpe|reps in reserve|one rep max|1rm|strength|load|plateau|personal record|rep range)\b/i,
     headline: 'Turn this idea into the next set.',
-    copy: 'Jacked keeps your previous result, target load, rep range, RIR, and rest timer together while you train.',
+    copy: 'Surpass keeps your previous result, target load, rep range, RIR, and rest timer together while you train.',
     label: 'Track your next set',
   },
   {
     key: 'programming',
     pattern: /\b(volume|weekly sets?|split|program|programming|routine|workout plan|frequency|hypertrophy|muscle growth|periodization)\b/i,
     headline: 'See the week, then run the workout.',
-    copy: 'Jacked connects weekly hard-set targets with the exercises, rep ranges, and next-set guidance in today’s session.',
+    copy: 'Surpass connects weekly hard-set targets with the exercises, rep ranges, and next-set guidance in today’s session.',
     label: 'Track weekly targets',
   },
 ]
@@ -61,8 +61,8 @@ export function blogAcquisitionForPost(post) {
   const intent = match || {
     key: 'training',
     headline: 'Apply this in your next workout.',
-    copy: 'Jacked keeps working sets, recent performance, next targets, rest timing, and weekly muscle totals in one iPhone workout log.',
-    label: 'Get Jacked for iPhone',
+    copy: 'Surpass keeps working sets, recent performance, next targets, rest timing, and weekly muscle totals in one iPhone workout log.',
+    label: 'Get Surpass for iPhone',
   }
 
   return {

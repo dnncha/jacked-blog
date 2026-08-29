@@ -2,7 +2,7 @@
 
 Status: **BLOCKED**
 
-Generated at (UTC): 2026-08-08T07:19:28.418Z
+Generated at (UTC): 2026-08-14T16:53:30.788Z
 
 ## Why this baseline is blocked
 
@@ -14,9 +14,9 @@ The configured property is `sc-domain:jacked.coach`, but the property, permissio
 
 | View | Start | End | Data status |
 | --- | --- | --- | --- |
-| max | 2025-04-05 | 2026-08-05 | Not retrieved |
-| trailing-90d | 2026-05-08 | 2026-08-05 | Not retrieved |
-| trailing-28d | 2026-07-09 | 2026-08-05 | Not retrieved |
+| max | 2025-04-11 | 2026-08-11 | Not retrieved |
+| trailing-90d | 2026-05-14 | 2026-08-11 | Not retrieved |
+| trailing-28d | 2026-07-15 | 2026-08-11 | Not retrieved |
 
 The `max` view requests a 16-calendar-month lookback by default, which is a configurable proxy for the Search Console history window. The `trailing-90d` and `trailing-28d` views are inclusive date ranges. The API end date defaults to UTC today minus three days unless overridden.
 

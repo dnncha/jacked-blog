@@ -50,7 +50,7 @@ export async function GET(_request, { params }) {
           }}
         >
           <div style={{ display: 'flex', alignItems: 'center', gap: 18 }}>
-            <div style={{ color: '#e2c95f', fontSize: 34, fontWeight: 900, letterSpacing: 2 }}>JACKED</div>
+            <div style={{ color: '#e2c95f', fontSize: 34, fontWeight: 900, letterSpacing: 2 }}>SURPASS</div>
             <div style={{ width: 48, height: 2, background: '#554b24' }} />
             <div style={{ color: '#a9a294', fontSize: 24, fontWeight: 750, letterSpacing: 1.5 }}>
               {toolTypeLabel(tool.type)}

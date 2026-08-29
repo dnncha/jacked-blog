@@ -6,7 +6,7 @@ No URL was deleted, redirected, or noindexed. This document records review gates
 
 ## Candidates requiring evidence
 
-The source inventory flags 160 health-sensitive URLs and 244 low product-relevance URLs. Neither flag is a removal decision. For each candidate, check:
+The source inventory flags 207 health-sensitive URLs and 241 low product-relevance URLs. Neither flag is a removal decision. For each candidate, check:
 
 - Search Console impressions, clicks, queries, and search appearance;
 - referring domains and important backlinks;

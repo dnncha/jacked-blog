@@ -1,10 +1,10 @@
 ---
+updatedAt: "2026-08-15"
 title: "Hevy Import Guide: How to Move Workout History Into a Better Hypertrophy Tracker"
 excerpt: "Switching workout apps should not mean losing years of training context. Here is what matters when importing Hevy workouts, routines, measurements, notes, and set types."
 date: "2026-05-15"
 category: "Workout Apps"
 ---
-
 # Hevy Import Guide: How to Move Workout History Into a Better Hypertrophy Tracker
 
 Switching workout apps is easy when you have logged three sessions. It is much harder when your training history includes years of workouts, saved routines, body measurements, exercise notes, and technique sets.
@@ -45,9 +45,9 @@ Hypertrophy is not only about load on the bar. Body weight, tape measurements, a
 
 For example, a bench press plateau during a cut is different from the same plateau during a body-weight gain phase. Keeping measurement history near progress review makes that context easier to read.
 
-## The Jacked Approach
+## The Surpass Approach
 
-Jacked is built as an iPhone hypertrophy tracker around live session execution and progress review. Its import work is designed to preserve Hevy training context that lifters care about:
+Surpass is built as an iPhone hypertrophy tracker around live session execution and progress review. Its import work is designed to preserve Hevy training context that lifters care about:
 
 - Hevy routine patterns can become usable training days in an active plan.
 - Workout names and session notes remain recognizable in history.
@@ -72,3 +72,20 @@ Once your data is in a new app, review a few high-value areas before your first 
 The best workout tracker migration is the one you do not notice during training. Your next session should already know what you did before, what you planned to do, and what a reasonable next target looks like.
 
 That is the standard a hypertrophy app should meet when it asks you to leave an old logbook behind.
+
+## Related reading
+
+- [Strong to Surpass Import Guide: Check Your CSV Before Switching Apps](/blog/strong-to-surpass-import-guide)
+- [Import Hevy to Surpass: Move Your Workout History Without Starting Over](/blog/import-hevy-to-surpass)
+
+## Limits of the evidence
+
+Training studies differ in exercises, loads, effort, duration, and participant experience. The recommendations here are starting points; individual response, pain, recovery, and the quality of the comparison still matter.
+
+### Sources
+
+- [Mechanisms of skeletal-muscle hypertrophy and their application to resistance training](https://pubmed.ncbi.nlm.nih.gov/30335577/). Mechanisms and practical interpretation of resistance-training adaptations.
+- [Dose-response relationship between weekly resistance-training volume and muscle growth](https://pubmed.ncbi.nlm.nih.gov/27433992/). Volume evidence; not a universal set prescription.
+- [Low-load versus high-load resistance training for muscle hypertrophy and strength](https://pubmed.ncbi.nlm.nih.gov/31191347/). Load and effort evidence; population and protocol limits apply.
+
+{{surpass-inline-cta}}

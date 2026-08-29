@@ -19,7 +19,7 @@ export function GET() {
           letterSpacing: -2,
         }}
       >
-        J
+        S
       </div>
     ),
     { width: 96, height: 96 },
