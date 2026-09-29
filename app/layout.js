@@ -306,6 +306,9 @@ export default function RootLayout({ children }) {
             <Link href="/import-workout-history" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Import workout history</Link>
             <Link href="/hevy-alternative" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Hevy alternative</Link>
             <Link href="/alpha-progression-alternative" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Alpha Progression comparison</Link>
+            <Link href="/surpass-vs-hevy" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Surpass vs Hevy</Link>
+            <Link href="/surpass-vs-fitbod" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Surpass vs Fitbod</Link>
+            <Link href="/best-physique-tracker-apps" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Physique tracker apps</Link>
             <Link href="/methodology" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Training methodology</Link>
             <Link href="/blog" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Training Library</Link>
             <Link href="/blog/alternatives-to-rp-hypertrophy-app" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>RP Hypertrophy alternatives</Link>

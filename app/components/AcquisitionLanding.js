@@ -72,7 +72,12 @@ export default function AcquisitionLanding({
   comparisonIntro = 'History is most useful when it is visible before the set it affects.',
   comparisonLabel = 'Basic workout log and Surpass comparison',
   comparisonLeftLabel = 'Basic log',
+  comparisonMomentLabel = 'Training moment',
+  comparisonRightLabel = 'Surpass',
   faqTitle = 'Questions lifters ask before switching.',
+  sources = [],
+  sourcesNote = '',
+  dockTitle = 'Keep your next set clear.',
 }) {
   const copyVersion = 'acquisition_promise_v2'
   const heroActionsRef = useRef(null)
@@ -296,6 +301,11 @@ export default function AcquisitionLanding({
         .acquisition-comparison-head { background: #171512; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 850; }
         .acquisition-comparison-head > *:last-child { color: var(--acq-gold); }
 
+        .acquisition-sources { margin-top: 22px; color: var(--acq-muted); font-size: 0.86rem; }
+        .acquisition-sources p { margin: 0 0 8px; }
+        .acquisition-sources ul { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0; padding: 0; list-style: none; }
+        .acquisition-sources a { color: var(--acq-muted); text-decoration: underline; text-underline-offset: 3px; }
+
         .acquisition-faq { display: grid; gap: 10px; }
         .acquisition-faq details { padding: 21px 23px; border: 1px solid var(--acq-line); border-radius: 10px; background: var(--acq-panel); }
         .acquisition-faq summary { cursor: pointer; font-weight: 800; }
@@ -328,7 +338,8 @@ export default function AcquisitionLanding({
           .acquisition-photo { min-height: 390px; }
           .acquisition-comparison-row { grid-template-columns: 1fr; }
           .acquisition-comparison-row > * + * { border-left: 0; border-top: 1px solid var(--acq-line); }
-          .acquisition-comparison-head > *:first-child { display: none; }
+          .acquisition-comparison-head { display: none; }
+          .acquisition-comparison-row span[data-label]::before { content: attr(data-label); display: block; margin-bottom: 4px; color: var(--acq-gold); font-size: 0.72rem; font-weight: 850; letter-spacing: 0.08em; text-transform: uppercase; }
           .acquisition-hero.screen {
             min-height: 1040px;
             align-items: start;
@@ -462,14 +473,24 @@ export default function AcquisitionLanding({
           </div>
           <div className="acquisition-comparison" role="table" aria-label={comparisonLabel}>
             <div className="acquisition-comparison-row acquisition-comparison-head" role="row">
-              <span role="columnheader">Training moment</span><span role="columnheader">{comparisonLeftLabel}</span><span role="columnheader">Surpass</span>
+              <span role="columnheader">{comparisonMomentLabel}</span><span role="columnheader">{comparisonLeftLabel}</span><span role="columnheader">{comparisonRightLabel}</span>
             </div>
             {comparison.map(([moment, comparisonCopy, surpassCopy]) => (
               <div className="acquisition-comparison-row" role="row" key={moment}>
-                <strong role="cell">{moment}</strong><span role="cell">{comparisonCopy}</span><span role="cell">{surpassCopy}</span>
+                <strong role="cell">{moment}</strong><span role="cell" data-label={comparisonLeftLabel}>{comparisonCopy}</span><span role="cell" data-label={comparisonRightLabel}>{surpassCopy}</span>
               </div>
             ))}
           </div>
+          {sources.length > 0 && (
+            <div className="acquisition-sources">
+              {sourcesNote && <p>{sourcesNote}</p>}
+              <ul>
+                {sources.map(([href, label]) => (
+                  <li key={href}><a href={href} target="_blank" rel="noopener noreferrer">{label}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </section>
 
@@ -501,7 +522,7 @@ export default function AcquisitionLanding({
         aria-label="Start Surpass on iPhone"
       >
         <div className="acquisition-mobile-dock-copy">
-          <strong>Keep your next set clear.</strong>
+          <strong>{dockTitle}</strong>
           <span>Free on the App Store · no account required</span>
         </div>
         <AppStoreLink
