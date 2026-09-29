@@ -71,6 +71,7 @@ export default function HevyAlternativePage() {
     faqs={faqs}
     faqTitle="Questions before moving workout history."
     related={[
+      ['/surpass-vs-hevy', 'Surpass vs Hevy compared'],
       ['/import-workout-history', 'Import workout history guide'],
       ['/blog/import-hevy-to-surpass', 'Import Hevy to Surpass guide'],
       ['/strong-alternative', 'Strong alternative'],

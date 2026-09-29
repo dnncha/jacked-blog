@@ -28,9 +28,19 @@ The page must remain useful when a visitor does not install the app. A CTA is a 
 | Next set | `/tools/next-set-calculator` | Calculate add-reps, add-load, repeat, or back-off guidance | Show how Surpass keeps that decision with the active workout | `next_set_calculator` |
 | Weekly volume | `/tools/weekly-volume-checker` | Explain the weekly set total and its assumptions | Show sets completed and remaining in the app | `weekly_volume_checker` |
 | Progressive overload | `/progressive-overload` | Explain the decision system with a worked example | Show the same decision inside the workout flow | `seo_progressive_overload` |
+| Hevy comparison | `/surpass-vs-hevy` | Honest, dated side-by-side with prices and sources | Priority, block and proof loop; Hevy CSV import | `seo_surpass_vs_hevy` |
+| Fitbod comparison | `/surpass-vs-fitbod` | Honest, dated side-by-side with prices and sources | You pick the muscle instead of the algorithm | `seo_surpass_vs_fitbod` |
+| Physique app roundup | `/best-physique-tracker-apps` | Eight apps: what each gives and where it stops; photo routine | Not a score, a plan plus private proof | `seo_best_physique_tracker_apps` |
+| Muscle priority | `/bigger-arms`, `/wider-shoulders`, `/bigger-chest`, `/wider-back`, `/whole-frame` | Which muscles, weekly sets, exercises and photo angles | The eyebrow repeats the app's first-screen choice so ad, page and app match | `seo_priority_*` |
 
 These are a starting set for measurement, not a claim that each page should remain indexable. Search Console, link data, technical indexability, and product evidence must decide the final set.
 
 ## Experiment rules
 
 Run one sequential change at a time while traffic is low. Predeclare the hypothesis, primary metric, exposure window, stopping rule, and rollback. Do not call a winner from a tiny or incomplete sample.
+
+## Muscle-priority pages
+
+Each muscle page is data in `app/components/PriorityLanding.js`. Its eyebrow is the exact onboarding label from `OnboardingView.buildPriorityTitle` in the iOS app (Bigger arms, Wider shoulders, More chest, Wider back, Better whole frame), and its hero is that choice's card image. If the app renames a choice, rename it here in the same change. `app/comparisonLanding.test.mjs` pins the labels.
+
+Competitor facts on comparison pages carry a checked-on date and source links. Re-check them before reusing a page in paid traffic.

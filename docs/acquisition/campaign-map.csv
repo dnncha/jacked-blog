@@ -22,3 +22,11 @@ tool,/tools/strong-csv-import-checker,result_cta,128406689,strong_csv_import_che
 tool,/tools/fitnotes-csv-import-checker,result_cta,128406689,fitnotes_csv_import_checker,app_store_outbound_clicked,Core tool campaign
 tool,/tools/workout-csv-validator,result_cta,128406689,workout_csv_validator,app_store_outbound_clicked,Core tool campaign
 blog,/blog/*,header_or_final,128406689,blog_workout_apps|blog_progression|blog_programming|blog_training,app_store_outbound_clicked,Intent-based campaign chosen by post metadata; validate resolved value
+landing,/surpass-vs-hevy,hero_or_final,128406689,seo_surpass_vs_hevy,app_store_outbound_clicked,Competitor comparison led by priority/block/proof; Hevy facts dated 2026-09-29
+landing,/surpass-vs-fitbod,hero_or_final,128406689,seo_surpass_vs_fitbod,app_store_outbound_clicked,Competitor comparison led by priority/block/proof; Fitbod facts dated 2026-09-29
+landing,/best-physique-tracker-apps,hero_or_final,128406689,seo_best_physique_tracker_apps,app_store_outbound_clicked,Physique app roundup (scores vs plans); facts dated 2026-09-29
+landing,/bigger-arms,hero_or_final,128406689,seo_priority_bigger_arms,app_store_outbound_clicked,Matches onboarding choice "Bigger arms"; ad destination for arm terms
+landing,/wider-shoulders,hero_or_final,128406689,seo_priority_wider_shoulders,app_store_outbound_clicked,Matches onboarding choice "Wider shoulders"
+landing,/bigger-chest,hero_or_final,128406689,seo_priority_more_chest,app_store_outbound_clicked,Matches onboarding choice "More chest"
+landing,/wider-back,hero_or_final,128406689,seo_priority_wider_back,app_store_outbound_clicked,Matches onboarding choice "Wider back"
+landing,/whole-frame,hero_or_final,128406689,seo_priority_whole_frame,app_store_outbound_clicked,Matches onboarding choice "Better whole frame"
