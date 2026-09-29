@@ -12,7 +12,7 @@ export default function PrivacyPage() {
   return (
     <LegalPage
       title="Privacy Policy"
-      updated="Last updated: August 15, 2026"
+      updated="Last updated: September 29, 2026"
       intro='Surpass is a strength training app designed to help you track workouts and progress. This policy explains what the iPhone app stores, how app data is handled, and how to contact support.'
     >
       <h2>Data the app stores</h2>
@@ -21,12 +21,17 @@ export default function PrivacyPage() {
         <li><strong>Workout data</strong>: exercises, sets, reps, weight, RIR, notes, rest timing, and timestamps.</li>
         <li><strong>Training preferences</strong>: your plan, experience level, preferred units, equipment choices, and training schedule.</li>
         <li><strong>Progress data</strong>: personal records, volume trends, measurements, and progression history.</li>
-        <li><strong>Progress photos</strong>: photos you choose to capture for visual progress tracking.</li>
+        <li><strong>Check-in photos</strong>: Frame Check and Proof photos you choose to take. They are stored on your device only, are not uploaded, and are not scored or compared with anyone else.</li>
       </ul>
+
+      <h2>App analytics</h2>
+      <p>
+        Analytics is off unless you choose &quot;Share usage&quot; during setup or turn it on in Settings. If you do, Surpass sends limited product-usage events to Mixpanel. These events use a random app-scoped installation identifier and aggregate milestones such as app launches, onboarding steps, workout starts and completions, receipt views, and share actions. They do not include exercise names, sets, weights, notes, workout IDs, photos, files, health data, location, or contact details. Mixpanel processes them on our behalf, and they are not used for advertising or cross-app tracking. You can turn Analytics off in Settings at any time.
+      </p>
 
       <h2>Data storage</h2>
       <p>
-        Workout history, preferences, and progress evidence are stored on your device. If an Apple system feature such as iCloud or HealthKit is enabled, that data is handled through your Apple account and Apple settings.
+        Workout history, preferences, progress data and check-in photos are stored on your device. Surpass does not operate servers that store that personal workout data. If an Apple system feature such as iCloud or HealthKit is enabled, that data is handled through your Apple account and Apple settings.
       </p>
 
       <h2>HealthKit</h2>
