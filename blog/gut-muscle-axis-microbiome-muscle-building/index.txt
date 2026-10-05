@@ -1,15 +1,13 @@
 1:"$Sreact.fragment"
 c:I[68027,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default",1]
-2:T128e,
+2:T120b,
           .site-header {
             position: sticky;
             top: 0;
             z-index: 100;
             padding: 10px 18px;
-            background: rgba(5, 5, 5, 0.8);
+            background: #0b0b0a;
             border-bottom: 1px solid rgba(242, 238, 228, 0.1);
-            backdrop-filter: blur(18px) saturate(130%);
-            -webkit-backdrop-filter: blur(18px) saturate(130%);
           }
           .site-header-nav {
             width: min(1240px, 100%);
@@ -134,7 +132,7 @@ c:I[68027,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w
             .site-header-menu-toggle { min-height: 38px; }
           }
         a:X
-0:{"P":null,"c":["","blog","gut-muscle-axis-microbiome-muscle-building",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","gut-muscle-axis-microbiome-muscle-building","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0tf7m5w3n1x9v.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Surpass training library RSS feed","href":"/feed.xml"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6757132605, affiliate-data=pt=128406689&ct=smart_banner&mt=8"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5"]}],"$L6"]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"OI3w58_tgi7Ym_n5V855l"}
+0:{"P":null,"c":["","blog","gut-muscle-axis-microbiome-muscle-building",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","gut-muscle-axis-microbiome-muscle-building","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0tf7m5w3n1x9v.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/favicon-32.png","type":"image/png","sizes":"32x32"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"Surpass training library RSS feed","href":"/feed.xml"}],["$","meta",null,{"name":"apple-itunes-app","content":"app-id=6757132605, affiliate-data=pt=128406689&ct=smart_banner&mt=8"}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5"]}],"$L6"]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9GRqfxxZScTQs5cWq_x8X"}
 e:I[30101,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
 f:I[79520,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],""]
 10:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],""]
