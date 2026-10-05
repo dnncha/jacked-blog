@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_surpass_vs_fitbod&mt=8'
 
 export const metadata = {
-  title: 'Surpass vs Fitbod (2026): You Pick the Muscle, or the Algorithm Does | Surpass',
+  title: { absolute: 'Surpass vs Fitbod (2026): You Pick the Muscle, or the Algorithm Does | Surpass' },
   description: 'Fitbod’s algorithm picks each workout from your history and recovery. Surpass lets you pick the muscle you want people to notice, plans the week around it, and keeps private photos that show it. An honest comparison, with prices.',
   keywords: ['Surpass vs Fitbod', 'Fitbod alternative', 'Fitbod vs', 'Fitbod comparison', 'cheaper Fitbod alternative', 'physique workout app'],
   alternates: { canonical: 'https://jacked.coach/surpass-vs-fitbod/' },

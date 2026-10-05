@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_hypertrophy_app&mt=8'
 
 export const metadata = {
-  title: 'Hypertrophy App for iPhone | Surpass',
+  title: { absolute: 'Hypertrophy App for iPhone | Surpass' },
   description: 'Plan hypertrophy training, track hard sets by muscle, keep RIR and recent performance in view, and make a clearer next-set decision with Surpass for iPhone.',
   keywords: ['hypertrophy app iPhone', 'muscle building app', 'hypertrophy tracker', 'muscle gain workout tracker', 'volume tracking app'],
   alternates: { canonical: 'https://jacked.coach/hypertrophy-app/' },

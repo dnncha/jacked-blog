@@ -21,5 +21,10 @@ export const metadata = {
 }
 
 export default function Home() {
-  return <HomeClient />
+  return (
+    <>
+      <link rel="stylesheet" href="/home.css" precedence="default" />
+      <HomeClient />
+    </>
+  )
 }

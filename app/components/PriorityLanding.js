@@ -154,7 +154,7 @@ export function priorityMetadata(slug) {
   const page = PRIORITY_LANDINGS[slug]
   const url = `https://jacked.coach/${slug}/`
   return {
-    title: page.seoTitle,
+    title: { absolute: page.seoTitle },
     description: page.seoDescription,
     keywords: page.keywords,
     alternates: { canonical: url },

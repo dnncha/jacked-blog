@@ -2,7 +2,7 @@ import { Suspense } from 'react'
 import ProofClient from './proof.client'
 
 export const metadata = {
-  title: 'Workout Proof | Surpass',
+  title: { absolute: 'Workout Proof | Surpass' },
   description: 'A public workout receipt shared from Surpass.',
   robots: {
     index: false,

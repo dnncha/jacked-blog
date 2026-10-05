@@ -62,10 +62,8 @@ export default function RootLayout({ children }) {
             top: 0;
             z-index: 100;
             padding: 10px 18px;
-            background: rgba(5, 5, 5, 0.8);
+            background: #0b0b0a;
             border-bottom: 1px solid rgba(242, 238, 228, 0.1);
-            backdrop-filter: blur(18px) saturate(130%);
-            -webkit-backdrop-filter: blur(18px) saturate(130%);
           }
           .site-header-nav {
             width: min(1240px, 100%);

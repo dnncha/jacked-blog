@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_surpass_vs_hevy&mt=8'
 
 export const metadata = {
-  title: 'Surpass vs Hevy (2026): Physique Plan or Workout Log? | Surpass',
+  title: { absolute: 'Surpass vs Hevy (2026): Physique Plan or Workout Log? | Surpass' },
   description: 'Hevy is a free, social workout log. Surpass starts with the muscle you want people to notice, builds a training block for it, and keeps private photos that show it. An honest comparison, with prices.',
   keywords: ['Surpass vs Hevy', 'Hevy alternative', 'Hevy vs', 'Hevy comparison', 'physique workout app', 'Hevy progress photos'],
   alternates: { canonical: 'https://jacked.coach/surpass-vs-hevy/' },

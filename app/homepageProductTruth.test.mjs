@@ -10,7 +10,10 @@ const files = await Promise.all([
 ].map(async (path) => [path, await readFile(new URL(path, import.meta.url), 'utf8')]))
 
 const publicCopy = files.map(([, contents]) => contents).join('\n')
-const homepageClientSource = files.find(([path]) => path === './page.client.js')[1]
+const homepageClientSource = [
+  files.find(([path]) => path === './page.client.js')[1],
+  await readFile(new URL('../public/home.css', import.meta.url), 'utf8'),
+].join('\n')
 const layoutSource = files.find(([path]) => path === './layout.js')[1]
 const forbiddenClaims = [
   'progress photos',
@@ -32,7 +35,7 @@ for (const phrase of [
   'No account required',
   'Your workout history stays on your iPhone. Import it when you&apos;re ready.',
   'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=surpass_coach&mt=8',
-  '/marketing/screens/surpass-01-480.webp',
+  '/marketing/screens/surpass-01-480.avif',
   'Real Surpass interface · next-set target beside last time',
   'Every set has a target',
 ]) {
@@ -65,7 +68,7 @@ assert.match(homepageClientSource, /\.conversion-dock\[aria-hidden="true"\] \{ d
 assert.match(homepageClientSource, /\.conversion-dock-copy span \{ margin-top: 2px; color: #aaa294;/, 'mobile conversion support copy should retain its muted contrast')
 assert.match(homepageClientSource, /\.conversion-dock \.app-store-button > span \{ display: block; color: #11100c;/, 'mobile conversion button label should retain strong contrast')
 assert.match(homepageClientSource, /ariaLabel="Start free with Surpass on iPhone"/, 'mobile conversion CTA should expose its destination to assistive technology')
-assert.match(homepageClientSource, /<link rel="preload" as="image" href="\/marketing\/screens\/surpass-01-480\.webp" fetchPriority="high" precedence="default" \/>/, 'homepage hero image should be explicitly preloaded for the first viewport')
+assert.match(homepageClientSource, /<link[\s\S]*rel="preload"[\s\S]*as="image"[\s\S]*type="image\/avif"[\s\S]*surpass-01-480\.avif 480w[\s\S]*imageSizes="\(max-width: 760px\) 240px, 320px"[\s\S]*fetchPriority="high"[\s\S]*\/>/, 'homepage hero image should preload the AVIF the browser displays')
 assert.match(homepageClientSource, /HOMEPAGE_HERO_EXPERIMENT = Object\.freeze/, 'homepage hero CTA should have an explicit experiment contract')
 assert.match(homepageClientSource, /name: 'homepage_hero_cta'/, 'homepage hero CTA should use the predeclared experiment name')
 assert.match(homepageClientSource, /storageKey: 'surpass:experiment:homepage-hero-cta:v1'/, 'homepage hero assignment should use a bounded first-party storage key')

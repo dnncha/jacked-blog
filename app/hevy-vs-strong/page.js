@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_hevy_vs_strong&mt=8'
 
 export const metadata = {
-  title: 'Hevy vs Strong: A Fair Comparison | Surpass',
+  title: { absolute: 'Hevy vs Strong: A Fair Comparison | Surpass' },
   description: 'Hevy and Strong compared on 5 October 2026: price, free limits, accounts, Apple Watch, and where a no-account gym log with next-set targets fits.',
   keywords: ['Hevy vs Strong', 'Strong vs Hevy', 'Hevy alternative', 'Strong alternative', 'next set targets'],
   alternates: { canonical: 'https://jacked.coach/hevy-vs-strong/' },
