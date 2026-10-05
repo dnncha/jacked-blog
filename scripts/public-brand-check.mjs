@@ -93,7 +93,7 @@ async function fetchPage(url) {
       headers: {
         accept: 'text/html,application/xhtml+xml',
         'cache-control': 'no-cache',
-        'user-agent': 'SurpassPublicBrandCheck/1.0 (+https://jacked.coach/support)',
+        'user-agent': 'SurpassPublicBrandCheck/1.0 (+https://jacked.coach/support/)',
       },
       redirect: 'follow',
     })

@@ -19,12 +19,12 @@ export async function generateMetadata({ params }) {
     title: tool.title,
     description: tool.metaDescription,
     alternates: {
-      canonical: `https://jacked.coach/tools/${tool.slug}`,
+      canonical: `https://jacked.coach/tools/${tool.slug}/`,
     },
     openGraph: {
       title: tool.title,
       description: tool.metaDescription,
-      url: `https://jacked.coach/tools/${tool.slug}`,
+      url: `https://jacked.coach/tools/${tool.slug}/`,
       images: [
         {
           url: toolSocialImageUrl(tool.slug),
@@ -57,13 +57,13 @@ export default async function ToolPage({ params }) {
         '@type': 'WebPage',
         name: tool.title,
         description: tool.metaDescription,
-        url: `https://jacked.coach/tools/${tool.slug}`,
+        url: `https://jacked.coach/tools/${tool.slug}/`,
         breadcrumb: {
           '@type': 'BreadcrumbList',
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://jacked.coach/' },
-            { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://jacked.coach/tools' },
-            { '@type': 'ListItem', position: 3, name: tool.name, item: `https://jacked.coach/tools/${tool.slug}` },
+            { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://jacked.coach/tools/' },
+            { '@type': 'ListItem', position: 3, name: tool.name, item: `https://jacked.coach/tools/${tool.slug}/` },
           ],
         },
       },
@@ -73,8 +73,16 @@ export default async function ToolPage({ params }) {
         description: tool.metaDescription,
         applicationCategory: 'HealthApplication',
         operatingSystem: 'Web',
-        url: `https://jacked.coach/tools/${tool.slug}`,
+        url: `https://jacked.coach/tools/${tool.slug}/`,
         offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+      },
+      {
+        '@type': 'FAQPage',
+        mainEntity: tool.faqs.map(([question, answer]) => ({
+          '@type': 'Question',
+          name: question,
+          acceptedAnswer: { '@type': 'Answer', text: answer },
+        })),
       },
     ],
   }

@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Hypertrophy App for iPhone | Surpass',
   description: 'Plan hypertrophy training, track hard sets by muscle, keep RIR and recent performance in view, and make a clearer next-set decision with Surpass for iPhone.',
   keywords: ['hypertrophy app iPhone', 'muscle building app', 'hypertrophy tracker', 'muscle gain workout tracker', 'volume tracking app'],
-  alternates: { canonical: 'https://jacked.coach/hypertrophy-app' },
+  alternates: { canonical: 'https://jacked.coach/hypertrophy-app/' },
   openGraph: {
     title: 'Hypertrophy App for iPhone | Surpass',
     description: 'Keep weekly muscle targets, recent performance, rep ranges, and effort context close to the next working set.',
-    url: 'https://jacked.coach/hypertrophy-app',
+    url: 'https://jacked.coach/hypertrophy-app/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass hypertrophy training app for iPhone' }],
   },
   twitter: {
@@ -55,8 +55,8 @@ export default function HypertrophyAppPage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_hypertrophy_app"
     canonicalPath="/hypertrophy-app"
-    heroImage="/marketing/surpass-progress.png"
-    heroImageAlt="Surpass progress screen showing lift history and weekly muscle coverage"
+    heroImage="/marketing/screens/surpass-04-480.webp"
+    heroImageAlt="Surpass workout summary screenshot leading with personal records"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="More useful context before the next working set."

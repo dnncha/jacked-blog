@@ -56,7 +56,7 @@ export async function runPublicBrandCrawl({
     headers: {
       accept: 'application/xml,text/xml',
       'cache-control': 'no-cache',
-      'user-agent': 'SurpassPublicBrandCrawl/1.0 (+https://jacked.coach/support)',
+      'user-agent': 'SurpassPublicBrandCrawl/1.0 (+https://jacked.coach/support/)',
     },
   })
   const sitemap = await sitemapResponse.text()
@@ -75,7 +75,7 @@ export async function runPublicBrandCrawl({
           headers: {
             accept: 'text/html,application/xhtml+xml',
             'cache-control': 'no-cache',
-            'user-agent': 'SurpassPublicBrandCrawl/1.0 (+https://jacked.coach/support)',
+            'user-agent': 'SurpassPublicBrandCrawl/1.0 (+https://jacked.coach/support/)',
           },
           redirect: 'follow',
         })

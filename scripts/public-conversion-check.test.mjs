@@ -50,7 +50,7 @@ const acquisitionFixture = `
   </div>
 `
 
-const acquisitionReady = auditAcquisitionConversionHtml(acquisitionFixture, { url: 'https://jacked.coach/workout-tracker' })
+const acquisitionReady = auditAcquisitionConversionHtml(acquisitionFixture, { url: 'https://jacked.coach/workout-tracker/' })
 assert.equal(acquisitionReady.status, 'pass')
 assert.equal(acquisitionReady.final_cta_present, true)
 assert.equal(acquisitionReady.mobile_dock_hidden_before_hydration, true)
@@ -58,7 +58,7 @@ assert.equal(acquisitionReady.mobile_dock_hidden_before_hydration, true)
 const acquisitionMissing = auditAcquisitionConversionHtml(acquisitionFixture
   .replace('data-experiment-variant="sticky_outcome_v1"', '')
   .replace('.acquisition-mobile-dock[aria-hidden="true"] { display: none; }', ''), {
-    url: 'https://jacked.coach/workout-tracker',
+    url: 'https://jacked.coach/workout-tracker/',
   })
 assert.equal(acquisitionMissing.status, 'fail')
 assert.ok(acquisitionMissing.failures.includes('acquisition mobile dock CTA is missing its outcome variant'))

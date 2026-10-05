@@ -1,7 +1,11 @@
 import assert from 'node:assert/strict'
 import { readFile } from 'node:fs/promises'
 
-const source = await readFile(new URL('./layout.js', import.meta.url), 'utf8')
+const layoutSource = await readFile(new URL('./layout.js', import.meta.url), 'utf8')
+const analyticsSource = await readFile(new URL('../public/surpass-analytics.js', import.meta.url), 'utf8')
+const source = `${layoutSource}\n${analyticsSource}`
+
+assert.ok(layoutSource.includes('src="/surpass-analytics.js"'), 'layout should load the external analytics file instead of an inline Mixpanel script')
 
 assert.ok(source.includes('mixpanel.init'), 'layout should initialize Mixpanel')
 assert.ok(source.includes('track_pageview:false'), 'Mixpanel should not add an automatic pageview stream outside the canonical event contract')

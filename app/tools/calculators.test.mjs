@@ -10,6 +10,7 @@ import {
   calculateBackoffSets,
   calculateHevyImportPreview,
   calculateNextSet,
+  planProgressiveOverload,
   calculateOneRepMax,
   calculatePlateLoad,
   calculateRirTarget,
@@ -36,6 +37,24 @@ assert.equal(nextSet.targetWeight, 82.5)
 assert.equal(nextSet.targetRepText, '8-10')
 assert.match(nextSet.reason, /top of the rep range/i)
 assert.equal(nextSet.confidence.label, 'High confidence')
+
+const overloadPlan = planProgressiveOverload({
+  weight: 80,
+  reps: 8,
+  minReps: 6,
+  maxReps: 10,
+  weeks: 4,
+  increment: 2.5,
+})
+assert.equal(overloadPlan.weeks.length, 4)
+assert.deepEqual(overloadPlan.weeks.map((week) => [week.weight, week.reps]), [
+  [80, 8],
+  [80, 9],
+  [80, 10],
+  [82.5, 6],
+])
+assert.match(overloadPlan.citation, /Epley \(1985\)/)
+assert.match(overloadPlan.citation, /Brzycki \(1993\)/)
 
 const reversedRange = calculateNextSet({
   weight: 80,
@@ -307,6 +326,7 @@ assert.equal(strengthLevel.confidence.label, 'High confidence')
 function calculateDefaultForTool(tool) {
   const values = tool.defaults
   if (tool.type === 'next-set') return calculateNextSet(values)
+  if (tool.type === 'overload-plan') return planProgressiveOverload(values)
   if (tool.type === 'rir') return calculateRirTarget(values)
   if (tool.type === 'one-rm') return calculateOneRepMax(values)
   if (tool.type === 'strength-level') return calculateStrengthLevel(values)

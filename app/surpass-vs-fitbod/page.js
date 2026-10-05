@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Surpass vs Fitbod (2026): You Pick the Muscle, or the Algorithm Does | Surpass',
   description: 'Fitbod’s algorithm picks each workout from your history and recovery. Surpass lets you pick the muscle you want people to notice, plans the week around it, and keeps private photos that show it. An honest comparison, with prices.',
   keywords: ['Surpass vs Fitbod', 'Fitbod alternative', 'Fitbod vs', 'Fitbod comparison', 'cheaper Fitbod alternative', 'physique workout app'],
-  alternates: { canonical: 'https://jacked.coach/surpass-vs-fitbod' },
+  alternates: { canonical: 'https://jacked.coach/surpass-vs-fitbod/' },
   openGraph: {
     title: 'Surpass vs Fitbod: you pick the muscle, or the algorithm does',
     description: 'An honest comparison of Surpass and Fitbod for lifters who want to look bigger.',
-    url: 'https://jacked.coach/surpass-vs-fitbod',
+    url: 'https://jacked.coach/surpass-vs-fitbod/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass compared with Fitbod' }],
   },
   twitter: {

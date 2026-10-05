@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Strong Alternative for iPhone | Import Strong CSV',
   description: 'Export Strong workout data as CSV, review it in Surpass before saving, and continue on iPhone with workout history, lift progress, and next-set targets.',
   keywords: ['Strong alternative iPhone', 'import Strong CSV', 'Strong workout data export', 'switch from Strong app', 'workout tracker CSV import'],
-  alternates: { canonical: 'https://jacked.coach/strong-alternative' },
+  alternates: { canonical: 'https://jacked.coach/strong-alternative/' },
   openGraph: {
     title: 'Move Your Strong Workout History to Surpass',
     description: 'Import a supported English Strong CSV into Surpass without rebuilding every workout.',
-    url: 'https://jacked.coach/strong-alternative',
+    url: 'https://jacked.coach/strong-alternative/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Import Strong workout history into Surpass on iPhone' }],
   },
   twitter: {
@@ -55,8 +55,8 @@ export default function StrongAlternativePage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_strong_alternative"
     canonicalPath="/strong-alternative"
-    heroImage="/marketing/surpass-home.png"
-    heroImageAlt="Surpass import screen showing Hevy, Strong, and FitNotes workout CSV sources"
+    heroImage="/marketing/screens/surpass-01-480.webp"
+    heroImageAlt="Surpass screenshot with a next-set target beside what you lifted last time"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="Use the export Strong already provides."

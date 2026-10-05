@@ -30,7 +30,8 @@ function getPosts() {
 }
 
 function staticUrl(loc, changefreq, priority) {
-  return { loc: `https://jacked.coach${loc}`, changefreq, priority }
+  const path = loc === '/' ? '/' : `${String(loc).replace(/\/$/, '')}/`
+  return { loc: `https://jacked.coach${path}`, changefreq, priority }
 }
 
 export async function GET() {
@@ -60,17 +61,20 @@ export async function GET() {
     staticUrl('/whole-frame', 'weekly', '0.95'),
     staticUrl('/press', 'monthly', '0.7'),
     staticUrl('/about', 'monthly', '0.6'),
+    staticUrl('/hevy-vs-strong', 'weekly', '0.95'),
+    staticUrl('/import-hevy', 'weekly', '0.95'),
+    staticUrl('/import-strong', 'weekly', '0.95'),
     staticUrl('/support', 'monthly', '0.6'),
     staticUrl('/accessibility', 'monthly', '0.6'),
     staticUrl('/privacy', 'yearly', '0.4'),
     staticUrl('/terms', 'yearly', '0.4'),
     ...tools.map(tool => ({
-      loc: `https://jacked.coach/tools/${tool.slug}`,
+      loc: `https://jacked.coach/tools/${tool.slug}/`,
       changefreq: 'weekly',
       priority: '0.9',
     })),
     ...posts.map(post => ({
-      loc: `https://jacked.coach/blog/${post.slug}`,
+      loc: `https://jacked.coach/blog/${post.slug}/`,
       lastmod: post.updatedAt || post.date,
       changefreq: post.slug === 'alternatives-to-rp-hypertrophy-app' ? 'weekly' : 'monthly',
       priority: post.slug === 'alternatives-to-rp-hypertrophy-app' ? '0.95' : '0.8',

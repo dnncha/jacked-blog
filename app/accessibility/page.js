@@ -5,12 +5,12 @@ export const metadata = {
   title: 'Accessibility',
   description: 'Accessibility information for Surpass on iPhone and iPad, including verified Dark Interface support and the current evaluation status of other features.',
   alternates: {
-    canonical: 'https://jacked.coach/accessibility',
+    canonical: 'https://jacked.coach/accessibility/',
   },
   openGraph: {
     title: 'Accessibility | Surpass',
     description: 'Verified accessibility support and current evaluation status for Surpass on iPhone and iPad.',
-    url: 'https://jacked.coach/accessibility',
+    url: 'https://jacked.coach/accessibility/',
   },
 }
 
@@ -29,7 +29,7 @@ export default function AccessibilityPage() {
     '@type': 'WebPage',
     name: 'Surpass accessibility',
     description: 'Accessibility information for the Surpass workout tracker on iPhone and iPad.',
-    url: 'https://jacked.coach/accessibility',
+    url: 'https://jacked.coach/accessibility/',
     isPartOf: {
       '@type': 'WebSite',
       name: 'Surpass',

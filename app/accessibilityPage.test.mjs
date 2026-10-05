@@ -5,7 +5,7 @@ const page = await readFile(new URL('./accessibility/page.js', import.meta.url),
 const sitemap = await readFile(new URL('./sitemap.xml/route.js', import.meta.url), 'utf8')
 const support = await readFile(new URL('./support/page.js', import.meta.url), 'utf8')
 
-assert.ok(page.includes("canonical: 'https://jacked.coach/accessibility'"), 'accessibility page must use the canonical URL')
+assert.ok(page.includes("canonical: 'https://jacked.coach/accessibility/'"), 'accessibility page must use the canonical URL')
 assert.ok(page.includes('App Store Connect lists Dark Interface as supported for both device families.'), 'verified support must be concrete')
 assert.ok(page.includes('does not currently declare support'), 'unverified features must be clearly bounded')
 assert.ok(page.includes('Do not rely on them for every common task'), 'the page must not imply broader support')

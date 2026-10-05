@@ -34,7 +34,7 @@ for (const [route, page] of Object.entries(comparisonPages)) {
   assert.ok(layout.includes(`href="${route}"`), `${route} must be linked sitewide`)
   assert.ok(source.includes(`ct=${page.campaign}&mt=8`), `${route} must use an attributed App Store URL`)
   assert.ok(source.includes(`canonicalPath="${route}"`), `${route} must set its canonical schema path`)
-  assert.ok(source.includes(`canonical: 'https://jacked.coach${route}'`), `${route} must set its canonical URL`)
+  assert.ok(source.includes(`canonical: 'https://jacked.coach${route}/'`), `${route} must set its canonical URL`)
   assert.ok(source.includes('sources={sources}'), `${route} must cite where competitor facts came from`)
   assert.ok(source.includes('checked on 29 September 2026'), `${route} must date its competitor facts`)
   assert.ok(source.includes(page.rival), `${route} must name the compared product`)

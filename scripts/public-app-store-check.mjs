@@ -127,7 +127,7 @@ async function fetchListing(url) {
       headers: {
         accept: 'text/html,application/xhtml+xml',
         'cache-control': 'no-cache',
-        'user-agent': 'SurpassPublicAppStoreCheck/1.0 (+https://jacked.coach/support)',
+        'user-agent': 'SurpassPublicAppStoreCheck/1.0 (+https://jacked.coach/support/)',
       },
       redirect: 'follow',
     })

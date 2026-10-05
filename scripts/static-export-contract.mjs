@@ -1,5 +1,6 @@
 import { readFile, readdir } from 'node:fs/promises'
 import path from 'node:path'
+import { flightRowProblems } from './flight-rows.mjs'
 
 const exportDirectory = path.resolve(
   process.argv[2] || process.env.JACKED_STATIC_EXPORT_DIR || 'out',
@@ -112,6 +113,10 @@ for (const absolutePath of [...htmlFiles, ...textFiles]) {
   const externalFlight = await readFile(path.join(exportDirectory, flightPath), 'utf8')
   if (flight !== externalFlight) {
     failures.push(`${filePath}: inline Flight payload differs from ${flightPath}`)
+  }
+
+  for (const problem of flightRowProblems(flight)) {
+    failures.push(`${filePath}: ${problem}`)
   }
 }
 

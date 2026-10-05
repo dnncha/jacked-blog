@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import { Download } from 'lucide-react'
+import AppScreenshot from './AppScreenshot'
 
 function campaignFromHref(href) {
   try {
@@ -112,7 +113,7 @@ export default function AcquisitionLanding({
     '@type': 'WebPage',
     name: title,
     description: intro,
-    url: `https://jacked.coach${canonicalPath}`,
+    url: `https://jacked.coach${canonicalPath === '/' ? '/' : `${canonicalPath.replace(/\/$/, '')}/`}`,
     isPartOf: { '@type': 'WebSite', name: 'Surpass', url: 'https://jacked.coach' },
     about: {
       '@type': 'SoftwareApplication',
@@ -447,7 +448,9 @@ export default function AcquisitionLanding({
 
       <section className="acquisition-section soft">
         <div className="acquisition-wrap acquisition-flow">
-          <img className={`acquisition-photo ${heroPresentation}`} src={heroImage} alt={heroImageAlt} loading="lazy" decoding="async" />
+          {/\/marketing\/screens\/surpass-(\d{2})-/.test(heroImage)
+            ? <AppScreenshot className={`acquisition-photo ${heroPresentation}`} index={Number(heroImage.match(/surpass-(\d{2})-/)[1])} alt={heroImageAlt} sizes="(max-width: 760px) 70vw, 280px" />
+            : <img className={`acquisition-photo ${heroPresentation}`} src={heroImage} alt={heroImageAlt} width={1287} height={2796} loading="lazy" decoding="async" />}
           <div>
             <div className="acquisition-heading">
               <h2>{flowTitle}</h2>

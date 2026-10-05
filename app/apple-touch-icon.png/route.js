@@ -1,30 +1,14 @@
-import { ImageResponse } from 'next/og'
+import { readFile } from 'node:fs/promises'
+import path from 'node:path'
 
 export const dynamic = 'force-static'
 
-export function GET() {
-  const response = new ImageResponse(
-    (
-      <div
-        style={{
-          width: '100%',
-          height: '100%',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          background: '#050505',
-          color: '#e2c95f',
-          fontSize: 82,
-          fontWeight: 900,
-          letterSpacing: -4,
-        }}
-      >
-        S
-      </div>
-    ),
-    { width: 180, height: 180 },
-  )
-
-  response.headers.set('Cache-Control', 'public, max-age=86400, stale-while-revalidate=604800')
-  return response
+export async function GET() {
+  const file = await readFile(path.join(process.cwd(), 'public/apple-touch-icon.png'))
+  return new Response(file, {
+    headers: {
+      'Content-Type': 'image/png',
+      'Cache-Control': 'public, max-age=31536000, immutable',
+    },
+  })
 }

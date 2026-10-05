@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Gym Workout Planner for iPhone with Next-Set Targets',
   description: 'Plan your training split, set rep ranges and weekly muscle targets, log each workout, and use recent performance to guide the next set with Surpass for iPhone.',
   keywords: ['gym workout planner', 'workout planner iPhone', 'weight lifting planner', 'gym routine planner', 'strength training planner'],
-  alternates: { canonical: 'https://jacked.coach/gym-workout-planner' },
+  alternates: { canonical: 'https://jacked.coach/gym-workout-planner/' },
   openGraph: {
     title: 'Gym Workout Planner for iPhone with Next-Set Targets',
     description: 'Plan the workout, log the result, and carry recent performance into the next load and rep target.',
-    url: 'https://jacked.coach/gym-workout-planner',
+    url: 'https://jacked.coach/gym-workout-planner/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass gym workout planner for iPhone' }],
   },
   twitter: {
@@ -54,8 +54,8 @@ export default function GymWorkoutPlannerPage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_gym_workout_planner"
     canonicalPath="/gym-workout-planner"
-    heroImage="/marketing/surpass-home.png"
-    heroImageAlt="Surpass showing a planned Push A workout with target load, rep range, RIR, and previous result"
+    heroImage="/marketing/screens/surpass-07-480.webp"
+    heroImageAlt="Surpass screenshot of a weekly plan that fits the training week"
     heroPresentation="screen"
     benefits={benefits}
     steps={steps}

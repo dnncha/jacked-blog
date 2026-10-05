@@ -1,110 +1,43 @@
-'use client'
-
-import { useState } from 'react'
-
 export default function NewsletterSignup() {
-  const [email, setEmail] = useState('')
-  const [status, setStatus] = useState(null) // null, 'loading', 'success', 'error'
-  const [message, setMessage] = useState('')
-
-  const handleSubmit = async (e) => {
-    e.preventDefault()
-    if (!email) return
-    
-    setStatus('loading')
-    
-    try {
-      const res = await fetch('/api/subscribe', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email })
-      })
-      
-      const data = await res.json()
-      
-      if (res.ok) {
-        setStatus('success')
-        setMessage('You\'re in! We\'ll send you fitness science updates.')
-        setEmail('')
-      } else {
-        setStatus('error')
-        setMessage(data.error || 'Something went wrong')
-      }
-    } catch (err) {
-      setStatus('error')
-      setMessage('Failed to subscribe. Try again.')
-    }
-  }
-
-  if (status === 'success') {
-    return (
-      <div style={{
-        background: '#d4edda',
-        border: '1px solid #c3e6cb',
-        borderRadius: '8px',
-        padding: '1.5rem',
-        textAlign: 'center'
-      }}>
-        <div style={{ fontSize: '2rem', marginBottom: '0.5rem' }}>✅</div>
-        <p style={{ color: '#155724', margin: 0, fontWeight: '500' }}>{message}</p>
-      </div>
-    )
-  }
-
   return (
-    <div style={{
-      background: '#1a1a1a',
-      borderRadius: '12px',
+    <section style={{
+      background: 'linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%)',
+      border: '1px solid #333',
+      borderRadius: '16px',
       padding: '2rem',
+      margin: '3rem 0',
       textAlign: 'center',
-      color: 'white'
     }}>
-      <h3 style={{ margin: '0 0 0.5rem 0', fontSize: '1.4rem' }}>
-        Get Surpass in Your Inbox
+      <h3 style={{
+        fontSize: '1.5rem',
+        fontWeight: '700',
+        marginBottom: '0.5rem',
+        background: 'linear-gradient(135deg, #fff 0%, #a0a0a0 100%)',
+        WebkitBackgroundClip: 'text',
+        WebkitTextFillColor: 'transparent',
+      }}>
+        Questions about Surpass
       </h3>
-      <p style={{ color: '#999', margin: '0 0 1.5rem 0' }}>
-        Science-backed fitness tips. No spam. Unsubscribe anytime.
+      <p style={{ color: '#888', marginBottom: '1.5rem' }}>
+        Email support. This site does not collect a newsletter list.
       </p>
-      
-      <form onSubmit={handleSubmit} style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', justifyContent: 'center' }}>
-        <input
-          type="email"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          placeholder="your@email.com"
-          required
-          disabled={status === 'loading'}
-          style={{
-            padding: '0.75rem 1rem',
-            borderRadius: '8px',
-            border: 'none',
-            fontSize: '1rem',
-            width: '200px',
-            maxWidth: '100%'
-          }}
-        />
-        <button
-          type="submit"
-          disabled={status === 'loading'}
-          style={{
-            padding: '0.75rem 1.5rem',
-            borderRadius: '8px',
-            border: 'none',
-            background: '#4CAF50',
-            color: 'white',
-            fontSize: '1rem',
-            fontWeight: 'bold',
-            cursor: status === 'loading' ? 'not-allowed' : 'pointer',
-            opacity: status === 'loading' ? 0.7 : 1
-          }}
-        >
-          {status === 'loading' ? 'Joining...' : 'Subscribe'}
-        </button>
-      </form>
-      
-      {status === 'error' && (
-        <p style={{ color: '#ff6b6b', margin: '1rem 0 0 0', fontSize: '0.9rem' }}>{message}</p>
-      )}
-    </div>
+      <a
+        href="mailto:support@jacked.coach"
+        style={{
+          display: 'inline-flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          minHeight: '48px',
+          padding: '0 1.25rem',
+          background: 'linear-gradient(135deg, #e8ff47 0%, #c8e000 100%)',
+          color: '#000',
+          fontWeight: '700',
+          borderRadius: '8px',
+          textDecoration: 'none',
+        }}
+      >
+        support@jacked.coach
+      </a>
+    </section>
   )
 }

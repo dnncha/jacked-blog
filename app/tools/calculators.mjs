@@ -1480,3 +1480,44 @@ export function calculateHevyImportPreview(csvText) {
     privacy: 'The CSV is parsed in your browser. Nothing is uploaded. No account required. No server storage.',
   }
 }
+
+export function planProgressiveOverload({
+  weight,
+  reps,
+  minReps = 6,
+  maxReps = 10,
+  weeks = 6,
+  increment = DEFAULT_INCREMENT,
+}) {
+  const step = Math.max(numeric(increment, DEFAULT_INCREMENT), 0.5)
+  const low = Math.max(Math.round(numeric(minReps, 6)), 1)
+  const high = Math.max(Math.round(numeric(maxReps, low)), low)
+  const count = Math.min(Math.max(Math.round(numeric(weeks, 6)), 1), 12)
+  let load = roundToIncrement(Math.max(numeric(weight), 0), step)
+  let targetReps = Math.min(Math.max(Math.round(numeric(reps, low)), low), high)
+  const plan = []
+
+  for (let week = 1; week <= count; week += 1) {
+    const atTop = targetReps >= high
+    plan.push({
+      week,
+      weight: load,
+      reps: targetReps,
+      decision: atTop
+        ? 'Add load next week and return to the bottom of the range'
+        : 'Add a rep next week at the same load',
+    })
+    if (atTop) {
+      load = roundToIncrement(load + step, step)
+      targetReps = low
+    } else {
+      targetReps += 1
+    }
+  }
+
+  return {
+    weeks: plan,
+    rule: 'Double progression: add a rep until the top of the range, then add the smallest load jump and start again at the bottom.',
+    citation: 'Epley (1985) and Brzycki (1993) estimate a one-rep max from submaximal reps. This planner does not need that estimate. It schedules the next weeks from the rep range you set.',
+  }
+}

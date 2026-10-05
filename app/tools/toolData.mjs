@@ -12,7 +12,7 @@ export const toolGroups = [
   },
   {
     title: 'Most useful for planning',
-    items: ['strength-level-calculator', 'weekly-volume-checker', 'one-rep-max-calculator', 'exercise-swap-finder', 'hevy-import-checker', 'strong-csv-import-checker', 'fitnotes-csv-import-checker', 'workout-csv-validator'],
+    items: ['progressive-overload-planner', 'strength-level-calculator', 'weekly-volume-checker', 'one-rep-max-calculator', 'exercise-swap-finder', 'hevy-import-checker', 'strong-csv-import-checker', 'fitnotes-csv-import-checker', 'workout-csv-validator'],
   },
 ]
 
@@ -131,10 +131,47 @@ const coreTools = [
       '80 kg x 10 @ 2 RIR estimates around 114 kg e1RM, but the next useful target may still be a small rep-range progression.',
     ],
     faqs: [
-      ['Which 1RM formula should I use?', 'The Surpass average uses Epley and Brzycki when valid. You can also view Epley, Brzycki, or Lander directly.'],
+      ['Which 1RM formula should I use?', 'The Surpass average uses Epley (1985) and Brzycki (1993) when valid. You can also view Epley, Brzycki, or Lander directly.'],
       ['Can I use this for bench, squat, and deadlift?', 'Yes. Exercise-specific pages can add better examples, but the calculator works for any lift.'],
     ],
-    related: ['next-set-calculator', 'rir-calculator', 'plate-calculator'],
+    related: ['next-set-calculator', 'rir-calculator', 'plate-calculator', 'progressive-overload-planner'],
+  },
+  {
+    slug: 'progressive-overload-planner',
+    type: 'overload-plan',
+    name: 'Progressive Overload Planner',
+    title: 'Progressive Overload Planner: Plan the Next Weeks of Double Progression',
+    metaDescription: 'Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make.',
+    h1: 'Progressive Overload Planner',
+    promise: 'Turn the last set into the next few weeks.',
+    intro: 'Enter the set you just finished. The planner adds a rep each week until you hit the top of the range, then adds load and starts again. Epley (1985) and Brzycki (1993) estimate a one-rep max; this planner does not. It only schedules the range you set.',
+    primaryKeyword: 'progressive overload planner',
+    campaign: 'progressive_overload_planner',
+    defaults: {
+      exercise: 'Bench press',
+      units: 'kg',
+      weight: 80,
+      reps: 8,
+      minReps: 6,
+      maxReps: 10,
+      weeks: 6,
+      increment: 2.5,
+    },
+    sections: [
+      ['What double progression means', 'Stay at the same load and add a rep until you reach the top of the range. Then add the smallest useful load and return to the bottom of the range.'],
+      ['Why this is not a 1RM forecast', 'Epley (1985) and Brzycki (1993) turn a hard set into an estimated max. A weekly plan can be useful without that estimate, because the decision is repeat, add a rep, or add load.'],
+      ['How to use the weeks', 'Treat each row as the target for that week, not a promise. If the set is far harder than the range, hold the load instead of following the next row.'],
+      ['Where Surpass does this in the gym', 'Surpass shows the next-set target beside last time while you train, so you do not have to reopen this planner between sets.'],
+    ],
+    examples: [
+      '80 kg x 8 in a 6–10 range, 2.5 kg jumps: week 1 is 80 x 8, then 80 x 9, 80 x 10, then 82.5 x 6.',
+      'If you already finished at the top of the range, the next week adds load and resets to the bottom.',
+    ],
+    faqs: [
+      ['Is this a progressive overload calculator?', 'Yes. It plans several weeks of double progression from one completed set.'],
+      ['Does it use Epley or Brzycki?', 'No. Those formulas estimate a one-rep max. This planner only walks the rep range and load jump you enter. The 1RM calculator cites Epley (1985) and Brzycki (1993) when you want the estimate.'],
+    ],
+    related: ['next-set-calculator', 'one-rep-max-calculator', 'plate-calculator'],
   },
   {
     slug: 'strength-level-calculator',

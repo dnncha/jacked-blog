@@ -11,6 +11,7 @@ import {
   calculateBackoffSets,
   calculateHevyImportPreview,
   calculateNextSet,
+  planProgressiveOverload,
   calculateOneRepMax,
   calculatePlateLoad,
   calculateRirTarget,
@@ -66,6 +67,7 @@ function resultHandoffCopy(tool) {
   if (tool.type === 'next-set') return 'Keep the next target beside your set log, history, and rest timer.'
   if (tool.type === 'rir') return 'Keep the target load and effort together while you train.'
   if (tool.type === 'one-rm' || tool.type === 'strength-level') return 'Turn this estimate into a repeatable training target.'
+  if (tool.type === 'overload-plan') return 'Keep each week’s target beside the set, instead of in a spreadsheet.'
   if (tool.type === 'split' || tool.type === 'volume' || tool.type === 'deload') return 'Use this decision to shape the next training block.'
   return 'Keep this decision beside the set where you use it.'
 }
@@ -192,6 +194,7 @@ function useToolState(tool) {
 
 function resultFor(tool, values) {
   if (tool.type === 'next-set') return calculateNextSet(values)
+  if (tool.type === 'overload-plan') return planProgressiveOverload(values)
   if (tool.type === 'rir') return calculateRirTarget(values)
   if (tool.type === 'one-rm') return calculateOneRepMax(values)
   if (tool.type === 'strength-level') return calculateStrengthLevel(values)
@@ -288,6 +291,18 @@ export default function ToolCalculator({ tool }) {
             <span>Exercise</span>
             <input type="text" name="exercise" value={values.exercise || ''} onChange={(event) => updateValue('exercise', event.target.value)} />
           </label>
+        )}
+
+        {tool.type === 'overload-plan' && (
+          <>
+            <SelectField label="Units" name="units" value={values.units} onChange={updateValue} options={['kg', 'lb']} />
+            <NumberField label="Last set weight" name="weight" value={values.weight} onChange={updateValue} min="0" />
+            <NumberField label="Last set reps" name="reps" value={values.reps} onChange={updateValue} min="1" />
+            <NumberField label="Rep range min" name="minReps" value={values.minReps} onChange={updateValue} min="1" />
+            <NumberField label="Rep range max" name="maxReps" value={values.maxReps} onChange={updateValue} min="1" />
+            <NumberField label="Weeks to plan" name="weeks" value={values.weeks} onChange={updateValue} min="1" />
+            <NumberField label="Load jump" name="increment" value={values.increment} onChange={updateValue} min="0.5" />
+          </>
         )}
 
         {tool.type === 'next-set' && (
@@ -526,6 +541,17 @@ export default function ToolCalculator({ tool }) {
           </a>
         </div>
         <p className="tool-result-handoff">{resultHandoffCopy(tool)}</p>
+        {tool.type === 'overload-plan' && (
+          <>
+            <h2>{result.weeks[0] ? `${formatLoad(result.weeks[0].weight, units)} x ${result.weeks[0].reps}` : 'Plan'}</h2>
+            <p>{result.rule}</p>
+            {result.weeks.map((week) => (
+              <ResultLine key={week.week} label={`Week ${week.week}`}>{formatLoad(week.weight, units)} x {week.reps}. {week.decision}</ResultLine>
+            ))}
+            <p className="tool-muted">{result.citation}</p>
+          </>
+        )}
+
         {tool.type === 'next-set' && (
           <>
             <h2>{formatLoad(result.targetWeight, units)} x {result.targetRepText} @ {result.targetRir} RIR</h2>

@@ -6,12 +6,12 @@ export const metadata = {
   title: 'Free Strength and Hypertrophy Training Tools',
   description: 'Free lifting calculators for strength levels, next-set targets, RIR, 1RM, plates, warm-ups, weekly volume, deloads, and workout splits.',
   alternates: {
-    canonical: 'https://jacked.coach/tools',
+    canonical: 'https://jacked.coach/tools/',
   },
   openGraph: {
     title: 'Free Strength and Hypertrophy Training Tools',
     description: 'Compare strength levels, calculate your next set, estimate 1RM, plan warm-ups, load plates, and run the session inside Surpass.',
-    url: 'https://jacked.coach/tools',
+    url: 'https://jacked.coach/tools/',
     images: [
       {
         url: '/og-image.png',
@@ -57,12 +57,12 @@ export default function ToolsHub() {
         '@type': 'WebPage',
         name: 'Free Strength and Hypertrophy Training Tools',
         description: metadata.description,
-        url: 'https://jacked.coach/tools',
+        url: 'https://jacked.coach/tools/',
         breadcrumb: {
           '@type': 'BreadcrumbList',
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://jacked.coach/' },
-            { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://jacked.coach/tools' },
+            { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://jacked.coach/tools/' },
           ],
         },
       },
@@ -73,7 +73,7 @@ export default function ToolsHub() {
           '@type': 'ListItem',
           position: index + 1,
           name: tool.name,
-          url: `https://jacked.coach/tools/${tool.slug}`,
+          url: `https://jacked.coach/tools/${tool.slug}/`,
         })),
       },
     ],

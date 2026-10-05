@@ -323,7 +323,8 @@ export function viewportClass(width) {
 }
 
 export function canonicalUrlForPath(pathname = '/') {
-  return `${CANONICAL_ORIGIN}${normalizePathname(pathname)}`
+  const path = normalizePathname(pathname)
+  return `${CANONICAL_ORIGIN}${path === '/' ? '/' : `${path.replace(/\/$/, '')}/`}`
 }
 
 export function buildPageViewProperties({

@@ -48,11 +48,11 @@ const encoded = Buffer.from(bytes).toString('base64url')
 const query = new URLSearchParams({ p: encoded, c: checksum })
 
 assert.deepEqual(
-  await contract.decodePlanPayload({ query, href: `https://jacked.coach/plan?${query}`, subtle: webcrypto.subtle }),
+  await contract.decodePlanPayload({ query, href: `https://jacked.coach/plan/?${query}`, subtle: webcrypto.subtle }),
   plan,
 )
 await assert.rejects(
-  contract.decodePlanPayload({ query: new URLSearchParams({ p: encoded, c: '0000000000000000' }), href: 'https://jacked.coach/plan', subtle: webcrypto.subtle }),
+  contract.decodePlanPayload({ query: new URLSearchParams({ p: encoded, c: '0000000000000000' }), href: 'https://jacked.coach/plan/', subtle: webcrypto.subtle }),
   /checksum mismatch/,
 )
 assert.equal(contract.isValidPlan({ ...plan, t: 'bad\nvalue' }), false)

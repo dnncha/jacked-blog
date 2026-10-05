@@ -152,7 +152,7 @@ export const PRIORITY_SLUGS = Object.keys(PRIORITY_LANDINGS)
 
 export function priorityMetadata(slug) {
   const page = PRIORITY_LANDINGS[slug]
-  const url = `https://jacked.coach/${slug}`
+  const url = `https://jacked.coach/${slug}/`
   return {
     title: page.seoTitle,
     description: page.seoDescription,

@@ -6,6 +6,7 @@ const typeLabels = {
   'fitnotes-import': 'FITNOTES IMPORT',
   'next-set': 'NEXT SET',
   'one-rm': 'ESTIMATED 1RM',
+  'overload-plan': 'OVERLOAD PLAN',
   plates: 'PLATE LOADING',
   'rest-time': 'REST TIME',
   rir: 'RIR TARGET',
