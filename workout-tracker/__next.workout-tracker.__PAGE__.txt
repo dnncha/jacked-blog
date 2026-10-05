@@ -1,39 +1,38 @@
 1:"$Sreact.fragment"
-2:I[827,["/_next/static/chunks/1vwdo6ic155ti.js","/_next/static/chunks/2iq4dkw-rkhsf.js"],"default"]
-3:I[97367,["/_next/static/chunks/1vwdo6ic155ti.js"],"OutletBoundary"]
+2:I[827,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js","/_next/static/chunks/0ovf5hsldvpcv.js"],"default"]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-8:I[97367,["/_next/static/chunks/1vwdo6ic155ti.js"],"ViewportBoundary"]
-9:I[97367,["/_next/static/chunks/1vwdo6ic155ti.js"],"MetadataBoundary"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
 7:X
-1f:X
-1f:C
-0:{"buildId":"CouquMJQg4q7Uk-DdayZU","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"eyebrow":"Workout tracker for iPhone","title":"Log the set. Know what comes next.","intro":"Surpass is a focused weight-lifting tracker for lifters who want fast logging, visible training history, rest timing, and a clear next target inside the workout.","campaignUrl":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_workout_tracker&mt=8","campaignKey":"seo_workout_tracker","canonicalPath":"/workout-tracker","heroImage":"/marketing/surpass-build-home.png","heroImageAlt":"Surpass workout screen showing weekly muscle targets, a next-session target, and a start-session control","heroPresentation":"screen","benefits":[{"title":"Log weight and reps from one screen","copy":"Your previous result, current target, and active rest timer stay close to the set you are recording."},{"title":"See what each muscle still needs","copy":"Weekly hard-set totals show completed sets and sets left for each muscle across your training split."},{"title":"Keep your existing training context","copy":"Import compatible Hevy workouts, routines, notes, and set history instead of rebuilding your log from zero."}],"steps":[{"title":"Open today’s workout","copy":"Exercises, rep ranges, previous sets, and targets are ready before the first working set."},{"title":"Record the work","copy":"Log weight and reps, time your rest, correct a set quickly, and continue without leaving the session."},{"title":"Carry the result forward","copy":"Lift history, PRs, and weekly hard-set totals give the next workout useful context."}],"comparison":[["Before the set","Search workout history for the last result.","See the previous result, target load, and rep range together."],["Between sets","Track rest separately or estimate it.","Keep the rest timer inside the active workout."],["After the workout","Review a list of sets without muscle-level context.","See lift history, PRs, and weekly hard sets by muscle."]],"faqs":[{"question":"Is Surpass a free workout tracker?","answer":"Yes. Surpass is currently free to download and use on iPhone. The App Store listing is the source for current availability."},{"question":"Can I use my own workout routine?","answer":"Yes. You keep control of your routine, exercise selection, set targets, and rep ranges. Surpass helps you run and record the session."},{"question":"Can I import workouts from Hevy?","answer":"Surpass includes a compatible Hevy import path for workouts, routines, exercise notes, and set history."},{"question":"Where is my workout data stored?","answer":"Workout history is stored locally on your iPhone. You do not need to create an account to start training."}],"related":[["/progressive-overload","Progressive overload app"],["/tools/next-set-calculator","Next-set calculator"],["/blog/import-hevy-to-surpass","Import Hevy to Surpass"]],"finalTitle":"Make the workout log useful before your next set.","finalCopy":"Start free on iPhone and run your next session with history, targets, rest, and weekly muscle totals in one place."}],[["$","script","script-0",{"src":"/_next/static/chunks/2iq4dkw-rkhsf.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Workout Tracker for iPhone That Guides Your Next Set | Surpass"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],null]}],"isPartial":"$@1c","staleTime":"$7","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$7","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@20","rootVaryParams":null,"needsRuntimeRequest":"$@21"}
-22:I[39756,["/_next/static/chunks/1vwdo6ic155ti.js"],"default"]
-23:I[37457,["/_next/static/chunks/1vwdo6ic155ti.js"],"default"]
+1e:X
+1e:C
+0:{"buildId":"OI3w58_tgi7Ym_n5V855l","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"eyebrow":"Workout tracker for iPhone","title":"Log the set. Know what comes next.","intro":"Surpass is a focused weight-lifting tracker for lifters who want fast logging, visible training history, rest timing, and a clear next target inside the workout.","campaignUrl":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_workout_tracker&mt=8","campaignKey":"seo_workout_tracker","canonicalPath":"/workout-tracker","heroImage":"/marketing/screens/surpass-06-480.webp","heroImageAlt":"Surpass screenshot of the next workout, with targets set from the session you just finished","heroPresentation":"screen","benefits":[{"title":"Log weight and reps from one screen","copy":"Your previous result, current target, and active rest timer stay close to the set you are recording."},{"title":"See what each muscle still needs","copy":"Weekly hard-set totals show completed sets and sets left for each muscle across your training split."},{"title":"Keep your existing training context","copy":"Import compatible Hevy workouts, routines, notes, and set history instead of rebuilding your log from zero."}],"steps":[{"title":"Open today’s workout","copy":"Exercises, rep ranges, previous sets, and targets are ready before the first working set."},{"title":"Record the work","copy":"Log weight and reps, time your rest, correct a set quickly, and continue without leaving the session."},{"title":"Carry the result forward","copy":"Lift history, PRs, and weekly hard-set totals give the next workout useful context."}],"comparison":[["Before the set","Search workout history for the last result.","See the previous result, target load, and rep range together."],["Between sets","Track rest separately or estimate it.","Keep the rest timer inside the active workout."],["After the workout","Review a list of sets without muscle-level context.","See lift history, PRs, and weekly hard sets by muscle."]],"faqs":[{"question":"Is Surpass a free workout tracker?","answer":"Yes. Surpass is currently free to download and use on iPhone. The App Store listing is the source for current availability."},{"question":"Can I use my own workout routine?","answer":"Yes. You keep control of your routine, exercise selection, set targets, and rep ranges. Surpass helps you run and record the session."},{"question":"Can I import workouts from Hevy?","answer":"Surpass includes a compatible Hevy import path for workouts, routines, exercise notes, and set history."},{"question":"Where is my workout data stored?","answer":"Workout history is stored locally on your iPhone. You do not need to create an account to start training."}],"related":[["/progressive-overload","Progressive overload app"],["/tools/next-set-calculator","Next-set calculator"],["/blog/import-hevy-to-surpass","Import Hevy to Surpass"]],"finalTitle":"Make the workout log useful before your next set.","finalCopy":"Start free on iPhone and run your next session with history, targets, rest, and weekly muscle totals in one place."}],[["$","script","script-0",{"src":"/_next/static/chunks/0ovf5hsldvpcv.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Workout Tracker for iPhone That Guides Your Next Set | Surpass"}],["$","meta","1",{"name":"description","content":"Log sets fast, see your previous result and next target, run rest timers, track weekly hard sets, and import compatible Hevy history with Surpass for iPhone."}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]}],null]}],"isPartial":"$@1b","staleTime":"$7","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$7","varyParams":"$1e"}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
+21:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+22:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
 5:null
-a:["$","meta","1",{"name":"description","content":"Log sets fast, see your previous result and next target, run rest timers, track weekly hard sets, and import compatible Hevy history with Surpass for iPhone."}]
-b:["$","meta","2",{"name":"author","content":"Surpass"}]
-c:["$","meta","3",{"name":"keywords","content":"workout tracker iPhone,weight lifting tracker,gym workout log,workout log app,strength training tracker"}]
-d:["$","meta","4",{"name":"creator","content":"Surpass"}]
-e:["$","meta","5",{"name":"publisher","content":"Surpass"}]
-f:["$","meta","6",{"name":"robots","content":"index, follow"}]
-10:["$","link","7",{"rel":"canonical","href":"https://jacked.coach/workout-tracker/"}]
-11:["$","meta","8",{"property":"og:title","content":"Workout Tracker for iPhone That Guides Your Next Set"}]
-12:["$","meta","9",{"property":"og:description","content":"Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import."}]
-13:["$","meta","10",{"property":"og:url","content":"https://jacked.coach/workout-tracker/"}]
-14:["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}]
-15:["$","meta","12",{"property":"og:image:width","content":"1200"}]
-16:["$","meta","13",{"property":"og:image:height","content":"630"}]
-17:["$","meta","14",{"property":"og:image:alt","content":"Surpass strength training for iPhone"}]
-18:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
-19:["$","meta","16",{"name":"twitter:title","content":"Workout Tracker for iPhone That Guides Your Next Set"}]
-1a:["$","meta","17",{"name":"twitter:description","content":"Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import."}]
-1b:["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]
-1d:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
-21:true
+a:["$","meta","2",{"name":"author","content":"Surpass"}]
+b:["$","meta","3",{"name":"keywords","content":"workout tracker iPhone,weight lifting tracker,gym workout log,workout log app,strength training tracker"}]
+c:["$","meta","4",{"name":"creator","content":"Surpass"}]
+d:["$","meta","5",{"name":"publisher","content":"Surpass"}]
+e:["$","meta","6",{"name":"robots","content":"index, follow"}]
+f:["$","link","7",{"rel":"canonical","href":"https://jacked.coach/workout-tracker/"}]
+10:["$","meta","8",{"property":"og:title","content":"Workout Tracker for iPhone That Guides Your Next Set"}]
+11:["$","meta","9",{"property":"og:description","content":"Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import."}]
+12:["$","meta","10",{"property":"og:url","content":"https://jacked.coach/workout-tracker/"}]
+13:["$","meta","11",{"property":"og:image","content":"https://jacked.coach/og-image.png"}]
+14:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+15:["$","meta","13",{"property":"og:image:height","content":"630"}]
+16:["$","meta","14",{"property":"og:image:alt","content":"Surpass strength training for iPhone"}]
+17:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+18:["$","meta","16",{"name":"twitter:title","content":"Workout Tracker for iPhone That Guides Your Next Set"}]
+19:["$","meta","17",{"name":"twitter:description","content":"Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import."}]
+1a:["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]
+1c:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+20:true
 7:300
 7:C
-20:0
-1c:"$undefined"
-1e:"$undefined"
+1f:0
+1b:"$undefined"
+1d:"$undefined"
 6:"$undefined"

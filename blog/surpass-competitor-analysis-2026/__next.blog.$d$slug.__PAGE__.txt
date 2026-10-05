@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:Ta6c,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026#webpage","url":"https://jacked.coach/blog/surpass-competitor-analysis-2026","name":"Surpass Competitor Analysis: The Complete Dossier","description":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Surpass can learn from each.","breadcrumb":{"@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026#webpage"},"headline":"Surpass Competitor Analysis: The Complete Dossier","description":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Surpass can learn from each.","dateModified":"2026-08-15","isAccessibleForFree":true,"wordCount":1437,"articleSection":"Business","about":["hypertrophy training","progressive overload","workout tracking","Business"],"author":{"@type":"Organization","name":"Surpass","url":"https://jacked.coach/about"},"publisher":{"@type":"Organization","name":"Surpass","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog"},{"@type":"ListItem","position":3,"name":"Surpass Competitor Analysis: The Complete Dossier","item":"https://jacked.coach/blog/surpass-competitor-analysis-2026"}]}]}3:T1346,
+2:Ta9c,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026/#webpage","url":"https://jacked.coach/blog/surpass-competitor-analysis-2026/","name":"Workout App Competitor Map: What Surpass Must Beat in 2026","description":"A source-bounded comparison of the workout trackers, hypertrophy planners, and adaptive coaches that matter to Surpass users.","breadcrumb":{"@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026/#breadcrumb"}},{"@type":"BlogPosting","@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026/#article","mainEntityOfPage":{"@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026/#webpage"},"headline":"Workout App Competitor Map: What Surpass Must Beat in 2026","description":"A source-bounded comparison of the workout trackers, hypertrophy planners, and adaptive coaches that matter to Surpass users.","dateModified":"2026-08-17","isAccessibleForFree":true,"wordCount":1969,"articleSection":"Business","about":["hypertrophy training","progressive overload","workout tracking","Business"],"author":{"@type":"Organization","name":"Surpass","url":"https://jacked.coach/about/"},"publisher":{"@type":"Organization","name":"Surpass","logo":{"@type":"ImageObject","url":"https://jacked.coach/og-image.png"}},"image":"https://jacked.coach/og-image.png","mentions":[{"@type":"WebApplication","name":"Next Set Calculator","url":"https://jacked.coach/tools/next-set-calculator/","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"RIR Calculator","url":"https://jacked.coach/tools/rir-calculator/","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Weekly Volume Checker","url":"https://jacked.coach/tools/weekly-volume-checker/","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"WebApplication","name":"Smart Warm-Up Calculator","url":"https://jacked.coach/tools/smart-warm-up-calculator/","applicationCategory":"HealthApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]},{"@type":"BreadcrumbList","@id":"https://jacked.coach/blog/surpass-competitor-analysis-2026/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Training Library","item":"https://jacked.coach/blog/"},{"@type":"ListItem","position":3,"name":"Workout App Competitor Map: What Surpass Must Beat in 2026","item":"https://jacked.coach/blog/surpass-competitor-analysis-2026/"}]}]}3:T1346,
         body { background: #000000 !important; }
         .diagram {
           margin: 2rem 0;
@@ -187,248 +187,197 @@
       e:X
 13:X
 13:C
-0:{"buildId":"CouquMJQg4q7Uk-DdayZU","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[null,["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
-18:I[22016,["/_next/static/chunks/1vwdo6ic155ti.js"],""]
-1a:I[97367,["/_next/static/chunks/1vwdo6ic155ti.js"],"OutletBoundary"]
-1b:"$Sreact.suspense"
-1d:I[97367,["/_next/static/chunks/1vwdo6ic155ti.js"],"ViewportBoundary"]
-1e:I[97367,["/_next/static/chunks/1vwdo6ic155ti.js"],"MetadataBoundary"]
-1f:I[39756,["/_next/static/chunks/1vwdo6ic155ti.js"],"default"]
-20:I[37457,["/_next/static/chunks/1vwdo6ic155ti.js"],"default"]
+0:{"buildId":"OI3w58_tgi7Ym_n5V855l","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"maxWidth":"760px","margin":"0 auto","padding":"2rem 1rem","background":"#000000","minHeight":"100vh","color":"#e5e5e5"},"children":[null,["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","style",null,{"children":"$3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],null,"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],""]
+1b:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+1f:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
+20:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+21:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
 4:["$","nav",null,{"aria-label":"Breadcrumb","style":{"display":"flex","gap":"0.45rem","flexWrap":"wrap","color":"#8f897c","fontSize":"0.86rem","fontWeight":650},"children":[["$","$L18",null,{"href":"/","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Home"}],["$","span",null,{"children":"/"}],["$","$L18",null,{"href":"/blog","style":{"color":"#d9c26c","textDecoration":"none"},"children":"Training Library"}],["$","span",null,{"children":"/"}],["$","span",null,{"aria-current":"page","children":"Business"}]]}]
-5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Surpass Competitor Analysis: The Complete Dossier"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Surpass can learn from each."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Business"}],null,["$","span",null,{"children":["Updated ","August 15, 2026"]}],["$","span",null,{"children":[7," min read"]}],["$","span",null,{"children":"Surpass training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_workout_apps&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"blog_workout_apps_header","data-copy-version":"article_promise_v2","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Import and train with Surpass"}]]}]
-6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Surpass%20Competitor%20Analysis%3A%20The%20Complete%20Dossier&url=https://jacked.coach/blog/surpass-competitor-analysis-2026","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
+5:["$","header",null,{"style":{"marginTop":"1.5rem","marginBottom":"2rem"},"children":[["$","h1",null,{"style":{"fontSize":"clamp(2rem, 5.8vw, 3rem)","fontWeight":"760","marginBottom":"0.75rem","lineHeight":"1.12","color":"#f7f2e8","letterSpacing":0},"children":"Workout App Competitor Map: What Surpass Must Beat in 2026"}],["$","p",null,{"style":{"margin":"0 0 1rem","color":"#bcb6a8","fontSize":"1.05rem","lineHeight":1.65},"children":"A source-bounded comparison of the workout trackers, hypertrophy planners, and adaptive coaches that matter to Surpass users."}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Business"}],null,["$","span",null,{"children":["Updated ","August 17, 2026"]}],["$","span",null,{"children":[9," min read"]}],["$","span",null,{"children":"Surpass training guide"}]]}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_workout_apps&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"blog_workout_apps_header","data-copy-version":"article_intent_promise_v1","style":{"display":"inline-block","marginTop":"1rem","padding":"0.65rem 0.95rem","borderRadius":"8px","textDecoration":"none","fontWeight":"720","background":"#e2c95f","color":"#111"},"children":"Import and train with Surpass"}]]}]
+6:["$","div",null,{"style":{"display":"flex","gap":"0.5rem","marginBottom":"2rem","paddingBottom":"1.5rem","borderBottom":"2px solid #333"},"children":["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Workout%20App%20Competitor%20Map%3A%20What%20Surpass%20Must%20Beat%20in%202026&url=https://jacked.coach/blog/surpass-competitor-analysis-2026/","target":"_blank","rel":"noopener noreferrer","style":{"padding":"0.5rem 0.9rem","background":"#000000","color":"#d9c26c","borderRadius":"8px","textDecoration":"none","fontSize":"0.84rem","fontWeight":"650","border":"1px solid #333"},"children":"Share on X"}]}]
 7:["$","section",null,{"className":"article-tools","children":[["$","h2",null,{"children":"Use the matching Surpass tool"}],["$","p",null,{"children":"Run the numbers from this topic, then use the result in your next session."}],["$","div",null,{"className":"article-tool-links","children":[["$","$L18","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$L18","rir-calculator",{"href":"/tools/rir-calculator","data-related-tool":"rir-calculator","children":"RIR Calculator"}],["$","$L18","weekly-volume-checker",{"href":"/tools/weekly-volume-checker","data-related-tool":"weekly-volume-checker","children":"Weekly Volume Checker"}],["$","$L18","smart-warm-up-calculator",{"href":"/tools/smart-warm-up-calculator","data-related-tool":"smart-warm-up-calculator","children":"Smart Warm-Up Calculator"}]]}]]}]
-8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","executive-summary",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#executive-summary","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Executive Summary"}]}],["$","li","detailed-profiles",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#detailed-profiles","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Detailed Profiles"}]}],["$","li","1-sweat-by-kayla-itsines",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#1-sweat-by-kayla-itsines","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"1. Sweat (by Kayla Itsines)"}]}],["$","li","2-strong-strongapp-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#2-strong-strongapp-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"2. Strong (strongapp.com)"}]}],["$","li","3-hevy-hevyapp-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#3-hevy-hevyapp-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"3. Hevy (hevyapp.com)"}]}],["$","li","4-gymstreak-gymstreak-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#4-gymstreak-gymstreak-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"4. GymStreak (gymstreak.com)"}]}],["$","li","5-fitbod-fitbod-me",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#5-fitbod-fitbod-me","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"5. Fitbod (fitbod.me)"}]}],["$","li","6-jefit-jefit-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#6-jefit-jefit-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"6. JEFIT (jefit.com)"}]}],["$","li","7-stronglifts-stronglifts-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#7-stronglifts-stronglifts-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"7. StrongLifts (stronglifts.com)"}]}],["$","li","8-liftosaur-liftosaur-com",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#8-liftosaur-liftosaur-com","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"8. Liftosaur (liftosaur.com)"}]}],["$","li","competitive-landscape-summary",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#competitive-landscape-summary","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Competitive Landscape Summary"}]}],["$","li","surpass-s-position",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#surpass-s-position","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Surpass's Position"}]}],["$","li","key-takeaways-for-surpass",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#key-takeaways-for-surpass","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Key Takeaways for Surpass"}]}],["$","li","recommendations",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#recommendations","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Recommendations"}]}]]}]]}]
-19:T3259,<p><em>Last updated: February 2026</em></p>
-<hr>
-<h2 id="executive-summary">Executive Summary</h2>
-<p>The fitness app market is valued at $15B+ globally. Surpass competes in the <strong>strength/hypertrophy training</strong> niche — a segment dominated by generalist workout trackers. Key differentiator: <strong>autoprogression + fatigue management</strong> for serious lifters.</p>
-<p>| Competitor | Revenue | Key Differentiator | Target |
-|------------|---------|-------------------|--------|
-| <strong>Sweat</strong> | $100M/yr | Influencer brand, women | Casual fitness |
-| <strong>Strong</strong> | ~$7M/yr | Workout logging, clean UI | Intermediate lifters |
-| <strong>Hevy</strong> | $2M/yr (~$160K MRR) | Social features, community | Intermediate lifters |
-| <strong>GymStreak</strong> | $2.5M/yr | AI-generated programs | Intermediate-advanced |
-| <strong>Fitbod</strong> | ~$1M | AI personalization | All levels |
-| <strong>JEFIT</strong> | ~$1M | Social features, community | Intermediate |
-| <strong>StrongLifts</strong> | Unknown (bootstrapped) | Simplicity, 5x5 focus | Beginners |
-| <strong>Liftosaur</strong> | Unknown (small) | Programmability, advanced | Advanced lifters |</p>
-<hr>
-<h2 id="detailed-profiles">Detailed Profiles</h2>
-<hr>
-<h3 id="1-sweat-by-kayla-itsines">1. Sweat (by Kayla Itsines)</h3>
-<p><strong>What they are:</strong>
-The biggest fitness app in the world. Female-focused, influencer-backed, comprehensive training + nutrition + mindset.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2015 |
-| <strong>Founder</strong> | Kayla Itsines (influencer) + Tom Billington (tech) |
-| <strong>Headquarters</strong> | Australia |
-| <strong>Revenue</strong> | ~$100M/year |
-| <strong>Users</strong> | 50M+ members |
-| <strong>Sale price</strong> | $400M (sold 2023) |
-| <strong>Funding</strong> | Bootstrapped + VC (later) |
-| <strong>Marketing</strong> | Influencer marketing, Instagram-first, brand partnerships |
-| <strong>Pricing</strong> | ~$19.99/mo |
-| <strong>Key strength</strong> | Brand, community, influencer reach |
-| <strong>Weakness</strong> | Not strength-focused, expensive |</p>
-<p><strong>Takeaway:</strong> Not direct competition (different niche), but shows what's possible with brand + community.</p>
-<hr>
-<h3 id="2-strong-strongapp-com">2. Strong (strongapp.com)</h3>
-<p><strong>What they are:</strong>
-Clean, minimalist workout tracker. One of the top-grossing fitness apps globally.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2017 |
-| <strong>Founders</strong> | (Acquired by EXPA) |
-| <strong>Headquarters</strong> | San Francisco |
-| <strong>Revenue</strong> | ~$7M/year (estimated) |
-| <strong>Downloads</strong> | 10M+ |
-| <strong>Funding</strong> | Raised (amount unknown) |
-| <strong>Marketing</strong> | App Store optimization, product-led growth |
-| <strong>Pricing</strong> | $12.99/mo or $79.99/yr |
-| <strong>Key strength</strong> | Clean UI, brand recognition |
-| <strong>Weakness</strong> | Generic — no autoprogression, no AI |</p>
-<p><strong>Takeaway:</strong> The "default" choice for serious lifters. Good UX, but Surpass's autoprogression is a genuine differentiator.</p>
-<hr>
-<h3 id="3-hevy-hevyapp-com">3. Hevy (hevyapp.com)</h3>
-<p><strong>What they are:</strong>
-Community-focused workout tracker with social features, challenges, and sharing.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2019 |
-| <strong>Founders</strong> | Guillem Ros (CEO, Barcelona), Desmond McNamee (CTO) |
-| <strong>Headquarters</strong> | Barcelona, Spain |
-| <strong>Revenue</strong> | $2M/year (~£1.6M) |
-| <strong>MRR</strong> | ~$160K MRR |
-| <strong>Users</strong> | 2M+ downloads |
-| <strong>Team</strong> | 8 people |
-| <strong>Funding</strong> | Bootstrapped, $15K ad spend total |
-| <strong>Marketing</strong> | Community, Reddit, product-led, no paid ads |
-| <strong>Pricing</strong> | Free + $9.99/mo Pro |
-| <strong>Key strength</strong> | Community features, social sharing |
-| <strong>Weakness</strong> | Feature-heavy but no clear differentiation |</p>
-<p><strong>Takeaway:</strong> Close to Surpass's target. Proves you can reach $2M withoutVC funding. Their growth came from Reddit + community, not ads.</p>
-<hr>
-<h3 id="4-gymstreak-gymstreak-com">4. GymStreak (gymstreak.com)</h3>
-<p><strong>What they are:</strong>
-AI-powered workout generator. One of the most advanced algorithmic programs.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2019 |
-| <strong>Founder</strong> | Joseph Mambwe (Cambridge engineering graduate) |
-| <strong>Headquarters</strong> | UK |
-| <strong>Revenue</strong> | $2.5M/year |
-| <strong>Team</strong> | 0 employees (bootstrapped, freelancers only) |
-| <strong>Funding</strong> | Bootstrapped |
-| <strong>Marketing</strong> | Content marketing, SEO, product-led |
-| <strong>Pricing</strong> | ~$10/mo |
-| <strong>Key strength</strong> | AI program generation, automation |
-| <strong>Weakness</strong> | Less control, generic AI |</p>
-<p><strong>Takeaway:</strong> The closest to Surpass's positioning. AI + hypertrophy. Proves a solopreneur can build a $2.5M fitness business.</p>
-<hr>
-<h3 id="5-fitbod-fitbod-me">5. Fitbod (fitbod.me)</h3>
-<p><strong>What they are:</strong>
-AI-powered workout app that generates personalized programs based on equipment + goals.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2016 |
-| <strong>Founders</strong> | (Acquired by iFit?) |
-| <strong>Headquarters</strong> | San Francisco |
-| <strong>Revenue</strong> | ~$1M |
-| <strong>Users</strong> | 100K+ downloads |
-| <strong>Funding</strong> | Bootstrapped + VC |
-| <strong>Marketing</strong> | App Store, partnerships |
-| <strong>Pricing</strong> | $14.99/mo |
-| <strong>Key strength</strong> | AI personalization, equipment awareness |
-| <strong>Weakness</strong> | Generic, not hypertrophy-specific |</p>
-<p><strong>Takeaway:</strong> Established player. AI focus but not strength-specific. Good market validation.</p>
-<hr>
-<h3 id="6-jefit-jefit-com">6. JEFIT (jefit.com)</h3>
-<p><strong>What they are:</strong>
-Long-established workout tracker with strong social features and community.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2010 |
-| <strong>Founder</strong> | Ying Lin (CEO) |
-| <strong>Headquarters</strong> | Sunnyvale, California |
-| <strong>Revenue</strong> | ~$1M/year |
-| <strong>Funding</strong> | Bootstrapped, profitable |
-| <strong>Marketing</strong> | Brand partnerships, featured by Apple/Google |
-| <strong>Pricing</strong> | $12.99/mo or $99.99/yr |
-| <strong>Key strength</strong> | Longevity, community, social features |
-| <strong>Weakness</strong> | Outdated UI, feature bloat |</p>
-<p><strong>Takeaway:</strong> Oldest competitor. Shows you can stay profitable for 15+ years in this space.</p>
-<hr>
-<h3 id="7-stronglifts-stronglifts-com">7. StrongLifts (stronglifts.com)</h3>
-<p><strong>What they are:</strong>
-The 5x5 app. Based on the popular StrongLifts 5x5 program. Very simple, very focused.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | 2011 |
-| <strong>Founder</strong> | Mehdi (full name not public) |
-| <strong>Headquarters</strong> | Netherlands (originally) |
-| <strong>Revenue</strong> | Unknown (bootstrapped) |
-| <strong>Users</strong> | 200K+ 5-star reviews |
-| <strong>Funding</strong> | Bootstrapped |
-| <strong>Marketing</strong> | SEO, blog content |
-| <strong>Pricing</strong> | $9.99 one-time (lifetime) |
-| <strong>Key strength</strong> | Simplicity, program focus |
-| <strong>Weakness</strong> | Only 5x5, very limited |</p>
-<p><strong>Takeaway:</strong> Proves simplicity wins. One program, one app, massive loyal following. Surpass could own "autoprogression" the same way.</p>
-<hr>
-<h3 id="8-liftosaur-liftosaur-com">8. Liftosaur (liftosaur.com)</h3>
-<p><strong>What they are:</strong>
-Highly customizable workout planner for advanced lifters. Scriptable programs.</p>
-<p>| Metric | Data |
-|--------|------|
-| <strong>Founded</strong> | ~2020 |
-| <strong>Founder</strong> | (Individual developer) |
-| <strong>Revenue</strong> | Unknown (small) |
-| <strong>Funding</strong> | Bootstrapped |
-| <strong>Marketing</strong> | Reddit, word of mouth |
-| <strong>Pricing</strong> | ~$5/mo or $40 lifetime |
-| <strong>Key strength</strong> | Customizability, advanced features |
-| <strong>Weakness</strong> | High learning curve, niche |</p>
-<p><strong>Takeaway:</strong> Small but passionate user base. Shows there's room for advanced/niche apps.</p>
-<hr>
-<h2 id="competitive-landscape-summary">Competitive Landscape Summary</h2>
-<p>| Category | Players | Revenue Range |
-|----------|---------|---------------|
-| <strong>Big Fitness (all types)</strong> | Sweat, Aaptiv, Nike Training | $50M+ |
-| <strong>General Strength Trackers</strong> | Strong, Hevy, JEFIT | $1-10M |
-| <strong>AI-Powered</strong> | Fitbod, GymStreak | $1-2.5M |
-| <strong>Simple/Program-Based</strong> | StrongLifts, Liftosaur | &#x3C;$1M |</p>
-<hr>
-<h2 id="surpass-s-position">Surpass's Position</h2>
-<p><strong>Where Surpass wins:</strong></p>
-<ul>
-<li>Autoprogression (automatic weight increases) — not offered by Strong or Hevy</li>
-<li>Fatigue management — unique in the market</li>
-<li>Hypertrophy focus — not a generic fitness app</li>
-<li>Clean positioning: "serious lifters only"</li>
-</ul>
-<p><strong>Threats:</strong></p>
-<ul>
-<li>GymStreak is already doing AI + hypertrophy</li>
-<li>Strong has brand recognition</li>
-<li>Hevy has community locked in</li>
-</ul>
-<p><strong>Opportunity:</strong></p>
-<ul>
-<li>Own the "autoprogression" category</li>
-<li>Build content flywheel (the blog is already doing this)</li>
-<li>Target the Reddit r/weightroom r/fitness crowd</li>
-</ul>
-<hr>
-<h2 id="key-takeaways-for-surpass">Key Takeaways for Surpass</h2>
+8:["$","nav",null,{"aria-label":"Table of contents","style":{"margin":"0 0 2rem","padding":"1rem","border":"1px solid #333","borderRadius":"12px","background":"#10100f"},"children":[["$","h2",null,{"style":{"margin":"0 0 0.75rem","color":"#f7f2e8","fontSize":"1rem","fontWeight":760},"children":"Contents"}],["$","ol",null,{"style":{"margin":0,"paddingLeft":"1.25rem","color":"#c8c1b6"},"children":[["$","li","the-short-version",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-short-version","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The short version"}]}],["$","li","evidence-rules",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#evidence-rules","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Evidence rules"}]}],["$","li","priority-map",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#priority-map","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Priority map"}]}],["$","li","what-the-map-actually-tells-us",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-the-map-actually-tells-us","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What the map actually tells us"}]}],["$","li","the-price-ladder-is-real-the-outcome-ladder-is-unproven",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#the-price-ladder-is-real-the-outcome-ladder-is-unproven","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"The price ladder is real; the outcome ladder is unproven"}]}],["$","li","programming-claims-are-easy-to-copy-decision-trust-is-harder",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#programming-claims-are-easy-to-copy-decision-trust-is-harder","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Programming claims are easy to copy; decision trust is harder"}]}],["$","li","video-breadth-is-a-competitor-strength-not-a-claim-surpass-should-fake",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#video-breadth-is-a-competitor-strength-not-a-claim-surpass-should-fake","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Video breadth is a competitor strength, not a claim Surpass should fake"}]}],["$","li","social-features-are-not-automatically-a-retention-strategy",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":"0.7rem"},"children":["$","a",null,{"href":"#social-features-are-not-automatically-a-retention-strategy","style":{"color":"#a9a294","textDecoration":"none","fontSize":"0.9rem","fontWeight":600},"children":"Social features are not automatically a retention strategy"}]}],["$","li","the-surpass-advantage-to-build-deeply",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#the-surpass-advantage-to-build-deeply","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"The Surpass advantage to build deeply"}]}],["$","li","opportunity-ranking",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#opportunity-ranking","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Opportunity ranking"}]}],["$","li","measurement-and-decision-rules",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#measurement-and-decision-rules","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Measurement and decision rules"}]}],["$","li","what-surpass-should-not-do",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#what-surpass-should-not-do","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"What Surpass should not do"}]}],["$","li","bottom-line",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#bottom-line","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Bottom line"}]}],"$L19"]}]]}]
+1a:T40be,<p><em>Market snapshot checked 17 August 2026. Product descriptions and prices can
+change; confirm the linked listing before making a purchase.</em></p>
+<h2 id="the-short-version">The short version</h2>
+<p>Surpass does not need to beat one app at everything. It needs to make one
+valuable promise unusually credible:</p>
+<blockquote>
+<p>Log a productive set quickly, understand the next decision, and keep a
+trustworthy record of why the plan changed.</p>
+</blockquote>
+<p>The relevant market is not one neat category. It has at least four jobs:</p>
 <ol>
-<li><strong>$2-3M is achievable</strong> — GymStreak and Hevy prove bootstrapped fitness apps can hit this</li>
-<li><strong>Community matters</strong> — Hevy grew to $2M with Reddit + social, no paid ads</li>
-<li><strong>AI is competitive</strong> — GymStreak and Fitbod own this space</li>
-<li><strong>Simplicity wins</strong> — StrongLifts proves one good program beats feature bloat</li>
-<li><strong>Autoprogression is defensible</strong> — No major competitor offers this</li>
+<li><strong>Fast logging:</strong> record sets with as little interruption as possible.</li>
+<li><strong>Structured strength:</strong> follow a known progression model with few decisions.</li>
+<li><strong>Hypertrophy coaching:</strong> manage volume, effort, exercise choice, and fatigue.</li>
+<li><strong>Flexible programming:</strong> let an advanced lifter define the rules themselves.</li>
 </ol>
-<hr>
-<h2 id="recommendations">Recommendations</h2>
+<p>The best commercial opportunity for Surpass is the overlap between the first
+and third jobs: a native logger that is fast enough for the gym floor and
+intelligent enough to explain the next target. That is a strategic hypothesis,
+not a measured market fact.</p>
+<h2 id="evidence-rules">Evidence rules</h2>
+<p>This map separates three kinds of statements:</p>
+<ul>
+<li><strong>Confirmed:</strong> visible in an official App Store listing or official product
+page on the date above.</li>
+<li><strong>Vendor-stated:</strong> a claim made by the competitor, such as a user count. It
+is recorded as a claim, not treated as independent market measurement.</li>
+<li><strong>Hypothesis:</strong> a product opportunity or weakness to test. It is not a fact
+about another company's users, revenue, retention, or internal systems.</li>
+</ul>
+<p>App Store ratings are a public demand and discoverability signal. They are not
+revenue, downloads, retention, satisfaction of every user, or proof of better
+training outcomes. This map contains no invented competitor revenue or cohort
+metrics.</p>
+<h2 id="priority-map">Priority map</h2>
+<p>| Priority | Product | Confirmed public signal | Surpass opportunity hypothesis |
+| --- | --- | --- | --- |
+| 1 | <a href="https://apps.apple.com/us/app/rp-hypertrophy/id1555614554">RP Hypertrophy</a> | Hypertrophy-specific recommendations, 45+ plans, pump/soreness/workload feedback, 250+ technique videos; US listing shows $34.99 monthly and $299.99 yearly plans, 211 ratings at 4.3. | Users who want serious hypertrophy guidance may pay for intelligence, but Surpass can compete on faster native logging, clearer local explanations, and a lower-friction first workout. Validate willingness to pay; do not assume price alone creates retention. |
+| 2 | <a href="https://apps.apple.com/us/app/gym-workout-alpha-progression/id1462277793">Alpha Progression</a> | Per-set weight/reps recommendations, RIR tracking, 795 exercises with videos, automatic warm-ups, gym-specific equipment, periodization/deloads, sharing, CSV export; US listing shows 2.1K ratings at 4.9 and a $12.99 monthly plan. | This is the closest programming comparison. Surpass must make its decision receipt, weekly dose context, recovery boundaries, and override behavior easier to understand—not merely claim more features. |
+| 3 | <a href="https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?ls=1">Fitbod</a> | AI-generated workouts, adaptive learning from edits, non-linear periodization, 1,000+ exercises, videos, Apple Watch, Apple Health, Strava, and Fitbit; US listing shows 280K ratings at 4.8 and an Editors’ Choice badge. | Broad personalization creates strong demand, but a hypertrophy-first product can be more legible about the training block, the evidence used, and what an edit changes. Test whether that clarity beats breadth for novice/intermediate natural lifters. |
+| 4 | <a href="https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350">Hevy</a> | Fast workout logging, unlimited routines, hundreds of exercise videos, progress graphs, social following/sharing, HealthKit, Apple Watch, and no ads; US listing shows 76K ratings at 4.9 and a vendor-stated “+10 million users.” Its current listing also advertises live workout sync, Dynamic Island, and Apple Watch logging. | Hevy is a strong logging and social habit competitor. Surpass should not copy a social feed without evidence; it should win the next-set decision, privacy boundary, and focused training review. |
+| 5 | <a href="https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577">Strong</a> | Minimal workout logging, Apple Watch, warm-up and plate calculators, graphs, cloud sync, CSV export, and share sheets; US listing shows 108K ratings at 4.9, a vendor-stated 1.2 million downloads, and Pro prices of $4.99 monthly, $29.99 yearly, and $99.99 forever. | Strong sets the usability and low-price expectation. Surpass must keep core logging comparably quick while making its paid value visible through trustworthy progression and weekly programming context. |
+| 6 | <a href="https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000">JEFIT</a> | Workout planning, 1,400+ exercises, animations, community routines, progress tracking, Apple Watch, Apple Health, Strava, and AI-guided routines; US listing shows 47K ratings at 4.8, a vendor-stated 12 million users, and Elite at $69.99 yearly. | Broad catalog and community are discoverability strengths. The testable Surpass angle is a smaller, calmer decision surface for lifters who do not want to configure a large system. |
+| 7 | <a href="https://apps.apple.com/us/app/stronglifts-5x5-workout/id488580022">StrongLifts 5x5</a> | A guided three-workout-per-week 5x5 program with automated progression, timers, and progress charts; US listing shows 77K ratings at 4.9, vendor-stated participation claims, and a current $11.99 monthly subscription option in its release surface. | StrongLifts proves that a clear promise and bounded program can be powerful. Surpass can apply the same clarity to flexible hypertrophy blocks without pretending every lifter needs 5x5. |
+| 8 | <a href="https://apps.apple.com/us/app/liftosaur-scriptable-workouts/id1661880849">Liftosaur</a> | Scriptable progression rules, community programs, custom workouts, web editing, equipment rounding, cloud backup, and Apple Watch; US listing shows 362 ratings at 4.9 with $4.99 monthly, $39.99 yearly, and $99.99 lifetime plans. | Liftosaur serves lifters who value control and programmable rules. Surpass can offer explainable defaults for people who want sound decisions without learning a workout scripting language. |</p>
+<h2 id="what-the-map-actually-tells-us">What the map actually tells us</h2>
+<h3 id="the-price-ladder-is-real-the-outcome-ladder-is-unproven">The price ladder is real; the outcome ladder is unproven</h3>
+<p>The public listings show a broad price range: low-cost logging and
+scriptability, mid-priced smart planning, and premium hypertrophy coaching.
+That does not tell us which product has the best retention or lifetime value.
+Surpass should not choose a price by copying a competitor. It should first
+prove that users experience a recurring value event: a logged set leads to a
+credible next target, and the next session makes the value of the record
+obvious.</p>
+<h3 id="programming-claims-are-easy-to-copy-decision-trust-is-harder">Programming claims are easy to copy; decision trust is harder</h3>
+<p>Nearly every major product now uses words such as “AI,” “personalized,” or
+“progression.” The defensible surface is the chain of evidence:</p>
 <ol>
-<li><strong>Double down on autoprogression</strong> — It's your unique position</li>
-<li><strong>Go where lifters hang out</strong> — Reddit r/weightroom, fitness Discord</li>
-<li><strong>Content is working</strong> — The blog + YouTube pipeline is correct</li>
-<li><strong>Consider GymStreak as closest rival</strong> — They're winning with AI + hypertrophy</li>
-<li><strong>Target $1M ARR</strong> — Realistic 2-3 year goal</li>
+<li>what the user logged;</li>
+<li>what rule or model was applied;</li>
+<li>what changed in the next target;</li>
+<li>what the user can override; and</li>
+<li>what is retained if the app is interrupted or offline.</li>
 </ol>
-<hr>
-<p><em>This dossier should be updated quarterly as the market evolves.</em></p>
+<p>That chain should be visible without forcing a beginner to understand the full
+training engine.</p>
+<h3 id="video-breadth-is-a-competitor-strength-not-a-claim-surpass-should-fake">Video breadth is a competitor strength, not a claim Surpass should fake</h3>
+<p>Alpha, Fitbod, Hevy, JEFIT, and RP publicly advertise exercise videos or
+technique media. Surpass should not scrape or ship unlicensed media. Its
+credible alternative is source-backed setup/form guidance, equipment-aware
+selection, and a first-set cue whose limits are stated plainly.</p>
+<h3 id="social-features-are-not-automatically-a-retention-strategy">Social features are not automatically a retention strategy</h3>
+<p>Hevy and JEFIT publicly emphasize community features. That is confirmed product
+positioning, not proof that social mechanics caused retention. Surpass should
+only add accountability or sharing when an owner-controlled cohort shows that
+it improves productive training behavior without increasing privacy cost or
+workout friction.</p>
+<h2 id="the-surpass-advantage-to-build-deeply">The Surpass advantage to build deeply</h2>
+<p>The current product direction should concentrate on four linked advantages:</p>
+<ol>
+<li><strong>Fast first value:</strong> one credible starter plan, one obvious first set, and
+no unnecessary configuration before useful training begins.</li>
+<li><strong>Explainable next-set coaching:</strong> load, reps, effort, evidence, and reason
+stay together; manual edits remain safe and visible.</li>
+<li><strong>Weekly programming context:</strong> muscle dose, phase intent, recovery signals,
+and the next review action are readable without false precision.</li>
+<li><strong>Trustworthy local durability:</strong> sets remain safe through offline use,
+interruption, retry, relaunch, and sync failure; unavailable reads are
+labelled instead of becoming fabricated empty history.</li>
+</ol>
+<p>This is a product strategy hypothesis. It becomes a competitive advantage only
+if released behavior and cohort evidence show better first-workout completion,
+repeat training, and paid value than the relevant alternatives.</p>
+<h2 id="opportunity-ranking">Opportunity ranking</h2>
+<p>The following ranking uses the required expected-value model qualitatively:</p>
+<p><strong>market demand × willingness to pay × retention potential × discoverability ×
+competitor weakness × Surpass execution advantage.</strong></p>
+<p>| Opportunity | Demand / willingness signal | Retention potential | Execution edge | Next proof |
+| --- | --- | --- | --- | --- |
+| Explainable hypertrophy progression | High direct relevance; premium willingness is plausible but unmeasured | High hypothesis because the value can recur every set and session | Existing V2 recommendation, receipt, weekly dose, and recovery surfaces | Mature first-set and second-workout cohorts with edit/accept and return outcomes |
+| Fast, durable workout logging | High: Strong, Hevy, and Fitbod ratings show strong public demand signals | High if users trust that no work is lost | Native local-first event and recovery work already exist | Offline/interruption/relaunch test on the exact release candidate plus time-to-first-set telemetry |
+| Beginner-to-intermediate hypertrophy starter plan | High discoverability and broad addressable need; willingness unknown | Medium/high if the first plan reaches a productive second week | Recommended path and equipment-aware planning exist | First-workout completion, planned-versus-completed sets, D1/D7 return by onboarding path |
+| Transparent migration and plan sharing | Demand is visible in competitor import/share positioning; size unknown | Medium; handoff must lead to a real first set | Source-bounded preview/import path exists | Link-open to copied-plan first-set cohort, with failure and cancellation rates |
+| Social accountability | Confirmed competitor positioning, but causal value unknown | Unknown until tested | Lower current execution advantage than core coaching | Small consented experiment after core activation data is available |</p>
+<h2 id="measurement-and-decision-rules">Measurement and decision rules</h2>
+<p>Do not declare a competitor win from a feature checklist, a local screenshot,
+App Store ratings, or a public crawl. The minimum operating readout is:</p>
+<ul>
+<li>onboarding completion by path;</li>
+<li>first-workout ready;</li>
+<li>first set logged;</li>
+<li>first workout saved;</li>
+<li>planned versus completed hard sets;</li>
+<li>second workout within 1, 7, and 30 days, using mature denominators;</li>
+<li>recommendation accepted, edited, or replaced;</li>
+<li>trial start, trial-to-paid, churn, refund, and net revenue where authorized;</li>
+<li>visible errors, persistence failures, and recovery retries.</li>
+</ul>
+<p>Missing exports must remain <code>null</code>, not zero. Every experiment needs a
+predeclared success metric, guardrail, exposure marker, and rollback condition.</p>
+<h2 id="what-surpass-should-not-do">What Surpass should not do</h2>
+<ul>
+<li>publish competitor revenue, funding, team size, or retention without a
+primary, current source;</li>
+<li>claim better hypertrophy or adherence from product capability alone;</li>
+<li>copy protected code, media, screenshots, or branding;</li>
+<li>hide the free experience so users cannot reach the core value;</li>
+<li>use fake reviews, dark patterns, spam, or misleading “AI” promises;</li>
+<li>turn a missing analytics connector into a claim about zero traffic.</li>
+</ul>
+<h2 id="bottom-line">Bottom line</h2>
+<p>The strongest competitors already cover large parts of logging, programming,
+media, social, and automation. Surpass wins by making the whole decision loop
+feel calmer and more trustworthy: start quickly, log without interruption,
+understand the next target, and keep the evidence intact. That is a narrower
+promise than “the best fitness app,” but it is concrete enough to measure and
+deep enough to become a durable product advantage.</p>
 <h2 id="related-reading">Related reading</h2>
 <ul>
 <li><a href="/blog/strong-to-surpass-import-guide">Strong to Surpass Import Guide: Check Your CSV Before Switching Apps</a></li>
-<li><a href="/blog/bpc-157-peptide-science-recovery-evidence">BPC-157: The Peptide Hype vs What Science Actually Says</a></li>
+<li><a href="/blog/workout-app-not-building-muscle">Why Your Workout App May Not Be Helping You Progress</a></li>
+<li><a href="/blog/progressive-overload-app-works">Progressive Overload App: What a Useful Training Log Should Do</a></li>
 </ul>
 <h2 id="limits-of-the-evidence">Limits of the evidence</h2>
-<p>Product comparisons describe a workflow at the time of writing, not a permanent guarantee of feature availability or results. Check the current product and make sure its data handling and capabilities fit your needs.</p>
+<p>This is a product and market-positioning snapshot, not an independent market-
+share, revenue, retention, or training-outcome study. App Store ratings,
+vendor-stated user counts, product descriptions, and subscription prices can
+change by storefront and date. Verify the linked official listing before
+relying on a feature or price. Surpass's own activation, retention,
+conversion, and revenue claims require owner-authorized exports and mature
+cohorts.</p>
 <h3 id="sources">Sources</h3>
 <ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/30335577/">Mechanisms of skeletal-muscle hypertrophy and their application to resistance training</a>. Mechanisms and practical interpretation of resistance-training adaptations.</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/27433992/">Dose-response relationship between weekly resistance-training volume and muscle growth</a>. Volume evidence; not a universal set prescription.</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/31191347/">Low-load versus high-load resistance training for muscle hypertrophy and strength</a>. Load and effort evidence; population and protocol limits apply.</li>
+<li><a href="https://apps.apple.com/us/app/gym-workout-alpha-progression/id1462277793">Alpha Progression official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/rp-hypertrophy/id1555614554">RP Hypertrophy official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543">Fitbod official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350">Hevy official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577">Strong official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000">JEFIT official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/stronglifts-5x5-workout/id488580022">StrongLifts official App Store listing</a></li>
+<li><a href="https://apps.apple.com/us/app/liftosaur-scriptable-workouts/id1661880849">Liftosaur official App Store listing</a></li>
 </ul>
 <div class="article-inline-cta">
-  <p class="article-inline-cta-eyebrow">APPLY IT IN THE GYM</p>
-  <h2 id="build-the-body-people-notice">Build the body people notice.</h2>
-  <p>Surpass keeps working sets, recent performance, targets, and rest timing together on iPhone.</p>
-  <a href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_workout_apps&mt=8" target="_blank" rel="noopener noreferrer" data-global-cta="blog_workout_apps_inline" data-app-store-placement="blog_workout_apps_inline" data-experiment="article_inline_cta" data-experiment-variant="outcome_v1" data-copy-version="article_promise_v2">Start free on iPhone</a>
+  <p class="article-inline-cta-eyebrow">Import and train with Surpass</p>
+  <h2 id="bring-your-workout-history-with-you">Bring your workout history with you.</h2>
+  <p>Surpass imports compatible Hevy, Strong, and FitNotes history, then keeps the previous result and next target inside the workout.</p>
+  <a href="https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_workout_apps&mt=8" target="_blank" rel="noopener noreferrer" data-global-cta="blog_workout_apps_inline" data-app-store-placement="blog_workout_apps_inline" data-experiment="article_inline_cta" data-experiment-variant="outcome_v1" data-copy-version="article_intent_promise_v1">Start free on iPhone</a>
 </div>
-9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$19"}}]}]
-a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$L18","mental-fatigue-training-performance-cns",{"href":"/blog/mental-fatigue-training-performance-cns","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Mental Fatigue and Resistance Training: What It Can Change"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Cognitive effort may reduce the amount of resistance exercise some people complete, but “CNS exhaustion” is not a diagnosis. Learn how to adjust a session without turning a laboratory task into a life rule."}]]}],["$","$L18","air-pollution-muscle-building-outdoor-training",{"href":"/blog/air-pollution-muscle-building-outdoor-training","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Air Pollution and Outdoor Training: What Lifters Need to Know"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Air pollution can change the respiratory cost of outdoor exercise. Learn how to use air-quality information, choose indoor alternatives, and avoid turning mechanistic research into a muscle-loss claim."}]]}],["$","$L18","bracing-intra-abdominal-pressure-strength-science",{"href":"/blog/bracing-intra-abdominal-pressure-strength-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Bracing and Intra-Abdominal Pressure for Strength Training"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Learn what bracing and intra-abdominal pressure can contribute to lifting technique, how they differ from hollowing, and why they are not guarantees against injury."}]]}],["$","$L18","deload-weeks-muscle-science",{"href":"/blog/deload-weeks-muscle-science","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Deload Weeks: When Reduced Training May Help"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"A deload is a short reduction in training stress, not a mandatory calendar ritual. Learn what the limited research shows and how to choose a deload from performance, fatigue, and life context."}]]}]]}]]}]
-b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Bring your workout history with you."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Surpass imports compatible Hevy, Strong, and FitNotes history, then keeps the previous result and next target inside the workout."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_workout_apps&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"blog_workout_apps_final","data-app-store-placement":"blog_workout_apps_final","data-copy-version":"article_promise_v2","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Start free on iPhone"}]]}]
-c:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
-f:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Surpass Competitor Analysis: The Complete Dossier | Surpass"}],["$","meta","1",{"name":"description","content":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Surpass can learn from each."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"strength training app,hypertrophy tracker,workout planner,progressive overload app,visible muscle,workout receipts,weekly muscle targets,Hevy import"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"article:section","content":"Business"}],["$","link","8",{"rel":"canonical","href":"https://jacked.coach/blog/surpass-competitor-analysis-2026/"}],["$","meta","9",{"property":"og:title","content":"Surpass Competitor Analysis: The Complete Dossier"}],["$","meta","10",{"property":"og:description","content":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Surpass can learn from each."}],["$","meta","11",{"property":"og:url","content":"https://jacked.coach/blog/surpass-competitor-analysis-2026/"}],["$","meta","12",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Surpass Competitor Analysis: The Complete Dossier | Surpass"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:modified_time","content":"2026-08-15"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Surpass Competitor Analysis: The Complete Dossier"}],["$","meta","20",{"name":"twitter:description","content":"Deep dive into every major fitness app competitor — revenue, founders, marketing, and what Surpass can learn from each."}],["$","meta","21",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]}]}]}],null]}]
-11:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
-14:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+9:["$","article",null,{"style":{"lineHeight":"1.9","fontSize":"1.08rem","color":"#ccc"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]}]
+a:["$","section",null,{"style":{"marginTop":"3rem","paddingTop":"2rem","borderTop":"2px solid #333"},"children":[["$","h2",null,{"style":{"fontSize":"1.4rem","marginBottom":"1rem","fontWeight":"750","color":"#ffffff"},"children":"Related Articles"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":"0.75rem"},"children":[["$","$L18","hypertrophy-app-vs-generic-tracker",{"href":"/blog/hypertrophy-app-vs-generic-tracker","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hypertrophy App vs Generic Workout Tracker: What Actually Matters"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Generic workout trackers store what happened. A hypertrophy app should help decide what to do next, while keeping volume, effort, and progress visible."}]]}],["$","$L18","best-workout-app-hypertrophy-2026",{"href":"/blog/best-workout-app-hypertrophy-2026","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Best Workout App for Hypertrophy: Features That Actually Matter"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"The best workout app for hypertrophy should make live logging, progressive overload, weekly muscle volume, effort tracking, and progress review easier."}]]}],["$","$L18","hevy-import-guide",{"href":"/blog/hevy-import-guide","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Hevy Import Guide: How to Move Workout History Into a Better Hypertrophy Tracker"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Switching workout apps should not mean losing years of training context. Here is what matters when importing Hevy workouts, routines, measurements, notes, and set types."}]]}],["$","$L18","stretch-mediated-hypertrophy-lengthened-partials",{"href":"/blog/stretch-mediated-hypertrophy-lengthened-partials","style":{"display":"block","padding":"1rem","background":"#1a1a1a","borderRadius":"10px","textDecoration":"none","color":"inherit","border":"1px solid #333"},"children":[["$","h3",null,{"style":{"margin":0,"fontSize":"1rem","fontWeight":"650","color":"#d9c26c"},"children":"Lengthened Partials and Stretch-Mediated Hypertrophy: What We Know"}],["$","p",null,{"style":{"margin":"0.35rem 0 0","color":"#aaa","fontSize":"0.88rem","lineHeight":1.5},"children":"Training at longer muscle lengths may be useful for some exercises, but current studies do not show that lengthened partials universally beat full range of motion."}]]}]]}]]}]
+b:["$","section",null,{"style":{"marginTop":"3rem","padding":"1.6rem","background":"#f2eee4","borderRadius":"10px","color":"#111","textAlign":"center"},"children":[["$","h2",null,{"style":{"marginTop":0,"fontSize":"1.28rem","fontWeight":"760","letterSpacing":0},"children":"Bring your workout history with you."}],["$","p",null,{"style":{"marginBottom":"1.5rem","fontSize":"1rem","color":"#4b473f"},"children":"Surpass imports compatible Hevy, Strong, and FitNotes history, then keeps the previous result and next target inside the workout."}],["$","a",null,{"href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=blog_workout_apps&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"blog_workout_apps_final","data-app-store-placement":"blog_workout_apps_final","data-copy-version":"article_intent_promise_v1","style":{"display":"inline-block","padding":"0.8rem 1.25rem","background":"#111","color":"#f7f2e8","borderRadius":"8px","textDecoration":"none","fontWeight":"720"},"children":"Start free on iPhone"}]]}]
+c:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Workout App Competitor Map: What Surpass Must Beat in 2026 | Surpass"}],["$","meta","1",{"name":"description","content":"A source-bounded comparison of the workout trackers, hypertrophy planners, and adaptive coaches that matter to Surpass users."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"progressive overload app,gym workout tracker,next set targets,workout log,Hevy alternative,Strong alternative,1RM calculator,plate calculator"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"article:section","content":"Business"}],["$","link","8",{"rel":"canonical","href":"https://jacked.coach/blog/surpass-competitor-analysis-2026/"}],["$","meta","9",{"property":"og:title","content":"Workout App Competitor Map: What Surpass Must Beat in 2026"}],["$","meta","10",{"property":"og:description","content":"A source-bounded comparison of the workout trackers, hypertrophy planners, and adaptive coaches that matter to Surpass users."}],["$","meta","11",{"property":"og:url","content":"https://jacked.coach/blog/surpass-competitor-analysis-2026/"}],["$","meta","12",{"property":"og:image","content":"https://jacked.coach/og-image.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Workout App Competitor Map: What Surpass Must Beat in 2026 | Surpass"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:modified_time","content":"2026-08-17"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Workout App Competitor Map: What Surpass Must Beat in 2026"}],["$","meta","20",{"name":"twitter:description","content":"A source-bounded comparison of the workout trackers, hypertrophy planners, and adaptive coaches that matter to Surpass users."}],["$","meta","21",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]}]}]}],null]}]
+11:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
 17:true
-1c:null
+19:["$","li","related-reading",{"style":{"margin":"0.3rem 0 0.3rem","paddingLeft":0},"children":["$","a",null,{"href":"#related-reading","style":{"color":"#d9c26c","textDecoration":"none","fontSize":"0.95rem","fontWeight":720},"children":"Related reading"}]}]
+1d:null
 e:300
 e:C
 16:0

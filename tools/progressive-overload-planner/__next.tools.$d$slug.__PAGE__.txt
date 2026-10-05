@@ -1,0 +1,564 @@
+1:"$Sreact.fragment"
+2:T335a,
+      .tools-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+      }
+      .tools-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .tools-hero {
+        padding: 54px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
+        gap: 32px;
+        align-items: end;
+      }
+      .tools-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.25rem, 5.6vw, 4.4rem);
+        line-height: 0.98;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .tools-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.02rem;
+        line-height: 1.62;
+        max-width: 720px;
+      }
+      .tools-signal {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px;
+        color: #d9c26c;
+        font-weight: 680;
+        line-height: 1.55;
+      }
+      .tools-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+      }
+      .tool-link-card {
+        display: flex;
+        min-height: 156px;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 18px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242,238,228,0.1);
+        color: inherit;
+        text-decoration: none;
+      }
+      .tool-link-card strong {
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .tool-link-card p {
+        color: #a7a094;
+        margin: 10px 0 18px;
+        line-height: 1.55;
+        font-size: 0.94rem;
+      }
+      .tool-link-card span {
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .tool-section {
+        padding: 38px 0;
+        border-top: 1px solid rgba(255,255,255,0.08);
+      }
+      .tool-section h2 {
+        margin: 0 0 18px;
+        color: #f7f2e8;
+        font-size: clamp(1.42rem, 3.2vw, 2.2rem);
+        line-height: 1.12;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .tool-workspace {
+        display: grid;
+        grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.98fr);
+        gap: 18px;
+        align-items: start;
+        padding: 24px 0 54px;
+      }
+      .tool-card,
+      .tool-result-card {
+        border-radius: 8px;
+        border: 1px solid rgba(242,238,228,0.11);
+        background: #0e0e0d;
+        box-shadow: 0 18px 44px rgba(0,0,0,0.28);
+      }
+      .tool-card {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        padding: 18px;
+      }
+      .tool-card-head,
+      .tool-field-wide {
+        grid-column: 1 / -1;
+      }
+      .tool-card-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        align-items: baseline;
+        padding-bottom: 6px;
+      }
+      .tool-card-head h2 {
+        margin: 0;
+        color: #f7f2e8;
+        font-size: 1rem;
+        font-weight: 720;
+      }
+      .tool-card-head span,
+      .tool-kicker {
+        color: #817b70;
+        font-size: 0.72rem;
+        font-weight: 720;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .tool-field {
+        display: grid;
+        gap: 6px;
+      }
+      .tool-field span {
+        color: #b7b0a3;
+        font-size: 0.82rem;
+        font-weight: 650;
+      }
+      .tool-field input,
+      .tool-field textarea,
+      .tool-field select {
+        min-height: 44px;
+        width: 100%;
+        box-sizing: border-box;
+        border-radius: 8px;
+        border: 1px solid rgba(245,241,232,0.16);
+        background: #070707;
+        color: #f7f2e8;
+        padding: 0 12px;
+        font-size: 0.96rem;
+        outline: none;
+      }
+      .tool-field textarea {
+        min-height: 180px;
+        padding: 12px;
+        resize: vertical;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        line-height: 1.5;
+      }
+      .tool-field input:focus,
+      .tool-field textarea:focus,
+      .tool-field select:focus {
+        border-color: #d9c26c;
+      }
+      .tool-primary,
+      .tool-secondary {
+        min-height: 46px;
+        border-radius: 8px;
+        padding: 0 18px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 760;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 0.94rem;
+      }
+      .tool-primary {
+        border: 1px solid rgba(255,255,255,0.12);
+        background: #e2c95f;
+        color: #101010;
+        grid-column: 1 / -1;
+      }
+      .tool-secondary {
+        border: 1px solid rgba(245,241,232,0.16);
+        background: rgba(255,255,255,0.03);
+        color: #f2eee4;
+      }
+      .tool-result-card {
+        position: sticky;
+        top: 88px;
+        padding: 20px;
+      }
+      .tool-result-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 10px;
+      }
+      .tool-result-cta {
+        flex: 0 0 auto;
+        min-height: 42px;
+        padding: 0 14px;
+        font-size: 0.84rem;
+        grid-column: auto;
+      }
+      .tool-result-handoff {
+        margin: 0 0 12px;
+        color: #f7f2e8 !important;
+        font-weight: 700;
+      }
+      .tool-result-card h2 {
+        margin: 8px 0 12px;
+        color: #e2c95f;
+        font-size: clamp(1.55rem, 3.8vw, 2.55rem);
+        line-height: 1.06;
+        letter-spacing: 0;
+        font-weight: 760;
+      }
+      .tool-result-card p {
+        color: #c8c1b6;
+        line-height: 1.62;
+      }
+      .tool-muted {
+        color: #8f897c !important;
+        font-size: 0.92rem;
+      }
+      .tool-result-line {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 12px 0;
+        border-top: 1px solid rgba(255,255,255,0.08);
+      }
+      .tool-result-line span {
+        color: #8f897c;
+      }
+      .tool-result-line strong {
+        color: #f7f2e8;
+        text-align: right;
+      }
+      .tool-result-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 12px;
+      }
+      .rir-table {
+        overflow-x: auto;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+      }
+      .rir-table table {
+        border-collapse: collapse;
+        min-width: 560px;
+        width: 100%;
+      }
+      .rir-table th,
+      .rir-table td {
+        padding: 8px;
+        border-bottom: 1px solid rgba(255,255,255,0.06);
+        text-align: right;
+        font-size: 0.86rem;
+      }
+      .rir-table th {
+        color: #d9c26c;
+      }
+      .rir-table td {
+        color: #f2eee4;
+      }
+      .mini-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0 14px;
+      }
+      .warmup-list {
+        display: grid;
+        gap: 8px;
+      }
+      .warmup-list div {
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 12px;
+        background: #080808;
+      }
+      .warmup-list strong {
+        color: #f7f2e8;
+      }
+      .warmup-list span {
+        color: #8f897c;
+      }
+      .split-day-list {
+        display: grid;
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .split-day-card {
+        border: 1px solid rgba(255,255,255,0.09);
+        border-radius: 8px;
+        background: #080808;
+        overflow: hidden;
+      }
+      .split-day-card header {
+        display: flex;
+        justify-content: space-between;
+        gap: 14px;
+        align-items: flex-start;
+        padding: 12px;
+        border-bottom: 1px solid rgba(255,255,255,0.07);
+      }
+      .split-day-card header div {
+        display: grid;
+        gap: 3px;
+      }
+      .split-day-card header strong {
+        color: #f7f2e8;
+        font-weight: 760;
+      }
+      .split-day-card header span,
+      .split-day-card header em {
+        color: #9f988c;
+        font-size: 0.86rem;
+        font-style: normal;
+      }
+      .split-day-card header em {
+        flex: 0 0 auto;
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .split-exercise-list {
+        display: grid;
+      }
+      .split-exercise-row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto auto;
+        gap: 10px;
+        align-items: baseline;
+        padding: 9px 12px;
+      }
+      .split-exercise-row + .split-exercise-row {
+        border-top: 1px solid rgba(255,255,255,0.055);
+      }
+      .split-exercise-row strong {
+        color: #f2eee4;
+        font-size: 0.92rem;
+      }
+      .split-exercise-row span {
+        color: #d9c26c;
+        font-size: 0.86rem;
+        font-weight: 720;
+        white-space: nowrap;
+      }
+      .split-exercise-row em {
+        color: #8f897c;
+        font-size: 0.84rem;
+        font-style: normal;
+        white-space: nowrap;
+      }
+      .split-volume-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .split-volume-grid div {
+        display: grid;
+        gap: 2px;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 10px;
+        background: rgba(226, 201, 95, 0.06);
+      }
+      .split-volume-grid strong {
+        color: #f7f2e8;
+        font-size: 0.88rem;
+      }
+      .split-volume-grid span {
+        color: #d9c26c;
+        font-size: 0.9rem;
+        font-weight: 720;
+      }
+      .split-volume-grid em {
+        color: #8f897c;
+        font-size: 0.82rem;
+        font-style: normal;
+      }
+      .split-rules {
+        display: grid;
+        gap: 8px;
+        margin-top: 14px;
+      }
+      .split-rules p {
+        margin: 0;
+        padding-left: 12px;
+        border-left: 2px solid rgba(226, 201, 95, 0.55);
+      }
+      .volume-list,
+      .swap-list,
+      .standards-list {
+        display: grid;
+        gap: 8px;
+        margin-top: 12px;
+      }
+      .volume-list div,
+      .swap-list div,
+      .standards-list div {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 4px 12px;
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 8px;
+        padding: 12px;
+        background: #080808;
+      }
+      .swap-list div {
+        grid-template-columns: 1fr;
+      }
+      .standards-list div {
+        grid-template-columns: 1fr auto auto;
+        align-items: baseline;
+      }
+      .standards-list div.is-current {
+        border-color: rgba(226, 201, 95, 0.48);
+        background: rgba(226, 201, 95, 0.08);
+      }
+      .volume-list strong,
+      .swap-list strong,
+      .standards-list strong {
+        color: #f7f2e8;
+      }
+      .volume-list span,
+      .standards-list span {
+        color: #d9c26c;
+        font-weight: 720;
+      }
+      .volume-list em,
+      .swap-list span,
+      .standards-list em {
+        grid-column: 1 / -1;
+        color: #9f988c;
+        font-style: normal;
+        font-size: 0.9rem;
+      }
+      .standards-list em {
+        grid-column: auto;
+      }
+      .copy-blocks {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 0.7fr);
+        gap: 26px;
+      }
+      .copy-blocks h2,
+      .copy-blocks h3 {
+        color: #f7f2e8;
+        margin: 0 0 10px;
+      }
+      .copy-blocks p,
+      .copy-blocks li {
+        color: #a9a294;
+        line-height: 1.7;
+      }
+      .copy-list {
+        display: grid;
+        gap: 16px;
+      }
+      .copy-list article {
+        padding-bottom: 16px;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+      }
+      .related-tools {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      .related-tools a {
+        color: #d9c26c;
+        font-weight: 720;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(243,199,77,0.42);
+      }
+      .tool-cta-band {
+        background: #f5f1e8;
+        color: #111;
+        padding: 42px 0;
+      }
+      .tool-cta-band h2 {
+        margin: 0 0 10px;
+        color: #111;
+      }
+      .tool-cta-band p {
+        color: #4b473f;
+        max-width: 760px;
+        line-height: 1.65;
+      }
+      @media (max-width: 820px) {
+        .tools-hero,
+        .tool-workspace,
+        .copy-blocks {
+          grid-template-columns: 1fr;
+        }
+        .tool-card {
+          grid-template-columns: 1fr;
+        }
+        .tool-result-card {
+          position: static;
+        }
+        .tool-result-head {
+          align-items: stretch;
+          flex-direction: column;
+        }
+        .tool-result-cta {
+          width: 100%;
+        }
+        .split-exercise-row {
+          grid-template-columns: minmax(0, 1fr) auto;
+        }
+        .split-exercise-row em {
+          grid-column: 1 / -1;
+        }
+        .split-volume-grid {
+          grid-template-columns: 1fr;
+        }
+        .tools-hero {
+          padding-top: 44px;
+        }
+      }
+    d:X
+12:X
+12:C
+0:{"buildId":"OI3w58_tgi7Ym_n5V855l","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"tools-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+18:I[24954,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js","/_next/static/chunks/12in4orwfca1z.js"],"default"]
+19:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js","/_next/static/chunks/12in4orwfca1z.js"],""]
+1a:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+1e:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
+1f:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+20:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+17:T659,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Progressive Overload Planner: Plan the Next Weeks of Double Progression","description":"Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make.","url":"https://jacked.coach/tools/progressive-overload-planner/","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Tools","item":"https://jacked.coach/tools/"},{"@type":"ListItem","position":3,"name":"Progressive Overload Planner","item":"https://jacked.coach/tools/progressive-overload-planner/"}]}},{"@type":"WebApplication","name":"Progressive Overload Planner","description":"Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make.","applicationCategory":"HealthApplication","operatingSystem":"Web","url":"https://jacked.coach/tools/progressive-overload-planner/","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is this a progressive overload calculator?","acceptedAnswer":{"@type":"Answer","text":"Yes. It plans several weeks of double progression from one completed set."}},{"@type":"Question","name":"Does it use Epley or Brzycki?","acceptedAnswer":{"@type":"Answer","text":"No. Those formulas estimate a one-rep max. This planner only walks the rep range and load jump you enter. The 1RM calculator cites Epley (1985) and Brzycki (1993) when you want the estimate."}}]}]}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}]
+4:["$","section",null,{"className":"tools-wrap tools-hero","children":[["$","div",null,{"children":[["$","h1",null,{"children":"Progressive Overload Planner"}],["$","p",null,{"children":[["$","strong",null,{"children":"Turn the last set into the next few weeks."}]," ","Enter the set you just finished. The planner adds a rep each week until you hit the top of the range, then adds load and starts again. Epley (1985) and Brzycki (1993) estimate a one-rep max; this planner does not. It only schedules the range you set."]}]]}],["$","div",null,{"className":"tools-signal","children":"Log the set in Surpass and the next target stays with the workout."}]]}]
+5:["$","section",null,{"className":"tools-wrap","children":["$","$L18",null,{"tool":{"slug":"progressive-overload-planner","type":"overload-plan","name":"Progressive Overload Planner","title":"Progressive Overload Planner: Plan the Next Weeks of Double Progression","metaDescription":"Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make.","h1":"Progressive Overload Planner","promise":"Turn the last set into the next few weeks.","intro":"Enter the set you just finished. The planner adds a rep each week until you hit the top of the range, then adds load and starts again. Epley (1985) and Brzycki (1993) estimate a one-rep max; this planner does not. It only schedules the range you set.","primaryKeyword":"progressive overload planner","campaign":"progressive_overload_planner","defaults":{"exercise":"Bench press","units":"kg","weight":80,"reps":8,"minReps":6,"maxReps":10,"weeks":6,"increment":2.5},"sections":[["What double progression means","Stay at the same load and add a rep until you reach the top of the range. Then add the smallest useful load and return to the bottom of the range."],["Why this is not a 1RM forecast","Epley (1985) and Brzycki (1993) turn a hard set into an estimated max. A weekly plan can be useful without that estimate, because the decision is repeat, add a rep, or add load."],["How to use the weeks","Treat each row as the target for that week, not a promise. If the set is far harder than the range, hold the load instead of following the next row."],["Where Surpass does this in the gym","Surpass shows the next-set target beside last time while you train, so you do not have to reopen this planner between sets."]],"examples":["80 kg x 8 in a 6–10 range, 2.5 kg jumps: week 1 is 80 x 8, then 80 x 9, 80 x 10, then 82.5 x 6.","If you already finished at the top of the range, the next week adds load and resets to the bottom."],"faqs":[["Is this a progressive overload calculator?","Yes. It plans several weeks of double progression from one completed set."],["Does it use Epley or Brzycki?","No. Those formulas estimate a one-rep max. This planner only walks the rep range and load jump you enter. The 1RM calculator cites Epley (1985) and Brzycki (1993) when you want the estimate."]],"related":["next-set-calculator","one-rep-max-calculator","plate-calculator"]}}]}]
+6:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"className":"copy-list","children":[["$","article",null,{"children":[["$","h2",null,{"children":"How to read the result"}],["$","p",null,{"children":["Turn the last set into the next few weeks."," The notes below show the assumptions behind that recommendation."]}]]}],[["$","article","What double progression means",{"children":[["$","h2",null,{"children":"What double progression means"}],["$","p",null,{"children":"Stay at the same load and add a rep until you reach the top of the range. Then add the smallest useful load and return to the bottom of the range."}]]}],["$","article","Why this is not a 1RM forecast",{"children":[["$","h2",null,{"children":"Why this is not a 1RM forecast"}],["$","p",null,{"children":"Epley (1985) and Brzycki (1993) turn a hard set into an estimated max. A weekly plan can be useful without that estimate, because the decision is repeat, add a rep, or add load."}]]}],["$","article","How to use the weeks",{"children":[["$","h2",null,{"children":"How to use the weeks"}],["$","p",null,{"children":"Treat each row as the target for that week, not a promise. If the set is far harder than the range, hold the load instead of following the next row."}]]}],["$","article","Where Surpass does this in the gym",{"children":[["$","h2",null,{"children":"Where Surpass does this in the gym"}],["$","p",null,{"children":"Surpass shows the next-set target beside last time while you train, so you do not have to reopen this planner between sets."}]]}]]]}],["$","aside",null,{"children":[["$","h2",null,{"children":"Examples"}],["$","ul",null,{"children":[["$","li","80 kg x 8 in a 6–10 range, 2.5 kg jumps: week 1 is 80 x 8, then 80 x 9, 80 x 10, then 82.5 x 6.",{"children":"80 kg x 8 in a 6–10 range, 2.5 kg jumps: week 1 is 80 x 8, then 80 x 9, 80 x 10, then 82.5 x 6."}],["$","li","If you already finished at the top of the range, the next week adds load and resets to the bottom.",{"children":"If you already finished at the top of the range, the next week adds load and resets to the bottom."}]]}],["$","h2",null,{"style":{"marginTop":"28px"},"children":"Related tools"}],["$","div",null,{"className":"related-tools","children":[["$","$L19","next-set-calculator",{"href":"/tools/next-set-calculator","data-related-tool":"next-set-calculator","children":"Next Set Calculator"}],["$","$L19","one-rep-max-calculator",{"href":"/tools/one-rep-max-calculator","data-related-tool":"one-rep-max-calculator","children":"1RM Calculator"}],["$","$L19","plate-calculator",{"href":"/tools/plate-calculator","data-related-tool":"plate-calculator","children":"Plate Calculator"}]]}]]}]]}]}]
+7:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Short answers"}],[["$","article","Is this a progressive overload calculator?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Is this a progressive overload calculator?"}],["$","p",null,{"children":"Yes. It plans several weeks of double progression from one completed set."}]]}],["$","article","Does it use Epley or Brzycki?",{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Does it use Epley or Brzycki?"}],["$","p",null,{"children":"No. Those formulas estimate a one-rep max. This planner only walks the rep range and load jump you enter. The 1RM calculator cites Epley (1985) and Brzycki (1993) when you want the estimate."}]]}]]]}],["$","div",null,{"className":"tools-signal","children":"Surpass turns your training history into next-set targets, RIR tracking, rest timing, smart warm-ups, PRs, and progress feedback."}]]}]}]
+8:["$","section",null,{"className":"tools-wrap tool-section","children":["$","div",null,{"className":"copy-blocks","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Method, assumptions, and privacy"}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Method"}],["$","p",null,{"children":"Walks double progression for the number of weeks you enter: add a rep until the top of the range, then add the load jump and return to the bottom."}]]}],["$","article",null,{"style":{"marginBottom":"18px"},"children":[["$","h3",null,{"children":"Assumptions"}],["$","p",null,{"children":"The plan assumes you hit the listed reps. If a week is much harder than the range, hold the load instead of taking the next row."}]]}],["$","article",null,{"children":[["$","h3",null,{"children":"Privacy"}],["$","p",null,{"children":"Inputs are handled in the browser for the web tool experience. Surpass should only store lifting data when a user chooses to log it in the app."}]]}]]}],["$","div",null,{"className":"tools-signal","children":"Check the method before you trust the number. Bad inputs still produce tidy-looking outputs."}]]}]}]
+9:["$","section",null,{"className":"tool-cta-band","children":["$","div",null,{"className":"tools-wrap","children":[["$","h2",null,{"children":"This is one set."}],["$","p",null,{"children":"Surpass does it for your whole workout: next-set targets, RIR, rest timing, warm-ups, PRs, and progress feedback."}],["$","a",null,{"className":"tool-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=progressive_overload_planner&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"tools_progressive_overload_planner_final","data-app-store-placement":"tools_progressive_overload_planner_final","children":"Start free on iPhone"}]]}]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/12in4orwfca1z.js","async":true}]
+b:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Progressive Overload Planner: Plan the Next Weeks of Double Progression | Surpass"}],["$","meta","1",{"name":"description","content":"Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"progressive overload app,gym workout tracker,next set targets,workout log,Hevy alternative,Strong alternative,1RM calculator,plate calculator"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/tools/progressive-overload-planner/"}],["$","meta","8",{"property":"og:title","content":"Progressive Overload Planner: Plan the Next Weeks of Double Progression"}],["$","meta","9",{"property":"og:description","content":"Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/tools/progressive-overload-planner/"}],["$","meta","11",{"property":"og:image","content":"https://jacked.coach/tools/progressive-overload-planner/social.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Progressive Overload Planner | Surpass"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Progressive Overload Planner: Plan the Next Weeks of Double Progression"}],["$","meta","17",{"name":"twitter:description","content":"Plan the next few weeks of double progression from your last set, a rep range, and the smallest load jump you can make."}],["$","meta","18",{"name":"twitter:image","content":"https://jacked.coach/tools/progressive-overload-planner/social.png"}]]}]}]}],null]}]
+10:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+16:true
+1c:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"
