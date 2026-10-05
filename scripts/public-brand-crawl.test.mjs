@@ -11,7 +11,7 @@ assert.equal(ready.failure_count, 0)
 
 const blocked = summarizeBrandCrawl({
   sitemapHttpStatus: 200,
-  urls: ['https://jacked.coach/tools/one-rep-max-calculator'],
+  urls: ['https://jacked.coach/tools/one-rep-max-calculator/'],
   pages: [{
     status: 'fail',
     http_status: 200,

@@ -2,12 +2,12 @@ export const metadata = {
   title: 'About',
   description: 'Surpass is an iPhone strength-training app built around visible priorities, focused sessions, fast set logging, and useful progress review.',
   alternates: {
-    canonical: 'https://jacked.coach/about',
+    canonical: 'https://jacked.coach/about/',
   },
   openGraph: {
     title: 'About Surpass',
     description: 'Surpass is an iPhone strength-training app built around visible priorities, focused sessions, fast set logging, and useful progress review.',
-    url: 'https://jacked.coach/about',
+    url: 'https://jacked.coach/about/',
     images: [
       {
         url: '/og-image.png',

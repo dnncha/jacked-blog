@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Best Physique Tracker Apps 2026: Scores, Scans and Plans Compared | Surpass',
   description: 'Physique tracker apps compared: Surpass, HyperBody, GainFrame, Rate My Physique, PhysiqueAI, ZOZOFIT, Hevy and RP Hypertrophy. What each one gives you, where it stops, and how to pick.',
   keywords: ['best physique tracker app', 'physique tracker', 'physique app', 'rate my physique app', 'body progress photo app', 'muscle growth tracker app'],
-  alternates: { canonical: 'https://jacked.coach/best-physique-tracker-apps' },
+  alternates: { canonical: 'https://jacked.coach/best-physique-tracker-apps/' },
   openGraph: {
     title: 'Best physique tracker apps in 2026',
     description: 'Scores, scans and plans compared: what each physique app gives you and where it stops.',
-    url: 'https://jacked.coach/best-physique-tracker-apps',
+    url: 'https://jacked.coach/best-physique-tracker-apps/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Physique tracker apps compared' }],
   },
   twitter: {

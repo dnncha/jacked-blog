@@ -88,11 +88,25 @@ function AppMotion() {
   return (
     <figure className={styles.motionFigure}>
       <div className={styles.phoneFrame}>
-        <img
-          className={styles.motionVideo}
-          src="/marketing/surpass-build-home.png"
-          alt="Surpass app workflow showing a visible priority, the next session, and weekly training context"
-        />
+        <picture>
+          <source
+            type="image/avif"
+            srcSet="/marketing/screens/surpass-01-320.avif 320w, /marketing/screens/surpass-01-480.avif 480w, /marketing/screens/surpass-01-640.avif 640w, /marketing/screens/surpass-01-960.avif 960w"
+            sizes="240px"
+          />
+          <source
+            type="image/webp"
+            srcSet="/marketing/screens/surpass-01-320.webp 320w, /marketing/screens/surpass-01-480.webp 480w, /marketing/screens/surpass-01-640.webp 640w, /marketing/screens/surpass-01-960.webp 960w"
+            sizes="240px"
+          />
+          <img
+            className={styles.motionVideo}
+            src="/marketing/screens/surpass-01-480.webp"
+            width={1287}
+            height={2796}
+            alt="Surpass workout screen with a next-set target beside what you lifted last time"
+          />
+        </picture>
       </div>
       <figcaption>Real Surpass interface. Prepared session preview.</figcaption>
     </figure>

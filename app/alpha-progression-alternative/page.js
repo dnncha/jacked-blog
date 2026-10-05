@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Alpha Progression Alternative for iPhone | Surpass',
   description: 'Compare Surpass and Alpha Progression by training workflow, progression guidance, exercise reference, and plan control before choosing your iPhone workout app.',
   keywords: ['Alpha Progression alternative', 'Alpha Progression alternative iPhone', 'gym workout app comparison', 'hypertrophy app alternative', 'workout planner iPhone'],
-  alternates: { canonical: 'https://jacked.coach/alpha-progression-alternative' },
+  alternates: { canonical: 'https://jacked.coach/alpha-progression-alternative/' },
   openGraph: {
     title: 'Alpha Progression Alternative for iPhone | Surpass',
     description: 'A balanced comparison of Surpass and Alpha Progression for lifters choosing an iPhone training workflow.',
-    url: 'https://jacked.coach/alpha-progression-alternative',
+    url: 'https://jacked.coach/alpha-progression-alternative/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass workout planner and progress view for iPhone' }],
   },
   twitter: {
@@ -56,8 +56,8 @@ export default function AlphaProgressionAlternativePage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_alpha_progression_alternative"
     canonicalPath="/alpha-progression-alternative"
-    heroImage="/marketing/surpass-build-home.png"
-    heroImageAlt="Surpass Build Home screen showing a focused training block and next workout"
+    heroImage="/marketing/screens/surpass-08-480.webp"
+    heroImageAlt="Surpass screenshot of proven programs including Full Body, Upper/Lower, and Push/Pull/Legs"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="Where Surpass takes a different route."

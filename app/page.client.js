@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
+import AppScreenshot from './components/AppScreenshot'
 import {
   BookOpen,
   ChartNoAxesCombined,
@@ -90,21 +91,21 @@ const appStoreUrl = (placement, campaignOverride = '') => {
 const proofPoints = [
   {
     icon: 'dumbbell',
-    eyebrow: '01 · PICK',
-    title: 'Choose the change',
-    copy: 'Start with the outcome you want the block to make visible.',
+    eyebrow: '01 · LAST TIME',
+    title: 'See what you lifted',
+    copy: 'Every set keeps last time beside the work you are about to do.',
   },
   {
     icon: 'chart',
-    eyebrow: '02 · TRAIN',
-    title: 'Train the exact session',
-    copy: 'Targets, last result, and rest stay beside the work.',
+    eyebrow: '02 · TARGET',
+    title: 'Get a next-set target',
+    copy: 'Today’s load and reps sit on the set, so progressive overload is the next number, not a guess.',
   },
   {
     icon: 'trend',
-    eyebrow: '03 · READ',
-    title: 'See what moved',
-    copy: 'Finish with a clear next move—not another spreadsheet.',
+    eyebrow: '03 · PR',
+    title: 'Catch the record',
+    copy: 'A live alert fires when you beat your all-time best, and the summary leads with it.',
   },
 ]
 
@@ -112,65 +113,65 @@ const workflow = [
   {
     step: '01',
     icon: 'clipboard',
-    title: "Open today's lift",
-    copy: 'Your exercises, recent sets, and targets are ready before the first warmup.',
-    image: '/marketing/surpass-home.png',
-    imageAlt: 'Surpass Today screen showing a Push A workout and the next barbell bench press target',
-    caption: 'Ready before you train',
+    title: 'Open the set with a target',
+    copy: 'Last time and today’s target are already on the set before you unrack.',
+    screen: 1,
+    imageAlt: 'Surpass screenshot: every set shows today’s target beside what you lifted last time',
+    caption: 'Target beside last time',
     presentation: 'screen',
   },
   {
     step: '02',
     icon: 'dumbbell',
-    title: 'Log the work',
-    copy: 'Capture weight and reps, run the rest timer, and move to the next set without leaving the workout.',
-    image: '/marketing/generated/surpass-workout-flow-woman.webp',
-    imageAlt: 'Woman reviewing her training session on an iPhone between sets in a dark strength gym',
+    title: 'Log any weight fast',
+    copy: 'A big keypad covers plates, dumbbells, and machines. The rest timer can stay on the Lock Screen.',
+    screen: 3,
+    imageAlt: 'Surpass screenshot: large weight keypad for plates, dumbbells, and machines',
     caption: 'Fast inside the set',
-    presentation: 'photo',
+    presentation: 'screen',
   },
   {
     step: '03',
     icon: 'trend',
-    title: 'Carry the build forward',
-    copy: 'Use the last result to decide whether to add reps, add load, repeat, or back off.',
-    image: '/marketing/generated/surpass-final-session.webp',
-    imageAlt: 'Man holding an iPhone after training beside a squat rack',
-    caption: 'Leave with the next move',
-    presentation: 'photo',
+    title: 'Leave with the next workout',
+    copy: 'The summary leads with PRs. Targets for next time are set from what you just lifted.',
+    screen: 6,
+    imageAlt: 'Surpass screenshot: next workout targets set from the session you just finished',
+    caption: 'Next time is already set',
+    presentation: 'screen',
   },
 ]
 
 const featureCards = [
   {
     icon: 'bolt',
-    title: 'Fast set logging',
-    copy: 'Log weight and reps from one screen, with the previous result and rest timer still visible.',
-    bullets: ['Previous result in view', 'Persistent rest and session state', 'Quick corrections between sets'],
+    title: 'Next-set targets',
+    copy: 'Each set shows what you lifted last time and a target for today, side by side.',
+    bullets: ['Last time stays visible', 'Today’s load and reps on the set', 'Targets update from the session you just saved'],
   },
   {
     icon: 'chart',
-    title: 'Double progression made obvious',
-    copy: 'Surpass uses your rep range and recent result to show when to add reps, add load, or repeat.',
-    bullets: ['Exercise-level rep ranges', 'Load and rep history', 'Clear repeat, add-reps, or add-load decisions'],
+    title: 'Live all-time PRs',
+    copy: 'Surpass compares the set with your all-time best and alerts you the moment you beat it. Share it in one tap.',
+    bullets: ['PR against all-time best', 'One-tap sharing', 'Workout summary leads with PRs'],
   },
   {
     icon: 'import',
-    title: 'Import from Hevy',
-    copy: 'Bring over the workouts, routines, notes, and set history you already trust.',
-    bullets: ['Workouts and routines', 'Exercise notes', 'Set history for better first targets'],
+    title: 'Import Hevy, Strong, or FitNotes',
+    copy: 'Bring a CSV onto the phone. Surpass reads it on device. No account on either side.',
+    bullets: ['Hevy, Strong, and FitNotes CSV', 'Review before anything is saved', 'Routines stay free and uncapped'],
   },
   {
-    icon: 'chart',
-    title: 'Weekly muscle targets',
-    copy: 'See which muscles have reached their weekly hard-set target and which still need work.',
-    bullets: ['Hard sets by muscle', 'Sets left this week', 'Workout history behind every total'],
+    icon: 'dumbbell',
+    title: 'Big weight keypad',
+    copy: 'Type plates, dumbbells, and machines without hunting through a tiny picker.',
+    bullets: ['Large keys between sets', 'Previous sets stay after edits', 'New exercises start with 3 sets'],
   },
   {
     icon: 'library',
-    title: 'Progress that leads to an action',
-    copy: 'Review lift history, PRs, workout consistency, and muscle targets without a dashboard full of noise.',
-    bullets: ['Lift history and PRs', 'Workout log', 'Muscle-target progress'],
+    title: 'Programs and the week',
+    copy: 'Start Full Body, Upper/Lower, or Push/Pull/Legs. Today shows this week and your streak.',
+    bullets: ['Proven programs included', 'This-week strip and streak', 'Optional Surpass Pro for auto-progression'],
   },
 ]
 
@@ -194,8 +195,8 @@ const confidenceItems = [
 
 const switchReasons = [
   {
-    title: 'Hevy power users',
-    quote: 'Keep the log you built. Turn it into the next load, rep target, and weekly muscle total.',
+    title: 'Coming from Hevy or Strong',
+    quote: 'Keep the sets you already logged. Surpass puts a next-set target beside last time, without an account.',
   },
   {
     title: 'Spreadsheet lifters',
@@ -218,7 +219,7 @@ const faqs = [
   },
   {
     question: 'How is Surpass different from a basic workout tracker?',
-    answer: 'Most workout trackers store what you did. Surpass turns that history into a next load and rep target, then shows how the workout moves each muscle toward its weekly target.',
+    answer: 'Most workout trackers store what you did. Surpass turns that history into a next load and rep target on the set you are about to do.',
   },
   {
     question: 'Can I import from Hevy?',
@@ -230,11 +231,11 @@ const faqs = [
   },
   {
     question: 'Does it work for advanced trainees?',
-    answer: 'Yes. Advanced lifters keep control of exercise selection and programming while using Surpass for faster logging, weekly targets, and performance-driven progression.',
+    answer: 'Yes. You keep the program. Surpass shows last time, a next-set target, and an all-time PR alert while you log. Optional Pro adds auto-progression, adaptive programs, and insights.',
   },
   {
     question: 'Is Surpass free?',
-    answer: 'Yes. Surpass is currently free to download and use on iPhone. The App Store listing is the source for current availability.',
+    answer: 'Logging, routines, personal records, and CSV import are free, with no account. Surpass Pro is optional: in the US App Store on 5 October 2026 it was $59.99 a year or $12.99 a month, with a 7-day trial. Apple shows the local price in the subscription sheet.',
   },
   {
     question: 'Where is my workout data stored?',
@@ -253,9 +254,15 @@ const homepageFaqSchema = {
 }
 
 const acquisitionGuides = [
-  ['/workout-tracker', 'Workout tracker for iPhone', 'Fast set logging, recent performance, rest timing, and weekly muscle targets in one focused training flow.'],
-  ['/gym-workout-planner', 'Gym workout planner for iPhone', 'Build your split, set rep ranges and weekly muscle targets, then carry each result into the next workout.'],
-  ['/progressive-overload', 'Progressive overload app', 'Use rep ranges, RIR, and recent results to choose when to repeat, add reps, or add load.'],
+  ['/hevy-vs-strong', 'Hevy vs Strong', 'A fair, dated comparison of Hevy and Strong, and where Surpass fits if you want next-set targets without an account.'],
+  ['/import-hevy', 'Import Hevy workouts', 'Export a Hevy CSV, then import it into Surpass on your iPhone.'],
+  ['/import-strong', 'Import Strong workouts', 'Export Strong Data as CSV, then review it in Surpass before saving.'],
+  ['/tools/progressive-overload-planner', 'Progressive overload planner', 'Plan the next few weeks of double progression from your last set.'],
+  ['/tools/one-rep-max-calculator', '1RM calculator', 'Estimate a one-rep max with Epley and Brzycki, then pick a training weight.'],
+  ['/tools/plate-calculator', 'Plate calculator', 'See which plates to load for the target on the bar.'],
+  ['/workout-tracker', 'Workout tracker for iPhone', 'Fast set logging, last-time targets, rest timing, and live PR alerts.'],
+  ['/gym-workout-planner', 'Gym workout planner for iPhone', 'Build your split, then carry each result into the next set target.'],
+  ['/progressive-overload', 'Progressive overload app', 'Use rep ranges and recent results to choose when to repeat, add reps, or add load.'],
   ['/hypertrophy-app', 'Hypertrophy app for iPhone', 'Track hard sets by muscle, keep effort and recent performance in view, and make a clearer next-set decision.'],
   ['/alpha-progression-alternative', 'Alpha Progression alternative', 'Compare a focused priority-block workflow with Alpha Progression before choosing your iPhone training app.'],
   ['/hevy-alternative', 'Switch from Hevy', 'Import supported Hevy workout history from CSV, review it before saving, and keep useful training context.'],
@@ -281,22 +288,22 @@ const acquisitionGuides = [
 
 const gymPanels = [
   {
-    image: '/marketing/generated/surpass-workout-flow.webp',
-    alt: 'Man athlete seated beside a barbell reviewing an iPhone in a dark strength gym',
-    title: 'Your last set stays where you need it',
-    copy: 'Load, reps, rest, and recent performance stay beside the set they affect.',
+    screen: 2,
+    alt: 'Surpass screenshot of a live all-time personal record alert with one-tap sharing',
+    title: 'The PR shows up while you are still under the bar',
+    copy: 'The alert compares the set with your all-time best, not just last week.',
   },
   {
-    image: '/marketing/generated/surpass-final-woman.webp',
-    alt: 'Woman athlete holding an iPhone after training in a dark strength gym',
-    title: 'Carry the session forward',
-    copy: 'End the workout with the next target, not another note to interpret later.',
+    screen: 4,
+    alt: 'Surpass workout summary screenshot leading with personal records, volume, and time',
+    title: 'Finish with the wins',
+    copy: 'PRs, volume, and time are the first thing you see when the session ends.',
   },
   {
-    image: '/marketing/generated/surpass-final-session.webp',
-    alt: 'Man athlete holding an iPhone after training beside a squat rack',
-    title: 'No second system',
-    copy: 'Plan, logging, rest, and progression stay in one iPhone workflow.',
+    screen: 8,
+    alt: 'Surpass screenshot of proven programs including Full Body, Upper/Lower, and Push/Pull/Legs',
+    title: 'Or start from a proven program',
+    copy: 'Full Body, Upper/Lower, Push/Pull/Legs, and more. Routines are free and uncapped.',
   },
 ]
 
@@ -344,14 +351,15 @@ function AppPreviewImage() {
   return (
     <figure className="app-preview-figure" data-analytics-media="app_preview">
       <div className="phone-shell app-preview-shell">
-        <img
+        <AppScreenshot
+          index={1}
           className="app-preview-image"
-          src="/marketing/surpass-home.png"
-          aria-label="Surpass app preview showing build guidance, set logging, progress, and weekly planning"
-          alt="Surpass app preview showing the next session, load target, weekly coverage, and workout receipt"
+          priority
+          sizes="(max-width: 760px) 240px, 320px"
+          alt="Surpass workout screen with a next-set target beside what you lifted last time"
         />
       </div>
-      <figcaption>Real Surpass interface · prepared session preview</figcaption>
+      <figcaption>Real Surpass interface · next-set target beside last time</figcaption>
     </figure>
   )
 }
@@ -359,7 +367,7 @@ function AppPreviewImage() {
 function StepVisual({ item }) {
   return (
     <figure className={`story-visual story-visual-${item.presentation}`}>
-      <img src={item.image} alt={item.imageAlt} loading="lazy" decoding="async" />
+      <AppScreenshot index={item.screen} alt={item.imageAlt} sizes="(max-width: 760px) 78vw, 280px" />
       <figcaption>
         <span>{item.step}</span>
         <strong>{item.caption}</strong>
@@ -415,15 +423,49 @@ function GymStory() {
         <div className="visual-grid">
           {gymPanels.map((panel, index) => (
             <article className={`visual-panel ${index === 0 ? 'large' : ''}`} key={panel.title}>
-              <img
-                src={panel.image}
-                alt={panel.alt}
-                loading="lazy"
-                decoding="async"
-              />
+              <AppScreenshot index={panel.screen} alt={panel.alt} sizes="(max-width: 760px) 88vw, 360px" />
               <div className="visual-panel-copy">
                 <h3>{panel.title}</h3>
                 <p>{panel.copy}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+const appStoreShots = [
+  [1, 'Every set has a target', 'Last time and today’s target sit on the set before you unrack.'],
+  [2, 'Never miss a PR', 'A live alert fires when the set beats your all-time best, with one-tap sharing.'],
+  [3, 'Type any weight. Fast.', 'The keypad covers plates, dumbbells, and machines between sets.'],
+  [4, 'Finish with your wins', 'The summary leads with personal records, volume, and time.'],
+  [5, 'Keep the streak alive', 'Today shows this week and the streak without a separate dashboard.'],
+  [6, 'Your next workout, ready', 'Targets for next time are set from the session you just saved.'],
+  [7, 'A plan that fits your week', 'The week stays visible so the next session is already chosen.'],
+  [8, 'Start a proven program', 'Full Body, Upper/Lower, and Push/Pull/Legs are included. Routines stay free.'],
+]
+
+function ScreenshotGallery() {
+  return (
+    <section id="screens" className="section visual-section">
+      <div className="wrap">
+        <SectionHeader
+          title="The App Store screens, in listing order."
+          copy="These are Surpass’s real iPhone screens. Each one is the same capture used on the App Store."
+        />
+        <div className="visual-grid">
+          {appStoreShots.map(([index, title, copy]) => (
+            <article className="visual-panel" key={title}>
+              <AppScreenshot
+                index={index}
+                alt={`Surpass App Store screenshot ${index}: ${title}`}
+                sizes="(max-width: 760px) 46vw, 240px"
+              />
+              <div className="visual-panel-copy">
+                <h3>{title}</h3>
+                <p>{copy}</p>
               </div>
             </article>
           ))}
@@ -461,19 +503,18 @@ function ProgressionSection() {
         </div>
 
         <div className="coach-visual">
-          <img
+          <AppScreenshot
             className="coach-photo"
-            src="/marketing/generated/surpass-hero-lifter.webp"
-            alt=""
-            loading="lazy"
-            decoding="async"
+            index={5}
+            sizes="(max-width: 760px) 78vw, 300px"
+            alt="Surpass Today screen showing this week’s training strip and streak"
           />
           <h3>What changes inside the workout</h3>
           <div className="decision-table">
             {[
               ['Old flow', 'Your last set is buried when you need it most.', 'Surpass', 'Target load, rep range, and last result are visible before the set.'],
               ['Old flow', 'Rest timing lives in a separate mental checklist.', 'Surpass', 'Rest stays attached to the active workout.'],
-              ['Old flow', 'Weekly volume is difficult to judge across a split.', 'Surpass', 'Hard sets and sets left stay visible by muscle.'],
+              ['Old flow', 'The week is a separate spreadsheet.', 'Surpass', 'This week and your streak stay on Today.'],
               ['Old flow', 'Switching tools means rebuilding context.', 'Surpass', 'Hevy import keeps prior training data available.'],
             ].map(([oldLabel, oldCopy, newLabel, newCopy]) => (
               <div key={newCopy} className="decision-row">
@@ -524,7 +565,7 @@ export default function HomeClient() {
 
   return (
     <>
-      <link rel="preload" as="image" href="/marketing/generated/surpass-hero-woman.webp" fetchPriority="high" precedence="default" />
+      <link rel="preload" as="image" href="/marketing/screens/surpass-01-480.webp" fetchPriority="high" precedence="default" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(homepageFaqSchema) }} />
       <div className="home-page">
       <style>{`
@@ -570,8 +611,7 @@ export default function HomeClient() {
           border-bottom: 1px solid var(--line);
           background-image:
             linear-gradient(90deg, rgba(3,3,3,0.98) 0%, rgba(3,3,3,0.76) 38%, rgba(3,3,3,0.24) 74%, rgba(3,3,3,0.2) 100%),
-            linear-gradient(180deg, rgba(3,3,3,0.05) 0%, rgba(3,3,3,0.78) 100%),
-            url('/marketing/generated/surpass-hero-woman.webp');
+            linear-gradient(180deg, rgba(3,3,3,0.05) 0%, rgba(3,3,3,0.78) 100%);
           background-position: 63% center;
           background-size: cover;
         }
@@ -1605,8 +1645,7 @@ export default function HomeClient() {
           border-radius: 8px;
           background:
             linear-gradient(90deg, rgba(8,8,7,0.94), rgba(8,8,7,0.78) 45%, rgba(8,8,7,0.18) 100%),
-            linear-gradient(135deg, rgba(245,185,53,0.14), rgba(255,255,255,0.015)),
-            url('/marketing/generated/surpass-final-woman.webp');
+            linear-gradient(135deg, rgba(245,185,53,0.14), rgba(255,255,255,0.015));
           background-size: cover;
           background-position: 63% center;
         }
@@ -1658,8 +1697,7 @@ export default function HomeClient() {
           .hero {
             min-height: auto;
             background-image:
-              linear-gradient(180deg, rgba(3,3,3,0.72) 0%, rgba(3,3,3,0.88) 46%, rgba(3,3,3,0.97) 100%),
-              url('/marketing/generated/surpass-hero-woman.webp');
+              linear-gradient(180deg, rgba(3,3,3,0.72) 0%, rgba(3,3,3,0.88) 46%, rgba(3,3,3,0.97) 100%);
             background-position: 61% top;
           }
 
@@ -1788,8 +1826,7 @@ export default function HomeClient() {
           min-height: 790px;
           background-image:
             linear-gradient(90deg, rgba(3,3,3,0.99) 0%, rgba(3,3,3,0.9) 38%, rgba(3,3,3,0.48) 72%, rgba(3,3,3,0.3) 100%),
-            radial-gradient(circle at 82% 24%, rgba(245,185,53,0.16), transparent 25rem),
-            url('/marketing/generated/surpass-hero-woman.webp');
+            radial-gradient(circle at 82% 24%, rgba(245,185,53,0.16), transparent 25rem);
           background-position: 63% center;
         }
 
@@ -2284,8 +2321,7 @@ export default function HomeClient() {
         @media (max-width: 760px) {
           .hero {
             background-image:
-              linear-gradient(180deg, rgba(3,3,3,0.76) 0%, rgba(3,3,3,0.92) 48%, rgba(3,3,3,0.99) 100%),
-              url('/marketing/generated/surpass-hero-woman.webp');
+              linear-gradient(180deg, rgba(3,3,3,0.76) 0%, rgba(3,3,3,0.92) 48%, rgba(3,3,3,0.99) 100%);
             background-position: 61% top;
           }
 
@@ -2346,8 +2382,7 @@ export default function HomeClient() {
           border-radius: 32px;
           background:
             linear-gradient(90deg, rgba(5,5,5,0.98) 0%, rgba(5,5,5,0.88) 46%, rgba(5,5,5,0.25) 100%),
-            linear-gradient(180deg, rgba(5,5,5,0.05) 0%, rgba(5,5,5,0.92) 100%),
-            url('/marketing/generated/surpass-hero-woman.webp') 68% center / cover no-repeat;
+            linear-gradient(180deg, rgba(5,5,5,0.05) 0%, rgba(5,5,5,0.92) 100%);
           box-shadow: 0 30px 100px rgba(0,0,0,0.34);
         }
 
@@ -2674,8 +2709,7 @@ export default function HomeClient() {
           border: 1px solid rgba(245,185,53,0.38);
           border-radius: 30px;
           background:
-            linear-gradient(90deg, rgba(5,5,5,0.9), rgba(5,5,5,0.52)),
-            url('/marketing/generated/surpass-final-woman.webp') center / cover no-repeat;
+            linear-gradient(90deg, rgba(5,5,5,0.9), rgba(5,5,5,0.52));
           box-shadow: 0 30px 90px rgba(0,0,0,0.4);
         }
 
@@ -2701,8 +2735,7 @@ export default function HomeClient() {
             padding: 48px 18px 26px;
             border-radius: 24px;
             background:
-              linear-gradient(180deg, rgba(5,5,5,0.18), rgba(5,5,5,0.96) 55%),
-              url('/marketing/generated/surpass-hero-woman.webp') 64% top / cover no-repeat;
+              linear-gradient(180deg, rgba(5,5,5,0.18), rgba(5,5,5,0.96) 55%);
           }
           .hero-eyebrow { margin-bottom: 20px; font-size: 0.61rem; letter-spacing: 0.1em; }
           .hero-wordmark { font-size: clamp(4.25rem, 19vw, 6.2rem); }
@@ -2777,19 +2810,19 @@ export default function HomeClient() {
       <section className="hero">
         <div className="wrap">
           <div className="hero-copy">
-            <p className="hero-eyebrow">BUILD THE BODY PEOPLE NOTICE</p>
+            <p className="hero-eyebrow">GYM LOG WITH NEXT-SET TARGETS</p>
             <h1>
               <span className="hero-wordmark">SURPASS</span>
               <span className="hero-promise">
-                Get bigger on <span className="gold-text">purpose.</span>
+                Every set has a <span className="gold-text">target.</span>
               </span>
             </h1>
             <p>
-              Choose what you want to change, train the block, and use the evidence to decide what comes next.
+              Beat last week. Surpass puts today’s load and reps beside what you lifted last time, alerts you on an all-time PR, and keeps the log on your iPhone.
             </p>
             <div className="hero-benefits" aria-label="Surpass product benefits">
-              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Visible-priority blocks</span>
               <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Next-set targets</span>
+              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Live PR alerts</span>
               <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> No account required</span>
             </div>
             <div ref={heroActionsRef} className="hero-actions">
@@ -2799,7 +2832,7 @@ export default function HomeClient() {
                 eyebrow="Free on the App Store"
                 experiment={HOMEPAGE_HERO_EXPERIMENT.name}
                 variant={heroVariant.variant}
-                heroPresentation="photo"
+                heroPresentation="screen"
                 copyVersion={HOMEPAGE_COPY_VERSION}
                 experimentReady={homepageHeroExperimentReady}
               >
@@ -2812,6 +2845,9 @@ export default function HomeClient() {
             <p className="store-note">
               Your workout history stays on your iPhone. Import it when you&apos;re ready.
             </p>
+            <a className="app-store-badge" href={appStoreUrl('hero', heroVariant.campaign)} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', marginTop: 14 }}>
+              <img src="/marketing/app-store-badge.svg" width={120} height={40} alt="Download on the App Store" />
+            </a>
           </div>
 
           <div className="hero-preview-wrap">
@@ -2821,8 +2857,8 @@ export default function HomeClient() {
             </div>
           <AppPreviewImage />
             <div className="hero-preview-callout hero-preview-callout-bottom">
-              <span>Weekly target</span>
-              <strong>Chest · 4 sets left</strong>
+              <span>All-time PR</span>
+              <strong>Live alert · one tap to share</strong>
             </div>
           </div>
         </div>
@@ -2831,8 +2867,8 @@ export default function HomeClient() {
       <section className="proof-strip signal-rail" aria-label="Surpass proof points">
         <div className="wrap signal-rail-grid">
           <div className="signal-rail-intro">
-            <p className="section-kicker">THE DIFFERENCE IS IN THE BUILD</p>
-            <h2>A body-building system, not a dashboard.</h2>
+            <p className="section-kicker">PROGRESSIVE OVERLOAD, ON THE SET</p>
+            <h2>Last time. Today’s target. The PR when you earn it.</h2>
           </div>
           <div className="proof-grid">
             {proofPoints.map((point) => (
@@ -2853,8 +2889,8 @@ export default function HomeClient() {
         <div className="wrap">
           <div className="story-heading">
             <p className="section-kicker">HOW SURPASS WORKS</p>
-            <h2>Choose the outcome. Train the block. See what moved.</h2>
-            <p>Surpass turns a vague goal into a clear loop: pick the priority, run the session, and carry the result forward.</p>
+            <h2>Log the set. Beat last time. Keep the record.</h2>
+            <p>Surpass is a gym log for people who lift. The next target is on the set, not in a spreadsheet you open later.</p>
           </div>
           <div className="story-steps">
             {workflow.map((item, index) => (
@@ -2896,12 +2932,13 @@ export default function HomeClient() {
       </section>
 
       <GymStory />
+      <ScreenshotGallery />
 
       <section id="download" className="section confidence-section">
         <div className="wrap">
           <SectionHeader
-            title="Your next block should have a point."
-            copy="Start with a visible priority, train with clear targets, and leave with an honest read on what moved."
+            title="The free log is the whole workout."
+            copy="Logging, routines, personal records, and CSV import do not require Surpass Pro or an account."
           />
           <div className="confidence-layout">
             <div className="confidence-grid">
@@ -2960,9 +2997,9 @@ export default function HomeClient() {
       <section className="final-cta">
         <div className="wrap">
           <div className="final-cta-inner">
-            <h2>Build the body people notice.</h2>
+            <h2>Beat last week.</h2>
             <p>
-              Start with a focused block, train with clear targets, and leave with an honest read on what moved. Free on iPhone with no account required.
+              Download Surpass on iPhone. Log sets with next-set targets, catch all-time PRs, and keep the history on the device. No account required.
             </p>
             <AppStoreButton href={appStoreUrl('final_cta')} content="homepage_final" eyebrow="Free on the App Store" experiment="homepage_lower_cta" variant="outcome_v1" copyVersion={HOMEPAGE_COPY_VERSION}>
               Start free on iPhone

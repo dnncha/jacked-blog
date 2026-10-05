@@ -1,10 +1,12 @@
-# Atlas origin for the Jacked static release.
+# Atlas origin for the Surpass static site (jacked.coach).
+# Releases: /opt/jacked/releases/<stamp>-<sha>; live = /opt/jacked/current symlink.
+# Do not add blocks for Tankful, Bronora, StatementCSV, or Super Time.
 www.jacked.coach {
 	redir https://jacked.coach{uri} 301
 }
 
 jacked.coach {
-	encode gzip zstd
+	encode zstd gzip
 
 	log {
 		output file /var/log/caddy/jacked-access.log {
@@ -16,14 +18,66 @@ jacked.coach {
 	}
 
 	header {
-		Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+		Strict-Transport-Security "max-age=63072000; includeSubDomains"
 		X-Content-Type-Options "nosniff"
 		X-Frame-Options "DENY"
 		Referrer-Policy "strict-origin-when-cross-origin"
 		Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+		-Server
 	}
+
+	@immutable path /_next/static/*
+	header @immutable Cache-Control "public, max-age=31536000, immutable"
+	@html path / *.html */
+	header @html Cache-Control "public, max-age=300, must-revalidate"
+
+	# Legacy slug redirects (ported from .do/app.yaml)
+	@legacy0 path /blog/beta-ecdysterone-muscle-growth /blog/beta-ecdysterone-muscle-growth/
+	redir @legacy0 /blog/beta-ecdysterone-muscle-anabolic-research/ 301
+	@legacy1 path /blog/creatine-loading-phase-necessary /blog/creatine-loading-phase-necessary/
+	redir @legacy1 /blog/creatine-loading-phase-necessary-research/ 301
+	@legacy2 path /blog/gut-microbiome-muscle-building-probiotics-2026 /blog/gut-microbiome-muscle-building-probiotics-2026/
+	redir @legacy2 /blog/gut-muscle-axis-microbiome-muscle-building/ 301
+	@legacy3 path /blog/gut-microbiome-muscle-growth-science /blog/gut-microbiome-muscle-growth-science/
+	redir @legacy3 /blog/gut-muscle-axis-microbiome-muscle-building/ 301
+	@legacy4 path /blog/muscle-memory-hypertrophy-detraining-science /blog/muscle-memory-hypertrophy-detraining-science/
+	redir @legacy4 /blog/muscle-memory-myonuclei-retention-science/ 301
+	@legacy5 path /blog/muscle-memory-science-gains-faster /blog/muscle-memory-science-gains-faster/
+	redir @legacy5 /blog/muscle-memory-myonuclei-retention-science/ 301
+	@legacy6 path /blog/strong-to-jacked-import-guide /blog/strong-to-jacked-import-guide/
+	redir @legacy6 /blog/strong-to-surpass-import-guide/ 301
+	@legacy7 path /blog/import-hevy-to-jacked /blog/import-hevy-to-jacked/
+	redir @legacy7 /blog/import-hevy-to-surpass/ 301
+	@legacy8 path /blog/jacked-competitor-analysis-2026 /blog/jacked-competitor-analysis-2026/
+	redir @legacy8 /blog/surpass-competitor-analysis-2026/ 301
+	@legacy9 path /blog/exercise-selection-architecture-hypertrophy /blog/exercise-selection-architecture-hypertrophy/
+	redir @legacy9 /blog/muscle-architecture-hypertrophy-science/ 301
+	@legacy10 path /blog/concurrent-training-interference-effect-muscle-growth /blog/concurrent-training-interference-effect-muscle-growth/
+	redir @legacy10 /blog/concurrent-training-interference-effect-2026/ 301
+	@legacy11 path /blog/recovery-technologies-muscle-growth-2026 /blog/recovery-technologies-muscle-growth-2026/
+	redir @legacy11 /blog/recovery-technologies-muscle-building-science/ 301
+	@legacy12 path /api/feed /api/feed/
+	redir @legacy12 /feed.xml 301
+
+	# Static export serves HTML at trailing-slash directories. Leave files and Next assets alone.
+	@noslash {
+		not path */
+		not path /_next/*
+		not path /healthz
+		not path *.*
+	}
+	redir @noslash {path}/ 301
 
 	respond /healthz 200
 	root * /opt/jacked/current
 	file_server
+
+	handle_errors {
+		@notfound expression {err.status_code} == 404
+		handle @notfound {
+			rewrite * /404.html
+			file_server
+		}
+		respond "{err.status_code} {err.status_text}"
+	}
 }

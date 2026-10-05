@@ -68,8 +68,10 @@ assert.match(webSource, /if \(!experimentReady\(anchor\)\) return/, 'outbound cl
 assert.match(webSource, /if \(!experimentReady\(anchor\)\) continue/, 'CTA impressions must not be marked observed before experiment assignment')
 assert.match(webSource, /attributeFilter: \['data-experiment-ready'\]/, 'CTA assignment changes must trigger a fresh observation pass')
 
-assert.match(layoutSource, /mixpanel\.init/, 'Mixpanel initialization should remain present')
-assert.match(layoutSource, /api_host:'https:\/\/api-eu\.mixpanel\.com'/, 'the EU Mixpanel host must remain configured')
+const analyticsSource = await readFile(new URL('../public/surpass-analytics.js', import.meta.url), 'utf8')
+assert.match(analyticsSource, /mixpanel\.init/, 'Mixpanel initialization should remain present')
+assert.match(analyticsSource, /api_host:'https:\/\/api-eu\.mixpanel\.com'/, 'the EU Mixpanel host must remain configured')
+assert.match(layoutSource, /src="\/surpass-analytics\.js"/, 'layout should load analytics from the external file')
 assert.match(layoutSource, /<WebAnalytics \/>/, 'the explicit page-view component should be mounted globally')
 assert.match(layoutSource, /pt=128406689&ct=smart_banner&mt=8/, 'the Smart App Banner provider and campaign tokens must remain')
 
@@ -187,7 +189,7 @@ const utilityProbe = `
     sessionId,
   })
   assert.equal(properties.pathname, '/tools/hevy-import-checker')
-  assert.equal(properties.canonical_url, 'https://jacked.coach/tools/hevy-import-checker')
+  assert.equal(properties.canonical_url, 'https://jacked.coach/tools/hevy-import-checker/')
   assert.equal(properties.page_type, 'tool')
   assert.equal(properties.tool_name, 'hevy-import-checker')
   assert.equal(properties.referrer, 'https://google.example')

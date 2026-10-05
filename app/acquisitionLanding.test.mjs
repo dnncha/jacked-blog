@@ -45,7 +45,7 @@ for (const campaign of ['seo_workout_tracker', 'seo_gym_workout_planner', 'seo_p
 }
 
 assert.ok(all.match(/\/og-image\.png/g)?.length >= 4, 'acquisition pages should use the current Surpass social image')
-assert.ok(all.includes('/marketing/surpass-home.png'), 'the acquisition pages should use the verified Surpass app screen')
+assert.ok(all.includes('/marketing/screens/surpass-01-480.webp'), 'the acquisition pages should use the verified Surpass app screen')
 assert.ok(sources['./components/AcquisitionLanding.js'].includes("'@type': 'FAQPage'"), 'landing pages should expose page-level FAQ schema')
 assert.ok(sources['./components/AcquisitionLanding.js'].includes("'@type': 'WebPage'"), 'landing pages should expose page-level WebPage schema')
 assert.ok(sources['./components/AcquisitionLanding.js'].includes("'@type': 'BreadcrumbList'"), 'landing pages should expose breadcrumb schema')
@@ -86,9 +86,9 @@ for (const page of [
   assert.ok(sources[page].includes('Start free on iPhone'), `${page} should use the outcome-led final handoff copy`)
 }
 assert.ok(sources['./workout-tracker/page.js'].includes('heroPresentation="screen"'), 'workout tracker should use product-screen hero proof')
-assert.ok(sources['./workout-tracker/page.js'].includes('/marketing/surpass-build-home.png'), 'workout tracker should use the verified planning screen')
+assert.ok(sources['./workout-tracker/page.js'].includes('/marketing/screens/surpass-06-480.webp'), 'workout tracker should use the verified planning screen')
 assert.ok(sources['./progressive-overload/page.js'].includes('heroPresentation="screen"'), 'progressive overload should use product-screen hero proof')
-assert.ok(sources['./progressive-overload/page.js'].includes('/marketing/surpass-progress.png'), 'progressive overload should use the verified progress screen')
+assert.ok(sources['./progressive-overload/page.js'].includes('/marketing/screens/surpass-01-480.webp'), 'progressive overload should use the verified progress screen')
 assert.ok(sources['./components/AcquisitionLanding.js'].includes('center calc(100% - 18px) / auto 35% no-repeat'), 'mobile product-screen heroes should keep the proof image below the trust note')
 for (const [path, canonicalPath] of [
   ['./workout-tracker/page.js', '/workout-tracker'],

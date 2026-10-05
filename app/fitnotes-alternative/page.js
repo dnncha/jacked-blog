@@ -6,11 +6,11 @@ export const metadata = {
   title: 'FitNotes Alternative for iPhone | Import Workout CSV',
   description: 'Export FitNotes workout history as CSV, review it in Surpass before saving, and continue training on iPhone with your historical lifts and weekly muscle targets.',
   keywords: ['FitNotes alternative iPhone', 'import FitNotes CSV', 'FitNotes workout export', 'switch from FitNotes', 'workout history iPhone'],
-  alternates: { canonical: 'https://jacked.coach/fitnotes-alternative' },
+  alternates: { canonical: 'https://jacked.coach/fitnotes-alternative/' },
   openGraph: {
     title: 'Bring FitNotes Workout History to Surpass',
     description: 'Use a FitNotes workout CSV to move supported historical logs into Surpass on iPhone.',
-    url: 'https://jacked.coach/fitnotes-alternative',
+    url: 'https://jacked.coach/fitnotes-alternative/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Import FitNotes workout history into Surpass on iPhone' }],
   },
   twitter: {
@@ -55,8 +55,8 @@ export default function FitNotesAlternativePage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_fitnotes_alternative"
     canonicalPath="/fitnotes-alternative"
-    heroImage="/marketing/surpass-home.png"
-    heroImageAlt="Surpass import screen showing Hevy, Strong, and FitNotes workout CSV sources"
+    heroImage="/marketing/screens/surpass-01-480.webp"
+    heroImageAlt="Surpass screenshot with a next-set target beside what you lifted last time"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="Your FitNotes history can move with you."

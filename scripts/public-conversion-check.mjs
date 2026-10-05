@@ -130,7 +130,7 @@ async function fetchConversionPage(url, audit) {
       headers: {
         accept: 'text/html,application/xhtml+xml',
         'cache-control': 'no-cache',
-        'user-agent': 'SurpassPublicConversionCheck/1.0 (+https://jacked.coach/support)',
+        'user-agent': 'SurpassPublicConversionCheck/1.0 (+https://jacked.coach/support/)',
       },
       redirect: 'follow',
     })

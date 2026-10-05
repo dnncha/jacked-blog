@@ -70,7 +70,7 @@ export default function AppStoreRedirectClient() {
       ['app_store_outbound_clicked', {
       ...context,
       pathname: '/tiktok/app-store',
-      canonical_url: 'https://jacked.coach/tiktok/app-store',
+      canonical_url: 'https://jacked.coach/tiktok/app-store/',
       page_type: 'campaign',
       page_slug: 'app-store',
       source_page: '/tiktok/app-store',

@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Surpass vs Hevy (2026): Physique Plan or Workout Log? | Surpass',
   description: 'Hevy is a free, social workout log. Surpass starts with the muscle you want people to notice, builds a training block for it, and keeps private photos that show it. An honest comparison, with prices.',
   keywords: ['Surpass vs Hevy', 'Hevy alternative', 'Hevy vs', 'Hevy comparison', 'physique workout app', 'Hevy progress photos'],
-  alternates: { canonical: 'https://jacked.coach/surpass-vs-hevy' },
+  alternates: { canonical: 'https://jacked.coach/surpass-vs-hevy/' },
   openGraph: {
     title: 'Surpass vs Hevy: physique plan or workout log?',
     description: 'An honest comparison of Surpass and Hevy for lifters who want to look bigger, not just log more.',
-    url: 'https://jacked.coach/surpass-vs-hevy',
+    url: 'https://jacked.coach/surpass-vs-hevy/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass compared with Hevy' }],
   },
   twitter: {

@@ -267,14 +267,14 @@ export async function generateMetadata({ params }) {
     description,
     ...(post.keywords.length ? { keywords: post.keywords } : {}),
     alternates: {
-      canonical: `https://jacked.coach/blog/${canonicalSlug}`,
+      canonical: `https://jacked.coach/blog/${canonicalSlug}/`,
     },
     ...(post.category ? { other: { 'article:section': post.category } } : {}),
     openGraph: {
       title: seoTitle(post.title),
       description,
       type: 'article',
-      url: `https://jacked.coach/blog/${canonicalSlug}`,
+      url: `https://jacked.coach/blog/${canonicalSlug}/`,
       publishedTime,
       ...(isValidDate(post.updatedAt) ? { modifiedTime: post.updatedAt } : {}),
       images: [
@@ -309,7 +309,7 @@ export default async function BlogPost({ params }) {
   const canonicalSlug = post.canonicalSlug
   const headings = extractHeadings(post.content)
   const allPosts = relatedPosts(getPosts(), canonicalSlug, post.title, post.excerpt, post.category)
-  const shareUrl = `https://jacked.coach/blog/${canonicalSlug}`
+  const shareUrl = `https://jacked.coach/blog/${canonicalSlug}/`
   const shareText = encodeURIComponent(post.title)
   const displayDate = formatDate(post.date)
   const displayUpdatedDate = formatDate(post.updatedAt)
@@ -339,7 +339,7 @@ export default async function BlogPost({ params }) {
 
   const breadcrumbItems = [
     { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://jacked.coach/' },
-    { '@type': 'ListItem', position: 2, name: 'Training Library', item: 'https://jacked.coach/blog' },
+    { '@type': 'ListItem', position: 2, name: 'Training Library', item: 'https://jacked.coach/blog/' },
     { '@type': 'ListItem', position: 3, name: post.title, item: shareUrl },
   ]
   const jsonLd = JSON.parse(JSON.stringify({
@@ -368,7 +368,7 @@ export default async function BlogPost({ params }) {
         author: {
           '@type': 'Organization',
           name: 'Surpass',
-          url: 'https://jacked.coach/about',
+          url: 'https://jacked.coach/about/',
         },
         publisher: {
           '@type': 'Organization',
@@ -387,7 +387,7 @@ export default async function BlogPost({ params }) {
           ...articleTools.map(tool => ({
             '@type': 'WebApplication',
             name: tool.name,
-            url: `https://jacked.coach/tools/${tool.slug}`,
+            url: `https://jacked.coach/tools/${tool.slug}/`,
             applicationCategory: 'HealthApplication',
             offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
           })),

@@ -40,64 +40,64 @@ export async function GET() {
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/about</loc>
+    <loc>https://jacked.coach/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/blog</loc>
+    <loc>https://jacked.coach/blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/press</loc>
+    <loc>https://jacked.coach/press/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/support</loc>
+    <loc>https://jacked.coach/support/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/privacy</loc>
+    <loc>https://jacked.coach/privacy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/terms</loc>
+    <loc>https://jacked.coach/terms/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/tools</loc>
+    <loc>https://jacked.coach/tools/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/methodology</loc>
+    <loc>https://jacked.coach/methodology/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/import-workout-history</loc>
+    <loc>https://jacked.coach/import-workout-history/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
   <url>
-    <loc>https://jacked.coach/hypertrophy-app</loc>
+    <loc>https://jacked.coach/hypertrophy-app/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
   ${tools.map(tool => `
   <url>
-    <loc>https://jacked.coach/tools/${tool.slug}</loc>
+    <loc>https://jacked.coach/tools/${tool.slug}/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>`).join('')}
   ${posts.map(post => `
   <url>
-    <loc>https://jacked.coach/blog/${post.slug}</loc>
+    <loc>https://jacked.coach/blog/${post.slug}/</loc>
     ${post.updatedAt || post.date ? `<lastmod>${post.updatedAt || post.date}</lastmod>` : ''}
     <changefreq>${post.slug === 'alternatives-to-rp-hypertrophy-app' ? 'weekly' : 'monthly'}</changefreq>
     <priority>${post.slug === 'alternatives-to-rp-hypertrophy-app' ? '0.95' : '0.8'}</priority>

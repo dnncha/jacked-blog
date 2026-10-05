@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { appStoreUrl } from '../tools/toolData.mjs'
 
-const pageUrl = 'https://jacked.coach/methodology'
+const pageUrl = 'https://jacked.coach/methodology/'
 const pageTitle = 'Training Calculator Methodology | How Surpass Makes Set Decisions'
 const pageDescription = 'See how Surpass uses reps, RIR, rep ranges, recent performance, and weekly hard-set targets to produce transparent training guidance, with clear assumptions and privacy limits.'
 
@@ -75,7 +75,7 @@ export default function MethodologyPage() {
           '@type': 'BreadcrumbList',
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://jacked.coach/' },
-            { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://jacked.coach/tools' },
+            { '@type': 'ListItem', position: 2, name: 'Tools', item: 'https://jacked.coach/tools/' },
             { '@type': 'ListItem', position: 3, name: 'Methodology', item: pageUrl },
           ],
         },

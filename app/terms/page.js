@@ -4,7 +4,7 @@ export const metadata = {
   title: 'Terms of Service',
   description: 'Terms of Service for Surpass, the iPhone hypertrophy workout logger and training coach.',
   alternates: {
-    canonical: 'https://jacked.coach/terms',
+    canonical: 'https://jacked.coach/terms/',
   },
 }
 

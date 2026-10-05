@@ -12,11 +12,11 @@ export const metadata = {
     'move workout history',
     'workout tracker migration',
   ],
-  alternates: { canonical: 'https://jacked.coach/import-workout-history' },
+  alternates: { canonical: 'https://jacked.coach/import-workout-history/' },
   openGraph: {
     title: 'Import Workout History to Surpass',
     description: 'Review supported Hevy, Strong, or FitNotes workout CSV data before bringing useful training context to Surpass on iPhone.',
-    url: 'https://jacked.coach/import-workout-history',
+    url: 'https://jacked.coach/import-workout-history/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Import workout history from Hevy, Strong, or FitNotes into Surpass' }],
   },
   twitter: {
@@ -94,8 +94,8 @@ export default function ImportWorkoutHistoryPage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_import_workout_history"
     canonicalPath="/import-workout-history"
-    heroImage="/marketing/surpass-home.png"
-    heroImageAlt="Surpass import screen showing Hevy, Strong, and FitNotes workout CSV sources"
+    heroImage="/marketing/screens/surpass-01-480.webp"
+    heroImageAlt="Surpass screenshot with a next-set target beside what you lifted last time"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="Switch without throwing away the work you already logged."

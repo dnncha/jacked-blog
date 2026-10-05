@@ -6,6 +6,7 @@ const files = await Promise.all([
   './page.js',
   './layout.js',
   './support/page.js',
+  './components/AppScreenshot.js',
 ].map(async (path) => [path, await readFile(new URL(path, import.meta.url), 'utf8')]))
 
 const publicCopy = files.map(([, contents]) => contents).join('\n')
@@ -15,7 +16,6 @@ const forbiddenClaims = [
   'progress photos',
   'body metrics',
   'subscription terms',
-  'before you subscribe',
   'Where do I see current pricing?',
   "['Today', 'Log', 'Progress', 'Library', 'More']",
   'Hit your <span className="gold-text">weekly targets.</span> Progress every lift.',
@@ -27,20 +27,14 @@ for (const phrase of forbiddenClaims) {
 }
 
 for (const phrase of [
-  'Get bigger on <span className="gold-text">purpose.</span>',
-  'Choose what you want to change, train the block, and use the evidence to decide what comes next.',
-  'Visible-priority blocks',
+  'Every set has a <span className="gold-text">target.</span>',
   'Next-set targets',
   'No account required',
-  'A body-building system, not a dashboard.',
-  'Build the body people notice.',
-  'Choose the outcome. Train the block. See what moved.',
-  'Weekly muscle targets',
-  'Double progression',
   'Your workout history stays on your iPhone. Import it when you&apos;re ready.',
   'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=surpass_coach&mt=8',
-  '/marketing/surpass-home.png',
-  'Real Surpass interface · prepared session preview',
+  '/marketing/screens/surpass-01-480.webp',
+  'Real Surpass interface · next-set target beside last time',
+  'Every set has a target',
 ]) {
   assert.ok(publicCopy.includes(phrase), `current public conversion surfaces should contain: ${phrase}`)
 }
@@ -53,7 +47,9 @@ for (const phrase of [
   assert.ok(!publicCopy.includes(phrase), `homepage conversion surfaces must not regress to the retired promise: ${phrase}`)
 }
 
-assert.match(publicCopy, /<img[\s\S]*surpass-home\.png[\s\S]*alt=/, 'homepage should show a real Surpass app preview with descriptive alt text')
+assert.match(homepageClientSource, /<AppScreenshot[\s\S]*index=\{1\}[\s\S]*alt=/, 'homepage should show a real Surpass app preview with descriptive alt text')
+assert.match(publicCopy, /surpass-\$\{id\}-\$\{width\}\.webp \$\{width\}w/, 'app screenshots should ship a responsive WebP srcset')
+assert.match(publicCopy, /surpass-\$\{id\}-\$\{width\}\.avif \$\{width\}w/, 'app screenshots should ship a responsive AVIF srcset')
 assert.match(layoutSource, /data-app-store-placement="header" data-copy-version="header_promise_v1">Start free<\/a>/, 'desktop header CTA should use the current free-start promise and a bounded copy marker')
 assert.match(layoutSource, /data-app-store-placement="header_mobile" data-copy-version="header_promise_v1">Start free<\/a>/, 'mobile header CTA should carry the same bounded copy marker')
 assert.match(layoutSource, /aria-label="Start free with Surpass on iPhone"/, 'header CTA should expose its destination to assistive technology')
@@ -69,11 +65,11 @@ assert.match(homepageClientSource, /\.conversion-dock\[aria-hidden="true"\] \{ d
 assert.match(homepageClientSource, /\.conversion-dock-copy span \{ margin-top: 2px; color: #aaa294;/, 'mobile conversion support copy should retain its muted contrast')
 assert.match(homepageClientSource, /\.conversion-dock \.app-store-button > span \{ display: block; color: #11100c;/, 'mobile conversion button label should retain strong contrast')
 assert.match(homepageClientSource, /ariaLabel="Start free with Surpass on iPhone"/, 'mobile conversion CTA should expose its destination to assistive technology')
-assert.match(homepageClientSource, /<link rel="preload" as="image" href="\/marketing\/generated\/surpass-hero-woman\.webp" fetchPriority="high" precedence="default" \/>/, 'homepage hero image should be explicitly preloaded for the first viewport')
+assert.match(homepageClientSource, /<link rel="preload" as="image" href="\/marketing\/screens\/surpass-01-480\.webp" fetchPriority="high" precedence="default" \/>/, 'homepage hero image should be explicitly preloaded for the first viewport')
 assert.match(homepageClientSource, /HOMEPAGE_HERO_EXPERIMENT = Object\.freeze/, 'homepage hero CTA should have an explicit experiment contract')
 assert.match(homepageClientSource, /name: 'homepage_hero_cta'/, 'homepage hero CTA should use the predeclared experiment name')
 assert.match(homepageClientSource, /storageKey: 'surpass:experiment:homepage-hero-cta:v1'/, 'homepage hero assignment should use a bounded first-party storage key')
-assert.match(homepageClientSource, /heroPresentation="photo"/, 'homepage hero CTA should record the proof presentation shown to the visitor')
+assert.match(homepageClientSource, /heroPresentation="screen"/, 'homepage hero CTA should record the proof presentation shown to the visitor')
 assert.match(homepageClientSource, /'@type': 'FAQPage'/, 'homepage FAQs should expose page-level structured data')
 assert.match(homepageClientSource, /acceptedAnswer: \{ '@type': 'Answer', text: answer \}/, 'homepage FAQ structured data should match the visible answers')
 assert.match(homepageClientSource, /data-experiment-ready=\{experiment \? String\(experimentReady\) : undefined\}/, 'experiment CTA exposure should wait until its assignment is ready')

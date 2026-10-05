@@ -1,14 +1,13 @@
-const icon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#050505"/>
-  <path d="M15 42V19h7v16h11v7H15Zm26 0V26H30v-7h18v23h-7Z" fill="#e2c95f"/>
-</svg>`
+import { readFile } from 'node:fs/promises'
+import path from 'node:path'
 
 export const dynamic = 'force-static'
 
-export function GET() {
-  return new Response(icon, {
+export async function GET() {
+  const file = await readFile(path.join(process.cwd(), 'public/favicon.ico'))
+  return new Response(file, {
     headers: {
-      'Content-Type': 'image/svg+xml',
+      'Content-Type': 'image/x-icon',
       'Cache-Control': 'public, max-age=31536000, immutable',
     },
   })

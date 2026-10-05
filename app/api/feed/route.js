@@ -55,8 +55,8 @@ export async function GET() {
     ${posts.map(post => `
     <item>
       <title>${cdata(post.title)}</title>
-      <link>https://jacked.coach/blog/${post.slug}</link>
-      <guid>https://jacked.coach/blog/${post.slug}</guid>
+      <link>https://jacked.coach/blog/${post.slug}/</link>
+      <guid>https://jacked.coach/blog/${post.slug}/</guid>
       ${post.date ? `<pubDate>${new Date(post.date).toUTCString()}</pubDate>` : ''}
       <description>${cdata(post.excerpt)}</description>
       <category>${escapeXml(post.category)}</category>

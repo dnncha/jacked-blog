@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Progressive Overload App for iPhone',
   description: 'Use double progression, rep ranges, recent set history, RIR context, and weekly muscle targets to guide your next workout with Surpass for iPhone.',
   keywords: ['progressive overload app', 'double progression app', 'hypertrophy tracker', 'RIR workout tracker', 'strength progression app'],
-  alternates: { canonical: 'https://jacked.coach/progressive-overload' },
+  alternates: { canonical: 'https://jacked.coach/progressive-overload/' },
   openGraph: {
     title: 'Progressive Overload App for iPhone',
     description: 'Turn rep ranges and recent performance into a clearer repeat, add-reps, or add-load decision.',
-    url: 'https://jacked.coach/progressive-overload',
+    url: 'https://jacked.coach/progressive-overload/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass strength training for iPhone' }],
   },
   twitter: {
@@ -54,8 +54,8 @@ export default function ProgressiveOverloadPage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_progressive_overload"
     canonicalPath="/progressive-overload"
-    heroImage="/marketing/surpass-progress.png"
-    heroImageAlt="Surpass progress screen comparing recent lift performance with weekly muscle coverage"
+    heroImage="/marketing/screens/surpass-01-480.webp"
+    heroImageAlt="Surpass screenshot with a next-set target beside what you lifted last time"
     heroPresentation="screen"
     benefits={benefits}
     steps={steps}

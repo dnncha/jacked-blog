@@ -3,11 +3,11 @@ const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=12
 export const metadata = {
   title: 'Press and Creator Kit',
   description: 'Surpass product facts, iPhone app footage, images, and short vertical clips for editorial and creator coverage.',
-  alternates: { canonical: 'https://jacked.coach/press' },
+  alternates: { canonical: 'https://jacked.coach/press/' },
   openGraph: {
     title: 'Surpass Press and Creator Kit',
     description: 'Product facts and downloadable iPhone app footage for Surpass, a focused workout tracker for iPhone.',
-    url: 'https://jacked.coach/press',
+    url: 'https://jacked.coach/press/',
     images: [{
       url: '/og-image.png',
       width: 1200,
@@ -34,22 +34,22 @@ const facts = [
 
 const clips = [
   {
-    title: 'Choose what to change',
-    copy: 'Start with the first change you want the block to make visible.',
-    image: '/marketing/surpass-visible-priority.png',
-    imageAlt: 'Surpass screen for choosing a visible training priority',
+    title: 'Every set has a target',
+    copy: 'Last time and today’s target sit on the set.',
+    image: '/marketing/screens/surpass-01-960.webp',
+    imageAlt: 'Surpass App Store screenshot with a next-set target beside last time',
   },
   {
-    title: 'Run today’s session',
-    copy: 'The next load, rep range, and weekly context stay close to the work.',
-    image: '/marketing/surpass-build-home.png',
-    imageAlt: 'Surpass Build screen showing a planned session and weekly muscle context',
+    title: 'Never miss a PR',
+    copy: 'The live alert compares the set with your all-time best.',
+    image: '/marketing/screens/surpass-02-960.webp',
+    imageAlt: 'Surpass App Store screenshot of a live personal-record alert',
   },
   {
-    title: 'See what moved',
-    copy: 'Compare recent lift results and weekly muscle coverage before the next block.',
-    image: '/marketing/surpass-progress.png',
-    imageAlt: 'Surpass Progress screen showing lift trends and weekly muscle coverage',
+    title: 'Finish with your wins',
+    copy: 'The summary leads with personal records from the session.',
+    image: '/marketing/screens/surpass-04-960.webp',
+    imageAlt: 'Surpass App Store screenshot of a workout summary led by personal records',
   },
 ]
 
@@ -100,7 +100,7 @@ export default function PressPage() {
             <p style={{ color: '#8f897c', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.12em', fontSize: '0.76rem', margin: '0 0 10px' }}>Current product screens</p>
             <h2 id="product-footage" style={{ margin: '0 0 16px', fontSize: 'clamp(2rem, 4vw, 3.3rem)', lineHeight: 1.02, letterSpacing: '-0.04em' }}>Real Surpass screens, ready to share.</h2>
             <p style={{ margin: '0 0 24px', color: '#aaa396', lineHeight: 1.7 }}>
-              These captures show the current iPhone interface with prepared demo data: a visible priority, the next session, and the progress read that tells you what moved.
+              These captures are the App Store screenshots, shown with prepared demo data: a next-set target, a live PR alert, and a summary that leads with wins.
             </p>
             <a
               href="/marketing/surpass-build-home.png"

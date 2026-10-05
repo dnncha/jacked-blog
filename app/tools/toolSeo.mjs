@@ -131,8 +131,12 @@ export function toolQualityNotes(tool) {
       assumptions: 'RIR works best when the set used clean reps and the lifter can honestly estimate reps left in reserve.',
     },
     'one-rm': {
-      method: 'Combines common e1RM formulas where valid, then adds rep maxes, percentages, and a useful target instead of stopping at a max estimate.',
+      method: 'Combines Epley (1985) and Brzycki (1993) where valid, then adds rep maxes, percentages, and a useful target instead of stopping at a max estimate. Lander is available as a separate formula.',
       assumptions: 'High-rep and sloppy sets are lower-confidence. Treat e1RM as a trend and targeting tool, not a guaranteed max.',
+    },
+    'overload-plan': {
+      method: 'Walks double progression for the number of weeks you enter: add a rep until the top of the range, then add the load jump and return to the bottom.',
+      assumptions: 'The plan assumes you hit the listed reps. If a week is much harder than the range, hold the load instead of taking the next row.',
     },
     'strength-level': {
       method: 'Estimates 1RM from weight, reps, and RIR, divides it by bodyweight, then compares the ratio with transparent Surpass practical standards for the lift and sex.',

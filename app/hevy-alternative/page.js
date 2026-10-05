@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Hevy Alternative for iPhone | Import Workout History',
   description: 'Import supported Hevy, Strong, or FitNotes workout history into Surpass, review the preview before saving, and continue training with next-lift and weekly muscle targets.',
   keywords: ['Hevy alternative iPhone', 'Strong alternative iPhone', 'import workout history', 'workout tracker CSV import', 'switch gym tracker'],
-  alternates: { canonical: 'https://jacked.coach/hevy-alternative' },
+  alternates: { canonical: 'https://jacked.coach/hevy-alternative/' },
   openGraph: {
     title: 'Bring Your Workout History to Surpass',
     description: 'Review a Hevy, Strong, or FitNotes CSV before importing workout history into Surpass on iPhone.',
-    url: 'https://jacked.coach/hevy-alternative',
+    url: 'https://jacked.coach/hevy-alternative/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Bring your training history to Surpass from Hevy, Strong, or FitNotes' }],
   },
   twitter: {
@@ -55,8 +55,8 @@ export default function HevyAlternativePage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_hevy_alternative"
     canonicalPath="/hevy-alternative"
-    heroImage="/marketing/surpass-home.png"
-    heroImageAlt="Surpass import screen showing Hevy, Strong, and FitNotes workout CSV sources"
+    heroImage="/marketing/screens/surpass-01-480.webp"
+    heroImageAlt="Surpass screenshot with a next-set target beside what you lifted last time"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="Switch trackers without rebuilding every workout."

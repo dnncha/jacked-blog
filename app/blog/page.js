@@ -5,12 +5,12 @@ export const metadata = {
   title: 'Training Library',
   description: 'Search the Surpass training library for hypertrophy, progressive overload, RIR, deloads, exercise selection, recovery, supplements, and workout app guidance.',
   alternates: {
-    canonical: 'https://jacked.coach/blog',
+    canonical: 'https://jacked.coach/blog/',
   },
   openGraph: {
     title: 'Training Library | Surpass',
     description: 'Practical hypertrophy articles and workout app guides from Surpass.',
-    url: 'https://jacked.coach/blog',
+    url: 'https://jacked.coach/blog/',
     images: [
       {
         url: '/og-image.png',
@@ -54,14 +54,14 @@ export default function BlogIndex() {
     '@type': 'CollectionPage',
     name: 'Surpass Training Library',
     description: metadata.description,
-    url: 'https://jacked.coach/blog',
+    url: 'https://jacked.coach/blog/',
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: posts.map((post, index) => ({
         '@type': 'ListItem',
         position: index + 1,
         name: post.title,
-        url: `https://jacked.coach/blog/${post.slug}`,
+        url: `https://jacked.coach/blog/${post.slug}/`,
       })),
     },
   }

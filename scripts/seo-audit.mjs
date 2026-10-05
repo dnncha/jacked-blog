@@ -28,7 +28,7 @@ const options = args(process.argv.slice(2))
 const maxPages = Math.max(1, Number(options.maxPages || process.env.SEO_AUDIT_MAX_PAGES || 500))
 const concurrency = Math.max(1, Math.min(12, Number(options.concurrency || 6)))
 const timeoutMs = Math.max(1000, Number(options.timeoutMs || 12000))
-const userAgent = 'JackedTechnicalAudit/1.0 (+https://jacked.coach/support)'
+const userAgent = 'JackedTechnicalAudit/1.0 (+https://jacked.coach/support/)'
 
 export function summarizeAuditStatuses(records) {
   const counts = {

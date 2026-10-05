@@ -26,8 +26,8 @@ for (const phrase of [
   assert.ok(all.includes(phrase), `TikTok landing path should contain: ${phrase}`)
 }
 
-assert.match(client, /<img[\s\S]*surpass-build-home\.png[\s\S]*alt=/, 'TikTok landing path should show a current Surpass product screen')
-assert.ok(client.includes('/marketing/surpass-build-home.png'), 'TikTok landing path should use the verified Surpass app screen')
+assert.match(client, /<img[\s\S]*surpass-01-480\.webp[\s\S]*alt=/, 'TikTok landing path should show a current Surpass product screen')
+assert.ok(client.includes('/marketing/screens/surpass-01-480.webp'), 'TikTok landing path should use the verified Surpass app screen')
 assert.ok(client.includes('tiktok_landing_view'), 'TikTok landing path should measure visits')
 assert.ok(client.includes('tiktok_landing_cta'), 'TikTok landing path should measure App Store intent')
 assert.ok(client.includes('WEB_ANALYTICS_SCHEMA_VERSION'), 'TikTok diagnostics should carry the shared web analytics schema version')

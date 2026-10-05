@@ -6,11 +6,11 @@ export const metadata = {
   title: 'Workout Tracker for iPhone That Guides Your Next Set',
   description: 'Log sets fast, see your previous result and next target, run rest timers, track weekly hard sets, and import compatible Hevy history with Surpass for iPhone.',
   keywords: ['workout tracker iPhone', 'weight lifting tracker', 'gym workout log', 'workout log app', 'strength training tracker'],
-  alternates: { canonical: 'https://jacked.coach/workout-tracker' },
+  alternates: { canonical: 'https://jacked.coach/workout-tracker/' },
   openGraph: {
     title: 'Workout Tracker for iPhone That Guides Your Next Set',
     description: 'Fast set logging, next-lift targets, rest timers, weekly muscle targets, and compatible Hevy import.',
-    url: 'https://jacked.coach/workout-tracker',
+    url: 'https://jacked.coach/workout-tracker/',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Surpass strength training for iPhone' }],
   },
   twitter: {
@@ -54,8 +54,8 @@ export default function WorkoutTrackerPage() {
     campaignUrl={APP_STORE_URL}
     campaignKey="seo_workout_tracker"
     canonicalPath="/workout-tracker"
-    heroImage="/marketing/surpass-build-home.png"
-    heroImageAlt="Surpass workout screen showing weekly muscle targets, a next-session target, and a start-session control"
+    heroImage="/marketing/screens/surpass-06-480.webp"
+    heroImageAlt="Surpass screenshot of the next workout, with targets set from the session you just finished"
     heroPresentation="screen"
     benefits={benefits}
     steps={steps}
