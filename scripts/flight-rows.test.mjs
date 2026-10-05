@@ -4,10 +4,11 @@ import { flightRowProblems } from './flight-rows.mjs'
 
 const text = 'hello'
 const length = Buffer.byteLength(text, 'utf8').toString(16)
-const valid = `1:T${length},${text}\n2:["$","div",null,{"children":"$L1"}]`
+const valid = `1:T${length},${text}2:["$","div",null,{"children":"$L1"}]\n`
 assert.deepEqual(flightRowProblems(valid), [])
 
-const swallowed = `0:["$","html",null,{"children":"$L6"}]\nc:T${length},${text}6:["$","script",null,{}]`
+const overflow = `${text} TRUE`
+const swallowed = `0:["$","html",null,{"children":"$L6"}]\nc:T${length},${overflow}6:["$","script",null,{}]\n`
 const swallowedProblems = flightRowProblems(swallowed)
 assert.ok(
   swallowedProblems.some((problem) => problem.includes('swallowed the following row')),

@@ -1,5 +1,21 @@
+const BINARY_TAGS = new Set([
+  84, 65, 79, 111, 98, 85, 83, 115, 76, 108, 71, 103, 77, 109, 86,
+])
+
 function isHexByte(byte) {
   return (byte >= 48 && byte <= 57) || (byte >= 97 && byte <= 102)
+}
+
+function isLineTag(byte) {
+  return (byte > 64 && byte < 91) || byte === 35 || byte === 114 || byte === 120
+}
+
+function readLine(bytes, index) {
+  const start = index
+  while (index < bytes.length && bytes[index] !== 10) index += 1
+  const body = bytes.subarray(start, index).toString('utf8')
+  if (index < bytes.length && bytes[index] === 10) index += 1
+  return { body, index, closed: index > start && bytes[index - 1] === 10 }
 }
 
 export function flightRowProblems(flight) {
@@ -16,44 +32,68 @@ export function flightRowProblems(flight) {
     }
 
     const idStart = index
-    while (index < bytes.length && isHexByte(bytes[index])) index += 1
-    if (index === idStart || bytes[index] !== 58) {
-      problems.push(`expected a flight row header at byte ${idStart}`)
-      break
-    }
-
-    const id = bytes.subarray(idStart, index).toString('utf8')
-    index += 1
-    defined.add(id)
-
-    if (bytes[index] === 84) {
-      index += 1
-      const lengthStart = index
-      while (index < bytes.length && isHexByte(bytes[index])) index += 1
-      if (bytes[index] !== 44) {
-        problems.push(`text row ${id} is missing its byte length`)
-        break
+    let id = 0
+    let sawDigit = false
+    while (index < bytes.length && bytes[index] !== 58) {
+      const byte = bytes[index]
+      if (!isHexByte(byte)) {
+        problems.push(`expected a flight row header at byte ${idStart}`)
+        return problems
       }
-      const length = Number.parseInt(bytes.subarray(lengthStart, index).toString('utf8'), 16)
+      sawDigit = true
+      id = (id << 4) | (byte >= 97 ? byte - 87 : byte - 48)
       index += 1
-      if (!Number.isFinite(length) || index + length > bytes.length) {
-        problems.push(`text row ${id} declares ${length} bytes past the end of the payload`)
-        break
+    }
+    if (index >= bytes.length || bytes[index] !== 58) {
+      problems.push(`expected a flight row header at byte ${idStart}`)
+      return problems
+    }
+    const rowId = sawDigit ? id.toString(16) : ''
+    index += 1
+    if (sawDigit) defined.add(rowId)
+
+    const tag = bytes[index]
+    if (BINARY_TAGS.has(tag)) {
+      index += 1
+      let length = 0
+      let sawLength = false
+      while (index < bytes.length && bytes[index] !== 44) {
+        const byte = bytes[index]
+        if (!isHexByte(byte)) {
+          problems.push(`text row ${rowId} has a non-hex byte length`)
+          return problems
+        }
+        sawLength = true
+        length = (length << 4) | (byte >= 97 ? byte - 87 : byte - 48)
+        index += 1
+      }
+      if (!sawLength || bytes[index] !== 44) {
+        problems.push(`text row ${rowId} is missing its byte length`)
+        return problems
+      }
+      index += 1
+      if (index + length > bytes.length) {
+        problems.push(`text row ${rowId} declares ${length} bytes past the end of the payload`)
+        return problems
       }
       index += length
-      if (index < bytes.length && bytes[index] !== 10 && bytes[index] !== 13) {
+      if (index < bytes.length && !isHexByte(bytes[index])) {
         const next = bytes.subarray(index, Math.min(index + 32, bytes.length)).toString('utf8')
-        problems.push(`text row ${id} length swallowed the following row (next bytes ${JSON.stringify(next)})`)
+        problems.push(`text row ${rowId} length swallowed the following row (next bytes ${JSON.stringify(next)})`)
         break
       }
       continue
     }
 
-    const bodyStart = index
-    while (index < bytes.length && bytes[index] !== 10 && bytes[index] !== 13) index += 1
-    const body = bytes.subarray(bodyStart, index).toString('utf8')
-    for (const match of body.matchAll(/"\$L([0-9a-f]+)"/g)) {
-      references.push({ from: id, to: match[1] })
+    if (isLineTag(tag)) index += 1
+    const line = readLine(bytes, index)
+    index = line.index
+    if (!line.closed && index < bytes.length) {
+      problems.push(`row ${rowId} did not end on a newline`)
+      return problems
+    }
+    for (const match of line.body.matchAll(/"\$L([0-9a-f]+)"/g)) {
+      references.push({ from: rowId, to: match[1] })
     }
   }
 
