@@ -118,6 +118,11 @@ for (const absolutePath of [...htmlFiles, ...textFiles]) {
   for (const problem of flightRowProblems(flight)) {
     failures.push(`${filePath}: ${problem}`)
   }
+
+  const title = content.match(/<title>([^<]*)<\/title>/)
+  if (title && /Surpass\s*\|\s*Surpass/.test(title[1])) {
+    failures.push(`${filePath}: document title repeats the brand (${title[1]})`)
+  }
 }
 
 if (failures.length) {

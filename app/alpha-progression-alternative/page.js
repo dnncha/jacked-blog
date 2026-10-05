@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_alpha_progression_alternative&mt=8'
 
 export const metadata = {
-  title: 'Alpha Progression Alternative for iPhone | Surpass',
+  title: { absolute: 'Alpha Progression Alternative for iPhone | Surpass' },
   description: 'Compare Surpass and Alpha Progression by training workflow, progression guidance, exercise reference, and plan control before choosing your iPhone workout app.',
   keywords: ['Alpha Progression alternative', 'Alpha Progression alternative iPhone', 'gym workout app comparison', 'hypertrophy app alternative', 'workout planner iPhone'],
   alternates: { canonical: 'https://jacked.coach/alpha-progression-alternative/' },

@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_import_hevy&mt=8'
 
 export const metadata = {
-  title: 'Import Hevy Workouts into Surpass',
+  title: { absolute: 'Import Hevy Workouts into Surpass' },
   description: 'Export a Hevy workout CSV from Settings, then review and import it into Surpass on iPhone. No Hevy login is required.',
   keywords: ['import Hevy CSV', 'Hevy export workouts', 'switch from Hevy', 'Hevy to Surpass'],
   alternates: { canonical: 'https://jacked.coach/import-hevy/' },

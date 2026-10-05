@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_best_physique_tracker_apps&mt=8'
 
 export const metadata = {
-  title: 'Best Physique Tracker Apps 2026: Scores, Scans and Plans Compared | Surpass',
+  title: { absolute: 'Best Physique Tracker Apps 2026: Scores, Scans and Plans Compared | Surpass' },
   description: 'Physique tracker apps compared: Surpass, HyperBody, GainFrame, Rate My Physique, PhysiqueAI, ZOZOFIT, Hevy and RP Hypertrophy. What each one gives you, where it stops, and how to pick.',
   keywords: ['best physique tracker app', 'physique tracker', 'physique app', 'rate my physique app', 'body progress photo app', 'muscle growth tracker app'],
   alternates: { canonical: 'https://jacked.coach/best-physique-tracker-apps/' },

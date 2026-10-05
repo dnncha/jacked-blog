@@ -36,9 +36,9 @@ export default function AppScreenshot({
         width={1287}
         height={2796}
         alt={alt}
-        decoding="async"
+        decoding={priority ? 'sync' : 'async'}
         loading={priority ? 'eager' : 'lazy'}
-        fetchPriority={priority ? 'high' : 'auto'}
+        fetchPriority={priority ? 'high' : 'low'}
       />
     </picture>
   )

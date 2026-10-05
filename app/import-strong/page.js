@@ -3,7 +3,7 @@ import AcquisitionLanding from '../components/AcquisitionLanding'
 const APP_STORE_URL = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=seo_import_strong&mt=8'
 
 export const metadata = {
-  title: 'Import Strong Workouts into Surpass',
+  title: { absolute: 'Import Strong Workouts into Surpass' },
   description: 'On iPhone, open Strong Settings and choose Export Strong Data. Review the English CSV in Surpass before saving.',
   keywords: ['import Strong CSV', 'Export Strong Data', 'Strong alternative', 'Strong to Surpass'],
   alternates: { canonical: 'https://jacked.coach/import-strong/' },
