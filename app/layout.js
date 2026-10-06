@@ -261,6 +261,8 @@ export default function RootLayout({ children }) {
             <Link href="/" className="site-header-logo">SURPASS</Link>
             <div className="site-header-links site-header-desktop-links">
               <Link href="/#hiw" className="site-header-link" data-nav-section="how_it_works">How it works</Link>
+              <Link href="/programs" className="site-header-link" data-nav-section="programs">Programs</Link>
+              <Link href="/exercises" className="site-header-link" data-nav-section="exercises">Exercises</Link>
               <Link href="/tools" className="site-header-link" data-nav-section="tools">Tools</Link>
               <Link href="/blog" className="site-header-link" data-nav-section="training_library">Training Library</Link>
               <Link href="/about" className="site-header-link site-header-optional" data-nav-section="about">About</Link>
@@ -273,7 +275,9 @@ export default function RootLayout({ children }) {
                 <summary className="site-header-menu-toggle" aria-label="Open navigation">Menu</summary>
                 <div className="site-header-menu-panel">
                   <Link href="/#hiw" className="site-header-link" data-nav-section="how_it_works">How it works</Link>
-                  <Link href="/tools" className="site-header-link" data-nav-section="tools">Tools</Link>
+                  <Link href="/programs" className="site-header-link" data-nav-section="programs">Programs</Link>
+              <Link href="/exercises" className="site-header-link" data-nav-section="exercises">Exercises</Link>
+              <Link href="/tools" className="site-header-link" data-nav-section="tools">Tools</Link>
                   <Link href="/blog" className="site-header-link" data-nav-section="training_library">Training Library</Link>
                   <Link href="/about" className="site-header-link" data-nav-section="about">About</Link>
                   <Link href="/support" className="site-header-link" data-nav-section="support">Support</Link>
@@ -312,6 +316,8 @@ export default function RootLayout({ children }) {
             <Link href="/surpass-vs-hevy" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Surpass vs Hevy</Link>
             <Link href="/surpass-vs-fitbod" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Surpass vs Fitbod</Link>
             <Link href="/best-physique-tracker-apps" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Physique tracker apps</Link>
+            <Link href="/programs" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Free workout programs</Link>
+            <Link href="/exercises" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Exercise library</Link>
             <Link href="/methodology" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Training methodology</Link>
             <Link href="/blog" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>Training Library</Link>
             <Link href="/blog/alternatives-to-rp-hypertrophy-app" style={{ color: '#b7b0a3', textDecoration: 'none', fontSize: '0.86rem', fontWeight: 650 }}>RP Hypertrophy alternatives</Link>

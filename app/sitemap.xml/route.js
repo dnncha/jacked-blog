@@ -1,5 +1,6 @@
 import { tools } from '../tools/toolData.mjs'
 import { canonicalBlogPosts } from '../blog/posts'
+import { exercises, musclePages, programs } from '../library/libraryData.mjs'
 
 export const dynamic = 'force-static'
 
@@ -41,6 +42,8 @@ export async function GET() {
     staticUrl('/', 'daily', '1.0'),
     staticUrl('/blog', 'weekly', '0.9'),
     staticUrl('/tools', 'weekly', '0.9'),
+    staticUrl('/exercises', 'weekly', '0.9'),
+    staticUrl('/programs', 'weekly', '0.9'),
     staticUrl('/methodology', 'monthly', '0.8'),
     staticUrl('/workout-tracker', 'weekly', '0.95'),
     staticUrl('/gym-workout-planner', 'weekly', '0.95'),
@@ -68,6 +71,9 @@ export async function GET() {
     staticUrl('/accessibility', 'monthly', '0.6'),
     staticUrl('/privacy', 'yearly', '0.4'),
     staticUrl('/terms', 'yearly', '0.4'),
+    ...programs.map(program => staticUrl(`/programs/${program.slug}`, 'monthly', '0.9')),
+    ...musclePages.map(page => staticUrl(`/muscles/${page.slug}`, 'monthly', '0.85')),
+    ...exercises.map(exercise => staticUrl(`/exercises/${exercise.slug}`, 'monthly', '0.8')),
     ...tools.map(tool => ({
       loc: `https://jacked.coach/tools/${tool.slug}/`,
       changefreq: 'weekly',

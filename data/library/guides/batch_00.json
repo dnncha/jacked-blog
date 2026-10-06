@@ -1,0 +1,786 @@
+{
+  "barbell_bench_press": {
+    "summary": "The barbell bench press is a horizontal press on a flat bench that lets you move the most load of any upper-body press. It builds chest, triceps, and front-delt strength and suits anyone who wants a measurable pressing benchmark.",
+    "musclesNote": "The chest drives the bar off the body, the triceps take over to lock it out, and the front delts assist throughout. A wider grip shifts more work to the chest; a narrower grip loads the triceps more.",
+    "setup": [
+      "Lie on the bench with your eyes roughly under the bar and feet planted flat.",
+      "Grip the bar slightly wider than shoulder width, wrists stacked over forearms.",
+      "Pull your shoulder blades back and down and keep a slight arch in your upper back.",
+      "Unrack with straight arms and settle the bar over your shoulders."
+    ],
+    "execution": [
+      "Lower the bar under control to your lower chest, around nipple line.",
+      "Keep elbows tucked roughly 45-70 degrees from your torso, not flared straight out.",
+      "Touch the chest lightly without bouncing, then press up and slightly back toward the rack.",
+      "Keep glutes on the bench and feet driving into the floor the whole rep.",
+      "Lock out fully before starting the next rep."
+    ],
+    "mistakes": [
+      {"mistake": "Bouncing off the chest", "fix": "Lower under control and touch the chest lightly so the muscles, not momentum, start the press."},
+      {"mistake": "Flaring elbows to 90 degrees", "fix": "Tuck the elbows to a moderate angle so the bar path stays over the wrists and the shoulders are less stressed."},
+      {"mistake": "Losing upper-back tightness", "fix": "Set your shoulder blades before unracking and keep them pinned; reset between reps if they drift."}
+    ],
+    "progression": "Add reps within a target range (e.g. 5-8) before adding load, then increase by 2.5-5 lb per side. When progress stalls for several weeks, vary rep ranges or add a close-grip or paused variation.",
+    "faq": [
+      {"q": "Should I use a spotter for bench press?", "a": "Yes, for heavy sets or sets taken close to failure. If you train alone, set safety pins just below chest height or use a power rack so you can lower a failed rep safely."},
+      {"q": "Bench press vs dumbbell press: which is better for chest?", "a": "Both build the chest well. The barbell lets you load heavier and track strength easily, while dumbbells allow a deeper stretch and independent arms. Most programs benefit from using both."}
+    ]
+  },
+  "incline_dumbbell_press": {
+    "summary": "The incline dumbbell press is done on a bench set to 30-45 degrees, putting more emphasis on the upper chest and front delts. Dumbbells allow a deep stretch and a natural path, making it a good main or secondary press for most lifters.",
+    "musclesNote": "The upper (clavicular) chest fibers work harder at an incline, with front delts contributing more as the angle rises. Triceps finish the lockout; steeper than about 45 degrees turns it into more of a shoulder press.",
+    "setup": [
+      "Set the bench to about 30-45 degrees.",
+      "Sit with dumbbells on your thighs, then kick them up one at a time as you lie back.",
+      "Plant your feet and pull your shoulder blades back and down.",
+      "Start with dumbbells over your upper chest, palms facing forward or slightly in."
+    ],
+    "execution": [
+      "Lower the dumbbells to the sides of your upper chest with elbows slightly tucked.",
+      "Go down until you feel a good stretch across the chest without the shoulders rolling forward.",
+      "Press up and slightly in so the dumbbells finish over your shoulders.",
+      "Use a controlled 2-3 second lowering and a strong press."
+    ],
+    "mistakes": [
+      {"mistake": "Bench set too steep", "fix": "Keep the incline around 30-45 degrees so the chest, not just the front delts, does the work."},
+      {"mistake": "Short range of motion", "fix": "Lower until the dumbbells are roughly level with your chest, using a weight you can control through that depth."},
+      {"mistake": "Clanging dumbbells at the top", "fix": "Stop just short of touching the dumbbells together to keep tension on the chest."}
+    ],
+    "progression": "Work up through a rep range like 8-12 before moving to the next dumbbell. Because dumbbell jumps are relatively large, add a rep or two at the new weight over a few sessions before expecting full sets.",
+    "faq": [
+      {"q": "What angle is best for incline dumbbell press?", "a": "Around 30 degrees is a good default for upper-chest emphasis. Higher angles shift work toward the front delts, so go lower if you mainly feel it in your shoulders."},
+      {"q": "Incline dumbbell press vs incline barbell press?", "a": "The barbell lets you load heavier and progress in small steps. Dumbbells offer more range and let each arm work independently, which many people find easier on the shoulders."}
+    ]
+  },
+  "machine_chest_press": {
+    "summary": "The machine chest press is a seated horizontal press on a guided track. It trains the chest, triceps, and front delts with minimal balance demand, so it suits beginners, high-rep work, and taking sets close to failure safely.",
+    "musclesNote": "The chest is the main driver, with triceps extending the elbows and front delts assisting. Because the path is fixed, you can focus purely on pushing hard without stabilizing a free weight.",
+    "setup": [
+      "Adjust the seat so the handles line up with your mid-to-lower chest.",
+      "Sit with your back flat against the pad and feet planted.",
+      "Grip the handles with wrists straight and shoulder blades pulled back.",
+      "Use the foot lever or a partial push to get the handles into the start position if the machine has one."
+    ],
+    "execution": [
+      "Press the handles forward until your arms are nearly straight.",
+      "Keep your shoulders back against the pad rather than reaching forward at the end.",
+      "Return slowly until you feel a stretch in the chest, without the stack touching down.",
+      "Keep a steady tempo, about 2 seconds down."
+    ],
+    "mistakes": [
+      {"mistake": "Seat set too high or low", "fix": "Adjust the seat so handles start at mid-chest; too high stresses the shoulders, too low turns it into a decline press."},
+      {"mistake": "Shoulders rolling forward", "fix": "Keep shoulder blades pinned back on the pad through the whole rep."},
+      {"mistake": "Letting the stack slam", "fix": "Control the return and stop just before the weights touch to keep tension on."}
+    ],
+    "progression": "Add reps first, then move up one plate or pin once you hit the top of your range on all sets. It works well as a second press after a free-weight lift or as a main press when you want joint-friendly volume.",
+    "faq": [
+      {"q": "Is machine chest press as good as bench press?", "a": "For building chest muscle, a machine press can be just as effective when you train hard. Bench press builds more free-weight strength and stabilization, so many people use both."},
+      {"q": "How many reps for machine chest press?", "a": "Most people do well with 8-15 reps. The stable path makes it a good choice for higher reps and pushing close to failure."}
+    ]
+  },
+  "cable_fly": {
+    "summary": "The cable fly brings two cable handles together in an arc with nearly straight arms. Cables keep tension on the chest through the full range, making it a strong accessory after presses for anyone chasing chest size.",
+    "musclesNote": "The chest brings the arms across the body (horizontal adduction). Pulley height changes emphasis: high-to-low hits the lower chest more, low-to-high hits the upper chest. Front delts assist slightly.",
+    "setup": [
+      "Set both pulleys at about shoulder height (or high/low for variations) and grab a handle in each hand.",
+      "Take a step forward into a staggered stance for balance.",
+      "Lean slightly forward with chest up and a soft bend in your elbows.",
+      "Start with arms open and a light stretch across the chest."
+    ],
+    "execution": [
+      "Bring your hands together in a wide arc, as if hugging a large tree.",
+      "Keep the elbow bend fixed; the movement comes from the shoulder.",
+      "Squeeze the chest briefly when the handles meet in front of you.",
+      "Return slowly to the stretch without letting the shoulders roll forward."
+    ],
+    "mistakes": [
+      {"mistake": "Turning it into a press", "fix": "Keep the elbow angle constant so the chest, not the triceps, moves the handles."},
+      {"mistake": "Going too heavy", "fix": "Use a weight you can control for 10-15 reps with a full stretch and a clear squeeze."},
+      {"mistake": "Overstretching at the back", "fix": "Stop when your hands are roughly in line with your torso rather than yanking the arms far behind you."}
+    ],
+    "progression": "Progress reps in a 10-20 range before adding a plate, and keep form strict. Small stack increments help; if jumps are too big, add reps or slow the lowering instead.",
+    "faq": [
+      {"q": "Cable fly vs dumbbell fly?", "a": "Cables keep tension on the chest when your hands come together, while dumbbells load mainly in the stretched position. Cables are usually easier to control and adjust angle with."},
+      {"q": "Should cable flies be heavy?", "a": "Not usually. Moderate weight for 10-20 controlled reps works better, because heavy loads tend to turn the fly into a sloppy press."}
+    ]
+  },
+  "barbell_row": {
+    "summary": "The barbell row is a bent-over pull where you row a barbell toward your torso from a hinged position. It builds upper and mid-back thickness plus lower-back endurance, and suits intermediate lifters comfortable holding a hip hinge.",
+    "musclesNote": "Lats, rhomboids, and mid traps pull the bar in, with biceps and rear delts assisting. The lower back and hamstrings work isometrically to hold the hinge, so it is more fatiguing than supported rows.",
+    "setup": [
+      "Stand with feet hip width and the bar over mid-foot.",
+      "Grip the bar just outside your knees, overhand or underhand.",
+      "Hinge at the hips with soft knees until your torso is roughly 30-45 degrees from horizontal.",
+      "Brace your core and keep your back flat with the bar hanging at arm's length."
+    ],
+    "execution": [
+      "Pull the bar toward your lower chest or upper belly, driving elbows back.",
+      "Squeeze your shoulder blades together briefly at the top.",
+      "Lower under control to a full arm stretch.",
+      "Keep your torso angle steady; avoid standing up as you pull."
+    ],
+    "mistakes": [
+      {"mistake": "Torso rising each rep", "fix": "Lighten the load so you can hold the same hinge angle from first to last rep."},
+      {"mistake": "Rounding the lower back", "fix": "Brace before each rep and keep your chest up; if it still rounds, reduce weight or use a supported row."},
+      {"mistake": "Yanking with momentum", "fix": "Pull smoothly and control the lowering instead of heaving the bar with your hips."}
+    ],
+    "progression": "Use 6-12 reps and add 5 lb once you hit the top of the range with a steady torso. If the lower back limits you before the upper back, switch some volume to chest-supported or cable rows.",
+    "faq": [
+      {"q": "Overhand or underhand grip for barbell rows?", "a": "Both work. Underhand lets you use a bit more weight and involves the biceps more; overhand tends to bring in more upper back and is often easier on the wrists."},
+      {"q": "Is barbell row bad for your lower back?", "a": "Not inherently, but it does load the lower back. Use a weight you can hold in a flat-backed hinge, and choose a supported row if your back is the limiting factor."}
+    ]
+  },
+  "cable_row": {
+    "summary": "The seated cable row is a horizontal pull done sitting at a low pulley with your feet braced. It trains the mid-back and lats with steady tension and little lower-back stress, making it a reliable row for every level.",
+    "musclesNote": "Lats, rhomboids, and mid traps do most of the pulling, with biceps and rear delts assisting. A close neutral handle keeps elbows tucked for more lats; a wide bar flares the elbows for more upper back and rear delts.",
+    "setup": [
+      "Sit on the bench and brace your feet on the platform with knees slightly bent.",
+      "Grab the handle and sit tall with arms extended.",
+      "Keep your torso upright or leaning very slightly back.",
+      "Let your shoulder blades reach forward slightly to start with a stretch."
+    ],
+    "execution": [
+      "Pull the handle to your lower ribs or belly, driving elbows back past your torso.",
+      "Squeeze your shoulder blades together at the end without leaning far back.",
+      "Return slowly until your arms are straight and your back feels a stretch.",
+      "Keep the torso mostly still; small movement is fine, rocking is not."
+    ],
+    "mistakes": [
+      {"mistake": "Rocking the torso", "fix": "Keep the torso near upright and let the arms and shoulder blades move the weight."},
+      {"mistake": "Shrugging the shoulders up", "fix": "Keep shoulders down away from your ears as you pull."},
+      {"mistake": "Cutting the stretch short", "fix": "Let the arms fully straighten and shoulder blades move forward on every rep."}
+    ],
+    "progression": "Work in 8-15 reps and move up a plate when all sets hit the top of the range with a still torso. Rotate handles every few weeks to change emphasis.",
+    "faq": [
+      {"q": "What handle is best for seated cable row?", "a": "A close-grip neutral (V) handle is a good default for lats and mid-back. A wide bar shifts work toward the upper back and rear delts."},
+      {"q": "Should you lean back on cable rows?", "a": "Only slightly. A small lean is fine, but large rocking turns the row into a hip swing and takes work off the back."}
+    ]
+  },
+  "dumbbell_row": {
+    "summary": "The dumbbell row is a one-arm row with your other hand and knee braced on a bench. It trains the lats and mid-back one side at a time with a long range of motion and good lower-back support, suiting all levels.",
+    "musclesNote": "The lats and mid-back pull the dumbbell up; biceps assist. Pulling toward the hip with elbow tucked biases the lats, while pulling toward the chest with elbow flared shifts work to the upper back and rear delts.",
+    "setup": [
+      "Place one knee and the same-side hand on a flat bench.",
+      "Set the other foot on the floor, out to the side for balance.",
+      "Hold the dumbbell with arm straight below your shoulder.",
+      "Keep your back flat and roughly parallel to the floor."
+    ],
+    "execution": [
+      "Pull the dumbbell toward your hip, keeping the elbow close to your side.",
+      "Stop when your elbow passes your torso and squeeze briefly.",
+      "Lower to a full stretch, letting the shoulder blade reach down.",
+      "Keep your torso square; avoid twisting to lift the weight."
+    ],
+    "mistakes": [
+      {"mistake": "Twisting the torso", "fix": "Keep hips and shoulders square to the floor and reduce weight if you need to rotate to finish."},
+      {"mistake": "Pulling to the chest", "fix": "Drive the elbow back toward the hip to keep the lats doing the work."},
+      {"mistake": "Partial reps", "fix": "Lower to a full stretch every rep rather than bouncing in the top half."}
+    ],
+    "progression": "Use 8-12 reps per side and move up a dumbbell when you hit the top of the range with no twisting. Do the weaker side first and match reps on the stronger side.",
+    "faq": [
+      {"q": "Dumbbell row vs barbell row?", "a": "Dumbbell rows offer more range, train each side separately, and spare the lower back thanks to the bench support. Barbell rows allow heavier total loads but tax the lower back more."},
+      {"q": "Should you do dumbbell rows on a bench?", "a": "A bench is the easiest way to support your torso and lower back. You can also brace a hand on a rack or dumbbell rack in a staggered stance."}
+    ]
+  },
+  "pull_ups": {
+    "summary": "The pull-up is a bodyweight vertical pull from a dead hang until your chin clears the bar, using an overhand grip. It is one of the best lat and upper-back builders and a good strength benchmark for anyone who can manage a few reps.",
+    "musclesNote": "The lats do most of the work pulling the elbows down, helped by the biceps, mid back, and lower traps. An underhand grip (chin-up) increases biceps involvement; a wider grip slightly emphasizes the lats.",
+    "setup": [
+      "Grip the bar overhand, slightly wider than shoulder width.",
+      "Hang with arms straight and legs still, ankles crossed or legs together.",
+      "Brace your core and squeeze your glutes to avoid swinging.",
+      "Pull the shoulders slightly down away from your ears before the first rep."
+    ],
+    "execution": [
+      "Drive your elbows down toward your ribs to pull your chest toward the bar.",
+      "Pull until your chin clears the bar.",
+      "Lower under control to a full hang with straight arms.",
+      "Avoid kicking or swinging to finish reps."
+    ],
+    "mistakes": [
+      {"mistake": "Half reps", "fix": "Start every rep from straight arms and finish with your chin over the bar."},
+      {"mistake": "Kipping and swinging", "fix": "Keep legs still and core tight; if you can't finish without swinging, end the set."},
+      {"mistake": "Shrugging at the bottom", "fix": "Lead each rep by pulling the shoulders down before the elbows bend."}
+    ],
+    "progression": "If you can't do one, use band-assisted pull-ups, an assisted machine, or slow negatives. Once you can do 3 sets of 8-10, add weight with a belt or dumbbell between the feet in small steps.",
+    "faq": [
+      {"q": "How do I get my first pull-up?", "a": "Train 3-5 slow negatives (jump up, lower over 3-5 seconds) a few times a week, along with lat pulldowns or assisted pull-ups. Losing excess body weight also helps."},
+      {"q": "Pull-ups vs chin-ups?", "a": "Both train the lats heavily. Chin-ups (palms facing you) bring in more biceps and are usually a bit easier; pull-ups put slightly more demand on the back."}
+    ]
+  },
+  "lat_pulldown": {
+    "summary": "The lat pulldown is a seated vertical pull where you draw a cable bar down to your upper chest. It trains the same pattern as a pull-up but with adjustable load, making it ideal for beginners and for adding back volume.",
+    "musclesNote": "The lats pull the upper arm down and back, with biceps, mid traps, and rhomboids assisting. Grip width and handle type shift emphasis slightly, but all versions are primarily lat work.",
+    "setup": [
+      "Adjust the thigh pad so your legs are locked firmly under it.",
+      "Grip the bar a little wider than shoulder width, overhand.",
+      "Sit down with arms fully extended overhead.",
+      "Lean back slightly, about 10-20 degrees, with chest up."
+    ],
+    "execution": [
+      "Pull the bar down to your upper chest by driving your elbows down and back.",
+      "Keep the chest up to meet the bar rather than crunching forward.",
+      "Control the bar back up to a full arm stretch.",
+      "Use a steady tempo; don't let the stack yank you up."
+    ],
+    "mistakes": [
+      {"mistake": "Leaning way back", "fix": "Keep a small lean; leaning far back turns it into a row and lets momentum help."},
+      {"mistake": "Pulling behind the neck", "fix": "Pull to the front of your upper chest, which is easier on the shoulders and just as effective."},
+      {"mistake": "Short range at the top", "fix": "Let your arms straighten fully and feel the lats stretch on each rep."}
+    ],
+    "progression": "Work 8-15 reps and add a plate when you hit the top of the range with strict form. If you're building toward pull-ups, aim to pull close to your body weight before switching over.",
+    "faq": [
+      {"q": "Lat pulldown vs pull-up?", "a": "Both train the lats well. Pulldowns let you set any load and are easier to learn; pull-ups demand more core control and are a better test of relative strength."},
+      {"q": "Wide grip or close grip lat pulldown?", "a": "A grip slightly wider than shoulder width is a solid default. Very wide grips shorten the range; a close neutral grip allows a longer pull and is often more comfortable."}
+    ]
+  },
+  "overhead_press": {
+    "summary": "The overhead press is a standing barbell press from the front of the shoulders to locked out overhead. It builds shoulder and triceps strength along with whole-body bracing, and suits lifters who want a strict vertical pressing benchmark.",
+    "musclesNote": "The front delts are the prime movers, with the side delts and triceps contributing more as the bar passes the head. The upper traps help rotate the shoulder blades, and the core and glutes brace the torso.",
+    "setup": [
+      "Set the bar in a rack at about upper-chest height.",
+      "Grip just outside shoulder width with wrists stacked over elbows.",
+      "Unrack with the bar resting on your front delts and feet about hip width.",
+      "Squeeze glutes and brace your abs so your ribs stay down."
+    ],
+    "execution": [
+      "Press the bar straight up, moving your head back slightly to clear it.",
+      "Once the bar passes your forehead, bring your head through so the bar finishes over mid-foot.",
+      "Lock out with arms straight and a slight shrug at the top.",
+      "Lower under control back to the front of your shoulders."
+    ],
+    "mistakes": [
+      {"mistake": "Leaning back excessively", "fix": "Squeeze glutes and keep ribs down; if you still arch hard, the weight is too heavy."},
+      {"mistake": "Pressing the bar forward", "fix": "Move your head out of the way so the bar travels in a straight line over your mid-foot."},
+      {"mistake": "Using leg drive by accident", "fix": "Keep knees locked; a knee dip turns it into a push press."}
+    ],
+    "progression": "Progress slowly, as small jumps of 2.5 lb (or fractional plates) last longer than 5 lb jumps. Use sets of 5-8 and back off 10% when you stall for a few weeks.",
+    "faq": [
+      {"q": "Overhead press vs bench press?", "a": "They train different pressing angles and both are useful. Overhead press demands more shoulder and core stability; bench press lets you move more weight and loads the chest more."},
+      {"q": "Should you press overhead standing or seated?", "a": "Standing trains full-body bracing and is the classic version. Seated reduces the balance and lower-back demand, which can make it easier to focus on the shoulders."}
+    ]
+  },
+  "dumbbell_shoulder_press": {
+    "summary": "The dumbbell shoulder press is an overhead press with a dumbbell in each hand, usually done seated on an upright bench. It builds the front and side delts and triceps with a freer path than a barbell, suiting most lifters.",
+    "musclesNote": "The front delts drive the press, with triceps finishing the lockout and side delts assisting. A slightly forward elbow position (not flared straight out) is usually more comfortable on the shoulders.",
+    "setup": [
+      "Set a bench upright or one notch back from vertical.",
+      "Kick the dumbbells up from your thighs to shoulder height.",
+      "Hold them just outside your shoulders, palms forward or slightly in.",
+      "Keep your back against the pad and feet planted."
+    ],
+    "execution": [
+      "Press the dumbbells up until your arms are straight overhead.",
+      "Let them drift slightly together at the top without clanking.",
+      "Lower under control until they're around ear or shoulder height.",
+      "Keep your ribs down and avoid arching off the bench."
+    ],
+    "mistakes": [
+      {"mistake": "Excessive back arch", "fix": "Keep your back against the pad and brace your abs; lighten up if you need to lean back to finish."},
+      {"mistake": "Shallow reps", "fix": "Lower until the dumbbells reach about ear level before pressing again."},
+      {"mistake": "Elbows flared fully to the side", "fix": "Bring elbows slightly forward of your torso for a more comfortable shoulder position."}
+    ],
+    "progression": "Use 8-12 reps and move up a dumbbell size once all sets hit the top of the range. Because jumps are big, expect fewer reps at first and build back up.",
+    "faq": [
+      {"q": "Seated or standing dumbbell shoulder press?", "a": "Seated is more stable and lets you focus on the delts. Standing adds core demand but usually limits the weight you can use."},
+      {"q": "Dumbbell vs barbell shoulder press?", "a": "Dumbbells let each arm move independently and often feel better on the shoulders. The barbell allows heavier loads and smaller progression jumps."}
+    ]
+  },
+  "lateral_raise": {
+    "summary": "The dumbbell lateral raise lifts the arms out to the sides to about shoulder height. It is the most direct exercise for the side delts, which give the shoulders width, and suits anyone who wants broader-looking shoulders.",
+    "musclesNote": "The side delts raise the arm out to the side. The upper traps assist if you shrug or go far above shoulder height, so keep the shoulders down to keep the work on the delts.",
+    "setup": [
+      "Stand tall holding light dumbbells at your sides.",
+      "Lean very slightly forward from the hips.",
+      "Keep a soft bend in your elbows.",
+      "Set your shoulders down away from your ears."
+    ],
+    "execution": [
+      "Raise the dumbbells out to the sides, leading with your elbows.",
+      "Stop around shoulder height, with hands roughly level with elbows.",
+      "Pause briefly, then lower slowly over 2-3 seconds.",
+      "Keep the body still; avoid swinging the weight up."
+    ],
+    "mistakes": [
+      {"mistake": "Swinging the weights", "fix": "Use lighter dumbbells and lift with the shoulders, not a hip or knee bounce."},
+      {"mistake": "Shrugging up", "fix": "Keep shoulders down and think about pushing the dumbbells out to the walls."},
+      {"mistake": "Going too heavy", "fix": "Pick a weight you can raise to shoulder height for 12-20 controlled reps."}
+    ],
+    "progression": "Progress reps in a 12-20 range before moving up, since even a 5 lb jump is a large percentage increase. Add sets over time and consider cable raises for more even tension.",
+    "faq": [
+      {"q": "How heavy should lateral raises be?", "a": "Lighter than most people think. A weight you can lift strictly to shoulder height for 12-20 reps works far better than heavy swinging."},
+      {"q": "Should lateral raises go above shoulder height?", "a": "Shoulder height is a good stopping point for most people. Going higher brings in more upper traps, which is fine if comfortable but not needed for side delts."}
+    ]
+  },
+  "cable_lateral_raise": {
+    "summary": "The cable lateral raise is a one-arm side raise using a low pulley, which keeps tension on the side delt through the whole range. It suits lifters who want to add side-delt volume with smoother loading than dumbbells.",
+    "musclesNote": "The side delts lift the arm away from the body, with upper traps assisting near the top. Unlike dumbbells, the cable loads the bottom of the movement, so the delt works right from the start.",
+    "setup": [
+      "Set a pulley at its lowest position with a single handle.",
+      "Stand side-on to the machine and grab the handle with the far hand.",
+      "Let the cable cross in front of your body, arm hanging down.",
+      "Hold the machine with your free hand for stability."
+    ],
+    "execution": [
+      "Raise the arm out to the side, leading with the elbow and a soft bend in it.",
+      "Stop around shoulder height.",
+      "Lower slowly until your hand is back in front of your hip.",
+      "Keep the torso still and shoulders down."
+    ],
+    "mistakes": [
+      {"mistake": "Leaning away to cheat", "fix": "Stay upright and use a weight you can lift without tilting your torso."},
+      {"mistake": "Rushing the lowering", "fix": "Take 2-3 seconds to return the handle to keep tension on the delt."},
+      {"mistake": "Bending the elbow more as you lift", "fix": "Lock in a slight elbow bend and keep it constant."}
+    ],
+    "progression": "Work in 12-20 reps per arm and add the smallest stack increment once you hit the top of the range. Starting with your weaker side keeps both sides even.",
+    "faq": [
+      {"q": "Cable vs dumbbell lateral raise?", "a": "Cables keep tension at the bottom, where dumbbells provide little. Both work; many people find cables give a better feel in the side delts."},
+      {"q": "Should the cable go in front or behind you?", "a": "Either works. In front is more common and comfortable; behind the body can increase the stretch slightly at the start."}
+    ]
+  },
+  "rear_delt_fly": {
+    "summary": "The rear delt fly is a bent-over dumbbell raise where you lift the arms out to the sides. It isolates the rear delts and upper back muscles that pressing neglects, and suits anyone looking for better shoulder balance and posture work.",
+    "musclesNote": "The rear delts pull the arms back and out, with the rhomboids and mid traps helping. Keeping the shoulder blades from fully squeezing together keeps more work on the rear delts.",
+    "setup": [
+      "Hold light dumbbells and hinge forward until your torso is near parallel to the floor.",
+      "Or sit on the end of a bench and lean your chest toward your thighs.",
+      "Let the dumbbells hang under your chest, palms facing in.",
+      "Keep a soft bend in your elbows."
+    ],
+    "execution": [
+      "Raise the dumbbells out to the sides in a wide arc.",
+      "Lift until your arms are about level with your torso.",
+      "Lower slowly to the start.",
+      "Keep the neck neutral and avoid jerking the torso up."
+    ],
+    "mistakes": [
+      {"mistake": "Using too much weight", "fix": "Go light enough to keep strict form for 12-20 reps; rear delts are small."},
+      {"mistake": "Turning it into a row", "fix": "Keep the elbow angle fixed so the arms move in an arc rather than pulling back."},
+      {"mistake": "Standing up during reps", "fix": "Hold your torso angle steady or use a chest-supported incline bench."}
+    ],
+    "progression": "Progress reps first in a 12-20 range. When dumbbell jumps become too big, add sets or switch to a reverse pec deck or cable version for finer increments.",
+    "faq": [
+      {"q": "How heavy should rear delt flys be?", "a": "Light. Most people get the most out of weights they can control for 12-20 reps with no torso swing."},
+      {"q": "Rear delt fly vs face pull?", "a": "Both train rear delts. The fly isolates them more directly; face pulls also involve the traps and external rotators."}
+    ]
+  },
+  "face_pull": {
+    "summary": "The face pull is a cable pull toward your face using a rope attachment set at about head height. It trains the rear delts and upper back, and is a common accessory for shoulder balance in pressing-heavy programs.",
+    "musclesNote": "The rear delts pull the arms back while the traps and rhomboids retract the shoulder blades. Pulling the rope apart and rotating the hands back also works the rotator cuff external rotators.",
+    "setup": [
+      "Set a cable pulley at about forehead height with a rope attachment.",
+      "Grip the rope ends with palms facing in or down, thumbs toward you.",
+      "Step back until arms are straight and the stack is lifted.",
+      "Stand tall with a slight lean back and braced core."
+    ],
+    "execution": [
+      "Pull the rope toward your face, splitting the ends apart.",
+      "Drive elbows out and high, finishing with hands beside your ears.",
+      "Pause briefly with shoulder blades squeezed.",
+      "Return slowly to straight arms."
+    ],
+    "mistakes": [
+      {"mistake": "Pulling too low", "fix": "Keep the rope at face height and elbows high so it doesn't become a row."},
+      {"mistake": "Leaning back to move the weight", "fix": "Lighten the load and keep the torso still."},
+      {"mistake": "Not separating the rope", "fix": "Pull the ends apart as you finish so your hands end beside your head."}
+    ],
+    "progression": "Use moderate weight for 12-20 reps and add a plate only when every rep finishes with a clean pause. These are best treated as volume work rather than a strength lift.",
+    "faq": [
+      {"q": "Are face pulls good for posture?", "a": "They strengthen the upper back and rear delts, which can help balance a lot of pressing. They won't fix posture alone, but they are a useful part of a balanced program."},
+      {"q": "How often should I do face pulls?", "a": "Two to three times a week for 2-3 sets works well for most people, often at the end of an upper-body session."}
+    ]
+  },
+  "barbell_squat": {
+    "summary": "The barbell back squat is a squat with the bar on your upper back, taken to at least parallel. It is a foundational lower-body strength lift for quads, glutes, and full-body bracing, suited to anyone who can squat to depth comfortably.",
+    "musclesNote": "The quads extend the knees and do much of the work, while the glutes and adductors extend the hips out of the bottom. The hamstrings act more as stabilizers than prime movers here.",
+    "setup": [
+      "Set the bar in a rack at about mid-chest height.",
+      "Step under and place the bar on your upper traps (high bar) or rear delts (low bar).",
+      "Grip the bar firmly, pull your elbows down, and stand up to unrack.",
+      "Take two or three steps back and set feet about shoulder width, toes slightly out.",
+      "Take a big breath and brace your core."
+    ],
+    "execution": [
+      "Sit down between your hips, pushing knees out in line with your toes.",
+      "Keep your chest up and the bar over mid-foot.",
+      "Descend until your hip crease is at or below the top of your knee.",
+      "Drive up through the whole foot, keeping the same torso angle out of the bottom.",
+      "Exhale at the top and re-brace before the next rep."
+    ],
+    "mistakes": [
+      {"mistake": "Knees caving in", "fix": "Push your knees out over your toes, especially as you start to stand up."},
+      {"mistake": "Hips shooting up first", "fix": "Drive your chest and hips up together; reduce load if your torso keeps folding over."},
+      {"mistake": "Cutting depth", "fix": "Use a weight that lets you reach parallel, and film from the side to check."}
+    ],
+    "progression": "Add 5-10 lb per session as a beginner, then move to weekly progress with sets of 3-8. Always squat inside a rack with safety pins set just below your bottom position.",
+    "faq": [
+      {"q": "How deep should you squat?", "a": "At least to parallel, where your hip crease reaches the top of your knee, is a good standard. Going deeper is fine if you can keep a neutral back and heels down."},
+      {"q": "High bar vs low bar squat?", "a": "High bar keeps the torso more upright and hits the quads more. Low bar lets most people lift a bit more weight and uses more hip; both are valid."}
+    ]
+  },
+  "leg_press": {
+    "summary": "The leg press is a machine exercise where you push a weighted sled away with your feet while seated or reclined. It trains quads and glutes heavily with less balance and back demand than squats, making it great for volume and all levels.",
+    "musclesNote": "The quads extend the knees and the glutes extend the hips. Higher, wider foot placement shifts emphasis toward glutes and adductors; lower, narrower placement biases the quads.",
+    "setup": [
+      "Sit with your back and hips flat against the pad.",
+      "Place feet about shoulder width in the middle of the platform.",
+      "Press the platform up and release the safety handles.",
+      "Keep a slight bend in your knees at the start."
+    ],
+    "execution": [
+      "Lower the sled under control by bending your knees toward your chest.",
+      "Go as deep as you can while keeping your lower back and hips on the pad.",
+      "Push through the whole foot to return to the top.",
+      "Stop just short of locking the knees hard."
+    ],
+    "mistakes": [
+      {"mistake": "Hips lifting off the seat", "fix": "Stop the descent just before your lower back starts to round off the pad."},
+      {"mistake": "Shallow reps with heavy weight", "fix": "Use a load you can take through a full range, at least to about 90 degrees of knee bend."},
+      {"mistake": "Snapping knees locked", "fix": "Finish with a slight bend or a controlled lockout rather than slamming into it."}
+    ],
+    "progression": "Work in 8-15 reps and add a plate per side when every set hits the top of the range with full depth. It works well after squats or as a primary quad lift if squats aren't an option.",
+    "faq": [
+      {"q": "Is leg press as good as squat?", "a": "For building leg muscle, the leg press can be very effective. Squats train more balance and trunk strength, so they carry over better to free-weight strength."},
+      {"q": "Where should feet go on leg press?", "a": "Mid-platform at shoulder width is a good default. Higher placement brings in more glutes; lower placement emphasizes the quads but demands more knee and ankle range."}
+    ]
+  },
+  "goblet_squat": {
+    "summary": "The goblet squat is a squat holding a single dumbbell vertically at your chest. The front-loaded weight makes it easy to stay upright and hit depth, so it's ideal for learning to squat and for quad-focused volume.",
+    "musclesNote": "Quads drive most of the movement, with glutes and adductors working out of the bottom. The front load also trains the upper back and abs to hold your torso upright.",
+    "setup": [
+      "Hold a dumbbell vertically by one end, cupped at your chest.",
+      "Keep your elbows pointing down and close to your body.",
+      "Stand with feet slightly wider than shoulder width, toes turned out a little.",
+      "Brace your core and keep your chest up."
+    ],
+    "execution": [
+      "Squat down between your heels, keeping the dumbbell close to your chest.",
+      "Let your elbows track inside your knees at the bottom.",
+      "Go as deep as you can with heels down and back neutral.",
+      "Drive up through the whole foot to standing."
+    ],
+    "mistakes": [
+      {"mistake": "Dumbbell drifting away", "fix": "Keep the weight tight to your chest so it doesn't pull you forward."},
+      {"mistake": "Heels lifting", "fix": "Widen your stance slightly or elevate your heels on small plates if ankle mobility is limited."},
+      {"mistake": "Rounding at the bottom", "fix": "Stop just above the depth where your lower back starts to tuck."}
+    ],
+    "progression": "Add reps up to about 12-15, then move up a dumbbell size. When holding the dumbbell becomes the limiting factor, move to front or back squats.",
+    "faq": [
+      {"q": "Is goblet squat good for beginners?", "a": "Yes. The front-loaded weight naturally keeps you upright and makes depth easier, so it's one of the best ways to learn the squat pattern."},
+      {"q": "Goblet squat vs back squat?", "a": "The back squat allows much heavier loads for strength. The goblet squat is easier to learn and good for higher-rep leg work, but your upper body limits how heavy you can go."}
+    ]
+  },
+  "leg_extension": {
+    "summary": "The leg extension is a seated machine exercise where you straighten your knees against a padded lever. It isolates the quads, including the rectus femoris that squats under-train, and suits anyone adding direct quad work.",
+    "musclesNote": "All four quad muscles extend the knee, and because the hip stays flexed, the rectus femoris gets more work here than in squats. No other muscle meaningfully contributes.",
+    "setup": [
+      "Adjust the back pad so your knees line up with the machine's pivot point.",
+      "Set the shin pad just above your ankles.",
+      "Sit back firmly and hold the side handles.",
+      "Start with knees bent about 90 degrees or a bit more."
+    ],
+    "execution": [
+      "Extend your knees until your legs are straight.",
+      "Squeeze your quads hard for a second at the top.",
+      "Lower under control over 2-3 seconds.",
+      "Keep your hips down on the seat throughout."
+    ],
+    "mistakes": [
+      {"mistake": "Kicking the weight up", "fix": "Lift smoothly and pause at the top so the quads, not momentum, move the pad."},
+      {"mistake": "Knee not aligned with pivot", "fix": "Adjust the back pad until your knee joint sits in line with the machine's axis."},
+      {"mistake": "Hips lifting off the seat", "fix": "Hold the handles and reduce weight so your butt stays down."}
+    ],
+    "progression": "Use 10-20 reps and add a pin once all sets hit the top of the range with a pause. Slower negatives are a good way to progress when stack jumps are too big.",
+    "faq": [
+      {"q": "Are leg extensions bad for your knees?", "a": "For most people, no, when the machine is set up correctly and the weight is controlled. If you have knee pain, use a lighter weight and a range that feels comfortable."},
+      {"q": "Do leg extensions replace squats?", "a": "No. They isolate the quads well but don't train hips, balance, or strength in a compound pattern. They work best alongside squats or leg presses."}
+    ]
+  },
+  "romanian_deadlift": {
+    "summary": "The Romanian deadlift (RDL) is a hip hinge where you lower a barbell down your thighs with slightly bent knees, then stand back up. It's one of the best hamstring and glute builders and suits anyone who can hold a neutral back.",
+    "musclesNote": "The hamstrings and glutes extend the hips under a long stretch. The lower and upper back hold the spine neutral, and the grip works hard to hold the bar.",
+    "setup": [
+      "Stand with feet hip width and the bar at hip height, held with an overhand grip just outside your thighs.",
+      "Unrack from a rack or deadlift the bar up from the floor.",
+      "Soften your knees slightly.",
+      "Brace your core and pull your shoulders back."
+    ],
+    "execution": [
+      "Push your hips back while sliding the bar down your thighs.",
+      "Keep your back flat and knees barely bending further.",
+      "Lower until you feel a strong hamstring stretch, usually mid-shin.",
+      "Drive your hips forward to stand tall, squeezing your glutes at the top."
+    ],
+    "mistakes": [
+      {"mistake": "Rounding the lower back", "fix": "Stop the descent where your back would start to round, even if that's above the knees."},
+      {"mistake": "Squatting the weight", "fix": "Keep the knee bend small and push the hips back rather than down."},
+      {"mistake": "Bar drifting away from the legs", "fix": "Keep the bar in contact or nearly in contact with your thighs the whole way."}
+    ],
+    "progression": "Use 6-12 reps and add 5-10 lb when you complete the top of the range with a flat back. Lifting straps are fine if grip limits you before your hamstrings.",
+    "faq": [
+      {"q": "RDL vs conventional deadlift?", "a": "The RDL starts from the top, uses lighter loads, and keeps tension on the hamstrings throughout. The conventional deadlift starts from the floor and uses more quads and total load."},
+      {"q": "How low should you go on an RDL?", "a": "Go as low as you can while keeping a flat back, typically somewhere around mid-shin. Range varies with hamstring flexibility."}
+    ]
+  },
+  "deadlift": {
+    "summary": "The conventional deadlift lifts a barbell from the floor to standing, feet hip width and hands just outside the legs. It trains the whole posterior chain and grip, and is a key strength test for lifters comfortable with a hinge.",
+    "musclesNote": "Glutes and hamstrings extend the hips, the quads help break the bar from the floor, and the back muscles hold your spine rigid. Traps and forearms work hard to hold onto the bar.",
+    "setup": [
+      "Stand with the bar over mid-foot and feet about hip width.",
+      "Hinge down and grip the bar just outside your legs.",
+      "Bend your knees until your shins touch the bar.",
+      "Lift your chest, flatten your back, and pull the slack out of the bar.",
+      "Take a big breath and brace your core."
+    ],
+    "execution": [
+      "Push the floor away with your legs while keeping the bar close to your shins.",
+      "Once the bar passes your knees, drive your hips forward to stand tall.",
+      "Lock out with hips and knees straight; don't lean back.",
+      "Lower by pushing hips back first, then bending knees once past them."
+    ],
+    "mistakes": [
+      {"mistake": "Bar drifting away from the body", "fix": "Keep the bar dragging up your shins and thighs the whole way."},
+      {"mistake": "Jerking the bar off the floor", "fix": "Pull the slack out first so the bar leaves the ground smoothly."},
+      {"mistake": "Hips rising faster than shoulders", "fix": "Keep your chest up and push through your legs so hips and shoulders rise together."}
+    ],
+    "progression": "Beginners can add 10 lb per session for a while, then slow to weekly progress with sets of 1-5. Use mixed grip or straps only once grip becomes the limit.",
+    "faq": [
+      {"q": "Is deadlifting bad for your back?", "a": "Not when done with good technique and sensible load progression. Keep a neutral spine, brace hard, and avoid grinding through rounded-back reps."},
+      {"q": "Conventional vs sumo deadlift?", "a": "Conventional uses more back and hamstrings; sumo uses a wide stance and more quads and adductors. Body proportions often make one feel better than the other."}
+    ]
+  },
+  "dumbbell_rdl": {
+    "summary": "The dumbbell Romanian deadlift is a hip hinge holding a dumbbell in each hand, lowered down the front of your legs. It trains hamstrings and glutes with an easier setup than a barbell, suiting beginners and home gyms.",
+    "musclesNote": "Hamstrings and glutes extend the hips from a stretched position, while your back holds the spine neutral. Dumbbells let you keep them closer to your body or slightly beside your legs.",
+    "setup": [
+      "Hold dumbbells in front of your thighs, palms facing you.",
+      "Stand with feet hip width and knees softly bent.",
+      "Pull your shoulders back and brace your core.",
+      "Keep the dumbbells close to your legs."
+    ],
+    "execution": [
+      "Push your hips back, sliding the dumbbells down the front of your legs.",
+      "Keep a flat back and minimal knee bend.",
+      "Lower until you feel a strong hamstring stretch.",
+      "Drive your hips forward to stand, squeezing your glutes."
+    ],
+    "mistakes": [
+      {"mistake": "Rounding the back", "fix": "Shorten the range so you stop before the back rounds."},
+      {"mistake": "Dumbbells swinging forward", "fix": "Keep them brushing the front of your legs."},
+      {"mistake": "Bending knees too much", "fix": "Keep a slight, fixed knee bend and focus on pushing hips back."}
+    ],
+    "progression": "Use 8-15 reps and move up a dumbbell size once you hit the top of your range. Switch to a barbell RDL when dumbbells get too heavy to hold or handle.",
+    "faq": [
+      {"q": "Dumbbell RDL vs barbell RDL?", "a": "They train the same muscles. Dumbbells are easier to set up and allow a slightly freer path; the barbell lets you load heavier and in smaller steps."},
+      {"q": "Can you do single-leg dumbbell RDLs?", "a": "Yes. The single-leg version adds balance and hip stability work and is good for evening out side-to-side differences, but uses lighter loads."}
+    ]
+  },
+  "lying_leg_curl": {
+    "summary": "The lying leg curl is a machine exercise where you lie face down and curl a padded lever toward your glutes. It isolates the hamstrings at the knee and suits anyone adding direct hamstring work alongside hinges.",
+    "musclesNote": "The hamstrings flex the knee, with the calves (gastrocnemius) contributing somewhat. Pointing your toes reduces the calf's role and keeps more work on the hamstrings.",
+    "setup": [
+      "Lie face down with your knees just off the end of the bench.",
+      "Align your knees with the machine's pivot point.",
+      "Set the ankle pad just above your heels.",
+      "Grip the handles and press your hips into the bench."
+    ],
+    "execution": [
+      "Curl your heels toward your glutes as far as you can.",
+      "Squeeze your hamstrings briefly at the top.",
+      "Lower slowly over 2-3 seconds to nearly straight legs.",
+      "Keep your hips pressed into the pad throughout."
+    ],
+    "mistakes": [
+      {"mistake": "Hips lifting off the pad", "fix": "Reduce the weight and keep hips pressed down so the hamstrings, not the lower back, do the work."},
+      {"mistake": "Swinging the weight up", "fix": "Control both directions and pause at the top."},
+      {"mistake": "Partial range", "fix": "Lower to nearly straight legs each rep for a full stretch."}
+    ],
+    "progression": "Work in 10-15 reps and add one pin when every set reaches the top of the range. Slow negatives help when stack jumps are large.",
+    "faq": [
+      {"q": "Lying vs seated leg curl?", "a": "Both train the hamstrings well. The seated version keeps the hamstrings more stretched at the hip, which may be slightly better for growth, but use whichever you have and feel."},
+      {"q": "Do I need leg curls if I do RDLs?", "a": "RDLs train hamstrings at the hip; leg curls train them at the knee. Doing both covers both functions of the muscle."}
+    ]
+  },
+  "walking_lunge": {
+    "summary": "The walking lunge is a continuous lunge where you step forward from one lunge into the next while holding dumbbells. It trains the quads and glutes one leg at a time with balance and conditioning demand, suiting anyone with room to walk.",
+    "musclesNote": "The front leg's quads and glutes do most of the work, with hamstrings and adductors stabilizing. Longer steps and a forward lean bias the glutes; shorter steps bias the quads.",
+    "setup": [
+      "Hold a dumbbell in each hand at your sides.",
+      "Stand tall with feet hip width.",
+      "Clear a straight path of at least 10-15 steps.",
+      "Brace your core and look forward."
+    ],
+    "execution": [
+      "Step forward and lower until your back knee nearly touches the floor.",
+      "Keep your front knee tracking over your toes and your torso upright.",
+      "Push through your front foot to stand and bring the back leg through into the next step.",
+      "Alternate legs and keep a steady, controlled pace."
+    ],
+    "mistakes": [
+      {"mistake": "Steps too narrow", "fix": "Keep feet about hip width apart, as if walking on train tracks rather than a tightrope."},
+      {"mistake": "Front knee caving in", "fix": "Push the front knee out slightly so it tracks over the middle toes."},
+      {"mistake": "Pushing off the back foot", "fix": "Drive up mainly through the front heel and midfoot."}
+    ],
+    "progression": "Add steps per set, then increase dumbbell weight. When grip limits you, hold the dumbbells with straps or switch to a barbell or stationary split-squat variation.",
+    "faq": [
+      {"q": "Walking lunges vs reverse lunges?", "a": "Walking lunges add a balance and conditioning challenge. Reverse lunges are usually easier on the knees and simpler to load and control."},
+      {"q": "How many steps for walking lunges?", "a": "Count 8-12 steps per leg per set as a good starting point for most leg sessions."}
+    ]
+  },
+  "bulgarian_split_squat": {
+    "summary": "The Bulgarian split squat is a single-leg squat with your rear foot elevated on a bench. It builds the quads and glutes of the front leg with relatively light weights and suits anyone looking for a demanding unilateral leg exercise.",
+    "musclesNote": "The front leg's quads and glutes do most of the work, with adductors helping. A longer stance and forward lean shift more work to the glutes; a shorter stance and upright torso bias the quads.",
+    "setup": [
+      "Stand about a stride in front of a bench, holding dumbbells at your sides.",
+      "Place the top of your back foot on the bench.",
+      "Set your front foot so your knee can bend without heel lifting.",
+      "Keep hips square and core braced."
+    ],
+    "execution": [
+      "Lower straight down until your back knee nears the floor.",
+      "Keep most of the weight on the front foot.",
+      "Drive up through the front heel and midfoot to the top.",
+      "Finish all reps on one side before switching."
+    ],
+    "mistakes": [
+      {"mistake": "Front foot too close to the bench", "fix": "Step out further so your front heel stays down at the bottom."},
+      {"mistake": "Pushing with the back leg", "fix": "Use the back foot for balance only and drive through the front leg."},
+      {"mistake": "Losing balance", "fix": "Widen your stance slightly and hold onto a rack with one hand while learning."}
+    ],
+    "progression": "Start with bodyweight, then add dumbbells and work in 6-12 reps per leg. Once grip limits you, use straps, a barbell, or a Smith machine.",
+    "faq": [
+      {"q": "Bulgarian split squat: quads or glutes?", "a": "Both. A shorter stance and upright torso favor the quads; a longer stance and forward lean favor the glutes."},
+      {"q": "Why are Bulgarian split squats so hard?", "a": "They load one leg through a deep range and demand balance at the same time. Start with bodyweight or light dumbbells and they become more manageable quickly."}
+    ]
+  },
+  "hip_thrust": {
+    "summary": "The hip thrust is a hip extension exercise with your upper back on a bench and a barbell across your hips. It loads the glutes heavily at full hip extension and suits anyone who wants to build glute strength and size.",
+    "musclesNote": "The glutes extend the hips and are the main driver, especially near lockout. Hamstrings assist, more so if your feet are farther from your body; quads help hold the knee angle.",
+    "setup": [
+      "Sit on the floor with your upper back against a bench edge.",
+      "Roll a padded barbell over your hips.",
+      "Plant your feet about hip width, close enough that shins are vertical at the top.",
+      "Brace your core and tuck your chin slightly."
+    ],
+    "execution": [
+      "Drive through your heels to lift your hips until your torso is level with the floor.",
+      "Squeeze your glutes hard at the top without arching your lower back.",
+      "Lower under control until your hips are just above the floor.",
+      "Keep your gaze forward so your head moves with your torso."
+    ],
+    "mistakes": [
+      {"mistake": "Overarching at the top", "fix": "Keep ribs down and posteriorly tilt the pelvis slightly so the glutes finish the movement, not the lower back."},
+      {"mistake": "Feet too far forward", "fix": "Move feet back until your shins are vertical at the top."},
+      {"mistake": "Short reps", "fix": "Lower until your hips nearly touch the floor every rep."}
+    ],
+    "progression": "Work in 8-15 reps and add 10 lb when you hit the top of the range with a clean lockout. Use a bar pad and bumper plates to make setup easier as weight increases.",
+    "faq": [
+      {"q": "Hip thrust vs squat for glutes?", "a": "Hip thrusts load the glutes most at the top of hip extension; squats load them most in the deep, stretched position. Both build glutes and complement each other."},
+      {"q": "Should you use a pad for hip thrusts?", "a": "Yes. A bar pad or folded mat makes heavier loads much more comfortable on the hips."}
+    ]
+  },
+  "standing_calf_raise": {
+    "summary": "The standing calf raise is done on a machine with shoulder pads, raising your heels from a deep stretch. It trains the calves with straight knees, which favors the larger gastrocnemius, and suits anyone wanting bigger, stronger calves.",
+    "musclesNote": "With the knees straight, the gastrocnemius does most of the work, with the soleus beneath it assisting. Pausing in the stretch reduces bounce from the Achilles tendon.",
+    "setup": [
+      "Set the shoulder pads so you have to slightly bend your knees to get under them.",
+      "Place the balls of your feet on the step edge.",
+      "Stand up to lift the weight, knees straight but not locked hard.",
+      "Let your heels hang down."
+    ],
+    "execution": [
+      "Lower your heels as far as comfortable and pause for a second.",
+      "Push up through the balls of your feet as high as possible.",
+      "Squeeze at the top for a second.",
+      "Lower slowly and repeat without bouncing."
+    ],
+    "mistakes": [
+      {"mistake": "Bouncing at the bottom", "fix": "Pause one to two seconds in the stretched position so the calves, not the tendon, lift the weight."},
+      {"mistake": "Bending the knees", "fix": "Keep knees straight so the movement stays at the ankle."},
+      {"mistake": "Partial range", "fix": "Use full depth and full height on every rep, even if that means less weight."}
+    ],
+    "progression": "Work in 8-15 reps with full range and pauses, adding load when you hit the top of the range. Calves often respond well to frequent training, 2-4 times a week.",
+    "faq": [
+      {"q": "Standing vs seated calf raise?", "a": "Standing raises bias the gastrocnemius; seated raises bias the soleus because the bent knee slackens the gastrocnemius. Using both is a good idea."},
+      {"q": "Why won't my calves grow?", "a": "Common reasons are bouncing through short reps and too little volume. Slow full-range reps with a pause at the bottom, done consistently, help most people."}
+    ]
+  },
+  "seated_calf_raise": {
+    "summary": "The seated calf raise is a machine exercise where you raise your heels with weight on your bent knees. The bent knee puts more emphasis on the soleus, the deeper calf muscle, making it a good complement to standing raises.",
+    "musclesNote": "With knees bent around 90 degrees, the gastrocnemius is slackened, so the soleus does more of the work. Both muscles still help plantar flex the ankle.",
+    "setup": [
+      "Sit at the machine with the balls of your feet on the platform edge.",
+      "Adjust the knee pad so it sits snugly on your lower thighs.",
+      "Lift your heels slightly and release the safety lever.",
+      "Let your heels drop into a stretch."
+    ],
+    "execution": [
+      "Pause briefly in the bottom stretch.",
+      "Push up through the balls of your feet as high as possible.",
+      "Hold the top for a second.",
+      "Lower slowly to a full stretch."
+    ],
+    "mistakes": [
+      {"mistake": "Bouncing reps", "fix": "Pause at the bottom of each rep to avoid using stretch reflex."},
+      {"mistake": "Short range", "fix": "Lower fully and rise fully, using less load if needed."},
+      {"mistake": "Rolling to the outer foot", "fix": "Push evenly through the big toe and the ball of the foot."}
+    ],
+    "progression": "Work in 10-20 reps and add load once you hit the top of the range with full pauses. Pair with standing raises across the week for complete calf work.",
+    "faq": [
+      {"q": "What does seated calf raise work?", "a": "It mainly targets the soleus, the deep calf muscle under the gastrocnemius. The soleus contributes significantly to calf size and ankle endurance."},
+      {"q": "Can I do seated calf raises without a machine?", "a": "Yes. Sit on a bench with a loaded barbell or dumbbells on your thighs and your toes on a plate or step."}
+    ]
+  },
+  "barbell_curl": {
+    "summary": "The barbell curl is a standing biceps exercise where you curl a straight or EZ bar from your thighs to your shoulders. It allows heavier loads than most curl variations, making it a staple for biceps size and strength.",
+    "musclesNote": "The biceps flex the elbow and supinate the forearm, with the brachialis and brachioradialis (forearm muscles) assisting. An EZ bar reduces wrist strain with a slight angle.",
+    "setup": [
+      "Stand tall holding the bar with an underhand grip at about shoulder width.",
+      "Let the bar hang at arm's length against your thighs.",
+      "Keep your elbows at your sides.",
+      "Brace your core and squeeze your glutes."
+    ],
+    "execution": [
+      "Curl the bar up by bending your elbows, keeping upper arms still.",
+      "Bring the bar to shoulder height and squeeze briefly.",
+      "Lower slowly to full arm extension.",
+      "Avoid leaning back or swinging the bar."
+    ],
+    "mistakes": [
+      {"mistake": "Swinging the torso", "fix": "Lighten the bar and keep your body still so the biceps lift it."},
+      {"mistake": "Elbows drifting forward", "fix": "Keep elbows close to your sides throughout."},
+      {"mistake": "Half reps", "fix": "Fully straighten your arms at the bottom of each rep."}
+    ],
+    "progression": "Work in 8-12 reps and add 5 lb when all sets reach the top of the range. Use an EZ bar if a straight bar bothers your wrists.",
+    "faq": [
+      {"q": "Straight bar vs EZ bar curl?", "a": "A straight bar keeps the forearms fully supinated, maximizing biceps involvement. An EZ bar puts the wrists at a slight angle, which many people find more comfortable."},
+      {"q": "Barbell curl vs dumbbell curl?", "a": "Barbells allow heavier loads and smaller jumps. Dumbbells allow each arm to work independently and let you rotate the wrist."}
+    ]
+  },
+  "dumbbell_curl": {
+    "summary": "The dumbbell curl is a biceps exercise curling a dumbbell in each hand, alternating or together. Each arm works independently and the wrist can rotate freely, making it a versatile curl for all levels.",
+    "musclesNote": "The biceps flex the elbow and rotate the palm up, so turning the palm up as you lift increases biceps work. The brachialis and forearm muscles assist.",
+    "setup": [
+      "Stand holding dumbbells at your sides, palms facing in or forward.",
+      "Keep your elbows close to your torso.",
+      "Stand tall with core braced.",
+      "Relax your shoulders down."
+    ],
+    "execution": [
+      "Curl the dumbbells up, rotating your palms to face up as you lift.",
+      "Bring them to shoulder height without moving your elbows forward.",
+      "Squeeze your biceps briefly at the top.",
+      "Lower slowly to full extension."
+    ],
+    "mistakes": [
+      {"mistake": "Swinging the dumbbells", "fix": "Lower the weight and keep your torso still."},
+      {"mistake": "Not supinating", "fix": "Turn your palms up as the dumbbell rises to fully engage the biceps."},
+      {"mistake": "Rushing the lowering", "fix": "Take 2-3 seconds to lower each rep."}
+    ],
+    "progression": "Work in 8-15 reps and move up a dumbbell size when all sets hit the top of the range. Alternating arms can let you handle slightly heavier dumbbells.",
+    "faq": [
+      {"q": "Alternating or simultaneous dumbbell curls?", "a": "Both work. Alternating lets you focus on one arm at a time and often use a bit more weight; curling both together saves time."},
+      {"q": "Dumbbell curls vs hammer curls?", "a": "Standard curls with palms up target the biceps more. Hammer curls with a neutral grip shift more work to the brachialis and forearm muscles."}
+    ]
+  }
+}

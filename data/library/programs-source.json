@@ -1,0 +1,2222 @@
+[
+ {
+  "key": "physiquePlan",
+  "id": "physique_12w_4",
+  "name": "The Physique Plan",
+  "description": "A 12-week, 4-day physique block emphasizing upper chest, delts, lats, arms, and enough lower-body work to keep proportions balanced.",
+  "daysPerWeek": 4,
+  "difficulty": "intermediate",
+  "bestFor": [
+   "Hypertrophy",
+   "Aesthetics",
+   "12-Week Block"
+  ],
+  "frequency": "4 days/week for 12 weeks",
+  "minutes": 70,
+  "weeks": 12,
+  "why": [
+   "Runs as a 12-week physique block with weekly compliance and timing tracked from completed planned workouts.",
+   "Prioritizes upper chest, delt width, lats, and arms while preserving lower-body work.",
+   "Broad rep ranges let the logbook reveal which exercises progress best for you.",
+   "Built as a normal plan template, so rest timing, RIR, rep range adherence, and workout completion all feed existing progress surfaces."
+  ],
+  "days": [
+   {
+    "name": "Upper Chest / Delts / Triceps",
+    "focus": "Upper chest, side delts, triceps",
+    "exercises": [
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline Dumbbell Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 150,
+      "notes": null
+     },
+     {
+      "exerciseId": "hs_iso_lateral_chest_press",
+      "label": "Iso-Lateral Chest Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_lateral_raise",
+      "label": "Cable or Dumbbell Lateral Raise",
+      "sets": 5,
+      "repMin": 12,
+      "repMax": 25,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": "Cable preferred when available; dumbbells are fine."
+     },
+     {
+      "exerciseId": "pec_deck",
+      "label": "Pec Deck or Cable Fly",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_tricep_extension",
+      "label": "Overhead Triceps Extension",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Triceps Pushdown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": "Original prescription is 2-3 sets; start with 3 and reduce if elbows or recovery complain."
+     }
+    ]
+   },
+   {
+    "name": "Lower / Traps / Abs",
+    "focus": "Quads, hamstrings, calves, traps, abs",
+    "exercises": [
+     {
+      "exerciseId": "hack_squat_machine",
+      "label": "Hack Squat / Pendulum Squat / Leg Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": "Use pendulum squat or leg press when hack squat is unavailable."
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 3,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "seated_leg_curl",
+      "label": "Seated Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_extension",
+      "label": "Leg Extension",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": "Original prescription is 2-3 sets; start with 3 and adjust down if recovery lags."
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Calf Raise",
+      "sets": 4,
+      "repMin": 10,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "shrugs",
+      "label": "Shrugs or Farmer's Carries",
+      "sets": 4,
+      "repMin": 10,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 90,
+      "notes": "Original prescription is 3-4 sets; use carries when you want grip and trap loading."
+     },
+     {
+      "exerciseId": "hanging_leg_raise",
+      "label": "Hanging Leg Raise / Machine Crunch",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": "Hanging leg raise or machine crunch"
+     }
+    ]
+   },
+   {
+    "name": "Lats / Back / Biceps",
+    "focus": "Lats, rows, rear delts, biceps",
+    "exercises": [
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Pull-Ups or Lat Pulldown",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 150,
+      "notes": "Use pull-ups when they fit the target rep range."
+     },
+     {
+      "exerciseId": "hs_high_row",
+      "label": "Iso-Lateral High Row",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Seated Row or Low Row",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": "Low row variation is preferred if available."
+     },
+     {
+      "exerciseId": "straight_arm_pulldown",
+      "label": "Pullover Machine / Straight-Arm Pulldown",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": null
+     },
+     {
+      "exerciseId": "rear_delt_fly",
+      "label": "Rear Delt Reverse Fly",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 25,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "preacher_curl",
+      "label": "Preacher Curl",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": null
+     },
+     {
+      "exerciseId": "hammer_curl",
+      "label": "Hammer Curl or Reverse Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Aesthetic Upper Body",
+    "focus": "Upper chest, lats, delts, arms",
+    "exercises": [
+     {
+      "exerciseId": "hs_incline_press",
+      "label": "Incline Machine Press",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown or Pull-Up",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 6,
+      "repMin": 12,
+      "repMax": 25,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_cable_fly",
+      "label": "Chest Fly or Low-to-High Cable Fly",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 75,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "rear_delt_fly",
+      "label": "Rear Delt Fly",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 25,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_curl",
+      "label": "Biceps/Triceps Superset",
+      "sets": 4,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": "3-4 biceps/triceps superset rounds"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "key": "pushPullLegs",
+  "id": "ppl_6",
+  "name": "Push/Pull/Legs",
+  "description": "The classic 6-day split. Each muscle trained 2x per week with dedicated push, pull, and leg days.",
+  "daysPerWeek": 6,
+  "difficulty": "intermediate",
+  "bestFor": [
+   "Hypertrophy",
+   "Bodybuilding"
+  ],
+  "frequency": "2x per muscle/week",
+  "minutes": 60,
+  "weeks": null,
+  "why": [
+   "High frequency: each muscle trained twice per week",
+   "Optimal for intermediate to advanced lifters",
+   "Logical grouping reduces overlap fatigue",
+   "Popular among natural bodybuilders"
+  ],
+  "days": [
+   {
+    "name": "Push A",
+    "focus": "Chest, Shoulders, Triceps",
+    "exercises": [
+     {
+      "exerciseId": "barbell_bench_press",
+      "label": "Bench Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "dumbbell_shoulder_press",
+      "label": "Dumbbell Shoulder Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline DB Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_lateral_raise",
+      "label": "Cable Lateral Raise",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Tricep Pushdown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Pull A",
+    "focus": "Back, Biceps, Rear Delts",
+    "exercises": [
+     {
+      "exerciseId": "barbell_row",
+      "label": "Barbell Row",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "face_pull",
+      "label": "Face Pull",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_curl",
+      "label": "Barbell Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Legs A",
+    "focus": "Quads, Hamstrings, Calves",
+    "exercises": [
+     {
+      "exerciseId": "barbell_squat",
+      "label": "Barbell Squat",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Standing Calf Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Push B",
+    "focus": "Chest, Shoulders, Triceps",
+    "exercises": [
+     {
+      "exerciseId": "machine_chest_press",
+      "label": "Machine Chest Press",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_press",
+      "label": "Overhead Press",
+      "sets": 3,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_fly",
+      "label": "Cable Fly",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_tricep_extension",
+      "label": "Overhead Tricep Extension",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Pull B",
+    "focus": "Back, Biceps, Rear Delts",
+    "exercises": [
+     {
+      "exerciseId": "pull_ups",
+      "label": "Pull-ups",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "chest_supported_row",
+      "label": "Chest Supported Row",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "straight_arm_pulldown",
+      "label": "Straight Arm Pulldown",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "reverse_fly_db",
+      "label": "Dumbbell Reverse Fly",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_curl",
+      "label": "Incline DB Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Legs B",
+    "focus": "Quads, Hamstrings, Glutes",
+    "exercises": [
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 4,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "walking_lunge",
+      "label": "Walking Lunge",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": "per leg"
+     },
+     {
+      "exerciseId": "leg_extension",
+      "label": "Leg Extension",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "seated_calf_raise",
+      "label": "Seated Calf Raise",
+      "sets": 4,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "key": "upperLower",
+  "id": "ul_4",
+  "name": "Upper/Lower Split",
+  "description": "Train upper body and lower body on alternating days. Perfect balance of frequency and recovery.",
+  "daysPerWeek": 4,
+  "difficulty": "beginner",
+  "bestFor": [
+   "Strength",
+   "General Fitness"
+  ],
+  "frequency": "2x per muscle/week",
+  "minutes": 60,
+  "weeks": null,
+  "why": [
+   "Perfect for busy schedules - only 4 days required",
+   "Each muscle still hits 2x frequency",
+   "Great for beginners through intermediate",
+   "Excellent strength progression potential"
+  ],
+  "days": [
+   {
+    "name": "Upper A",
+    "focus": "Chest, Back, Shoulders, Arms",
+    "exercises": [
+     {
+      "exerciseId": "barbell_bench_press",
+      "label": "Bench Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_row",
+      "label": "Barbell Row",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "dumbbell_shoulder_press",
+      "label": "Dumbbell Shoulder Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_curl",
+      "label": "Barbell Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Tricep Pushdown",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Lower A",
+    "focus": "Quads, Hamstrings, Glutes",
+    "exercises": [
+     {
+      "exerciseId": "barbell_squat",
+      "label": "Barbell Squat",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Standing Calf Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Upper B",
+    "focus": "Back, Chest, Shoulders, Arms",
+    "exercises": [
+     {
+      "exerciseId": "pull_ups",
+      "label": "Pull-ups",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline DB Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_press",
+      "label": "Overhead Press",
+      "sets": 3,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "face_pull",
+      "label": "Face Pull",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_curl",
+      "label": "Incline Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_tricep_extension",
+      "label": "Overhead Extension",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Lower B",
+    "focus": "Hamstrings, Quads, Glutes",
+    "exercises": [
+     {
+      "exerciseId": "deadlift",
+      "label": "Conventional Deadlift",
+      "sets": 4,
+      "repMin": 5,
+      "repMax": 8,
+      "rir": 2.0,
+      "rest": 240,
+      "notes": null
+     },
+     {
+      "exerciseId": "bulgarian_split_squat",
+      "label": "Bulgarian Split Squat",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": "per leg"
+     },
+     {
+      "exerciseId": "leg_extension",
+      "label": "Leg Extension",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "seated_calf_raise",
+      "label": "Seated Calf Raise",
+      "sets": 4,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "key": "fullBody",
+  "id": "fb_3",
+  "name": "Full Body",
+  "description": "Hit every muscle group each session. Maximum efficiency for those with limited gym time.",
+  "daysPerWeek": 3,
+  "difficulty": "beginner",
+  "bestFor": [
+   "Beginners",
+   "Time Efficiency"
+  ],
+  "frequency": "3x per muscle/week",
+  "minutes": 60,
+  "weeks": null,
+  "why": [
+   "Only 3 days per week required",
+   "Highest frequency per muscle (3x/week)",
+   "Perfect for beginners building habits",
+   "Research supports full body for beginners"
+  ],
+  "days": [
+   {
+    "name": "Day A",
+    "focus": "Full Body - Squat Focus",
+    "exercises": [
+     {
+      "exerciseId": "barbell_squat",
+      "label": "Barbell Squat",
+      "sets": 3,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_bench_press",
+      "label": "Bench Press",
+      "sets": 3,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_row",
+      "label": "Barbell Row",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "dumbbell_shoulder_press",
+      "label": "Dumbbell Shoulder Press",
+      "sets": 2,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 2,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_curl",
+      "label": "Barbell Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Day B",
+    "focus": "Full Body - Hinge Focus",
+    "exercises": [
+     {
+      "exerciseId": "deadlift",
+      "label": "Conventional Deadlift",
+      "sets": 3,
+      "repMin": 5,
+      "repMax": 8,
+      "rir": 2.0,
+      "rest": 240,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline DB Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "face_pull",
+      "label": "Face Pull",
+      "sets": 2,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Tricep Pushdown",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Day C",
+    "focus": "Full Body - Varied",
+    "exercises": [
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "machine_chest_press",
+      "label": "Machine Chest Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_press",
+      "label": "Overhead Press",
+      "sets": 2,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Standing Calf Raise",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_curl",
+      "label": "Incline Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "key": "arnoldSplit",
+  "id": "arnold_6",
+  "name": "Arnold Split",
+  "description": "The classic bodybuilding split used by Arnold Schwarzenegger. Chest/Back, Shoulders/Arms, Legs.",
+  "daysPerWeek": 6,
+  "difficulty": "advanced",
+  "bestFor": [
+   "Bodybuilding",
+   "Advanced Lifters"
+  ],
+  "frequency": "2x per muscle/week",
+  "minutes": 75,
+  "weeks": null,
+  "why": [
+   "Antagonist pairing (chest/back) allows heavier weights",
+   "High volume per session for advanced lifters",
+   "Made famous by Arnold Schwarzenegger",
+   "Each muscle 2x per week with high volume"
+  ],
+  "days": [
+   {
+    "name": "Chest & Back A",
+    "focus": "Chest, Back",
+    "exercises": [
+     {
+      "exerciseId": "barbell_bench_press",
+      "label": "Bench Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "pull_ups",
+      "label": "Pull-ups",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline DB Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_row",
+      "label": "Barbell Row",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_fly",
+      "label": "Cable Fly",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "straight_arm_pulldown",
+      "label": "Straight Arm Pulldown",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Shoulders & Arms A",
+    "focus": "Shoulders, Biceps, Triceps",
+    "exercises": [
+     {
+      "exerciseId": "overhead_press",
+      "label": "Overhead Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_curl",
+      "label": "Barbell Curl",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "skull_crusher",
+      "label": "Skull Crusher",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_curl",
+      "label": "Incline Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Tricep Pushdown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Legs A",
+    "focus": "Quads, Hamstrings, Calves",
+    "exercises": [
+     {
+      "exerciseId": "barbell_squat",
+      "label": "Barbell Squat",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Standing Calf Raise",
+      "sets": 5,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Chest & Back B",
+    "focus": "Chest, Back",
+    "exercises": [
+     {
+      "exerciseId": "machine_chest_press",
+      "label": "Machine Chest Press",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "smith_machine_incline_press",
+      "label": "Smith Machine Incline Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "chest_supported_row",
+      "label": "Chest Supported Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_fly",
+      "label": "Cable Fly",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Shoulders & Arms B",
+    "focus": "Shoulders, Biceps, Triceps",
+    "exercises": [
+     {
+      "exerciseId": "dumbbell_shoulder_press",
+      "label": "Dumbbell Shoulder Press",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_lateral_raise",
+      "label": "Cable Lateral Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "reverse_fly_db",
+      "label": "Dumbbell Reverse Fly",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "hammer_curl",
+      "label": "Hammer Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_tricep_extension",
+      "label": "Overhead Extension",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "preacher_curl",
+      "label": "Preacher Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Legs B",
+    "focus": "Quads, Hamstrings, Calves",
+    "exercises": [
+     {
+      "exerciseId": "front_squat",
+      "label": "Front Squat",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "hack_squat_machine",
+      "label": "Hack Squat Machine",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_extension",
+      "label": "Leg Extension",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "seated_calf_raise",
+      "label": "Seated Calf Raise",
+      "sets": 5,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "key": "broSplit",
+  "id": "bro_5",
+  "name": "Bro Split",
+  "description": "One muscle group per day. Maximum volume per session, but lower frequency.",
+  "daysPerWeek": 5,
+  "difficulty": "intermediate",
+  "bestFor": [
+   "Bodybuilding",
+   "Maximum Pump"
+  ],
+  "frequency": "1x per muscle/week",
+  "minutes": 60,
+  "weeks": null,
+  "why": [
+   "Maximum volume per muscle per session",
+   "Great pumps and mind-muscle connection",
+   "Simple to follow and remember",
+   "Good for enhanced athletes or recovery"
+  ],
+  "days": [
+   {
+    "name": "Chest Day",
+    "focus": "Chest",
+    "exercises": [
+     {
+      "exerciseId": "barbell_bench_press",
+      "label": "Bench Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline DB Press",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "machine_chest_press",
+      "label": "Machine Chest Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_fly",
+      "label": "Cable Fly",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "dips",
+      "label": "Dips",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 90,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Back Day",
+    "focus": "Back",
+    "exercises": [
+     {
+      "exerciseId": "deadlift",
+      "label": "Conventional Deadlift",
+      "sets": 4,
+      "repMin": 5,
+      "repMax": 8,
+      "rir": 2.0,
+      "rest": 240,
+      "notes": null
+     },
+     {
+      "exerciseId": "pull_ups",
+      "label": "Pull-ups",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_row",
+      "label": "Barbell Row",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Shoulders Day",
+    "focus": "Shoulders",
+    "exercises": [
+     {
+      "exerciseId": "overhead_press",
+      "label": "Overhead Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "dumbbell_shoulder_press",
+      "label": "Dumbbell Shoulder Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "reverse_fly_db",
+      "label": "Dumbbell Reverse Fly",
+      "sets": 4,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "face_pull",
+      "label": "Face Pull",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Legs Day",
+    "focus": "Legs",
+    "exercises": [
+     {
+      "exerciseId": "barbell_squat",
+      "label": "Barbell Squat",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_extension",
+      "label": "Leg Extension",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Standing Calf Raise",
+      "sets": 5,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Arms Day",
+    "focus": "Biceps, Triceps",
+    "exercises": [
+     {
+      "exerciseId": "barbell_curl",
+      "label": "Barbell Curl",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "skull_crusher",
+      "label": "Skull Crusher",
+      "sets": 4,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_curl",
+      "label": "Incline Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Tricep Pushdown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "hammer_curl",
+      "label": "Hammer Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_tricep_extension",
+      "label": "Overhead Extension",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "key": "pplUpperLower",
+  "id": "ppl_ul_5",
+  "name": "PPL + U/L Hybrid",
+  "description": "Best of both worlds: PPL for upper body emphasis, then Upper/Lower for balanced frequency.",
+  "daysPerWeek": 5,
+  "difficulty": "intermediate",
+  "bestFor": [
+   "Balanced Growth",
+   "Intermediate"
+  ],
+  "frequency": "~1.5x per muscle/week",
+  "minutes": 60,
+  "weeks": null,
+  "why": [
+   "5-day sweet spot for most lifters",
+   "Upper body hits ~2x, lower body hits 2x",
+   "Variety keeps training interesting",
+   "Good balance of specialization and frequency"
+  ],
+  "days": [
+   {
+    "name": "Push",
+    "focus": "Chest, Shoulders, Triceps",
+    "exercises": [
+     {
+      "exerciseId": "barbell_bench_press",
+      "label": "Bench Press",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "dumbbell_shoulder_press",
+      "label": "Dumbbell Shoulder Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_press",
+      "label": "Incline DB Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "lateral_raise",
+      "label": "Lateral Raise",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "tricep_pushdown",
+      "label": "Tricep Pushdown",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Pull",
+    "focus": "Back, Biceps, Rear Delts",
+    "exercises": [
+     {
+      "exerciseId": "barbell_row",
+      "label": "Barbell Row",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "lat_pulldown",
+      "label": "Lat Pulldown",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_row",
+      "label": "Cable Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "face_pull",
+      "label": "Face Pull",
+      "sets": 3,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "barbell_curl",
+      "label": "Barbell Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Legs",
+    "focus": "Quads, Hamstrings, Calves",
+    "exercises": [
+     {
+      "exerciseId": "barbell_squat",
+      "label": "Barbell Squat",
+      "sets": 4,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 180,
+      "notes": null
+     },
+     {
+      "exerciseId": "romanian_deadlift",
+      "label": "Romanian Deadlift",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "leg_press",
+      "label": "Leg Press",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "standing_calf_raise",
+      "label": "Standing Calf Raise",
+      "sets": 4,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Upper",
+    "focus": "Full Upper Body",
+    "exercises": [
+     {
+      "exerciseId": "smith_machine_incline_press",
+      "label": "Smith Machine Incline Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "pull_ups",
+      "label": "Pull-ups",
+      "sets": 3,
+      "repMin": 6,
+      "repMax": 10,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "overhead_press",
+      "label": "Overhead Press",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 120,
+      "notes": null
+     },
+     {
+      "exerciseId": "chest_supported_row",
+      "label": "Chest Supported Row",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": null
+     },
+     {
+      "exerciseId": "cable_lateral_raise",
+      "label": "Cable Lateral",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "incline_dumbbell_curl",
+      "label": "Incline Curl",
+      "sets": 2,
+      "repMin": 10,
+      "repMax": 12,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   },
+   {
+    "name": "Lower",
+    "focus": "Full Lower Body",
+    "exercises": [
+     {
+      "exerciseId": "deadlift",
+      "label": "Conventional Deadlift",
+      "sets": 4,
+      "repMin": 5,
+      "repMax": 8,
+      "rir": 2.0,
+      "rest": 240,
+      "notes": null
+     },
+     {
+      "exerciseId": "bulgarian_split_squat",
+      "label": "Bulgarian Split Squat",
+      "sets": 3,
+      "repMin": 8,
+      "repMax": 12,
+      "rir": 2.0,
+      "rest": 90,
+      "notes": "per leg"
+     },
+     {
+      "exerciseId": "leg_extension",
+      "label": "Leg Extension",
+      "sets": 3,
+      "repMin": 12,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "lying_leg_curl",
+      "label": "Lying Leg Curl",
+      "sets": 3,
+      "repMin": 10,
+      "repMax": 15,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     },
+     {
+      "exerciseId": "seated_calf_raise",
+      "label": "Seated Calf Raise",
+      "sets": 4,
+      "repMin": 15,
+      "repMax": 20,
+      "rir": 1.0,
+      "rest": 60,
+      "notes": null
+     }
+    ]
+   }
+  ]
+ }
+]

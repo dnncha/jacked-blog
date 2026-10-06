@@ -1,0 +1,140 @@
+// Web copy for the program library. Prescriptions come from
+// data/library/programs-source.json (extracted from the app's ProgramHub);
+// this file only adds search-facing explanation around them.
+
+export const programContent = {
+  physiquePlan: {
+    slug: '12-week-physique-plan',
+    title: '12-Week Physique Workout Plan (4 Days a Week)',
+    metaDescription: 'A free 4-day, 12-week physique program that prioritizes upper chest, side delts, lats, and arms. Full sets, reps, RIR, and rest for every day.',
+    h1: '12-Week Physique Plan',
+    intro: 'Four sessions a week built around the muscles that change how a physique looks in a T-shirt: upper chest, side delts, lats, and arms. Legs, traps, and abs still get a full day so proportions stay balanced.',
+    whoFor: [
+      'Lifters with at least six months of consistent training who want a visible change in shape, not just bigger numbers.',
+      'People who can train four days a week and have access to machines and cables as well as free weights.',
+      'Anyone who wants a fixed 12-week block with a clear start and finish to judge progress against.',
+    ],
+    schedule: 'Run the four days in order with a rest day after days 2 and 4, for example Monday, Tuesday, Thursday, Friday.',
+    progression: 'Use the bottom of each rep range as your starting target. When every set reaches the top of the range at the listed RIR, add the smallest load jump available and work back up. Lateral raises and rear delt work progress mostly by reps.',
+    faqs: [
+      ['Is 4 days a week enough to build a good physique?', 'Yes for most people. Four sessions let each priority muscle get direct work twice a week, which is enough frequency to grow as long as the sets are taken close to failure and progressed over time.'],
+      ['Why so many lateral raise sets?', 'Side delts are small, recover quickly, and drive shoulder width. Spreading 11 weekly sets across two days keeps each session manageable while giving them enough volume to respond.'],
+      ['What should I do after 12 weeks?', 'Take an easy week, review which lifts stalled, then either run the block again with swapped exercises for the stalled lifts or move to a split with more lower-body volume if your legs lag.'],
+    ],
+  },
+  pushPullLegs: {
+    slug: 'push-pull-legs',
+    title: 'Push Pull Legs Workout Plan (6-Day PPL Split)',
+    metaDescription: 'A free 6-day push/pull/legs routine with two variations of each day. Exact sets, rep ranges, RIR targets, and rest times you can copy into Surpass.',
+    h1: 'Push Pull Legs (6-Day PPL)',
+    intro: 'The classic push/pull/legs split run twice a week, with an A and B version of each day so the exercise selection rotates. Every muscle gets trained twice a week with moderate volume per session.',
+    whoFor: [
+      'Intermediate lifters who can reliably get to the gym six days a week.',
+      'People chasing muscle size who like shorter sessions with a clear theme each day.',
+      'Lifters coming off a beginner full-body routine who have run out of linear progress.',
+    ],
+    schedule: 'Push A, Pull A, Legs A, Push B, Pull B, Legs B, then one rest day. If six days is too many, run it as a rolling three-on, one-off rotation instead.',
+    progression: 'Each lift has a rep range. Stay at a weight until you hit the top of the range on every set at the listed RIR, then add the smallest jump. Compound lifts on the A days are the best signal of overall progress.',
+    faqs: [
+      ['Is PPL good for beginners?', 'It can work, but six days is a big commitment for a beginner. A three-day full-body or four-day upper/lower plan usually builds the habit and technique faster, then PPL becomes a good next step.'],
+      ['Can I run PPL three days a week?', 'Yes, but each muscle is then trained once a week. Most lifters grow better on the six-day version or a rolling rotation that gets each day in roughly every five days.'],
+      ['How long should a PPL session take?', 'Around 60 minutes with the listed rest times. Five exercises per session keeps the workload high without letting sessions drag on.'],
+    ],
+  },
+  upperLower: {
+    slug: 'upper-lower-split',
+    title: 'Upper Lower Split Workout Plan (4 Days a Week)',
+    metaDescription: 'A free 4-day upper/lower split for strength and size. Every exercise with sets, reps, RIR, and rest, ready to open in the Surpass gym log.',
+    h1: 'Upper/Lower Split (4 Days)',
+    intro: 'Two upper-body days and two lower-body days a week. It is one of the most reliable splits for both strength and size because every muscle is trained twice a week with full recovery between sessions.',
+    whoFor: [
+      'Beginners who have learned the main lifts and want more volume than a full-body plan.',
+      'Intermediate lifters with four training days available.',
+      'Anyone balancing lifting with sport, cardio, or a busy schedule who needs predictable rest days.',
+    ],
+    schedule: 'Upper, Lower, rest, Upper, Lower, rest, rest. Monday, Tuesday, Thursday, Friday works for most people.',
+    progression: 'Start each lift at a weight you can hit for the bottom of its rep range with the listed reps in reserve. Add reps first, then load once every set reaches the top of the range.',
+    faqs: [
+      ['Is an upper/lower split good for building muscle?', 'Yes. Training each muscle twice a week with enough hard sets is the main driver of growth, and upper/lower delivers that in only four sessions.'],
+      ['Upper/lower or push/pull/legs?', 'Upper/lower fits four days and leaves more recovery time. PPL needs six days for the same twice-weekly frequency but allows more exercises per muscle per session.'],
+      ['Can I add arm work?', 'Yes. Two extra sets of curls and triceps extensions at the end of each upper day is a common, low-cost addition.'],
+    ],
+  },
+  fullBody: {
+    slug: 'full-body-workout-3-days',
+    title: '3-Day Full Body Workout Plan for Beginners',
+    metaDescription: 'A free 3-day full-body workout plan. Train every muscle three times a week with clear sets, reps, RIR, and rest times. Open it straight in Surpass.',
+    h1: '3-Day Full Body Workout',
+    intro: 'Three sessions a week, each one covering the whole body. Chest, back, shoulders, and legs are trained every session, which makes it a time-efficient starting point for beginners and a strong option for anyone short on time.',
+    frequency: 'Chest, back, shoulders, legs 3x/week',
+    whoFor: [
+      'Beginners in their first year of lifting.',
+      'People who can only train three days a week.',
+      'Returning lifters rebuilding a base after time off.',
+    ],
+    schedule: 'Three non-consecutive days, such as Monday, Wednesday, Friday. Run the three workouts in order.',
+    progression: 'Beginners can often add load every session on the main lifts. Once a set falls short of the bottom of its rep range, hold the weight and build reps back up before adding more.',
+    faqs: [
+      ['Is full body three times a week enough?', 'For beginners, yes. Chest, back, shoulders, and legs are trained in every session, which is plenty of stimulus while recovery capacity and technique are still developing. Add a couple of arm or calf sets if those lag.'],
+      ['How long until I should switch programs?', 'Stay on it while your main lifts keep improving. Many people run full body for six to twelve months before moving to an upper/lower or PPL split.'],
+      ['Can I do full body on consecutive days?', 'It is better to leave a day between sessions so the same muscles recover. If you must train two days in a row, keep the second day lighter.'],
+    ],
+  },
+  arnoldSplit: {
+    slug: 'arnold-split',
+    title: 'Arnold Split Workout Plan (6 Days: Chest/Back, Shoulders/Arms, Legs)',
+    metaDescription: 'A free 6-day Arnold split: chest and back, shoulders and arms, legs, twice a week. Sets, reps, RIR, and rest for every exercise.',
+    h1: 'Arnold Split (6 Days)',
+    intro: 'Chest and back together, shoulders and arms together, then legs, run twice a week. The split was popularized by golden-era bodybuilding and pairs opposing muscles so one recovers while the other works.',
+    whoFor: [
+      'Advanced lifters with good recovery and six training days available.',
+      'Bodybuilding-focused lifters who want high volume for chest, back, and arms.',
+      'People who enjoy long, high-energy sessions with antagonist pairings.',
+    ],
+    schedule: 'Chest/Back, Shoulders/Arms, Legs, repeat, then rest. Expect sessions of 75 minutes or more.',
+    progression: 'Volume is high, so leave the listed reps in reserve rather than training to failure on every set. Progress reps within the range first and only add load once all sets hit the top.',
+    faqs: [
+      ['Is the Arnold split good for natural lifters?', 'It can be, but the volume is demanding. If recovery or sleep is limited, run it as a rolling rotation with an extra rest day, or choose PPL instead.'],
+      ['Arnold split vs PPL?', 'Both train each muscle twice a week. The Arnold split pairs chest with back and gives arms and shoulders their own day; PPL groups by movement and usually has shorter sessions.'],
+      ['Can beginners do the Arnold split?', 'It is not a good first program. The volume and six-day frequency suit lifters who already recover well from hard training.'],
+    ],
+  },
+  broSplit: {
+    slug: 'bro-split',
+    title: '5-Day Bro Split Workout Plan',
+    metaDescription: 'A free 5-day bro split: chest, back, shoulders, legs, and arms days with sets, reps, RIR, and rest. Copy it into Surpass in one tap.',
+    h1: '5-Day Bro Split',
+    intro: 'One major muscle group per day across five sessions. It trades frequency for focus: each muscle is trained once a week, but with lots of sets and variety in that one session.',
+    whoFor: [
+      'Lifters who like focused, single-muscle sessions and a predictable weekly rhythm.',
+      'People who train five weekdays and rest at the weekend.',
+      'Experienced lifters who want a change from higher-frequency splits.',
+    ],
+    schedule: 'Chest, Back, Shoulders, Legs, Arms on five days, then two rest days.',
+    progression: 'Because each muscle is trained once a week, make every session count: log every set and beat last week by a rep or a small load jump wherever you can.',
+    faqs: [
+      ['Is a bro split bad for muscle growth?', 'Not bad, but usually less efficient. Most evidence favors training a muscle at least twice a week for the same total volume. A bro split still works if weekly volume and effort are high.'],
+      ['Should I switch from a bro split to PPL?', 'If progress has stalled, moving to a twice-a-week split like PPL or upper/lower is a sensible next experiment.'],
+      ['How many sets per session on a bro split?', 'This plan uses 17 to 22 working sets per session. Because each muscle is trained only once a week, that single session has to carry most of its weekly volume.'],
+    ],
+  },
+  pplUpperLower: {
+    slug: 'ppl-upper-lower-hybrid',
+    title: 'PPL Upper Lower Hybrid Split (5 Days a Week)',
+    metaDescription: 'A free 5-day hybrid split combining push/pull/legs with upper/lower. Sets, reps, RIR, and rest for each day, ready to open in Surpass.',
+    h1: 'PPL + Upper/Lower Hybrid (5 Days)',
+    intro: 'Push, pull, and legs early in the week, then an upper and a lower day to finish. Most muscles get trained about one and a half times a week in five sessions, a middle ground between PPL and upper/lower.',
+    whoFor: [
+      'Intermediate lifters with five training days.',
+      'People who like PPL but cannot commit to six sessions.',
+      'Lifters who want slightly more upper-body emphasis than a straight upper/lower split.',
+    ],
+    schedule: 'Push, Pull, Legs, rest, Upper, Lower, rest.',
+    progression: 'Progress each lift through its rep range before adding load. Most lifts appear once a week here, so compare each one with its own last session and aim to beat it by a rep or a small load jump.',
+    faqs: [
+      ['Is a PPL upper/lower hybrid good?', 'Yes. It gives most muscles more than one session a week while fitting into five days, which suits a lot of schedules better than six-day PPL.'],
+      ['Which days should I rest?', 'Rest after the legs day and at the end of the week so the lower day is never back to back with the legs day.'],
+      ['Can I swap exercises?', 'Yes. Keep the movement pattern the same, for example swap one row for another, so the plan stays balanced.'],
+    ],
+  },
+}
