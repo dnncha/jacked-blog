@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+2:T1ba8,
+      .lib-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+        padding-bottom: 12px;
+      }
+      .lib-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .lib-crumbs {
+        padding-top: 26px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        color: #8f897c;
+        font-size: 0.84rem;
+      }
+      .lib-crumbs a { color: #b7b0a3; text-decoration: none; }
+      .lib-crumbs a:hover { color: #f4cb65; }
+      .lib-hero {
+        padding: 26px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+        gap: 32px;
+        align-items: end;
+      }
+      .lib-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.1rem, 5.2vw, 4rem);
+        line-height: 1;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .lib-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.04rem;
+        line-height: 1.65;
+        max-width: 720px;
+      }
+      .lib-eyebrow {
+        margin: 0 0 12px;
+        color: #d9c26c;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+      .lib-facts {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px 18px;
+        display: grid;
+        gap: 10px;
+        margin: 0;
+      }
+      .lib-facts div { display: flex; justify-content: space-between; gap: 14px; }
+      .lib-facts dt { color: #8f897c; font-size: 0.86rem; }
+      .lib-facts dd { margin: 0; color: #f7f2e8; font-weight: 700; font-size: 0.9rem; text-align: right; }
+      .lib-section {
+        padding: 34px 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .lib-section h2 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(1.36rem, 3vw, 2rem);
+        line-height: 1.15;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .lib-section h3 {
+        margin: 0 0 8px;
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .lib-section p, .lib-section li {
+        color: #c9c2b5;
+        line-height: 1.65;
+        font-size: 0.99rem;
+      }
+      .lib-section p { margin: 0 0 12px; max-width: 760px; }
+      .lib-two {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 28px;
+      }
+      .lib-steps { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+      .lib-mistakes { display: grid; gap: 12px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .lib-card {
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        background: #0e0e0d;
+        border-radius: 8px;
+        padding: 16px;
+      }
+      .lib-card p { margin: 0; font-size: 0.94rem; }
+      .lib-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+        gap: 12px;
+      }
+      .lib-link-card {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 14px 16px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        color: inherit;
+        text-decoration: none;
+        transition: border-color 160ms ease;
+      }
+      .lib-link-card:hover, .lib-link-card:focus-visible { border-color: rgba(244, 203, 101, 0.55); outline: none; }
+      .lib-link-card strong { color: #f7f2e8; font-size: 0.98rem; font-weight: 720; }
+      .lib-link-card span { color: #a7a094; font-size: 0.86rem; line-height: 1.45; }
+      .lib-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+      .lib-chips a, .lib-chips span {
+        display: inline-block;
+        padding: 6px 11px;
+        border-radius: 999px;
+        border: 1px solid rgba(242, 238, 228, 0.14);
+        color: #e6dfd0;
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 650;
+      }
+      .lib-chips a:hover { border-color: #f4cb65; color: #f4cb65; }
+      .lib-table-wrap { overflow-x: auto; border: 1px solid rgba(242, 238, 228, 0.1); border-radius: 8px; }
+      .lib-table { width: 100%; border-collapse: collapse; min-width: 560px; table-layout: fixed; }
+      .lib-table th:first-child, .lib-table td:first-child { width: 46%; }
+      .lib-table th, .lib-table td {
+        text-align: left;
+        padding: 11px 14px;
+        border-bottom: 1px solid rgba(242, 238, 228, 0.08);
+        font-size: 0.93rem;
+        color: #d9d2c4;
+        vertical-align: top;
+      }
+      .lib-table th { color: #8f897c; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; background: #0b0b0a; }
+      .lib-table tr:last-child td { border-bottom: 0; }
+      .lib-table td a { color: #f7f2e8; text-decoration: none; border-bottom: 1px solid rgba(244, 203, 101, 0.45); }
+      .lib-table td a:hover { color: #f4cb65; }
+      .lib-table .lib-note { display: block; color: #8f897c; font-size: 0.84rem; margin-top: 4px; }
+      .lib-day { margin-bottom: 26px; }
+      .lib-day-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 14px; margin-bottom: 10px; }
+      .lib-day-head h3 { margin: 0; font-size: 1.16rem; }
+      .lib-day-head span { color: #8f897c; font-size: 0.88rem; }
+      .lib-cta {
+        border: 1px solid rgba(244, 203, 101, 0.35);
+        background: linear-gradient(180deg, #14120c, #0d0d0c);
+        border-radius: 10px;
+        padding: 20px;
+        display: grid;
+        gap: 12px;
+      }
+      .lib-cta h2, .lib-cta strong { margin: 0; color: #f7f2e8; }
+      .lib-cta p { margin: 0; color: #c9c2b5; line-height: 1.6; }
+      .lib-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+      .lib-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 46px;
+        padding: 0 18px;
+        border-radius: 11px;
+        text-decoration: none;
+        font-weight: 820;
+        font-size: 0.92rem;
+      }
+      .lib-button-primary { background: #f4cb65; color: #111; }
+      .lib-button-primary:hover { background: #ffda78; }
+      .lib-button-secondary { border: 1px solid rgba(242, 238, 228, 0.2); color: #f7f2e8; }
+      .lib-button-secondary:hover { border-color: #f4cb65; }
+      .lib-small { color: #8f897c !important; font-size: 0.84rem !important; }
+      .lib-bars { display: grid; gap: 8px; max-width: 620px; }
+      .lib-bar { display: grid; grid-template-columns: 110px 1fr 36px; gap: 10px; align-items: center; font-size: 0.9rem; color: #d9d2c4; }
+      .lib-bar-track { height: 8px; background: rgba(242, 238, 228, 0.08); border-radius: 99px; overflow: hidden; }
+      .lib-bar-fill { height: 100%; background: #d9c26c; border-radius: 99px; }
+      .lib-faq article { margin-bottom: 18px; }
+      @media (max-width: 820px) {
+        .lib-hero, .lib-two { grid-template-columns: 1fr; }
+        .lib-mistakes { grid-template-columns: 1fr; }
+      }
+    f:X
+14:X
+14:C
+0:{"buildId":"ukATtWJ-u0sjhSTbSKJrP","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"lib-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+1a:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js","/_next/static/chunks/2gs-bf-76zrip.js"],""]
+25:I[2104,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js","/_next/static/chunks/2gs-bf-76zrip.js"],"default"]
+28:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+2b:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+2c:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
+2d:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+2e:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+19:T5b0,{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Programs","item":"https://jacked.coach/programs/"},{"@type":"ListItem","position":3,"name":"PPL + Upper/Lower Hybrid (5 Days)","item":"https://jacked.coach/programs/ppl-upper-lower-hybrid/"}]},{"@type":"ExercisePlan","name":"PPL + Upper/Lower Hybrid (5 Days)","description":"A free 5-day hybrid split combining push/pull/legs with upper/lower. Sets, reps, RIR, and rest for each day, ready to open in Surpass.","url":"https://jacked.coach/programs/ppl-upper-lower-hybrid/","exerciseType":"Strength training","activityFrequency":"5 days per week"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is a PPL upper/lower hybrid good?","acceptedAnswer":{"@type":"Answer","text":"Yes. It gives most muscles more than one session a week while fitting into five days, which suits a lot of schedules better than six-day PPL."}},{"@type":"Question","name":"Which days should I rest?","acceptedAnswer":{"@type":"Answer","text":"Rest after the legs day and at the end of the week so the lower day is never back to back with the legs day."}},{"@type":"Question","name":"Can I swap exercises?","acceptedAnswer":{"@type":"Answer","text":"Yes. Keep the movement pattern the same, for example swap one row for another, so the plan stays balanced."}}]}]}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}]
+4:["$","nav",null,{"className":"lib-wrap lib-crumbs","aria-label":"Breadcrumb","children":["$","$L1a",null,{"href":"/programs","children":"Programs"}]}]
+5:["$","section",null,{"className":"lib-wrap lib-hero","children":[["$","div",null,{"children":[["$","p",null,{"className":"lib-eyebrow","children":["Free program · ","Intermediate"]}],["$","h1",null,{"children":"PPL + Upper/Lower Hybrid (5 Days)"}],["$","p",null,{"children":"Push, pull, and legs early in the week, then an upper and a lower day to finish. Most muscles get trained about one and a half times a week in five sessions, a middle ground between PPL and upper/lower."}]]}],["$","dl",null,{"className":"lib-facts","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Days per week"}],["$","dd",null,{"children":5}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Frequency"}],["$","dd",null,{"children":"~1.5x per muscle/week"}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Session length"}],["$","dd",null,{"children":["~",60," min"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Weekly working sets"}],["$","dd",null,{"children":83}]]}],null,["$","div",null,{"children":[["$","dt",null,{"children":"Level"}],["$","dd",null,{"children":"Intermediate"}]]}]]}]]}]
+1b:Teaf,jacked://plan?p=eyJ2IjoxLCJpIjoiNUJGMThCRUYtNjJEMC00OUUzLThCQ0ItRkEwRDlFRjYzQjgzIiwidCI6IlBQTCArIFUvTCBIeWJyaWQiLCJkIjpbeyJuIjoiUHVzaCIsImMiOjUsInMiOjE2LCJyIjoiNuKAkzE1IHJlcHMiLCJxIjoiMeKAkzIgUklSIiwieCI6WyJCZW5jaCBQcmVzcyDCtyA0IMOXIDbigJMxMCIsIkR1bWJiZWxsIFNob3VsZGVyIFByZXNzIMK3IDMgw5cgOOKAkzEyIiwiSW5jbGluZSBEQiBQcmVzcyDCtyAzIMOXIDEw4oCTMTIiLCJMYXRlcmFsIFJhaXNlIMK3IDMgw5cgMTLigJMxNSIsIlRyaWNlcCBQdXNoZG93biDCtyAzIMOXIDEw4oCTMTUiXSwicCI6W3siaSI6ImJhcmJlbGxfYmVuY2hfcHJlc3MiLCJzIjo0LCJhIjo2LCJiIjoxMCwiciI6MiwidCI6MTgwfSx7ImkiOiJkdW1iYmVsbF9zaG91bGRlcl9wcmVzcyIsInMiOjMsImEiOjgsImIiOjEyLCJyIjoyLCJ0IjoxMjB9LHsiaSI6ImluY2xpbmVfZHVtYmJlbGxfcHJlc3MiLCJzIjozLCJhIjoxMCwiYiI6MTIsInIiOjIsInQiOjkwfSx7ImkiOiJsYXRlcmFsX3JhaXNlIiwicyI6MywiYSI6MTIsImIiOjE1LCJyIjoxLCJ0Ijo2MH0seyJpIjoidHJpY2VwX3B1c2hkb3duIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoxLCJ0Ijo2MH1dfSx7Im4iOiJQdWxsIiwiYyI6NSwicyI6MTYsInIiOiI24oCTMjAgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkJhcmJlbGwgUm93IMK3IDQgw5cgNuKAkzEwIiwiTGF0IFB1bGxkb3duIMK3IDMgw5cgOOKAkzEyIiwiQ2FibGUgUm93IMK3IDMgw5cgMTDigJMxMiIsIkZhY2UgUHVsbCDCtyAzIMOXIDE14oCTMjAiLCJCYXJiZWxsIEN1cmwgwrcgMyDDlyAxMOKAkzEyIl0sInAiOlt7ImkiOiJiYXJiZWxsX3JvdyIsInMiOjQsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxODB9LHsiaSI6ImxhdF9wdWxsZG93biIsInMiOjMsImEiOjgsImIiOjEyLCJyIjoyLCJ0Ijo5MH0seyJpIjoiY2FibGVfcm93IiwicyI6MywiYSI6MTAsImIiOjEyLCJyIjoyLCJ0Ijo5MH0seyJpIjoiZmFjZV9wdWxsIiwicyI6MywiYSI6MTUsImIiOjIwLCJyIjoxLCJ0Ijo2MH0seyJpIjoiYmFyYmVsbF9jdXJsIiwicyI6MywiYSI6MTAsImIiOjEyLCJyIjoxLCJ0Ijo2MH1dfSx7Im4iOiJMZWdzIiwiYyI6NSwicyI6MTcsInIiOiI24oCTMTUgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkJhcmJlbGwgU3F1YXQgwrcgNCDDlyA24oCTMTAiLCJSb21hbmlhbiBEZWFkbGlmdCDCtyAzIMOXIDjigJMxMiIsIkxlZyBQcmVzcyDCtyAzIMOXIDEw4oCTMTUiLCJMeWluZyBMZWcgQ3VybCDCtyAzIMOXIDEw4oCTMTUiLCJTdGFuZGluZyBDYWxmIFJhaXNlIMK3IDQgw5cgMTLigJMxNSJdLCJwIjpbeyJpIjoiYmFyYmVsbF9zcXVhdCIsInMiOjQsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxODB9LHsiaSI6InJvbWFuaWFuX2RlYWRsaWZ0IiwicyI6MywiYSI6OCwiYiI6MTIsInIiOjIsInQiOjEyMH0seyJpIjoibGVnX3ByZXNzIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoyLCJ0IjoxMjB9LHsiaSI6Imx5aW5nX2xlZ19jdXJsIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoxLCJ0Ijo2MH0seyJpIjoic3RhbmRpbmdfY2FsZl9yYWlzZSIsInMiOjQsImEiOjEyLCJiIjoxNSwiciI6MSwidCI6NjB9XX0seyJuIjoiVXBwZXIiLCJjIjo2LCJzIjoxNywiciI6IjbigJMxNSByZXBzIiwicSI6IjHigJMyIFJJUiIsIngiOlsiU21pdGggTWFjaGluZSBJbmNsaW5lIFByZXNzIMK3IDMgw5cgOOKAkzEyIiwiUHVsbC11cHMgwrcgMyDDlyA24oCTMTAiLCJPdmVyaGVhZCBQcmVzcyDCtyAzIMOXIDjigJMxMiIsIkNoZXN0IFN1cHBvcnRlZCBSb3cgwrcgMyDDlyAxMOKAkzEyIiwiQ2FibGUgTGF0ZXJhbCDCtyAzIMOXIDEy4oCTMTUiLCJJbmNsaW5lIEN1cmwgwrcgMiDDlyAxMOKAkzEyIl0sInAiOlt7ImkiOiJzbWl0aF9tYWNoaW5lX2luY2xpbmVfcHJlc3MiLCJzIjozLCJhIjo4LCJiIjoxMiwiciI6MiwidCI6MTIwfSx7ImkiOiJwdWxsX3VwcyIsInMiOjMsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxMjB9LHsiaSI6Im92ZXJoZWFkX3ByZXNzIiwicyI6MywiYSI6OCwiYiI6MTIsInIiOjIsInQiOjEyMH0seyJpIjoiY2hlc3Rfc3VwcG9ydGVkX3JvdyIsInMiOjMsImEiOjEwLCJiIjoxMiwiciI6MiwidCI6OTB9LHsiaSI6ImNhYmxlX2xhdGVyYWxfcmFpc2UiLCJzIjozLCJhIjoxMiwiYiI6MTUsInIiOjEsInQiOjYwfSx7ImkiOiJpbmNsaW5lX2R1bWJiZWxsX2N1cmwiLCJzIjoyLCJhIjoxMCwiYiI6MTIsInIiOjEsInQiOjYwfV19LHsibiI6Ikxvd2VyIiwiYyI6NSwicyI6MTcsInIiOiI14oCTMjAgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkNvbnZlbnRpb25hbCBEZWFkbGlmdCDCtyA0IMOXIDXigJM4IiwiQnVsZ2FyaWFuIFNwbGl0IFNxdWF0IMK3IDMgw5cgOOKAkzEyIiwiTGVnIEV4dGVuc2lvbiDCtyAzIMOXIDEy4oCTMTUiLCJMeWluZyBMZWcgQ3VybCDCtyAzIMOXIDEw4oCTMTUiLCJTZWF0ZWQgQ2FsZiBSYWlzZSDCtyA0IMOXIDE14oCTMjAiXSwicCI6W3siaSI6ImRlYWRsaWZ0IiwicyI6NCwiYSI6NSwiYiI6OCwiciI6MiwidCI6MjQwfSx7ImkiOiJidWxnYXJpYW5fc3BsaXRfc3F1YXQiLCJzIjozLCJhIjo4LCJiIjoxMiwiciI6MiwidCI6OTB9LHsiaSI6ImxlZ19leHRlbnNpb24iLCJzIjozLCJhIjoxMiwiYiI6MTUsInIiOjEsInQiOjYwfSx7ImkiOiJseWluZ19sZWdfY3VybCIsInMiOjMsImEiOjEwLCJiIjoxNSwiciI6MSwidCI6NjB9LHsiaSI6InNlYXRlZF9jYWxmX3JhaXNlIiwicyI6NCwiYSI6MTUsImIiOjIwLCJyIjoxLCJ0Ijo2MH1dfV19&c=f9c4a72cc8e78a636:["$","section",null,{"className":"lib-wrap","style":{"paddingBottom":30},"children":["$","div",null,{"className":"lib-cta","children":[["$","strong",null,{"children":"Run this program in Surpass"}],["$","p",null,{"children":["On your iPhone with Surpass installed, tap ",["$","em",null,{"children":"Add to Surpass"}]," to copy every day, exercise, rep range, RIR target, and rest time into an editable plan. Each set then shows what you lifted last time and a target to beat."]}],["$","div",null,{"className":"lib-actions","children":[["$","a",null,{"className":"lib-button lib-button-primary","href":"$1b","data-program-open":"ppl_ul_5","data-app-store-placement":"program_open_top","children":"Add to Surpass"}],"$L1c"]}]]}]}]
+7:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":"The workouts"}],["$","p",null,{"className":"lib-small","children":"RIR means reps in reserve: how many more clean reps you could have done. Start each lift at the bottom of its rep range."}],[["$","article","Push-0",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["Day ",1,": ","Push"]}],["$","span",null,{"children":"Chest, Shoulders, Triceps"}]]}],["$","div",null,{"className":"lib-table-wrap","children":["$","table",null,{"className":"lib-table","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Exercise"}],["$","th",null,{"children":"Sets"}],["$","th",null,{"children":"Reps"}],["$","th",null,{"children":"RIR"}],["$","th",null,{"children":"Rest"}]]}]}],["$","tbody",null,{"children":[["$","tr","barbell_bench_press-0",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/barbell-bench-press","children":"Bench Press"}],null]}],["$","td",null,{"children":4}],["$","td",null,{"children":[6,"–",10]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"3 min"}]]}],["$","tr","dumbbell_shoulder_press-1",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/dumbbell-shoulder-press","children":"Dumbbell Shoulder Press"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[8,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"2 min"}]]}],["$","tr","incline_dumbbell_press-2",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/incline-dumbbell-press","children":"Incline DB Press"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"1:30"}]]}],["$","tr","lateral_raise-3",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/lateral-raise","children":"Lateral Raise"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[12,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}],["$","tr","tricep_pushdown-4",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/tricep-pushdown","children":"Tricep Pushdown"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}]]}]]}]}]]}],["$","article","Pull-1",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["Day ",2,": ","Pull"]}],["$","span",null,{"children":"Back, Biceps, Rear Delts"}]]}],["$","div",null,{"className":"lib-table-wrap","children":["$","table",null,{"className":"lib-table","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Exercise"}],["$","th",null,{"children":"Sets"}],["$","th",null,{"children":"Reps"}],["$","th",null,{"children":"RIR"}],["$","th",null,{"children":"Rest"}]]}]}],["$","tbody",null,{"children":[["$","tr","barbell_row-0",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/barbell-row","children":"Barbell Row"}],null]}],["$","td",null,{"children":4}],["$","td",null,{"children":[6,"–",10]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"3 min"}]]}],["$","tr","lat_pulldown-1",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/lat-pulldown","children":"Lat Pulldown"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[8,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"1:30"}]]}],["$","tr","cable_row-2",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/seated-cable-row","children":"Cable Row"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"1:30"}]]}],["$","tr","face_pull-3",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/face-pull","children":"Face Pull"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[15,"–",20]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}],["$","tr","barbell_curl-4",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/barbell-curl","children":"Barbell Curl"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",12]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}]]}]]}]}]]}],["$","article","Legs-2",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["Day ",3,": ","Legs"]}],["$","span",null,{"children":"Quads, Hamstrings, Calves"}]]}],["$","div",null,{"className":"lib-table-wrap","children":["$","table",null,{"className":"lib-table","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Exercise"}],["$","th",null,{"children":"Sets"}],["$","th",null,{"children":"Reps"}],["$","th",null,{"children":"RIR"}],["$","th",null,{"children":"Rest"}]]}]}],["$","tbody",null,{"children":[["$","tr","barbell_squat-0",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/barbell-back-squat","children":"Barbell Squat"}],null]}],["$","td",null,{"children":4}],["$","td",null,{"children":[6,"–",10]}],"$L1d","$L1e"]}],"$L1f","$L20","$L21","$L22"]}]]}]}]]}],"$L23","$L24"]]}]
+8:["$","section",null,{"className":"lib-wrap lib-section","children":["$","div",null,{"className":"lib-two","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Who it is for"}],["$","ul",null,{"className":"lib-steps","children":[["$","li","Intermediate lifters with five training days.",{"children":"Intermediate lifters with five training days."}],["$","li","People who like PPL but cannot commit to six sessions.",{"children":"People who like PPL but cannot commit to six sessions."}],["$","li","Lifters who want slightly more upper-body emphasis than a straight upper/lower split.",{"children":"Lifters who want slightly more upper-body emphasis than a straight upper/lower split."}]]}],["$","h2",null,{"style":{"marginTop":28},"children":"Weekly schedule"}],["$","p",null,{"children":"Push, Pull, Legs, rest, Upper, Lower, rest."}],["$","h2",null,{"style":{"marginTop":28},"children":"How to progress"}],["$","p",null,{"children":"Progress each lift through its rep range before adding load. Most lifts appear once a week here, so compare each one with its own last session and aim to beat it by a rep or a small load jump."}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Direct sets per muscle each week"}],["$","div",null,{"className":"lib-bars","children":[["$","div","back",{"className":"lib-bar","children":[["$","span",null,{"children":"Back"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"100%"}}]}],["$","span",null,{"children":16}]]}],["$","div","quads",{"className":"lib-bar","children":[["$","span",null,{"children":"Quads"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"81.25%"}}]}],["$","span",null,{"children":13}]]}],["$","div","hamstrings",{"className":"lib-bar","children":[["$","span",null,{"children":"Hamstrings"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"81.25%"}}]}],["$","span",null,{"children":13}]]}],["$","div","chest",{"className":"lib-bar","children":[["$","span",null,{"children":"Chest"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"62.5%"}}]}],["$","span",null,{"children":10}]]}],["$","div","calves",{"className":"lib-bar","children":[["$","span",null,{"children":"Calves"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"50%"}}]}],["$","span",null,{"children":8}]]}],["$","div","deltsFront",{"className":"lib-bar","children":[["$","span",null,{"children":"Front Delts"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"37.5%"}}]}],["$","span",null,{"children":6}]]}],["$","div","deltsSide",{"className":"lib-bar","children":[["$","span",null,{"children":"Side Delts"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"37.5%"}}]}],["$","span",null,{"children":6}]]}],["$","div","biceps",{"className":"lib-bar","children":[["$","span",null,{"children":"Biceps"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"31.25%"}}]}],["$","span",null,{"children":5}]]}],["$","div","triceps",{"className":"lib-bar","children":[["$","span",null,{"children":"Triceps"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"18.75%"}}]}],["$","span",null,{"children":3}]]}],["$","div","deltsRear",{"className":"lib-bar","children":[["$","span",null,{"children":"Rear Delts"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"18.75%"}}]}],["$","span",null,{"children":3}]]}]]}],["$","p",null,{"className":"lib-small","style":{"marginTop":12},"children":"Counts sets where the muscle is a primary mover. Compound lifts also train secondary muscles."}]]}]]}]}]
+9:["$","section",null,{"className":"lib-wrap lib-section lib-faq","children":[["$","h2",null,{"children":"Questions"}],[["$","article","Is a PPL upper/lower hybrid good?",{"children":[["$","h3",null,{"children":"Is a PPL upper/lower hybrid good?"}],["$","p",null,{"children":"Yes. It gives most muscles more than one session a week while fitting into five days, which suits a lot of schedules better than six-day PPL."}]]}],["$","article","Which days should I rest?",{"children":[["$","h3",null,{"children":"Which days should I rest?"}],["$","p",null,{"children":"Rest after the legs day and at the end of the week so the lower day is never back to back with the legs day."}]]}],["$","article","Can I swap exercises?",{"children":[["$","h3",null,{"children":"Can I swap exercises?"}],["$","p",null,{"children":"Yes. Keep the movement pattern the same, for example swap one row for another, so the plan stays balanced."}]]}]]]}]
+26:Tebc,https://jacked.coach/plan/?p=eyJ2IjoxLCJpIjoiNUJGMThCRUYtNjJEMC00OUUzLThCQ0ItRkEwRDlFRjYzQjgzIiwidCI6IlBQTCArIFUvTCBIeWJyaWQiLCJkIjpbeyJuIjoiUHVzaCIsImMiOjUsInMiOjE2LCJyIjoiNuKAkzE1IHJlcHMiLCJxIjoiMeKAkzIgUklSIiwieCI6WyJCZW5jaCBQcmVzcyDCtyA0IMOXIDbigJMxMCIsIkR1bWJiZWxsIFNob3VsZGVyIFByZXNzIMK3IDMgw5cgOOKAkzEyIiwiSW5jbGluZSBEQiBQcmVzcyDCtyAzIMOXIDEw4oCTMTIiLCJMYXRlcmFsIFJhaXNlIMK3IDMgw5cgMTLigJMxNSIsIlRyaWNlcCBQdXNoZG93biDCtyAzIMOXIDEw4oCTMTUiXSwicCI6W3siaSI6ImJhcmJlbGxfYmVuY2hfcHJlc3MiLCJzIjo0LCJhIjo2LCJiIjoxMCwiciI6MiwidCI6MTgwfSx7ImkiOiJkdW1iYmVsbF9zaG91bGRlcl9wcmVzcyIsInMiOjMsImEiOjgsImIiOjEyLCJyIjoyLCJ0IjoxMjB9LHsiaSI6ImluY2xpbmVfZHVtYmJlbGxfcHJlc3MiLCJzIjozLCJhIjoxMCwiYiI6MTIsInIiOjIsInQiOjkwfSx7ImkiOiJsYXRlcmFsX3JhaXNlIiwicyI6MywiYSI6MTIsImIiOjE1LCJyIjoxLCJ0Ijo2MH0seyJpIjoidHJpY2VwX3B1c2hkb3duIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoxLCJ0Ijo2MH1dfSx7Im4iOiJQdWxsIiwiYyI6NSwicyI6MTYsInIiOiI24oCTMjAgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkJhcmJlbGwgUm93IMK3IDQgw5cgNuKAkzEwIiwiTGF0IFB1bGxkb3duIMK3IDMgw5cgOOKAkzEyIiwiQ2FibGUgUm93IMK3IDMgw5cgMTDigJMxMiIsIkZhY2UgUHVsbCDCtyAzIMOXIDE14oCTMjAiLCJCYXJiZWxsIEN1cmwgwrcgMyDDlyAxMOKAkzEyIl0sInAiOlt7ImkiOiJiYXJiZWxsX3JvdyIsInMiOjQsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxODB9LHsiaSI6ImxhdF9wdWxsZG93biIsInMiOjMsImEiOjgsImIiOjEyLCJyIjoyLCJ0Ijo5MH0seyJpIjoiY2FibGVfcm93IiwicyI6MywiYSI6MTAsImIiOjEyLCJyIjoyLCJ0Ijo5MH0seyJpIjoiZmFjZV9wdWxsIiwicyI6MywiYSI6MTUsImIiOjIwLCJyIjoxLCJ0Ijo2MH0seyJpIjoiYmFyYmVsbF9jdXJsIiwicyI6MywiYSI6MTAsImIiOjEyLCJyIjoxLCJ0Ijo2MH1dfSx7Im4iOiJMZWdzIiwiYyI6NSwicyI6MTcsInIiOiI24oCTMTUgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkJhcmJlbGwgU3F1YXQgwrcgNCDDlyA24oCTMTAiLCJSb21hbmlhbiBEZWFkbGlmdCDCtyAzIMOXIDjigJMxMiIsIkxlZyBQcmVzcyDCtyAzIMOXIDEw4oCTMTUiLCJMeWluZyBMZWcgQ3VybCDCtyAzIMOXIDEw4oCTMTUiLCJTdGFuZGluZyBDYWxmIFJhaXNlIMK3IDQgw5cgMTLigJMxNSJdLCJwIjpbeyJpIjoiYmFyYmVsbF9zcXVhdCIsInMiOjQsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxODB9LHsiaSI6InJvbWFuaWFuX2RlYWRsaWZ0IiwicyI6MywiYSI6OCwiYiI6MTIsInIiOjIsInQiOjEyMH0seyJpIjoibGVnX3ByZXNzIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoyLCJ0IjoxMjB9LHsiaSI6Imx5aW5nX2xlZ19jdXJsIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoxLCJ0Ijo2MH0seyJpIjoic3RhbmRpbmdfY2FsZl9yYWlzZSIsInMiOjQsImEiOjEyLCJiIjoxNSwiciI6MSwidCI6NjB9XX0seyJuIjoiVXBwZXIiLCJjIjo2LCJzIjoxNywiciI6IjbigJMxNSByZXBzIiwicSI6IjHigJMyIFJJUiIsIngiOlsiU21pdGggTWFjaGluZSBJbmNsaW5lIFByZXNzIMK3IDMgw5cgOOKAkzEyIiwiUHVsbC11cHMgwrcgMyDDlyA24oCTMTAiLCJPdmVyaGVhZCBQcmVzcyDCtyAzIMOXIDjigJMxMiIsIkNoZXN0IFN1cHBvcnRlZCBSb3cgwrcgMyDDlyAxMOKAkzEyIiwiQ2FibGUgTGF0ZXJhbCDCtyAzIMOXIDEy4oCTMTUiLCJJbmNsaW5lIEN1cmwgwrcgMiDDlyAxMOKAkzEyIl0sInAiOlt7ImkiOiJzbWl0aF9tYWNoaW5lX2luY2xpbmVfcHJlc3MiLCJzIjozLCJhIjo4LCJiIjoxMiwiciI6MiwidCI6MTIwfSx7ImkiOiJwdWxsX3VwcyIsInMiOjMsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxMjB9LHsiaSI6Im92ZXJoZWFkX3ByZXNzIiwicyI6MywiYSI6OCwiYiI6MTIsInIiOjIsInQiOjEyMH0seyJpIjoiY2hlc3Rfc3VwcG9ydGVkX3JvdyIsInMiOjMsImEiOjEwLCJiIjoxMiwiciI6MiwidCI6OTB9LHsiaSI6ImNhYmxlX2xhdGVyYWxfcmFpc2UiLCJzIjozLCJhIjoxMiwiYiI6MTUsInIiOjEsInQiOjYwfSx7ImkiOiJpbmNsaW5lX2R1bWJiZWxsX2N1cmwiLCJzIjoyLCJhIjoxMCwiYiI6MTIsInIiOjEsInQiOjYwfV19LHsibiI6Ikxvd2VyIiwiYyI6NSwicyI6MTcsInIiOiI14oCTMjAgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkNvbnZlbnRpb25hbCBEZWFkbGlmdCDCtyA0IMOXIDXigJM4IiwiQnVsZ2FyaWFuIFNwbGl0IFNxdWF0IMK3IDMgw5cgOOKAkzEyIiwiTGVnIEV4dGVuc2lvbiDCtyAzIMOXIDEy4oCTMTUiLCJMeWluZyBMZWcgQ3VybCDCtyAzIMOXIDEw4oCTMTUiLCJTZWF0ZWQgQ2FsZiBSYWlzZSDCtyA0IMOXIDE14oCTMjAiXSwicCI6W3siaSI6ImRlYWRsaWZ0IiwicyI6NCwiYSI6NSwiYiI6OCwiciI6MiwidCI6MjQwfSx7ImkiOiJidWxnYXJpYW5fc3BsaXRfc3F1YXQiLCJzIjozLCJhIjo4LCJiIjoxMiwiciI6MiwidCI6OTB9LHsiaSI6ImxlZ19leHRlbnNpb24iLCJzIjozLCJhIjoxMiwiYiI6MTUsInIiOjEsInQiOjYwfSx7ImkiOiJseWluZ19sZWdfY3VybCIsInMiOjMsImEiOjEwLCJiIjoxNSwiciI6MSwidCI6NjB9LHsiaSI6InNlYXRlZF9jYWxmX3JhaXNlIiwicyI6NCwiYSI6MTUsImIiOjIwLCJyIjoxLCJ0Ijo2MH1dfV19&c=f9c4a72cc8e78a63a:["$","section",null,{"className":"lib-wrap lib-section","children":["$","div",null,{"className":"lib-cta","children":[["$","h2",null,{"children":"Share it with a training partner"}],["$","p",null,{"children":"The link opens this exact plan. Anyone with Surpass can copy it into their own plan, and anyone without it can still read it."}],["$","div",null,{"className":"lib-actions","children":[["$","$L25",null,{"url":"$26","programId":"ppl_ul_5"}],"$L27"]}]]}]}]
+b:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":"Other free programs"}],["$","div",null,{"className":"lib-grid","children":[["$","$L1a","12-week-physique-plan",{"className":"lib-link-card","href":"/programs/12-week-physique-plan","children":[["$","strong",null,{"children":"12-Week Physique Plan"}],["$","span",null,{"children":[4," days a week · ","Intermediate"]}]]}],["$","$L1a","push-pull-legs",{"className":"lib-link-card","href":"/programs/push-pull-legs","children":[["$","strong",null,{"children":"Push Pull Legs (6-Day PPL)"}],["$","span",null,{"children":[6," days a week · ","Intermediate"]}]]}],["$","$L1a","upper-lower-split",{"className":"lib-link-card","href":"/programs/upper-lower-split","children":[["$","strong",null,{"children":"Upper/Lower Split (4 Days)"}],["$","span",null,{"children":[4," days a week · ","Beginner"]}]]}],["$","$L1a","full-body-workout-3-days",{"className":"lib-link-card","href":"/programs/full-body-workout-3-days","children":[["$","strong",null,{"children":"3-Day Full Body Workout"}],["$","span",null,{"children":[3," days a week · ","Beginner"]}]]}],["$","$L1a","arnold-split",{"className":"lib-link-card","href":"/programs/arnold-split","children":[["$","strong",null,{"children":"Arnold Split (6 Days)"}],["$","span",null,{"children":[6," days a week · ","Advanced"]}]]}],["$","$L1a","bro-split",{"className":"lib-link-card","href":"/programs/bro-split","children":[["$","strong",null,{"children":"5-Day Bro Split"}],["$","span",null,{"children":[5," days a week · ","Intermediate"]}]]}]]}]]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/2gs-bf-76zrip.js","async":true}]
+d:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+10:["$","$1","h",{"children":[null,["$","$L2b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2c",null,{"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"PPL Upper Lower Hybrid Split (5 Days a Week) | Surpass"}],["$","meta","1",{"name":"description","content":"A free 5-day hybrid split combining push/pull/legs with upper/lower. Sets, reps, RIR, and rest for each day, ready to open in Surpass."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"progressive overload app,gym workout tracker,next set targets,workout log,Hevy alternative,Strong alternative,1RM calculator,plate calculator"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/programs/ppl-upper-lower-hybrid/"}],["$","meta","8",{"property":"og:title","content":"PPL Upper Lower Hybrid Split (5 Days a Week)"}],["$","meta","9",{"property":"og:description","content":"A free 5-day hybrid split combining push/pull/legs with upper/lower. Sets, reps, RIR, and rest for each day, ready to open in Surpass."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/programs/ppl-upper-lower-hybrid/"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Surpass — Gym Log with Next-Set Targets"}],["$","meta","14",{"name":"twitter:description","content":"Beat last week. Every set shows a target beside what you lifted last time. Free on iPhone, no account required."}],["$","meta","15",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]}]}]}],null]}]
+12:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+18:true
+1c:["$","a",null,{"className":"lib-button lib-button-secondary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=program_ppl_ul_5&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"program_ppl_ul_5_top","data-app-store-placement":"program_top","children":"Get Surpass free"}]
+1d:["$","td",null,{"children":"2"}]
+1e:["$","td",null,{"children":"3 min"}]
+1f:["$","tr","romanian_deadlift-1",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/romanian-deadlift","children":"Romanian Deadlift"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[8,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"2 min"}]]}]
+20:["$","tr","leg_press-2",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/leg-press","children":"Leg Press"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",15]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"2 min"}]]}]
+21:["$","tr","lying_leg_curl-3",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/lying-leg-curl","children":"Lying Leg Curl"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}]
+22:["$","tr","standing_calf_raise-4",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/standing-calf-raise","children":"Standing Calf Raise"}],null]}],["$","td",null,{"children":4}],["$","td",null,{"children":[12,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}]
+23:["$","article","Upper-3",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["Day ",4,": ","Upper"]}],["$","span",null,{"children":"Full Upper Body"}]]}],["$","div",null,{"className":"lib-table-wrap","children":["$","table",null,{"className":"lib-table","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Exercise"}],["$","th",null,{"children":"Sets"}],["$","th",null,{"children":"Reps"}],["$","th",null,{"children":"RIR"}],["$","th",null,{"children":"Rest"}]]}]}],["$","tbody",null,{"children":[["$","tr","smith_machine_incline_press-0",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/smith-machine-incline-press","children":"Smith Machine Incline Press"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[8,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"2 min"}]]}],["$","tr","pull_ups-1",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/pull-up","children":"Pull-ups"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[6,"–",10]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"2 min"}]]}],["$","tr","overhead_press-2",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/overhead-press","children":"Overhead Press"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[8,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"2 min"}]]}],["$","tr","chest_supported_row-3",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/chest-supported-row","children":"Chest Supported Row"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"1:30"}]]}],["$","tr","cable_lateral_raise-4",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/cable-lateral-raise","children":"Cable Lateral"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[12,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}],["$","tr","incline_dumbbell_curl-5",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/incline-dumbbell-curl","children":"Incline Curl"}],null]}],["$","td",null,{"children":2}],["$","td",null,{"children":[10,"–",12]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}]]}]]}]}]]}]
+24:["$","article","Lower-4",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["Day ",5,": ","Lower"]}],["$","span",null,{"children":"Full Lower Body"}]]}],["$","div",null,{"className":"lib-table-wrap","children":["$","table",null,{"className":"lib-table","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Exercise"}],["$","th",null,{"children":"Sets"}],["$","th",null,{"children":"Reps"}],["$","th",null,{"children":"RIR"}],["$","th",null,{"children":"Rest"}]]}]}],["$","tbody",null,{"children":[["$","tr","deadlift-0",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/conventional-deadlift","children":"Conventional Deadlift"}],null]}],["$","td",null,{"children":4}],["$","td",null,{"children":[5,"–",8]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"4 min"}]]}],["$","tr","bulgarian_split_squat-1",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/bulgarian-split-squat","children":"Bulgarian Split Squat"}],["$","span",null,{"className":"lib-note","children":"per leg"}]]}],["$","td",null,{"children":3}],["$","td",null,{"children":[8,"–",12]}],["$","td",null,{"children":"2"}],["$","td",null,{"children":"1:30"}]]}],["$","tr","leg_extension-2",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/leg-extension","children":"Leg Extension"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[12,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}],["$","tr","lying_leg_curl-3",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/lying-leg-curl","children":"Lying Leg Curl"}],null]}],["$","td",null,{"children":3}],["$","td",null,{"children":[10,"–",15]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}],["$","tr","seated_calf_raise-4",{"children":[["$","td",null,{"children":[["$","$L1a",null,{"href":"/exercises/seated-calf-raise","children":"Seated Calf Raise"}],null]}],["$","td",null,{"children":4}],["$","td",null,{"children":[15,"–",20]}],["$","td",null,{"children":"1"}],["$","td",null,{"children":"1 min"}]]}]]}]]}]}]]}]
+2f:Teaf,jacked://plan?p=eyJ2IjoxLCJpIjoiNUJGMThCRUYtNjJEMC00OUUzLThCQ0ItRkEwRDlFRjYzQjgzIiwidCI6IlBQTCArIFUvTCBIeWJyaWQiLCJkIjpbeyJuIjoiUHVzaCIsImMiOjUsInMiOjE2LCJyIjoiNuKAkzE1IHJlcHMiLCJxIjoiMeKAkzIgUklSIiwieCI6WyJCZW5jaCBQcmVzcyDCtyA0IMOXIDbigJMxMCIsIkR1bWJiZWxsIFNob3VsZGVyIFByZXNzIMK3IDMgw5cgOOKAkzEyIiwiSW5jbGluZSBEQiBQcmVzcyDCtyAzIMOXIDEw4oCTMTIiLCJMYXRlcmFsIFJhaXNlIMK3IDMgw5cgMTLigJMxNSIsIlRyaWNlcCBQdXNoZG93biDCtyAzIMOXIDEw4oCTMTUiXSwicCI6W3siaSI6ImJhcmJlbGxfYmVuY2hfcHJlc3MiLCJzIjo0LCJhIjo2LCJiIjoxMCwiciI6MiwidCI6MTgwfSx7ImkiOiJkdW1iYmVsbF9zaG91bGRlcl9wcmVzcyIsInMiOjMsImEiOjgsImIiOjEyLCJyIjoyLCJ0IjoxMjB9LHsiaSI6ImluY2xpbmVfZHVtYmJlbGxfcHJlc3MiLCJzIjozLCJhIjoxMCwiYiI6MTIsInIiOjIsInQiOjkwfSx7ImkiOiJsYXRlcmFsX3JhaXNlIiwicyI6MywiYSI6MTIsImIiOjE1LCJyIjoxLCJ0Ijo2MH0seyJpIjoidHJpY2VwX3B1c2hkb3duIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoxLCJ0Ijo2MH1dfSx7Im4iOiJQdWxsIiwiYyI6NSwicyI6MTYsInIiOiI24oCTMjAgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkJhcmJlbGwgUm93IMK3IDQgw5cgNuKAkzEwIiwiTGF0IFB1bGxkb3duIMK3IDMgw5cgOOKAkzEyIiwiQ2FibGUgUm93IMK3IDMgw5cgMTDigJMxMiIsIkZhY2UgUHVsbCDCtyAzIMOXIDE14oCTMjAiLCJCYXJiZWxsIEN1cmwgwrcgMyDDlyAxMOKAkzEyIl0sInAiOlt7ImkiOiJiYXJiZWxsX3JvdyIsInMiOjQsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxODB9LHsiaSI6ImxhdF9wdWxsZG93biIsInMiOjMsImEiOjgsImIiOjEyLCJyIjoyLCJ0Ijo5MH0seyJpIjoiY2FibGVfcm93IiwicyI6MywiYSI6MTAsImIiOjEyLCJyIjoyLCJ0Ijo5MH0seyJpIjoiZmFjZV9wdWxsIiwicyI6MywiYSI6MTUsImIiOjIwLCJyIjoxLCJ0Ijo2MH0seyJpIjoiYmFyYmVsbF9jdXJsIiwicyI6MywiYSI6MTAsImIiOjEyLCJyIjoxLCJ0Ijo2MH1dfSx7Im4iOiJMZWdzIiwiYyI6NSwicyI6MTcsInIiOiI24oCTMTUgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkJhcmJlbGwgU3F1YXQgwrcgNCDDlyA24oCTMTAiLCJSb21hbmlhbiBEZWFkbGlmdCDCtyAzIMOXIDjigJMxMiIsIkxlZyBQcmVzcyDCtyAzIMOXIDEw4oCTMTUiLCJMeWluZyBMZWcgQ3VybCDCtyAzIMOXIDEw4oCTMTUiLCJTdGFuZGluZyBDYWxmIFJhaXNlIMK3IDQgw5cgMTLigJMxNSJdLCJwIjpbeyJpIjoiYmFyYmVsbF9zcXVhdCIsInMiOjQsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxODB9LHsiaSI6InJvbWFuaWFuX2RlYWRsaWZ0IiwicyI6MywiYSI6OCwiYiI6MTIsInIiOjIsInQiOjEyMH0seyJpIjoibGVnX3ByZXNzIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoyLCJ0IjoxMjB9LHsiaSI6Imx5aW5nX2xlZ19jdXJsIiwicyI6MywiYSI6MTAsImIiOjE1LCJyIjoxLCJ0Ijo2MH0seyJpIjoic3RhbmRpbmdfY2FsZl9yYWlzZSIsInMiOjQsImEiOjEyLCJiIjoxNSwiciI6MSwidCI6NjB9XX0seyJuIjoiVXBwZXIiLCJjIjo2LCJzIjoxNywiciI6IjbigJMxNSByZXBzIiwicSI6IjHigJMyIFJJUiIsIngiOlsiU21pdGggTWFjaGluZSBJbmNsaW5lIFByZXNzIMK3IDMgw5cgOOKAkzEyIiwiUHVsbC11cHMgwrcgMyDDlyA24oCTMTAiLCJPdmVyaGVhZCBQcmVzcyDCtyAzIMOXIDjigJMxMiIsIkNoZXN0IFN1cHBvcnRlZCBSb3cgwrcgMyDDlyAxMOKAkzEyIiwiQ2FibGUgTGF0ZXJhbCDCtyAzIMOXIDEy4oCTMTUiLCJJbmNsaW5lIEN1cmwgwrcgMiDDlyAxMOKAkzEyIl0sInAiOlt7ImkiOiJzbWl0aF9tYWNoaW5lX2luY2xpbmVfcHJlc3MiLCJzIjozLCJhIjo4LCJiIjoxMiwiciI6MiwidCI6MTIwfSx7ImkiOiJwdWxsX3VwcyIsInMiOjMsImEiOjYsImIiOjEwLCJyIjoyLCJ0IjoxMjB9LHsiaSI6Im92ZXJoZWFkX3ByZXNzIiwicyI6MywiYSI6OCwiYiI6MTIsInIiOjIsInQiOjEyMH0seyJpIjoiY2hlc3Rfc3VwcG9ydGVkX3JvdyIsInMiOjMsImEiOjEwLCJiIjoxMiwiciI6MiwidCI6OTB9LHsiaSI6ImNhYmxlX2xhdGVyYWxfcmFpc2UiLCJzIjozLCJhIjoxMiwiYiI6MTUsInIiOjEsInQiOjYwfSx7ImkiOiJpbmNsaW5lX2R1bWJiZWxsX2N1cmwiLCJzIjoyLCJhIjoxMCwiYiI6MTIsInIiOjEsInQiOjYwfV19LHsibiI6Ikxvd2VyIiwiYyI6NSwicyI6MTcsInIiOiI14oCTMjAgcmVwcyIsInEiOiIx4oCTMiBSSVIiLCJ4IjpbIkNvbnZlbnRpb25hbCBEZWFkbGlmdCDCtyA0IMOXIDXigJM4IiwiQnVsZ2FyaWFuIFNwbGl0IFNxdWF0IMK3IDMgw5cgOOKAkzEyIiwiTGVnIEV4dGVuc2lvbiDCtyAzIMOXIDEy4oCTMTUiLCJMeWluZyBMZWcgQ3VybCDCtyAzIMOXIDEw4oCTMTUiLCJTZWF0ZWQgQ2FsZiBSYWlzZSDCtyA0IMOXIDE14oCTMjAiXSwicCI6W3siaSI6ImRlYWRsaWZ0IiwicyI6NCwiYSI6NSwiYiI6OCwiciI6MiwidCI6MjQwfSx7ImkiOiJidWxnYXJpYW5fc3BsaXRfc3F1YXQiLCJzIjozLCJhIjo4LCJiIjoxMiwiciI6MiwidCI6OTB9LHsiaSI6ImxlZ19leHRlbnNpb24iLCJzIjozLCJhIjoxMiwiYiI6MTUsInIiOjEsInQiOjYwfSx7ImkiOiJseWluZ19sZWdfY3VybCIsInMiOjMsImEiOjEwLCJiIjoxNSwiciI6MSwidCI6NjB9LHsiaSI6InNlYXRlZF9jYWxmX3JhaXNlIiwicyI6NCwiYSI6MTUsImIiOjIwLCJyIjoxLCJ0Ijo2MH1dfV19&c=f9c4a72cc8e78a6327:["$","a",null,{"className":"lib-button lib-button-primary","href":"$2f","data-program-open":"ppl_ul_5","data-app-store-placement":"program_open_bottom","children":"Add to Surpass"}]
+2a:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

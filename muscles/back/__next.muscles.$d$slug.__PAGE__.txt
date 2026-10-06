@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:T1ba8,
+      .lib-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+        padding-bottom: 12px;
+      }
+      .lib-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .lib-crumbs {
+        padding-top: 26px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        color: #8f897c;
+        font-size: 0.84rem;
+      }
+      .lib-crumbs a { color: #b7b0a3; text-decoration: none; }
+      .lib-crumbs a:hover { color: #f4cb65; }
+      .lib-hero {
+        padding: 26px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+        gap: 32px;
+        align-items: end;
+      }
+      .lib-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.1rem, 5.2vw, 4rem);
+        line-height: 1;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .lib-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.04rem;
+        line-height: 1.65;
+        max-width: 720px;
+      }
+      .lib-eyebrow {
+        margin: 0 0 12px;
+        color: #d9c26c;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+      .lib-facts {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px 18px;
+        display: grid;
+        gap: 10px;
+        margin: 0;
+      }
+      .lib-facts div { display: flex; justify-content: space-between; gap: 14px; }
+      .lib-facts dt { color: #8f897c; font-size: 0.86rem; }
+      .lib-facts dd { margin: 0; color: #f7f2e8; font-weight: 700; font-size: 0.9rem; text-align: right; }
+      .lib-section {
+        padding: 34px 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .lib-section h2 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(1.36rem, 3vw, 2rem);
+        line-height: 1.15;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .lib-section h3 {
+        margin: 0 0 8px;
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .lib-section p, .lib-section li {
+        color: #c9c2b5;
+        line-height: 1.65;
+        font-size: 0.99rem;
+      }
+      .lib-section p { margin: 0 0 12px; max-width: 760px; }
+      .lib-two {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 28px;
+      }
+      .lib-steps { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+      .lib-mistakes { display: grid; gap: 12px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .lib-card {
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        background: #0e0e0d;
+        border-radius: 8px;
+        padding: 16px;
+      }
+      .lib-card p { margin: 0; font-size: 0.94rem; }
+      .lib-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+        gap: 12px;
+      }
+      .lib-link-card {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 14px 16px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        color: inherit;
+        text-decoration: none;
+        transition: border-color 160ms ease;
+      }
+      .lib-link-card:hover, .lib-link-card:focus-visible { border-color: rgba(244, 203, 101, 0.55); outline: none; }
+      .lib-link-card strong { color: #f7f2e8; font-size: 0.98rem; font-weight: 720; }
+      .lib-link-card span { color: #a7a094; font-size: 0.86rem; line-height: 1.45; }
+      .lib-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+      .lib-chips a, .lib-chips span {
+        display: inline-block;
+        padding: 6px 11px;
+        border-radius: 999px;
+        border: 1px solid rgba(242, 238, 228, 0.14);
+        color: #e6dfd0;
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 650;
+      }
+      .lib-chips a:hover { border-color: #f4cb65; color: #f4cb65; }
+      .lib-table-wrap { overflow-x: auto; border: 1px solid rgba(242, 238, 228, 0.1); border-radius: 8px; }
+      .lib-table { width: 100%; border-collapse: collapse; min-width: 560px; table-layout: fixed; }
+      .lib-table th:first-child, .lib-table td:first-child { width: 46%; }
+      .lib-table th, .lib-table td {
+        text-align: left;
+        padding: 11px 14px;
+        border-bottom: 1px solid rgba(242, 238, 228, 0.08);
+        font-size: 0.93rem;
+        color: #d9d2c4;
+        vertical-align: top;
+      }
+      .lib-table th { color: #8f897c; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; background: #0b0b0a; }
+      .lib-table tr:last-child td { border-bottom: 0; }
+      .lib-table td a { color: #f7f2e8; text-decoration: none; border-bottom: 1px solid rgba(244, 203, 101, 0.45); }
+      .lib-table td a:hover { color: #f4cb65; }
+      .lib-table .lib-note { display: block; color: #8f897c; font-size: 0.84rem; margin-top: 4px; }
+      .lib-day { margin-bottom: 26px; }
+      .lib-day-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 14px; margin-bottom: 10px; }
+      .lib-day-head h3 { margin: 0; font-size: 1.16rem; }
+      .lib-day-head span { color: #8f897c; font-size: 0.88rem; }
+      .lib-cta {
+        border: 1px solid rgba(244, 203, 101, 0.35);
+        background: linear-gradient(180deg, #14120c, #0d0d0c);
+        border-radius: 10px;
+        padding: 20px;
+        display: grid;
+        gap: 12px;
+      }
+      .lib-cta h2, .lib-cta strong { margin: 0; color: #f7f2e8; }
+      .lib-cta p { margin: 0; color: #c9c2b5; line-height: 1.6; }
+      .lib-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+      .lib-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 46px;
+        padding: 0 18px;
+        border-radius: 11px;
+        text-decoration: none;
+        font-weight: 820;
+        font-size: 0.92rem;
+      }
+      .lib-button-primary { background: #f4cb65; color: #111; }
+      .lib-button-primary:hover { background: #ffda78; }
+      .lib-button-secondary { border: 1px solid rgba(242, 238, 228, 0.2); color: #f7f2e8; }
+      .lib-button-secondary:hover { border-color: #f4cb65; }
+      .lib-small { color: #8f897c !important; font-size: 0.84rem !important; }
+      .lib-bars { display: grid; gap: 8px; max-width: 620px; }
+      .lib-bar { display: grid; grid-template-columns: 110px 1fr 36px; gap: 10px; align-items: center; font-size: 0.9rem; color: #d9d2c4; }
+      .lib-bar-track { height: 8px; background: rgba(242, 238, 228, 0.08); border-radius: 99px; overflow: hidden; }
+      .lib-bar-fill { height: 100%; background: #d9c26c; border-radius: 99px; }
+      .lib-faq article { margin-bottom: 18px; }
+      @media (max-width: 820px) {
+        .lib-hero, .lib-two { grid-template-columns: 1fr; }
+        .lib-mistakes { grid-template-columns: 1fr; }
+      }
+    c:X
+11:X
+11:C
+0:{"buildId":"ukATtWJ-u0sjhSTbSKJrP","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"lib-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],null,"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+17:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],""]
+25:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
+26:"$Sreact.suspense"
+28:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+29:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
+2a:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+2b:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+16:Tb6b,{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Exercises","item":"https://jacked.coach/exercises/"},{"@type":"ListItem","position":3,"name":"Back exercises","item":"https://jacked.coach/muscles/back/"}]},{"@type":"ItemList","name":"20 Best Back Exercises (With Form Tips)","itemListElement":[{"@type":"ListItem","position":1,"url":"https://jacked.coach/exercises/assisted-pull-up-machine/","name":"Assisted Pull-up Machine"},{"@type":"ListItem","position":2,"url":"https://jacked.coach/exercises/barbell-row/","name":"Barbell Row"},{"@type":"ListItem","position":3,"url":"https://jacked.coach/exercises/chest-supported-row/","name":"Chest Supported Row"},{"@type":"ListItem","position":4,"url":"https://jacked.coach/exercises/close-grip-cable-row/","name":"Close Grip Cable Row"},{"@type":"ListItem","position":5,"url":"https://jacked.coach/exercises/close-grip-lat-pulldown/","name":"Close Grip Lat Pulldown"},{"@type":"ListItem","position":6,"url":"https://jacked.coach/exercises/dumbbell-row/","name":"Dumbbell Row"},{"@type":"ListItem","position":7,"url":"https://jacked.coach/exercises/hammer-strength-high-row/","name":"Hammer Strength High Row"},{"@type":"ListItem","position":8,"url":"https://jacked.coach/exercises/hammer-strength-iso-lateral-pulldown/","name":"Hammer Strength Iso-Lateral Pulldown"},{"@type":"ListItem","position":9,"url":"https://jacked.coach/exercises/hammer-strength-iso-lateral-row/","name":"Hammer Strength Iso-Lateral Row"},{"@type":"ListItem","position":10,"url":"https://jacked.coach/exercises/hammer-strength-low-row/","name":"Hammer Strength Low Row"},{"@type":"ListItem","position":11,"url":"https://jacked.coach/exercises/hammer-strength-pulldown/","name":"Hammer Strength Pulldown"},{"@type":"ListItem","position":12,"url":"https://jacked.coach/exercises/inverted-row/","name":"Inverted Row"},{"@type":"ListItem","position":13,"url":"https://jacked.coach/exercises/lat-pulldown/","name":"Lat Pulldown"},{"@type":"ListItem","position":14,"url":"https://jacked.coach/exercises/meadows-row/","name":"Meadows Row"},{"@type":"ListItem","position":15,"url":"https://jacked.coach/exercises/plate-loaded-row-machine/","name":"Plate-Loaded Row Machine"},{"@type":"ListItem","position":16,"url":"https://jacked.coach/exercises/pull-up/","name":"Pull-Up"},{"@type":"ListItem","position":17,"url":"https://jacked.coach/exercises/seated-cable-row/","name":"Seated Cable Row"},{"@type":"ListItem","position":18,"url":"https://jacked.coach/exercises/t-bar-row/","name":"T-Bar Row"},{"@type":"ListItem","position":19,"url":"https://jacked.coach/exercises/wide-grip-cable-row/","name":"Wide Grip Cable Row"},{"@type":"ListItem","position":20,"url":"https://jacked.coach/exercises/straight-arm-pulldown/","name":"Straight Arm Pulldown"}]}]}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}]
+4:["$","nav",null,{"className":"lib-wrap lib-crumbs","aria-label":"Breadcrumb","children":["$","$L17",null,{"href":"/exercises","children":"Exercises"}]}]
+5:["$","section",null,{"className":"lib-wrap lib-hero","children":[["$","div",null,{"children":[["$","p",null,{"className":"lib-eyebrow","children":"Back"}],["$","h1",null,{"children":["Best ","back exercises"]}],["$","p",null,{"children":[20," exercises that train the ","back"," directly, compound lifts first. Pick one or two that suit your gym and train them hard and consistently. Steady progress on a few lifts beats rotating through all of them."]}]]}],["$","div",null,{"className":"lib-cta","children":[["$","strong",null,{"children":"Program it, then beat it"}],["$","p",null,{"children":"Surpass gives every set a target based on last time, so you know when to add weight."}],["$","div",null,{"className":"lib-actions","children":["$","a",null,{"className":"lib-button lib-button-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=muscle_back&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"muscle_back","data-app-store-placement":"muscle_hero","children":"Start free on iPhone"}]}]]}]]}]
+6:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","article","assisted_pull_up",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/assisted-pull-up-machine","style":{"color":"inherit"},"children":[1,". ","Assisted Pull-up Machine"]}]}],["$","span",null,{"children":["Machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"The assisted pull-up machine uses a counterweight to offset part of your bodyweight, so you can do full-range pull-ups before you can manage them unassisted. It is the most direct way for beginners to build toward real pull-ups."}]]}],["$","article","barbell_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/barbell-row","style":{"color":"inherit"},"children":[2,". ","Barbell Row"]}]}],["$","span",null,{"children":["Barbell"," · ",6,"–",10," reps @ ","2"," RIR"]}]]}],["$","p",null,{"children":"The barbell row is a bent-over pull where you row a barbell toward your torso from a hinged position. It builds upper and mid-back thickness plus lower-back endurance, and suits intermediate lifters comfortable holding a hip hinge."}]]}],["$","article","chest_supported_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/chest-supported-row","style":{"color":"inherit"},"children":[3,". ","Chest Supported Row"]}]}],["$","span",null,{"children":["Dumbbells, Bench"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A dumbbell row done lying face down on an incline bench. The bench supports the torso, so you can train the upper back hard without your lower back or momentum getting involved. Ideal for anyone with a cranky lower back or who tends to cheat rows."}]]}],["$","article","cable_row_close_grip",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/close-grip-cable-row","style":{"color":"inherit"},"children":[4,". ","Close Grip Cable Row"]}]}],["$","span",null,{"children":["Cable"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"The close grip cable row uses a V-handle or narrow grip to pull toward your lower ribs. It emphasizes the lats and mid-back and is a reliable staple back exercise for most lifters."}]]}],["$","article","close_grip_lat_pulldown",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/close-grip-lat-pulldown","style":{"color":"inherit"},"children":[5,". ","Close Grip Lat Pulldown"]}]}],["$","span",null,{"children":["Cable"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"The close grip lat pulldown uses a narrow neutral-grip handle to pull toward your upper chest with elbows tucked. It often allows a longer range and heavier loads than a wide grip, and suits anyone building lat size or working toward pull-ups."}]]}],["$","article","dumbbell_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/dumbbell-row","style":{"color":"inherit"},"children":[6,". ","Dumbbell Row"]}]}],["$","span",null,{"children":["Dumbbells, Bench"," · ",8,"–",12," reps @ ","2"," RIR"]}]]}],["$","p",null,{"children":"The dumbbell row is a one-arm row with your other hand and knee braced on a bench. It trains the lats and mid-back one side at a time with a long range of motion and good lower-back support, suiting all levels."}]]}],["$","article","hs_high_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/hammer-strength-high-row","style":{"color":"inherit"},"children":[7,". ","Hammer Strength High Row"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A plate-loaded row where the handles start high and in front of you and pull down and back, between a row and a pulldown. It trains the lats and upper back. Good for lifters who want a heavy, stable back movement that's easy on the lower back."}]]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]
+7:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":["Also trains the ","back"]}],["$","p",null,{"children":["These exercises work the ","back"," as a secondary muscle, which counts toward your weekly work but not as much as a direct set."]}],["$","div",null,{"className":"lib-grid","children":[["$","$L17","band_pull_apart",{"className":"lib-link-card","href":"/exercises/band-pull-apart","children":[["$","strong",null,{"children":"Band Pull-Apart"}],["$","span",null,{"children":["Mainly ","rear delts"]}]]}],["$","$L17","deadlift",{"className":"lib-link-card","href":"/exercises/conventional-deadlift","children":[["$","strong",null,{"children":"Conventional Deadlift"}],["$","span",null,{"children":["Mainly ","hamstrings"]}]]}],["$","$L17","deficit_rdl",{"className":"lib-link-card","href":"/exercises/deficit-romanian-deadlift","children":[["$","strong",null,{"children":"Deficit Romanian Deadlift"}],["$","span",null,{"children":["Mainly ","hamstrings"]}]]}],["$","$L17","reverse_fly_db",{"className":"lib-link-card","href":"/exercises/dumbbell-reverse-fly","children":[["$","strong",null,{"children":"Dumbbell Reverse Fly"}],["$","span",null,{"children":["Mainly ","rear delts"]}]]}],["$","$L17","good_morning",{"className":"lib-link-card","href":"/exercises/good-morning","children":[["$","strong",null,{"children":"Good Morning"}],["$","span",null,{"children":["Mainly ","hamstrings"]}]]}],["$","$L17","romanian_deadlift",{"className":"lib-link-card","href":"/exercises/romanian-deadlift","children":[["$","strong",null,{"children":"Romanian Deadlift"}],["$","span",null,{"children":["Mainly ","hamstrings"]}]]}]]}]]}]
+8:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":["How much ","back"," work do the programs include?"]}],["$","p",null,{"children":["Direct weekly sets for the ","back"," in each free program. Secondary work is not counted."]}],["$","div",null,{"className":"lib-bars","children":[["$","div","12-week-physique-plan",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/12-week-physique-plan","style":{"color":"#d9d2c4"},"children":"12-Week Physique Plan"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"100%"}}]}],["$","span",null,{"children":20}]]}],["$","div","push-pull-legs",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/push-pull-legs","style":{"color":"#d9d2c4"},"children":"Push Pull Legs"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"100%"}}]}],["$","span",null,{"children":20}]]}],["$","div","arnold-split",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/arnold-split","style":{"color":"#d9d2c4"},"children":"Arnold Split"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"100%"}}]}],["$","span",null,{"children":20}]]}],["$","div","ppl-upper-lower-hybrid",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/ppl-upper-lower-hybrid","style":{"color":"#d9d2c4"},"children":"PPL + Upper/Lower Hybrid"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"80%"}}]}],["$","span",null,{"children":16}]]}],["$","div","upper-lower-split",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/upper-lower-split","style":{"color":"#d9d2c4"},"children":"Upper/Lower Split"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"70%"}}]}],["$","span",null,{"children":14}]]}],["$","div","bro-split",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/bro-split","style":{"color":"#d9d2c4"},"children":"5-Day Bro Split"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"65%"}}]}],["$","span",null,{"children":13}]]}],["$","div","full-body-workout-3-days",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/full-body-workout-3-days","style":{"color":"#d9d2c4"},"children":"3-Day Full Body Workout"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"45%"}}]}],["$","span",null,{"children":9}]]}]]}]]}]
+9:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":"Other muscle groups"}],["$","ul",null,{"className":"lib-chips","children":[["$","li","chest",{"children":["$","$L17",null,{"href":"/muscles/chest","children":"Chest"}]}],["$","li","front-delts",{"children":["$","$L17",null,{"href":"/muscles/front-delts","children":"Front Delts"}]}],["$","li","side-delts",{"children":["$","$L17",null,{"href":"/muscles/side-delts","children":"Side Delts"}]}],["$","li","rear-delts",{"children":["$","$L17",null,{"href":"/muscles/rear-delts","children":"Rear Delts"}]}],["$","li","traps",{"children":["$","$L17",null,{"href":"/muscles/traps","children":"Traps"}]}],["$","li","biceps",{"children":["$","$L17",null,{"href":"/muscles/biceps","children":"Biceps"}]}],["$","li","triceps",{"children":["$","$L17",null,{"href":"/muscles/triceps","children":"Triceps"}]}],["$","li","abs",{"children":["$","$L17",null,{"href":"/muscles/abs","children":"Abs"}]}],["$","li","quads",{"children":["$","$L17",null,{"href":"/muscles/quads","children":"Quads"}]}],["$","li","hamstrings",{"children":["$","$L17",null,{"href":"/muscles/hamstrings","children":"Hamstrings"}]}],["$","li","glutes",{"children":["$","$L17",null,{"href":"/muscles/glutes","children":"Glutes"}]}],["$","li","calves",{"children":["$","$L17",null,{"href":"/muscles/calves","children":"Calves"}]}]]}]]}]
+a:["$","$L25",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+d:["$","$1","h",{"children":[null,["$","$L28",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L29",null,{"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"20 Best Back Exercises (With Form Tips) | Surpass"}],["$","meta","1",{"name":"description","content":"The best back exercises for size and strength, including assisted pull-up machine, barbell row, chest supported row. How to do each one, rep ranges, and how many weekly sets to aim for."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"progressive overload app,gym workout tracker,next set targets,workout log,Hevy alternative,Strong alternative,1RM calculator,plate calculator"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/muscles/back/"}],["$","meta","8",{"property":"og:title","content":"20 Best Back Exercises (With Form Tips)"}],["$","meta","9",{"property":"og:description","content":"The best back exercises for size and strength, including assisted pull-up machine, barbell row, chest supported row. How to do each one, rep ranges, and how many weekly sets to aim for."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/muscles/back/"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Surpass — Gym Log with Next-Set Targets"}],["$","meta","13",{"name":"twitter:description","content":"Beat last week. Every set shows a target beside what you lifted last time. Free on iPhone, no account required."}],["$","meta","14",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]}]}]}],null]}]
+f:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+15:true
+18:["$","article","hs_iso_lateral_pulldown",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/hammer-strength-iso-lateral-pulldown","style":{"color":"inherit"},"children":[8,". ","Hammer Strength Iso-Lateral Pulldown"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A plate-loaded pulldown with independent arms that arc from overhead down and slightly back. It builds the lats on a stable path and lets each side work alone. Good for heavy lat work or evening out a weaker side."}]]}]
+19:["$","article","hs_iso_lateral_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/hammer-strength-iso-lateral-row","style":{"color":"inherit"},"children":[9,". ","Hammer Strength Iso-Lateral Row"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A unilateral plate-loaded, chest-supported row with independent arms. It builds the lats and mid back while removing lower back fatigue. Suits all levels and is especially useful for fixing side-to-side imbalances."}]]}]
+1a:["$","article","hs_low_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/hammer-strength-low-row","style":{"color":"inherit"},"children":[10,". ","Hammer Strength Low Row"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A plate-loaded, chest-supported seated row with handles that pull from low toward your torso. It builds the lats and mid back while keeping the lower back out of it. Good for heavy rowing without lower back fatigue."}]]}]
+1b:["$","article","hs_pulldown",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/hammer-strength-pulldown","style":{"color":"inherit"},"children":[11,". ","Hammer Strength Pulldown"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A plate-loaded seated pulldown where you pull handles down from overhead along a fixed path. It builds the lats with more stability than a cable pulldown. Good for beginners building toward pull-ups and for anyone adding back volume."}]]}]
+1c:["$","article","inverted_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/inverted-row","style":{"color":"inherit"},"children":[12,". ","Inverted Row"]}]}],["$","span",null,{"children":["Bodyweight, Rack"," · ",8,"–",15," reps @ ","2"," RIR"]}]]}],["$","p",null,{"children":"A bodyweight row where you hang under a bar set in a rack and pull your chest up to it. It builds the upper back and biceps. Great for beginners and as a high-rep back finisher."}]]}]
+1d:["$","article","lat_pulldown",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/lat-pulldown","style":{"color":"inherit"},"children":[13,". ","Lat Pulldown"]}]}],["$","span",null,{"children":["Cable"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"The lat pulldown is a seated vertical pull where you draw a cable bar down to your upper chest. It trains the same pattern as a pull-up but with adjustable load, making it ideal for beginners and for adding back volume."}]]}]
+1e:["$","article","meadows_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/meadows-row","style":{"color":"inherit"},"children":[14,". ","Meadows Row"]}]}],["$","span",null,{"children":["Barbell"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A single-arm row standing beside a landmine-anchored barbell, gripping the end of the sleeve overhand. It gives a big stretch and lets you load one side heavily. Best for intermediate lifters looking to build lats and upper back."}]]}]
+1f:["$","article","machine_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/plate-loaded-row-machine","style":{"color":"inherit"},"children":[15,". ","Plate-Loaded Row Machine"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"A seated, plate-loaded row with a chest pad and independent or linked handles. The chest pad takes the lower back out of the lift, so you can load the upper back hard without fatigue limiting you elsewhere. Suits beginners and experienced lifters alike."}]]}]
+20:["$","article","pull_ups",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/pull-up","style":{"color":"inherit"},"children":[16,". ","Pull-Up"]}]}],["$","span",null,{"children":["Pull-up bar"," · ",6,"–",12," reps @ ","2"," RIR"]}]]}],["$","p",null,{"children":"The pull-up is a bodyweight vertical pull from a dead hang until your chin clears the bar, using an overhand grip. It is one of the best lat and upper-back builders and a good strength benchmark for anyone who can manage a few reps."}]]}]
+21:["$","article","cable_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/seated-cable-row","style":{"color":"inherit"},"children":[17,". ","Seated Cable Row"]}]}],["$","span",null,{"children":["Cable"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"The seated cable row is a horizontal pull done sitting at a low pulley with your feet braced. It trains the mid-back and lats with steady tension and little lower-back stress, making it a reliable row for every level."}]]}]
+22:["$","article","t_bar_row",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/t-bar-row","style":{"color":"inherit"},"children":[18,". ","T-Bar Row"]}]}],["$","span",null,{"children":["Plate-loaded machine"," · ",8,"–",12," reps @ ","2"," RIR"]}]]}],["$","p",null,{"children":"A bent-over row using a bar anchored at one end (a landmine or a dedicated T-bar station) with a V-handle or grips near the loaded end. It lets you row heavy with a neutral grip and a fixed path. Good for intermediate lifters wanting a heavy back builder."}]]}]
+23:["$","article","cable_row_wide_grip",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/wide-grip-cable-row","style":{"color":"inherit"},"children":[19,". ","Wide Grip Cable Row"]}]}],["$","span",null,{"children":["Cable"," · ",8,"–",12," reps @ ","1.5"," RIR"]}]]}],["$","p",null,{"children":"The wide grip cable row is a seated row with a wide bar, pulling toward the lower chest with elbows out. It biases the upper back and rear delts more than close-grip rows and suits anyone wanting thicker upper back and better posture."}]]}]
+24:["$","article","straight_arm_pulldown",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/straight-arm-pulldown","style":{"color":"inherit"},"children":[20,". ","Straight Arm Pulldown"]}]}],["$","span",null,{"children":["Cable"," · ",12,"–",15," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"The straight arm pulldown has you sweep a bar or rope from overhead down to your thighs with your elbows locked in a slight bend. It trains the lats with almost no biceps involvement, making it useful for learning to feel your lats and as a finisher after rows and pulldowns."}]]}]
+27:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

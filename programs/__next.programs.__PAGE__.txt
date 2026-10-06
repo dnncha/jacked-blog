@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:T1ba8,
+      .lib-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+        padding-bottom: 12px;
+      }
+      .lib-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .lib-crumbs {
+        padding-top: 26px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        color: #8f897c;
+        font-size: 0.84rem;
+      }
+      .lib-crumbs a { color: #b7b0a3; text-decoration: none; }
+      .lib-crumbs a:hover { color: #f4cb65; }
+      .lib-hero {
+        padding: 26px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+        gap: 32px;
+        align-items: end;
+      }
+      .lib-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.1rem, 5.2vw, 4rem);
+        line-height: 1;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .lib-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.04rem;
+        line-height: 1.65;
+        max-width: 720px;
+      }
+      .lib-eyebrow {
+        margin: 0 0 12px;
+        color: #d9c26c;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+      .lib-facts {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px 18px;
+        display: grid;
+        gap: 10px;
+        margin: 0;
+      }
+      .lib-facts div { display: flex; justify-content: space-between; gap: 14px; }
+      .lib-facts dt { color: #8f897c; font-size: 0.86rem; }
+      .lib-facts dd { margin: 0; color: #f7f2e8; font-weight: 700; font-size: 0.9rem; text-align: right; }
+      .lib-section {
+        padding: 34px 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .lib-section h2 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(1.36rem, 3vw, 2rem);
+        line-height: 1.15;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .lib-section h3 {
+        margin: 0 0 8px;
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .lib-section p, .lib-section li {
+        color: #c9c2b5;
+        line-height: 1.65;
+        font-size: 0.99rem;
+      }
+      .lib-section p { margin: 0 0 12px; max-width: 760px; }
+      .lib-two {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 28px;
+      }
+      .lib-steps { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+      .lib-mistakes { display: grid; gap: 12px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .lib-card {
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        background: #0e0e0d;
+        border-radius: 8px;
+        padding: 16px;
+      }
+      .lib-card p { margin: 0; font-size: 0.94rem; }
+      .lib-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+        gap: 12px;
+      }
+      .lib-link-card {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 14px 16px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        color: inherit;
+        text-decoration: none;
+        transition: border-color 160ms ease;
+      }
+      .lib-link-card:hover, .lib-link-card:focus-visible { border-color: rgba(244, 203, 101, 0.55); outline: none; }
+      .lib-link-card strong { color: #f7f2e8; font-size: 0.98rem; font-weight: 720; }
+      .lib-link-card span { color: #a7a094; font-size: 0.86rem; line-height: 1.45; }
+      .lib-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+      .lib-chips a, .lib-chips span {
+        display: inline-block;
+        padding: 6px 11px;
+        border-radius: 999px;
+        border: 1px solid rgba(242, 238, 228, 0.14);
+        color: #e6dfd0;
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 650;
+      }
+      .lib-chips a:hover { border-color: #f4cb65; color: #f4cb65; }
+      .lib-table-wrap { overflow-x: auto; border: 1px solid rgba(242, 238, 228, 0.1); border-radius: 8px; }
+      .lib-table { width: 100%; border-collapse: collapse; min-width: 560px; table-layout: fixed; }
+      .lib-table th:first-child, .lib-table td:first-child { width: 46%; }
+      .lib-table th, .lib-table td {
+        text-align: left;
+        padding: 11px 14px;
+        border-bottom: 1px solid rgba(242, 238, 228, 0.08);
+        font-size: 0.93rem;
+        color: #d9d2c4;
+        vertical-align: top;
+      }
+      .lib-table th { color: #8f897c; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; background: #0b0b0a; }
+      .lib-table tr:last-child td { border-bottom: 0; }
+      .lib-table td a { color: #f7f2e8; text-decoration: none; border-bottom: 1px solid rgba(244, 203, 101, 0.45); }
+      .lib-table td a:hover { color: #f4cb65; }
+      .lib-table .lib-note { display: block; color: #8f897c; font-size: 0.84rem; margin-top: 4px; }
+      .lib-day { margin-bottom: 26px; }
+      .lib-day-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 14px; margin-bottom: 10px; }
+      .lib-day-head h3 { margin: 0; font-size: 1.16rem; }
+      .lib-day-head span { color: #8f897c; font-size: 0.88rem; }
+      .lib-cta {
+        border: 1px solid rgba(244, 203, 101, 0.35);
+        background: linear-gradient(180deg, #14120c, #0d0d0c);
+        border-radius: 10px;
+        padding: 20px;
+        display: grid;
+        gap: 12px;
+      }
+      .lib-cta h2, .lib-cta strong { margin: 0; color: #f7f2e8; }
+      .lib-cta p { margin: 0; color: #c9c2b5; line-height: 1.6; }
+      .lib-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+      .lib-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 46px;
+        padding: 0 18px;
+        border-radius: 11px;
+        text-decoration: none;
+        font-weight: 820;
+        font-size: 0.92rem;
+      }
+      .lib-button-primary { background: #f4cb65; color: #111; }
+      .lib-button-primary:hover { background: #ffda78; }
+      .lib-button-secondary { border: 1px solid rgba(242, 238, 228, 0.2); color: #f7f2e8; }
+      .lib-button-secondary:hover { border-color: #f4cb65; }
+      .lib-small { color: #8f897c !important; font-size: 0.84rem !important; }
+      .lib-bars { display: grid; gap: 8px; max-width: 620px; }
+      .lib-bar { display: grid; grid-template-columns: 110px 1fr 36px; gap: 10px; align-items: center; font-size: 0.9rem; color: #d9d2c4; }
+      .lib-bar-track { height: 8px; background: rgba(242, 238, 228, 0.08); border-radius: 99px; overflow: hidden; }
+      .lib-bar-fill { height: 100%; background: #d9c26c; border-radius: 99px; }
+      .lib-faq article { margin-bottom: 18px; }
+      @media (max-width: 820px) {
+        .lib-hero, .lib-two { grid-template-columns: 1fr; }
+        .lib-mistakes { grid-template-columns: 1fr; }
+      }
+    a:X
+f:X
+f:C
+0:{"buildId":"ukATtWJ-u0sjhSTbSKJrP","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"lib-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7"]}],null,"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+13:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],""]
+14:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+18:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
+19:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+1a:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+12:T507,{"@context":"https://schema.org","@type":"CollectionPage","name":"Free Workout Programs: PPL, Upper/Lower, Full Body & More","description":"Free gym workout programs with every set, rep range, RIR target, and rest time listed. Push/pull/legs, upper/lower, full body, Arnold split, bro split, and a 12-week physique plan.","url":"https://jacked.coach/programs/","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://jacked.coach/programs/full-body-workout-3-days/","name":"3-Day Full Body Workout"},{"@type":"ListItem","position":2,"url":"https://jacked.coach/programs/upper-lower-split/","name":"Upper/Lower Split (4 Days)"},{"@type":"ListItem","position":3,"url":"https://jacked.coach/programs/12-week-physique-plan/","name":"12-Week Physique Plan"},{"@type":"ListItem","position":4,"url":"https://jacked.coach/programs/bro-split/","name":"5-Day Bro Split"},{"@type":"ListItem","position":5,"url":"https://jacked.coach/programs/ppl-upper-lower-hybrid/","name":"PPL + Upper/Lower Hybrid (5 Days)"},{"@type":"ListItem","position":6,"url":"https://jacked.coach/programs/push-pull-legs/","name":"Push Pull Legs (6-Day PPL)"},{"@type":"ListItem","position":7,"url":"https://jacked.coach/programs/arnold-split/","name":"Arnold Split (6 Days)"}]}}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$12"}}]
+4:["$","section",null,{"className":"lib-wrap lib-hero","children":[["$","div",null,{"children":[["$","p",null,{"className":"lib-eyebrow","children":"Free programs"}],["$","h1",null,{"children":"Pick a plan. Then beat it every week."}],["$","p",null,{"children":"Complete gym programs with every exercise, set, rep range, effort target, and rest time written out. Read them here, or open one in Surpass on your iPhone and start logging today."}]]}],["$","div",null,{"className":"lib-cta","children":[["$","strong",null,{"children":"Not sure which to pick?"}],["$","p",null,{"children":"Training 3 days a week: Full Body. 4 days: Upper/Lower. 5–6 days: PPL or a hybrid."}]]}]]}]
+5:["$","section",null,{"className":"lib-wrap lib-section","children":["$","div",null,{"className":"lib-table-wrap","children":["$","table",null,{"className":"lib-table","children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Program"}],["$","th",null,{"children":"Days"}],["$","th",null,{"children":"Level"}],["$","th",null,{"children":"Frequency"}],["$","th",null,{"children":"Session"}]]}]}],["$","tbody",null,{"children":[["$","tr","full-body-workout-3-days",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/full-body-workout-3-days","children":"3-Day Full Body Workout"}]}],["$","td",null,{"children":3}],["$","td",null,{"children":"Beginner"}],["$","td",null,{"children":"Chest, back, shoulders, legs 3x/week"}],["$","td",null,{"children":["~",60," min"]}]]}],["$","tr","upper-lower-split",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/upper-lower-split","children":"Upper/Lower Split (4 Days)"}]}],["$","td",null,{"children":4}],["$","td",null,{"children":"Beginner"}],["$","td",null,{"children":"2x per muscle/week"}],["$","td",null,{"children":["~",60," min"]}]]}],["$","tr","12-week-physique-plan",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/12-week-physique-plan","children":"12-Week Physique Plan"}]}],["$","td",null,{"children":4}],["$","td",null,{"children":"Intermediate"}],["$","td",null,{"children":"4 days/week for 12 weeks"}],["$","td",null,{"children":["~",70," min"]}]]}],["$","tr","bro-split",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/bro-split","children":"5-Day Bro Split"}]}],["$","td",null,{"children":5}],["$","td",null,{"children":"Intermediate"}],["$","td",null,{"children":"1x per muscle/week"}],["$","td",null,{"children":["~",60," min"]}]]}],["$","tr","ppl-upper-lower-hybrid",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/ppl-upper-lower-hybrid","children":"PPL + Upper/Lower Hybrid (5 Days)"}]}],["$","td",null,{"children":5}],["$","td",null,{"children":"Intermediate"}],["$","td",null,{"children":"~1.5x per muscle/week"}],["$","td",null,{"children":["~",60," min"]}]]}],["$","tr","push-pull-legs",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/push-pull-legs","children":"Push Pull Legs (6-Day PPL)"}]}],["$","td",null,{"children":6}],["$","td",null,{"children":"Intermediate"}],["$","td",null,{"children":"2x per muscle/week"}],["$","td",null,{"children":["~",60," min"]}]]}],["$","tr","arnold-split",{"children":[["$","td",null,{"children":["$","$L13",null,{"href":"/programs/arnold-split","children":"Arnold Split (6 Days)"}]}],["$","td",null,{"children":6}],["$","td",null,{"children":"Advanced"}],["$","td",null,{"children":"2x per muscle/week"}],["$","td",null,{"children":["~",75," min"]}]]}]]}]]}]}]}]
+6:["$","section",null,{"className":"lib-wrap lib-section","children":["$","div",null,{"className":"lib-grid","children":[["$","$L13","full-body-workout-3-days",{"className":"lib-link-card","href":"/programs/full-body-workout-3-days","children":[["$","strong",null,{"children":"3-Day Full Body Workout"}],["$","span",null,{"children":"Three sessions a week, each one covering the whole body. Chest, back, shoulders, and legs are trained every session, which makes it a time-efficient starting point for beginners and a strong option for anyone short on time."}]]}],["$","$L13","upper-lower-split",{"className":"lib-link-card","href":"/programs/upper-lower-split","children":[["$","strong",null,{"children":"Upper/Lower Split (4 Days)"}],["$","span",null,{"children":"Two upper-body days and two lower-body days a week. It is one of the most reliable splits for both strength and size because every muscle is trained twice a week with full recovery between sessions."}]]}],["$","$L13","12-week-physique-plan",{"className":"lib-link-card","href":"/programs/12-week-physique-plan","children":[["$","strong",null,{"children":"12-Week Physique Plan"}],["$","span",null,{"children":"Four sessions a week built around the muscles that change how a physique looks in a T-shirt: upper chest, side delts, lats, and arms. Legs, traps, and abs still get a full day so proportions stay balanced."}]]}],["$","$L13","bro-split",{"className":"lib-link-card","href":"/programs/bro-split","children":[["$","strong",null,{"children":"5-Day Bro Split"}],["$","span",null,{"children":"One major muscle group per day across five sessions. It trades frequency for focus: each muscle is trained once a week, but with lots of sets and variety in that one session."}]]}],["$","$L13","ppl-upper-lower-hybrid",{"className":"lib-link-card","href":"/programs/ppl-upper-lower-hybrid","children":[["$","strong",null,{"children":"PPL + Upper/Lower Hybrid (5 Days)"}],["$","span",null,{"children":"Push, pull, and legs early in the week, then an upper and a lower day to finish. Most muscles get trained about one and a half times a week in five sessions, a middle ground between PPL and upper/lower."}]]}],["$","$L13","push-pull-legs",{"className":"lib-link-card","href":"/programs/push-pull-legs","children":[["$","strong",null,{"children":"Push Pull Legs (6-Day PPL)"}],["$","span",null,{"children":"The classic push/pull/legs split run twice a week, with an A and B version of each day so the exercise selection rotates. Every muscle gets trained twice a week with moderate volume per session."}]]}],["$","$L13","arnold-split",{"className":"lib-link-card","href":"/programs/arnold-split","children":[["$","strong",null,{"children":"Arnold Split (6 Days)"}],["$","span",null,{"children":"Chest and back together, shoulders and arms together, then legs, run twice a week. The split was popularized by golden-era bodybuilding and pairs opposing muscles so one recovers while the other works."}]]}]]}]}]
+7:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":"Need exercise help?"}],["$","p",null,{"children":"Every exercise in these programs links to a guide with setup, cues, common mistakes, and alternatives."}],["$","$L13",null,{"className":"lib-button lib-button-secondary","href":"/exercises","children":"Open the exercise library"}]]}]
+8:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+b:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Free Workout Programs: PPL, Upper/Lower, Full Body & More | Surpass"}],["$","meta","1",{"name":"description","content":"Free gym workout programs with every set, rep range, RIR target, and rest time listed. Push/pull/legs, upper/lower, full body, Arnold split, bro split, and a 12-week physique plan."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"progressive overload app,gym workout tracker,next set targets,workout log,Hevy alternative,Strong alternative,1RM calculator,plate calculator"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/programs/"}],["$","meta","8",{"property":"og:title","content":"Free Workout Programs: PPL, Upper/Lower, Full Body & More"}],["$","meta","9",{"property":"og:description","content":"Free gym workout programs with every set, rep range, RIR target, and rest time listed. Push/pull/legs, upper/lower, full body, Arnold split, bro split, and a 12-week physique plan."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/programs/"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Surpass — Gym Log with Next-Set Targets"}],["$","meta","13",{"name":"twitter:description","content":"Beat last week. Every set shows a target beside what you lifted last time. Free on iPhone, no account required."}],["$","meta","14",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]}]}]}],null]}]
+d:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+11:true
+16:null
+a:300
+a:C
+10:0
+c:"$undefined"
+e:"$undefined"
+9:"$undefined"

@@ -1,0 +1,222 @@
+1:"$Sreact.fragment"
+2:T1ba8,
+      .lib-page {
+        background: #050505;
+        color: #f2eee4;
+        min-height: 100vh;
+        padding-bottom: 12px;
+      }
+      .lib-wrap {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+      .lib-crumbs {
+        padding-top: 26px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        color: #8f897c;
+        font-size: 0.84rem;
+      }
+      .lib-crumbs a { color: #b7b0a3; text-decoration: none; }
+      .lib-crumbs a:hover { color: #f4cb65; }
+      .lib-hero {
+        padding: 26px 0 30px;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+        gap: 32px;
+        align-items: end;
+      }
+      .lib-hero h1 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(2.1rem, 5.2vw, 4rem);
+        line-height: 1;
+        letter-spacing: 0;
+        font-weight: 780;
+      }
+      .lib-hero p {
+        margin: 0;
+        color: #b7b0a3;
+        font-size: 1.04rem;
+        line-height: 1.65;
+        max-width: 720px;
+      }
+      .lib-eyebrow {
+        margin: 0 0 12px;
+        color: #d9c26c;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+      .lib-facts {
+        border: 1px solid rgba(242, 238, 228, 0.12);
+        background: #0d0d0c;
+        border-radius: 8px;
+        padding: 16px 18px;
+        display: grid;
+        gap: 10px;
+        margin: 0;
+      }
+      .lib-facts div { display: flex; justify-content: space-between; gap: 14px; }
+      .lib-facts dt { color: #8f897c; font-size: 0.86rem; }
+      .lib-facts dd { margin: 0; color: #f7f2e8; font-weight: 700; font-size: 0.9rem; text-align: right; }
+      .lib-section {
+        padding: 34px 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      .lib-section h2 {
+        margin: 0 0 16px;
+        color: #f7f2e8;
+        font-size: clamp(1.36rem, 3vw, 2rem);
+        line-height: 1.15;
+        letter-spacing: 0;
+        font-weight: 720;
+      }
+      .lib-section h3 {
+        margin: 0 0 8px;
+        color: #f7f2e8;
+        font-size: 1.04rem;
+        font-weight: 720;
+      }
+      .lib-section p, .lib-section li {
+        color: #c9c2b5;
+        line-height: 1.65;
+        font-size: 0.99rem;
+      }
+      .lib-section p { margin: 0 0 12px; max-width: 760px; }
+      .lib-two {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 28px;
+      }
+      .lib-steps { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+      .lib-mistakes { display: grid; gap: 12px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .lib-card {
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        background: #0e0e0d;
+        border-radius: 8px;
+        padding: 16px;
+      }
+      .lib-card p { margin: 0; font-size: 0.94rem; }
+      .lib-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+        gap: 12px;
+      }
+      .lib-link-card {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 14px 16px;
+        border-radius: 8px;
+        background: #0e0e0d;
+        border: 1px solid rgba(242, 238, 228, 0.1);
+        color: inherit;
+        text-decoration: none;
+        transition: border-color 160ms ease;
+      }
+      .lib-link-card:hover, .lib-link-card:focus-visible { border-color: rgba(244, 203, 101, 0.55); outline: none; }
+      .lib-link-card strong { color: #f7f2e8; font-size: 0.98rem; font-weight: 720; }
+      .lib-link-card span { color: #a7a094; font-size: 0.86rem; line-height: 1.45; }
+      .lib-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+      .lib-chips a, .lib-chips span {
+        display: inline-block;
+        padding: 6px 11px;
+        border-radius: 999px;
+        border: 1px solid rgba(242, 238, 228, 0.14);
+        color: #e6dfd0;
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 650;
+      }
+      .lib-chips a:hover { border-color: #f4cb65; color: #f4cb65; }
+      .lib-table-wrap { overflow-x: auto; border: 1px solid rgba(242, 238, 228, 0.1); border-radius: 8px; }
+      .lib-table { width: 100%; border-collapse: collapse; min-width: 560px; table-layout: fixed; }
+      .lib-table th:first-child, .lib-table td:first-child { width: 46%; }
+      .lib-table th, .lib-table td {
+        text-align: left;
+        padding: 11px 14px;
+        border-bottom: 1px solid rgba(242, 238, 228, 0.08);
+        font-size: 0.93rem;
+        color: #d9d2c4;
+        vertical-align: top;
+      }
+      .lib-table th { color: #8f897c; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; background: #0b0b0a; }
+      .lib-table tr:last-child td { border-bottom: 0; }
+      .lib-table td a { color: #f7f2e8; text-decoration: none; border-bottom: 1px solid rgba(244, 203, 101, 0.45); }
+      .lib-table td a:hover { color: #f4cb65; }
+      .lib-table .lib-note { display: block; color: #8f897c; font-size: 0.84rem; margin-top: 4px; }
+      .lib-day { margin-bottom: 26px; }
+      .lib-day-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 14px; margin-bottom: 10px; }
+      .lib-day-head h3 { margin: 0; font-size: 1.16rem; }
+      .lib-day-head span { color: #8f897c; font-size: 0.88rem; }
+      .lib-cta {
+        border: 1px solid rgba(244, 203, 101, 0.35);
+        background: linear-gradient(180deg, #14120c, #0d0d0c);
+        border-radius: 10px;
+        padding: 20px;
+        display: grid;
+        gap: 12px;
+      }
+      .lib-cta h2, .lib-cta strong { margin: 0; color: #f7f2e8; }
+      .lib-cta p { margin: 0; color: #c9c2b5; line-height: 1.6; }
+      .lib-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+      .lib-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 46px;
+        padding: 0 18px;
+        border-radius: 11px;
+        text-decoration: none;
+        font-weight: 820;
+        font-size: 0.92rem;
+      }
+      .lib-button-primary { background: #f4cb65; color: #111; }
+      .lib-button-primary:hover { background: #ffda78; }
+      .lib-button-secondary { border: 1px solid rgba(242, 238, 228, 0.2); color: #f7f2e8; }
+      .lib-button-secondary:hover { border-color: #f4cb65; }
+      .lib-small { color: #8f897c !important; font-size: 0.84rem !important; }
+      .lib-bars { display: grid; gap: 8px; max-width: 620px; }
+      .lib-bar { display: grid; grid-template-columns: 110px 1fr 36px; gap: 10px; align-items: center; font-size: 0.9rem; color: #d9d2c4; }
+      .lib-bar-track { height: 8px; background: rgba(242, 238, 228, 0.08); border-radius: 99px; overflow: hidden; }
+      .lib-bar-fill { height: 100%; background: #d9c26c; border-radius: 99px; }
+      .lib-faq article { margin-bottom: 18px; }
+      @media (max-width: 820px) {
+        .lib-hero, .lib-two { grid-template-columns: 1fr; }
+        .lib-mistakes { grid-template-columns: 1fr; }
+      }
+    c:X
+11:X
+11:C
+0:{"buildId":"ukATtWJ-u0sjhSTbSKJrP","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"lib-page","children":[["$","style",null,{"children":"$2"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],null,"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+17:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],""]
+19:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"MetadataBoundary"]
+1e:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+1f:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0tf7m5w3n1x9v.js"],"default"]
+16:T563,{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jacked.coach/"},{"@type":"ListItem","position":2,"name":"Exercises","item":"https://jacked.coach/exercises/"},{"@type":"ListItem","position":3,"name":"Biceps exercises","item":"https://jacked.coach/muscles/biceps/"}]},{"@type":"ItemList","name":"8 Best Biceps Exercises (With Form Tips)","itemListElement":[{"@type":"ListItem","position":1,"url":"https://jacked.coach/exercises/barbell-curl/","name":"Barbell Curl"},{"@type":"ListItem","position":2,"url":"https://jacked.coach/exercises/cable-curl/","name":"Cable Curl"},{"@type":"ListItem","position":3,"url":"https://jacked.coach/exercises/concentration-curl/","name":"Concentration Curl"},{"@type":"ListItem","position":4,"url":"https://jacked.coach/exercises/dumbbell-curl/","name":"Dumbbell Curl"},{"@type":"ListItem","position":5,"url":"https://jacked.coach/exercises/hammer-curl/","name":"Hammer Curl"},{"@type":"ListItem","position":6,"url":"https://jacked.coach/exercises/incline-dumbbell-curl/","name":"Incline Dumbbell Curl"},{"@type":"ListItem","position":7,"url":"https://jacked.coach/exercises/machine-preacher-curl/","name":"Machine Preacher Curl"},{"@type":"ListItem","position":8,"url":"https://jacked.coach/exercises/preacher-curl/","name":"Preacher Curl"}]}]}3:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}]
+4:["$","nav",null,{"className":"lib-wrap lib-crumbs","aria-label":"Breadcrumb","children":["$","$L17",null,{"href":"/exercises","children":"Exercises"}]}]
+5:["$","section",null,{"className":"lib-wrap lib-hero","children":[["$","div",null,{"children":[["$","p",null,{"className":"lib-eyebrow","children":"Biceps"}],["$","h1",null,{"children":["Best ","biceps exercises"]}],["$","p",null,{"children":[8," exercises that train the ","biceps"," directly, compound lifts first. Pick one or two that suit your gym and train them hard and consistently. Steady progress on a few lifts beats rotating through all of them."]}]]}],["$","div",null,{"className":"lib-cta","children":[["$","strong",null,{"children":"Program it, then beat it"}],["$","p",null,{"children":"Surpass gives every set a target based on last time, so you know when to add weight."}],["$","div",null,{"className":"lib-actions","children":["$","a",null,{"className":"lib-button lib-button-primary","href":"https://apps.apple.com/app/apple-store/id6757132605?pt=128406689&ct=muscle_biceps&mt=8","target":"_blank","rel":"noopener noreferrer","data-global-cta":"muscle_biceps","data-app-store-placement":"muscle_hero","children":"Start free on iPhone"}]}]]}]]}]
+6:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","article","barbell_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/barbell-curl","style":{"color":"inherit"},"children":[1,". ","Barbell Curl"]}]}],["$","span",null,{"children":["Barbell"," · ",8,"–",12," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"The barbell curl is a standing biceps exercise where you curl a straight or EZ bar from your thighs to your shoulders. It allows heavier loads than most curl variations, making it a staple for biceps size and strength."}]]}],["$","article","cable_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/cable-curl","style":{"color":"inherit"},"children":[2,". ","Cable Curl"]}]}],["$","span",null,{"children":["Cable"," · ",10,"–",15," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"A biceps curl done with a bar or handle attached to a low cable pulley. The cable keeps tension on the biceps through the whole range, including the bottom where dumbbells go slack. Useful for lifters of all levels as a main or finishing curl."}]]}],["$","article","concentration_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/concentration-curl","style":{"color":"inherit"},"children":[3,". ","Concentration Curl"]}]}],["$","span",null,{"children":["Dumbbells"," · ",10,"–",15," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"A seated, one-arm dumbbell curl with the elbow braced against the inner thigh. It removes body swing entirely, so it is a strict way to feel the biceps work. Useful as a finisher or for lifters learning to control a curl."}]]}],["$","article","dumbbell_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/dumbbell-curl","style":{"color":"inherit"},"children":[4,". ","Dumbbell Curl"]}]}],["$","span",null,{"children":["Dumbbells"," · ",10,"–",15," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"The dumbbell curl is a biceps exercise curling a dumbbell in each hand, alternating or together. Each arm works independently and the wrist can rotate freely, making it a versatile curl for all levels."}]]}],["$","article","hammer_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/hammer-curl","style":{"color":"inherit"},"children":[5,". ","Hammer Curl"]}]}],["$","span",null,{"children":["Dumbbells"," · ",10,"–",15," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"A dumbbell curl done with a neutral, palms-facing grip. It builds the brachialis and brachioradialis alongside the biceps, adding thickness to the upper arm and forearm. A good staple for anyone who wants bigger arms or a stronger grip."}]]}],["$","article","incline_dumbbell_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/incline-dumbbell-curl","style":{"color":"inherit"},"children":[6,". ","Incline Dumbbell Curl"]}]}],["$","span",null,{"children":["Dumbbells, Bench"," · ",10,"–",12," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"A dumbbell curl done lying back on an incline bench so the arms hang behind the body. This places the biceps on a long stretch at the start of each rep. A strong choice for lifters who want biceps size and already handle basic curls well."}]]}],["$","article","machine_preacher_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/machine-preacher-curl","style":{"color":"inherit"},"children":[7,". ","Machine Preacher Curl"]}]}],["$","span",null,{"children":["Machine"," · ",10,"–",15," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"The machine preacher curl braces your upper arms on an angled pad while you curl handles along a guided path. Because you cannot swing, it isolates the biceps well and loads them hard near the stretched bottom position, making it a good choice for arm growth at any level."}]]}],"$L18"]}]
+7:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":["Also trains the ","biceps"]}],["$","p",null,{"children":["These exercises work the ","biceps"," as a secondary muscle, which counts toward your weekly work but not as much as a direct set."]}],["$","div",null,{"className":"lib-grid","children":[["$","$L17","assisted_pull_up",{"className":"lib-link-card","href":"/exercises/assisted-pull-up-machine","children":[["$","strong",null,{"children":"Assisted Pull-up Machine"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","barbell_row",{"className":"lib-link-card","href":"/exercises/barbell-row","children":[["$","strong",null,{"children":"Barbell Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","chest_supported_row",{"className":"lib-link-card","href":"/exercises/chest-supported-row","children":[["$","strong",null,{"children":"Chest Supported Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","cable_row_close_grip",{"className":"lib-link-card","href":"/exercises/close-grip-cable-row","children":[["$","strong",null,{"children":"Close Grip Cable Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","close_grip_lat_pulldown",{"className":"lib-link-card","href":"/exercises/close-grip-lat-pulldown","children":[["$","strong",null,{"children":"Close Grip Lat Pulldown"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","dumbbell_row",{"className":"lib-link-card","href":"/exercises/dumbbell-row","children":[["$","strong",null,{"children":"Dumbbell Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","hs_high_row",{"className":"lib-link-card","href":"/exercises/hammer-strength-high-row","children":[["$","strong",null,{"children":"Hammer Strength High Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","hs_iso_lateral_pulldown",{"className":"lib-link-card","href":"/exercises/hammer-strength-iso-lateral-pulldown","children":[["$","strong",null,{"children":"Hammer Strength Iso-Lateral Pulldown"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","hs_iso_lateral_row",{"className":"lib-link-card","href":"/exercises/hammer-strength-iso-lateral-row","children":[["$","strong",null,{"children":"Hammer Strength Iso-Lateral Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","hs_low_row",{"className":"lib-link-card","href":"/exercises/hammer-strength-low-row","children":[["$","strong",null,{"children":"Hammer Strength Low Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","hs_pulldown",{"className":"lib-link-card","href":"/exercises/hammer-strength-pulldown","children":[["$","strong",null,{"children":"Hammer Strength Pulldown"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","inverted_row",{"className":"lib-link-card","href":"/exercises/inverted-row","children":[["$","strong",null,{"children":"Inverted Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","lat_pulldown",{"className":"lib-link-card","href":"/exercises/lat-pulldown","children":[["$","strong",null,{"children":"Lat Pulldown"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","meadows_row",{"className":"lib-link-card","href":"/exercises/meadows-row","children":[["$","strong",null,{"children":"Meadows Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","machine_row",{"className":"lib-link-card","href":"/exercises/plate-loaded-row-machine","children":[["$","strong",null,{"children":"Plate-Loaded Row Machine"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","pull_ups",{"className":"lib-link-card","href":"/exercises/pull-up","children":[["$","strong",null,{"children":"Pull-Up"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","cable_row",{"className":"lib-link-card","href":"/exercises/seated-cable-row","children":[["$","strong",null,{"children":"Seated Cable Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","t_bar_row",{"className":"lib-link-card","href":"/exercises/t-bar-row","children":[["$","strong",null,{"children":"T-Bar Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}],["$","$L17","cable_row_wide_grip",{"className":"lib-link-card","href":"/exercises/wide-grip-cable-row","children":[["$","strong",null,{"children":"Wide Grip Cable Row"}],["$","span",null,{"children":["Mainly ","back"]}]]}]]}]]}]
+8:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":["How much ","biceps"," work do the programs include?"]}],["$","p",null,{"children":["Direct weekly sets for the ","biceps"," in each free program. Secondary work is not counted."]}],["$","div",null,{"className":"lib-bars","children":[["$","div","arnold-split",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/arnold-split","style":{"color":"#d9d2c4"},"children":"Arnold Split"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"100%"}}]}],["$","span",null,{"children":11}]]}],["$","div","12-week-physique-plan",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/12-week-physique-plan","style":{"color":"#d9d2c4"},"children":"12-Week Physique Plan"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"90.9090909090909%"}}]}],["$","span",null,{"children":10}]]}],["$","div","bro-split",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/bro-split","style":{"color":"#d9d2c4"},"children":"5-Day Bro Split"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"90.9090909090909%"}}]}],["$","span",null,{"children":10}]]}],["$","div","push-pull-legs",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/push-pull-legs","style":{"color":"#d9d2c4"},"children":"Push Pull Legs"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"54.54545454545454%"}}]}],["$","span",null,{"children":6}]]}],["$","div","ppl-upper-lower-hybrid",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/ppl-upper-lower-hybrid","style":{"color":"#d9d2c4"},"children":"PPL + Upper/Lower Hybrid"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"45.45454545454545%"}}]}],["$","span",null,{"children":5}]]}],["$","div","upper-lower-split",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/upper-lower-split","style":{"color":"#d9d2c4"},"children":"Upper/Lower Split"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"36.36363636363637%"}}]}],["$","span",null,{"children":4}]]}],["$","div","full-body-workout-3-days",{"className":"lib-bar","children":[["$","$L17",null,{"href":"/programs/full-body-workout-3-days","style":{"color":"#d9d2c4"},"children":"3-Day Full Body Workout"}],["$","div",null,{"className":"lib-bar-track","children":["$","div",null,{"className":"lib-bar-fill","style":{"width":"36.36363636363637%"}}]}],["$","span",null,{"children":4}]]}]]}]]}]
+9:["$","section",null,{"className":"lib-wrap lib-section","children":[["$","h2",null,{"children":"Other muscle groups"}],["$","ul",null,{"className":"lib-chips","children":[["$","li","chest",{"children":["$","$L17",null,{"href":"/muscles/chest","children":"Chest"}]}],["$","li","back",{"children":["$","$L17",null,{"href":"/muscles/back","children":"Back"}]}],["$","li","front-delts",{"children":["$","$L17",null,{"href":"/muscles/front-delts","children":"Front Delts"}]}],["$","li","side-delts",{"children":["$","$L17",null,{"href":"/muscles/side-delts","children":"Side Delts"}]}],["$","li","rear-delts",{"children":["$","$L17",null,{"href":"/muscles/rear-delts","children":"Rear Delts"}]}],["$","li","traps",{"children":["$","$L17",null,{"href":"/muscles/traps","children":"Traps"}]}],["$","li","triceps",{"children":["$","$L17",null,{"href":"/muscles/triceps","children":"Triceps"}]}],["$","li","abs",{"children":["$","$L17",null,{"href":"/muscles/abs","children":"Abs"}]}],["$","li","quads",{"children":["$","$L17",null,{"href":"/muscles/quads","children":"Quads"}]}],["$","li","hamstrings",{"children":["$","$L17",null,{"href":"/muscles/hamstrings","children":"Hamstrings"}]}],["$","li","glutes",{"children":["$","$L17",null,{"href":"/muscles/glutes","children":"Glutes"}]}],["$","li","calves",{"children":["$","$L17",null,{"href":"/muscles/calves","children":"Calves"}]}]]}]]}]
+a:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"8 Best Biceps Exercises (With Form Tips) | Surpass"}],["$","meta","1",{"name":"description","content":"The best biceps exercises for size and strength, including barbell curl, cable curl, concentration curl. How to do each one, rep ranges, and how many weekly sets to aim for."}],["$","meta","2",{"name":"author","content":"Surpass"}],["$","meta","3",{"name":"keywords","content":"progressive overload app,gym workout tracker,next set targets,workout log,Hevy alternative,Strong alternative,1RM calculator,plate calculator"}],["$","meta","4",{"name":"creator","content":"Surpass"}],["$","meta","5",{"name":"publisher","content":"Surpass"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://jacked.coach/muscles/biceps/"}],["$","meta","8",{"property":"og:title","content":"8 Best Biceps Exercises (With Form Tips)"}],["$","meta","9",{"property":"og:description","content":"The best biceps exercises for size and strength, including barbell curl, cable curl, concentration curl. How to do each one, rep ranges, and how many weekly sets to aim for."}],["$","meta","10",{"property":"og:url","content":"https://jacked.coach/muscles/biceps/"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Surpass — Gym Log with Next-Set Targets"}],["$","meta","13",{"name":"twitter:description","content":"Beat last week. Every set shows a target beside what you lifted last time. Free on iPhone, no account required."}],["$","meta","14",{"name":"twitter:image","content":"https://jacked.coach/og-image.png"}]]}]}]}],null]}]
+f:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+15:true
+18:["$","article","preacher_curl",{"className":"lib-day","children":[["$","div",null,{"className":"lib-day-head","children":[["$","h3",null,{"children":["$","$L17",null,{"href":"/exercises/preacher-curl","style":{"color":"inherit"},"children":[8,". ","Preacher Curl"]}]}],["$","span",null,{"children":["EZ bar, Bench"," · ",10,"–",12," reps @ ","1"," RIR"]}]]}],["$","p",null,{"children":"A biceps curl done with the upper arms resting on an angled pad, usually with an EZ bar. The pad stops any swinging and makes the bottom of the curl the hardest part. Good for anyone who cheats on standing curls or wants strict biceps work."}]]}]
+1b:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"
