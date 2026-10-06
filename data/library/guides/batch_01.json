@@ -1,0 +1,1109 @@
+{
+  "hammer_curl": {
+    "summary": "A dumbbell curl done with a neutral, palms-facing grip. It builds the brachialis and brachioradialis alongside the biceps, adding thickness to the upper arm and forearm. A good staple for anyone who wants bigger arms or a stronger grip.",
+    "musclesNote": "The neutral grip puts the biceps in a weaker pulling position, so the brachialis and brachioradialis do more of the work. That is why hammer curls hit the forearm and the outer arm more than a supinated curl.",
+    "setup": [
+      "Stand tall holding a dumbbell in each hand at your sides.",
+      "Turn your palms to face your thighs, thumbs pointing forward.",
+      "Pin your elbows lightly against your ribs.",
+      "Brace your abs and set your shoulders back and down."
+    ],
+    "execution": [
+      "Curl the dumbbells up, keeping the palms facing each other the whole time.",
+      "Stop when your forearms are near vertical and squeeze briefly.",
+      "Lower under control over about two seconds to full elbow extension.",
+      "Alternate arms or lift both together; keep the elbows from drifting forward."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Swinging the torso",
+        "fix": "Lighten the load until you can curl without leaning back or using hip drive."
+      },
+      {
+        "mistake": "Elbows drifting forward",
+        "fix": "Keep the elbows near your sides so the arm, not the front delt, lifts the weight."
+      },
+      {
+        "mistake": "Half reps at the bottom",
+        "fix": "Straighten the arm fully between reps so you train the whole range."
+      }
+    ],
+    "progression": "Work up to the top of a rep range like 8-12 on every set before adding weight. Dumbbell jumps are often large, so add reps first or use a cross-body or seated variation to keep progressing.",
+    "faq": [
+      {
+        "q": "Are hammer curls better than regular curls?",
+        "a": "Neither is better; they bias different muscles. Regular curls load the biceps more, while hammer curls bring in the brachialis and forearms. Most people do well with both in a program."
+      },
+      {
+        "q": "Do hammer curls build forearms?",
+        "a": "Yes. The brachioradialis, the big muscle on top of the forearm, works hard in a neutral-grip curl. They are one of the most effective direct forearm builders you can do."
+      }
+    ]
+  },
+  "cable_curl": {
+    "summary": "A biceps curl done with a bar or handle attached to a low cable pulley. The cable keeps tension on the biceps through the whole range, including the bottom where dumbbells go slack. Useful for lifters of all levels as a main or finishing curl.",
+    "musclesNote": "The biceps flex the elbow and turn the palm up, so a supinated grip on a straight or EZ attachment trains them directly. The brachialis and forearm flexors assist but are not the focus.",
+    "setup": [
+      "Attach a straight bar, EZ bar, or rope to a low pulley.",
+      "Grab the attachment with an underhand, shoulder-width grip.",
+      "Stand a step back from the stack so the cable pulls slightly forward at the bottom.",
+      "Brace, stand tall, and keep your elbows at your sides."
+    ],
+    "execution": [
+      "Curl the handle toward your shoulders without moving your upper arms.",
+      "Squeeze the biceps at the top for a moment.",
+      "Lower slowly until the elbows are fully straight and you feel the stretch.",
+      "Keep constant tension; do not let the weight stack rest between reps."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Leaning back to finish reps",
+        "fix": "Reduce the weight and keep the torso still so the biceps do the work."
+      },
+      {
+        "mistake": "Elbows flaring and rising",
+        "fix": "Keep the elbows tucked at your sides; if they come forward, the load is too heavy."
+      },
+      {
+        "mistake": "Stopping short of extension",
+        "fix": "Let the arms straighten fully at the bottom to train the stretched position."
+      }
+    ],
+    "progression": "Add reps within your target range before moving the pin down a plate. If stack jumps are too big, add a small add-on weight or slow the lowering phase instead.",
+    "faq": [
+      {
+        "q": "Are cable curls better than dumbbell curls?",
+        "a": "Cables keep tension at the bottom of the curl, while dumbbells are easier to load and progress unilaterally. Both build the biceps well; many people use cables as a second curl variation."
+      },
+      {
+        "q": "Which attachment is best for cable curls?",
+        "a": "A straight bar gives the most supination and biceps emphasis, an EZ bar is easier on the wrists, and a rope shifts work toward the brachialis. Pick the one that feels best on your joints."
+      }
+    ]
+  },
+  "tricep_pushdown": {
+    "summary": "An elbow extension done standing at a high cable pulley, pushing a bar or rope down to your thighs. It is a simple, joint-friendly way to add triceps volume. Suits beginners learning to feel the triceps and advanced lifters adding volume.",
+    "musclesNote": "The triceps straighten the elbow, and all three heads work here. With the arms at your sides the lateral and medial heads do most of the work; overhead extensions bias the long head more.",
+    "setup": [
+      "Attach a straight bar, V-bar, or rope to a high pulley.",
+      "Grab the attachment and step close to the stack.",
+      "Hinge forward slightly at the hips and brace your abs.",
+      "Pin your elbows to your sides with forearms about parallel to the floor."
+    ],
+    "execution": [
+      "Push the handle down until your elbows are fully locked out.",
+      "Squeeze the triceps at the bottom for a moment.",
+      "Let the handle rise under control until your forearms pass parallel.",
+      "Keep the upper arms still; only the forearms move."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Elbows drifting up and forward",
+        "fix": "Keep the elbows pinned at your sides so it stays an elbow extension, not a press."
+      },
+      {
+        "mistake": "Leaning over the bar to move more weight",
+        "fix": "Use a load you can push with a mostly upright torso and still upper arms."
+      },
+      {
+        "mistake": "Partial lockout",
+        "fix": "Straighten the arm completely at the bottom of every rep."
+      }
+    ],
+    "progression": "Build to 12-15 clean reps before moving up a plate. Once heavy pushdowns stall, add an overhead extension or skull crusher to load the long head differently.",
+    "faq": [
+      {
+        "q": "Rope or bar for tricep pushdowns?",
+        "a": "A bar usually lets you move more weight, while a rope lets you spread your hands at the bottom for a stronger finish. Both work; choose the one that feels better on your elbows and wrists."
+      },
+      {
+        "q": "How many sets of tricep pushdowns should I do?",
+        "a": "Two to four sets of 10-15 reps is a sensible range after your main pressing. Adjust total triceps volume around how much benching and pressing you already do."
+      }
+    ]
+  },
+  "overhead_tricep_extension": {
+    "summary": "A triceps extension with a dumbbell held overhead, lowered behind the head and pressed back up. It trains the triceps in a deep stretch, especially the long head. Good for anyone wanting fuller upper arms who has decent shoulder mobility.",
+    "musclesNote": "The long head of the triceps crosses the shoulder, so raising the arm overhead stretches it and makes it work harder. The lateral and medial heads still help straighten the elbow.",
+    "setup": [
+      "Sit on a bench with back support or stand with a firm brace.",
+      "Hold one dumbbell with both hands cupped under the top plate.",
+      "Press it overhead with arms straight and elbows pointing forward.",
+      "Brace your abs so your lower back does not arch."
+    ],
+    "execution": [
+      "Bend the elbows to lower the dumbbell behind your head.",
+      "Go as deep as your shoulders allow, until you feel a strong triceps stretch.",
+      "Extend the elbows to press back to full lockout.",
+      "Keep the elbows pointing roughly forward rather than flaring wide."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Arching the lower back",
+        "fix": "Brace your abs and ribs down, or sit with back support, to keep the spine neutral."
+      },
+      {
+        "mistake": "Elbows flaring out",
+        "fix": "Keep the elbows narrow and pointing forward so the triceps stay loaded."
+      },
+      {
+        "mistake": "Cutting the stretch short",
+        "fix": "Lower until the forearms are close to the biceps, within a range your shoulders tolerate."
+      }
+    ],
+    "progression": "Add reps first, then move up in small dumbbell jumps. If heavy dumbbells become awkward to get overhead, switch to a cable or EZ-bar overhead extension.",
+    "faq": [
+      {
+        "q": "Is the overhead tricep extension good for the long head?",
+        "a": "Yes. Putting the arm overhead stretches the long head, which makes this one of the best ways to train it. Pair it with a pushdown for well-rounded triceps work."
+      },
+      {
+        "q": "Should I do overhead extensions seated or standing?",
+        "a": "Seated with back support makes it easier to keep the lower back neutral and focus on the triceps. Standing is fine if you can stay braced without arching."
+      }
+    ]
+  },
+  "skull_crusher": {
+    "summary": "A lying triceps extension where you lower an EZ bar toward your forehead or just behind your head, then extend back up. It is a heavy-hitting triceps builder for intermediate lifters. Best for those whose elbows tolerate loaded extension work.",
+    "musclesNote": "All three triceps heads straighten the elbow. Letting the upper arms angle slightly back toward the head increases the stretch on the long head.",
+    "setup": [
+      "Lie on a flat bench with your feet flat on the floor.",
+      "Hold the EZ bar with a close, slightly angled grip.",
+      "Press the bar up over your chest, then let your arms tilt slightly back toward your head.",
+      "Keep your shoulder blades set on the bench."
+    ],
+    "execution": [
+      "Bend the elbows to lower the bar toward your forehead or just behind your head.",
+      "Keep the upper arms mostly still as you lower over two to three seconds.",
+      "Extend the elbows to bring the bar back up, stopping short of letting arms go vertical.",
+      "Keep the elbows from flaring wide."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Turning it into a press",
+        "fix": "Keep the upper arms fixed; if they swing forward and back, reduce the weight."
+      },
+      {
+        "mistake": "Elbows flaring outward",
+        "fix": "Hold the elbows in roughly shoulder width so the triceps stay loaded."
+      },
+      {
+        "mistake": "Dropping the bar fast",
+        "fix": "Lower under control; the bottom position is where elbows get irritated."
+      }
+    ],
+    "progression": "Add reps before load, and use small plate jumps because the triceps move little weight here. If your elbows complain, switch to dumbbells or a cable overhead extension.",
+    "faq": [
+      {
+        "q": "Are skull crushers bad for your elbows?",
+        "a": "They can irritate elbows when done too heavy or too fast. Use moderate loads, control the lowering, and use an EZ bar; if pain persists, swap to a cable variation."
+      },
+      {
+        "q": "Should skull crushers go to the forehead or behind the head?",
+        "a": "Lowering slightly behind the head keeps tension on the triceps longer and stretches the long head more. To the forehead works too; pick the path that feels best."
+      }
+    ]
+  },
+  "dips": {
+    "summary": "A bodyweight press on parallel bars where you lower your body by bending the elbows and push back up. It builds the triceps, lower chest, and front delts. Suits lifters who can do several clean reps and have healthy shoulders.",
+    "musclesNote": "The triceps straighten the elbows and the chest and front delts push the arms down and forward. Leaning forward shifts more work to the chest; staying upright biases the triceps.",
+    "setup": [
+      "Grip the bars about shoulder width with a neutral grip.",
+      "Jump or step up to straight arms, shoulders pushed down away from your ears.",
+      "Cross or bend your legs behind you, or keep them straight under you.",
+      "Brace your abs so your body moves as one piece."
+    ],
+    "execution": [
+      "Lower by bending the elbows, keeping them pointed back rather than flaring out.",
+      "Descend until your upper arms are about parallel to the bars, or as deep as your shoulders tolerate.",
+      "Press back up to full elbow lockout.",
+      "Control the descent over two seconds; avoid bouncing at the bottom."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Shrugging at the bottom",
+        "fix": "Keep the shoulders pulled down and stop the descent before they roll forward."
+      },
+      {
+        "mistake": "Going too deep too soon",
+        "fix": "Stop around upper arms parallel until your shoulders are comfortable with more range."
+      },
+      {
+        "mistake": "Kipping out of the bottom",
+        "fix": "Use assistance or fewer reps rather than swinging the legs to finish."
+      }
+    ],
+    "progression": "Build to 3 sets of 12-15 strict bodyweight reps, then add load with a dip belt or a dumbbell between your feet. If you cannot do 5 reps, use an assisted machine or band.",
+    "faq": [
+      {
+        "q": "Are dips good for chest or triceps?",
+        "a": "Both. Leaning forward with elbows a bit wider emphasizes the chest, while staying upright with elbows tucked emphasizes the triceps."
+      },
+      {
+        "q": "Are dips bad for your shoulders?",
+        "a": "Not inherently, but very deep or rushed reps can aggravate them. Control the range, keep the shoulders down, and stop at a depth that feels solid."
+      }
+    ]
+  },
+  "cable_crunch": {
+    "summary": "A kneeling crunch against a high cable pulley, usually holding a rope by your head. It lets you load spinal flexion and progress the abs like any other muscle. Good for anyone who wants stronger, more visible abs beyond bodyweight work.",
+    "musclesNote": "The rectus abdominis flexes the spine, curling the ribs toward the pelvis. The movement should come from the trunk; if the hips fold, the hip flexors take over.",
+    "setup": [
+      "Attach a rope to a high pulley and kneel facing the stack.",
+      "Hold the rope ends beside your head or forehead.",
+      "Sit your hips slightly back and keep them fixed in place.",
+      "Start with a long, tall spine."
+    ],
+    "execution": [
+      "Curl your ribs down toward your hips, rounding the spine.",
+      "Drive your elbows toward your thighs while keeping the hips still.",
+      "Pause and exhale hard at the bottom.",
+      "Return slowly to the tall position, feeling the abs stretch."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Hinging at the hips",
+        "fix": "Lock your hips in place and think about rounding the spine, not bowing forward."
+      },
+      {
+        "mistake": "Pulling with the arms",
+        "fix": "Keep your hands fixed by your head; the arms just hold the rope."
+      },
+      {
+        "mistake": "Going too heavy",
+        "fix": "Pick a weight that lets you fully curl and control each rep."
+      }
+    ],
+    "progression": "Use 10-20 rep sets and add weight once you hit the top of your range with full curls. Add a pause at the bottom before moving up a plate.",
+    "faq": [
+      {
+        "q": "Are cable crunches good for abs?",
+        "a": "Yes. They let you add load steadily, which is hard to do with bodyweight crunches. That makes them one of the easiest ab exercises to progress."
+      },
+      {
+        "q": "Why do I feel cable crunches in my hip flexors or arms?",
+        "a": "Usually because you are hinging at the hips or pulling with your hands. Keep the hips fixed, the hands by your head, and focus on curling the ribs down."
+      }
+    ]
+  },
+  "hanging_leg_raise": {
+    "summary": "Hanging from a pull-up bar and raising your legs by curling the pelvis up. It trains the lower abs and hip flexors and also demands grip strength. Best for intermediate lifters; beginners can start with knee raises.",
+    "musclesNote": "The hip flexors lift the legs, but the abs do the real work when you curl the pelvis up and tilt it back. Without that posterior tilt it becomes mostly a hip flexor exercise.",
+    "setup": [
+      "Hang from a pull-up bar with an overhand, shoulder-width grip.",
+      "Pull your shoulders slightly down so you are not hanging limply.",
+      "Let your legs hang straight and still.",
+      "Brace your abs to stop the body from swinging."
+    ],
+    "execution": [
+      "Raise your legs while curling your pelvis up toward your ribs.",
+      "Lift until legs are at least parallel, or higher to bring the hips up.",
+      "Lower slowly over two to three seconds without swinging.",
+      "Reset any swing before the next rep."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Swinging for momentum",
+        "fix": "Pause in the dead hang and lower slowly so each rep starts from stillness."
+      },
+      {
+        "mistake": "Lifting legs without curling the pelvis",
+        "fix": "Think about tucking your tailbone up toward the bar at the top."
+      },
+      {
+        "mistake": "Grip giving out first",
+        "fix": "Use straps or ab slings so the abs, not the hands, limit the set."
+      }
+    ],
+    "progression": "Start with bent-knee raises and move to straight legs once you can do 10-15 controlled reps. Later progress to toes-to-bar or add a light dumbbell between the feet.",
+    "faq": [
+      {
+        "q": "Do hanging leg raises work lower abs?",
+        "a": "They emphasize the lower part of the rectus abdominis when you curl the pelvis up. The whole muscle contracts, but the bottom-up movement shifts the feel lower."
+      },
+      {
+        "q": "Hanging leg raise vs. knee raise?",
+        "a": "Knee raises are easier because the lever is shorter. Use them to build up, then move to straight-leg raises for more challenge."
+      }
+    ]
+  },
+  "plank": {
+    "summary": "A static hold on forearms and toes with the body in a straight line. It trains the abs and deep core to resist sagging and hold the spine steady. A solid starting point for beginners and a useful accessory for everyone.",
+    "musclesNote": "The abs and obliques work to stop the hips sagging and the lower back arching. Glutes and quads help hold the straight line; squeezing them makes the hold harder.",
+    "setup": [
+      "Place your forearms on the floor with elbows under your shoulders.",
+      "Step your feet back so your body forms a straight line.",
+      "Set your feet hip width apart.",
+      "Tuck your pelvis slightly and squeeze your glutes."
+    ],
+    "execution": [
+      "Brace your abs as if bracing for a punch and hold.",
+      "Keep the hips level with the shoulders; no sagging or piking.",
+      "Breathe steadily without losing the brace.",
+      "Stop the set when your form breaks, not when the clock says."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Hips sagging",
+        "fix": "Squeeze the glutes and tuck the pelvis slightly to bring the hips up in line."
+      },
+      {
+        "mistake": "Hips piked high",
+        "fix": "Lower the hips until your body forms a straight line from head to heels."
+      },
+      {
+        "mistake": "Holding for minutes with poor form",
+        "fix": "Hold shorter with a hard brace instead of chasing long times."
+      }
+    ],
+    "progression": "Once you can hold a hard brace for 45-60 seconds, make it harder rather than longer: add weight on the back, lift one limb, or move to an ab wheel.",
+    "faq": [
+      {
+        "q": "How long should I hold a plank?",
+        "a": "For most people 20-60 seconds with a strong brace is plenty. If you can hold longer easily, progress to a harder variation instead."
+      },
+      {
+        "q": "Do planks build visible abs?",
+        "a": "Planks strengthen the core but do little to grow the abs on their own. Visible abs depend mostly on body fat, plus loaded exercises like cable crunches."
+      }
+    ]
+  },
+  "shrugs": {
+    "summary": "Holding a loaded barbell at arm's length and shrugging the shoulders straight up toward your ears. It is the simplest way to load the upper traps heavily. Good for lifters wanting thicker traps or extra upper-back work.",
+    "musclesNote": "The upper traps elevate the shoulder blades, which is the whole movement here. Heavy shrugs also tax grip and forearms, though those are not the target.",
+    "setup": [
+      "Set the bar in a rack around mid-thigh height.",
+      "Grip it overhand just outside your thighs, or use straps.",
+      "Unrack and stand tall with arms straight.",
+      "Brace your abs and keep your chin neutral."
+    ],
+    "execution": [
+      "Shrug your shoulders straight up toward your ears.",
+      "Hold the top for a one-second squeeze.",
+      "Lower slowly until your shoulders are fully depressed.",
+      "Keep your arms straight; do not bend the elbows."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Rolling the shoulders",
+        "fix": "Move straight up and down; rolling adds nothing and strains the joints."
+      },
+      {
+        "mistake": "Tiny range of motion",
+        "fix": "Use a load that lets you lift high and lower fully each rep."
+      },
+      {
+        "mistake": "Bending the elbows",
+        "fix": "Keep the arms straight like hooks so the traps do the lifting."
+      }
+    ],
+    "progression": "Add weight in 5-10 lb jumps once you hit the top of your rep range with full pauses. Use straps when grip limits the set before the traps.",
+    "faq": [
+      {
+        "q": "Are barbell shrugs worth doing?",
+        "a": "They are worth it if you want bigger upper traps. Deadlifts and rows train the traps too, so shrugs are optional for general strength."
+      },
+      {
+        "q": "Dumbbell vs. barbell shrugs?",
+        "a": "Barbell shrugs allow heavier loads; dumbbells let arms hang at your sides for a more natural path. Both work well."
+      }
+    ]
+  },
+  "hammer_strength_plate_loaded_seated_standing_shrug": {
+    "summary": "A plate-loaded shrug machine you can use seated or standing, gripping handles beside you. It loads the upper traps heavily without balancing a bar. Good for lifters who want stable, heavy trap work with less grip and balance demand.",
+    "musclesNote": "The upper traps lift the shoulder blades toward the ears. The machine's handles sit at your sides, so the arms hang naturally and the traps take the load directly.",
+    "setup": [
+      "Choose seated or standing and set the seat if needed so handles sit at arm's length.",
+      "Load plates evenly on both sides.",
+      "Grab the handles with a neutral grip and stand or sit tall.",
+      "Brace your abs and keep your chin neutral."
+    ],
+    "execution": [
+      "Shrug the shoulders straight up toward your ears.",
+      "Pause briefly at the top.",
+      "Lower slowly until your shoulders are fully down and stretched.",
+      "Keep the arms straight throughout."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Bending the elbows",
+        "fix": "Keep the arms straight so the traps lift the load, not the biceps."
+      },
+      {
+        "mistake": "Rushing reps",
+        "fix": "Pause at the top and lower over two seconds to keep tension on the traps."
+      },
+      {
+        "mistake": "Loading too heavy for full range",
+        "fix": "Pick a weight that lets you shrug high and lower fully."
+      }
+    ],
+    "progression": "Add plates once you reach the top of your rep range with full pauses. Use straps when grip fails first.",
+    "faq": [
+      {
+        "q": "Is a shrug machine better than barbell shrugs?",
+        "a": "Not better, just easier to set up and more stable. It lets you focus on the traps without balancing a bar against your legs."
+      },
+      {
+        "q": "Seated or standing on the shrug machine?",
+        "a": "Seated cuts out leg drive and keeps you honest. Standing allows more load; use whichever lets you train the full range."
+      }
+    ]
+  },
+  "wrist_curl": {
+    "summary": "A small-range curl where you flex the wrist with a dumbbell while your forearm rests on your thigh or a bench. It isolates the forearm flexors on the palm side of the forearm. Useful for lifters who want bigger forearms or more grip endurance.",
+    "musclesNote": "The forearm flexors bend the wrist and close the fingers. Letting the dumbbell roll down to the fingertips adds finger-flexor work.",
+    "setup": [
+      "Sit on a bench holding a dumbbell with a palm-up grip.",
+      "Rest your forearm on your thigh or the bench, wrist just past the edge.",
+      "Let the wrist hang back with the weight.",
+      "Keep the forearm fixed in place."
+    ],
+    "execution": [
+      "Curl the wrist up as far as you can.",
+      "Squeeze briefly at the top.",
+      "Lower slowly until the wrist is fully extended.",
+      "Optionally let the dumbbell roll to your fingertips and curl it back."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Lifting the forearm",
+        "fix": "Keep the forearm pinned so only the wrist moves."
+      },
+      {
+        "mistake": "Going too heavy",
+        "fix": "Use light weights and higher reps for a full range of motion."
+      },
+      {
+        "mistake": "Bouncing at the bottom",
+        "fix": "Lower under control and pause before curling up again."
+      }
+    ],
+    "progression": "Use 15-25 rep sets and add weight in small jumps. Add reverse wrist curls to balance the forearm extensors.",
+    "faq": [
+      {
+        "q": "Do wrist curls build forearm size?",
+        "a": "Yes. They target the flexors on the palm side of the forearm, which make up much of its bulk. High reps with a full range work best."
+      },
+      {
+        "q": "Wrist curls vs. hammer curls for forearms?",
+        "a": "Wrist curls train the flexors on the inside of the forearm, while hammer curls hit the brachioradialis on top. Doing both covers the forearm well."
+      }
+    ]
+  },
+  "push_ups": {
+    "summary": "A bodyweight press where you lower your chest to the floor and push back up. It builds the chest, triceps, and front delts and teaches full-body tension. Works for beginners through advanced lifters with easy scaling.",
+    "musclesNote": "The chest pushes the arms forward, the triceps straighten the elbows, and the front delts assist. The abs and glutes hold the body rigid.",
+    "setup": [
+      "Place your hands slightly wider than shoulders.",
+      "Step your feet back so your body is straight from head to heels.",
+      "Turn the elbow pits slightly forward.",
+      "Brace your abs and squeeze your glutes."
+    ],
+    "execution": [
+      "Lower your chest toward the floor with elbows about 30-45 degrees from your sides.",
+      "Go until your chest nearly touches the floor.",
+      "Push back up to full lockout, moving as one unit.",
+      "Keep the hips level throughout."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Sagging hips",
+        "fix": "Brace the abs and glutes to hold a straight line."
+      },
+      {
+        "mistake": "Elbows flared to 90 degrees",
+        "fix": "Tuck the elbows to about 45 degrees."
+      },
+      {
+        "mistake": "Half reps",
+        "fix": "Lower until the chest nearly touches the floor each rep."
+      }
+    ],
+    "progression": "Start with incline push-ups if needed. Once you can do 20+ clean reps, add a weighted vest, deficit, or slow tempo.",
+    "faq": [
+      {
+        "q": "Are push-ups as good as bench press for chest?",
+        "a": "For building muscle, push-ups taken close to failure work well. Bench press is easier to load heavily, so stronger lifters need harder push-up variations to keep progressing."
+      },
+      {
+        "q": "How many push-ups should I do a day?",
+        "a": "You do not need to do them daily. Two to four hard sets, two or three times a week, is enough for most people to keep improving."
+      }
+    ]
+  },
+  "inverted_row": {
+    "summary": "A bodyweight row where you hang under a bar set in a rack and pull your chest up to it. It builds the upper back and biceps. Great for beginners and as a high-rep back finisher.",
+    "musclesNote": "The lats, rhomboids, and mid traps pull the shoulder blades and arms back. The biceps bend the elbows; a wider grip shifts more work to the upper back.",
+    "setup": [
+      "Set a bar in a rack around waist height.",
+      "Lie underneath and grab the bar slightly wider than shoulder width.",
+      "Straighten your body with heels on the floor.",
+      "Brace your abs and glutes."
+    ],
+    "execution": [
+      "Pull your chest to the bar, driving the elbows back.",
+      "Squeeze the shoulder blades together at the top.",
+      "Lower until arms are fully straight.",
+      "Keep the body in a straight line."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Hips sagging",
+        "fix": "Squeeze the glutes and brace the abs to stay rigid."
+      },
+      {
+        "mistake": "Pulling only with the arms",
+        "fix": "Start each rep by squeezing the shoulder blades back."
+      },
+      {
+        "mistake": "Partial range",
+        "fix": "Touch the chest to the bar and fully straighten the arms."
+      }
+    ],
+    "progression": "Make it harder by lowering the bar or elevating your feet on a bench, so your body gets closer to horizontal. Once you can do 15 strict reps that way, add a weighted vest or plate on your chest.",
+    "faq": [
+      {
+        "q": "Are inverted rows good for beginners?",
+        "a": "Yes. You can scale them by raising or lowering the bar, so almost anyone can start. They also build the pulling strength that carries over to pull-ups."
+      },
+      {
+        "q": "Inverted rows vs. pull-ups?",
+        "a": "Inverted rows are a horizontal pull that hits the mid back and rear delts more, while pull-ups are vertical and lean on the lats. Both belong in a well-rounded program."
+      }
+    ]
+  },
+  "hs_incline_press": {
+    "summary": "A plate-loaded incline press machine that guides the handles up and in along a fixed arc. It targets the upper chest with far less balance demand than a barbell. Good for lifters who want stable upper-chest work they can push near failure.",
+    "musclesNote": "The clavicular (upper) fibers of the chest drive the arms up and across. The front delts work hard on any incline, and the triceps finish the lockout.",
+    "setup": [
+      "Set the seat so the handles start level with your upper chest.",
+      "Sit with your back flat against the pad and feet planted.",
+      "Grip the handles and set your shoulder blades back and down.",
+      "Brace your abs before the first rep."
+    ],
+    "execution": [
+      "Press the handles up and away until your arms are nearly straight.",
+      "Lower under control over two to three seconds until you feel a stretch across the chest.",
+      "Keep the shoulder blades pinned and elbows about 45 degrees from your torso.",
+      "Reverse smoothly at the bottom without bouncing."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Seat too low or high",
+        "fix": "Adjust so handles line up with your upper chest at the start."
+      },
+      {
+        "mistake": "Shoulders rolling forward",
+        "fix": "Keep shoulder blades pinned back throughout."
+      },
+      {
+        "mistake": "Short range of motion",
+        "fix": "Lower until you feel a stretch in the chest each rep."
+      }
+    ],
+    "progression": "Add reps before plates, then add 5-10 lb per side once you hit the top of your range. Keep both sides loaded evenly.",
+    "faq": [
+      {
+        "q": "Is the machine incline press good for upper chest?",
+        "a": "Yes. The incline path lines up with the upper chest, and the fixed track lets you push hard without balancing a bar. It is a reliable upper-chest builder."
+      },
+      {
+        "q": "Machine incline vs. barbell incline press?",
+        "a": "The machine is easier to learn and safer to take near failure without a spotter. The barbell demands more stability and is easier to test for strength. Both build the upper chest."
+      }
+    ]
+  },
+  "hs_decline_press": {
+    "summary": "A plate-loaded machine press where the handles travel down and away, like a decline bench press. It loads the lower chest and triceps along a fixed path. Good for heavy pressing volume with less shoulder strain than flat or incline work.",
+    "musclesNote": "The lower (sternal) fibers of the chest pull the arms down and across, which is what the decline path loads. The triceps straighten the elbows; front delts help less here than in flat or incline presses.",
+    "setup": [
+      "Adjust the seat so the handles start level with your lower chest.",
+      "Sit with your back and head against the pad and feet planted.",
+      "Grip the handles and pull your shoulder blades back and down.",
+      "Brace your abs before the first rep."
+    ],
+    "execution": [
+      "Press the handles down and out until your arms are nearly straight.",
+      "Return under control over two to three seconds until you feel a chest stretch.",
+      "Keep the elbows angled about 45 degrees from your torso.",
+      "Reverse smoothly at the bottom without bouncing off the stretch."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Seat set too high",
+        "fix": "Lower the seat until the handles start at your lower chest, not your collarbones."
+      },
+      {
+        "mistake": "Shoulders rolling forward at lockout",
+        "fix": "Keep the shoulder blades pinned so the chest, not the shoulders, finishes the rep."
+      },
+      {
+        "mistake": "Bouncing out of the bottom",
+        "fix": "Control the lowering and pause briefly before pressing."
+      }
+    ],
+    "progression": "Add reps until you hit the top of your range, then add 5-10 lb per side. Each side loads separately on most units, so keep the plates matched.",
+    "faq": [
+      {
+        "q": "Is the decline press machine good for lower chest?",
+        "a": "Yes. The downward pressing path lines up with the lower chest fibers, and the machine makes it easy to push hard safely. It works best alongside a flat or incline press, not instead of one."
+      },
+      {
+        "q": "Decline vs. flat press: which is better?",
+        "a": "Neither is better overall. Decline shortens the range and shifts emphasis to the lower chest, while flat pressing trains the chest more evenly. Many people use decline as a joint-friendly variation."
+      }
+    ]
+  },
+  "hs_iso_lateral_chest_press": {
+    "summary": "A plate-loaded seated chest press with independent arms, so each side presses its own load. It builds the chest, triceps, and front delts and exposes side-to-side gaps. Suits any level wanting stable, heavy pressing.",
+    "musclesNote": "The chest drives the arms forward and inward along the converging path, with the triceps finishing lockout and front delts assisting. Working arms independently stops the stronger side from taking over.",
+    "setup": [
+      "Set the seat so the handles line up with mid-chest.",
+      "Load the same plates on each side.",
+      "Sit with your back against the pad and feet planted.",
+      "Grip the handles and set your shoulder blades back and down."
+    ],
+    "execution": [
+      "Press both handles forward until arms are nearly straight, or alternate one arm at a time.",
+      "Lower under control until you feel a stretch in the chest.",
+      "Keep the elbows about 45 degrees from your torso.",
+      "Keep the shoulder blades pinned throughout the rep."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Seat height wrong",
+        "fix": "Adjust until the handles start at mid-chest, not at your shoulders or belly."
+      },
+      {
+        "mistake": "Shoulders shrugging forward",
+        "fix": "Keep your back flat and shoulder blades set against the pad."
+      },
+      {
+        "mistake": "Uneven pressing",
+        "fix": "Match the lowering speed and range on both sides, or train one arm at a time."
+      }
+    ],
+    "progression": "Add reps before adding plates, then go up 5-10 lb per side. Single-arm sets are a good way to bring up a lagging side.",
+    "faq": [
+      {
+        "q": "Is the iso-lateral chest press good for building chest?",
+        "a": "Yes. The converging path and stable seat let you load the chest hard without worrying about balance. It works well as a main press or a second chest movement."
+      },
+      {
+        "q": "Should I press one arm at a time?",
+        "a": "You can. Single-arm or alternating reps help fix imbalances and let you focus on each side, while both arms together allows more total load."
+      }
+    ]
+  },
+  "hs_low_row": {
+    "summary": "A plate-loaded, chest-supported seated row with handles that pull from low toward your torso. It builds the lats and mid back while keeping the lower back out of it. Good for heavy rowing without lower back fatigue.",
+    "musclesNote": "The low-to-high path pulls the elbows down and back along the body, emphasizing the lats. The rhomboids and mid traps squeeze the shoulder blades, while the biceps and rear delts assist.",
+    "setup": [
+      "Adjust the seat so the handles are reachable with your arms fully extended.",
+      "Sit with your chest against the pad and feet planted.",
+      "Grip the handles with a neutral or overhand grip.",
+      "Let your shoulders reach forward slightly to start."
+    ],
+    "execution": [
+      "Drive your elbows back and toward your hips.",
+      "Squeeze the shoulder blades together at the end of the pull.",
+      "Return slowly until the arms are straight and the shoulder blades are stretched forward.",
+      "Keep your chest on the pad throughout."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Leaning back off the pad",
+        "fix": "Keep the chest on the pad so the back muscles, not body momentum, move the load."
+      },
+      {
+        "mistake": "Short range",
+        "fix": "Let the arms straighten fully at the start of each rep to stretch the lats."
+      },
+      {
+        "mistake": "Shrugging up",
+        "fix": "Keep the shoulders down and drive the elbows back."
+      }
+    ],
+    "progression": "Add reps until the top of your range, then add 5-10 lb per side. Pause each rep briefly at the top before progressing load further.",
+    "faq": [
+      {
+        "q": "Does the low row work lats or upper back?",
+        "a": "It works both, with more lat emphasis because the elbows drive down toward the hips. A higher row with elbows wider hits the upper back more."
+      },
+      {
+        "q": "Is the machine row better than a barbell row?",
+        "a": "It is not better, but the chest support removes lower back fatigue, so you can focus on the back muscles. Barbell rows train more total-body stability."
+      }
+    ]
+  },
+  "hs_high_row": {
+    "summary": "A plate-loaded row where the handles start high and in front of you and pull down and back, between a row and a pulldown. It trains the lats and upper back. Good for lifters who want a heavy, stable back movement that's easy on the lower back.",
+    "musclesNote": "The lats pull the arms down and back, while the rhomboids, mid traps, and rear delts squeeze the shoulder blades. The biceps help bend the elbows.",
+    "setup": [
+      "Adjust the seat so you have to reach up slightly to grab the handles.",
+      "Sit with your chest or thighs braced against the pads.",
+      "Grab the handles and let the shoulders stretch up and forward.",
+      "Brace your abs and keep your chest up."
+    ],
+    "execution": [
+      "Pull the handles down and back toward your upper ribs.",
+      "Drive the elbows down and behind you.",
+      "Squeeze the shoulder blades together and pause briefly.",
+      "Return slowly until the arms are fully extended."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Leaning back to finish",
+        "fix": "Stay upright and braced against the pad."
+      },
+      {
+        "mistake": "Pulling with the arms first",
+        "fix": "Start each rep by pulling the shoulder blades down and back."
+      },
+      {
+        "mistake": "Cutting the stretch",
+        "fix": "Let the arms extend fully so the lats are stretched at the top."
+      }
+    ],
+    "progression": "Add reps before adding 5-10 lb per side. Use single-arm sets if one side lags.",
+    "faq": [
+      {
+        "q": "High row vs. lat pulldown?",
+        "a": "The high row path angles forward, so it blends a row and a pulldown. It hits lats and upper back in one movement with a fixed track."
+      },
+      {
+        "q": "Can I do the high row one arm at a time?",
+        "a": "Yes. Most units have independent arms, so single-arm work helps fix imbalances and improve your mind-muscle connection."
+      }
+    ]
+  },
+  "hs_iso_lateral_row": {
+    "summary": "A unilateral plate-loaded, chest-supported row with independent arms. It builds the lats and mid back while removing lower back fatigue. Suits all levels and is especially useful for fixing side-to-side imbalances.",
+    "musclesNote": "The lats, rhomboids, and mid traps pull the arms and shoulder blades back. The biceps help bend the elbows; a neutral grip with elbows tucked biases the lats.",
+    "setup": [
+      "Set the seat so the handles line up with your lower chest when arms are straight.",
+      "Load equal plates on both sides.",
+      "Sit with your chest against the pad and feet planted.",
+      "Grab the handles and let the shoulder blades reach forward."
+    ],
+    "execution": [
+      "Pull the handles back, driving the elbows past your torso.",
+      "Squeeze the shoulder blades together and pause briefly.",
+      "Return slowly until the arms are fully straight and you feel a stretch.",
+      "Train both arms at once, alternate, or do one side at a time."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Chest coming off the pad",
+        "fix": "Keep your chest on the pad so the back muscles do the work."
+      },
+      {
+        "mistake": "Jerking the weight",
+        "fix": "Pull smoothly and control the return."
+      },
+      {
+        "mistake": "Short reps",
+        "fix": "Let the arms extend fully between reps."
+      }
+    ],
+    "progression": "Add reps, then add 5-10 lb per side once you hit the top of your range. Single-arm sets allow higher loads per side.",
+    "faq": [
+      {
+        "q": "Is the iso-lateral row good for lats?",
+        "a": "Yes. Driving the elbows back toward your hips with a neutral grip puts the lats to work. Flare the elbows out to bias the upper back."
+      },
+      {
+        "q": "Iso-lateral row vs. dumbbell row?",
+        "a": "Both are unilateral. The machine is chest supported, easier to load, and removes lower back fatigue."
+      }
+    ]
+  },
+  "hs_pulldown": {
+    "summary": "A plate-loaded seated pulldown where you pull handles down from overhead along a fixed path. It builds the lats with more stability than a cable pulldown. Good for beginners building toward pull-ups and for anyone adding back volume.",
+    "musclesNote": "The lats pull the upper arms down toward your sides, with the biceps bending the elbows. The mid and lower traps help pull the shoulder blades down.",
+    "setup": [
+      "Adjust the thigh pad so your legs are locked in.",
+      "Sit tall and reach up to grab the handles.",
+      "Let your shoulders stretch up fully at the start.",
+      "Brace your abs and keep your chest up."
+    ],
+    "execution": [
+      "Pull the handles down toward your upper chest, driving the elbows down.",
+      "Squeeze the lats at the bottom for a moment.",
+      "Return slowly until your arms are fully extended overhead.",
+      "Keep the torso still and upright."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Leaning back too far",
+        "fix": "Stay mostly upright so the lats, not body swing, move the weight."
+      },
+      {
+        "mistake": "Not reaching full stretch",
+        "fix": "Let your arms straighten fully overhead each rep."
+      },
+      {
+        "mistake": "Shrugging up",
+        "fix": "Keep the shoulders down and pull with the elbows."
+      }
+    ],
+    "progression": "Add reps until the top of your range, then add plates. Move to weighted pull-ups once strength allows.",
+    "faq": [
+      {
+        "q": "Is the pulldown machine good for lats?",
+        "a": "Yes. It lets you load the lats through a full range of motion with good stability, making it one of the best lat builders."
+      },
+      {
+        "q": "Pulldown machine vs. pull-ups?",
+        "a": "The machine lets you adjust the load to any level; pull-ups require you to move your bodyweight. Use the machine to build volume and strength."
+      }
+    ]
+  },
+  "hs_iso_lateral_pulldown": {
+    "summary": "A plate-loaded pulldown with independent arms that arc from overhead down and slightly back. It builds the lats on a stable path and lets each side work alone. Good for heavy lat work or evening out a weaker side.",
+    "musclesNote": "The lats pull the upper arms down and back, while the biceps bend the elbows. The arc lets you pull the elbows behind the body for a strong lat contraction.",
+    "setup": [
+      "Adjust the seat and thigh pad so you are locked in.",
+      "Load equal plates on each side.",
+      "Reach up to grab the handles with a neutral or overhand grip.",
+      "Brace your abs and keep your chest up."
+    ],
+    "execution": [
+      "Pull the handles down and slightly back, driving the elbows toward your hips.",
+      "Pause briefly at the bottom.",
+      "Return slowly until the arms are fully extended overhead.",
+      "Train both arms together or one at a time."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Leaning back",
+        "fix": "Stay upright so the lats do the work."
+      },
+      {
+        "mistake": "Short range",
+        "fix": "Let the arms extend fully overhead at the top."
+      },
+      {
+        "mistake": "Uneven arms",
+        "fix": "Match the range and speed on both sides, or train one side at a time."
+      }
+    ],
+    "progression": "Add reps until you reach the top of your range, then add 5-10 lb per side. If one side lags, do single-arm sets starting with the weaker side and match reps on the stronger side.",
+    "faq": [
+      {
+        "q": "Iso-lateral pulldown vs. cable lat pulldown?",
+        "a": "The plate-loaded machine follows a fixed arc and loads each arm separately, which makes it easy to push hard. A cable pulldown lets you choose your own path. Both are effective lat builders."
+      },
+      {
+        "q": "Should I do the iso-lateral pulldown one arm at a time?",
+        "a": "It is worth trying. One arm at a time lets you get a longer stretch and stronger contraction on each side and helps fix imbalances; both arms together lets you handle more total load."
+      }
+    ]
+  },
+  "hs_shoulder_press": {
+    "summary": "A plate-loaded seated overhead press with handles that travel up a fixed, slightly converging path. It builds the front delts and triceps with less balance and lower back demand than a standing press. Good for any level.",
+    "musclesNote": "The front delts raise the arms overhead and the triceps straighten the elbows. The side delts assist, more so when the elbows stay out to the sides rather than in front.",
+    "setup": [
+      "Set the seat so the handles start around shoulder height or slightly below.",
+      "Sit with your back flat against the pad and feet planted.",
+      "Grip the handles with wrists stacked over the elbows.",
+      "Brace your abs and keep your ribs down."
+    ],
+    "execution": [
+      "Press the handles up until your arms are nearly straight overhead.",
+      "Lower under control until the handles are back around shoulder level.",
+      "Keep your back and head against the pad throughout.",
+      "Avoid bouncing at the bottom; reverse smoothly."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Arching off the pad",
+        "fix": "Keep your ribs down and your back on the pad so the shoulders do the pressing."
+      },
+      {
+        "mistake": "Seat too high",
+        "fix": "Lower the seat until the handles start at about shoulder height for a full range."
+      },
+      {
+        "mistake": "Half reps at the top",
+        "fix": "Press to near lockout and lower all the way to shoulder level each rep."
+      }
+    ],
+    "progression": "Add reps until the top of your range, then add 5-10 lb per side. Shoulders progress slowly, so expect smaller and less frequent load jumps than on chest pressing.",
+    "faq": [
+      {
+        "q": "Is the machine shoulder press as good as dumbbells?",
+        "a": "For building the delts it is just as effective, and easier to push near failure safely. Dumbbells demand more stability; using both is a good option."
+      },
+      {
+        "q": "Does the shoulder press machine work side delts?",
+        "a": "Some, but the front delts do most of the work. Add lateral raises if you want wider shoulders."
+      }
+    ]
+  },
+  "hs_v_squat": {
+    "summary": "A plate-loaded squat machine where you stand on an angled platform with pads on your shoulders and squat along a fixed path. It loads the quads heavily without balancing a bar. Good for lifters who want hard leg work with less lower back fatigue.",
+    "musclesNote": "The quads straighten the knees and do most of the work, especially with a deep knee bend. The glutes help extend the hips out of the bottom, more so with feet placed higher.",
+    "setup": [
+      "Step onto the platform and set the shoulder pads snugly on your shoulders.",
+      "Place your feet about hip width, in the middle of the platform.",
+      "Brace your abs and stand tall to release the safety.",
+      "Keep your back against the pad."
+    ],
+    "execution": [
+      "Bend your knees and hips to lower until your thighs are at least parallel to the platform.",
+      "Let your knees travel forward over your toes.",
+      "Drive through your whole foot to stand back up.",
+      "Stop just short of locking out the knees."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Cutting depth short",
+        "fix": "Lower until thighs are at least parallel to the platform each rep."
+      },
+      {
+        "mistake": "Heels lifting",
+        "fix": "Move your feet slightly higher until the heels stay down at the bottom."
+      },
+      {
+        "mistake": "Lower back rounding at the bottom",
+        "fix": "Stop at the depth where your back stays flat against the pad."
+      }
+    ],
+    "progression": "Add reps before adding plates, then go up 10-20 lb at a time. If heavy loads limit depth, use a lighter weight with a pause at the bottom.",
+    "faq": [
+      {
+        "q": "Is the V-squat good for quads?",
+        "a": "Yes. The fixed path and support let you push deep knee bends hard, which loads the quads very well."
+      },
+      {
+        "q": "V-squat vs. hack squat?",
+        "a": "Both are machine squats that emphasize the quads. The V-squat often places you more upright with an angled foot plate; the hack squat has you leaning back on a sled. Use whichever fits your body better."
+      }
+    ]
+  },
+  "hs_leg_press": {
+    "summary": "A plate-loaded leg press where you push a sled or footplate away from you while seated or reclined. It trains the quads and glutes heavily with little lower back or balance demand. Good for all levels as a main or second leg movement.",
+    "musclesNote": "The quads straighten the knees and the glutes extend the hips. A lower foot position biases the quads; a higher and wider position brings in more glutes.",
+    "setup": [
+      "Sit with your back and hips flat against the pad.",
+      "Place your feet about hip to shoulder width on the middle of the platform.",
+      "Grip the handles and brace your abs.",
+      "Release the safety stops and straighten your legs."
+    ],
+    "execution": [
+      "Lower the sled by bending your knees toward your chest.",
+      "Go as deep as you can while keeping your hips on the seat.",
+      "Press through your whole foot to return to the start.",
+      "Stop just short of locking out the knees."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Hips peeling off the seat",
+        "fix": "Reduce depth or load until your lower back and hips stay against the pad."
+      },
+      {
+        "mistake": "Knees caving in",
+        "fix": "Push your knees out in line with your toes."
+      },
+      {
+        "mistake": "Partial reps with heavy loads",
+        "fix": "Lower the weight and use a full, controlled range."
+      }
+    ],
+    "progression": "Add reps before plates, then add 10-20 lb at a time. When heavy sets stall, add a pause at the bottom or switch foot position for a new stimulus.",
+    "faq": [
+      {
+        "q": "Is the leg press as good as squats?",
+        "a": "For building the quads and glutes, it works very well. Squats train more balance and full-body strength, but the leg press is easier to push hard safely."
+      },
+      {
+        "q": "Where should I place my feet on the leg press?",
+        "a": "Middle of the platform, hip to shoulder width, is a good default. Lower targets the quads more; higher brings in more glutes."
+      }
+    ]
+  },
+  "hack_squat_machine": {
+    "summary": "A plate-loaded squat machine where you lean back against a sled with pads on your shoulders and squat along an angled track. It loads the quads hard with your back supported. Good for deep, heavy quad work without a barbell.",
+    "musclesNote": "The quads do most of the work straightening the knees, especially in the deep bottom position. The glutes help extend the hips; placing feet higher on the platform shifts more work to them.",
+    "setup": [
+      "Step onto the platform and place your back and shoulders against the pads.",
+      "Set your feet about hip width in the middle of the platform.",
+      "Brace your abs and stand up to release the safety.",
+      "Keep your back and head against the pad."
+    ],
+    "execution": [
+      "Bend your knees and lower until your thighs are at least parallel to the platform.",
+      "Let your knees travel forward over your toes.",
+      "Drive through your whole foot to stand back up.",
+      "Stop just short of locking the knees; lower over two to three seconds."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Shallow reps",
+        "fix": "Lower the load and go to at least parallel each rep."
+      },
+      {
+        "mistake": "Heels lifting",
+        "fix": "Move the feet slightly up the platform until heels stay down."
+      },
+      {
+        "mistake": "Hips coming off the pad",
+        "fix": "Stop at the depth where your back and hips stay in contact with the pad."
+      }
+    ],
+    "progression": "Add reps before adding plates, then add 10-20 lb at a time. Pauses at the bottom help when heavy sets stall.",
+    "faq": [
+      {
+        "q": "Is the hack squat better than barbell squats for quads?",
+        "a": "For quads specifically, many lifters find it better because the back support lets you go deep and push hard. Barbell squats train more balance and full-body strength."
+      },
+      {
+        "q": "Is the hack squat bad for knees?",
+        "a": "No, with controlled reps and a depth you can handle. Knees moving forward over toes is normal in this lift."
+      }
+    ]
+  },
+  "pendulum_squat": {
+    "summary": "A plate-loaded squat machine whose shoulder pads swing on a pivot, so you move in an arc instead of a straight line. It keeps the quads loaded through a very deep range. Good for lifters prioritizing quad size.",
+    "musclesNote": "The quads do most of the work, especially in the deep bottom position where the machine keeps tension high. The glutes help extend the hips, more so with a higher foot placement.",
+    "setup": [
+      "Step onto the platform and set the shoulder pads snugly.",
+      "Place your feet about hip width, slightly forward on the platform.",
+      "Brace your abs and push up to release the safety.",
+      "Keep your back against the pad."
+    ],
+    "execution": [
+      "Bend your knees and lower as deep as you can while staying in contact with the pad.",
+      "Let your knees travel well forward over your toes.",
+      "Drive through your whole foot to stand back up.",
+      "Lower over two to three seconds and pause briefly at the bottom."
+    ],
+    "mistakes": [
+      {
+        "mistake": "Cutting depth",
+        "fix": "Use a lighter load and go deep; the deep range is the main benefit."
+      },
+      {
+        "mistake": "Heels lifting",
+        "fix": "Move your feet slightly forward or up on the platform."
+      },
+      {
+        "mistake": "Bouncing out of the bottom",
+        "fix": "Lower under control and pause briefly before standing."
+      }
+    ],
+    "progression": "Add reps before adding plates. Small load jumps are enough; the deep range makes heavy weights feel much harder than on other machines.",
+    "faq": [
+      {
+        "q": "Pendulum squat vs. hack squat?",
+        "a": "Both are quad-focused machines. The pendulum's arc keeps tension high at the very bottom, while the hack squat follows a straight track. Use whichever feels better and allows the deepest range."
+      },
+      {
+        "q": "Is the pendulum squat good for glutes?",
+        "a": "It works the glutes some, but the quads do most of the work. Add hip thrusts or lunges for more glute focus."
+      }
+    ]
+  }
+}

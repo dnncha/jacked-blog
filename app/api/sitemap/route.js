@@ -1,5 +1,6 @@
 import { tools } from '../../tools/toolData.mjs'
 import { canonicalBlogPosts } from '../../blog/posts'
+import { exercises, musclePages, programs } from '../../library/libraryData.mjs'
 
 export const dynamic = 'force-static'
 
@@ -89,6 +90,26 @@ export async function GET() {
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
+  <url>
+    <loc>https://jacked.coach/exercises/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jacked.coach/programs/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  ${[
+    ...programs.map(program => [`/programs/${program.slug}/`, '0.9']),
+    ...musclePages.map(page => [`/muscles/${page.slug}/`, '0.85']),
+    ...exercises.map(exercise => [`/exercises/${exercise.slug}/`, '0.8']),
+  ].map(([path, priority]) => `
+  <url>
+    <loc>https://jacked.coach${path}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>${priority}</priority>
+  </url>`).join('')}
   ${tools.map(tool => `
   <url>
     <loc>https://jacked.coach/tools/${tool.slug}/</loc>
