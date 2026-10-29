@@ -24,7 +24,7 @@ export default function PrivacyPage() {
   return (
     <LegalPage
       title="Privacy Policy"
-      updated="Last updated: October 5, 2026"
+      updated="Last updated: October 29, 2026"
       intro="Surpass is an iPhone strength-training app that helps you log workouts and progress. You can use it without creating an account. This policy explains what the app stores, how app data is handled, and how to contact us."
     >
       <h2>Who we are</h2>
@@ -37,16 +37,21 @@ export default function PrivacyPage() {
       <ul>
         <li><strong>Workout data</strong>: exercises, sets, reps, weight, RIR, notes, rest timing, and timestamps.</li>
         <li><strong>Training preferences</strong>: your plan, experience level, preferred units, equipment choices, and training schedule.</li>
-        <li><strong>Progress data</strong>: personal records, volume trends, measurements, and progression history.</li>
-        <li><strong>Check-in photos</strong>: photos you choose to take in the app. They are stored on your device only, are not uploaded, and are not scored or compared with anyone else.</li>
+        <li><strong>Progress data</strong>: personal records, volume trends, body weight, body measurements, and progression history.</li>
+        <li><strong>Proof and Frame Check photos</strong>: photos you choose to take or import in the app. They are stored on your device only, are not uploaded, and are not compared with anyone else.</li>
       </ul>
+
+      <h2>Frame Check</h2>
+      <p>
+        Frame Check looks at the photos you take using Apple&apos;s on-device Vision framework to find body position and framing. The analysis runs on your iPhone. Photos, pose points, and results are not sent to us or to any other company. If we ever offer an optional cloud analysis, we will update this policy before it is available, name the company that processes the photos, say how long photos are kept, and ask for your permission in the app first.
+      </p>
 
       <h2>No account required</h2>
       <p>Surpass does not ask you to create an account or give us your name, email address, or phone number to use the app.</p>
 
       <h2>Data storage</h2>
       <p>
-        Workout history, preferences, progress data and check-in photos are stored on your device. Surpass does not operate servers that store that personal workout data. If an Apple system feature such as iCloud or HealthKit is enabled, that data is handled through your Apple account and Apple settings.
+        Workout history, preferences, progress data and photos are stored on your device. Surpass does not operate servers that store that personal data, and the app does not sync it to iCloud. If you use iCloud Backup or Apple Health, Apple handles that data through your Apple account and Apple settings.
       </p>
 
       <h2>Importing workouts</h2>
@@ -59,9 +64,17 @@ export default function PrivacyPage() {
         Analytics is off unless you choose &quot;Share usage&quot; during setup or turn it on in Settings. If you do, Surpass sends limited product-usage events to Mixpanel. These events use a random app-scoped installation identifier and aggregate milestones such as app launches, onboarding steps, workout starts and completions, receipt views, and share actions. They do not include exercise names, sets, weights, notes, workout IDs, photos, files, health data, location, or contact details. Mixpanel processes them on our behalf, and they are not used for advertising or cross-app tracking. You can turn Analytics off in Settings at any time.
       </p>
 
-      <h2>HealthKit</h2>
+      <h2>Apple Health (HealthKit)</h2>
       <p>
-        Surpass may request access to Apple HealthKit to read or write workout-related data. HealthKit access requires your explicit permission and can be changed in iOS Settings. HealthKit data is not used for advertising and is not sold.
+        Connecting Apple Health is optional and starts only when you choose Connect Apple Health in Settings. Surpass uses one type of Health data: <strong>body mass (body weight)</strong>.
+      </p>
+      <ul>
+        <li><strong>Read</strong>: Surpass reads body-weight entries from Apple Health, including entries saved by other apps or scales, to show your weight trend and to add your weight to progress-photo comparisons.</li>
+        <li><strong>Write</strong>: when you log a weigh-in in Surpass, it saves that entry to Apple Health.</li>
+        <li><strong>Delete</strong>: Delete all data in Settings asks Apple Health to remove the body-weight entries Surpass saved. Entries from other apps are left alone.</li>
+      </ul>
+      <p>
+        Surpass does not read or write sleep, heart-rate, step, energy, body-fat, or workout data in Apple Health. Health data stays on your device. It is not sent to us, not included in app analytics, not used for advertising or marketing, and not sold or shared with anyone. You can change or remove access at any time in the Health app or in iOS Settings &gt; Privacy &amp; Security &gt; Health &gt; Surpass.
       </p>
 
       <h2>Payments</h2>
@@ -81,7 +94,7 @@ export default function PrivacyPage() {
       <ul>
         <li><strong>Access</strong>: your workout data is visible inside the app.</li>
         <li><strong>Export</strong>: use the export option in the app to keep a copy of your workout history.</li>
-        <li><strong>Delete</strong>: removing the app removes local app data from the device, subject to your Apple backup and sync settings.</li>
+        <li><strong>Delete</strong>: Delete all data in Settings erases your workouts, measurements, photos and settings from the app, turns analytics off, and asks Apple Health to remove the body-weight entries Surpass saved there. Removing the app also removes its local data, subject to your Apple backup settings.</li>
         <li><strong>Analytics</strong>: turn usage sharing off in Settings at any time.</li>
       </ul>
       <p>
