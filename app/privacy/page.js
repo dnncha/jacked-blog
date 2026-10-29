@@ -66,7 +66,7 @@ export default function PrivacyPage() {
 
       <h2>Apple Health (HealthKit)</h2>
       <p>
-        Connecting Apple Health is optional and starts only when you choose Connect Apple Health in Settings. Surpass asks for one type of Health data: <strong>body mass (body weight)</strong>.
+        Connecting Apple Health is optional and starts only when you choose Connect Apple Health in Settings. Surpass uses one type of Health data: <strong>body mass (body weight)</strong>.
       </p>
       <ul>
         <li><strong>Read</strong>: Surpass reads body-weight entries from Apple Health, including entries saved by other apps or scales, to show your weight trend and to add your weight to progress-photo comparisons.</li>
