@@ -39,7 +39,7 @@ const comparison = [
   ['Each set', 'Your previous weights and reps to beat.', 'A weight and rep target beside your last result.'],
   ['Photos', 'Progress photos, free.', 'Frame Check: matched front, side and back photos. You mark what you see and get your next priority ranked.'],
   ['Social', 'A feed with followers, likes and comments.', 'No feed. Share a result only when you choose.'],
-  ['Price (US)', 'Free, with Hevy Pro at $23.99 a year or $74.99 lifetime.', 'Free logging and import. Pro is $12.99 a month or $59.99 a year, with a 7-day trial on annual.'],
+  ['Price (US)', 'Free, with Hevy Pro at $2.99 or $3.99 a month, $23.99 a year or $74.99 lifetime. Also on Android, Watch, Wear OS and desktop.', 'Free logging and import. Pro is $12.99 a month or $59.99 a year, with a 7-day trial on annual.'],
 ]
 
 const sources = [
@@ -55,6 +55,7 @@ const faqs = [
   { question: 'Hevy has free progress photos. Why pay for Surpass?', answer: 'Photos on their own do not tell you what to train. Surpass links them to a block: you pick the muscle, the plan gives it the sets, and Frame Check shows whether it is coming through. Logging, import and your first Frame Check read stay free.' },
   { question: 'Does Surpass rate my physique?', answer: 'No. There is no score and no comparison with other people, only with your own past check-ins. Your photos stay on your phone.' },
   { question: 'When should I stay with Hevy?', answer: 'If you want free logging with friends, a social feed, or a very large exercise library with videos, Hevy is a strong choice. You can also use both: keep Hevy for its community and import your history into Surpass whenever you want to try a block.' },
+  { question: 'Is Surpass on Android?', answer: 'No. Surpass runs on iPhone. There is no Android version.' },
 ]
 
 export default function SurpassVsHevyPage() {
@@ -81,7 +82,8 @@ export default function SurpassVsHevyPage() {
     comparisonMomentLabel="Moment"
     comparisonLeftLabel="Hevy"
     sources={sources}
-    sourcesNote="Hevy details and prices were checked on 29 September 2026 and may have changed since."
+    sourcesNote="Hevy details and prices were checked on 3 November 2026 and may have changed since."
+    verdict={{"summary": "If you want a free log, friends and a big exercise library, use Hevy. If you want an app to decide where your sets go so one body part grows, try Surpass.", "checked": "3 November 2026", "sections": [{"title": "Where Hevy is better", "items": ["It’s free for most people, and Hevy Pro ($2.99 or $3.99 a month, $23.99 a year, $74.99 lifetime) costs less than Surpass Pro.", "It runs on Android, Apple Watch, Wear OS and desktop. Surpass runs on iPhone. There is no Android version.", "The community. If training with friends keeps you going, Hevy has it and Surpass doesn’t.", "Exercise videos and a large library."]}, {"title": "Who should pick Hevy", "copy": "Anyone who wants a solid free log, trains with friends, uses Android, or wants to log from a watch."}, {"title": "Who should pick Surpass", "copy": "iPhone lifters who care about how they look, want the plan to put extra sets on one muscle, and want private photos that show if it’s working."}]}}
     faqs={faqs}
     faqTitle="Questions before choosing between Surpass and Hevy."
     related={[

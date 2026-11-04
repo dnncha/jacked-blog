@@ -45,6 +45,7 @@ const faqs = [
   { question: 'What Strong data can Surpass read?', answer: 'Supported fields include workout dates and names, exercise names, set order, weight and units, reps, RPE, distance, duration, and notes when those fields are present.' },
   { question: 'Does Surpass need my Strong login?', answer: 'No. Surpass imports the CSV file you select on your iPhone and does not request access to your Strong account.' },
   { question: 'Can I undo a Strong import?', answer: 'Yes. Imported sessions and their derived history can be removed separately without deleting workouts you logged manually in Surpass.' },
+  { question: 'Is Surpass on Android?', answer: 'No. Surpass runs on iPhone. There is no Android version.' },
 ]
 
 export default function StrongAlternativePage() {
@@ -68,6 +69,7 @@ export default function StrongAlternativePage() {
     comparisonTitle="Switch the app, not the training record."
     comparisonIntro="A useful migration preserves the details you rely on before your next working set."
     comparisonLabel="Starting over and importing Strong workout history comparison"
+    verdict={{"summary": "Strong is one of the simplest, fastest logs there is. Keep it if logging is all you want. Try Surpass if you want the app to plan your week around one body part.", "checked": "3 November 2026", "sections": [{"title": "Where Strong is better", "items": ["Simpler and faster to log. Strong’s whole pitch is “think less, lift more”, and it delivers.", "Android support. Surpass runs on iPhone. There is no Android version.", "A lifetime PRO option ($99.99 Forever on the US App Store, or $4.99 a month, $29.99 a year). Surpass has no lifetime plan.", "A long track record and a huge review base (4.9 from 125K reviews, Strong’s figures)."]}, {"title": "Who should pick Strong", "copy": "Lifters who already know their program and just want to write it down quickly, on any phone."}, {"title": "Who should pick Surpass", "copy": "iPhone lifters who want the plan made for them, aimed at one muscle, with private photos to check progress."}]}}
     faqs={faqs}
     faqTitle="Questions about moving from Strong."
     related={[

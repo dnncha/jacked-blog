@@ -79,6 +79,7 @@ export default function AcquisitionLanding({
   sources = [],
   sourcesNote = '',
   dockTitle = 'Keep your next set clear.',
+  verdict = null,
 }) {
   const copyVersion = 'acquisition_promise_v2'
   const heroActionsRef = useRef(null)
@@ -427,6 +428,24 @@ export default function AcquisitionLanding({
           </div>
         </div>
       </section>
+
+      {verdict && (
+        <section className="acquisition-section acquisition-verdict" aria-labelledby="short-answer">
+          <div className="acquisition-wrap">
+            <div className="acquisition-heading">
+              <h2 id="short-answer">The short answer</h2>
+              <p>{verdict.summary}</p>
+            </div>
+            {verdict.sections.map(({ title, items, copy }) => (
+              <div className="acquisition-verdict-block" key={title}>
+                <h3>{title}</h3>
+                {items ? <ul>{items.map((item) => <li key={item}>{item}</li>)}</ul> : <p>{copy}</p>}
+              </div>
+            ))}
+            <p className="acquisition-verdict-checked">Last checked: {verdict.checked}.</p>
+          </div>
+        </section>
+      )}
 
       <section className="acquisition-section">
         <div className="acquisition-wrap">
