@@ -36,7 +36,7 @@ for (const [route, page] of Object.entries(comparisonPages)) {
   assert.ok(source.includes(`canonicalPath="${route}"`), `${route} must set its canonical schema path`)
   assert.ok(source.includes(`canonical: 'https://jacked.coach${route}/'`), `${route} must set its canonical URL`)
   assert.ok(source.includes('sources={sources}'), `${route} must cite where competitor facts came from`)
-  assert.ok(source.includes('checked on 29 September 2026'), `${route} must date its competitor facts`)
+  assert.ok(/checked on (29 September|3 November) 2026/.test(source), `${route} must date its competitor facts`)
   assert.ok(source.includes(page.rival), `${route} must name the compared product`)
   assert.ok(source.includes('$59.99 a year'), `${route} must state the current annual price`)
 }

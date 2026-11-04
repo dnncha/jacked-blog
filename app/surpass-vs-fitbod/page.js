@@ -37,7 +37,7 @@ const comparison = [
   ['Who decides the workout', 'An algorithm recommends muscles and exercises each session from your training history and recovery.', 'You choose the muscle you want people to notice; the block gives it extra weekly sets.'],
   ['Week to week', 'Workouts update as the algorithm learns, so sessions can change often.', 'A block of weeks with the same anchor lifts, so loads can progress.'],
   ['Seeing progress', 'Your logged workouts and lift history.', 'A body map of this week’s sets, plus matched Frame Check photos compared only with your own past.'],
-  ['Price (US)', '$15.99 a month or $95.99 a year, with a 7-day free trial. Duo and Family plans are also offered.', 'Free logging and import. Pro is $12.99 a month or $59.99 a year, with a 7-day trial on annual.'],
+  ['Price (US)', 'Fitbod Elite is $12.99 or $15.99 a month, $79.99 or $95.99 a year, depending on the App Store tier, with a 7-day free trial.', 'Free logging and import. Pro is $12.99 a month or $59.99 a year, with a 7-day trial on annual.'],
 ]
 
 const sources = [
@@ -79,7 +79,8 @@ export default function SurpassVsFitbodPage() {
     comparisonMomentLabel="Moment"
     comparisonLeftLabel="Fitbod"
     sources={sources}
-    sourcesNote="Fitbod details and prices were checked on 29 September 2026 and may have changed since."
+    sourcesNote="Fitbod details and prices were checked on 3 November 2026 and may have changed since."
+    verdict={{"summary": "If you want every workout generated for you for general fitness, Fitbod is the more complete choice. If you want the plan built around growing one body part, with private progress photos, try Surpass.", "checked": "3 November 2026", "sections": [{"title": "Where Fitbod is better", "items": ["Builds a full workout for you every day, with no planning needed.", "A long track record: Apple Editors’ Choice and 4.8 from 289K App Store ratings.", "Better for general fitness goals, not just looks."]}, {"title": "Who should pick Fitbod", "copy": "People who want to be told what to do each session, for general fitness."}, {"title": "Who should pick Surpass", "copy": "iPhone lifters focused on growing one body part, who want private progress photos and a cheaper yearly plan ($59.99 against Fitbod’s $79.99 or more)."}]}}
     faqs={faqs}
     faqTitle="Questions before choosing between Surpass and Fitbod."
     related={[

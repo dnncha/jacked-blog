@@ -71,6 +71,7 @@ export default function HevyVsStrongPage() {
     comparisonLabel="Hevy, Strong, and Surpass comparison"
     comparisonLeftLabel="Hevy and Strong"
     comparisonRightLabel="Surpass"
+    verdict={{"summary": "Hevy is cheaper and more social. Strong is the quickest, plainest log. If you want the plan built around one muscle instead, that is what Surpass does. (We make Surpass.)", "checked": "3 November 2026", "sections": [{"title": "Where Hevy is better", "items": ["It’s cheaper: Pro is $2.99 or $3.99 a month, $23.99 a year or $74.99 lifetime, against Strong PRO at $4.99, $29.99 or $99.99 Forever.", "Wear OS, desktop and a social feed."]}, {"title": "Where Strong is better", "items": ["A faster, simpler log (“Think less. Lift more.”).", "A long record and a large review base: 4.9 from 125K App Store reviews, by Strong’s figures."]}, {"title": "Who should pick each", "copy": "Hevy: lifters who want social features, Wear OS or the lowest price. Strong: lifters who want the quickest, plainest log."}]}}
     faqs={faqs}
     faqTitle="Questions about Hevy vs Strong."
     sources={[

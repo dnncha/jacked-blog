@@ -45,6 +45,7 @@ const faqs = [
   { question: 'Does Surpass connect to my existing account?', answer: 'No. The import uses a CSV file you select on your iPhone. Surpass does not request credentials for Hevy, Strong, or FitNotes.' },
   { question: 'What happens to exercises Surpass does not recognize?', answer: 'You can review exercise matches before importing. Unmatched exercises can be imported as custom movements and mapped later.' },
   { question: 'Can I remove imported data?', answer: 'Yes. Surpass can remove imported sessions, templates, strength points, weekly volume, and imported measurements while leaving manually logged workouts untouched.' },
+  { question: 'Is Surpass on Android?', answer: 'No. Surpass runs on iPhone. There is no Android version.' },
 ]
 
 export default function HevyAlternativePage() {
@@ -68,6 +69,7 @@ export default function HevyAlternativePage() {
     comparisonTitle="Your old log can stay useful."
     comparisonIntro="Surpass turns supported CSV history into training context instead of an archive you have to search manually."
     comparisonLabel="Starting over and importing workout history comparison"
+    verdict={{"summary": "Most people who just want a log should stay on Hevy. Try Surpass if you want the plan made around one muscle, and bring your Hevy history with you.", "checked": "3 November 2026", "sections": [{"title": "Where Hevy is better", "items": ["It’s free, and Pro costs much less: $2.99 or $3.99 a month, $23.99 a year or $74.99 lifetime, against Surpass Pro at $12.99 a month or $59.99 a year.", "It works on iOS, Android, Apple Watch, Wear OS and desktop. Surpass runs on iPhone. There is no Android version.", "It has a community and exercise videos."]}, {"title": "Who should pick Hevy", "copy": "Most people who just want a log."}, {"title": "Who should pick Surpass", "copy": "iPhone lifters who want the plan made around one muscle."}]}}
     faqs={faqs}
     faqTitle="Questions before moving workout history."
     related={[

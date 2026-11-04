@@ -70,6 +70,7 @@ export default function AlphaProgressionAlternativePage() {
     comparisonIntro="This comparison is intentionally honest. Alpha Progression may be the better fit for some lifters; Surpass is built around a different training loop."
     comparisonLabel="Surpass and Alpha Progression workflow comparison"
     comparisonLeftLabel="Alpha Progression"
+    verdict={{"summary": "If you want a full program generated and adjusted for you, Alpha Progression is the more complete planner. If you care most about one body part and want a cheaper yearly plan, try Surpass.", "checked": "3 November 2026", "sections": [{"title": "Where Alpha Progression is better", "items": ["A complete generated plan with progression guidance.", "A large, well-rated user base: 4.9 from 40,000+ lifters and 25 million workouts logged, by its own figures.", "A mature exercise library."]}, {"title": "Who should pick Alpha Progression", "copy": "Lifters who want a full program generated and adjusted for them."}, {"title": "Who should pick Surpass", "copy": "Lifters who care most about one body part and want a cheaper yearly plan: $59.99 against $79.99. Monthly is the same, $12.99."}]}}
     faqs={faqs}
     faqTitle="Questions before you switch or try both."
     related={[
