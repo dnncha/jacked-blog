@@ -43,7 +43,7 @@ const faqs = [
   },
   {
     question: 'Can I export my data?',
-    answer: 'Yes. In Settings, tap Export data to save your history as JSON or CSV, with or without progress photos.',
+    answer: 'Yes. In Settings, tap Export data to save your history as JSON or CSV, with or without your photos.',
   },
   {
     question: 'How do I delete my data?',
