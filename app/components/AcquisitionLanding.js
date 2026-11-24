@@ -332,7 +332,12 @@ export default function AcquisitionLanding({
 
         @media (max-width: 820px) {
           .acquisition-page { padding-bottom: 78px; }
-          .acquisition-hero { min-height: 620px; background-position: 61% center; }
+          .acquisition-hero {
+            min-height: 620px;
+            background:
+              linear-gradient(180deg, rgba(3,3,3,0.9) 0%, rgba(3,3,3,0.84) 70%, #050505 100%),
+              var(--acq-hero-image) 61% center / cover no-repeat;
+          }
           .acquisition-hero-copy { padding: 70px 0; }
           .acquisition-benefits { grid-template-columns: 1fr; }
           .acquisition-flow { grid-template-columns: 1fr; gap: 34px; }

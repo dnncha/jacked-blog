@@ -57,7 +57,7 @@ export default function AlphaProgressionAlternativePage() {
     campaignKey="seo_alpha_progression_alternative"
     canonicalPath="/alpha-progression-alternative"
     heroImage="/marketing/screens/surpass-08-480.webp"
-    heroImageAlt="Surpass screenshot of proven programs including Full Body, Upper/Lower, and Push/Pull/Legs"
+    heroImageAlt="Surpass screenshot of ready-made programs including Full Body, Upper/Lower, and Push/Pull/Legs"
     heroPresentation="screen"
     benefits={benefits}
     benefitsTitle="Where Surpass takes a different route."

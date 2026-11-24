@@ -75,7 +75,7 @@ export default function PressPage() {
           Build the body people notice.
         </h1>
         <p style={{ maxWidth: '760px', margin: '0 0 30px', color: '#bcb6a8', fontSize: 'clamp(1.06rem, 2.3vw, 1.28rem)', lineHeight: 1.7 }}>
-          Surpass is a focused iPhone training system. It combines fast set logging with previous results, next-set targets, RIR, rest timing, and weekly muscle-set targets—without requiring an account.
+          Surpass is a focused iPhone training system. It combines fast set logging with previous results, next-set targets, RIR, rest timing, and weekly muscle-set targets, without requiring an account.
         </p>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px', marginBottom: '64px' }}>
           <a

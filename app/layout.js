@@ -5,7 +5,7 @@ import WebAnalytics from './components/WebAnalytics'
 export const metadata = {
   metadataBase: new URL('https://jacked.coach'),
   title: {
-    default: 'Surpass — Progressive Overload Gym Log',
+    default: 'Surpass: Progressive Overload Gym Log',
     template: '%s | Surpass'
   },
   description: 'Surpass is an iPhone gym log with next-set targets beside last time, live all-time PR alerts, and no account. Import workouts from Hevy, Strong, or FitNotes.',
@@ -18,7 +18,7 @@ export const metadata = {
     locale: 'en_US',
     url: 'https://jacked.coach',
     siteName: 'Surpass',
-    title: 'Surpass — Gym Log with Next-Set Targets',
+    title: 'Surpass: Gym Log with Next-Set Targets',
     description: 'Beat last week. Every set shows a target beside what you lifted last time. Free on iPhone, no account required.',
     images: [
       {
@@ -31,7 +31,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Surpass — Gym Log with Next-Set Targets',
+    title: 'Surpass: Gym Log with Next-Set Targets',
     description: 'Beat last week. Every set shows a target beside what you lifted last time. Free on iPhone, no account required.',
     images: ['/og-image.png'],
   },
@@ -103,11 +103,14 @@ export default function RootLayout({ children }) {
             border-radius: 9px;
             transition: color 160ms ease, background 160ms ease;
           }
+          :focus-visible {
+            outline: 2px solid #f4cb65;
+            outline-offset: 2px;
+          }
           .site-header-link:hover,
           .site-header-link:focus-visible {
             color: #fff8ea;
             background: rgba(255, 248, 234, 0.07);
-            outline: none;
           }
           .site-header-cta {
             display: inline-flex;
@@ -132,7 +135,9 @@ export default function RootLayout({ children }) {
             background: #ffda78;
             box-shadow: 0 12px 34px rgba(226, 201, 95, 0.22);
             transform: translateY(-1px);
-            outline: none;
+          }
+          .site-header-cta:focus-visible {
+            outline: 2px solid #fff8ea;
           }
           .site-header-cta-mobile { display: none; }
           .site-header-menu { position: relative; }
@@ -184,8 +189,9 @@ export default function RootLayout({ children }) {
             .site-header-nav { min-height: 48px; gap: 8px; }
             .site-header-desktop-links { display: none; }
             .site-header-mobile-actions { display: flex; }
-            .site-header-cta-mobile { display: inline-flex; min-height: 38px; padding: 0 11px; margin-left: 0; font-size: 0.72rem; }
-            .site-header-menu-toggle { min-height: 38px; }
+            .site-header-cta-mobile { display: inline-flex; min-height: 44px; padding: 0 12px; margin-left: 0; font-size: 0.72rem; }
+            .site-header-menu-toggle { min-height: 44px; }
+            .site-header-menu-panel .site-header-link { padding: 13px 12px; }
           }
         ` }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -214,7 +220,7 @@ export default function RootLayout({ children }) {
             'This-week strip and streak',
             'CSV import from Hevy, Strong, and FitNotes',
             'Free uncapped routines',
-            'Proven programs including Full Body, Upper/Lower, and Push/Pull/Legs',
+            'Ready-made programs including Full Body, Upper/Lower, and Push/Pull/Legs',
             'Lock Screen rest timer',
             'Optional HealthKit',
             'Optional Surpass Pro auto-progression'

@@ -151,7 +151,6 @@ export default function ToolStyles() {
         color: #f7f2e8;
         padding: 0 12px;
         font-size: 0.96rem;
-        outline: none;
       }
       .tool-field textarea {
         min-height: 180px;

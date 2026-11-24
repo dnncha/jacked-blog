@@ -12,8 +12,8 @@ import {
   Dumbbell,
   RefreshCw,
   ShieldCheck,
+  Target,
   TrendingUp,
-  Zap,
 } from 'lucide-react'
 
 const APP_STORE_URL_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689'
@@ -59,7 +59,7 @@ function randomHomepageHeroVariant() {
       return randomValues[0] % 2 === 0 ? 'control' : 'outcome_v1'
     }
   } catch {
-    // Use the local fallback below when the browser crypto API is unavailable.
+    return Math.random() < 0.5 ? 'control' : 'outcome_v1'
   }
 
   return Math.random() < 0.5 ? 'control' : 'outcome_v1'
@@ -144,7 +144,7 @@ const workflow = [
 
 const featureCards = [
   {
-    icon: 'bolt',
+    icon: 'target',
     title: 'Next-set targets',
     copy: 'Each set shows what you lifted last time and a target for today, side by side.',
     bullets: ['Last time stays visible', 'Today’s load and reps on the set', 'Targets update from the session you just saved'],
@@ -171,7 +171,7 @@ const featureCards = [
     icon: 'library',
     title: 'Programs and the week',
     copy: 'Start Full Body, Upper/Lower, or Push/Pull/Legs. Today shows this week and your streak.',
-    bullets: ['Proven programs included', 'This-week strip and streak', 'Optional Surpass Pro for auto-progression'],
+    bullets: ['Ready-made programs included', 'This-week strip and streak', 'Optional Surpass Pro for auto-progression'],
   },
 ]
 
@@ -301,15 +301,15 @@ const gymPanels = [
   },
   {
     screen: 8,
-    alt: 'Surpass screenshot of proven programs including Full Body, Upper/Lower, and Push/Pull/Legs',
-    title: 'Or start from a proven program',
+    alt: 'Surpass screenshot of ready-made programs including Full Body, Upper/Lower, and Push/Pull/Legs',
+    title: 'Or start from a ready-made program',
     copy: 'Full Body, Upper/Lower, Push/Pull/Legs, and more. Routines are free and uncapped.',
   },
 ]
 
 function Icon({ name, className = '' }) {
   const icons = {
-    bolt: Zap,
+    target: Target,
     chart: ChartNoAxesCombined,
     clipboard: ClipboardList,
     dumbbell: Dumbbell,
@@ -444,7 +444,7 @@ const appStoreShots = [
   [5, 'Keep the streak alive', 'Today shows this week and the streak without a separate dashboard.'],
   [6, 'Your next workout, ready', 'Targets for next time are set from the session you just saved.'],
   [7, 'A plan that fits your week', 'The week stays visible so the next session is already chosen.'],
-  [8, 'Start a proven program', 'Full Body, Upper/Lower, and Push/Pull/Legs are included. Routines stay free.'],
+  [8, 'Start a ready-made program', 'Full Body, Upper/Lower, and Push/Pull/Legs are included. Routines stay free.'],
 ]
 
 function ScreenshotGallery() {
@@ -778,7 +778,7 @@ export default function HomeClient() {
 
       <section id="faq" className="section">
         <div className="wrap">
-          <SectionHeader title="FAQ" copy="A clear answer to the questions that matter before your next training block." />
+          <SectionHeader title="FAQ" />
           <div className="faq-grid">
             {faqs.map((faq) => (
               <details key={faq.question} className="faq-item">
@@ -812,7 +812,7 @@ export default function HomeClient() {
         aria-label="Download Surpass"
       >
         <div className="conversion-dock-copy">
-          <strong>Keep your build moving.</strong>
+          <strong>Surpass for iPhone</strong>
           <span>Free on iPhone · no account required</span>
         </div>
         <AppStoreButton href={appStoreUrl('final_cta')} content="homepage_mobile_dock" eyebrow="Free on iPhone" experiment="homepage_lower_cta" variant="outcome_v1" copyVersion={HOMEPAGE_COPY_VERSION} ariaLabel="Start free with Surpass on iPhone">

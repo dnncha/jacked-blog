@@ -32,7 +32,7 @@ const aiProgrammingArticle = await readFile(new URL('../content/blog/ai-fitness-
 assert.ok(!layout.includes('record_sessions_percent:100'), 'public pages must not record 100% of sessions')
 assert.ok(!layout.includes("'@type': 'FAQPage'"), 'FAQ schema must not be injected globally')
 assert.ok(layout.includes("color: '#8f897c'"), 'footer text should meet contrast on the dark footer')
-assert.ok(layout.includes('Surpass — Progressive Overload Gym Log'), 'site title should match the current Surpass promise')
+assert.ok(layout.includes('Surpass: Progressive Overload Gym Log'), 'site title should match the current Surpass promise')
 assert.ok(layout.includes('/favicon.ico'), 'sitewide icon links should use the shipped favicon')
 assert.ok(nextConfig.includes("value: 'jacked-blog.vercel.app'"), 'legacy Vercel host should keep its canonical redirect')
 assert.ok(nextConfig.includes("destination: 'https://jacked.coach/:path*'"), 'legacy Vercel redirect should preserve the requested path')

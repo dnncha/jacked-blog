@@ -9,7 +9,7 @@ const principles = [
   {
     number: '01',
     title: 'Start with a valid signal',
-    copy: 'A recent set gives the method weight, reps, rep range, and—when available—reps in reserve. Missing or uncertain inputs reduce confidence instead of being disguised as precision.',
+    copy: 'A recent set gives the method weight, reps, rep range, and reps in reserve when available. Missing or uncertain inputs reduce confidence instead of being disguised as precision.',
   },
   {
     number: '02',

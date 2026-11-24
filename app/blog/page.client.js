@@ -310,7 +310,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
         }
 
         .article-card span {
-          color: #756d60;
+          color: #6b6357;
           font-weight: 850;
           font-size: 0.75rem;
           margin-bottom: 11px;
@@ -325,7 +325,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
 
         .article-card p {
           margin: 0;
-          color: #756d60;
+          color: #6b6357;
           font-size: 0.88rem;
           line-height: 1.55;
         }
@@ -333,7 +333,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
         .article-card time {
           margin-top: auto;
           padding-top: 14px;
-          color: #756d60;
+          color: #6b6357;
           font-size: 0.78rem;
           font-weight: 800;
         }
@@ -416,7 +416,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
 
         .library-map summary::after {
           content: '+';
-          color: #756d60;
+          color: #6b6357;
           font-size: 1.4rem;
           line-height: 1;
         }
@@ -426,7 +426,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
         }
 
         .library-map summary span:last-child {
-          color: #756d60;
+          color: #6b6357;
           font-size: 0.82rem;
           font-weight: 750;
         }
@@ -460,7 +460,7 @@ export default function BlogIndexClient({ allPosts, categories }) {
         .library-map-grid small {
           display: block;
           margin-bottom: 2px;
-          color: #756d60;
+          color: #6b6357;
           font-size: 0.7rem;
           font-weight: 850;
           letter-spacing: 0.04em;
