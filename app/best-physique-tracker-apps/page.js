@@ -61,7 +61,7 @@ const faqs = [
   { question: 'Are AI physique scores accurate?', answer: 'Most apps do not publish how their scores were validated, and an estimate from one photo can move with light, pump and pose. Apple’s App Review Guidelines (1.4.1) ask apps that make health measurements to show their accuracy. Treat a score as a rough guide, and trust photos you took the same way over time.' },
   { question: 'Which physique tracker is best for building muscle?', answer: 'One that connects the photo to the training. If you want an app to tell you which muscle to grow and plan the weekly sets for it, pick one with a plan. If you only want measurements, a scanner such as ZOZOFIT does that well.' },
   { question: 'Is rating your physique bad for you?', answer: 'Researchers have raised concerns that constant rating can feed body-image worries, especially in young men. If scores make training feel worse, choose an app that does not give them. Surpass compares you only with your own past check-ins.' },
-  { question: 'What does Surpass cost?', answer: 'Logging, history, import and your first Frame Check read are free. Surpass Pro is $12.99 a month or $59.99 a year in the US, with a 7-day free trial on the annual plan.' },
+  { question: 'What does Surpass cost?', answer: 'Logging, history, import and progress photos are free. Surpass Pro is $12.99 a month or $59.99 a year in the US, with a 7-day free trial on the annual plan.' },
 ]
 
 export default function BestPhysiqueTrackerAppsPage() {

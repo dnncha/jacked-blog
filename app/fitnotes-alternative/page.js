@@ -29,7 +29,7 @@ const benefits = [
 
 const steps = [
   { title: 'Export completed workouts', copy: 'In FitNotes, choose the workout or spreadsheet CSV export and save or share the file to Files.' },
-  { title: 'Choose FitNotes in Surpass', copy: 'Open Import Workout History, select FitNotes, and choose the workout CSV—not a backup database.' },
+  { title: 'Choose FitNotes in Surpass', copy: 'Open Import Workout History, select FitNotes, and choose the workout CSV, not a backup database.' },
   { title: 'Review and confirm', copy: 'Check the imported date range, workout count, and exercise matches before Surpass adds the history.' },
 ]
 

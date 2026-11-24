@@ -99,7 +99,7 @@ export default function ToolsHub() {
       <section className="tools-wrap tool-section">
         <div className="tools-signal" style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }}>
           <span>
-            Want to see how the decisions are made? Read the <Link href="/methodology" style={{ color: '#f4cb65' }}>Surpass training methodology</Link>—including formulas, assumptions, and the privacy boundary.
+            Want to see how the decisions are made? Read the <Link href="/methodology" style={{ color: '#f4cb65' }}>Surpass training methodology</Link>, including formulas, assumptions, and the privacy boundary.
           </span>
         </div>
       </section>

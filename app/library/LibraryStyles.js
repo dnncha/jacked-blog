@@ -118,7 +118,7 @@ export default function LibraryStyles() {
         text-decoration: none;
         transition: border-color 160ms ease;
       }
-      .lib-link-card:hover, .lib-link-card:focus-visible { border-color: rgba(244, 203, 101, 0.55); outline: none; }
+      .lib-link-card:hover, .lib-link-card:focus-visible { border-color: rgba(244, 203, 101, 0.55); }
       .lib-link-card strong { color: #f7f2e8; font-size: 0.98rem; font-weight: 720; }
       .lib-link-card span { color: #a7a094; font-size: 0.86rem; line-height: 1.45; }
       .lib-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }

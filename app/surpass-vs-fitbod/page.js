@@ -24,19 +24,19 @@ export const metadata = {
 const benefits = [
   { title: 'You decide what grows', copy: 'Tell Surpass what you want people to notice first. The block gives that muscle its own weekly set target instead of spreading work by recovery alone.' },
   { title: 'You can see why a set is there', copy: 'Today shows the week on a front and back body map and how many sets each priority muscle still needs. The plan stays the same week to week, so loads can climb.' },
-  { title: 'You can see it working', copy: 'Frame Check takes matched front, side and back photos, keeps them on your phone, and ranks your next priority from what you mark. No score.' },
+  { title: 'You can see it working', copy: 'Front, side and back progress photos, each lined up with the last, stay on your phone. No score.' },
 ]
 
 const steps = [
   { title: 'Pick one visible priority', copy: 'Bigger arms, wider shoulders, more chest, a wider back, your whole frame, legs or strength. Then set your days, session length and equipment.' },
   { title: 'Train the same block for weeks', copy: 'Anchor lifts stay put so the weight and rep targets can move up. Every set shows its target beside your last result.' },
-  { title: 'Check it, then pick the next change', copy: 'Take a Frame Check when the block ends, mark what you see, and Surpass ranks what to build next.' },
+  { title: 'Check it, then pick the next change', copy: 'Compare your progress photos when the block ends, then pick the next muscle to build.' },
 ]
 
 const comparison = [
   ['Who decides the workout', 'An algorithm recommends muscles and exercises each session from your training history and recovery.', 'You choose the muscle you want people to notice; the block gives it extra weekly sets.'],
   ['Week to week', 'Workouts update as the algorithm learns, so sessions can change often.', 'A block of weeks with the same anchor lifts, so loads can progress.'],
-  ['Seeing progress', 'Your logged workouts and lift history.', 'A body map of this week’s sets, plus matched Frame Check photos compared only with your own past.'],
+  ['Seeing progress', 'Your logged workouts and lift history.', 'A body map of this week’s sets, plus progress photos compared only with your own past.'],
   ['Price (US)', '$15.99 a month or $95.99 a year, with a 7-day free trial. Duo and Family plans are also offered.', 'Free logging and import. Pro is $12.99 a month or $59.99 a year, with a 7-day trial on annual.'],
 ]
 
@@ -52,7 +52,7 @@ const faqs = [
   { question: 'Is Surpass cheaper than Fitbod?', answer: 'Yes, in the US. Surpass Pro is $12.99 a month or $59.99 a year, against Fitbod’s $15.99 a month or $95.99 a year. Surpass’s 7-day trial is on the annual plan; Fitbod also offers a 7-day trial. Surpass logging, history and import are free without a subscription.' },
   { question: 'Does Surpass explain why I am doing each set?', answer: 'The plan is built around your priority, so the reason is visible: Today shows how many sets each priority muscle still needs this week on a body map, and each set shows its weight and rep target beside your last result.' },
   { question: 'Can I move my Fitbod history to Surpass?', answer: 'Not yet. Surpass imports Hevy, Strong and FitNotes CSV files today. You can start fresh in Surpass and your first block will set targets from the weights you log.' },
-  { question: 'Does Surpass rate my physique from photos?', answer: 'No. Frame Check keeps matched photos on your phone and asks you to mark what you see. There is no score and no comparison with anyone else.' },
+  { question: 'Does Surpass rate my physique from photos?', answer: 'No. Progress photos stay on your phone, with your last photo shown faintly as a guide so each one lines up. There is no score and no comparison with anyone else, only with your own past photos.' },
 ]
 
 export default function SurpassVsFitbodPage() {

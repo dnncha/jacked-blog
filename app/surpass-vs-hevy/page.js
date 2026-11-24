@@ -24,20 +24,20 @@ export const metadata = {
 const benefits = [
   { title: 'It starts with what you want people to notice', copy: 'Bigger arms, wider shoulders, more chest, a wider back or your whole frame. That one answer decides where your extra sets go all block.' },
   { title: 'The week is on your body, not in a list', copy: 'Today shows your block and a front and back body map. Priority muscles fill in as you close on this week’s set target.' },
-  { title: 'Proof stays private', copy: 'Frame Check takes matched front, side and back photos and keeps them on your phone. No score, no feed, no comparison with anyone else.' },
+  { title: 'Proof stays private', copy: 'Front, side and back progress photos stay on your phone. No score, no feed, no comparison with anyone else.' },
 ]
 
 const steps = [
   { title: 'Bring your Hevy history', copy: 'Export your workout CSV from Hevy, select it in Surpass, and review the preview before anything is saved.' },
   { title: 'Pick one visible priority', copy: 'Answer “What do you want people to notice first?” and Surpass builds a block with anchor lifts and a weekly set target for it.' },
-  { title: 'Train it, then check it', copy: 'Every set has a weight and rep target beside your last result. Take a Frame Check to see whether the priority is showing.' },
+  { title: 'Train it, then check it', copy: 'Every set has a weight and rep target beside your last result. Compare your progress photos to see whether the priority is showing.' },
 ]
 
 const comparison = [
   ['First question', 'Start a workout, pick a routine, or generate a program with Hevy Trainer.', 'What do you want people to notice first? Your answer shapes the block and your first workout.'],
   ['Your week', 'Routines you build or generate, and your workout history.', 'A block with anchor lifts and a weekly hard-set target for your priority, shown on a front and back body map.'],
   ['Each set', 'Your previous weights and reps to beat.', 'A weight and rep target beside your last result.'],
-  ['Photos', 'Progress photos, free.', 'Frame Check: matched front, side and back photos. You mark what you see and get your next priority ranked.'],
+  ['Photos', 'Progress photos, free.', 'Progress photos, free, each lined up with your last one and kept on your phone.'],
   ['Social', 'A feed with followers, likes and comments.', 'No feed. Share a result only when you choose.'],
   ['Price (US)', 'Free, with Hevy Pro at $23.99 a year or $74.99 lifetime.', 'Free logging and import. Pro is $12.99 a month or $59.99 a year, with a 7-day trial on annual.'],
 ]
@@ -52,7 +52,7 @@ const sources = [
 const faqs = [
   { question: 'Is Surpass better than Hevy?', answer: 'For a different job. Hevy is a great free workout log with a large community and a social feed. Surpass is for lifters who want to change how they look: it plans the week around one visible priority and keeps private photos that show whether it is working.' },
   { question: 'Can I import my Hevy workouts into Surpass?', answer: 'Yes. Export your workout CSV from Hevy, choose Hevy on the Surpass import screen, and check the preview. Nothing is saved until you confirm, and Surpass never asks for your Hevy login.' },
-  { question: 'Hevy has free progress photos. Why pay for Surpass?', answer: 'Photos on their own do not tell you what to train. Surpass links them to a block: you pick the muscle, the plan gives it the sets, and Frame Check shows whether it is coming through. Logging, import and your first Frame Check read stay free.' },
+  { question: 'Hevy has free progress photos. Why pay for Surpass?', answer: 'Photos on their own do not tell you what to train. Surpass links them to a block: you pick the muscle, the plan gives it the sets, and progress photos show whether it is coming through. Logging, import and progress photos stay free.' },
   { question: 'Does Surpass rate my physique?', answer: 'No. There is no score and no comparison with other people, only with your own past check-ins. Your photos stay on your phone.' },
   { question: 'When should I stay with Hevy?', answer: 'If you want free logging with friends, a social feed, or a very large exercise library with videos, Hevy is a strong choice. You can also use both: keep Hevy for its community and import your history into Surpass whenever you want to try a block.' },
 ]

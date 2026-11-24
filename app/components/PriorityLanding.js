@@ -1,13 +1,9 @@
 import AcquisitionLanding from './AcquisitionLanding'
 
-// One landing page per first-screen choice in the app ("What do you want
-// people to notice first?"). The eyebrow repeats the exact onboarding label so
-// an ad, this page and the app's first screen say the same thing.
-
 const APP_STORE_BASE = 'https://apps.apple.com/app/apple-store/id6757132605?pt=128406689'
 
-const PRICE_ANSWER = 'Logging, history, import and your first Frame Check read are free. Surpass Pro is $12.99 a month or $59.99 a year in the US, with a 7-day free trial on the annual plan. Apple shows your local price before you buy.'
-const NO_SCORE_ANSWER = 'No. Frame Check keeps matched photos on your phone and asks you to mark what you see. There is no score and no comparison with anyone else, only with your own past check-ins.'
+const PRICE_ANSWER = 'Logging, history, import and progress photos are free. Surpass Pro is $12.99 a month or $59.99 a year in the US, with a 7-day free trial on the annual plan. Apple shows your local price before you buy.'
+const NO_SCORE_ANSWER = 'No. Progress photos stay on your phone, with your last photo shown faintly as a guide so each one lines up. There is no score and no comparison with anyone else, only with your own past photos.'
 const VOLUME_SOURCE = 'Schoenfeld, Ogborn and Krieger, 2017'
 
 export const PRIORITY_LANDINGS = {
@@ -27,14 +23,14 @@ export const PRIORITY_LANDINGS = {
     benefits: [
       { title: 'Train the triceps as hard as the biceps', copy: 'The triceps make up more of the upper arm than the biceps. Give them direct work, including an overhead extension, instead of leaving them to presses.' },
       { title: 'Enough sets, every week', copy: 'Surpass gives each priority muscle a second exercise on the days that train it, aiming for about 10 to 20 hard sets a week, and shows how many are left.' },
-      { title: 'Proof from the same angles', copy: 'Arms show best from the front and the side. Frame Check takes matched photos from the same angles each time, so you compare like with like.' },
+      { title: 'Proof from the same angles', copy: 'Arms show best from the front and the side. Each progress photo is lined up with your last one, so you compare like with like.' },
     ],
     exercises: 'Curls for the biceps (incline, cable or hammer) and pushdowns plus an overhead extension for the triceps. Keep the same exercises through the block so the load can climb.',
     poses: 'front and side',
     comparison: [
       ['Weekly arm work', 'Arms get whatever sets are left at the end of a push or pull day.', 'Biceps and triceps get their own weekly set target, shown on the body map.'],
       ['Each session', 'Pick a weight and hope it was the right one.', 'A weight and rep target for every set, beside what you did last time.'],
-      ['Knowing it worked', 'A mirror in different light every time.', 'Matched Frame Check photos, compared only with your own past check-ins.'],
+      ['Knowing it worked', 'A mirror in different light every time.', 'Progress photos lined up with your last ones, compared only with your own past photos.'],
     ],
     extraFaq: { question: 'Do I have to stop training the rest of my body?', answer: 'No. The rest of your plan keeps its normal work. Your arms get the extra sets, inside the session length you choose.' },
   },
@@ -54,14 +50,14 @@ export const PRIORITY_LANDINGS = {
     benefits: [
       { title: 'Side delts carry the width', copy: 'Lateral raises train the part of the shoulder that sticks out past your arms from the front. They lead the shoulder work in a Wider shoulders block.' },
       { title: 'Rear delts finish the look', copy: 'Rear delts shape the shoulder from the side and back. A rear-delt fly or face pull keeps the whole cap growing, not just the front.' },
-      { title: 'Proof from three angles', copy: 'Shoulders change from every side. Frame Check takes matched front, side and back photos each time, so the comparison is fair.' },
+      { title: 'Proof from three angles', copy: 'Shoulders change from every side. Take front, side and back progress photos, each lined up with the last, so the comparison is fair.' },
     ],
     exercises: 'Lateral raises (dumbbell, cable or machine) for the side delts, a rear-delt fly or face pull for the rear delts, and one overhead press. High-rep raises taken close to failure work well here.',
     poses: 'front, side and back',
     comparison: [
       ['Weekly shoulder work', 'Presses cover the front delts; the side delts get a few raises when there is time.', 'Your delts get their own weekly set target, led by side-delt raises, shown on the body map.'],
       ['Each session', 'Raises done with whatever dumbbells are free.', 'A weight and rep target for every set, beside what you did last time.'],
-      ['Knowing it worked', 'Guessing from how a shirt fits.', 'Matched Frame Check photos, compared only with your own past check-ins.'],
+      ['Knowing it worked', 'Guessing from how a shirt fits.', 'Progress photos lined up with your last ones, compared only with your own past photos.'],
     ],
     extraFaq: { question: 'Will overhead pressing alone make my shoulders wider?', answer: 'Pressing mostly trains the front delts. Side delts get some work from it, but direct lateral raises are the most reliable way to add width.' },
   },
@@ -81,14 +77,14 @@ export const PRIORITY_LANDINGS = {
     benefits: [
       { title: 'Press at more than one angle', copy: 'An incline press loads the upper chest that shows above a shirt collar. Pair it with a flat press so the whole chest gets the work.' },
       { title: 'Add a fly for the stretch', copy: 'A cable or machine fly trains the chest through a long stretch without your triceps giving out first.' },
-      { title: 'Proof from the front and side', copy: 'Chest shows best from the front and the side. Frame Check takes matched photos from the same angles each time.' },
+      { title: 'Proof from the front and side', copy: 'Chest shows best from the front and the side. Each progress photo is lined up with your last one.' },
     ],
     exercises: 'An incline press and a flat press (barbell, dumbbell or machine), plus a cable or machine fly. Keep the same exercises through the block so the load can climb.',
     poses: 'front and side',
     comparison: [
       ['Weekly chest work', 'Bench press on Monday, then whatever chest work fits.', 'Your chest gets its own weekly set target, shown on the body map.'],
       ['Each session', 'Chasing a heavier bench single.', 'A weight and rep target for every set, beside what you did last time.'],
-      ['Knowing it worked', 'A mirror in different light every time.', 'Matched Frame Check photos, compared only with your own past check-ins.'],
+      ['Knowing it worked', 'A mirror in different light every time.', 'Progress photos lined up with your last ones, compared only with your own past photos.'],
     ],
     extraFaq: { question: 'Do I need to bench press to build my chest?', answer: 'No. Dumbbell and machine presses build the chest well. Pick the press you can load safely and progress for the whole block.' },
   },
@@ -108,14 +104,14 @@ export const PRIORITY_LANDINGS = {
     benefits: [
       { title: 'Pull from overhead', copy: 'Pulldowns and pull-ups train the lats through the full range that builds width. They anchor a Wider back block.' },
       { title: 'Row for thickness', copy: 'A row adds the thickness that makes width read from the side. Rear delts and biceps get worked along the way.' },
-      { title: 'Proof you can actually see', copy: 'You rarely see your own back. Frame Check takes matched back and front photos each time so you can.' },
+      { title: 'Proof you can actually see', copy: 'You rarely see your own back. Back and front progress photos, each lined up with the last, let you see it.' },
     ],
     exercises: 'A pulldown or pull-up and a row (cable, chest-supported or machine). Keep the same exercises through the block so the load can climb.',
     poses: 'back and front',
     comparison: [
       ['Weekly back work', 'One pull day, with sets spread across whatever machines are free.', 'Your back gets its own weekly set target, shown on the body map.'],
       ['Each session', 'Heavier rows with more body English each week.', 'A weight and rep target for every set, beside what you did last time.'],
-      ['Knowing it worked', 'You never see your back.', 'Matched back and front Frame Check photos, compared only with your own past check-ins.'],
+      ['Knowing it worked', 'You never see your back.', 'Back and front progress photos, compared only with your own past photos.'],
     ],
     extraFaq: { question: 'Are pull-ups or pulldowns better for back width?', answer: 'Both train the lats well. Pulldowns are easier to load in small steps, which makes them simple to progress through a block.' },
   },
@@ -135,14 +131,14 @@ export const PRIORITY_LANDINGS = {
     benefits: [
       { title: 'Three priorities, one week', copy: 'A Better whole frame block spreads extra sets across chest, back and side delts, so no one muscle eats the whole session.' },
       { title: 'Supporting muscles still count', copy: 'Presses, pulls and raises also train your front and rear delts, traps, biceps and triceps, so they grow along with the three priorities.' },
-      { title: 'Proof from every side', copy: 'Your whole frame changes from every angle. Frame Check takes matched front, side and back photos each time.' },
+      { title: 'Proof from every side', copy: 'Your whole frame changes from every angle. Take front, side and back progress photos, each lined up with the last.' },
     ],
     exercises: 'An incline or flat press, a pulldown and a row, and lateral raises. Keep the same exercises through the block so the load can climb.',
     poses: 'front, side and back',
     comparison: [
       ['Weekly upper-body work', 'A split where each muscle gets one day and whatever sets fit.', 'Chest, back and side delts each get a weekly set target, shown on the body map.'],
       ['Each session', 'Pick a weight and hope it was the right one.', 'A weight and rep target for every set, beside what you did last time.'],
-      ['Knowing it worked', 'A mirror in different light every time.', 'Matched Frame Check photos, compared only with your own past check-ins.'],
+      ['Knowing it worked', 'A mirror in different light every time.', 'Progress photos lined up with your last ones, compared only with your own past photos.'],
     ],
     extraFaq: { question: 'Should I pick one muscle or the whole frame?', answer: 'Pick one muscle when it clearly lags. Pick Better whole frame when you want your upper body to look bigger overall. You can change your priority later.' },
   },
@@ -178,7 +174,7 @@ export function PriorityLandingPage({ slug }) {
   const steps = [
     { title: `Pick ${page.choice}`, copy: `The first screen asks what you want people to notice first. Choose ${page.choice}, then set your training days, session length and equipment. Your first workout follows your choice.` },
     { title: 'Train the block', copy: `Today shows the week on a front and back body map. Your priority fills in as you close on this week's set target, and every set has a weight and rep target beside your last result.` },
-    { title: 'Check it showing', copy: `Take a Frame Check with matched ${page.poses} photos, mark what you see, and Surpass ranks your next priority. Your photos stay on your phone.` },
+    { title: 'Check it showing', copy: `Take ${page.poses} progress photos lined up with your last ones and compare them side by side. Your photos stay on your phone.` },
   ]
   const faqs = [
     { question: `How many sets a week does it take to build ${page.goal}?`, answer: `Research on weekly volume favours roughly 10 or more hard sets per muscle a week for growth (${VOLUME_SOURCE}). Surpass starter plans give each priority muscle a second exercise on the days that train it, aiming for about 10 to 20 hard sets a week, and Today shows how many are left.` },
