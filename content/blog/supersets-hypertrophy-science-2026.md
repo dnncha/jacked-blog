@@ -49,9 +49,9 @@ Supersets are a credible time-saving option and can support hypertrophy when the
 
 ### Sources
 
-- [Zhang et al., superset versus traditional resistance-training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/39903375/) — 19 studies, chronic adaptations, time efficiency, and higher perceived effort.
-- [Iversen et al., whole-body multiple-joint superset randomized trial](https://pubmed.ncbi.nlm.nih.gov/39072654/) — 10-week comparison of strength and body-composition outcomes.
-- [Mang et al., acute and chronic superset review](https://pubmed.ncbi.nlm.nih.gov/41118588/) — overview of configuration-specific trade-offs.
+- [Zhang et al., superset versus traditional resistance-training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/39903375/): 19 studies, chronic adaptations, time efficiency, and higher perceived effort.
+- [Iversen et al., whole-body multiple-joint superset randomized trial](https://pubmed.ncbi.nlm.nih.gov/39072654/): 10-week comparison of strength and body-composition outcomes.
+- [Mang et al., acute and chronic superset review](https://pubmed.ncbi.nlm.nih.gov/41118588/): overview of configuration-specific trade-offs.
 
 ## Related reading
 

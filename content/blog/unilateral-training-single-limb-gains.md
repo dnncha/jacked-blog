@@ -55,7 +55,7 @@ Single-limb work usually takes longer because each side needs its own setup. It 
 
 ## The bottom line
 
-Unilateral and bilateral training are complementary. Research does not show a universal single-limb hypertrophy advantage, but it does support task-specific strength adaptations and a modest cross-education effect. Use unilateral work to solve a clear programming problem—specificity, side-to-side observation, equipment, or loading constraints—then judge it by repeatable performance and the outcome you actually want.
+Unilateral and bilateral training are complementary. Research does not show a universal single-limb hypertrophy advantage, but it does support task-specific strength adaptations and a modest cross-education effect. Use unilateral work to solve a clear programming problem (specificity, side-to-side observation, equipment, or loading constraints), then judge it by repeatable performance and the outcome you actually want.
 
 ## Related reading
 

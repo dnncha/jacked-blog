@@ -1,5 +1,5 @@
 ---
-title: "Muscularity and Attraction: What Research Can—and Cannot—Tell Us"
+title: "Muscularity and Attraction: What Research Can and Cannot Tell Us"
 excerpt: "A careful look at research on muscularity, body composition, culture, and attraction, without turning population averages into a promise about individual relationships."
 category: "General"
 updatedAt: "2026-08-15"
@@ -32,7 +32,7 @@ The safest summary is that an athletic appearance is attractive to some people, 
 
 ## What This Means for Training
 
-Build muscle because you value strength, health, performance, or the way training makes you feel—not because a study promises a dating outcome. If appearance is one of your goals, choose a sustainable rate of gain, train all major muscle groups, and keep body composition changes gradual enough to support health and adherence.
+Build muscle because you value strength, health, performance, or the way training makes you feel, not because a study promises a dating outcome. If appearance is one of your goals, choose a sustainable rate of gain, train all major muscle groups, and keep body composition changes gradual enough to support health and adherence.
 
 Do not use a partner's preferences, a survey average, or an online ranking to justify extreme dieting, drug use, or pain. The physique that looks impressive in a photograph may be uncomfortable or unsustainable for the person living in it.
 
@@ -48,11 +48,11 @@ Attraction research is vulnerable to sampling, image choice, cultural context, a
 
 ### Sources
 
-- [Durkee et al., men's bodily attractiveness and muscle-size preferences](https://pubmed.ncbi.nlm.nih.gov/31167552/) — 1,742 participants rating specific muscle groups; useful evidence that preferences are not one-dimensional.
-- [Dixson et al., masculine somatotype and attractiveness](https://pubmed.ncbi.nlm.nih.gov/12597270/) — image-rating studies in British and Sri Lankan women; a sample result, not a universal target.
-- [Dixson et al., New Zealand–U.S. physique study](https://pubmed.ncbi.nlm.nih.gov/19139985/) — cross-country image-rating comparison with important limits on generalization.
-- [Morrison et al., representations of male muscularity](https://pubmed.ncbi.nlm.nih.gov/18089177/) — evidence that men may overestimate how much muscularity women prefer in media-related contexts.
-- [Fasoli and Constantinou, body imagery and body satisfaction](https://pubmed.ncbi.nlm.nih.gov/38215542/) — context for avoiding appearance claims that increase body-image pressure.
+- [Durkee et al., men's bodily attractiveness and muscle-size preferences](https://pubmed.ncbi.nlm.nih.gov/31167552/): 1,742 participants rating specific muscle groups; useful evidence that preferences are not one-dimensional.
+- [Dixson et al., masculine somatotype and attractiveness](https://pubmed.ncbi.nlm.nih.gov/12597270/): image-rating studies in British and Sri Lankan women; a sample result, not a universal target.
+- [Dixson et al., New Zealand–U.S. physique study](https://pubmed.ncbi.nlm.nih.gov/19139985/): cross-country image-rating comparison with important limits on generalization.
+- [Morrison et al., representations of male muscularity](https://pubmed.ncbi.nlm.nih.gov/18089177/): evidence that men may overestimate how much muscularity women prefer in media-related contexts.
+- [Fasoli and Constantinou, body imagery and body satisfaction](https://pubmed.ncbi.nlm.nih.gov/38215542/): context for avoiding appearance claims that increase body-image pressure.
 
 ## Further reading
 

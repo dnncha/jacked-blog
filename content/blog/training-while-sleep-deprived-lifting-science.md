@@ -8,13 +8,13 @@ Training after poor sleep is a decision about readiness and safety, not a test o
 
 ## What the research shows
 
-In a controlled study of healthy young men, one night of total sleep deprivation reduced post-exercise muscle protein synthesis and changed several hormonal measures ([study](https://pubmed.ncbi.nlm.nih.gov/21550729/)). That is important physiology, but it was an acute laboratory protocol—not evidence that every tired lifter loses exactly 18% of muscle growth or that a fixed 60–70% load rule is correct.
+In a controlled study of healthy young men, one night of total sleep deprivation reduced post-exercise muscle protein synthesis and changed several hormonal measures ([study](https://pubmed.ncbi.nlm.nih.gov/21550729/)). That is important physiology, but it was an acute laboratory protocol, not evidence that every tired lifter loses exactly 18% of muscle growth or that a fixed 60–70% load rule is correct.
 
 A review of sleep-loss research found variable effects across strength, power, endurance, and perceptual outcomes. Sleep restriction can make effort feel higher and performance less reliable, but the size and direction of the effect vary by task, dose, and participant ([review](https://pubmed.ncbi.nlm.nih.gov/35708888/)).
 
 ## One bad night versus a recurring problem
 
-An isolated poor night is a reason to reassess the day’s workload, not a reason to assume that adaptation has been erased. Repeated short sleep is different: it can undermine training consistency, mood, appetite, and the ability to judge effort. If poor sleep keeps recurring, investigate the cause—schedule, stress, alcohol, medication, sleep-disordered breathing, or another health issue—rather than adding a stronger pre-workout.
+An isolated poor night is a reason to reassess the day’s workload, not a reason to assume that adaptation has been erased. Repeated short sleep is different: it can undermine training consistency, mood, appetite, and the ability to judge effort. If poor sleep keeps recurring, investigate the cause (schedule, stress, alcohol, medication, sleep-disordered breathing, or another health issue) rather than adding a stronger pre-workout.
 
 Keep a simple record of bedtime, wake time, perceived sleep quality, training performance, and symptoms for a week or two. That record can help distinguish a one-off fluctuation from a pattern and gives a clinician more useful information if assessment is needed.
 

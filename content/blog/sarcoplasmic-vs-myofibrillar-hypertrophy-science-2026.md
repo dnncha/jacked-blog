@@ -3,7 +3,7 @@ updatedAt: "2026-08-15"
 title: "Sarcoplasmic vs Myofibrillar Hypertrophy: What the Evidence Shows"
 excerpt: "Muscle growth includes changes to contractile and non-contractile components, but current research does not support a simple heavy-for-myofibrils, light-for-sarcoplasm training split."
 ---
-Muscle growth is often divided into “myofibrillar” hypertrophy—the contractile machinery—and “sarcoplasmic” hypertrophy—the surrounding fluid, proteins, glycogen, and organelles. The distinction can help describe what researchers measure, but it is frequently presented as a false choice: heavy training supposedly creates dense, strong muscle while high-repetition pump training creates size without function.
+Muscle growth is often divided into “myofibrillar” hypertrophy (the contractile machinery) and “sarcoplasmic” hypertrophy (the surrounding fluid, proteins, glycogen, and organelles). The distinction can help describe what researchers measure, but it is frequently presented as a false choice: heavy training supposedly creates dense, strong muscle while high-repetition pump training creates size without function.
 
 Human muscle adaptation is more integrated than that story.
 
@@ -36,7 +36,7 @@ Choose loading based on the goal and the constraints:
 - stop close enough to failure for the intended stimulus without making every set maximal; and
 - use measurements of load, repetitions, performance, and muscle size to judge progress.
 
-You do not need to chase a pump, a particular fibre fraction, or a “dense” look through a special programme. Add variety when it improves progression, skill, comfort, or adherence—not because a cellular ratio is guaranteed to change.
+You do not need to chase a pump, a particular fibre fraction, or a “dense” look through a special programme. Add variety when it improves progression, skill, comfort, or adherence, not because a cellular ratio is guaranteed to change.
 
 ## The bottom line
 

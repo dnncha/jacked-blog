@@ -5,7 +5,7 @@ excerpt: "Work capacity is the ability to complete quality training and recover 
 ---
 # Work Capacity for Lifters: Build More Useful Training Tolerance
 
-“Work capacity” is often used loosely. For a lifter, it can mean completing more useful work at a given effort, recovering between sets, or tolerating a training week without performance collapsing. It is a practical outcome—not a single biomarker and not proof that someone will build more muscle than another person.
+“Work capacity” is often used loosely. For a lifter, it can mean completing more useful work at a given effort, recovering between sets, or tolerating a training week without performance collapsing. It is a practical outcome, not a single biomarker and not proof that someone will build more muscle than another person.
 
 ## What improves work capacity
 
@@ -57,7 +57,7 @@ Work capacity is useful when it means more controlled, recoverable training. Bui
 
 ## Applying this article
 
-Choose one measurable capacity—quality sets completed, rest needed, or an easy conditioning task—and progress it slowly while keeping the primary lifting plan stable.
+Choose one measurable capacity (quality sets completed, rest needed, or an easy conditioning task) and progress it slowly while keeping the primary lifting plan stable.
 
 ## Limits of the evidence
 

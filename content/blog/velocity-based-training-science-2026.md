@@ -4,7 +4,7 @@ title: "Velocity-Based Training: What the Measurement Can Add"
 excerpt: "Bar speed can help manage load and fatigue for some exercises, but velocity zones are device- and movement-specific and do not replace good programming or judgment."
 ---
 
-Velocity-based training (VBT) uses the speed of a repetition—usually the concentric phase—to inform load selection, set termination, or readiness. It can make an important part of training more observable, but it is not a direct window into the nervous system and it does not remove the need for technique, effort, or recovery.
+Velocity-based training (VBT) uses the speed of a repetition (usually the concentric phase) to inform load selection, set termination, or readiness. It can make an important part of training more observable, but it is not a direct window into the nervous system and it does not remove the need for technique, effort, or recovery.
 
 ## What velocity can measure
 
@@ -33,13 +33,13 @@ For many lifters, RPE/RIR and a careful training log are cheaper and sufficientl
 2. Record the load, repetitions, mean or peak velocity, range of motion, and effort.
 3. Establish an individual baseline across several sessions rather than trusting a generic chart.
 4. Use a conservative stop rule for power or technical work, then review whether it preserves performance.
-5. For hypertrophy, compare total useful work and recovery—not only the fastest rep.
+5. For hypertrophy, compare total useful work and recovery, not only the fastest rep.
 
 VBT can complement an app that records loads, repetitions, and effort. Unless the app is connected to a validated velocity sensor, it should not claim to measure bar speed or infer readiness from it.
 
 ## Bottom line
 
-Velocity is a useful signal when it is measured consistently and tied to a clear decision. It can help manage fatigue and practice high-quality repetitions, but it is exercise-specific, device-dependent, and not a guaranteed route to more muscle. Use it alongside—not instead of—sound progression and judgment.
+Velocity is a useful signal when it is measured consistently and tied to a clear decision. It can help manage fatigue and practice high-quality repetitions, but it is exercise-specific, device-dependent, and not a guaranteed route to more muscle. Use it alongside, not instead of, sound progression and judgment.
 
 ### Sources
 

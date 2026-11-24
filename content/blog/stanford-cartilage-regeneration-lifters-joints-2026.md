@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Cartilage Regeneration Research: What Lifters Should Know"
-excerpt: "A Stanford-led study found cartilage-regeneration signals in mice and human tissue. Here is what it shows—and what it does not yet prove for people."
+excerpt: "A Stanford-led study found cartilage-regeneration signals in mice and human tissue. Here is what it shows, and what it does not yet prove for people."
 ---
 # Cartilage Regeneration Research: What Lifters Should Know
 

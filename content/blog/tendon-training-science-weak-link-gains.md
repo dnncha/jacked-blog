@@ -9,7 +9,7 @@ Tendons transmit force between muscle and bone and adapt to mechanical loading. 
 
 ## What tendon studies show
 
-A systematic review and meta-analysis of healthy adults found that chronic mechanical loading can increase tendon stiffness, material properties, and—more modestly—cross-sectional area. Loading magnitude mattered, but the response varied between studies and tendons. [Read the review.](https://pubmed.ncbi.nlm.nih.gov/27747846/) A larger review similarly found positive adaptations in lower-limb tendon stiffness and modulus, with high local strain resistance training associated with larger changes in some comparisons. [Read the meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/35657492/)
+A systematic review and meta-analysis of healthy adults found that chronic mechanical loading can increase tendon stiffness, material properties, and, more modestly, cross-sectional area. Loading magnitude mattered, but the response varied between studies and tendons. [Read the review.](https://pubmed.ncbi.nlm.nih.gov/27747846/) A larger review similarly found positive adaptations in lower-limb tendon stiffness and modulus, with high local strain resistance training associated with larger changes in some comparisons. [Read the meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/35657492/)
 
 These are tissue-property outcomes, not proof that a programme prevents injury or makes a lifter stronger in every task. A stiffer tendon is not automatically a healthier tendon, and imaging change is not the same as pain relief or return to sport.
 

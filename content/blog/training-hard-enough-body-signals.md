@@ -9,7 +9,7 @@ Here's the uncomfortable truth: **You don't need to measure everything to know i
 
 ## The Problem with Data-Driven Training
 
-Don't get me wrong—tracking has its place. When you're an advanced lifter trying to eke out the last 2% of progress, fine-grained data helps. But most people tracking obsessively are using data as a proxy for something they should be feeling: **effort**.
+Don't get me wrong. Tracking has its place. When you're an advanced lifter trying to eke out the last 2% of progress, fine-grained data helps. But most people tracking obsessively are using data as a proxy for something they should be feeling: **effort**.
 
 If you need a spreadsheet to tell you if you worked hard, you've lost the plot.
 
@@ -19,7 +19,7 @@ The good news? Your body is smarter than any app. You just need to know what to 
 
 ### 1. Mechanical Tension: "Did I feel the muscle working?"
 
-This is the foundation of hypertrophy. When you're doing an exercise correctly, you should feel the target muscle doing the work—not your joints, not your lower back.
+This is the foundation of hypertrophy. When you're doing an exercise correctly, you should feel the target muscle doing the work, not your joints, not your lower back.
 
 **What to look for:**
 - A "burn" or deep ache in the muscle being worked
@@ -69,7 +69,7 @@ This is the most underappreciated signal. **How you feel during your workout tel
 - Are you needing longer rest periods than usual?
 - Do you dread workouts, or are you moderately energized?
 
-If your workout quality is declining over weeks—that's a sign. If it's stable or improving, you're probably on track.
+If your workout quality is declining over weeks, that's a sign. If it's stable or improving, you're probably on track.
 
 ## The "Talk Test" for Training Intensity
 

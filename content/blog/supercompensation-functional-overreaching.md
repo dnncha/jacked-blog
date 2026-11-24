@@ -38,7 +38,7 @@ If performance is stable or improving, continue. If it declines for several sess
 
 Treat it as an experiment, not a rite of passage:
 
-1. choose one variable to raise—sets, frequency, load, or effort;
+1. choose one variable to raise (sets, frequency, load, or effort);
 2. keep the increase small enough to reverse;
 3. protect food and sleep opportunity;
 4. define what would count as success;

@@ -12,9 +12,9 @@ You don't need complicated programs. You need to understand what drives growth.
 
 Muscle adaptation is often discussed through three concepts:
 
-1. **Mechanical tension** — lifting heavy things
-2. **Muscle damage** — a possible consequence of training, not a target by itself
-3. **Metabolic stress** — local fatigue and metabolite accumulation that can accompany hard work
+1. **Mechanical tension**: lifting heavy things
+2. **Muscle damage**: a possible consequence of training, not a target by itself
+3. **Metabolic stress**: local fatigue and metabolite accumulation that can accompany hard work
 
 Mechanical tension and sufficient hard work are central. Damage and the pump can accompany productive training, but chasing soreness or a burn is not a reliable way to measure growth.
 

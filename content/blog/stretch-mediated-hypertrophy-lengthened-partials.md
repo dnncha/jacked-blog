@@ -23,7 +23,7 @@ A broader systematic review and meta-analysis of muscle-length research found mi
 - On stable isolation or machine exercises, experiment with a controlled lengthened-partial set after your main work if the target muscle remains loaded and joints feel good.
 - Do not force depth, a heavy stretch, or a pause through pain. Longer muscle length is a mechanical description, not a safety guarantee.
 - Keep the exercise, load, effort, and volume stable long enough to evaluate the change. Switching several variables at once makes the result uninterpretable.
-- Record whether the partial actually improves the target muscle's work, progression, comfort, or time efficiency—not just whether it produces soreness.
+- Record whether the partial actually improves the target muscle's work, progression, comfort, or time efficiency, not just whether it produces soreness.
 
 The same cue will not transfer cleanly across curls, leg extensions, squats, presses, and calf work. Exercise anatomy and resistance profile matter.
 
@@ -39,10 +39,10 @@ Long-muscle-length training is a promising programming option, not a settled hyp
 
 ### Sources
 
-- [Wolf et al., lengthened partials versus full range of motion](https://pubmed.ncbi.nlm.nih.gov/39959841/) — eight-week within-participant study in 30 resistance-trained adults.
-- [Varović et al., muscle length and regional hypertrophy systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40570881/) — broader evidence with exercise- and outcome-dependent findings.
-- [Kassiano et al., lengthened partials in calf training](https://pubmed.ncbi.nlm.nih.gov/37015016/) — example of why results may differ by muscle and exercise.
-- [Resistance-training technique narrative review](https://pubmed.ncbi.nlm.nih.gov/38249086/) — context for range of motion, technique, and exercise selection.
+- [Wolf et al., lengthened partials versus full range of motion](https://pubmed.ncbi.nlm.nih.gov/39959841/): eight-week within-participant study in 30 resistance-trained adults.
+- [Varović et al., muscle length and regional hypertrophy systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/40570881/): broader evidence with exercise- and outcome-dependent findings.
+- [Kassiano et al., lengthened partials in calf training](https://pubmed.ncbi.nlm.nih.gov/37015016/): example of why results may differ by muscle and exercise.
+- [Resistance-training technique narrative review](https://pubmed.ncbi.nlm.nih.gov/38249086/): context for range of motion, technique, and exercise selection.
 
 ## Related reading
 

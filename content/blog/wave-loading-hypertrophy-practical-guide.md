@@ -3,7 +3,7 @@ updatedAt: "2026-08-15"
 title: "Wave Loading for Hypertrophy: A Flexible Periodization Option"
 excerpt: "Wave loading varies training stress across sessions or weeks. It can organise progression, but it is not proven superior to simpler programmes for muscle growth."
 ---
-Wave loading varies a training variable—often load, repetitions, or volume—across a repeating pattern. A lifter might use a heavier session, a moderate session, and a higher-repetition session rather than trying to make every workout identical.
+Wave loading varies a training variable (often load, repetitions, or volume) across a repeating pattern. A lifter might use a heavier session, a moderate session, and a higher-repetition session rather than trying to make every workout identical.
 
 That can be a useful way to organise competing goals. It is not a special hypertrophy mechanism, and the evidence does not justify presenting a particular percentage, wave length, or deload calendar as universal.
 

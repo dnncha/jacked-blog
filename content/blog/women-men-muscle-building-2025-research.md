@@ -23,7 +23,7 @@ For most healthy adults, the same programming principles apply:
 - eat enough energy and protein for the goal;
 - adjust for schedule, pain, pregnancy, menopause, medical conditions, and sport demands.
 
-“Women should lift only light weights” is not an evidence-based muscle-building rule. Heavy work can be useful, but the right load is the one that matches the exercise, skill, goal, and current capacity—not a gender stereotype.
+“Women should lift only light weights” is not an evidence-based muscle-building rule. Heavy work can be useful, but the right load is the one that matches the exercise, skill, goal, and current capacity, not a gender stereotype.
 
 ## Strength is not the same as muscle size
 
@@ -41,7 +41,7 @@ Start with a repeatable programme rather than sex-specific marketing. Track exer
 
 ## Bottom line
 
-Women and men both respond to progressive resistance training. Current evidence suggests similar relative muscle-size changes on average, with some differences in absolute size and selected outcomes. That is a reason to individualise training—not to prescribe lighter weights, special “toning” ranges, or a fixed expectation for any one person.
+Women and men both respond to progressive resistance training. Current evidence suggests similar relative muscle-size changes on average, with some differences in absolute size and selected outcomes. That is a reason to individualise training, not to prescribe lighter weights, special “toning” ranges, or a fixed expectation for any one person.
 
 ## Related reading
 

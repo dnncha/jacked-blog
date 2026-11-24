@@ -36,10 +36,10 @@ Taurine may produce a small, context-dependent acute performance benefit, but th
 
 ### Sources
 
-- [Deng et al., acute taurine dose and exercise performance](https://pubmed.ncbi.nlm.nih.gov/40852891/) — 2025 meta-analysis of 23 randomized trials and its low-certainty conclusions.
-- [Taurine in sports and exercise](https://pubmed.ncbi.nlm.nih.gov/34039357/) — review describing mixed performance, damage, and recovery findings.
-- [Taurine in triathletes](https://pubmed.ncbi.nlm.nih.gov/28745470/) — small randomized trial with no improvement in the measured performance and damage outcomes.
-- [Taurine dose-response systematic review](https://pubmed.ncbi.nlm.nih.gov/34497536/) — context for varied doses and outcomes.
+- [Deng et al., acute taurine dose and exercise performance](https://pubmed.ncbi.nlm.nih.gov/40852891/): 2025 meta-analysis of 23 randomized trials and its low-certainty conclusions.
+- [Taurine in sports and exercise](https://pubmed.ncbi.nlm.nih.gov/34039357/): review describing mixed performance, damage, and recovery findings.
+- [Taurine in triathletes](https://pubmed.ncbi.nlm.nih.gov/28745470/): small randomized trial with no improvement in the measured performance and damage outcomes.
+- [Taurine dose-response systematic review](https://pubmed.ncbi.nlm.nih.gov/34497536/): context for varied doses and outcomes.
 
 ## Related reading
 

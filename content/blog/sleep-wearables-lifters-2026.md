@@ -21,7 +21,7 @@ For a lifter, the most useful order of attention is usually:
 
 Experimental sleep-loss research gives a reason to take poor sleep seriously: in one controlled study, sleep restriction reduced post-meal and post-exercise muscle protein synthesis in healthy young men. That does not mean one short night “kills gains,” nor does it establish a wearable threshold at which training becomes unsafe. It supports improving sleep and adjusting expectations when poor sleep is persistent. [The study is linked below.](https://pubmed.ncbi.nlm.nih.gov/21550729/)
 
-## What HRV and resting heart rate can—and cannot—do
+## What HRV and resting heart rate can and cannot do
 
 Heart-rate variability (HRV) describes variation in the intervals between beats. Resting heart rate is the average rate under a chosen resting condition. Both can change when training load, sleep, illness, psychological stress, hydration, alcohol, or measurement conditions change.
 
@@ -75,7 +75,7 @@ Prices, models, and software features change quickly, so a permanent “best wea
 
 ## Bottom line
 
-Use sleep wearables as trend trackers. Prioritize sleep opportunity, regularity, symptoms, and training performance; use HRV and resting heart rate as supporting context; and treat sleep-stage percentages and composite scores cautiously. Persistent sleep problems deserve clinical attention, while a single bad score deserves proportionate interpretation—not a dramatic claim about your gains.
+Use sleep wearables as trend trackers. Prioritize sleep opportunity, regularity, symptoms, and training performance; use HRV and resting heart rate as supporting context; and treat sleep-stage percentages and composite scores cautiously. Persistent sleep problems deserve clinical attention, while a single bad score deserves proportionate interpretation, not a dramatic claim about your gains.
 
 ## Related reading
 

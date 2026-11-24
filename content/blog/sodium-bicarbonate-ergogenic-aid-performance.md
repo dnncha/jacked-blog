@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Sodium Bicarbonate for High-Intensity Exercise: What It Can and Cannot Do"
-excerpt: "Sodium bicarbonate can improve some repeated high-intensity efforts, but gastrointestinal and sodium risks make it a context-dependent sports supplement—not a guaranteed hypertrophy aid."
+excerpt: "Sodium bicarbonate can improve some repeated high-intensity efforts, but gastrointestinal and sodium risks make it a context-dependent sports supplement, not a guaranteed hypertrophy aid."
 ---
 
 Sodium bicarbonate is an alkalizing agent that can raise extracellular bicarbonate and help buffer hydrogen ions during some high-intensity exercise. The performance effect is most relevant when repeated efforts are long or intense enough for buffering capacity to become a limiting factor.
@@ -26,7 +26,7 @@ Food, fluids, and ordinary training progression should be solved first. Enteric 
 
 ## A sensible decision rule
 
-Consider sodium bicarbonate only when the event or training repeatedly involves high-intensity efforts where buffering is plausibly limiting, the athlete can test it safely, and the expected benefit is worth the gastrointestinal and sodium risks. Measure the outcome—repetitions, total work, or performance—not the sensation of a stronger burn.
+Consider sodium bicarbonate only when the event or training repeatedly involves high-intensity efforts where buffering is plausibly limiting, the athlete can test it safely, and the expected benefit is worth the gastrointestinal and sodium risks. Measure the outcome (repetitions, total work, or performance), not the sensation of a stronger burn.
 
 ## Bottom line
 

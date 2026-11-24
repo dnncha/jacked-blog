@@ -7,7 +7,7 @@ updatedAt: "2026-08-15"
 
 Sleep matters for lifters, but the usual explanation is often too dramatic. One short night does not switch the body from “anabolic” to “catabolic,” and a growth-hormone number cannot tell you exactly how much muscle you will gain.
 
-The practical case is stronger and simpler: poor or insufficient sleep can make it harder to train well, regulate appetite, recover between sessions, and maintain consistent behaviour. Repeated sleep loss is a reason to adjust the plan and investigate the cause—not a reason to panic about one workout.
+The practical case is stronger and simpler: poor or insufficient sleep can make it harder to train well, regulate appetite, recover between sessions, and maintain consistent behaviour. Repeated sleep loss is a reason to adjust the plan and investigate the cause, not a reason to panic about one workout.
 
 ## What the Human Studies Show
 

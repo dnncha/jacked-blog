@@ -30,7 +30,7 @@ Load and repetitions are more interpretable when the app also records effort, ra
 
 ### 2. A transparent next-target rule
 
-The app should show why it suggests a target. For example, it might recommend repeating a load to add repetitions, adding a small amount after the top of a range, or reducing the target after an unusually difficult session. A suggestion is a starting point—not an instruction to ignore symptoms or form.
+The app should show why it suggests a target. For example, it might recommend repeating a load to add repetitions, adding a small amount after the top of a range, or reducing the target after an unusually difficult session. A suggestion is a starting point, not an instruction to ignore symptoms or form.
 
 ### 3. Volume that can be audited
 
@@ -73,7 +73,7 @@ The best workout app is not the one that promises automatic muscle growth. It is
 
 ## Applying this article
 
-Choose one progression rule for a training block, keep the exercise and effort definitions stable, and review performance over several comparable sessions. Change the programme when the evidence from the log supports the change—not because an app displays a new number.
+Choose one progression rule for a training block, keep the exercise and effort definitions stable, and review performance over several comparable sessions. Change the programme when the evidence from the log supports the change, not because an app displays a new number.
 
 ## Limits of the evidence
 

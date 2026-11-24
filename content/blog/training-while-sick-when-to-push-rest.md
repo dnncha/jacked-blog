@@ -21,7 +21,7 @@ If symptoms are mild, improving, and there are no systemic or cardiopulmonary wa
 
 Acute respiratory illness can affect performance and time away from training. A systematic review of athletes found that most episodes did not result in more than one missed training day, but the evidence was limited and average symptom duration was about a week. That average is not a schedule for one person.
 
-Do not assume that regular exercise “boosts immunity” enough to make hard training safe during infection. Exercise and immune-function research is complex, and the old J-shaped curve is not a reliable individual risk calculator. During illness, the relevant question is current symptoms and safe recovery—not whether a normal week of training is generally healthy.
+Do not assume that regular exercise “boosts immunity” enough to make hard training safe during infection. Exercise and immune-function research is complex, and the old J-shaped curve is not a reliable individual risk calculator. During illness, the relevant question is current symptoms and safe recovery, not whether a normal week of training is generally healthy.
 
 ## If you choose a cautious test
 
@@ -50,7 +50,7 @@ Seek medical advice for persistent fever, breathing difficulty, dehydration, wor
 
 ## The bottom line
 
-Rest for fever, systemic symptoms, gastrointestinal illness, cardiopulmonary symptoms, or worsening infection. A mild, improving upper-respiratory illness may permit a cautious easy trial for some people, but the neck-check rule is not clearance. Let symptoms, safety, contagion, and the next-day response decide—not fear of losing gains.
+Rest for fever, systemic symptoms, gastrointestinal illness, cardiopulmonary symptoms, or worsening infection. A mild, improving upper-respiratory illness may permit a cautious easy trial for some people, but the neck-check rule is not clearance. Let symptoms, safety, contagion, and the next-day response decide, not fear of losing gains.
 
 ## Related reading
 
