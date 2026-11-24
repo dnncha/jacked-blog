@@ -99,7 +99,7 @@ const proofPoints = [
     icon: 'chart',
     eyebrow: '02 · TARGET',
     title: 'Get a next-set target',
-    copy: 'Today’s load and reps sit on the set, so progressive overload is the next number, not a guess.',
+    copy: 'With Surpass Pro, today’s load and reps sit on the set, so progressive overload is the next number, not a guess.',
   },
   {
     icon: 'trend',
@@ -114,7 +114,7 @@ const workflow = [
     step: '01',
     icon: 'clipboard',
     title: 'Open the set with a target',
-    copy: 'Last time and today’s target are already on the set before you unrack.',
+    copy: 'Last time is already on the set before you unrack, and Surpass Pro adds today’s target beside it.',
     screen: 1,
     imageAlt: 'Surpass screenshot: every set shows today’s target beside what you lifted last time',
     caption: 'Target beside last time',
@@ -134,7 +134,7 @@ const workflow = [
     step: '03',
     icon: 'trend',
     title: 'Leave with the next workout',
-    copy: 'The summary leads with PRs. Targets for next time are set from what you just lifted.',
+    copy: 'The summary leads with PRs. With Surpass Pro, targets for next time are set from what you just lifted.',
     screen: 6,
     imageAlt: 'Surpass screenshot: next workout targets set from the session you just finished',
     caption: 'Next time is already set',
@@ -146,8 +146,8 @@ const featureCards = [
   {
     icon: 'target',
     title: 'Next-set targets',
-    copy: 'Each set shows what you lifted last time and a target for today, side by side.',
-    bullets: ['Last time stays visible', 'Today’s load and reps on the set', 'Targets update from the session you just saved'],
+    copy: 'Each set shows what you lifted last time. Surpass Pro adds a target for today beside it.',
+    bullets: ['Last time stays visible, free', 'Today’s load and reps on the set with Pro', 'Your first guided workout is free'],
   },
   {
     icon: 'chart',
@@ -178,13 +178,13 @@ const featureCards = [
 const confidenceItems = [
   {
     icon: 'chart',
-    title: 'Start with targets',
-    copy: 'Open the workout with the next load, rep range, and recent result already in view.',
+    title: 'Start with last time',
+    copy: 'Open the workout with your recent result already in view. Surpass Pro adds the next load and rep range.',
   },
   {
     icon: 'sync',
     title: 'Keep control',
-    copy: 'Run your own program, swap exercises, edit sets, and accept or ignore targets.',
+    copy: 'Run your own program, swap exercises, edit sets, and accept or ignore any target.',
   },
   {
     icon: 'shield',
@@ -196,7 +196,7 @@ const confidenceItems = [
 const switchReasons = [
   {
     title: 'Coming from Hevy or Strong',
-    quote: 'Keep the sets you already logged. Surpass puts a next-set target beside last time, without an account.',
+    quote: 'Keep the sets you already logged, without an account. Surpass Pro puts a next-set target beside last time.',
   },
   {
     title: 'Spreadsheet lifters',
@@ -231,11 +231,11 @@ const faqs = [
   },
   {
     question: 'Does it work for advanced trainees?',
-    answer: 'Yes. You keep the program. Surpass shows last time, a next-set target, and an all-time PR alert while you log. Optional Pro adds auto-progression, adaptive programs, and insights.',
+    answer: 'Yes. You keep the program. Surpass shows last time and an all-time PR alert while you log. Optional Surpass Pro adds a next-set target for every set, auto-progression, adaptive programs, and insights.',
   },
   {
     question: 'Is Surpass free?',
-    answer: 'Logging, routines, personal records, and CSV import are free, with no account. Surpass Pro is optional: in the US App Store on 5 October 2026 it was $59.99 a year or $12.99 a month, with a 7-day trial. Apple shows the local price in the subscription sheet.',
+    answer: 'Logging, routines, personal records, and CSV import are free, with no account. Next-set targets are part of Surpass Pro, and your first guided workout shows them free. Surpass Pro is optional: in the US App Store on 5 October 2026 it was $59.99 a year or $12.99 a month, with a 7-day trial. Apple shows the local price in the subscription sheet.',
   },
   {
     question: 'Where is my workout data stored?',
@@ -611,10 +611,10 @@ export default function HomeClient() {
               </span>
             </h1>
             <p>
-              Beat last week. Surpass puts today’s load and reps beside what you lifted last time, alerts you on an all-time PR, and keeps the log on your iPhone.
+              Beat last week. Surpass Pro puts today’s load and reps beside what you lifted last time. The free log alerts you on an all-time PR and keeps your history on your iPhone, and your first guided workout shows the targets free.
             </p>
             <div className="hero-benefits" aria-label="Surpass product benefits">
-              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Next-set targets</span>
+              <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Next-set targets with Pro</span>
               <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> Live PR alerts</span>
               <span><Check aria-hidden="true" size={16} strokeWidth={2.4} /> No account required</span>
             </div>
