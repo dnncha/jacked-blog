@@ -27,7 +27,7 @@ const faqs = [
   },
   {
     question: 'Where is my data stored?',
-    answer: 'Workout data is stored locally on your device. Surpass does not run a user-account server for your workout history. See the privacy policy for the full data-handling summary.',
+    answer: 'On your iPhone. Surpass has no accounts and no server that stores your workouts or photos, and it does not sync them to iCloud. The privacy policy lists every service that receives any data, and what each one gets.',
   },
   {
     question: 'Is Surpass free?',
@@ -43,11 +43,11 @@ const faqs = [
   },
   {
     question: 'Can I export my data?',
-    answer: 'Yes. Use the export option in Settings to keep a copy of your workout history.',
+    answer: 'Yes. In Settings, tap Export data to save your history as JSON or CSV, with or without your photos.',
   },
   {
     question: 'How do I delete my data?',
-    answer: 'Your workout data lives on your device, so deleting Surpass removes it from that iPhone, subject to your Apple backup and sync settings. Export first if you want to keep a copy.',
+    answer: 'Open Settings in Surpass and tap Delete all data. It erases your workouts, plans, measurements, photos and settings from the iPhone, turns analytics off and removes the weigh-ins Surpass saved to Apple Health. Export first if you want to keep a copy.',
   },
 ]
 

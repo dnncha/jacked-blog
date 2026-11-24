@@ -12,7 +12,7 @@ export default function TermsPage() {
   return (
     <LegalPage
       title="Terms of Service"
-      updated="Last updated: May 21, 2026"
+      updated="Last updated: November 24, 2026"
       intro="By downloading, installing, or using Surpass, you agree to these terms. If you do not agree, do not use the app."
     >
       <h2>Description of service</h2>
@@ -37,13 +37,20 @@ export default function TermsPage() {
 
       <h2>Your data</h2>
       <p>
-        You own your workout data. See the Privacy Policy for details on local storage, HealthKit, exports, and data handling.
+        You own your workout data. See the <a href="/privacy/">Privacy Policy</a> for details on local storage, Apple Health, exports, and data handling.
       </p>
 
       <h2>In-app purchases</h2>
       <p>
-        Surpass may offer optional paid features through Apple's In-App Purchase system. Purchases and subscriptions are processed by Apple and subject to Apple's terms.
+        Surpass is free to download. Surpass Pro is an optional auto-renewing subscription sold through Apple&apos;s In-App Purchase system. The price, billing period and any free trial are shown in the app before you confirm, and Apple charges your Apple ID.
       </p>
+      <ul>
+        <li>Your subscription renews automatically unless you cancel it at least 24 hours before the end of the current period.</li>
+        <li>If you cancel during a free trial at least 24 hours before it ends, you are not charged.</li>
+        <li>Manage or cancel in iOS Settings &gt; your name &gt; Subscriptions. Access continues until the end of the period you paid for.</li>
+        <li>Refunds are handled by Apple under its policies. You can ask at reportaproblem.apple.com.</li>
+        <li>Your use of the app is also subject to Apple&apos;s Licensed Application End User License Agreement.</li>
+      </ul>
 
       <h2>Intellectual property</h2>
       <p>
