@@ -5,7 +5,7 @@ excerpt: "There is no universal hypertrophy session length; use weekly training 
 ---
 # How Long Should a Workout Last for Muscle Growth?
 
-There is no scientifically established workout length that maximises muscle growth for every lifter. A 30-minute session can be useful, and a 90-minute session can be useful. Duration is an output of the work you need to do, the rest that lets you do it well, and the time your life allows—not a quality score by itself.
+There is no scientifically established workout length that maximises muscle growth for every lifter. A 30-minute session can be useful, and a 90-minute session can be useful. Duration is an output of the work you need to do, the rest that lets you do it well, and the time your life allows, not a quality score by itself.
 
 ## What determines a useful session length?
 

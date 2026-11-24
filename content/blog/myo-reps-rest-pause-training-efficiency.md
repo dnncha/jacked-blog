@@ -43,15 +43,15 @@ They also are not a shortcut around total training dose, protein, recovery, or p
 
 ## Bottom line
 
-Myo-reps and rest-pause sets are reasonable options for making accessory training denser. Current research on related rest-pause and drop-set methods suggests broadly similar hypertrophy when training is otherwise matched, with possible time savings. Use them because they fit your schedule and technique—not because the format has been proven superior for everyone.
+Myo-reps and rest-pause sets are reasonable options for making accessory training denser. Current research on related rest-pause and drop-set methods suggests broadly similar hypertrophy when training is otherwise matched, with possible time savings. Use them because they fit your schedule and technique, not because the format has been proven superior for everyone.
 
 ## Evidence
 
 ### Sources
 
-- [Prestes et al., rest-pause and drop-set training versus traditional sets](https://pubmed.ncbi.nlm.nih.gov/34260860/) — eight weeks in 28 resistance-trained men, with similar hypertrophy between conditions.
-- [Thapa et al., effects of drop sets on skeletal-muscle hypertrophy](https://pubmed.ncbi.nlm.nih.gov/37523092/) — systematic review and meta-analysis of a time-efficient format.
-- [Grgic et al., short versus long inter-set rest intervals](https://pubmed.ncbi.nlm.nih.gov/28641044/) — context for performance and hypertrophy when rest intervals differ.
+- [Prestes et al., rest-pause and drop-set training versus traditional sets](https://pubmed.ncbi.nlm.nih.gov/34260860/): eight weeks in 28 resistance-trained men, with similar hypertrophy between conditions.
+- [Thapa et al., effects of drop sets on skeletal-muscle hypertrophy](https://pubmed.ncbi.nlm.nih.gov/37523092/): systematic review and meta-analysis of a time-efficient format.
+- [Grgic et al., short versus long inter-set rest intervals](https://pubmed.ncbi.nlm.nih.gov/28641044/): context for performance and hypertrophy when rest intervals differ.
 
 ## Related reading
 

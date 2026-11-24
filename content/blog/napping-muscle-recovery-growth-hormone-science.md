@@ -10,7 +10,7 @@ A nap can be useful when training, work, travel, or family life has reduced slee
 
 Sleep loss can affect performance, appetite, mood, and aspects of muscle protein metabolism. In a small laboratory study, one night of total sleep deprivation reduced post-exercise muscle protein synthesis in healthy young men ([study](https://pubmed.ncbi.nlm.nih.gov/21550729/)). That finding supports protecting sleep, but it does not tell us that a particular nap restores the entire response.
 
-Growth hormone is released in pulses, including during sleep. A pulse is a physiological measurement, not a guarantee of new muscle tissue. GH also has functions beyond skeletal-muscle hypertrophy, and the nap studies below generally measure performance, alertness, soreness, or sleep—not long-term muscle gain.
+Growth hormone is released in pulses, including during sleep. A pulse is a physiological measurement, not a guarantee of new muscle tissue. GH also has functions beyond skeletal-muscle hypertrophy, and the nap studies below generally measure performance, alertness, soreness, or sleep, not long-term muscle gain.
 
 ## What nap research shows
 

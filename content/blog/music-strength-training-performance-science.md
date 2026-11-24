@@ -43,7 +43,7 @@ Treat music as a preference and adherence tool first.
 - Keep the same exercise, load, rest, and effort rules when comparing sessions. Otherwise, it is impossible to tell whether performance changed because of the music.
 - Do not use a beat as a mandatory rep-speed cue for heavy or technical lifts.
 - Lower the volume or remove headphones when you need to hear coaching, a spotter, equipment warnings, or your surroundings.
-- If you are testing whether it helps, compare several similar sessions with and without music and look at repetitions at a fixed load, technical quality, and session RPE—not one unusually good set.
+- If you are testing whether it helps, compare several similar sessions with and without music and look at repetitions at a fixed load, technical quality, and session RPE, not one unusually good set.
 
 There is no evidence-based universal playlist tempo, decibel level, or “best” genre for hypertrophy. The best track is the one that supports your attention and effort without compromising safety.
 
@@ -51,7 +51,7 @@ There is no evidence-based universal playlist tempo, decibel level, or “best�
 
 Preferred music is a reasonable low-cost aid for motivation and may improve performance in some repeated-effort tasks. The effect is context-dependent, and the current evidence does not justify claims that a particular BPM, volume, or playlist will maximise strength or muscle growth.
 
-Use music when it helps you train consistently. Keep the claims—and the experiment—small enough that your own training log can test them.
+Use music when it helps you train consistently. Keep the claims and the experiment small enough that your own training log can test them.
 
 ## Applying this article
 

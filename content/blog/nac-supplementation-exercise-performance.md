@@ -18,7 +18,7 @@ That does not mean oxidative stress is simply damage to remove. Redox signalling
 
 ## What the performance reviews show
 
-A systematic review and meta-analysis of NAC found a very small pooled performance effect—about 0.29% in the included analysis—with wide uncertainty and no basis for routine recommendation. A later review in adult men also found varied effects across physical-performance and laboratory outcomes.
+A systematic review and meta-analysis of NAC found a very small pooled performance effect (about 0.29% in the included analysis) with wide uncertainty and no basis for routine recommendation. A later review in adult men also found varied effects across physical-performance and laboratory outcomes.
 
 The evidence is more relevant to selected endurance or fatigue protocols than to a healthy lifter’s strength or hypertrophy plan. There is no reliable basis for promising less DOMS, better strength recovery, or more muscle from NAC.
 

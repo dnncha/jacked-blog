@@ -41,16 +41,16 @@ Use signalling research to understand mechanisms, not to replace outcome evidenc
 
 ## Bottom line
 
-Muscle-to-organ communication is real and scientifically important. The current evidence supports a complex, context-dependent signalling network—not a secret language with a simple translation into fat loss, anti-aging, cancer protection, or guaranteed hypertrophy. Train for measurable outcomes and treat circulating myokine claims as an active research area.
+Muscle-to-organ communication is real and scientifically important. The current evidence supports a complex, context-dependent signalling network, not a secret language with a simple translation into fat loss, anti-aging, cancer protection, or guaranteed hypertrophy. Train for measurable outcomes and treat circulating myokine claims as an active research area.
 
 ## Evidence
 
 ### Sources
 
-- [Hah et al., “Decoding the Endocrine Code of Skeletal Muscle”](https://pubmed.ncbi.nlm.nih.gov/41744761/) — 2026 review of myokines, exerkines, extracellular vesicles, and the limits of causal interpretation.
-- [Chow et al., “Exerkines in health, resilience and disease”](https://pubmed.ncbi.nlm.nih.gov/38597350/) — review of exercise-responsive signals and translational uncertainty.
-- [Exercise-mediated muscle-organ crosstalk review](https://pubmed.ncbi.nlm.nih.gov/38604409/) — context for interpreting proposed endocrine effects.
-- [Exercise-induced myokine research](https://pubmed.ncbi.nlm.nih.gov/41301508/) — an example of why timing, tissue source, and outcome selection matter.
+- [Hah et al., “Decoding the Endocrine Code of Skeletal Muscle”](https://pubmed.ncbi.nlm.nih.gov/41744761/): 2026 review of myokines, exerkines, extracellular vesicles, and the limits of causal interpretation.
+- [Chow et al., “Exerkines in health, resilience and disease”](https://pubmed.ncbi.nlm.nih.gov/38597350/): review of exercise-responsive signals and translational uncertainty.
+- [Exercise-mediated muscle-organ crosstalk review](https://pubmed.ncbi.nlm.nih.gov/38604409/): context for interpreting proposed endocrine effects.
+- [Exercise-induced myokine research](https://pubmed.ncbi.nlm.nih.gov/41301508/): an example of why timing, tissue source, and outcome selection matter.
 
 ## Related reading
 

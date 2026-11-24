@@ -132,10 +132,10 @@ Surpass-specific workflow statements are based on the current first-party [progr
 
 ### Sources
 
-- [Progression models in resistance training](https://pubmed.ncbi.nlm.nih.gov/19204579/) — context for progressive resistance training in healthy adults.
-- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — why overload should be interpreted alongside total training dose.
-- [Autoregulation versus fixed loading](https://pubmed.ncbi.nlm.nih.gov/33776802/) — context for using current performance to adjust training.
-- [Proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/) — context for recording effort instead of treating completed repetitions as sufficient information.
+- [Progression models in resistance training](https://pubmed.ncbi.nlm.nih.gov/19204579/): context for progressive resistance training in healthy adults.
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/): why overload should be interpreted alongside total training dose.
+- [Autoregulation versus fixed loading](https://pubmed.ncbi.nlm.nih.gov/33776802/): context for using current performance to adjust training.
+- [Proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/): context for recording effort instead of treating completed repetitions as sufficient information.
 
 ## Limits of the evidence
 

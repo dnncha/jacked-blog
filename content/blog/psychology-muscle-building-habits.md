@@ -35,13 +35,13 @@ Enjoyment, social support, exercise choice, and a manageable dose can help a per
 
 Missing one workout is information, not a moral failure. Identify what interrupted the plan and adjust the cue, time, location, or session size. There is no evidence-based 24-hour deadline that applies to every person; returning at the next realistic opportunity is more useful than doubling the workload to “make up” for a miss.
 
-## Where an app helps—and where it does not
+## Where an app helps and where it does not
 
 A tracker such as Surpass can reduce memory and logging friction by saving the session, showing previous performance, and making the next action visible. That supports a routine; it does not independently create motivation, prove adherence, or guarantee muscle growth. Use the app to observe what you actually repeat, not to turn every missed session into a failure score.
 
 ## A four-week experiment
 
-For one month, choose two or three training slots, one fallback slot, and a minimum viable session. Record whether the session happened, what prevented it when it did not, and whether the dose felt sustainable. At the end of the month, change one variable—time, location, session length, exercise selection, or social support—and test again.
+For one month, choose two or three training slots, one fallback slot, and a minimum viable session. Record whether the session happened, what prevented it when it did not, and whether the dose felt sustainable. At the end of the month, change one variable (time, location, session length, exercise selection, or social support) and test again.
 
 This is a personal experiment, not a validated universal protocol. The outcome to optimize first is repeatability. Load, volume, and specialization can be refined after the behaviour is present often enough to measure.
 
@@ -53,10 +53,10 @@ Habit research supports concrete cues, planning, manageable routines, and repeat
 
 ### Sources
 
-- [Singh et al., time to form a health-behaviour habit](https://pubmed.ncbi.nlm.nih.gov/39685110/) — systematic review and meta-analysis with substantial individual variation and evidence-quality limitations.
-- [Habit-formation interventions and physical-activity habit strength](https://pubmed.ncbi.nlm.nih.gov/37700303/) — meta-analysis of physical-activity habit interventions.
-- [Implementation intentions and physical activity](https://pubmed.ncbi.nlm.nih.gov/30427874/) — systematic review and meta-analysis of randomized trials.
-- [Implementation intentions: who they work for](https://pubmed.ncbi.nlm.nih.gov/31923898/) — review describing moderation by self-efficacy, intention, and habit strength.
+- [Singh et al., time to form a health-behaviour habit](https://pubmed.ncbi.nlm.nih.gov/39685110/): systematic review and meta-analysis with substantial individual variation and evidence-quality limitations.
+- [Habit-formation interventions and physical-activity habit strength](https://pubmed.ncbi.nlm.nih.gov/37700303/): meta-analysis of physical-activity habit interventions.
+- [Implementation intentions and physical activity](https://pubmed.ncbi.nlm.nih.gov/30427874/): systematic review and meta-analysis of randomized trials.
+- [Implementation intentions: who they work for](https://pubmed.ncbi.nlm.nih.gov/31923898/): review describing moderation by self-efficacy, intention, and habit strength.
 
 ## Related reading
 

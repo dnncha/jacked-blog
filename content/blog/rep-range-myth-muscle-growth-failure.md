@@ -19,7 +19,7 @@ A set must be sufficiently challenging for the intended muscle. Sets stopped far
 
 A controlled trial in resistance-trained people found similar quadriceps hypertrophy after eight weeks when sets stopped with repetitions in reserve compared with momentary failure. That supports a flexible approach: work close enough to failure for the goal, but leave a margin when it protects technique, recovery, or safety.
 
-“Effective reps” can be a coaching heuristic, but no app or chart can count an exact number of growth-producing repetitions. Use the concept to ask whether the set was hard, controlled, and recoverable—not to label earlier repetitions as worthless.
+“Effective reps” can be a coaching heuristic, but no app or chart can count an exact number of growth-producing repetitions. Use the concept to ask whether the set was hard, controlled, and recoverable, not to label earlier repetitions as worthless.
 
 ## Choose the range by the task
 

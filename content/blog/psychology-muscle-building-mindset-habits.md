@@ -5,7 +5,7 @@ excerpt: "Training psychology affects consistency, but mindset does not override
 ---
 # The Psychology of Muscle Building: Habits That Make Training Repeatable
 
-Muscle growth requires a physical stimulus, nutrition, recovery, and time. Psychology determines whether those ingredients are available often enough to matter. It is therefore important—but it is not more powerful than genetics, protein, or training in every situation, and it should not be used to blame someone for a plateau or a health problem.
+Muscle growth requires a physical stimulus, nutrition, recovery, and time. Psychology determines whether those ingredients are available often enough to matter. It is therefore important, but it is not more powerful than genetics, protein, or training in every situation, and it should not be used to blame someone for a plateau or a health problem.
 
 ## Motivation is useful, but unreliable
 

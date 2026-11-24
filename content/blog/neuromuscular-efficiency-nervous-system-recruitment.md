@@ -21,7 +21,7 @@ Early strength gains often outpace measured hypertrophy, especially when the exe
 
 The evidence is less tidy than the common “the first 8–12 weeks are neural” slogan. A systematic review of resistance-training effects on motor-unit firing properties included only seven trials and 167 participants; it found heterogeneous, low-to-moderate evidence and no clear overall change in motor-unit discharge rate. That is a reason to use cautious language, not a reason to dismiss neural adaptation.
 
-## What EMG and “activation” can—and cannot—show
+## What EMG and “activation” can and cannot show
 
 Surface EMG can help compare electrical signals in a specific experiment, but a larger EMG amplitude does not prove that a muscle will grow more. Signal placement, cross-talk, fatigue, exercise technique, and normalization all matter. The methodological literature specifically warns against treating an acute EMG difference as a long-term hypertrophy result.
 
@@ -43,10 +43,10 @@ Resistance training changes how the nervous system and muscles work together, an
 
 ### Sources
 
-- [Buckthorpe et al., motor-unit firing properties systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35295567/) — seven trials, 167 participants, and heterogeneous evidence for neural changes.
-- [Erskine et al., strength and specific-force meta-analysis](https://pubmed.ncbi.nlm.nih.gov/30357517/) — context for strength gains that exceed measured hypertrophy.
-- [Vigotsky et al., interpreting surface-EMG amplitudes](https://pubmed.ncbi.nlm.nih.gov/29354060/) — why EMG comparisons should not be converted directly into growth claims.
-- [Low- versus high-load resistance-training systematic review](https://pubmed.ncbi.nlm.nih.gov/34769755/) — context for separating strength and hypertrophy outcomes.
+- [Buckthorpe et al., motor-unit firing properties systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35295567/): seven trials, 167 participants, and heterogeneous evidence for neural changes.
+- [Erskine et al., strength and specific-force meta-analysis](https://pubmed.ncbi.nlm.nih.gov/30357517/): context for strength gains that exceed measured hypertrophy.
+- [Vigotsky et al., interpreting surface-EMG amplitudes](https://pubmed.ncbi.nlm.nih.gov/29354060/): why EMG comparisons should not be converted directly into growth claims.
+- [Low- versus high-load resistance-training systematic review](https://pubmed.ncbi.nlm.nih.gov/34769755/): context for separating strength and hypertrophy outcomes.
 
 ## Related reading
 

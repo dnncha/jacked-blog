@@ -45,7 +45,7 @@ Fix the clearest constraint first. There is no universal “eight hours minimum,
 
 ## Consider a lower-fatigue week when the evidence points there
 
-A reduction in training demand can be useful after a period of accumulated fatigue, but a deload is not required every four to six weeks and there is no universal 40–50% reduction. Reduce the variable that is creating the problem—hard sets, failure work, exercise complexity, or frequency—then see whether performance returns.
+A reduction in training demand can be useful after a period of accumulated fatigue, but a deload is not required every four to six weeks and there is no universal 40–50% reduction. Reduce the variable that is creating the problem (hard sets, failure work, exercise complexity, or frequency), then see whether performance returns.
 
 If a lower-fatigue week improves how the session moves, that suggests fatigue was part of the problem. It does not prove that your nervous system was “burned out” or that hormones were chronically suppressed.
 

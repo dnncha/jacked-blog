@@ -43,7 +43,7 @@ Use the same principles as other resistance training:
 4. add repetitions, band tension, stretch, sets, range, or a harder variation one at a time;
 5. keep technique stable as the band becomes harder.
 
-Failure is not mandatory for every set. A set that ends close to failure can be effective, while repeated failure work may make the rest of the week harder to recover from. If the band is too easy, step farther from the anchor, use a stronger band, shorten the starting length, slow the movement, or choose a harder variation—but record what changed.
+Failure is not mandatory for every set. A set that ends close to failure can be effective, while repeated failure work may make the rest of the week harder to recover from. If the band is too easy, step farther from the anchor, use a stronger band, shorten the starting length, slow the movement, or choose a harder variation, but record what changed.
 
 Very slow repetitions and peak-contraction pauses are optional ways to make a set harder. They are not magic requirements, and they should not turn a controlled exercise into a painful one.
 

@@ -39,7 +39,7 @@ If progress has slowed, audit the variables that can actually be observed: perfo
 
 Researchers continue to test therapies that affect myostatin or related signalling, especially for muscle-wasting diseases. That work may eventually produce useful treatments for defined clinical conditions. It does not justify predicting an approval date, assuming a drug will improve healthy-athlete hypertrophy, or using an unapproved product.
 
-For any medication, peptide, or research chemical, the relevant questions are clinical indication, trial evidence, adverse effects, product quality, interactions, and medical supervision—not whether a social-media claim calls it a “brake release.”
+For any medication, peptide, or research chemical, the relevant questions are clinical indication, trial evidence, adverse effects, product quality, interactions, and medical supervision, not whether a social-media claim calls it a “brake release.”
 
 ## The bottom line
 

@@ -1,9 +1,9 @@
 ---
 updatedAt: "2026-08-15"
-title: "Pre-Sleep Protein: What Casein Can—and Cannot—Add"
+title: "Pre-Sleep Protein: What Casein Can and Cannot Add"
 excerpt: "Pre-sleep casein can raise overnight protein synthesis in some studies, but it is optional; total daily protein, calories, tolerance, and the full meal pattern matter more than a bedtime secret."
 ---
-# Pre-Sleep Protein: What Casein Can—and Cannot—Add
+# Pre-Sleep Protein: What Casein Can and Cannot Add
 
 Eating protein before bed is a practical option, not a secret muscle-building window. Casein and other protein foods can provide amino acids during the night, and controlled studies have measured higher overnight protein-synthesis responses after pre-sleep casein. The harder question is whether adding it to an already adequate diet produces a meaningful extra gain in muscle size or strength.
 

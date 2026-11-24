@@ -57,7 +57,7 @@ For most lifters, a useful structure is:
 - make each meal substantial enough to contribute meaningfully to the daily total;
 - place a meal or snack before or after training according to appetite and tolerance;
 - use a supplement only when it solves a convenience problem;
-- judge the plan by adherence, training, body-mass trend, and recovery—not by one acute MPS headline.
+- judge the plan by adherence, training, body-mass trend, and recovery, not by one acute MPS headline.
 
 The commonly cited per-kilogram ranges in sports nutrition are planning tools, not universal minimums or guarantees. Needs change with body size, age, training status, energy intake, food preferences, and health.
 

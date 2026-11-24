@@ -34,7 +34,7 @@ Older adults, people in an energy deficit, and people with kidney or other medic
 
 ## Bottom line
 
-PDCAAS and DIAAS help describe protein composition and digestibility, but they are not muscle-growth leaderboards. Use them to build adequate, varied meals, then judge a diet by total protein, training progression, health, and adherence—not by a marketing table or a fabricated percentage advantage.
+PDCAAS and DIAAS help describe protein composition and digestibility, but they are not muscle-growth leaderboards. Use them to build adequate, varied meals, then judge a diet by total protein, training progression, health, and adherence, not by a marketing table or a fabricated percentage advantage.
 
 ### Sources
 

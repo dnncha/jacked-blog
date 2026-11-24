@@ -67,7 +67,7 @@ Progressive overload is a decision process, not a single number. Add load when i
 
 ## Applying this article
 
-Choose one exercise, one progression variable, and one outcome. Run the rule for several exposures, log what happened, and change only when the trend—not one difficult day—supports it.
+Choose one exercise, one progression variable, and one outcome. Run the rule for several exposures, log what happened, and change only when the trend (not one difficult day) supports it.
 
 ## Limits of the evidence
 

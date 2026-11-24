@@ -17,7 +17,7 @@ Researchers measure several outcomes that marketing pages often blend together:
 - blood markers such as creatine kinase; and
 - muscle thickness or lean mass over time.
 
-An intervention can change one of these outcomes without changing hypertrophy. For muscle growth, the relevant question is whether a well-controlled, sufficiently long resistance-training study shows a meaningful additional adaptation—not whether light changes a mechanism or makes one workout feel different.
+An intervention can change one of these outcomes without changing hypertrophy. For muscle growth, the relevant question is whether a well-controlled, sufficiently long resistance-training study shows a meaningful additional adaptation, not whether light changes a mechanism or makes one workout feel different.
 
 ## What current reviews suggest
 
