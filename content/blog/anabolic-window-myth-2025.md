@@ -4,7 +4,7 @@ excerpt: "What protein-timing research says about the post-workout window, daily
 category: "Nutrition"
 updatedAt: "2026-08-15"
 ---
-The idea that a workout opens a 30-minute window—and that missing it costs your gains—is a useful marketing story, not a reliable description of muscle growth. Protein timing can matter at the margins, especially when meals are far apart or training is performed fasted, but total protein and total energy matter more.
+The idea that a workout opens a 30-minute window, and that missing it costs your gains, is a useful marketing story, not a reliable description of muscle growth. Protein timing can matter at the margins, especially when meals are far apart or training is performed fasted, but total protein and total energy matter more.
 
 ## What the Post-Workout Window Actually Means
 
@@ -52,7 +52,7 @@ You do not need to change the plan because a meal happened 90 minutes after trai
 
 ## Bottom Line
 
-The narrow anabolic-window story is overstated. Muscle remains responsive after training, and a pre-workout meal can continue to provide amino acids. Prioritise daily protein, a consistent eating pattern, adequate energy, and training you can repeat. Use timing to make those fundamentals easier—not to create unnecessary anxiety.
+The narrow anabolic-window story is overstated. Muscle remains responsive after training, and a pre-workout meal can continue to provide amino acids. Prioritise daily protein, a consistent eating pattern, adequate energy, and training you can repeat. Use timing to make those fundamentals easier, not to create unnecessary anxiety.
 
 ## Evidence
 
@@ -60,10 +60,10 @@ Protein-timing trials differ in the amount of protein participants already eat, 
 
 ### Sources
 
-- [Casuso and Goossens, protein ingestion timing and exercise adaptations](https://pubmed.ncbi.nlm.nih.gov/40647175/) — 2025 systematic review and meta-analysis of direct pre- versus post-exercise comparisons.
-- [Schoenfeld and Aragon, the post-workout anabolic window](https://pubmed.ncbi.nlm.nih.gov/30702982/) — review explaining why a narrow window is not established.
-- [Pre- versus post-exercise protein intake](https://pubmed.ncbi.nlm.nih.gov/28070459/) — randomized training study in resistance-trained men.
-- [ISSN position stand: protein and exercise](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8) — context for daily protein and exercise.
+- [Casuso and Goossens, protein ingestion timing and exercise adaptations](https://pubmed.ncbi.nlm.nih.gov/40647175/): 2025 systematic review and meta-analysis of direct pre- versus post-exercise comparisons.
+- [Schoenfeld and Aragon, the post-workout anabolic window](https://pubmed.ncbi.nlm.nih.gov/30702982/): review explaining why a narrow window is not established.
+- [Pre- versus post-exercise protein intake](https://pubmed.ncbi.nlm.nih.gov/28070459/): randomized training study in resistance-trained men.
+- [ISSN position stand: protein and exercise](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8): context for daily protein and exercise.
 
 ---
 

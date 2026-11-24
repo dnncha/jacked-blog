@@ -27,7 +27,7 @@ Eggs are a convenient complete protein, but “gold standard” is marketing lan
 
 **Illustrative cost:** compare the price per edible portion, not just the package.
 
-Chicken thighs are significantly cheaper than chicken breasts and contain slightly more fat—which isn't the disaster the fitness industry once made it out to be. Fat doesn't make you fat; excess calories do. And the slightly higher fat content actually improves satiety, which helps if you're trying to eat in a surplus.
+Chicken thighs are significantly cheaper than chicken breasts and contain slightly more fat, which isn't the disaster the fitness industry once made it out to be. Fat doesn't make you fat; excess calories do. And the slightly higher fat content actually improves satiety, which helps if you're trying to eat in a surplus.
 
 A cooked serving of chicken thigh provides substantial protein and is often priced differently from breast meat, but the exact nutrition and value depend on the cut, skin, cooking method, and local price. Compare the label and the price per useful serving.
 
@@ -35,7 +35,7 @@ A cooked serving of chicken thigh provides substantial protein and is often pric
 
 **Illustrative cost:** compare labels and local prices.
 
-Canned fish is often a convenient protein source. Tuna content and price vary by can; sardines may also provide omega-3 fats and calcium. Those are nutrition features—not proof of a special muscle-building effect. Follow local fish-consumption advice for species, frequency, pregnancy, and mercury exposure.
+Canned fish is often a convenient protein source. Tuna content and price vary by can; sardines may also provide omega-3 fats and calcium. Those are nutrition features, not proof of a special muscle-building effect. Follow local fish-consumption advice for species, frequency, pregnancy, and mercury exposure.
 
 ### 4. Greek Yogurt (Protein-Packed Dairy)
 
@@ -85,7 +85,7 @@ The point is the protein structure, not a fixed savings claim. Recalculate with 
 
 ## The Bottom Line
 
-The best protein source is one you can afford, digest, and eat consistently. Eggs, poultry, fish, dairy, legumes, soy, and powders can all have a place. Use food labels and local prices, keep the overall diet varied, and treat any cost-per-gram comparison as temporary—not a scientific constant.
+The best protein source is one you can afford, digest, and eat consistently. Eggs, poultry, fish, dairy, legumes, soy, and powders can all have a place. Use food labels and local prices, keep the overall diet varied, and treat any cost-per-gram comparison as temporary, not a scientific constant.
 
 Your muscles don't know the difference. Your bank account certainly will.
 

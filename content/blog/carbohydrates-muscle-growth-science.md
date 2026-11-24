@@ -57,9 +57,9 @@ Studies of glycogen depletion and carbohydrate restoration often use endurance o
 
 ### Sources
 
-- [Hamidvand et al., resistance exercise and skeletal-muscle glycogen](https://doi.org/10.14814/phy2.70683) — context for glycogen use during resistance exercise.
-- [ISSN position stand: nutrient timing](https://pubmed.ncbi.nlm.nih.gov/28919842/) — context for carbohydrate timing when rapid recovery or high-volume work is required.
-- [Protein supplementation and resistance-training adaptations](https://pubmed.ncbi.nlm.nih.gov/28698222/) — context for why carbohydrate should not be confused with the primary protein and training stimulus.
+- [Hamidvand et al., resistance exercise and skeletal-muscle glycogen](https://doi.org/10.14814/phy2.70683): context for glycogen use during resistance exercise.
+- [ISSN position stand: nutrient timing](https://pubmed.ncbi.nlm.nih.gov/28919842/): context for carbohydrate timing when rapid recovery or high-volume work is required.
+- [Protein supplementation and resistance-training adaptations](https://pubmed.ncbi.nlm.nih.gov/28698222/): context for why carbohydrate should not be confused with the primary protein and training stimulus.
 
 ---
 

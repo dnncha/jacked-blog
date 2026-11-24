@@ -65,10 +65,10 @@ Health and exercise studies often use selected groups, short follow-up periods, 
 
 ### Sources
 
-- [Resistance training and resting blood pressure in hypertensive adults](https://pubmed.ncbi.nlm.nih.gov/35442242/) — systematic review and meta-analysis of regular resistance training.
-- [Isometric resistance training and blood pressure](https://pubmed.ncbi.nlm.nih.gov/36853479/) — review of isometric protocols in adults with hypertension.
-- [American Heart Association: resistance training](https://www.heart.org/en/healthy-living/fitness/fitness-basics/strength-and-resistance-training) — public safety and exercise context.
-- [ACSM guidelines for exercise testing and prescription](https://www.acsm.org/education-resources/books/guidelines-for-exercise-testing-and-prescription) — professional exercise-prescription context.
+- [Resistance training and resting blood pressure in hypertensive adults](https://pubmed.ncbi.nlm.nih.gov/35442242/): systematic review and meta-analysis of regular resistance training.
+- [Isometric resistance training and blood pressure](https://pubmed.ncbi.nlm.nih.gov/36853479/): review of isometric protocols in adults with hypertension.
+- [American Heart Association: resistance training](https://www.heart.org/en/healthy-living/fitness/fitness-basics/strength-and-resistance-training): public safety and exercise context.
+- [ACSM guidelines for exercise testing and prescription](https://www.acsm.org/education-resources/books/guidelines-for-exercise-testing-and-prescription): professional exercise-prescription context.
 
 
 {{surpass-inline-cta}}

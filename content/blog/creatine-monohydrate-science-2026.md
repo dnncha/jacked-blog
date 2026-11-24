@@ -5,7 +5,7 @@ excerpt: "Creatine monohydrate can support strength and high-intensity training 
 ---
 # Creatine Monohydrate: Benefits, Loading, Safety, and Limits
 
-Creatine monohydrate is one of the best-studied sports supplements. It increases the availability of creatine and phosphocreatine in muscle, which can support repeated high-intensity efforts. The strongest practical case is for people who want a simple, well-researched adjunct to resistance or power training—not for treating every plateau or replacing a good programme.
+Creatine monohydrate is one of the best-studied sports supplements. It increases the availability of creatine and phosphocreatine in muscle, which can support repeated high-intensity efforts. The strongest practical case is for people who want a simple, well-researched adjunct to resistance or power training, not for treating every plateau or replacing a good programme.
 
 ## What creatine can do
 
@@ -53,7 +53,7 @@ Creatine monohydrate is a reasonable optional supplement for many resistance-tra
 
 ## Applying this article
 
-Choose loading or a smaller daily protocol, record the product and baseline outcome, and run a stable trial long enough to judge repeated training—not just scale weight or a single personal record.
+Choose loading or a smaller daily protocol, record the product and baseline outcome, and run a stable trial long enough to judge repeated training, not just scale weight or a single personal record.
 
 ## Limits of the evidence
 

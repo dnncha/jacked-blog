@@ -9,7 +9,7 @@ Blood-flow-restriction (BFR) training uses a cuff near the top of a limb while p
 
 ## What the research supports
 
-Low-load BFR can increase muscle size and strength in some settings. A 2025 randomized study assigned 38 adults—19 women and 19 men—to six weeks of whole-body BFR resistance training at 30% of 1RM with cuffs set to 60% of individual limb-occlusion pressure. Both sexes increased lean mass and strength, although the study observed larger strength changes for men on several exercises ([Nancekievill et al.](https://pubmed.ncbi.nlm.nih.gov/39874353/)).
+Low-load BFR can increase muscle size and strength in some settings. A 2025 randomized study assigned 38 adults (19 women and 19 men) to six weeks of whole-body BFR resistance training at 30% of 1RM with cuffs set to 60% of individual limb-occlusion pressure. Both sexes increased lean mass and strength, although the study observed larger strength changes for men on several exercises ([Nancekievill et al.](https://pubmed.ncbi.nlm.nih.gov/39874353/)).
 
 That is a useful study of one protocol, not proof that the same pressure, load, exercise list, or result applies to every person. The outcomes included DXA lean mass and 1RM strength; they were not a direct guarantee of contractile-muscle hypertrophy or a prescription for unsupervised home use.
 

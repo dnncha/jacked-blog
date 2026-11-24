@@ -35,7 +35,7 @@ There is no good basis for promising that rolling increases hypertrophy, removes
 1. Choose a comfortable pressure and roll slowly for a short period rather than treating pain as proof of effectiveness.
 2. Follow it with the movement or warm-up you actually need.
 3. Keep it brief before strength or power work if longer rolling makes you feel less explosive.
-4. Evaluate the result by range of motion, comfort, and training performance—not by how tender the tissue feels afterward.
+4. Evaluate the result by range of motion, comfort, and training performance, not by how tender the tissue feels afterward.
 
 ## Bottom line
 

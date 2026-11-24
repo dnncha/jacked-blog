@@ -10,7 +10,7 @@ This is a legacy address for the current guide:
 
 [Read “Creatine Loading Phase: What the Research Says”](/blog/creatine-loading-phase-necessary-research)
 
-The current guide explains why a divided loading protocol can raise muscle creatine stores faster, why a smaller daily dose is a valid alternative, and what the evidence can—and cannot—say about timing, side effects, and long-term training outcomes.
+The current guide explains why a divided loading protocol can raise muscle creatine stores faster, why a smaller daily dose is a valid alternative, and what the evidence can and cannot say about timing, side effects, and long-term training outcomes.
 
 ## Limits of the evidence
 

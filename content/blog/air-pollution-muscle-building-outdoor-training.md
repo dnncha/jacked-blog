@@ -11,7 +11,7 @@ If outdoor training gives you wheezing, chest tightness, unusual breathlessness,
 
 ## Which pollutants matter?
 
-Particulate matter such as PM2.5, ozone, and nitrogen dioxide are common outdoor pollutants. Their concentration, particle size, weather, traffic, and time of day all affect exposure. Higher ventilation during exercise can increase the amount of air—and therefore pollutant—passing through the lungs for a given time outside.
+Particulate matter such as PM2.5, ozone, and nitrogen dioxide are common outdoor pollutants. Their concentration, particle size, weather, traffic, and time of day all affect exposure. Higher ventilation during exercise can increase the amount of air (and therefore pollutant) passing through the lungs for a given time outside.
 
 That does not mean every outdoor session is harmful. Exposure is a dose, not a binary label, and the answer depends on the pollutant, concentration, duration, exercise intensity, and the person.
 

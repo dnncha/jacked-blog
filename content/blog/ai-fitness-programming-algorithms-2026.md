@@ -90,7 +90,7 @@ For Surpass, the practical value is a connected logbook and progression workflow
 
 ## Applying this article
 
-Run a small test: use one transparent progression rule for four to six weeks, keep the exercise setup stable, and record load, reps, RIR, pain, and missed sessions. Judge the recommendation by the quality of decisions it helps you make—not by whether the interface uses the word AI.
+Run a small test: use one transparent progression rule for four to six weeks, keep the exercise setup stable, and record load, reps, RIR, pain, and missed sessions. Judge the recommendation by the quality of decisions it helps you make, not by whether the interface uses the word AI.
 
 ## Limits of the evidence
 

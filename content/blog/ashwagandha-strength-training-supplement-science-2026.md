@@ -5,7 +5,7 @@ excerpt: "A cautious review of ashwagandha trials in resistance training, includ
 ---
 # Ashwagandha for Lifters: What the Exercise Evidence Shows
 
-Ashwagandha (Withania somnifera) is often marketed as a stress, testosterone, recovery, and muscle-building supplement. The human exercise evidence is more interesting—and narrower—than that sales pitch.
+Ashwagandha (Withania somnifera) is often marketed as a stress, testosterone, recovery, and muscle-building supplement. The human exercise evidence is more interesting, and narrower, than that sales pitch.
 
 Some small randomized trials have reported better strength or exercise outcomes when a standardized extract was combined with resistance training. That does not establish a universal ergogenic effect, identify one best extract, or make ashwagandha a substitute for sleep, food, or programming.
 
@@ -32,7 +32,7 @@ It does not prove that ashwagandha:
 
 The [NCCIH evidence summary](https://www.nccih.nih.gov/health/ashwagandha) says that some preparations may help stress or insomnia, but that evidence for athletic performance remains insufficient for firm conclusions. It also notes that many studies are small and use varied preparations.
 
-Mechanistic explanations—such as “cortisol-to-testosterone balance,” antioxidant activity, or adaptogen effects—are hypotheses. A change in a hormone or biomarker is not the same as a meaningful improvement in muscle, strength, health, or performance.
+Mechanistic explanations, such as “cortisol-to-testosterone balance,” antioxidant activity, or adaptogen effects, are hypotheses. A change in a hormone or biomarker is not the same as a meaningful improvement in muscle, strength, health, or performance.
 
 ## Safety comes before the stack
 
@@ -54,7 +54,7 @@ Treat the trial like a controlled experiment:
 
 1. Choose a product that declares the plant part, extract, and amount rather than only a proprietary blend.
 2. Do not change creatine, protein, training volume, sleep schedule, and ashwagandha at the same time.
-3. Record the outcome you care about: performance at a stable RIR, sleep quality, symptoms, or stress—not just a marketing promise.
+3. Record the outcome you care about: performance at a stable RIR, sleep quality, symptoms, or stress, not just a marketing promise.
 4. Use the duration and dose studied for that specific extract only as context, not as a personal prescription.
 5. Stop for adverse effects and ask a professional whether testing or follow-up is needed.
 
@@ -70,7 +70,7 @@ For most lifters, the order of operations remains:
 
 ## The bottom line
 
-Ashwagandha has a plausible but incomplete exercise evidence base. A few small trials of specific extracts report improvements in selected outcomes, while official safety guidance cautions that long-term evidence and product equivalence are limited. It may be a personal experiment for an appropriate adult—not a guaranteed muscle builder, hormone optimizer, or treatment for overtraining.
+Ashwagandha has a plausible but incomplete exercise evidence base. A few small trials of specific extracts report improvements in selected outcomes, while official safety guidance cautions that long-term evidence and product equivalence are limited. It may be a personal experiment for an appropriate adult, not a guaranteed muscle builder, hormone optimizer, or treatment for overtraining.
 
 ## Related reading
 
@@ -88,7 +88,7 @@ Trials are short, product-specific, and often small. Strength and body-girth out
 
 ### Sources
 
-- [NCCIH: Ashwagandha—Usefulness and Safety](https://www.nccih.nih.gov/health/ashwagandha). Official safety and evidence summary.
+- [NCCIH: Ashwagandha: Usefulness and Safety](https://www.nccih.nih.gov/health/ashwagandha). Official safety and evidence summary.
 - [Ashwagandha and strength/recovery in resistance-trained men](https://pubmed.ncbi.nlm.nih.gov/26609282/). Eight-week randomized trial using a specific root extract.
 - [The STAR trial](https://pubmed.ncbi.nlm.nih.gov/30463324/). Twelve-week randomized trial of a standardized aqueous extract.
 - [Ashwagandha during resistance training](https://pubmed.ncbi.nlm.nih.gov/38988644/). Eight-week randomized trial; product and population limits apply.

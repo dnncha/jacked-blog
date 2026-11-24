@@ -11,7 +11,7 @@ The useful answer is more nuanced than “alcohol destroys gains.” Alcohol is 
 
 ## What the Direct Muscle Study Found
 
-The most frequently cited experiment is a small study of physically active men who completed strenuous exercise and then consumed a large dose of alcohol—about 1.5 g/kg of body mass—alongside protein. The study reported lower post-exercise myofibrillar protein synthesis than in the comparison condition.
+The most frequently cited experiment is a small study of physically active men who completed strenuous exercise and then consumed a large dose of alcohol (about 1.5 g/kg of body mass) alongside protein. The study reported lower post-exercise myofibrillar protein synthesis than in the comparison condition.
 
 That result is worth taking seriously, but it should not be converted into “one beer cuts muscle growth by a fixed percentage.” The dose was high, the sample was small, the observation was acute, and a laboratory measurement of protein synthesis is not the same thing as a measured change in muscle size over months.
 
@@ -68,6 +68,6 @@ For the related nutrition question, read [The Anabolic Window: Protein Timing Wi
 ### Sources
 
 - Parr EB, et al. [Alcohol ingestion impairs maximal post-exercise rates of myofibrillar protein synthesis following a single bout of concurrent training](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088384). *PLOS ONE*. 2014.
-- [Hangovers, sleep, and hydration](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers) — National Institute on Alcohol Abuse and Alcoholism.
+- [Hangovers, sleep, and hydration](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/hangovers): National Institute on Alcohol Abuse and Alcoholism.
 
 {{surpass-inline-cta}}

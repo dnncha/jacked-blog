@@ -35,10 +35,10 @@ Circadian biology can influence acute performance, but there is no universal mor
 
 ### Sources
 
-- [Knaier et al., time of day for strength and endurance training](https://pubmed.ncbi.nlm.nih.gov/37208462/) — systematic review and meta-analysis of training-time effects.
-- [Time-of-day-specific resistance training and adaptations](https://pubmed.ncbi.nlm.nih.gov/30704301/) — direct context for strength and hypertrophy outcomes.
-- [Time-of-day differences in muscle strength](https://pubmed.ncbi.nlm.nih.gov/28493061/) — evidence that acute strength expression and testing familiarity can vary.
-- [Acute sleep loss and physical performance](https://pubmed.ncbi.nlm.nih.gov/35708888/) — reminder that sleep timing and duration can confound morning/evening comparisons.
+- [Knaier et al., time of day for strength and endurance training](https://pubmed.ncbi.nlm.nih.gov/37208462/): systematic review and meta-analysis of training-time effects.
+- [Time-of-day-specific resistance training and adaptations](https://pubmed.ncbi.nlm.nih.gov/30704301/): direct context for strength and hypertrophy outcomes.
+- [Time-of-day differences in muscle strength](https://pubmed.ncbi.nlm.nih.gov/28493061/): evidence that acute strength expression and testing familiarity can vary.
+- [Acute sleep loss and physical performance](https://pubmed.ncbi.nlm.nih.gov/35708888/): reminder that sleep timing and duration can confound morning/evening comparisons.
 
 ## Related reading
 

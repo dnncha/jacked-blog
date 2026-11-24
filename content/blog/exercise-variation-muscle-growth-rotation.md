@@ -16,7 +16,7 @@ The review also highlights an important limitation. Studies often differ in exer
 
 Different exercises can change joint angles, resistance curves, stability demands, range of motion, and the limiting muscle. A squat, leg press, and split squat are not interchangeable measurements of the same stimulus. Rotating a carefully chosen variation may therefore help a lifter train a target muscle through a position that the current lift does not cover well.
 
-Variation can also be a fatigue-management decision. A painful or highly fatiguing exercise may be replaced with a comparable pattern while the underlying training goal is retained. That is a practical reason to change—not evidence that the old lift stopped working.
+Variation can also be a fatigue-management decision. A painful or highly fatiguing exercise may be replaced with a comparable pattern while the underlying training goal is retained. That is a practical reason to change, not evidence that the old lift stopped working.
 
 ## When to keep a lift
 
@@ -39,7 +39,7 @@ Make one change at a time where possible. Keep the movement pattern and effort c
 
 Use a stable primary movement for as long as it is productive, and vary secondary work more freely. For example, keep a squat pattern while alternating a high-bar squat, leg press, or split squat across training blocks when there is a clear reason. Log the variation, load, repetitions, effort, range of motion, and symptoms separately; do not pretend that a machine number and a barbell number are directly comparable.
 
-For accessories, choose the version that is comfortable, loads the intended muscle through a useful range, and can be progressed. A rotation every few weeks may be sensible for variety, but it is a planning choice—not a finding established by the review.
+For accessories, choose the version that is comfortable, loads the intended muscle through a useful range, and can be progressed. A rotation every few weeks may be sensible for variety, but it is a planning choice, not a finding established by the review.
 
 ## Common mistakes
 

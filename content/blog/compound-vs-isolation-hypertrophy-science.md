@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Compound vs Isolation Exercises for Hypertrophy: How to Choose"
-excerpt: "Compound and isolation exercises can both build muscle. The better choice depends on the target muscle, task, fatigue, equipment, and progression—not the label alone."
+excerpt: "Compound and isolation exercises can both build muscle. The better choice depends on the target muscle, task, fatigue, equipment, and progression, not the label alone."
 ---
 Compound and isolation exercises are tools, not competing belief systems. A squat, press, row, curl, extension, or machine movement can be useful when it trains the target tissue through a tolerable range and can be progressed.
 
@@ -17,7 +17,7 @@ Neither definition guarantees a hypertrophy outcome.
 
 ## What the research supports
 
-Reviews comparing single-joint and multi-joint resistance exercise have not established a universal hypertrophy winner. Individual studies can favour one exercise for a particular muscle or region—for example, a single-joint movement may grow an elbow flexor more than a multi-joint comparison, while a multi-joint movement may train more total tissue efficiently.
+Reviews comparing single-joint and multi-joint resistance exercise have not established a universal hypertrophy winner. Individual studies can favour one exercise for a particular muscle or region: for example, a single-joint movement may grow an elbow flexor more than a multi-joint comparison, while a multi-joint movement may train more total tissue efficiently.
 
 A recent direct comparison of knee extension and leg press also found muscle-specific differences rather than a simple “compound wins” or “isolation wins” answer. The relevant question is what happened in the muscle being measured, under the exact programme and volume used.
 
@@ -45,7 +45,7 @@ Change the choice when the movement causes persistent pain, repeated technique b
 
 A session might use one or two compound patterns followed by targeted isolation work. For example, a press can be followed by a triceps exercise, a row by a curl, or a squat pattern by a knee-extension or hamstring movement. This is an organisational example, not a required split.
 
-Track the load, repetitions, effort, range, and symptoms for each exercise. If two movements train the same target muscle, compare the trend in the work you can perform and recover from—not just the load on the stack.
+Track the load, repetitions, effort, range, and symptoms for each exercise. If two movements train the same target muscle, compare the trend in the work you can perform and recover from, not just the load on the stack.
 
 ## The bottom line
 

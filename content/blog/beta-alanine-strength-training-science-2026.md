@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Beta-Alanine for Strength Training: Where It Fits"
-excerpt: "Beta-alanine raises muscle carnosine, but its clearest performance evidence is for hard efforts lasting roughly one to ten minutes—not automatic strength or hypertrophy."
+excerpt: "Beta-alanine raises muscle carnosine, but its clearest performance evidence is for hard efforts lasting roughly one to ten minutes, not automatic strength or hypertrophy."
 ---
 # Beta-Alanine for Strength Training: Where It Fits
 
@@ -23,7 +23,7 @@ The cleanest conclusion is conditional:
 
 Beta-alanine works by gradually raising muscle carnosine, so one pre-workout scoop is not the mechanism. The [International Society of Sports Nutrition position stand](https://pubmed.ncbi.nlm.nih.gov/26175657/) describes commonly studied protocols of about 4–6 g/day for at least two to four weeks, usually divided into smaller doses. Those are research protocols, not a personal prescription.
 
-Dividing doses can reduce paresthesia—the tingling or prickling sensation that is common with larger single doses. Paresthesia is uncomfortable but is not evidence that the supplement is improving performance. Choose a lower amount or stop if the effect is unacceptable.
+Dividing doses can reduce paresthesia, the tingling or prickling sensation that is common with larger single doses. Paresthesia is uncomfortable but is not evidence that the supplement is improving performance. Choose a lower amount or stop if the effect is unacceptable.
 
 ## Where it may fit
 
@@ -40,7 +40,7 @@ The exact result depends on rest periods, exercise selection, training status, a
 
 Beta-alanine cannot compensate for low training quality, inadequate food, poor sleep, or an unsuitable programme. It does not reliably improve every strength measure, and the “burn” it can influence is not the same thing as muscle growth.
 
-Be especially cautious with multi-ingredient pre-workouts. If a product contains caffeine, stimulants, or undisclosed blends, you cannot attribute a change—or a side effect—to beta-alanine alone.
+Be especially cautious with multi-ingredient pre-workouts. If a product contains caffeine, stimulants, or undisclosed blends, you cannot attribute a change (or a side effect) to beta-alanine alone.
 
 ## A sensible decision process
 

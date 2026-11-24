@@ -1,9 +1,9 @@
 ---
 updatedAt: "2026-08-15"
-title: "Body Types and Training: What Somatotypes Can—and Cannot—Predict"
+title: "Body Types and Training: What Somatotypes Can and Cannot Predict"
 excerpt: "Ectomorph, mesomorph, and endomorph labels describe appearance, but they do not prescribe your calories, exercises, or genetic ceiling."
 ---
-# Body Types and Training: What Somatotypes Can—and Cannot—Predict
+# Body Types and Training: What Somatotypes Can and Cannot Predict
 
 “Ectomorph,” “mesomorph,” and “endomorph” are familiar gym labels for body shape. They can be a shorthand description of appearance, but they are not validated instructions for how to train or eat.
 

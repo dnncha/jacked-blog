@@ -39,7 +39,7 @@ For a supplement with a stronger resistance-training evidence base, read [Creati
 
 ## Applying this article
 
-Define a measurable reason to test CoQ10, keep training and nutrition stable, and review the result against cost, side effects, and sleep—not against a marketing promise.
+Define a measurable reason to test CoQ10, keep training and nutrition stable, and review the result against cost, side effects, and sleep, not against a marketing promise.
 
 ## Limits of the evidence
 

@@ -49,7 +49,7 @@ For a strength-focused lifter:
 
 ## The bottom line
 
-Dietary nitrate is biologically plausible and may improve selected exercise outcomes. The recent college-bodybuilder trial is interesting but narrow. Treat beetroot juice as an optional, task-specific experiment—not a general muscle-building supplement or a fixed 400–500 mg prescription.
+Dietary nitrate is biologically plausible and may improve selected exercise outcomes. The recent college-bodybuilder trial is interesting but narrow. Treat beetroot juice as an optional, task-specific experiment, not a general muscle-building supplement or a fixed 400–500 mg prescription.
 
 ## Related reading
 

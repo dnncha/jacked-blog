@@ -29,7 +29,7 @@ Use the [WHO physical-activity guidelines](https://www.who.int/publications/i/it
 - **Use walking as a practical habit.** Short walks can break up prolonged sitting and make total activity easier without demanding a new high-intensity programme.
 - **Do not use steps to diagnose recovery.** Performance, effort, soreness, sleep, appetite, and symptoms are more useful together than one wearable number.
 
-For someone trying to gain weight, high unplanned activity may make the required food intake harder to reach. For someone dieting, walking may be a flexible way to increase energy expenditure, but it is still a tool—not a substitute for a sustainable nutrition plan.
+For someone trying to gain weight, high unplanned activity may make the required food intake harder to reach. For someone dieting, walking may be a flexible way to increase energy expenditure, but it is still a tool, not a substitute for a sustainable nutrition plan.
 
 ## What a tracker can and cannot tell you
 

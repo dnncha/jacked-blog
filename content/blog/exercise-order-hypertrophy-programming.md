@@ -7,17 +7,17 @@ Most lifters spend hours perfecting their program. They calculate volume. They t
 
 But one practical variable is easy to overlook: what you do first determines which movements receive your freshest attention.
 
-Exercise order — the sequence of movements in your training session — is one useful programming variable. Research suggests it affects strength gains in the exercises placed first; the effect on total hypertrophy is less straightforward because total work, effort, and the muscle trained also matter.
+Exercise order (the sequence of movements in your training session) is one useful programming variable. Research suggests it affects strength gains in the exercises placed first; the effect on total hypertrophy is less straightforward because total work, effort, and the muscle trained also matter.
 
 ## What the Research Says
 
 A 2020 systematic review and meta-analysis examined exercise order across resistance-training studies. The practical conclusion is simple: the exercise you want to improve most should usually appear early enough that you can perform it well.
 
-One key study from 2019 had young men perform either compound-first or isolation-first training order over six weeks. The compound-first group showed greater strength improvements and similar hypertrophy to the other group — meaning they got stronger without sacrificing size gains.
+One key study from 2019 had young men perform either compound-first or isolation-first training order over six weeks. The compound-first group showed greater strength improvements and similar hypertrophy to the other group, meaning they got stronger without sacrificing size gains.
 
 The underlying mechanism is straightforward: **fatigue**.
 
-When you perform an exercise, you accumulate fatigue in the targeted muscles and the central nervous system. This fatigue directly impacts your performance on subsequent exercises. Do your isolation movements first, and by the time you reach your heavy compounds, you're already pre-fatigued — compromising both load and muscle engagement.
+When you perform an exercise, you accumulate fatigue in the targeted muscles and the central nervous system. This fatigue directly impacts your performance on subsequent exercises. Do your isolation movements first, and by the time you reach your heavy compounds, you're already pre-fatigued, compromising both load and muscle engagement.
 
 ## The Priority Principle
 
@@ -26,22 +26,22 @@ Based on the research, the recommendation is simple: **order exercises based on 
 Here's the practical breakdown:
 
 ### For Strength and Hypertrophy
-1. **Compound movements first** — squats, deadlifts, bench presses, rows, overhead presses. These require the most neural drive and benefit most from fresh muscles.
-2. **Secondary compounds** — lunges, dumbbell presses, pull-ups. Still demanding, but slightly less CNS-intensive.
-3. **Isolation movements last** — bicep curls, lateral raises, leg extensions. These can be done with pre-fatigued muscles and still produce growth.
+1. **Compound movements first**: squats, deadlifts, bench presses, rows, overhead presses. These require the most neural drive and benefit most from fresh muscles.
+2. **Secondary compounds**: lunges, dumbbell presses, pull-ups. Still demanding, but slightly less CNS-intensive.
+3. **Isolation movements last**: bicep curls, lateral raises, leg extensions. These can be done with pre-fatigued muscles and still produce growth.
 
 ### For Power and Performance
 If you're an athlete training for explosive power, reverse the order:
-1. **Power/explosive movements first** — when your nervous system is freshest
-2. **Strength work** — after power, when you're still relatively fresh
-3. **Accessory work** — last, when fatigue accumulates
+1. **Power/explosive movements first**: when your nervous system is freshest
+2. **Strength work**: after power, when you're still relatively fresh
+3. **Accessory work**: last, when fatigue accumulates
 
 ### For Isolation-Focused Sessions
-If your session is specifically designed to target a lagging muscle group (say, biceps or shoulders), you might flip the script — start with isolation work when you're freshest for that muscle. Just don't sacrifice your compounds by doing them depleted.
+If your session is specifically designed to target a lagging muscle group (say, biceps or shoulders), you might flip the script: start with isolation work when you're freshest for that muscle. Just don't sacrifice your compounds by doing them depleted.
 
 ## The Pre-Fatigue Argument
 
-Some argue that pre-fatiguing a muscle with isolation work before compounds can increase muscle activation — the "pre-exhaust" method.
+Some argue that pre-fatiguing a muscle with isolation work before compounds can increase muscle activation, the "pre-exhaust" method.
 
 The research is mixed. Pre-exhaustion can increase local fatigue, but it often reduces compound performance. For many lifters chasing overall strength and hypertrophy, compound-first is a reasonable default; it is not a rule that must override a clearly stated weak-point goal.
 
@@ -52,15 +52,15 @@ However, there's a time and place: if a specific muscle group is severely laggin
 Here's how to apply this in your next workout:
 
 **Day 1: Push**
-1. Overhead press (compound) — 4 sets
-2. Incline dumbbell press — 3 sets  
-3. Lateral raises — 3 sets
-4. Tricep pushdowns — 3 sets
+1. Overhead press (compound), 4 sets
+2. Incline dumbbell press, 3 sets  
+3. Lateral raises, 3 sets
+4. Tricep pushdowns, 3 sets
 
 **Day 2: Pull**
-1. Pull-ups or rows (compound) — 4 sets
-2. Face pulls — 3 sets
-3. Bicep curls — 3 sets
+1. Pull-ups or rows (compound), 4 sets
+2. Face pulls, 3 sets
+3. Bicep curls, 3 sets
 
 Notice the pattern: **big movements first, small movements last.**
 
@@ -80,12 +80,12 @@ There are exceptions to every rule. Consider breaking compound-first order when:
 
 - **Rehab/prehab**: If you're prioritizing a weak point or recovering from injury, target it fresh
 - **Specific muscle lagging**: Sometimes direct work first is justified for lagging body parts
-- **Time constraints**: If you only have 20 minutes, do your compounds first even if you're tired — they matter most
+- **Time constraints**: If you only have 20 minutes, do your compounds first even if you're tired, since they matter most
 - **Plyometric focus**: For power athletes, explosive work comes first
 
 ## Bottom Line
 
-Exercise order isn't the most important variable in hypertrophy — volume, progressive overload, and protein intake still take priority. But it's a lever you can pull to optimize your results, and most lifters completely ignore it.
+Exercise order isn't the most important variable in hypertrophy: volume, progressive overload, and protein intake still take priority. But it's a lever you can pull to optimize your results, and most lifters completely ignore it.
 
 The practical rule is: **put your most important exercises first**. Compounds before isolation is a useful default, not a law. Heavy before light makes sense for strength; a weak-point session may intentionally reverse the order.
 

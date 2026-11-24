@@ -1,9 +1,9 @@
 ---
 updatedAt: "2026-08-15"
-title: "Exerkines and Myokines: What Exercise Signals Can—and Cannot—Tell You"
+title: "Exerkines and Myokines: What Exercise Signals Can and Cannot Tell You"
 excerpt: "Exercise changes circulating signals from muscle and other tissues, but acute biomarker changes are not a muscle-growth score or a prescription for a special training style."
 ---
-# Exerkines and Myokines: What Exercise Signals Can—and Cannot—Tell You
+# Exerkines and Myokines: What Exercise Signals Can and Cannot Tell You
 
 “Exerkine” is an umbrella term for molecules released or changed in response to exercise. “Myokine” usually refers to a signal produced by skeletal muscle, although definitions and measurement methods vary. The field is interesting because exercise affects immune, metabolic, vascular, neural, and musculoskeletal systems. It is also easy to overstate: a short-lived change in blood concentration is not proof of a long-term benefit.
 

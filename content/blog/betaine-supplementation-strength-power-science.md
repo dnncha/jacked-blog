@@ -26,7 +26,7 @@ The evidence for hypertrophy is weaker than the evidence for acute performance. 
 
 Betaine is a low-priority option. Protein, creatine, adequate energy, sleep, and a progressive program should be in place first. If those fundamentals are not stable, a betaine experiment will be difficult to interpret and unlikely to solve the main problem.
 
-If you do test it, choose one outcome—such as repeated-session power or performance at a fixed workload—and keep training and other supplements stable for long enough to observe a trend. Do not interpret a single good workout as evidence of efficacy.
+If you do test it, choose one outcome (such as repeated-session power or performance at a fixed workload) and keep training and other supplements stable for long enough to observe a trend. Do not interpret a single good workout as evidence of efficacy.
 
 ## Dose and safety
 

@@ -6,7 +6,7 @@ excerpt: "Cluster sets can preserve rep quality and reduce fatigue, but current 
 
 Cluster sets divide the repetitions that would normally be performed continuously into smaller groups separated by short, planned rests. For example, a set of 12 might become four clusters of three with brief pauses between them. The total repetitions and load can stay similar while fatigue is distributed differently.
 
-That makes cluster sets a programming option—not a special hypertrophy mechanism. They are most defensible when the goal is to preserve movement quality, power, or a target load, or when continuous sets are limited by local fatigue.
+That makes cluster sets a programming option, not a special hypertrophy mechanism. They are most defensible when the goal is to preserve movement quality, power, or a target load, or when continuous sets are limited by local fatigue.
 
 ## What the research can and cannot show
 

@@ -11,7 +11,7 @@ Collagen peptides are marketed for tendons, joints, skin, and athletic performan
 
 A double-blind randomized trial assigned 50 healthy young sedentary men to 10 g of collagen peptides or placebo daily for 16 weeks. Researchers measured medial-gastrocnemius and Achilles-tendon stiffness, tissue cross-sectional area, maximal isometric plantar-flexion torque, and rate of torque development ([Miyamoto et al.](https://pubmed.ncbi.nlm.nih.gov/40623147/)).
 
-The collagen group increased muscle and tendon stiffness and normalized rate of torque development. The trial did not find significant changes in gastrocnemius or Achilles cross-sectional area, and maximal voluntary isometric torque did not improve significantly in either group. That means the result is about selected mechanical and explosive-force measures—not proof that collagen builds muscle or repairs an injured tendon.
+The collagen group increased muscle and tendon stiffness and normalized rate of torque development. The trial did not find significant changes in gastrocnemius or Achilles cross-sectional area, and maximal voluntary isometric torque did not improve significantly in either group. That means the result is about selected mechanical and explosive-force measures, not proof that collagen builds muscle or repairs an injured tendon.
 
 The sample was small, young, sedentary, and male. The authors were affiliated with a collagen-product company, which does not invalidate the work but is relevant context when interpreting a single positive trial. It also means that a trained female lifter, an older adult, or somebody with tendinopathy is not represented by the study.
 
@@ -19,7 +19,7 @@ The sample was small, young, sedentary, and male. The authors were affiliated wi
 
 A 2024 systematic review and meta-analysis of 19 studies and 768 participants found statistically favourable results for several outcomes, including fat-free mass, tendon morphology, muscle architecture, maximal strength, and reactive-strength recovery. The authors rated certainty as moderate for body composition, very low for tendon morphology and mechanical properties, and low for several other outcomes ([Bischof et al.](https://pubmed.ncbi.nlm.nih.gov/39060741/)).
 
-That combination—positive pooled estimates with low or very low certainty for some connective-tissue outcomes—supports interest, not a guaranteed prescription. A separate 2024 study found that collagen peptide supplementation during one week of strenuous resistance exercise did not further increase connective-tissue protein-synthesis rates ([Jäger et al.](https://pubmed.ncbi.nlm.nih.gov/39086044/)). Different measurements can therefore point in different directions.
+That combination (positive pooled estimates with low or very low certainty for some connective-tissue outcomes) supports interest, not a guaranteed prescription. A separate 2024 study found that collagen peptide supplementation during one week of strenuous resistance exercise did not further increase connective-tissue protein-synthesis rates ([Jäger et al.](https://pubmed.ncbi.nlm.nih.gov/39086044/)). Different measurements can therefore point in different directions.
 
 ## What collagen is not
 
@@ -40,7 +40,7 @@ If you try it:
 
 ## Bottom line
 
-Collagen peptides may influence selected connective-tissue, stiffness, recovery, or strength outcomes, but the certainty is mixed and the best direct 2025 trial did not show muscle or tendon enlargement. Treat collagen as an optional adjunct—not a muscle-building replacement, injury guarantee, or stand-alone tendon treatment.
+Collagen peptides may influence selected connective-tissue, stiffness, recovery, or strength outcomes, but the certainty is mixed and the best direct 2025 trial did not show muscle or tendon enlargement. Treat collagen as an optional adjunct, not a muscle-building replacement, injury guarantee, or stand-alone tendon treatment.
 
 ## Related reading
 

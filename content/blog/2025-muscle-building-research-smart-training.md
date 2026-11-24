@@ -36,7 +36,7 @@ Protein supplementation can modestly augment resistance-training gains when tota
 
 ## Bottom line
 
-Recent research supports a flexible model: volume usually helps but eventually gives smaller returns, frequency can distribute work without being a hypertrophy switch, loads and proximity to failure can be varied, and periodization is especially useful for strength planning. The “smart” approach is the one that produces repeatable, recoverable progress—not the one attached to the newest headline.
+Recent research supports a flexible model: volume usually helps but eventually gives smaller returns, frequency can distribute work without being a hypertrophy switch, loads and proximity to failure can be varied, and periodization is especially useful for strength planning. The “smart” approach is the one that produces repeatable, recoverable progress, not the one attached to the newest headline.
 
 ### Sources
 

@@ -5,7 +5,7 @@ category: "Nutrition"
 updatedAt: "2026-08-15"
 ---
 
-Should you lift before breakfast or eat first? For most lifters, this is a preference and performance question—not a hidden switch that determines whether training builds muscle.
+Should you lift before breakfast or eat first? For most lifters, this is a preference and performance question, not a hidden switch that determines whether training builds muscle.
 
 The most direct evidence is reassuring. A 2025 systematic review and meta-analysis of resistance training in fasted versus fed conditions found no statistically significant difference in fat-free mass, muscle hypertrophy, or strength. The authors also noted that only four studies were included and that three were judged to have a high risk of bias, so the result is best read as “no clear advantage has been demonstrated,” not “meal timing never matters.”
 

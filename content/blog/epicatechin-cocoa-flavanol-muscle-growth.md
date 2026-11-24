@@ -8,7 +8,7 @@ excerpt: "Found in cocoa and dark chocolate, epicatechin shows promise for inhib
 
 ## Introduction
 
-If you're serious about building muscle, you've probably heard of myostatin—the protein that acts as a natural limiter on muscle growth. It's the reason you can't keep adding muscle tissue indefinitely. Some researchers have spent decades trying to find ways to block myostatin, leading to expensive drugs and genetic research.
+If you're serious about building muscle, you've probably heard of myostatin, the protein that acts as a natural limiter on muscle growth. It's the reason you can't keep adding muscle tissue indefinitely. Some researchers have spent decades trying to find ways to block myostatin, leading to expensive drugs and genetic research.
 
 But there's a natural compound that has emerged from the noise: epicatechin. Found in cocoa, dark chocolate, and green tea, this flavan-3-ol has shown some genuinely interesting research on its potential to inhibit myostatin and support muscle growth.
 
@@ -100,7 +100,7 @@ Here's where things get tricky:
 
 - **Dark chocolate**: You'd need to eat a lot (200g+ of 85% dark chocolate) to get a meaningful dose, and you'd also get a lot of sugar and calories
 - **Raw cacao powder**: Better, but still requires significant quantities
-- **Supplements**: The most practical option—a quality cocoa extract or epicatechin supplement provides consistent dosing
+- **Supplements**: The most practical option: a quality cocoa extract or epicatechin supplement provides consistent dosing
 
 ### Timing Recommendations
 
@@ -108,7 +108,7 @@ Based on the limited research available:
 
 - Take epicatechin with meals for better absorption
 - Split doses throughout the day rather than taking it all at once
-- Consistency matters more than timing—daily supplementation appears to be key
+- Consistency matters more than timing: daily supplementation appears to be key
 
 ### Side Effects and Safety
 
@@ -116,7 +116,7 @@ Epicatechin is generally well-tolerated:
 
 - Few reported side effects at recommended doses
 - High doses may cause digestive discomfort
-- Contains caffeine-adjacent compounds—be mindful if you're sensitive to stimulants
+- Contains caffeine-adjacent compounds, so be mindful if you're sensitive to stimulants
 - Always consult with a healthcare provider if you have cardiovascular conditions
 
 ## Limitations and Criticisms
@@ -159,7 +159,7 @@ Don't expect dramatic results. Based on current evidence:
 
 Epicatechin is an interesting compound with a plausible mechanism and some promising early research. It's not a potentially useful finding, but it might provide a small edge when stacked with proven strategies.
 
-If you're optimizing every variable and have the budget for quality supplements, epicatechin is worth a trial. Just keep your expectations realistic—this isn't a replacement for the fundamentals.
+If you're optimizing every variable and have the budget for quality supplements, epicatechin is worth a trial. Just keep your expectations realistic. This isn't a replacement for the fundamentals.
 
 ---
 
