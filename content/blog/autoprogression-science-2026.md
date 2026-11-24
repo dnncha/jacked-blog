@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Autoprogression: How to Choose the Next Training Load"
-excerpt: "A practical guide to using reps, RIR, RPE, and performance trends to adjust the next load—without claiming that an app can predict the perfect session."
+excerpt: "A practical guide to using reps, RIR, RPE, and performance trends to adjust the next load, without claiming that an app can predict the perfect session."
 ---
 # Autoprogression: How to Choose the Next Training Load
 
@@ -62,7 +62,7 @@ Surpass can reduce the arithmetic and keep the progression history connected to 
 5. Record missed reps, pain, sleep disruption, and unusual stress.
 6. Review the trend at the end of the block.
 
-If the rule repeatedly pushes you into poor technique or pain, it is not working for that exercise—even if the spreadsheet says the next increment is due.
+If the rule repeatedly pushes you into poor technique or pain, it is not working for that exercise, even if the spreadsheet says the next increment is due.
 
 ## The bottom line
 
@@ -76,7 +76,7 @@ Autoprogression is a practical way to connect the next load to the work you actu
 
 ## Applying this article
 
-Run the four-week test on one exercise before changing your whole programme. Keep the rule visible, write down why the load changed, and stop or modify the plan when symptoms or technique—not just the target number—say to.
+Run the four-week test on one exercise before changing your whole programme. Keep the rule visible, write down why the load changed, and stop or modify the plan when symptoms or technique (not just the target number) say to.
 
 ## Limits of the evidence
 

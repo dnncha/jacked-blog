@@ -5,7 +5,7 @@ excerpt: "A deload is a short reduction in training stress, not a mandatory cale
 ---
 # Deload Weeks: When Reduced Training May Help
 
-A deload is a planned or reactive reduction in training stress. That can mean fewer sets, lighter loads, fewer hard reps, or a short pause. It is a management tool—not a required “muscle resensitisation” ritual and not a proven injury-prevention guarantee.
+A deload is a planned or reactive reduction in training stress. That can mean fewer sets, lighter loads, fewer hard reps, or a short pause. It is a management tool, not a required “muscle resensitisation” ritual and not a proven injury-prevention guarantee.
 
 ## What the direct trial found
 
@@ -15,7 +15,7 @@ The study was short, the sample was small, and its deload was complete cessation
 
 ## Why a deload can still be useful
 
-Training is only one source of stress. Sleep loss, work, travel, illness, dieting, pain, and life events can reduce what you can recover from. A short reduction may help you maintain movement and technique while lowering the cost of training. The benefit may be practical—better adherence, less irritation, restored motivation, or a clearer view of performance—rather than an extra hypertrophy signal.
+Training is only one source of stress. Sleep loss, work, travel, illness, dieting, pain, and life events can reduce what you can recover from. A short reduction may help you maintain movement and technique while lowering the cost of training. The benefit may be practical (better adherence, less irritation, restored motivation, or a clearer view of performance) rather than an extra hypertrophy signal.
 
 The evidence base for how coaches define and schedule deloads is limited. A 2023 international Delphi project describes common practices, but expert consensus is not the same as a randomized outcome trial ([Bell et al.](https://pubmed.ncbi.nlm.nih.gov/37814313/)).
 

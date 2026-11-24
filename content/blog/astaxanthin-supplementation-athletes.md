@@ -10,7 +10,7 @@ Astaxanthin is a red-orange carotenoid found in algae and marine foods such as s
 
 That makes it interesting, not proven. The key distinction is between a biochemical property, a change in a blood marker, and an outcome a lifter actually cares about: completing more quality work, gaining muscle, getting stronger, or recovering well enough to train again.
 
-## What astaxanthin is—and what “potent antioxidant” does not mean
+## What astaxanthin is, and what “potent antioxidant” does not mean
 
 Astaxanthin is fat-soluble and can interact with lipid membranes. Comparisons such as “thousands of times stronger than vitamin C” usually come from a particular laboratory assay. They do not establish that astaxanthin is thousands of times more useful in a human body, nor that it should replace a varied diet.
 
@@ -32,7 +32,7 @@ Likewise, a lower creatine kinase value is not the same as less functional impai
 
 ## Should a lifter try it?
 
-Astaxanthin is an optional experiment, not a foundation. A trial is easier to interpret after training, protein, total energy, sleep, hydration, and proven supplements are in order. Decide in advance what outcome you will track—such as repeated-session performance or perceived recovery—and keep the rest of the routine stable.
+Astaxanthin is an optional experiment, not a foundation. A trial is easier to interpret after training, protein, total energy, sleep, hydration, and proven supplements are in order. Decide in advance what outcome you will track (such as repeated-session performance or perceived recovery) and keep the rest of the routine stable.
 
 Most studies use daily supplementation over several weeks, often with food because the compound is fat-soluble. That describes how studies are designed; it is not a claim that there is a universally effective sports dose. Product quality and actual astaxanthin content can vary, so do not treat a label’s antioxidant language as proof of efficacy.
 

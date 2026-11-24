@@ -3,7 +3,7 @@ updatedAt: "2026-08-15"
 title: "Pre-Exhaustion and Exercise Order: What the Evidence Supports"
 excerpt: "Pre-exhaustion can change fatigue and exercise performance, but it has not been shown to be a universal hypertrophy upgrade over ordinary exercise order."
 ---
-Pre-exhaustion usually means performing an isolation exercise before a multi-joint movement for the same broad muscle group—for example, a leg extension before a leg press or a fly before a press.
+Pre-exhaustion usually means performing an isolation exercise before a multi-joint movement for the same broad muscle group, for example, a leg extension before a leg press or a fly before a press.
 
 The idea is to fatigue the target muscle first so it becomes a larger constraint during the compound movement. The tradeoff is that the pre-fatigue may also reduce load, repetitions, technique, or total work on the movement that follows.
 

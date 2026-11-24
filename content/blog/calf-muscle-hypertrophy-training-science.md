@@ -19,7 +19,7 @@ Choose a range that you can control. A comfortable pause in the lengthened posit
 
 ## A practical starting plan
 
-Start with a modest amount of hard work—perhaps six to ten weekly sets split across one or two sessions—if your current calf training is minimal. This is a trial range, not a biological threshold. Record repetitions, load or band setup, range, tempo, and effort.
+Start with a modest amount of hard work (perhaps six to ten weekly sets split across one or two sessions) if your current calf training is minimal. This is a trial range, not a biological threshold. Record repetitions, load or band setup, range, tempo, and effort.
 
 Progress one variable when the current work is repeatable:
 

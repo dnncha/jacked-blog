@@ -21,7 +21,7 @@ Do not use EMG, current intensity, sweat, or post-session soreness as a direct h
 
 ## When NMES may be useful
 
-NMES may be considered as an adjunct when a clinician or rehabilitation professional has identified a reason voluntary training is limited. It can also be used in specialised sports or research settings with a clearly defined goal. Healthy lifters who can train voluntarily should normally treat NMES as optional supplementation to—not a substitute for—progressive loading.
+NMES may be considered as an adjunct when a clinician or rehabilitation professional has identified a reason voluntary training is limited. It can also be used in specialised sports or research settings with a clearly defined goal. Healthy lifters who can train voluntarily should normally treat NMES as optional supplementation to, not a substitute for, progressive loading.
 
 ## Safety matters
 

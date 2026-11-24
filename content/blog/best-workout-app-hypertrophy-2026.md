@@ -107,9 +107,9 @@ Surpass-specific statements are grounded in its current first-party [workout tra
 
 ### Sources
 
-- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — context for weekly training-dose review.
-- [Autoregulated resistance training](https://pubmed.ncbi.nlm.nih.gov/33776802/) — context for using effort and performance to guide load.
-- [Proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/) — context for why a rep count without effort is incomplete.
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/): context for weekly training-dose review.
+- [Autoregulated resistance training](https://pubmed.ncbi.nlm.nih.gov/33776802/): context for using effort and performance to guide load.
+- [Proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/): context for why a rep count without effort is incomplete.
 
 ## Limits of the evidence
 

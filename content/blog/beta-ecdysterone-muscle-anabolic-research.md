@@ -3,7 +3,7 @@ title: "Beta-Ecdysterone for Muscle Growth: Research Review"
 date: "2026-03-02"
 updatedAt: "2026-08-15"
 category: "Supplements"
-excerpt: "Beta-ecdysterone has one notable resistance-training trial and a larger preclinical literature. Here is what that evidence can—and cannot—show."
+excerpt: "Beta-ecdysterone has one notable resistance-training trial and a larger preclinical literature. Here is what that evidence can and cannot show."
 ---
 
 Beta-ecdysterone is a plant-derived ecdysteroid found in foods such as spinach and quinoa. It became a fitness talking point after a 2019 human study reported greater changes in lean mass and bench-press performance in an ecdysterone group than in placebo.

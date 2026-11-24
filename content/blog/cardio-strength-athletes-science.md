@@ -41,10 +41,10 @@ Cardio can coexist with muscle and strength training, and it is valuable for hea
 
 ### Sources
 
-- [Apro and Blomstrand, concurrent endurance and strength training](https://pubmed.ncbi.nlm.nih.gov/26631177/) — human concurrent-training context.
-- [Murach and Bagley, low-volume aerobic training and interference](https://pubmed.ncbi.nlm.nih.gov/27224863/) — review of why interference is dose- and context-dependent.
-- [Interference effect of concurrent training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/22002517/) — broader evidence on combined endurance and resistance training.
-- [WHO physical-activity guidelines](https://www.who.int/publications/i/item/9789240015128) — population health guidance, not an individual hypertrophy prescription.
+- [Apro and Blomstrand, concurrent endurance and strength training](https://pubmed.ncbi.nlm.nih.gov/26631177/): human concurrent-training context.
+- [Murach and Bagley, low-volume aerobic training and interference](https://pubmed.ncbi.nlm.nih.gov/27224863/): review of why interference is dose- and context-dependent.
+- [Interference effect of concurrent training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/22002517/): broader evidence on combined endurance and resistance training.
+- [WHO physical-activity guidelines](https://www.who.int/publications/i/item/9789240015128): population health guidance, not an individual hypertrophy prescription.
 
 ## Related reading
 

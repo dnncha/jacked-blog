@@ -52,7 +52,7 @@ The table is a decision aid, not a validated clinical algorithm. It deliberately
 
 ## Do not confuse readiness with permission to do more
 
-A favourable score does not mean that extra sets, maximal attempts, or training to failure are automatically productive. Training stimulus still needs to fit your programme, exercise selection, technique, and ability to recover over time. The aim of readiness-based training is to avoid a mismatch between today’s demand and today’s capacity—not to maximise every apparently good day.
+A favourable score does not mean that extra sets, maximal attempts, or training to failure are automatically productive. Training stimulus still needs to fit your programme, exercise selection, technique, and ability to recover over time. The aim of readiness-based training is to avoid a mismatch between today’s demand and today’s capacity, not to maximise every apparently good day.
 
 Similarly, a low score does not prove that adaptation has stopped. Some lifters can complete productive sessions when tired, while others need more recovery. The response should be proportional to the whole pattern and the cost of being wrong.
 

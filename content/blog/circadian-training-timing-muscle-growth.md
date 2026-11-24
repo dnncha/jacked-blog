@@ -59,7 +59,7 @@ Circadian rhythms influence acute performance and how a session feels. Current r
 
 ## Applying this article
 
-Keep your training time stable for four weeks and compare performance at the same time of day. If the schedule damages sleep or adherence, change the schedule—the practical result matters more than a theoretical window.
+Keep your training time stable for four weeks and compare performance at the same time of day. If the schedule damages sleep or adherence, change the schedule. The practical result matters more than a theoretical window.
 
 ## Limits of the evidence
 

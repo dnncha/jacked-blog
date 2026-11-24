@@ -27,7 +27,7 @@ A 2025 systematic review and network meta-analysis compared APRE, RPE-based trai
 - studies varied in exercise, supervision, participants, duration, and implementation;
 - the result concerns maximal strength, not automatic hypertrophy, injury prevention, or a commercial app.
 
-An earlier systematic review also found that autoregulated methods can be useful, while emphasizing variation in the underlying studies ([Helms et al.](https://pubmed.ncbi.nlm.nih.gov/33776802/)). The evidence supports autoregulation as a reasonable option—not as a mandate.
+An earlier systematic review also found that autoregulated methods can be useful, while emphasizing variation in the underlying studies ([Helms et al.](https://pubmed.ncbi.nlm.nih.gov/33776802/)). The evidence supports autoregulation as a reasonable option, not as a mandate.
 
 ## Why it can be useful
 

@@ -18,7 +18,7 @@ That finding is important because it is a human training study rather than a cel
 
 Claims that ecdysterone “outperformed anabolic steroids” should be rejected. There was no steroid comparison arm, so the study cannot support that conclusion.
 
-## What the mechanism does—and does not—tell us
+## What the mechanism does and does not tell us
 
 Ecdysteroids are plant compounds related structurally to insect molting hormones. Laboratory work has explored protein-synthesis signalling and possible estrogen-receptor involvement. This is useful for understanding why researchers are interested, but a mechanism is not an outcome.
 
@@ -42,7 +42,7 @@ Ecdysterone should not replace creatine, sufficient protein, a progressive progr
 
 ## Bottom line
 
-Beta-ecdysterone is worth watching, but it is not yet a proven natural steroid alternative. The current evidence supports cautious interest, honest uncertainty, and attention to product quality—not guaranteed 5–10% strength gains, a fixed dose, or claims of zero risk.
+Beta-ecdysterone is worth watching, but it is not yet a proven natural steroid alternative. The current evidence supports cautious interest, honest uncertainty, and attention to product quality, not guaranteed 5–10% strength gains, a fixed dose, or claims of zero risk.
 
 For a better-supported supplement, read [Creatine Monohydrate](/blog/creatine-monohydrate-science-2026). For the study-focused review, see [Beta-Ecdysterone: Research Review](/blog/beta-ecdysterone-muscle-anabolic-research).
 

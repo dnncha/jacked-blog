@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Block Periodization: When Focused Training Phases Make Sense"
-excerpt: "Block periodization can organise changing priorities across a training cycle, but it is one planning option—not a guarantee that strength and hypertrophy must be separated."
+excerpt: "Block periodization can organise changing priorities across a training cycle, but it is one planning option, not a guarantee that strength and hypertrophy must be separated."
 ---
 # Block Periodization: When Focused Training Phases Make Sense
 

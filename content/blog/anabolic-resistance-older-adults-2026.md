@@ -24,7 +24,7 @@ Spread protein across meals that are realistic and include a complete or complem
 
 Older adults can increase strength, muscle size, and function with progressive resistance training. In a 12-week randomized trial, adding 20 g of whey to two lower-protein meals did not further improve training adaptations when the comparison meals already contained protein ([trial in older adults](https://pubmed.ncbi.nlm.nih.gov/35240263/)). This does not make protein irrelevant; it shows that extra powder cannot replace a complete diet and a supervised training stimulus.
 
-Training should be adjusted for joint symptoms, balance, medical conditions, and recovery—not for an assumption that a person’s age dictates one load or rep range. A clinician or qualified exercise professional can help when frailty, osteoporosis, neurological disease, or major illness is part of the question.
+Training should be adjusted for joint symptoms, balance, medical conditions, and recovery, not for an assumption that a person’s age dictates one load or rep range. A clinician or qualified exercise professional can help when frailty, osteoporosis, neurological disease, or major illness is part of the question.
 
 ## Practical checklist
 

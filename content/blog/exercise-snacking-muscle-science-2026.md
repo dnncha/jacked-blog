@@ -28,7 +28,7 @@ Run the format long enough to observe whether it improves consistency. Compare t
 
 ## Bottom line
 
-Exercise snacking is a useful adherence and access strategy, not a proven hypertrophy shortcut. Use it when short bouts make training possible, track the total work, and judge it by the outcome that matters—strength, function, activity, or muscle size—rather than by an attractive headline about “micro-doses.”
+Exercise snacking is a useful adherence and access strategy, not a proven hypertrophy shortcut. Use it when short bouts make training possible, track the total work, and judge it by the outcome that matters (strength, function, activity, or muscle size) rather than by an attractive headline about “micro-doses.”
 
 ### Sources
 

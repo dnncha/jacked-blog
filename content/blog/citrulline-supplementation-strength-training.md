@@ -45,7 +45,7 @@ For a more established supplement, read [Creatine Monohydrate](/blog/creatine-mo
 
 ## Applying this article
 
-Predefine the performance outcome, compare repeated similar workouts, and evaluate the product by its effect on training—not by pump intensity alone.
+Predefine the performance outcome, compare repeated similar workouts, and evaluate the product by its effect on training, not by pump intensity alone.
 
 ## Limits of the evidence
 

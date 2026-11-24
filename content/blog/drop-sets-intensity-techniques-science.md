@@ -32,7 +32,7 @@ They are less attractive for maximal-effort barbell lifts, complex movements per
 
 Use one drop after a normal working set on one or two accessory exercises. Reduce the load enough to keep a controlled range of motion, stop when technique changes, and record the work as part of the session rather than pretending it is free volume. Avoid assigning a universal 20–30% reduction or a fixed number of drops: dumbbells, machines, cables, and plate-loaded equipment make those numbers behave differently.
 
-If the goal is strength on the main lift, keep the main work in a conventional set structure and use intensity methods later. If the goal is hypertrophy, compare the method with ordinary sets by tracking weekly performance, volume, symptoms, and recovery over several weeks—not by judging the pump.
+If the goal is strength on the main lift, keep the main work in a conventional set structure and use intensity methods later. If the goal is hypertrophy, compare the method with ordinary sets by tracking weekly performance, volume, symptoms, and recovery over several weeks, not by judging the pump.
 
 ## Failure is optional
 
@@ -40,7 +40,7 @@ Drop sets often bring a set close to failure, but failure itself is not a requir
 
 ## Bottom line
 
-Drop sets appear capable of producing similar hypertrophy to traditional sets in small studies while reducing session time. They are an efficiency option, not a magic method and not a reason to add untracked fatigue. Use them selectively, mostly on stable accessory exercises, and let repeatable performance—not discomfort—decide whether they earn a place in the programme.
+Drop sets appear capable of producing similar hypertrophy to traditional sets in small studies while reducing session time. They are an efficiency option, not a magic method and not a reason to add untracked fatigue. Use them selectively, mostly on stable accessory exercises, and let repeatable performance, not discomfort, decide whether they earn a place in the programme.
 
 ## Related reading
 

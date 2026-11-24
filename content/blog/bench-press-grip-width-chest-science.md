@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Bench-Press Grip Width: Strength, Comfort, and Trade-offs"
-excerpt: "Grip width changes range of motion, leverage, and shoulder loading. Here is what the biomechanics can tell you—and what it cannot prove about chest growth or injury."
+excerpt: "Grip width changes range of motion, leverage, and shoulder loading. Here is what the biomechanics can tell you, and what it cannot prove about chest growth or injury."
 ---
 # Bench-Press Grip Width: Strength, Comfort, and Trade-offs
 
@@ -40,7 +40,7 @@ If a wider grip increases discomfort at the bottom, reduce the width or change t
 
 ## Injury language needs restraint
 
-There is no grip width that guarantees shoulder or pectoral safety. Load, fatigue, technique, anatomy, previous injury, training history, and sudden changes all matter. Pain is a reason to modify the task and seek individual assessment when persistent—not a reason to force a “safer” internet width.
+There is no grip width that guarantees shoulder or pectoral safety. Load, fatigue, technique, anatomy, previous injury, training history, and sudden changes all matter. Pain is a reason to modify the task and seek individual assessment when persistent, not a reason to force a “safer” internet width.
 
 ## Programming options
 

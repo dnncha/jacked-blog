@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Cortisol, Stress, and Muscle Growth: What Lifters Should Know"
-excerpt: "Cortisol is a normal, context-sensitive hormone—not a standalone muscle-loss score. Learn what training, sleep, symptoms, and clinical testing can actually tell you."
+excerpt: "Cortisol is a normal, context-sensitive hormone, not a standalone muscle-loss score. Learn what training, sleep, symptoms, and clinical testing can actually tell you."
 ---
 # Cortisol, Stress, and Muscle Growth: What Lifters Should Know
 
@@ -23,7 +23,7 @@ Persistent life stress, restricted sleep, under-fuelling, illness, and excessive
 - persistent soreness or pain;
 - recurrent illness or mood change.
 
-These signals have many possible causes. They are reasons to review training, food, sleep, medication, and health—not evidence that cortisol is the single cause.
+These signals have many possible causes. They are reasons to review training, food, sleep, medication, and health, not evidence that cortisol is the single cause.
 
 ## Sleep and energy matter
 

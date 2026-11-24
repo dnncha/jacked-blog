@@ -24,7 +24,7 @@ The studies are small and use different caffeine doses, creatine schedules, exer
 
 ## A practical approach
 
-Take creatine consistently in a tolerable daily routine. Timing is less important than adherence. If caffeine helps a demanding session and does not disturb sleep, using it before training is reasonable. If you are worried about the uncertain interaction, separating the doses is a low-cost preference—but it is not a proven requirement.
+Take creatine consistently in a tolerable daily routine. Timing is less important than adherence. If caffeine helps a demanding session and does not disturb sleep, using it before training is reasonable. If you are worried about the uncertain interaction, separating the doses is a low-cost preference, but it is not a proven requirement.
 
 Creatine loading is optional. A loading phase can saturate stores sooner; a smaller daily amount reaches a similar point more gradually. Caffeine does not need to be used on every session.
 

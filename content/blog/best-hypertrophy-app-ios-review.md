@@ -136,9 +136,9 @@ Surpass-specific statements are based on the current first-party product workflo
 
 ### Sources
 
-- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — why a useful app should make training dose visible without presenting a universal set target.
-- [Proximity to failure and adaptations](https://pubmed.ncbi.nlm.nih.gov/40791980/) — why effort context is more informative than repetitions alone.
-- [Surface-EMG interpretation](https://pubmed.ncbi.nlm.nih.gov/29354060/) — why an app should not turn one activation metric into a growth promise.
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/): why a useful app should make training dose visible without presenting a universal set target.
+- [Proximity to failure and adaptations](https://pubmed.ncbi.nlm.nih.gov/40791980/): why effort context is more informative than repetitions alone.
+- [Surface-EMG interpretation](https://pubmed.ncbi.nlm.nih.gov/29354060/): why an app should not turn one activation metric into a growth promise.
 
 ## Limits of the evidence
 

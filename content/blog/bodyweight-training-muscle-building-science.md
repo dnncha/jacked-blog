@@ -5,7 +5,7 @@ category: "Training"
 updatedAt: "2026-08-15"
 ---
 
-Yes—bodyweight training can build muscle. The important qualification is that the body still needs a sufficiently challenging, repeatable resistance stimulus. “No weights” does not mean “no progression.”
+Yes, bodyweight training can build muscle. The important qualification is that the body still needs a sufficiently challenging, repeatable resistance stimulus. “No weights” does not mean “no progression.”
 
 The question is not whether a barbell is present. It is whether the target muscle is producing enough force, close enough to its current capacity, often enough to adapt.
 
@@ -86,7 +86,7 @@ Direct bodyweight trials are less common than resistance-training studies using 
 
 ## Bottom Line
 
-You can build muscle without a gym if you can make the target muscles work hard, progress the challenge, eat enough protein and energy, and recover. Weights are a useful tool because they make load progression easier—not because they are the only way muscle can adapt.
+You can build muscle without a gym if you can make the target muscles work hard, progress the challenge, eat enough protein and energy, and recover. Weights are a useful tool because they make load progression easier, not because they are the only way muscle can adapt.
 
 For the broader programming principles, read [Training Fundamentals for Muscle Growth](/blog/training-fundamentals-muscle-growth). For a progression framework, see [Progressive Overload: How to Progress Without Guessing](/blog/progressive-overload-muscle-building).
 

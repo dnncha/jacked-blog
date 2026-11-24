@@ -3,7 +3,7 @@ title: "Best Supplements for Strength Athletes: Evidence-Based Priorities"
 date: "2026-02-26"
 updatedAt: "2026-08-15"
 category: "Supplements"
-excerpt: "A practical ranking of strength supplements by evidence, use case, cost, and limitations—without treating any product as a substitute for training."
+excerpt: "A practical ranking of strength supplements by evidence, use case, cost, and limitations, without treating any product as a substitute for training."
 ---
 
 Supplement rankings are only useful when they separate outcomes. A product can improve an acute workout test, correct a deficiency, or make protein intake easier without directly building more muscle. The list below ranks practical priority, not marketing excitement.

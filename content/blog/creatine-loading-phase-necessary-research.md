@@ -56,7 +56,7 @@ Pick one approach and keep it consistent long enough to judge the outcomes you c
 
 ## Bottom line
 
-Loading is optional. It can raise muscle creatine stores faster, while a smaller daily dose is simpler and may be easier to tolerate. Choose based on timeline, preference, and health context—not on the claim that loading is necessary or that a specific day guarantees saturation.
+Loading is optional. It can raise muscle creatine stores faster, while a smaller daily dose is simpler and may be easier to tolerate. Choose based on timeline, preference, and health context, not on the claim that loading is necessary or that a specific day guarantees saturation.
 
 ## Related reading
 

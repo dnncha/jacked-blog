@@ -59,7 +59,7 @@ Do not use a breathing drill to mask wheezing, exercise intolerance, faintness, 
 
 ## The bottom line
 
-Respiratory training can improve some breathing measures, but the evidence does not establish a direct muscle-building or strength benefit from DIY CO2 tolerance drills. For lifting, learn a calm, task-appropriate breath-and-brace pattern, keep breath holds brief, and treat symptoms as a reason to stop—not as a sign that the exercise is working.
+Respiratory training can improve some breathing measures, but the evidence does not establish a direct muscle-building or strength benefit from DIY CO2 tolerance drills. For lifting, learn a calm, task-appropriate breath-and-brace pattern, keep breath holds brief, and treat symptoms as a reason to stop, not as a sign that the exercise is working.
 
 ## Related reading
 

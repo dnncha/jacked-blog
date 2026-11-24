@@ -49,7 +49,7 @@ Repeated performance loss, worsening technique, persistent soreness, declining m
 
 ## Bottom line
 
-Strength and hypertrophy are compatible goals. Prioritise the main outcome, organise exercises around fatigue, account for conditioning and life stress, and use performance trends to adjust the week. The interference literature supports context-sensitive programming—not fixed percentages, mandatory 48-hour gaps, or a claim that combined training is inherently compromised.
+Strength and hypertrophy are compatible goals. Prioritise the main outcome, organise exercises around fatigue, account for conditioning and life stress, and use performance trends to adjust the week. The interference literature supports context-sensitive programming, not fixed percentages, mandatory 48-hour gaps, or a claim that combined training is inherently compromised.
 
 ## Related reading
 

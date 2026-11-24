@@ -39,7 +39,7 @@ Range of motion changes where a muscle is loaded. Current technique reviews sugg
 
 1. Start with a stable, comfortable default.
 2. Define the goal: strength on the lift, a target muscle's training stimulus, range tolerance, or symptom-free practice.
-3. Change one feature—grip, stance, bar position, or range—while keeping load and effort comparable.
+3. Change one feature (grip, stance, bar position, or range) while keeping load and effort comparable.
 4. Track repeatable performance and symptoms for several sessions.
 5. Keep the variant that improves the goal without making technique or recovery worse.
 

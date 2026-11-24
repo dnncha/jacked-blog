@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Blood Tests for Lifters: What They Can and Cannot Tell You"
-excerpt: "A clinician-led guide to testosterone, cortisol, CK, CRP, and other blood tests—what they measure, what they do not prove, and when testing is worth discussing."
+excerpt: "A clinician-led guide to testosterone, cortisol, CK, CRP, and other blood tests: what they measure, what they do not prove, and when testing is worth discussing."
 ---
 # Blood Tests for Lifters: What They Can and Cannot Tell You
 
@@ -18,7 +18,7 @@ Testing is most informative when it answers a defined question. Examples include
 - checking a suspected nutritional deficiency or organ-health issue;
 - establishing a baseline when a clinician thinks it will change management.
 
-It is not a reliable way to decide whether you are ready for today’s squat. Sleep, soreness, motivation, performance trends, pain, appetite, and life stress are also relevant—and no ordinary blood panel combines them into a validated training-readiness score.
+It is not a reliable way to decide whether you are ready for today’s squat. Sleep, soreness, motivation, performance trends, pain, appetite, and life stress are also relevant, and no ordinary blood panel combines them into a validated training-readiness score.
 
 ## Testosterone: diagnose a disorder, not a gym “optimal”
 
@@ -59,7 +59,7 @@ Thyroid tests, blood count, ferritin, glucose markers, lipids, liver enzymes, ki
 3. **Follow collection instructions.** Timing, fasting, rest from hard exercise, and repeat testing may matter for the analyte.
 4. **Use the same laboratory when tracking a trend.** Methods and reference intervals differ.
 5. **Treat the result as one piece of evidence.** Do not use it to prescribe hormones, supplements, or a drastic deload without appropriate medical interpretation.
-6. **Escalate symptoms.** Severe weakness, fainting, chest pain, unusual shortness of breath, jaundice, swelling, or dark urine is a medical issue—not a programming puzzle.
+6. **Escalate symptoms.** Severe weakness, fainting, chest pain, unusual shortness of breath, jaundice, swelling, or dark urine is a medical issue, not a programming puzzle.
 
 ## What to track between tests
 

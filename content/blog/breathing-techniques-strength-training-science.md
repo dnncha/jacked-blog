@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Breathing Techniques for Heavy Lifts: A Practical Evidence Guide"
-excerpt: "How to choose breath timing for heavy, moderate, and high-repetition lifting—what bracing can help with, and when breath-holding deserves caution."
+excerpt: "How to choose breath timing for heavy, moderate, and high-repetition lifting: what bracing can help with, and when breath-holding deserves caution."
 ---
 # Breathing Techniques for Heavy Lifts: A Practical Evidence Guide
 
@@ -29,7 +29,7 @@ Those results explain why a controlled brace can make a heavy movement feel more
 
 ## When a brief Valsalva may be used
 
-Powerlifters and other strength athletes sometimes use a brief Valsalva—straining against a closed glottis—during a heavy effort. It may help maintain trunk stiffness, but it produces an acute cardiovascular response.
+Powerlifters and other strength athletes sometimes use a brief Valsalva (straining against a closed glottis) during a heavy effort. It may help maintain trunk stiffness, but it produces an acute cardiovascular response.
 
 An older study in novice lifters found the highest blood-pressure response with Valsalva breathing ([Sawai et al.](https://pubmed.ncbi.nlm.nih.gov/1623367/)). A newer study in healthy, resistance-untrained adults found that combining Valsalva with resistance exercise increased mean arterial pressure more than paced breathing ([Perry et al.](https://pubmed.ncbi.nlm.nih.gov/42213131/)). These findings support caution, not a blanket ban or a blanket safety claim.
 
@@ -74,7 +74,7 @@ For persistent back pain, breathlessness, fainting, or uncertainty about a medic
 
 ## The bottom line
 
-Use breathing to support a stable, repeatable lift—not to chase a breath-hold record. A brief, task-appropriate brace can be useful in heavy work; comfortable breathing is usually better for longer sets. Keep the load manageable, reset between reps, and treat adverse symptoms as a stop signal.
+Use breathing to support a stable, repeatable lift, not to chase a breath-hold record. A brief, task-appropriate brace can be useful in heavy work; comfortable breathing is usually better for longer sets. Keep the load manageable, reset between reps, and treat adverse symptoms as a stop signal.
 
 ## Related reading
 
@@ -84,7 +84,7 @@ Use breathing to support a stable, repeatable lift—not to chase a breath-hold 
 
 ## Applying this article
 
-Choose one exercise and practise breath timing on warm-up sets for two weeks. Keep the load, repetitions, and rest consistent enough to judge technique. Track control and symptoms—not a promised percentage increase.
+Choose one exercise and practise breath timing on warm-up sets for two weeks. Keep the load, repetitions, and rest consistent enough to judge technique. Track control and symptoms, not a promised percentage increase.
 
 ## Limits of the evidence
 
