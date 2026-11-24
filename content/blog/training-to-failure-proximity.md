@@ -37,9 +37,9 @@ You do not need to reach momentary failure on every set to build muscle or stren
 
 ### Sources
 
-- [Proximity-to-failure meta-regression](https://pubmed.ncbi.nlm.nih.gov/40791980/) — estimated dose-response relationships and their uncertainty.
-- [Failure versus non-failure resistance training](https://pubmed.ncbi.nlm.nih.gov/38970765/) — review context for strength and hypertrophy outcomes.
-- [RIR-based resistance training adaptations](https://pubmed.ncbi.nlm.nih.gov/38393985/) — example of direct human training evidence comparing effort prescriptions.
+- [Proximity-to-failure meta-regression](https://pubmed.ncbi.nlm.nih.gov/40791980/): estimated dose-response relationships and their uncertainty.
+- [Failure versus non-failure resistance training](https://pubmed.ncbi.nlm.nih.gov/38970765/): review context for strength and hypertrophy outcomes.
+- [RIR-based resistance training adaptations](https://pubmed.ncbi.nlm.nih.gov/38393985/): example of direct human training evidence comparing effort prescriptions.
 
 ## Related reading
 

@@ -22,7 +22,7 @@ You get a plan based on your goal. That's it. It doesn't adjust when you:
 You're supposed to remember to increase weight. Most people don't. They plateau.
 
 **3. One-Size-Fits-All**
-Your genetics, training history, recovery capacity — none of it matters in the app's eyes.
+Your genetics, training history, recovery capacity: none of it matters in the app's eyes.
 
 **4. No Fatigue Tracking**
 Training hard when you're under-recovered leads to burnout. Generic apps don't know you're exhausted.

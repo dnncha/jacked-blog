@@ -5,7 +5,7 @@ excerpt: "Training density describes how much work fits into a period, but it is
 ---
 # Training Density for Muscle Growth: Use Time Without Chasing Fatigue
 
-Training density is a simple relationship between work and time: for example, sets completed per hour. It can help organise a busy schedule, but it is not a magic muscle-building variable. Two sessions with the same number of sets can have different density because of rest, exercise transitions, warm-ups, or interruptions—and neither session is automatically better.
+Training density is a simple relationship between work and time: for example, sets completed per hour. It can help organise a busy schedule, but it is not a magic muscle-building variable. Two sessions with the same number of sets can have different density because of rest, exercise transitions, warm-ups, or interruptions, and neither session is automatically better.
 
 ## What density changes
 

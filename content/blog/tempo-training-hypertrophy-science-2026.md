@@ -32,15 +32,15 @@ When comparing tempos, keep the exercise, load selection, effort, range of motio
 
 ## Bottom line
 
-There is a wide workable range of repetition speeds for muscle growth. Controlled form and consistent progression matter more than an exact three- or four-second negative. Choose tempo to serve the goal, the exercise, and the trainee—not because a slow number is automatically more anabolic.
+There is a wide workable range of repetition speeds for muscle growth. Controlled form and consistent progression matter more than an exact three- or four-second negative. Choose tempo to serve the goal, the exercise, and the trainee, not because a slow number is automatically more anabolic.
 
 ## Evidence
 
 ### Sources
 
-- [Schoenfeld et al., repetition duration and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/25601394/) — systematic review and meta-analysis of repetition duration.
-- [Amdi and King, eccentric-phase duration](https://pubmed.ncbi.nlm.nih.gov/40692176/) — 2025 systematic review and meta-analysis of strength, hypertrophy, and jump outcomes.
-- [Resistance-training technique review](https://pubmed.ncbi.nlm.nih.gov/38249086/) — broader context for tempo, range of motion, and technique.
+- [Schoenfeld et al., repetition duration and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/25601394/): systematic review and meta-analysis of repetition duration.
+- [Amdi and King, eccentric-phase duration](https://pubmed.ncbi.nlm.nih.gov/40692176/): 2025 systematic review and meta-analysis of strength, hypertrophy, and jump outcomes.
+- [Resistance-training technique review](https://pubmed.ncbi.nlm.nih.gov/38249086/): broader context for tempo, range of motion, and technique.
 
 ## Related reading
 

@@ -7,7 +7,7 @@ excerpt: "RPE, RIR, percentages, APRE, and velocity tools can all guide load sel
 ---
 # RPE vs RIR vs Percentage-Based Training: A Practical Autoregulation Guide
 
-Percentage-based training starts with an estimated one-repetition maximum and prescribes a load. Autoregulation uses information from the current session—repetitions completed, perceived effort, bar speed, or performance—to adjust that prescription. The approaches are not opposites: a percentage can provide the plan while RPE or RIR provides a guardrail.
+Percentage-based training starts with an estimated one-repetition maximum and prescribes a load. Autoregulation uses information from the current session (repetitions completed, perceived effort, bar speed, or performance) to adjust that prescription. The approaches are not opposites: a percentage can provide the plan while RPE or RIR provides a guardrail.
 
 ## The main options
 
@@ -49,9 +49,9 @@ Autoregulation is a way to make a plan responsive to the person in front of the 
 
 ### Sources
 
-- [Auto-regulation versus fixed loading for maximal strength](https://pubmed.ncbi.nlm.nih.gov/33776802/) — 2021 systematic review and meta-analysis of APRE, RPE, and velocity-based approaches.
-- [Recent synthesis of autoregulated resistance training](https://pubmed.ncbi.nlm.nih.gov/40791980/) — current evidence and uncertainty around method comparisons.
-- [Interpreting surface-EMG and activation signals](https://pubmed.ncbi.nlm.nih.gov/29354060/) — relevant caution when turning a measurement into a training claim.
+- [Auto-regulation versus fixed loading for maximal strength](https://pubmed.ncbi.nlm.nih.gov/33776802/): 2021 systematic review and meta-analysis of APRE, RPE, and velocity-based approaches.
+- [Recent synthesis of autoregulated resistance training](https://pubmed.ncbi.nlm.nih.gov/40791980/): current evidence and uncertainty around method comparisons.
+- [Interpreting surface-EMG and activation signals](https://pubmed.ncbi.nlm.nih.gov/29354060/): relevant caution when turning a measurement into a training claim.
 
 ## Related reading
 

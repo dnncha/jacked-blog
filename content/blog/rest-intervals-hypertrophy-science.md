@@ -29,7 +29,7 @@ Do not use a short rest to claim superior metabolic stress, and do not assume a 
 
 ## Bottom line
 
-Rest long enough to perform the next useful set. The current evidence leans against extremely short rest when it reduces volume or quality, but it does not establish one optimal interval for every person or exercise. Track the work, adjust the clock, and let performance—not discomfort—decide.
+Rest long enough to perform the next useful set. The current evidence leans against extremely short rest when it reduces volume or quality, but it does not establish one optimal interval for every person or exercise. Track the work, adjust the clock, and let performance, not discomfort, decide.
 
 ### Sources
 

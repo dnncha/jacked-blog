@@ -9,7 +9,7 @@ Sleep is relevant to training because it affects alertness, performance, appetit
 
 ## What a controlled study found
 
-In a randomized crossover study of 13 healthy young adults, one night without sleep reduced postprandial muscle-protein synthesis by 18% compared with normal sleep. The same study measured a 21% increase in cortisol and a 24% decrease in testosterone the following day. That is a mechanistic, short-term result from total sleep deprivation—not proof that every short night produces the same hormonal change or a measurable loss of muscle.
+In a randomized crossover study of 13 healthy young adults, one night without sleep reduced postprandial muscle-protein synthesis by 18% compared with normal sleep. The same study measured a 21% increase in cortisol and a 24% decrease in testosterone the following day. That is a mechanistic, short-term result from total sleep deprivation, not proof that every short night produces the same hormonal change or a measurable loss of muscle.
 
 ## What broader performance reviews show
 
@@ -45,10 +45,10 @@ Protecting sleep is a sensible part of training because sleep loss can reduce pe
 
 ### Sources
 
-- [Lamon et al., acute sleep deprivation and muscle-protein synthesis](https://pubmed.ncbi.nlm.nih.gov/33400856/) — randomized crossover study in 13 healthy adults.
-- [Craven et al., acute sleep loss and physical performance](https://pubmed.ncbi.nlm.nih.gov/35708888/) — systematic and meta-analytic review of 69 publications.
-- [Easow et al., sleep loss and muscle strength](https://pubmed.ncbi.nlm.nih.gov/40663194/) — 2025 systematic review of 13 strength studies.
-- [CDC sleep-duration guidance](https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html) — general adult sleep guidance, not a hypertrophy prescription.
+- [Lamon et al., acute sleep deprivation and muscle-protein synthesis](https://pubmed.ncbi.nlm.nih.gov/33400856/): randomized crossover study in 13 healthy adults.
+- [Craven et al., acute sleep loss and physical performance](https://pubmed.ncbi.nlm.nih.gov/35708888/): systematic and meta-analytic review of 69 publications.
+- [Easow et al., sleep loss and muscle strength](https://pubmed.ncbi.nlm.nih.gov/40663194/): 2025 systematic review of 13 strength studies.
+- [CDC sleep-duration guidance](https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html): general adult sleep guidance, not a hypertrophy prescription.
 
 ## Related reading
 

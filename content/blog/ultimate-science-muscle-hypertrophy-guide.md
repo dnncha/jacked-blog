@@ -128,7 +128,7 @@ Hypertrophy studies vary in participants, training experience, exercise selectio
 
 ## Bottom Line
 
-The most defensible hypertrophy plan is the one that delivers challenging, trackable work, enough nutrition, and enough recovery for you to repeat it. Use evidence to choose good starting points, then let your training record—not a rigid internet rule—tell you what to adjust.
+The most defensible hypertrophy plan is the one that delivers challenging, trackable work, enough nutrition, and enough recovery for you to repeat it. Use evidence to choose good starting points, then let your training record, not a rigid internet rule, tell you what to adjust.
 
 ### Sources
 

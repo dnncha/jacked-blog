@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Training Around an Injury: A Safer Decision Framework"
-excerpt: "You may be able to keep training while an injury is assessed, but the right modification depends on the tissue, symptoms, and diagnosis—not a generic pain rule."
+excerpt: "You may be able to keep training while an injury is assessed, but the right modification depends on the tissue, symptoms, and diagnosis, not a generic pain rule."
 ---
 An injury does not always require complete rest, but “train around it” is not a diagnosis or a permission slip to push through pain. The safe option depends on what happened, which tissue is involved, how the symptom behaves, and whether a clinician has given restrictions.
 
@@ -13,7 +13,7 @@ Stop the session and seek prompt medical assessment for a major traumatic event,
 
 If the problem is new, sharp, localised, or worsening with the movement, do not use a warm-up as a test of whether you can “push through.” Arrange an assessment, especially when the pain involves a joint, tendon, spine, or neurological symptom.
 
-## Complete rest is not the only option—but neither is automatic loading
+## Complete rest is not the only option, but neither is automatic loading
 
 Disuse can reduce strength and function, but the speed and size of change depend on the tissue, the person, the degree of unloading, and the time involved. A headline such as “muscle starts wasting after 48 hours” is not a useful prescription for an injured lifter.
 

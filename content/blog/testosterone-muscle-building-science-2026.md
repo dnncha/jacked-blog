@@ -55,7 +55,7 @@ If the answer depends on a proprietary blend or a before-and-after testimonial, 
 
 Do not diagnose low testosterone from a single tired week, a social-media checklist, or a home supplement advertisement. The Endocrine Society recommends diagnosing hypogonadism only when compatible symptoms and consistently low, accurately measured testosterone are present. Its guidance recommends confirming a low result with a repeat morning fasting measurement and evaluating the cause with a clinician.
 
-Symptoms such as low libido, erectile problems, persistent fatigue, mood changes, infertility, or an unexpected change in body composition have many possible causes. A clinician can decide whether testing is appropriate and what additional evaluation is needed. Testosterone therapy is a medical treatment with benefits, risks, monitoring requirements, and fertility implications—not a general-purpose muscle-building shortcut.
+Symptoms such as low libido, erectile problems, persistent fatigue, mood changes, infertility, or an unexpected change in body composition have many possible causes. A clinician can decide whether testing is appropriate and what additional evaluation is needed. Testosterone therapy is a medical treatment with benefits, risks, monitoring requirements, and fertility implications, not a general-purpose muscle-building shortcut.
 
 ## A Better Training Takeaway
 

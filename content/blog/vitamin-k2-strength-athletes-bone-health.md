@@ -42,7 +42,7 @@ The most important safety issue is medication interaction. Vitamin K can interfe
 
 - Prioritise dietary adequacy and resistance training.
 - Correct documented vitamin D deficiency with appropriate follow-up.
-- Consider K2 only for a specific, informed reason—not because D3 supposedly “dumps” calcium into arteries.
+- Consider K2 only for a specific, informed reason, not because D3 supposedly “dumps” calcium into arteries.
 - If you try it, track one outcome and keep the rest of the stack stable.
 
 ## Bottom line

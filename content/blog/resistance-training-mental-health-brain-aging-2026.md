@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Resistance Training and Mental Health: What the Evidence Supports"
-excerpt: "Resistance training may reduce depressive and anxiety symptoms for some people, but it is an adjunct—not a replacement for clinical care—and no lifting routine has been shown to make the brain a fixed number of years younger."
+excerpt: "Resistance training may reduce depressive and anxiety symptoms for some people, but it is an adjunct, not a replacement for clinical care, and no lifting routine has been shown to make the brain a fixed number of years younger."
 ---
 # Resistance Training and Mental Health: What the Evidence Supports
 

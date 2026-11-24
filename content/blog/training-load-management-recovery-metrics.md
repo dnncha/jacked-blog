@@ -1,7 +1,7 @@
 ---
 updatedAt: "2026-08-15"
 title: "Training Load Management: How to Use Recovery Data"
-excerpt: "Use training history, performance, symptoms, sleep, and wearable trends to adjust lifting—without treating HRV or a recovery score as a diagnosis."
+excerpt: "Use training history, performance, symptoms, sleep, and wearable trends to adjust lifting, without treating HRV or a recovery score as a diagnosis."
 ---
 Training-load management is the art of keeping enough hard work in the week to drive adaptation without allowing fatigue, pain, illness, or a chaotic schedule to make the plan unrepeatable. Wearables can add context, but they cannot tell you exactly when a muscle is recovered or prescribe the right number of sets.
 
@@ -15,7 +15,7 @@ For hypertrophy, there is no validated single “fatigue threshold” that appli
 
 ## What HRV can add
 
-Heart-rate variability (HRV) is affected by autonomic, cardiovascular, behavioural, and measurement factors. It can change with sleep, alcohol, illness, psychological stress, hydration, breathing pattern, posture, and device placement—not just with resistance-training fatigue.
+Heart-rate variability (HRV) is affected by autonomic, cardiovascular, behavioural, and measurement factors. It can change with sleep, alcohol, illness, psychological stress, hydration, breathing pattern, posture, and device placement, not just with resistance-training fatigue.
 
 HRV-guided training research is promising enough to be interesting, but it does not prove that a lower reading diagnoses under-recovery or that a green score means a personal-record attempt is appropriate. In practice, use a consistent measurement routine and look for a persistent change that agrees with your sleep, symptoms, and performance.
 
@@ -56,7 +56,7 @@ A simple weekly review can include:
 - pain, illness, and motivation;
 - the direction of wearable readings under similar measurement conditions.
 
-If several signals deteriorate together, reduce training demand long enough to recover and investigate the cause. If the pattern persists, speak with a qualified clinician or coach. A deload can be useful, but “two hard weeks then one easy week” is a planning option—not a law of physiology.
+If several signals deteriorate together, reduce training demand long enough to recover and investigate the cause. If the pattern persists, speak with a qualified clinician or coach. A deload can be useful, but “two hard weeks then one easy week” is a planning option, not a law of physiology.
 
 ## Common mistakes
 

@@ -17,7 +17,7 @@ That distinction matters. Muscle growth is the result of repeated training, adeq
 
 ### Performance evidence is broader, but still mixed
 
-Reviews of athletes link longer-term sleep manipulations with some performance changes, especially for sports that depend on speed, skill, or decision-making. A newer systematic review of sleep deprivation and strength or power also combines different protocols, populations, and tests. That makes the direction useful—sleep loss can make training feel and perform worse—without supporting a universal “six hours equals X percent less muscle” rule.
+Reviews of athletes link longer-term sleep manipulations with some performance changes, especially for sports that depend on speed, skill, or decision-making. A newer systematic review of sleep deprivation and strength or power also combines different protocols, populations, and tests. That makes the direction useful (sleep loss can make training feel and perform worse) without supporting a universal “six hours equals X percent less muscle” rule.
 
 Sleep loss may also change appetite, mood, perceived effort, and willingness to train. Those indirect effects can matter more to a lifter’s progress than a single acute molecular measurement.
 

@@ -4,7 +4,7 @@ excerpt: "How rest affects performance, volume, and time in the gym, with practi
 category: "Training"
 updatedAt: "2026-08-15"
 ---
-Rest periods are not a test of toughness. They are the time you give yourself to perform the next set with the intended load, reps, and technique. The best interval is therefore the shortest rest that preserves the quality your goal requires—not a universal countdown.
+Rest periods are not a test of toughness. They are the time you give yourself to perform the next set with the intended load, reps, and technique. The best interval is therefore the shortest rest that preserves the quality your goal requires, not a universal countdown.
 
 ## The Short Answer
 
@@ -42,7 +42,7 @@ Two people using the same program may need different intervals. Sleep, training 
 
 ## Supersets, Drop Sets, and Time Limits
 
-Supersetting non-competing exercises can save time without a large performance cost—for example, a curl paired with a calf raise. Pairing two demanding compound lifts may reduce the output of the second exercise, so use it deliberately.
+Supersetting non-competing exercises can save time without a large performance cost (for example, a curl paired with a calf raise). Pairing two demanding compound lifts may reduce the output of the second exercise, so use it deliberately.
 
 Drop sets and rest-pause work are efficient ways to accumulate local fatigue. They are not automatically superior to traditional sets, and they can be harder to recover from. Use them when time, variety, or a specific training goal justifies them rather than because a shorter rest feels more intense.
 

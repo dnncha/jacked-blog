@@ -11,7 +11,7 @@ Headlines about “the exact age your gains end” are more dramatic than the ev
 
 A Swedish longitudinal study followed 427 people who were assessed repeatedly from age 16 to 63. Aerobic capacity and muscular endurance peaked at different ages, generally in the late 20s to mid-30s, then declined gradually at first and more quickly later. The study also found large differences between individuals and reported better performance among people who were physically active. [Read the paper.](https://pubmed.ncbi.nlm.nih.gov/41243424/) [Read the open full text.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12620399/)
 
-This is valuable longitudinal evidence, but it measured population physical capacity—not the maximum hypertrophy response of trained lifters. Its bench-press endurance test is not the same as a one-repetition maximum, muscle cross-sectional area, or a carefully controlled bodybuilding programme. “Decline begins in the 30s” is therefore a population description, not a personal forecast.
+This is valuable longitudinal evidence, but it measured population physical capacity, not the maximum hypertrophy response of trained lifters. Its bench-press endurance test is not the same as a one-repetition maximum, muscle cross-sectional area, or a carefully controlled bodybuilding programme. “Decline begins in the 30s” is therefore a population description, not a personal forecast.
 
 ## What age changes in practice
 
@@ -50,7 +50,7 @@ Sleep opportunity, stress, medication, and pain can influence training more than
 
 ## Bottom line
 
-Age-related changes in physical capacity are real, but they are gradual, variable, and not a deadline for muscle or strength training. Start where you are, progress the work you can recover from, and use your own response—not a population headline—as the next decision.
+Age-related changes in physical capacity are real, but they are gradual, variable, and not a deadline for muscle or strength training. Start where you are, progress the work you can recover from, and use your own response, not a population headline, as the next decision.
 
 ## Related reading
 

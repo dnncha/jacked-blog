@@ -1,9 +1,9 @@
 ---
 updatedAt: "2026-08-15"
-title: "Time Under Tension and Hypertrophy: What Tempo Can—and Cannot—Do"
+title: "Time Under Tension and Hypertrophy: What Tempo Can and Cannot Do"
 excerpt: "Tempo changes how a set feels and how much work you can perform, but research does not support a universal 30–60-second hypertrophy target or mandatory slow eccentrics."
 ---
-# Time Under Tension and Hypertrophy: What Tempo Can—and Cannot—Do
+# Time Under Tension and Hypertrophy: What Tempo Can and Cannot Do
 
 Time under tension (TUT) is the time a muscle is loaded during a repetition or set. It is a description of what happened, not a standalone training stimulus with a magic target. Changing tempo changes load, repetitions, fatigue, technique, and total work at the same time, so TUT should be interpreted alongside those variables.
 
@@ -35,7 +35,7 @@ Changing cadence can make an exercise harder without adding load, expose a weak 
 
 ## What to record
 
-If tempo matters to your experiment, log the exercise, load, repetitions, approximate cadence, range of motion, effort, and rest. “Four seconds per rep” is not comparable across a full range of motion and a partial, or between a paused and unpaused repetition. Track the outcome that matters—performance, comfort, or muscle-size trend.
+If tempo matters to your experiment, log the exercise, load, repetitions, approximate cadence, range of motion, effort, and rest. “Four seconds per rep” is not comparable across a full range of motion and a partial, or between a paused and unpaused repetition. Track the outcome that matters: performance, comfort, or muscle-size trend.
 
 ## Common TUT claims to reject
 

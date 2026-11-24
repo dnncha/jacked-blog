@@ -36,7 +36,7 @@ Training a muscle once per week can still work when weekly work is appropriate a
 2. Distribute the weekly work so later sets remain technically useful.
 3. Include enough practice of important lifts without letting fatigue dominate.
 4. Keep the exercise setup stable long enough to judge progression.
-5. Adjust frequency when it improves adherence, recovery, or session quality—not because a table labels one split optimal.
+5. Adjust frequency when it improves adherence, recovery, or session quality, not because a table labels one split optimal.
 
 The right split is the one that supports progression in load, repetitions, range of motion, or effort while leaving room for sleep, food, and ordinary life.
 

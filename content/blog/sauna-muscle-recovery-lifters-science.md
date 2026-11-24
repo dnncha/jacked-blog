@@ -13,7 +13,7 @@ When your body is exposed to heat stress, it produces **heat shock proteins (HSP
 
 Research published in the *Journal of Applied Physiology* found that heat therapy increases HSP70 expression in skeletal muscle. This heat-induced HSP response may enhance the muscle repair process and potentially amplify the adaptive response to training.
 
-Here's the key insight: the cellular stress from heat shares some overlap with the mechanical stress from lifting. Your body's repair mechanisms don't distinguish perfectly between heat-induced damage and training-induced damage—they just know something needs fixing.
+Here's the key insight: the cellular stress from heat shares some overlap with the mechanical stress from lifting. Your body's repair mechanisms don't distinguish perfectly between heat-induced damage and training-induced damage. They just know something needs fixing.
 
 ## Sauna and Muscle Growth: What the Research Shows
 
@@ -53,7 +53,7 @@ This is critical. You'll lose significant fluid through sweat. Drink 500-1000ml 
 
 ## Important Caveats
 
-**Not a magic bullet:** Sauna is a supplement to proper training, nutrition, and sleep—not a replacement for any of them.
+**Not a magic bullet:** Sauna is a supplement to proper training, nutrition, and sleep, not a replacement for any of them.
 
 **Individual variation:** Heat tolerance varies significantly. What works for others may not work for you.
 
