@@ -9,7 +9,7 @@ Hydration is important for training, but it is easy to turn a sensible habit int
 
 The useful question is whether your fluid plan keeps you comfortable and able to train in the conditions you actually face. That answer changes with body size, climate, session duration, sweat rate, clothing, diet, illness, medication, and how much you drink outside the gym.
 
-## What dehydration evidence can—and cannot—show
+## What dehydration evidence can and cannot show
 
 Studies that deliberately reduce body water do not all produce the same performance result. The exercise, speed of contraction, environment, starting hydration, and method used to create dehydration matter. A recent systematic review found mixed effects across neuromuscular outcomes, with clearer concerns in some fatigue-resistance and slower-speed tasks than in every maximal-strength test. [Read the review.](https://pubmed.ncbi.nlm.nih.gov/39047298/)
 

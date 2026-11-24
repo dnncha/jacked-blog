@@ -1,6 +1,6 @@
 ---
 updatedAt: "2026-08-15"
-title: "Jeff Nippard's Muscle Lab: What a Private Fitness Facility Can—and Cannot—Prove"
+title: "Jeff Nippard's Muscle Lab: What a Private Fitness Facility Can and Cannot Prove"
 excerpt: "Jeff Nippard's Muscle Lab combines training, measurement, and content production. Here is how to evaluate its potential without confusing equipment with peer-reviewed research."
 ---
 Jeff Nippard's Muscle Lab has drawn attention because it combines a gym, filming space, and equipment used to measure body composition and muscle-related outcomes. That is interesting for lifters, but a room with specialised instruments is not automatically a research study.

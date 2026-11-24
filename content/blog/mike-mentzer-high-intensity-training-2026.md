@@ -25,7 +25,7 @@ Resistance-training studies show that relatively low doses can improve strength 
 
 Training to failure is similarly conditional. Sets taken close to failure can be effective across a range of loads, but absolute failure is not required on every set and can increase fatigue. A failure set on a stable machine is not the same practical decision as a failure set on a technically demanding barbell lift.
 
-The research usually tests components—number of sets, proximity to failure, load, or frequency—not a complete commercial Heavy Duty programme. That makes a universal verdict impossible.
+The research usually tests components (number of sets, proximity to failure, load, or frequency), not a complete commercial Heavy Duty programme. That makes a universal verdict impossible.
 
 ## Where a low-volume plan may fit
 
@@ -59,7 +59,7 @@ Do not treat soreness or a dramatic pump as proof that the programme is working.
 
 ## The bottom line
 
-Mentzer's central insight—that productive training must be hard enough and recoverable enough to repeat—still has practical value. The rigid claim that one set to failure, long rest, and low frequency are the best formula for everyone does not follow from current evidence.
+Mentzer's central insight (that productive training must be hard enough and recoverable enough to repeat) still has practical value. The rigid claim that one set to failure, long rest, and low frequency are the best formula for everyone does not follow from current evidence.
 
 Use the minimum amount of work that produces a measurable, repeatable trend, and be willing to add or remove work when your log supports the change.
 

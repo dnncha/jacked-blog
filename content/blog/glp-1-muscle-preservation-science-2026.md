@@ -5,7 +5,7 @@ excerpt: "What lean-mass studies can and cannot tell lifters using semaglutide o
 ---
 # GLP-1 Medicines and Muscle Preservation During Weight Loss
 
-GLP-1 medicines and related incretin treatments can produce substantial weight loss for people with appropriate medical indications. The body-composition question is more specific: how much of the change is fat, lean soft tissue, and actual skeletal muscle—and what happens to strength and function?
+GLP-1 medicines and related incretin treatments can produce substantial weight loss for people with appropriate medical indications. The body-composition question is more specific: how much of the change is fat, lean soft tissue, and actual skeletal muscle, and what happens to strength and function?
 
 This is a medical topic. Do not start, stop, change, or combine weight-management medicines from a fitness article.
 

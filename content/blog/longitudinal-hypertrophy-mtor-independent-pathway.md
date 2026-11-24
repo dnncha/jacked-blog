@@ -9,7 +9,7 @@ Mechanotransduction is the process by which a cell senses a physical force and c
 
 ## mTOR is important, not the whole story
 
-mTORC1 is one well-studied regulator of translation and muscle-protein synthesis. Amino acids and resistance exercise can influence mTOR-related signalling, while other pathways regulate energy status, protein breakdown, ribosome production, connective tissue, and cellular quality control. Evidence-based reviews describe hypertrophy as an interaction between external training and nutrition and internal muscle biology—not a single switch. [Read the narrative review.](https://pubmed.ncbi.nlm.nih.gov/35389932/) [Read the broader mechanisms review.](https://pubmed.ncbi.nlm.nih.gov/30335577/)
+mTORC1 is one well-studied regulator of translation and muscle-protein synthesis. Amino acids and resistance exercise can influence mTOR-related signalling, while other pathways regulate energy status, protein breakdown, ribosome production, connective tissue, and cellular quality control. Evidence-based reviews describe hypertrophy as an interaction between external training and nutrition and internal muscle biology, not a single switch. [Read the narrative review.](https://pubmed.ncbi.nlm.nih.gov/35389932/) [Read the broader mechanisms review.](https://pubmed.ncbi.nlm.nih.gov/30335577/)
 
 An acute increase in a signalling protein is also not the same as long-term hypertrophy. A study can show that a pathway responds to one exercise bout without showing that manipulating the pathway in a gym routine produces more muscle.
 
@@ -28,7 +28,7 @@ The most defensible model for a lifter is simple:
 
 Metabolites such as lactate may accompany high-effort training and can affect fatigue, blood flow, and motor-unit recruitment. A review concluded that their direct anabolic contribution remains uncertain; they may augment activation rather than act as an independent muscle-building signal. [Read the review.](https://pubmed.ncbi.nlm.nih.gov/28776271/)
 
-That is why chasing a burn, lactate level, pump, or hormone spike is a poor substitute for progressive training. A low-load set taken close to fatigue can be effective, but the relevant question is whether it creates a useful, recoverable stimulus—not whether it produces the most discomfort.
+That is why chasing a burn, lactate level, pump, or hormone spike is a poor substitute for progressive training. A low-load set taken close to fatigue can be effective, but the relevant question is whether it creates a useful, recoverable stimulus, not whether it produces the most discomfort.
 
 ## How to apply the biology
 
@@ -38,7 +38,7 @@ Use the pathway research to avoid bad claims, not to create a complicated protoc
 2. Accumulate challenging work that you can repeat and recover from.
 3. Eat enough protein and energy for the goal.
 4. Progress load, repetitions, sets, or execution when the trend supports it.
-5. Judge the programme with performance, body composition, function, and wellbeing over weeks—not a post-workout biomarker.
+5. Judge the programme with performance, body composition, function, and wellbeing over weeks, not a post-workout biomarker.
 
 Do not use a signalling supplement, peptide, or unapproved compound to manipulate mTOR or satellite cells. Human safety and long-term outcome evidence are usually much weaker than the mechanistic marketing.
 

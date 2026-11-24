@@ -43,7 +43,7 @@ Use imagery as a short supplement to training, not as a replacement:
 
 1. Choose one lift or movement you already understand.
 2. Imagine a controlled repetition from a first-person perspective.
-3. Include setup, breathing, bracing, range, and a realistic effort—not a fantasy personal record.
+3. Include setup, breathing, bracing, range, and a realistic effort, not a fantasy personal record.
 4. Keep the mental rehearsal brief enough that it improves focus rather than delaying the session.
 5. Compare sessions with and without it using a repeatable warm-up, technique note, or effort rating.
 

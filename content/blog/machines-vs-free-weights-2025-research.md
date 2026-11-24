@@ -47,7 +47,7 @@ There is no requirement to choose one equipment category for an entire programme
 
 ## What the app should support
 
-An effective training log should let you swap an exercise without losing the training intent, record the actual load and repetitions, and review performance by movement or target muscle. That matters when comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app): the app should support the equipment you can use—not force a free-weight or machine identity.
+An effective training log should let you swap an exercise without losing the training intent, record the actual load and repetitions, and review performance by movement or target muscle. That matters when comparing [alternatives to RP Hypertrophy App](/blog/alternatives-to-rp-hypertrophy-app): the app should support the equipment you can use, not force a free-weight or machine identity.
 
 ## The bottom line
 

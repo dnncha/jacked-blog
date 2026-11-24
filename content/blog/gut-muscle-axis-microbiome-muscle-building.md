@@ -1,9 +1,9 @@
 ---
 updatedAt: "2026-08-15"
-title: "The Gut-Muscle Axis: What Microbiome Research Can—and Cannot—Tell Lifters"
+title: "The Gut-Muscle Axis: What Microbiome Research Can and Cannot Tell Lifters"
 excerpt: "The gut and muscle communicate through metabolism and immune signals, but probiotic studies remain small and mixed; learn what is practical now and what is still a hypothesis."
 ---
-# The Gut-Muscle Axis: What Microbiome Research Can—and Cannot—Tell Lifters
+# The Gut-Muscle Axis: What Microbiome Research Can and Cannot Tell Lifters
 
 The gut-muscle axis is a useful research concept, not a hidden explanation for every plateau. The gut microbiome can interact with diet, immune signalling, energy metabolism, and exercise. But associations between bacterial profiles and fitness do not show that one organism caused a person to gain more muscle, and they do not yet produce a validated probiotic prescription for hypertrophy.
 

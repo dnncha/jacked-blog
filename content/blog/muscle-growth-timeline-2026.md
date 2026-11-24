@@ -16,13 +16,13 @@ MPS is also not identical to net muscle gain. Protein breakdown, connective tiss
 
 ## What happens over days
 
-After a session, the body repairs and remodels tissue while performance may recover at a different rate. Sleep, food, total training stress, and the novelty of the exercise influence that process. The useful training decision is whether the target muscle can perform the next session with appropriate technique and effort—not whether a universal MPS clock has expired.
+After a session, the body repairs and remodels tissue while performance may recover at a different rate. Sleep, food, total training stress, and the novelty of the exercise influence that process. The useful training decision is whether the target muscle can perform the next session with appropriate technique and effort, not whether a universal MPS clock has expired.
 
 Protein supports the response to resistance exercise, but there is no need to treat 30 or 60 minutes after training as a deadline. A meal pattern that supplies enough total protein across the day is more important than chasing one acute window ([meal-protein review](https://pubmed.ncbi.nlm.nih.gov/25926513/)).
 
 ## When visible growth can be measured
 
-Changes in muscle size usually require repeated training over weeks, and the measured amount depends on imaging, hydration, glycogen, body mass, and statistical noise. Early strength improvements may reflect skill and coordination as well as muscle growth. Use several weeks of consistent training, body-mass trend, performance, and—if relevant—repeated circumference or imaging measurements rather than judging the result from one workout.
+Changes in muscle size usually require repeated training over weeks, and the measured amount depends on imaging, hydration, glycogen, body mass, and statistical noise. Early strength improvements may reflect skill and coordination as well as muscle growth. Use several weeks of consistent training, body-mass trend, performance, and, if relevant, repeated circumference or imaging measurements rather than judging the result from one workout.
 
 ## Practical implications
 

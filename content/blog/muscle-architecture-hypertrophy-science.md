@@ -29,7 +29,7 @@ Use architecture to generate options, not to dictate a single movement:
 - include both multi-joint and single-joint work when each solves a different problem;
 - consider limb proportions and joint comfort when a standard setup feels poor;
 - use a stable exercise long enough to judge performance and symptoms;
-- measure progress with repeatable strength, repetitions, and—if needed—consistent imaging sites.
+- measure progress with repeatable strength, repetitions, and, if needed, consistent imaging sites.
 
 An exercise that gives a good “stretch” or pump may be useful, but sensations do not prove a specific architectural change. Likewise, a long fascicle or high pennation angle is not a personal limit that a supplement can fix.
 

@@ -35,7 +35,7 @@ If the first warm-up sets feel normal, continue but let effort guide the top set
 - use a normal meal, hydration, and caffeine routine if those already help you;
 - avoid trying to “out-supplement” chronic sleep loss or an unsustainable workload.
 
-Visualization, breathing, music, or a brief walk may make a session feel easier, but they are not proven to restore a depleted CNS or erase an unsafe training load. Caffeine can alter alertness and performance, but it also affects sleep and should be treated as a stimulant—not a recovery intervention.
+Visualization, breathing, music, or a brief walk may make a session feel easier, but they are not proven to restore a depleted CNS or erase an unsafe training load. Caffeine can alter alertness and performance, but it also affects sleep and should be treated as a stimulant, not a recovery intervention.
 
 ## What not to infer
 

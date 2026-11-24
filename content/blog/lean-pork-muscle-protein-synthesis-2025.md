@@ -43,9 +43,9 @@ The 2025 pork trial found a higher acute muscle-protein-synthesis response after
 
 ### Sources
 
-- [Zupančič et al., “Ingestion of a lipid-rich meat matrix blunts the postexercise increase of myofibrillar protein synthesis rates”](https://pubmed.ncbi.nlm.nih.gov/40925524/) — the 16-person acute pork trial and its full meal details.
-- [Morton et al., protein supplementation and resistance-training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/) — context for total protein and longer-term resistance-training outcomes.
-- [University of Illinois study report](https://news.illinois.edu/study-muscle-building-response-to-weight-training-differs-among-high-protein-animal-foods/) — accessible explanation of the study, used here only as supplementary context to the peer-reviewed paper.
+- [Zupančič et al., “Ingestion of a lipid-rich meat matrix blunts the postexercise increase of myofibrillar protein synthesis rates”](https://pubmed.ncbi.nlm.nih.gov/40925524/): the 16-person acute pork trial and its full meal details.
+- [Morton et al., protein supplementation and resistance-training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/): context for total protein and longer-term resistance-training outcomes.
+- [University of Illinois study report](https://news.illinois.edu/study-muscle-building-response-to-weight-training-differs-among-high-protein-animal-foods/): accessible explanation of the study, used here only as supplementary context to the peer-reviewed paper.
 
 ## Related reading
 

@@ -39,7 +39,7 @@ Glycine has credible biology and small human studies, particularly around sleep.
 
 ## Related reading
 
-- [Pre-Sleep Protein: What Casein Can—and Cannot—Add](/blog/pre-sleep-protein-casein-muscle-growth-2026)
+- [Pre-Sleep Protein: What Casein Can and Cannot Add](/blog/pre-sleep-protein-casein-muscle-growth-2026)
 - [Collagen Peptides for Lifters: What the Connective-Tissue Evidence Shows](/blog/collagen-peptides-muscle-tendon-stiffness-2025)
 - [Melatonin for Lifters: What the Exercise Evidence Actually Shows](/blog/melatonin-muscle-recovery-lifters-science)
 

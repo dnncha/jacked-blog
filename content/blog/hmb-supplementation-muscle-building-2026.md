@@ -23,7 +23,7 @@ Mechanistic claims that HMB “blocks breakdown” or “activates mTOR” descr
 
 ## Dose and product claims
 
-Studies often use a fixed daily dose of HMB, but that describes the intervention being tested—not an individually validated prescription. Products differ in calcium-HMB, free-acid HMB, serving size, testing, and cost. Do not infer that a larger dose is better or that timing around the workout creates a special anabolic window.
+Studies often use a fixed daily dose of HMB, but that describes the intervention being tested, not an individually validated prescription. Products differ in calcium-HMB, free-acid HMB, serving size, testing, and cost. Do not infer that a larger dose is better or that timing around the workout creates a special anabolic window.
 
 If a clinician or dietitian suggests HMB during illness, recovery, or poor intake, follow that plan. Consider medication, kidney or liver disease, pregnancy, and the total supplement load before adding it. Stop if adverse effects or cost outweigh a measurable reason to continue.
 
@@ -31,7 +31,7 @@ If a clinician or dietitian suggests HMB during illness, recovery, or poor intak
 
 1. Confirm that calories and complete protein are adequate for the goal.
 2. Keep resistance training appropriate to ability and medical context.
-3. Define the problem HMB is supposed to solve—strength, function, intake, or recovery.
+3. Define the problem HMB is supposed to solve: strength, function, intake, or recovery.
 4. Use a time-limited, single-variable trial only when the potential benefit justifies the cost.
 5. Stop if the outcome does not improve or if the supplement adds complexity without value.
 

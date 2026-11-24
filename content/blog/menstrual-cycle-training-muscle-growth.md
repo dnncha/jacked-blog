@@ -48,7 +48,7 @@ If cycle symptoms are severe, new, or disruptive, speak with a qualified healthc
 
 ---
 
-*Have you noticed performance fluctuations across your cycle? The comments are open—share your experience.*
+*Have you noticed performance fluctuations across your cycle? The comments are open. Share your experience.*
 
 ---
 

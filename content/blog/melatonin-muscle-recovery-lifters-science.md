@@ -48,7 +48,7 @@ Melatonin is an interesting circadian and sleep-related compound, not a proven m
 
 - [Sleep and Muscle Recovery: What the Human Evidence Supports](/blog/sleep-recovery-muscle-growth)
 - [Daily Readiness Training: How to Use Wearable Data Without Overfitting](/blog/daily-readiness-training-wearable-data)
-- [Pre-Sleep Protein: What Casein Can—and Cannot—Add](/blog/pre-sleep-protein-casein-muscle-growth-2026)
+- [Pre-Sleep Protein: What Casein Can and Cannot Add](/blog/pre-sleep-protein-casein-muscle-growth-2026)
 
 ## Applying this article
 

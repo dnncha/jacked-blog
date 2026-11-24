@@ -1,11 +1,11 @@
 ---
 updatedAt: "2026-08-15"
 title: "Lean vs Fatty Meat: The Surprising 2025 Research That Changes Everything"
-excerpt: "New research reveals that lean pork may outperform fatty cuts for post-workout muscle growth—challenging what we thought we knew about dietary fat and hypertrophy."
+excerpt: "New research reveals that lean pork may outperform fatty cuts for post-workout muscle growth, challenging what we thought we knew about dietary fat and hypertrophy."
 ---
 # Lean vs Fatty Meat: The Surprising 2025 Research That Changes Everything
 
-For years, the fitness industry has championed whole-food protein sources over processed alternatives. The reasoning seemed sound: whole eggs beat egg whites, salmon outperforms processed fish blends. But a groundbreaking 2025 study just threw a wrench in that narrative—and it's got serious implications for your post-workout nutrition strategy.
+For years, the fitness industry has championed whole-food protein sources over processed alternatives. The reasoning seemed sound: whole eggs beat egg whites, salmon outperforms processed fish blends. But a groundbreaking 2025 study just threw a wrench in that narrative, and it's got serious implications for your post-workout nutrition strategy.
 
 ## The Study That Shocked Researchers
 
@@ -20,13 +20,13 @@ Using isotope-labeled amino acids and muscle biopsies, the researchers could pre
 
 **The results were unexpected.**
 
-Participants who ate the **lean pork burger** showed significantly greater MPS than those eating the high-fat version. The high-fat pork group barely outperformed the carbohydrate-only control—"only slightly better," in the researcher's words [1].
+Participants who ate the **lean pork burger** showed significantly greater MPS than those eating the high-fat version. The high-fat pork group barely outperformed the carbohydrate-only control, "only slightly better," in the researcher's words [1].
 
 This directly contradicted the team's earlier work showing that fattier whole foods (whole eggs, salmon) actually *enhanced* post-exercise muscle building compared to leaner alternatives [2][3].
 
 ## Why the Contradiction?
 
-Study author Professor Nicholas Burd suggested the difference might lie in **food processing**. The ground pork patties required grinding and blending lean and fattier cuts together—a level of processing that may have altered digestion kinetics [1].
+Study author Professor Nicholas Burd suggested the difference might lie in **food processing**. The ground pork patties required grinding and blending lean and fattier cuts together, a level of processing that may have altered digestion kinetics [1].
 
 "When you're eating other foods, like eggs or salmon, the whole foods appear to be better despite not eliciting a large rise in blood amino acids," Burd noted [1].
 
@@ -44,20 +44,20 @@ Before you ditch all dietary fat, pump the brakes. This study specifically exami
 - **Fatty fish**: Salmon produces stronger muscle-building responses than processed fish [3]
 - **Dietary fat's role**: Still important for hormone production and nutrient absorption
 
-The key insight isn't "fat is bad"—it's that **food form matters**. A ribeye steak or whole salmon fillet likely behaves differently than ground, processed versions.
+The key insight isn't "fat is bad"; it's that **food form matters**. A ribeye steak or whole salmon fillet likely behaves differently than ground, processed versions.
 
 ## Practical Takeaways
 
-1. **Prioritize whole, unprocessed protein sources** post-workout—whole eggs, salmon, steak, chicken thighs with skin
-2. **Lean processed meats may be suboptimal** for maximizing MPS—ground turkey/lean beef patties, deli meats
-3. **The workout itself remains the strongest stimulus**—nutrition squeezes out additional potential, but doesn't replace hard training
-4. **Don't fear fat** in whole foods—the earlier egg and salmon studies still hold
+1. **Prioritize whole, unprocessed protein sources** post-workout: whole eggs, salmon, steak, chicken thighs with skin
+2. **Lean processed meats may be suboptimal** for maximizing MPS: ground turkey/lean beef patties, deli meats
+3. **The workout itself remains the strongest stimulus**. Nutrition squeezes out additional potential, but doesn't replace hard training
+4. **Don't fear fat** in whole foods: the earlier egg and salmon studies still hold
 
 ## The Bottom Line
 
-This 2025 research adds nuance to the "whole foods are always better" narrative. While unprocessed fatty foods still appear superior to their processed counterparts, the processing method matters—a lot. For optimal post-workout muscle building, reach for whole cuts over ground products when possible.
+This 2025 research adds nuance to the "whole foods are always better" narrative. While unprocessed fatty foods still appear superior to their processed counterparts, the processing method matters, a lot. For optimal post-workout muscle building, reach for whole cuts over ground products when possible.
 
-Your gains come from training hard first. Use nutrition to squeeze out the remaining potential—but choose your protein sources wisely.
+Your gains come from training hard first. Use nutrition to squeeze out the remaining potential, but choose your protein sources wisely.
 
 ---
 

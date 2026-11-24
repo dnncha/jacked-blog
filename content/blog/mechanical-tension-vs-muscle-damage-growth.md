@@ -3,7 +3,7 @@ updatedAt: "2026-08-15"
 title: "Why Mechanical Tension, Not Muscle Damage, Drives Growth: The Science"
 excerpt: "Why muscle damage and soreness are not reliable growth targets, how mechanical loading fits the current hypertrophy model, and what to do in training."
 ---
-For decades, the fitness industry has pushed the idea that you need to "destroy" your muscles to grow them. The thinking goes: damage → repair → bigger muscle. But modern research tells a different story. Mechanical tension is the primary driver of hypertrophy—and muscle damage might actually be more of a side effect than a requirement.
+For decades, the fitness industry has pushed the idea that you need to "destroy" your muscles to grow them. The thinking goes: damage → repair → bigger muscle. But modern research tells a different story. Mechanical tension is the primary driver of hypertrophy, and muscle damage might actually be more of a side effect than a requirement.
 
 ## The Three Mechanisms of Hypertrophy
 
@@ -21,7 +21,7 @@ Reviews of the hypertrophy literature separate the stimulus from the damage that
 
 This makes intuitive sense when you think about it:
 
-- **Low-load training** (e.g., 30-rep sets) creates significant metabolic stress but minimal muscle damage—and it still builds muscle
+- **Low-load training** (e.g., 30-rep sets) creates significant metabolic stress but minimal muscle damage, and it still builds muscle
 - **Eccentric training** creates substantial muscle damage but research shows it's not more effective than concentric-focused training for hypertrophy
 - **Trained individuals** experience less muscle damage as they adapt, yet continue to grow
 
@@ -49,11 +49,11 @@ The principle remains: gradually increase tension over time through more weight,
 
 ### Recovery Matters More Than Damage
 
-If damage isn't required for growth, recovery becomes even more important. Sleep, protein intake, and managing training stress matter because they support the actual growth mechanism—protein synthesis—not because they "repair damage."
+If damage isn't required for growth, recovery becomes even more important. Sleep, protein intake, and managing training stress matter because they support the actual growth mechanism (protein synthesis), not because they "repair damage."
 
 ## The Bottom Line
 
-Forget about destroying your muscles. Focus on progressively overloading with adequate protein and recovery. Muscle damage might make you sore, but soreness isn't a reliable indicator of growth—and in some cases, excessive damage can actually impair recovery and limit your ability to train consistently.
+Forget about destroying your muscles. Focus on progressively overloading with adequate protein and recovery. Muscle damage might make you sore, but soreness isn't a reliable indicator of growth, and in some cases, excessive damage can actually impair recovery and limit your ability to train consistently.
 
 Train with intent, progress gradually, and recover. The absence of soreness is not evidence that a workout failed.
 

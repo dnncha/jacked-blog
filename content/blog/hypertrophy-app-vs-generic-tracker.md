@@ -104,7 +104,7 @@ For serious muscle-building training, that distinction matters more than the vis
 
 ## Editorial methodology
 
-The comparison is about workflow, not branding or a claim that one app builds more muscle. It asks whether the product records the training inputs a lifter actually uses—sets, reps, load, effort, exercise context, weekly dose, and history—and whether those records lead to a clearer next decision. It is an editorial framework, not an independent benchmark of every app or a substitute for checking current features.
+The comparison is about workflow, not branding or a claim that one app builds more muscle. It asks whether the product records the training inputs a lifter actually uses (sets, reps, load, effort, exercise context, weekly dose, and history) and whether those records lead to a clearer next decision. It is an editorial framework, not an independent benchmark of every app or a substitute for checking current features.
 
 Surpass-specific workflow statements are linked to its current first-party [workout tracker](/workout-tracker), [progressive-overload page](/progressive-overload), [planner](/gym-workout-planner), and [Hevy import guide](/blog/import-hevy-to-surpass). Competitor descriptions should be verified in the current products.
 
@@ -112,9 +112,9 @@ Surpass-specific workflow statements are linked to its current first-party [work
 
 ### Sources
 
-- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/) — why muscle-level training dose is useful context.
-- [Autoregulation versus fixed loading](https://pubmed.ncbi.nlm.nih.gov/33776802/) — why performance and effort can inform decisions.
-- [Proximity-to-failure meta-regression](https://pubmed.ncbi.nlm.nih.gov/40791980/) — why repetitions alone do not fully describe a set.
+- [Resistance-training volume and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/27433992/): why muscle-level training dose is useful context.
+- [Autoregulation versus fixed loading](https://pubmed.ncbi.nlm.nih.gov/33776802/): why performance and effort can inform decisions.
+- [Proximity-to-failure meta-regression](https://pubmed.ncbi.nlm.nih.gov/40791980/): why repetitions alone do not fully describe a set.
 
 ## Limits of the evidence
 
