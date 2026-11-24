@@ -21,14 +21,14 @@ Use the smallest intervention that solves the problem:
 
 - add static holds or carries after the main pulling work;
 - use a double-overhand or mixed grip only when its risks and goals are understood;
-- use straps for selected hypertrophy sets if the target muscle—not grip—is the priority;
+- use straps for selected hypertrophy sets if the target muscle, not grip, is the priority;
 - vary implements and avoid turning every session into a maximal grip test.
 
 ## Testing without false targets
 
 Use the same dynamometer, handle position, hand, posture, and instructions if you want to track a trend. Do not compare a gym dynamometer number with a clinical threshold from another protocol.
 
-The EWGSOP2 consensus uses low muscle strength as part of sarcopenia case-finding and diagnosis, but its thresholds apply to a clinical framework for older adults—not to a trained lifter's “ideal” score ([Cruz-Jentoft et al.](https://pubmed.ncbi.nlm.nih.gov/30312372/)). Do not use a 45–55 kg target for every man, a 70 kg target for advanced lifters, or a universal male/female cutoff as a hypertrophy prescription.
+The EWGSOP2 consensus uses low muscle strength as part of sarcopenia case-finding and diagnosis, but its thresholds apply to a clinical framework for older adults, not to a trained lifter's “ideal” score ([Cruz-Jentoft et al.](https://pubmed.ncbi.nlm.nih.gov/30312372/)). Do not use a 45–55 kg target for every man, a 70 kg target for advanced lifters, or a universal male/female cutoff as a hypertrophy prescription.
 
 ## How to train it
 

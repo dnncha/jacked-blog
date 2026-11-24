@@ -29,7 +29,7 @@ Use this style of program when you value exercise options, logging, and a more d
 
 ## Mike Mentzer's Heavy Duty
 
-Heavy Duty is commonly described as low-volume, high-effort training with long recovery periods. Its central idea—hard sets can be productive and time is limited—is compatible with the broader evidence. The stronger claim that very low volume or absolute failure is universally superior is not established.
+Heavy Duty is commonly described as low-volume, high-effort training with long recovery periods. Its central idea (hard sets can be productive and time is limited) is compatible with the broader evidence. The stronger claim that very low volume or absolute failure is universally superior is not established.
 
 Lower-volume training may be useful when time, recovery, or preference is the constraint. It can also make measurement simple. The tradeoff is that too little productive work, too few exposures, or repeated failure can make progress harder to sustain. The answer should come from performance over several weeks, not loyalty to a label.
 

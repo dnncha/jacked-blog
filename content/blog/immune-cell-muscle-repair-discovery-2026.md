@@ -61,7 +61,7 @@ The translational opportunity may be more relevant to acute injury, muscle disea
 
 The new study adds a striking mechanism to the biology of muscle repair: macrophages can form synaptic-like contacts with myofibres and influence repair-related signalling in mice and experimental preparations. The study does not establish a human recovery intervention, a supplement target, or a reason to chase muscle damage.
 
-For lifters, keep the conclusion narrow. Train progressively, recover adequately, and treat persistent pain or injury as a clinical question—not as a macrophage optimisation problem.
+For lifters, keep the conclusion narrow. Train progressively, recover adequately, and treat persistent pain or injury as a clinical question, not as a macrophage optimisation problem.
 
 ## Related reading
 

@@ -73,7 +73,7 @@ If checking HRV changes your mood before training or makes normal variation feel
 
 ## Bottom line
 
-HRV is a personal, noisy signal that can make a training log more informative. Measure it consistently, compare it with your own trend, and combine it with sleep, symptoms, effort, and performance. Use it to support autoregulation—not to promise precise recovery, diagnose overtraining, or replace sensible programming.
+HRV is a personal, noisy signal that can make a training log more informative. Measure it consistently, compare it with your own trend, and combine it with sleep, symptoms, effort, and performance. Use it to support autoregulation, not to promise precise recovery, diagnose overtraining, or replace sensible programming.
 
 ## Related reading
 

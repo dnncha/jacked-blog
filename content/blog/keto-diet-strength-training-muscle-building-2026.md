@@ -17,7 +17,7 @@ The practical conclusion is modest: keto can coexist with resistance training, b
 
 ## Why performance may feel different
 
-Carbohydrate availability affects glycogen, and high-volume lifting, repeated sets, and concurrent sport can place a large demand on glycolytic work. Some people perform well on keto; others notice lower training volume, poorer pumps, or more difficult high-intensity sessions. The response depends on the programme, total energy, sodium and fluid intake, training history, and the individual—not on a fixed “adaptation” calendar.
+Carbohydrate availability affects glycogen, and high-volume lifting, repeated sets, and concurrent sport can place a large demand on glycolytic work. Some people perform well on keto; others notice lower training volume, poorer pumps, or more difficult high-intensity sessions. The response depends on the programme, total energy, sodium and fluid intake, training history, and the individual, not on a fixed “adaptation” calendar.
 
 Do not use one difficult week to declare the diet impossible, and do not use one good session to declare it optimal. Compare the diet with a stable training plan and a defined performance outcome.
 
@@ -29,7 +29,7 @@ Do not use one difficult week to declare the diet impossible, and do not use one
 4. **Account for electrolytes and tolerance.** Dietary changes can alter fluid and sodium balance. Do not assume a generic electrolyte product is safe if you have hypertension, kidney disease, or medication interactions.
 5. **Keep the design simple.** Do not combine keto with fasting, aggressive supplements, and a new programme at the same time if you want to know what caused the result.
 
-People with diabetes, pregnancy, a history of eating disorders, kidney or liver disease, lipid disorders, or medication-dependent conditions should discuss a ketogenic diet with a qualified clinician. “Keto flu,” persistent fatigue, gastrointestinal symptoms, or deteriorating performance are reasons to reassess—not badges of adherence.
+People with diabetes, pregnancy, a history of eating disorders, kidney or liver disease, lipid disorders, or medication-dependent conditions should discuss a ketogenic diet with a qualified clinician. “Keto flu,” persistent fatigue, gastrointestinal symptoms, or deteriorating performance are reasons to reassess, not badges of adherence.
 
 ## Keto versus carbohydrates for a lifter
 
@@ -37,7 +37,7 @@ The best diet is the one that supports the goal, health, training quality, and l
 
 ## Bottom line
 
-Ketogenic diets can support some resistance-training goals, but the current evidence does not show a general muscle-building advantage. Choose the diet for the whole pattern—energy, protein, training quality, health, preference, and adherence—not for a single metabolic marker.
+Ketogenic diets can support some resistance-training goals, but the current evidence does not show a general muscle-building advantage. Choose the diet for the whole pattern (energy, protein, training quality, health, preference, and adherence), not for a single metabolic marker.
 
 ## Related reading
 

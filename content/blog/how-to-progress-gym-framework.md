@@ -1,12 +1,12 @@
 ---
 updatedAt: "2026-08-15"
 title: "How to Progress in the Gym: A Science-Based Framework"
-excerpt: "Progressive overload is the foundation of muscle growth. Here's how to actually implement it — from beginner to advanced."
+excerpt: "Progressive overload is the foundation of muscle growth. Here's how to actually implement it, from beginner to advanced."
 category: "Training"
 ---
 # How to Progress in the Gym: A Science-Based Framework
 
-Progressive overload — doing more over time — is the central principle for muscle growth. But "more" isn't always obvious.
+Progressive overload (doing more over time) is the central principle for muscle growth. But "more" isn't always obvious.
 
 ## What Progressive Overload Actually Means
 
@@ -23,7 +23,7 @@ The key: your muscles need a reason to grow. Same workout = same muscles.
 ## Methods: From Simple to Advanced
 
 ### 1. Linear Progression (Beginners)
-Add 2.5kg to the bar every session. Simple, effective for new lifters. Eventually stalls — that's normal.
+Add 2.5kg to the bar every session. Simple, effective for new lifters. Eventually stalls. That's normal.
 
 ### 2. Double Progression (Intermediate)
 Hit the top of your rep range for all sets? Add weight. Hit the bottom? Stay there. Example: 3×8-12. When you hit 3×12, increase weight.
@@ -76,7 +76,7 @@ If performance falls across several movements, do not solve the problem by addin
 2. Add weight or reps when it gets easy
 3. Don't ego lift
 4. Sleep and eat enough
-5. Be patient — gains come in months, not weeks
+5. Be patient: gains come in months, not weeks
 
 ---
 

@@ -32,7 +32,7 @@ Do not prescribe a universal 70–80 °C sauna, 15–20 minute pre-workout, 20-m
 
 ## How to track a real-world experiment
 
-Choose one practical outcome—sleep comfort, perceived recovery, or performance in a heat-acclimation block. Keep training, caffeine, hydration, and timing reasonably stable. Record symptoms and stop if you develop faintness, palpitations, confusion, severe headache, or other concerning signs.
+Choose one practical outcome: sleep comfort, perceived recovery, or performance in a heat-acclimation block. Keep training, caffeine, hydration, and timing reasonably stable. Record symptoms and stop if you develop faintness, palpitations, confusion, severe headache, or other concerning signs.
 
 ## What would count as stronger evidence?
 

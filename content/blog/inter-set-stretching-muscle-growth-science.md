@@ -3,7 +3,7 @@ updatedAt: "2026-08-15"
 title: "Inter-Set Stretching for Muscle Growth: What We Know"
 excerpt: "Stretching between sets may improve flexibility, but current research does not establish a reliable hypertrophy advantage or a need to avoid it."
 ---
-Stretching between sets is often presented as either a secret hypertrophy technique or a way to “turn off” the muscle you just trained. Neither story is supported by the evidence. Inter-set stretching can change flexibility and may affect how a session feels, but research is too limited to make it a reliable muscle-growth multiplier—or to say that every lifter should avoid it.
+Stretching between sets is often presented as either a secret hypertrophy technique or a way to “turn off” the muscle you just trained. Neither story is supported by the evidence. Inter-set stretching can change flexibility and may affect how a session feels, but research is too limited to make it a reliable muscle-growth multiplier, or to say that every lifter should avoid it.
 
 The key distinction is between passive stretching, loaded work at long muscle lengths, and ordinary rest. They are different exposures with different outcomes.
 
@@ -13,7 +13,7 @@ One controlled study assigned young men to flywheel resistance training with or 
 
 That result does not prove that inter-set stretching cannot help in another setup. It does mean that “stretch between every set for more growth” is ahead of the direct evidence.
 
-An earlier review of stretching combined with resistance training reached a similarly cautious conclusion: low-intensity passive stretching alone did not have strong support for increasing muscle size, while studies using greater tensile strain—including some inter-set or loaded approaches—were too limited for a universal recommendation.
+An earlier review of stretching combined with resistance training reached a similarly cautious conclusion: low-intensity passive stretching alone did not have strong support for increasing muscle size, while studies using greater tensile strain (including some inter-set or loaded approaches) were too limited for a universal recommendation.
 
 ## Passive stretching is not the same as long-length loading
 
@@ -37,7 +37,7 @@ If a stretch makes the target movement feel weaker, less stable, or less comfort
 
 Run a small trial over several sessions. Keep the exercise, load, rest time, and effort similar. Compare a normal-rest condition with a gentle inter-set mobility or stretching condition. Record completed repetitions, technique, perceived effort, range of motion, and next-day symptoms.
 
-Do not change stretching, exercise selection, volume, failure proximity, and rest intervals at the same time. If performance falls, the stretch may have been too intense—or the total rest may have been too short. If flexibility improves but hypertrophy does not, that is still a useful outcome if flexibility was the goal.
+Do not change stretching, exercise selection, volume, failure proximity, and rest intervals at the same time. If performance falls, the stretch may have been too intense, or the total rest may have been too short. If flexibility improves but hypertrophy does not, that is still a useful outcome if flexibility was the goal.
 
 ## The bottom line
 

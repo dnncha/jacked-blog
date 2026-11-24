@@ -44,13 +44,13 @@ Mechanotransduction supports familiar training principles:
 - progress repetitions, load, sets, exercise difficulty, or execution when the trend supports it;
 - avoid momentum that changes the intended task;
 - use a range of exercises when it improves the target muscle's work, skill, comfort, or adherence; and
-- treat pain, instability, and persistent symptoms as reasons to modify or seek assessment—not as proof that a cell pathway needs more stimulus.
+- treat pain, instability, and persistent symptoms as reasons to modify or seek assessment, not as proof that a cell pathway needs more stimulus.
 
 There is no validated mechanotransduction protocol requiring a particular 1–5-repetition, 8–12-repetition, or high-repetition zone. Nor does a “cellular” supplement become effective because it is linked to mTOR, FAK, YAP/TAZ, or Piezo1 in a diagram.
 
 ## The bottom line
 
-Mechanical loading is translated into cellular signalling through a complex network. That biology reinforces progressive, repeatable resistance training, but it does not replace measurements of strength, muscle size, recovery, or symptoms. Use the mechanism to understand the training—not to promise more than the human outcome data show.
+Mechanical loading is translated into cellular signalling through a complex network. That biology reinforces progressive, repeatable resistance training, but it does not replace measurements of strength, muscle size, recovery, or symptoms. Use the mechanism to understand the training, not to promise more than the human outcome data show.
 
 ## Related reading
 

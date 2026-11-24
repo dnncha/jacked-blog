@@ -31,7 +31,7 @@ Tempo can be a way to constrain technique or make a lighter load challenging. It
 
 ## A practical experiment
 
-Keep a main lift at a natural controlled speed and use a slower eccentric on one accessory for four to six weeks. Hold exercise selection, weekly sets, rest, and effort as steady as practical. Compare performance, symptoms, and longer-term size—not the burn in one session. If the slow version reduces the load or range without a clear reason, return to the version that is easier to progress.
+Keep a main lift at a natural controlled speed and use a slower eccentric on one accessory for four to six weeks. Hold exercise selection, weekly sets, rest, and effort as steady as practical. Compare performance, symptoms, and longer-term size, not the burn in one session. If the slow version reduces the load or range without a clear reason, return to the version that is easier to progress.
 
 ## Bottom line
 

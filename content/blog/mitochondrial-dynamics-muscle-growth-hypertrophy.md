@@ -3,7 +3,7 @@ updatedAt: "2026-08-15"
 title: "Mitochondria, Resistance Training, and Muscle Growth: What We Know"
 excerpt: "Mitochondrial adaptation and hypertrophy signalling can coexist, but cellular findings do not create a secret muscle-building protocol."
 ---
-Mitochondria supply energy for muscle contraction and participate in signalling, calcium handling, and cellular quality control. That makes them relevant to training—but relevance is not the same as a direct recipe for more hypertrophy.
+Mitochondria supply energy for muscle contraction and participate in signalling, calcium handling, and cellular quality control. That makes them relevant to training, but relevance is not the same as a direct recipe for more hypertrophy.
 
 The most useful distinction is between a cellular signal measured after exercise and a long-term change in strength or muscle size. Many fitness claims collapse those outcomes into one story.
 
@@ -35,7 +35,7 @@ Human studies have reported epigenetic marks that persist after detraining and m
 You do not need a mitochondria-specific lifting protocol. Instead:
 
 1. Keep resistance training progressive and recoverable.
-2. Add aerobic work according to health, sport, preference, and time—not because a pathway diagram promises extra hypertrophy.
+2. Add aerobic work according to health, sport, preference, and time, not because a pathway diagram promises extra hypertrophy.
 3. Separate demanding sessions or reduce total workload when performance and recovery show a real tradeoff.
 4. Treat sleep, energy intake, and protein as the practical support for both kinds of training.
 5. Use performance, body-composition trends, and conditioning outcomes to evaluate the programme; do not use one blood or biopsy marker as a verdict.

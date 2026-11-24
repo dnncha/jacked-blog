@@ -16,7 +16,7 @@ Mental practice can also improve strength in some small experiments, probably th
 
 ## When an internal cue may help
 
-An internal cue can be useful when a lifter is learning where an exercise should be felt, trying to reduce momentum on an isolation exercise, or deliberately shifting attention during a moderate-load set. It can also help someone notice whether a setup is dominated by another muscle—but sensation is not a diagnostic measurement of recruitment.
+An internal cue can be useful when a lifter is learning where an exercise should be felt, trying to reduce momentum on an isolation exercise, or deliberately shifting attention during a moderate-load set. It can also help someone notice whether a setup is dominated by another muscle, but sensation is not a diagnostic measurement of recruitment.
 
 For heavy, technical, or power-focused lifts, an external cue such as “drive the floor away” or “move the bar quickly” may make the task clearer. If thinking about a muscle makes technique or performance worse, drop the cue.
 
@@ -24,7 +24,7 @@ For heavy, technical, or power-focused lifts, an external cue such as “drive t
 
 Use the same exercise, load, range of motion, and effort for several sessions. Compare performance and the target muscle’s training response with and without the cue. Keep the cue only if it improves control or comfort without reducing useful work. Do not change several variables and then attribute a later increase in muscle size to attention alone.
 
-The fundamentals remain the same: sufficient resistance, repeatable technique, progressive work, adequate food, and recovery. A better cue is valuable because it makes those fundamentals easier to apply—not because it turns a light or poorly progressed session into a hypertrophy protocol.
+The fundamentals remain the same: sufficient resistance, repeatable technique, progressive work, adequate food, and recovery. A better cue is valuable because it makes those fundamentals easier to apply, not because it turns a light or poorly progressed session into a hypertrophy protocol.
 
 ## Bottom line
 

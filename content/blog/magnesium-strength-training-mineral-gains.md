@@ -29,7 +29,7 @@ Do not use cramps, twitching, fatigue, or poor sleep as proof of magnesium defic
 
 Magnesium can cause diarrhoea and can interfere with absorption of some medicines, including certain antibiotics and thyroid medicines. Separate doses only when a clinician or pharmacist advises the appropriate interval.
 
-There is also no good evidence that taking magnesium glycinate 30–60 minutes before bed reliably improves sleep quality for every lifter or that it increases growth hormone in a way that produces more muscle. If a product helps someone relax and is tolerated, that is a personal observation—not a universal timing rule.
+There is also no good evidence that taking magnesium glycinate 30–60 minutes before bed reliably improves sleep quality for every lifter or that it increases growth hormone in a way that produces more muscle. If a product helps someone relax and is tolerated, that is a personal observation, not a universal timing rule.
 
 ## A sensible decision
 

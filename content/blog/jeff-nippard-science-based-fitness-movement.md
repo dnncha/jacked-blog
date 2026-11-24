@@ -5,13 +5,13 @@ excerpt: "Jeff Nippard has helped popularise evidence-based lifting. Here is wha
 ---
 “Science-based fitness” is useful only when it changes how a claim is made. A creator can cite a paper and still overstate the population, confuse an acute marker with hypertrophy, or present a coaching preference as an optimisation law.
 
-Jeff Nippard's public work and programme store explicitly position his training material as evidence-based. That makes his content a useful case study—not because a creator's brand validates every recommendation, but because readers can practise separating evidence, interpretation, and marketing.
+Jeff Nippard's public work and programme store explicitly position his training material as evidence-based. That makes his content a useful case study, not because a creator's brand validates every recommendation, but because readers can practise separating evidence, interpretation, and marketing.
 
 ## What evidence-based lifting should look like
 
 For a training claim, ask:
 
-1. What outcome was measured—strength, repetitions, muscle size, soreness, a biomarker, or something else?
+1. What outcome was measured: strength, repetitions, muscle size, soreness, a biomarker, or something else?
 2. Were the participants similar to the lifter making the decision?
 3. Was the intervention long enough to answer a long-term question?
 4. Was the comparison programme credible and the volume or effort comparable?
@@ -47,7 +47,7 @@ Sets close to failure can be productive, while repeated absolute failure can add
 
 ### Exercise selection
 
-An exercise may be a good choice because it is stable, comfortable, progressive, or efficient—not because it is universally the best at isolating a muscle. Anatomy, skill, equipment, and preference remain relevant.
+An exercise may be a good choice because it is stable, comfortable, progressive, or efficient, not because it is universally the best at isolating a muscle. Anatomy, skill, equipment, and preference remain relevant.
 
 ## Commercial context and the Muscle Lab
 

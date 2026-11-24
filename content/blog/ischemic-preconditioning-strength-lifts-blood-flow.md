@@ -5,7 +5,7 @@ excerpt: "Ischemic preconditioning has mixed acute resistance-exercise evidence 
 ---
 # Ischemic Preconditioning for Lifting: An Acute Experiment, Not a Blood-Flow Hack
 
-Ischemic preconditioning (IPC) uses brief cycles of restricted blood flow and reperfusion before exercise. It has been studied in cardiovascular and performance contexts, including resistance exercise. The headline is attractive—restrict blood flow, then lift more—but the evidence is mixed, acute, and highly protocol-dependent.
+Ischemic preconditioning (IPC) uses brief cycles of restricted blood flow and reperfusion before exercise. It has been studied in cardiovascular and performance contexts, including resistance exercise. The headline is attractive (restrict blood flow, then lift more), but the evidence is mixed, acute, and highly protocol-dependent.
 
 ## What the resistance studies show
 

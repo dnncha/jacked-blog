@@ -1,6 +1,6 @@
 ---
 updatedAt: "2026-08-15"
-title: "Muscle Damage and DOMS: What Soreness Does—and Does Not—Mean"
+title: "Muscle Damage and DOMS: What Soreness Does and Does Not Mean"
 excerpt: "Delayed soreness follows unfamiliar or demanding exercise and is not a reliable score for muscle growth; learn how to interpret it and manage the next session."
 ---
 

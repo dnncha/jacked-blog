@@ -9,7 +9,7 @@ An isometric contraction produces force without visible joint movement. Paused r
 
 ## What isometric training can do
 
-A systematic review of 26 human studies found that isometric training can improve strength, neuromuscular performance, and—in some protocols—muscle hypertrophy. Training at longer muscle lengths was associated with greater hypertrophic changes than equal-volume shorter-length work, but the included studies varied and did not define one universal programme ([Oranchuk et al.](https://pubmed.ncbi.nlm.nih.gov/30580468/)).
+A systematic review of 26 human studies found that isometric training can improve strength, neuromuscular performance, and, in some protocols, muscle hypertrophy. Training at longer muscle lengths was associated with greater hypertrophic changes than equal-volume shorter-length work, but the included studies varied and did not define one universal programme ([Oranchuk et al.](https://pubmed.ncbi.nlm.nih.gov/30580468/)).
 
 Isometric strength is also angle-specific. A hold near a bench-press sticking point may improve force at that position more than it improves the whole lift. Transfer to a dynamic exercise depends on the joint angle, contraction intent, range, and whether the rest of the programme trains the actual movement.
 

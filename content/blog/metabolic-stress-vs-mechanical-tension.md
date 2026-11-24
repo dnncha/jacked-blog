@@ -29,7 +29,7 @@ Mechanical tension and fatigue interact. A lighter load may recruit more high-th
 - Use a stable exercise setup long enough to judge progression.
 - Choose a load and rep range that let you reach a challenging effort without repeated technical breakdown.
 - Use longer rests when recovery between sets is the limiting factor; use shorter rests only when the resulting performance still serves the goal.
-- Add higher-repetition work if it is comfortable, time-efficient, and easy to progress—not because it is required to “create metabolic stress.”
+- Add higher-repetition work if it is comfortable, time-efficient, and easy to progress, not because it is required to “create metabolic stress.”
 - Treat blood-flow restriction as a specialised method with pressure, cuff placement, and safety considerations; it is not a casual substitute for ordinary training.
 
 ## Bottom line

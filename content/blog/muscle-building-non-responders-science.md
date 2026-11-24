@@ -23,7 +23,7 @@ Use the same time of day, hydration state, tape placement, lighting, pose, and t
 
 ### 2. Check whether the programme is progressive
 
-Record load, repetitions, sets, range, and effort. If the target exercise has not improved and the technique is inconsistent, the training stimulus may not be stable enough to judge. Progress can mean an extra repetition, more load at the same repetitions, more controlled range, or a better-tolerated exercise—not only a heavier bar.
+Record load, repetitions, sets, range, and effort. If the target exercise has not improved and the technique is inconsistent, the training stimulus may not be stable enough to judge. Progress can mean an extra repetition, more load at the same repetitions, more controlled range, or a better-tolerated exercise, not only a heavier bar.
 
 ### 3. Check effort and volume
 

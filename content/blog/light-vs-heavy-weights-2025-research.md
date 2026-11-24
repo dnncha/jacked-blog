@@ -48,7 +48,7 @@ There is no need to run a fixed four-week heavy phase followed by a fixed four-w
 
 ## Bottom line
 
-Light and heavy loads can both support muscle growth when the sets and programme are appropriate. Heavier loads remain especially useful for maximal strength and skill. Choose the load that lets you train the target, repeat the movement, and recover from the week—not the load that wins an online argument.
+Light and heavy loads can both support muscle growth when the sets and programme are appropriate. Heavier loads remain especially useful for maximal strength and skill. Choose the load that lets you train the target, repeat the movement, and recover from the week, not the load that wins an online argument.
 
 ## Related reading
 

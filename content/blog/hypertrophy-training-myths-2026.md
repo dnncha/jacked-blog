@@ -37,7 +37,7 @@ Leave repetitions in reserve when doing so preserves technique, lowers unnecessa
 
 ## Myth 6: Compound and isolation exercises are opposites
 
-Both can build muscle. Compounds train several joints and muscles efficiently; isolation exercises can add targeted work with less whole-body coordination. Exercise choice should reflect the target, equipment, skill, comfort, and the amount of fatigue you can recover from—not a loyalty test.
+Both can build muscle. Compounds train several joints and muscles efficiently; isolation exercises can add targeted work with less whole-body coordination. Exercise choice should reflect the target, equipment, skill, comfort, and the amount of fatigue you can recover from, not a loyalty test.
 
 ## Myth 7: Lengthened partials are automatically superior
 

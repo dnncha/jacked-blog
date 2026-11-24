@@ -37,7 +37,7 @@ Pressing, rowing, squatting, and pulling can all contribute to several muscles. 
 
 A short plan can still require focus and progression. Two or three well-chosen sessions may be enough for a person to build strength or muscle, especially when the alternative is an ambitious plan that is missed. But “minimum” should not become an excuse to stop progressing, avoid challenging work, or keep adding fatigue techniques to make a tiny session feel harder.
 
-## When less is more—and when it is not
+## When less is more, and when it is not
 
 Less work can be appropriate during a busy period, a deload, a calorie deficit, or a return from illness. A low-dose plan can also be a useful maintenance bridge. It is less likely to maximise hypertrophy when a lifter has already adapted to the dose and has room to recover from more work. The answer should come from the trend in performance and body measurements, not from a slogan.
 
@@ -52,7 +52,7 @@ This is not a promise that four weeks reveals the full hypertrophy response. It 
 
 ## Bottom line
 
-The minimum effective dose is personal and changes over time. Start with recoverable challenging work, progress it when the evidence from your own training supports that move, and reduce it when fatigue masks performance. Research supports a dose-response with diminishing returns—not a fixed set count, a guaranteed “sweet spot,” or a universal maximum.
+The minimum effective dose is personal and changes over time. Start with recoverable challenging work, progress it when the evidence from your own training supports that move, and reduce it when fatigue masks performance. Research supports a dose-response with diminishing returns, not a fixed set count, a guaranteed “sweet spot,” or a universal maximum.
 
 ## Related reading
 

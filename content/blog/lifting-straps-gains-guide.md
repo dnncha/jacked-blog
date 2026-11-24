@@ -33,7 +33,7 @@ They also do not mean grip training disappears. If grip strength or hand enduran
 ## A practical setup
 
 1. Warm up and perform early technical work strapless when grip practice matters.
-2. Add straps when grip—not the target muscle—is clearly limiting the planned work.
+2. Add straps when grip, not the target muscle, is clearly limiting the planned work.
 3. Use the lightest, safest setup that lets you keep the intended range and technique.
 4. Record whether straps changed repetitions, load, target-muscle effort, or next-session recovery.
 5. Reassess if the strap causes wrist discomfort, a release problem, or the target muscle still is not the limiting factor.
