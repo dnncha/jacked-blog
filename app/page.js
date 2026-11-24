@@ -2,7 +2,7 @@ import HomeClient from './page.client'
 
 export const metadata = {
   title: 'Surpass: Progressive Overload Gym Log',
-  description: 'Surpass is an iPhone gym log with next-set targets beside last time, live all-time PR alerts, and no account. Free logging, routines, and CSV import from Hevy, Strong, and FitNotes.',
+  description: 'Surpass is an iPhone gym log with live all-time PR alerts and no account. Free logging, routines, and CSV import from Hevy, Strong, and FitNotes. Surpass Pro adds next-set targets beside last time.',
   alternates: {
     canonical: 'https://jacked.coach/',
   },
@@ -15,7 +15,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Surpass: Gym Log with Next-Set Targets',
-    description: 'Next-set targets, live PR alerts, and on-device workout history. Free on iPhone.',
+    description: 'Free iPhone gym log with live PR alerts and on-device workout history. Surpass Pro adds next-set targets.',
     images: ['/og-image.png'],
   },
 }

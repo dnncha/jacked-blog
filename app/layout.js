@@ -8,7 +8,7 @@ export const metadata = {
     default: 'Surpass: Progressive Overload Gym Log',
     template: '%s | Surpass'
   },
-  description: 'Surpass is an iPhone gym log with next-set targets beside last time, live all-time PR alerts, and no account. Import workouts from Hevy, Strong, or FitNotes.',
+  description: 'Surpass is an iPhone gym log with live all-time PR alerts and no account. Surpass Pro adds next-set targets beside last time. Import workouts from Hevy, Strong, or FitNotes.',
   keywords: ['progressive overload app', 'gym workout tracker', 'next set targets', 'workout log', 'Hevy alternative', 'Strong alternative', '1RM calculator', 'plate calculator'],
   authors: [{ name: 'Surpass' }],
   creator: 'Surpass',
@@ -201,7 +201,7 @@ export default function RootLayout({ children }) {
           alternateName: ['Surpass', 'Surpass: Progressive Overload'],
           operatingSystem: 'iOS 17 or later',
           applicationCategory: 'HealthApplication',
-          description: 'iPhone gym log with per-set next-set targets beside last time, live all-time PR alerts, and on-device workout history. No account required.',
+          description: 'iPhone gym log with live all-time PR alerts and on-device workout history. Surpass Pro adds per-set next-set targets beside last time. No account required.',
           offers: {
             '@type': 'Offer',
             price: '0',
@@ -212,7 +212,7 @@ export default function RootLayout({ children }) {
           downloadUrl: 'https://apps.apple.com/app/id6757132605',
           installUrl: 'https://apps.apple.com/app/id6757132605',
           featureList: [
-            'Next-set targets beside last time',
+            'Surpass Pro next-set targets beside last time',
             'Live all-time personal record alerts',
             'One-tap PR sharing',
             'Big weight keypad',

@@ -154,3 +154,12 @@ for (const phrase of ['iphone only', 'iphone-only', 'never seen before', 'guaran
 }
 
 console.log('homepage product truth tests passed')
+
+assert.ok(publicCopy.includes('Next-set targets are part of Surpass Pro'), 'homepage FAQ must say next-set targets are Surpass Pro, as SurpassCapability.progressionGuidance requires')
+for (const phrase of [
+  'Surpass shows last time, a next-set target, and an all-time PR alert',
+  "title: 'Start with targets'",
+  'next-set targets beside last time, live all-time PR alerts, and no account',
+]) {
+  assert.ok(!publicCopy.includes(phrase), `homepage must not present Pro next-set targets as free: ${phrase}`)
+}
