@@ -22,7 +22,7 @@ No recovery technology compensates reliably for chronic under-eating, repeated s
 
 ### Foam rolling and massage
 
-Foam rolling may reduce perceived soreness and can temporarily change range of motion. A 2024 systematic review found a possible soreness benefit, while an acute review found uncertain effects on tissue stiffness and most strength outcomes. That supports using it as a comfort or warm-up tool—not as a hypertrophy treatment or injury-prevention guarantee. [Soreness review.](https://pubmed.ncbi.nlm.nih.gov/39593540/) [Acute effects review.](https://pubmed.ncbi.nlm.nih.gov/36227232/)
+Foam rolling may reduce perceived soreness and can temporarily change range of motion. A 2024 systematic review found a possible soreness benefit, while an acute review found uncertain effects on tissue stiffness and most strength outcomes. That supports using it as a comfort or warm-up tool, not as a hypertrophy treatment or injury-prevention guarantee. [Soreness review.](https://pubmed.ncbi.nlm.nih.gov/39593540/) [Acute effects review.](https://pubmed.ncbi.nlm.nih.gov/36227232/)
 
 ### Vibration
 
@@ -52,7 +52,7 @@ Stop and seek advice for chest symptoms, faintness, neurological symptoms, worse
 
 ## Bottom line
 
-Recovery technologies can be useful adjuncts for comfort or a specific logistical problem, but they are not substitutes for sleep, food, and a recoverable programme. Evaluate the tool by the training or health outcome it changes—not by a dramatic feeling, biomarker, or marketing promise.
+Recovery technologies can be useful adjuncts for comfort or a specific logistical problem, but they are not substitutes for sleep, food, and a recoverable programme. Evaluate the tool by the training or health outcome it changes, not by a dramatic feeling, biomarker, or marketing promise.
 
 ## Related reading
 

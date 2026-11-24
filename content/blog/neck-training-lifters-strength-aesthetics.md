@@ -5,7 +5,7 @@ excerpt: "Specific neck resistance work can improve neck strength and may add si
 ---
 # Neck Training for Lifters: A Conservative Evidence-Based Guide
 
-The neck can be trained, but it is not a muscle group to load casually. The cervical spine, nerves, joints, and surrounding tissues are close together, and the goal of a gym exercise should be controlled strength and tolerance—not a dramatic “bull neck” promise.
+The neck can be trained, but it is not a muscle group to load casually. The cervical spine, nerves, joints, and surrounding tissues are close together, and the goal of a gym exercise should be controlled strength and tolerance, not a dramatic “bull neck” promise.
 
 ## What the research actually shows
 
@@ -34,7 +34,7 @@ Healthy adults who want to try direct neck work can begin with low-load, pain-fr
 4. Hold briefly, breathe normally, and stop well before shaking or pain.
 5. Train only a few directions at first and allow recovery before adding work.
 
-Manual resistance is easier to control than a weighted plate or harness. If it feels good for several sessions, progress one variable—hold time, repetitions, or a small amount of external resistance—while keeping the head and neck in a comfortable range. There is no need to start with a fixed 10–15 lb load or to use rapid flexion and extension.
+Manual resistance is easier to control than a weighted plate or harness. If it feels good for several sessions, progress one variable (hold time, repetitions, or a small amount of external resistance) while keeping the head and neck in a comfortable range. There is no need to start with a fixed 10–15 lb load or to use rapid flexion and extension.
 
 ## Programming and safety
 
@@ -42,7 +42,7 @@ Place direct neck work after the main lifts so fatigue does not change the posit
 
 Avoid ballistic circles, forced end-range stretching, heavy bridging, and training through sharp pain. A harness should be used only when the person understands the setup and can keep the movement controlled. Stop for radiating symptoms, unusual headache, visual change, dizziness, or loss of strength.
 
-The upper trapezius and upper back already receive substantial work from carries, rows, deadlifts, and shrugs. Direct cervical work should complement—not replace—good technique and a complete programme.
+The upper trapezius and upper back already receive substantial work from carries, rows, deadlifts, and shrugs. Direct cervical work should complement, not replace, good technique and a complete programme.
 
 ## Bottom line
 

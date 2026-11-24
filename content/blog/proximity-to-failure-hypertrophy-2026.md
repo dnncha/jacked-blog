@@ -39,9 +39,9 @@ Training nearer to failure is often a sensible way to ensure a hypertrophy set i
 
 ### Sources
 
-- [Meta-regression of estimated resistance-training proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/) — evidence for a proximity-to-failure relationship with important estimation and heterogeneity limits.
-- [Resistance training to failure versus non-failure](https://pubmed.ncbi.nlm.nih.gov/38970765/) — context for why failure is not automatically required.
-- [Low- versus high-load resistance training and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/33874848/) — context for load selection and the difference between strength and hypertrophy outcomes.
+- [Meta-regression of estimated resistance-training proximity to failure](https://pubmed.ncbi.nlm.nih.gov/40791980/): evidence for a proximity-to-failure relationship with important estimation and heterogeneity limits.
+- [Resistance training to failure versus non-failure](https://pubmed.ncbi.nlm.nih.gov/38970765/): context for why failure is not automatically required.
+- [Low- versus high-load resistance training and hypertrophy](https://pubmed.ncbi.nlm.nih.gov/33874848/): context for load selection and the difference between strength and hypertrophy outcomes.
 
 ## Related reading
 

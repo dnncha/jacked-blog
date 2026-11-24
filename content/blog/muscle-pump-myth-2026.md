@@ -3,9 +3,9 @@ updatedAt: "2026-08-15"
 title: "The Muscle Pump Myth: What Science Actually Says"
 excerpt: "That satisfying pump you feel after a workout might feel like growth, but 2025 research says it's not driving hypertrophy. Here's what the science actually shows."
 ---
-You've felt it—that swollen, full sensation after a hard set where your muscles look bigger, feel tighter, and you swear you added a centimeter to your arms. Bodybuilders have chased "the pump" for decades. Instagram is flooded with posts about chasing that feeling. Supplements are marketed specifically to enhance it.
+You've felt it: that swollen, full sensation after a hard set where your muscles look bigger, feel tighter, and you swear you added a centimeter to your arms. Bodybuilders have chased "the pump" for decades. Instagram is flooded with posts about chasing that feeling. Supplements are marketed specifically to enhance it.
 
-But what if I told you that satisfying pump—the cell swelling, the metabolic metabolite accumulation—might not actually be driving your muscle growth at all?
+But what if I told you that satisfying pump (the cell swelling, the metabolic metabolite accumulation) might not actually be driving your muscle growth at all?
 
 A 2025 review in the *Journal of Sport and Health Science* examined popular claims about the pump. The review is useful context, but a pump is neither a guaranteed growth signal nor proof that it has no relevance to the work performed.
 
@@ -13,7 +13,7 @@ A 2025 review in the *Journal of Sport and Health Science* examined popular clai
 
 First, let's establish what researchers actually believe drives hypertrophy. The consensus is clear: **mechanical tension** is the primary driver.
 
-When you lift weights, you create tension in your muscle fibers through force production. This tension triggers a cascade of molecular events—primarily involving mTOR pathway activation—that leads to muscle protein synthesis and, eventually, growth.
+When you lift weights, you create tension in your muscle fibers through force production. This tension triggers a cascade of molecular events, primarily involving mTOR pathway activation, that leads to muscle protein synthesis and, eventually, growth.
 
 This isn't controversial. Every major review on muscle hypertrophy points to mechanical tension as the key stimulus.
 
@@ -21,7 +21,7 @@ This isn't controversial. Every major review on muscle hypertrophy points to mec
 
 The pump occurs when blood flow to your muscles increases significantly during exercise, causing fluid (plasma and interstitial fluid) to accumulate within the muscle tissue. This is called **cell swelling**.
 
-Alongside this swelling, you get metabolite accumulation—lactate, hydrogen ions, inorganic phosphate, and other byproducts of muscular work.
+Alongside this swelling, you get metabolite accumulation: lactate, hydrogen ions, inorganic phosphate, and other byproducts of muscular work.
 
 For years, the theory was that these factors contributed to hypertrophy through:
 - Stretching cell membranes (mechanotransduction)
@@ -38,9 +38,9 @@ The November 2025 paper "Load-induced human skeletal muscle hypertrophy: Mechani
 
 That's as clear as it gets.
 
-The researchers note these factors are *correlational* at best—you get a pump during hypertrophy-focused training, but that doesn't mean the pump *causes* the growth. The relationship is likely incidental: both occur during high-volume training, but only one (mechanical tension) is actually driving results.
+The researchers note these factors are *correlational* at best. You get a pump during hypertrophy-focused training, but that doesn't mean the pump *causes* the growth. The relationship is likely incidental: both occur during high-volume training, but only one (mechanical tension) is actually driving results.
 
-## But Wait—Doesn't the Pump Feel Good?
+## But Wait: Doesn't the Pump Feel Good?
 
 Absolutely. And that's not nothing.
 
@@ -78,13 +78,13 @@ The pump? It's a nice side effect. A reward for hard work. But not the mechanism
 - Include a variety of rep ranges: Both heavy (3-8) and moderate (8-15) ranges build muscle effectively
 - Train with intent: Mind-muscle connection may help with fiber recruitment, but don't confuse the feeling of a pump with the stimulus for growth
 
-**Enjoy the pump anyway.** There's nothing wrong with appreciating the temporary fullness. Just don't mistake the sensation for progress. Track your long-term metrics—strength gains, measurements, photos—rather than how puffy your muscles feel post-workout.
+**Enjoy the pump anyway.** There's nothing wrong with appreciating the temporary fullness. Just don't mistake the sensation for progress. Track your long-term metrics (strength gains, measurements, photos) rather than how puffy your muscles feel post-workout.
 
 ## The Bottom Line
 
 The muscle pump is a relic of bodybuilding mythology, stubbornly persistent despite lacking scientific support. The 2025 evidence is clear: cell swelling and metabolite accumulation don't meaningfully contribute to hypertrophy.
 
-Chase mechanical tension. Eat enough protein. Sleep well. The pump will come as a byproduct—and that's exactly what it should be.
+Chase mechanical tension. Eat enough protein. Sleep well. The pump will come as a byproduct, and that's exactly what it should be.
 
 ---
 

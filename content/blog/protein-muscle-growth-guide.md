@@ -23,7 +23,7 @@ That is roughly 128–176 g for an 80 kg lifter. The right point depends on body
 
 ## Protein timing
 
-The “anabolic window”—eat within 30 minutes or lose your gains—is overstated. Total daily intake matters more. Spread protein across meals because it helps you reach the target and supports a sustainable eating pattern, not because a missed stopwatch window erases progress.
+The “anabolic window” (eat within 30 minutes or lose your gains) is overstated. Total daily intake matters more. Spread protein across meals because it helps you reach the target and supports a sustainable eating pattern, not because a missed stopwatch window erases progress.
 
 ## Protein sources
 

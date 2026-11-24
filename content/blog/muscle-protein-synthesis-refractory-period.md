@@ -4,7 +4,7 @@ title: "The MPS Refractory Period: Why the 3–4 Hour Rule Is Not a Law"
 excerpt: "Muscle protein synthesis responds to protein and training, but human studies do not justify a universal 3–4 hour timer or a fixed protein ceiling for every meal."
 ---
 
-The phrase “muscle protein synthesis refractory period” is often used to describe the time after a protein meal or workout when muscle protein synthesis (MPS) is thought to be less responsive to another stimulus. It is a useful hypothesis for discussing meal spacing, but the popular version—a precise 3–4 hour timer after a fixed 20–25 g dose—is stronger than the human evidence allows.
+The phrase “muscle protein synthesis refractory period” is often used to describe the time after a protein meal or workout when muscle protein synthesis (MPS) is thought to be less responsive to another stimulus. It is a useful hypothesis for discussing meal spacing, but the popular version (a precise 3–4 hour timer after a fixed 20–25 g dose) is stronger than the human evidence allows.
 
 ## What the acute studies actually measure
 
@@ -32,7 +32,7 @@ Training the same muscle twice in one day is a separate programming question. MP
 
 ## Bottom line
 
-Protein and resistance exercise create repeated opportunities for MPS, but the refractory period is not a universal timer. Distribute enough daily protein across meals you can sustain, keep the exercise and diet consistent, and judge success by long-term strength, lean tissue, recovery, and adherence—not by counting perfectly spaced “pulses.”
+Protein and resistance exercise create repeated opportunities for MPS, but the refractory period is not a universal timer. Distribute enough daily protein across meals you can sustain, keep the exercise and diet consistent, and judge success by long-term strength, lean tissue, recovery, and adherence, not by counting perfectly spaced “pulses.”
 
 ### Sources
 

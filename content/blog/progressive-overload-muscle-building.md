@@ -2,7 +2,7 @@
 updatedAt: "2026-08-15"
 title: "Progressive Overload: How to Progress Without Guessing"
 date: "2026-03-04"
-excerpt: "Every muscle building program relies on progressive overload. Here's how to apply it correctly — and why most people get it wrong."
+excerpt: "Every muscle building program relies on progressive overload. Here's how to apply it correctly, and why most people get it wrong."
 ---
 Progressive overload is one important part of muscle gain, but it is not the only part. Exercise selection, effort, nutrition, recovery, and consistency determine whether an increase is useful and repeatable.
 
@@ -10,7 +10,7 @@ But here's the problem: most people understand progressive overload incorrectly.
 
 ## What Progressive Overload Actually Means
 
-Progressive overload means gradually increasing a training demand over time while keeping the comparison meaningful. The demand can increase through load, reps, sets, technique, range of motion, or a better-tolerated exercise—not all at once.
+Progressive overload means gradually increasing a training demand over time while keeping the comparison meaningful. The demand can increase through load, reps, sets, technique, range of motion, or a better-tolerated exercise, not all at once.
 
 This can happen through:
 

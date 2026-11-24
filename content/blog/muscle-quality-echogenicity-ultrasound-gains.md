@@ -60,7 +60,7 @@ Progressive resistance training can improve strength and function even when a sh
 
 ## The bottom line
 
-Ultrasound echo intensity can help researchers and clinicians study muscle composition and function, particularly in ageing and disease. For lifters, it is a promising but technically sensitive measure—not a simple score for gains. Judge the training by repeatable performance, function, size, symptoms, and recovery, and treat ultrasound as context rather than a verdict.
+Ultrasound echo intensity can help researchers and clinicians study muscle composition and function, particularly in ageing and disease. For lifters, it is a promising but technically sensitive measure, not a simple score for gains. Judge the training by repeatable performance, function, size, symptoms, and recovery, and treat ultrasound as context rather than a verdict.
 
 ## Related reading
 

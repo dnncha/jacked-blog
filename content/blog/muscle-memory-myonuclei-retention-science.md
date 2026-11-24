@@ -46,11 +46,11 @@ Record load, repetitions, effort, pain, soreness, body-mass trend, and the time 
 
 ## Planned breaks and deloads
 
-A short deload is not the same experiment as months of detraining. A reduction in volume can preserve training momentum while easing fatigue, but it should be chosen for programme and recovery reasons—not because a study of prolonged inactivity proves that breaks improve hypertrophy. If life requires a longer break, maintaining safe movement where possible may help, but pain or medical restrictions take priority.
+A short deload is not the same experiment as months of detraining. A reduction in volume can preserve training momentum while easing fatigue, but it should be chosen for programme and recovery reasons, not because a study of prolonged inactivity proves that breaks improve hypertrophy. If life requires a longer break, maintaining safe movement where possible may help, but pain or medical restrictions take priority.
 
 ## Bottom line
 
-Muscle memory is a useful description of faster-feeling retraining, not a single proven mechanism with a fixed timeline. Previous skill, retained adaptations, and biological changes may all contribute. Return gradually, measure repeated performance and tolerance, and treat myonuclear or epigenetic explanations as interesting evidence—not as a guarantee that lost muscle will return on schedule.
+Muscle memory is a useful description of faster-feeling retraining, not a single proven mechanism with a fixed timeline. Previous skill, retained adaptations, and biological changes may all contribute. Return gradually, measure repeated performance and tolerance, and treat myonuclear or epigenetic explanations as interesting evidence, not as a guarantee that lost muscle will return on schedule.
 
 ## Related reading
 

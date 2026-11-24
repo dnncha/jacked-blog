@@ -14,7 +14,7 @@ The same caution applies to counting sets. A set for a primary muscle and an ind
 
 ## Why later sets can become less useful
 
-As fatigue accumulates, repetitions may slow, technique may change, and the target muscle may no longer be the main limiter. That is a reason to review a session—not proof that every set after a particular number is harmful. A split can make sense when it preserves performance or lets a muscle be trained more often with better-quality work.
+As fatigue accumulates, repetitions may slow, technique may change, and the target muscle may no longer be the main limiter. That is a reason to review a session, not proof that every set after a particular number is harmful. A split can make sense when it preserves performance or lets a muscle be trained more often with better-quality work.
 
 ## How to choose a starting volume
 

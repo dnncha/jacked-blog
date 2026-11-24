@@ -7,7 +7,7 @@ Rear-delt work can add shoulder balance and useful upper-back variety, but it is
 
 ## Why Rear Delts Matter
 
-Your shoulder has three heads of the deltoid: anterior (front), lateral (side), and posterior (rear). Most pressing movements—the bench press, overhead press, push-ups—hammer the anterior and lateral heads. Without dedicated rear delt work, you develop what's commonly called " APT shoulder" or anterior dominance.
+Your shoulder has three heads of the deltoid: anterior (front), lateral (side), and posterior (rear). Most pressing movements (the bench press, overhead press, push-ups) hammer the anterior and lateral heads. Without dedicated rear delt work, you develop what's commonly called " APT shoulder" or anterior dominance.
 
 ### The Functional Problems
 
@@ -19,11 +19,11 @@ Rear delts do more than look good:
 
 ### The Aesthetic Problem
 
-From the side or behind, underdeveloped rear delts make your shoulders look flat. Well-developed posterior delts create the "capped" appearance visible from any angle—the three-dimensional look that photographers and judges notice immediately.
+From the side or behind, underdeveloped rear delts make your shoulders look flat. Well-developed posterior delts create the "capped" appearance visible from any angle: the three-dimensional look that photographers and judges notice immediately.
 
 ## The Science of Rear Delt Development
 
-Research shows rear delts respond similarly to other muscles—they need mechanical tension through a full range of motion. However, they're at a mechanical disadvantage compared to pressing movements, which is why they lag behind.
+Research shows rear delts respond similarly to other muscles: they need mechanical tension through a full range of motion. However, they're at a mechanical disadvantage compared to pressing movements, which is why they lag behind.
 
 ### Muscle Architecture
 
@@ -47,7 +47,7 @@ The face pull is your rear delt foundation. Use a rope attachment set at eye lev
 - Pull toward your forehead, not your chest
 - Externally rotate at the end (thumbs up)
 - Squeeze at the peak for one second
-- Control the negative—don't just let the weight pull you back
+- Control the negative. Don't just let the weight pull you back
 
 **Progression:** Once you hit 25 clean reps, add a 2-second pause at the stretch position (arms extended forward).
 
@@ -65,7 +65,7 @@ Bent-over or chest-supported reverse flyes target rear delts directly.
 - Squeeze shoulder blades together at the top
 - Use a slight forward lean to increase the stretch
 
-**Weight selection:** Go lighter than you think. The rear delt is a small muscle— Ego lifting here just shifts the work to your upper back.
+**Weight selection:** Go lighter than you think. The rear delt is a small muscle. Ego lifting here just shifts the work to your upper back.
 
 ### Movement 3: Cable Rear Delt Pulls (Isolation)
 
@@ -93,11 +93,11 @@ Use a light resistance band at the end of your shoulder workout or as part of yo
 - Arms straight, thumbs pointing up
 - Pull apart until the band touches your chest
 - Lead with your elbows, not your hands
-- Keep tension constant—don't let the band go slack
+- Keep tension constant. Don't let the band go slack
 
 ## Common Mistakes
 
-1. **Going too heavy** - Rear delts are small muscles. Heavy rowing movements already work your upper back—rear delt isolation should be light and controlled.
+1. **Going too heavy** - Rear delts are small muscles. Heavy rowing movements already work your upper back, so rear delt isolation should be light and controlled.
 
 2. **Poor range of motion** - Many people stop halfway through the movement. Get a full stretch at the bottom and full contraction at the top.
 
@@ -129,7 +129,7 @@ Friday: Upper Body
 
 ## The Bottom Line
 
-Rear delt development can improve shoulder balance and appearance, but no exercise guarantees a change by a fixed week. Give a simple plan enough time to assess, record the work, and stop or seek help if pain—not ordinary effort—drives the session.
+Rear delt development can improve shoulder balance and appearance, but no exercise guarantees a change by a fixed week. Give a simple plan enough time to assess, record the work, and stop or seek help if pain (not ordinary effort) drives the session.
 
 The best part? You don't need heavy weights. You need consistent effort and proper technique.
 

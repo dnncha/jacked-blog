@@ -6,7 +6,7 @@ excerpt: "Why progress stalls, how to separate fatigue from a programming proble
 ---
 Six months ago you added 10lbs to your bench. Now you're stuck at the same weight for weeks.
 
-Welcome to the plateau. Here's why it happens — and how to break through.
+Welcome to the plateau. Here's why it happens, and how to break through.
 
 ## Why You Plateau
 
@@ -68,7 +68,7 @@ Before adding exercises or doubling volume, check four questions:
 1. **Is the plateau real?** Compare several exposures to the same movement, not one bad session. Account for a different bar, machine, range of motion, or rest period.
 2. **Is effort consistent?** A load that looks unchanged may still be progressing if technique, reps, or RIR have improved.
 3. **Is fatigue hiding performance?** If several lifts decline, reduce stress briefly before adding more stimulus.
-4. **Is the target measurable?** Choose one progression variable—reps, load, sets, or execution quality—so you can tell what changed.
+4. **Is the target measurable?** Choose one progression variable (reps, load, sets, or execution quality) so you can tell what changed.
 
 Make one adjustment, keep the rest of the plan stable for a few weeks, and review the trend. A good training log makes that experiment possible.
 

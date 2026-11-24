@@ -5,7 +5,7 @@ excerpt: "A small 2024 meta-analysis found a strength signal when omega-3 supple
 ---
 # Omega-3s and Muscle Growth: Strength Signals, Not a Hypertrophy Shortcut
 
-Omega-3 fatty acids—especially EPA and DHA—are relevant to general nutrition and cardiovascular health. Whether fish-oil supplements build more muscle is a narrower question, and the evidence is much less settled than supplement marketing suggests.
+Omega-3 fatty acids, especially EPA and DHA, are relevant to general nutrition and cardiovascular health. Whether fish-oil supplements build more muscle is a narrower question, and the evidence is much less settled than supplement marketing suggests.
 
 ## What the best direct review found
 
@@ -28,15 +28,15 @@ Older-adult studies and studies of people with health or nutritional problems ma
 
 ## Bottom line
 
-Omega-3s may have a modest, context-dependent role in strength or function, but the direct resistance-training evidence does not show a reliable increase in muscle mass. Treat fish oil as a nutrition or medical decision—not as a replacement for progressive training, protein, sleep, or calories.
+Omega-3s may have a modest, context-dependent role in strength or function, but the direct resistance-training evidence does not show a reliable increase in muscle mass. Treat fish oil as a nutrition or medical decision, not as a replacement for progressive training, protein, sleep, or calories.
 
 ## Evidence
 
 ### Sources
 
-- [Uchida et al., omega-3 supplementation plus resistance training](https://pubmed.ncbi.nlm.nih.gov/38777432/) — 2024 systematic review and meta-analysis of four studies.
-- [Omega-3 fatty acids and muscle mass, strength, and performance in older adults](https://pubmed.ncbi.nlm.nih.gov/36811583/) — context for the older-adult evidence base.
-- [NIH Office of Dietary Supplements: Omega-3 Fatty Acids](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/) — safety and intake context.
+- [Uchida et al., omega-3 supplementation plus resistance training](https://pubmed.ncbi.nlm.nih.gov/38777432/): 2024 systematic review and meta-analysis of four studies.
+- [Omega-3 fatty acids and muscle mass, strength, and performance in older adults](https://pubmed.ncbi.nlm.nih.gov/36811583/): context for the older-adult evidence base.
+- [NIH Office of Dietary Supplements: Omega-3 Fatty Acids](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/): safety and intake context.
 
 ## Related reading
 
